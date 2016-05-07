@@ -48,13 +48,11 @@ Please **[improve](http://www.firstwiki.net/index.php?title=188&action=edit
   * 8 Mentors  
 ---  
   
-[[edit](/index.php?title=188&action=edit&section=1 "Edit section: Slogan" )]
 
 ## Slogan
 
 The Force from the North!
 
-[[edit](/index.php?title=188&action=edit&section=2 "Edit section: Identity" )]
 
 ## Identity
 
@@ -71,7 +69,6 @@ well-known throughout the FIRST community.
 For more information, please visit our [website](http://www.team188.com/
 "http://www.team188.com/" )!
 
-[[edit](/index.php?title=188&action=edit&section=3 "Edit section: History" )]
 
 ## History
 
@@ -118,7 +115,6 @@ is, but only now, the stakes are higher.
 
 We await another tough challenge and are excited to tackle it... by Force.
 
-[[edit](/index.php?title=188&action=edit&section=4 "Edit section: Projects" )]
 
 ## Projects
 
@@ -126,7 +122,6 @@ We await another tough challenge and are excited to tackle it... by Force.
   * FIRST Canadian Regional 
   * Ask188 
 
-[[edit](/index.php?title=188&action=edit&section=5 "Edit section: Robots" )]
 
 ## Robots
 
@@ -180,7 +175,6 @@ formats" ) for more help.
   * 2001 Great Lakes Regional Judges' Award 
   * 1998 Nationals Judges' Award (as _Team Canada Robotics_) 
 
-[[edit](/index.php?title=188&action=edit&section=7 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -197,7 +191,6 @@ formats" ) for more help.
   * ATI 
   * O5 Image Engineering 
 
-[[edit](/index.php?title=188&action=edit&section=8 "Edit section: Mentors" )]
 
 ## Mentors
 

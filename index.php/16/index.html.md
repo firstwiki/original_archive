@@ -43,7 +43,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc16
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=16&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -103,7 +102,6 @@ projects" )]
   * Community Outreach 
   * Web Site 
 
-[[edit](/index.php?title=16&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -184,7 +182,6 @@ formats" ) for more help.
   * CowTown ThrowDown Champion - 2010 
   * World Champions - 2012 
 
-[[edit](/index.php?title=16&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -198,7 +195,6 @@ formats" ) for more help.
 
 ## Members List
 
-[[edit](/index.php?title=16&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -227,7 +223,6 @@ formats" ) for more help.
   * Wolf, Chloe 
   * Wynne, Ali 
 
-[[edit](/index.php?title=16&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

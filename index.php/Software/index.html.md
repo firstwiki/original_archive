@@ -31,7 +31,6 @@ Animation" )]
   * [Discreet 3ds Max](/index.php/3ds_max "3ds max" )
   * [Blender 3d](/index.php/Blender_3d "Blender 3d" )
 
-[[edit](/index.php?title=Software&action=edit&section=3 "Edit section: CAD" )]
 
 ## CAD
 

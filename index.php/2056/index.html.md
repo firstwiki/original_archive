@@ -54,7 +54,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2056
   * 8 News Clips  
 ---  
   
-[[edit](/index.php?title=2056&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -129,7 +128,6 @@ Season" )]
 
 -Regionals- 
 
-[[edit](/index.php?title=2056&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 

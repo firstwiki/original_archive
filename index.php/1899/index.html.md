@@ -37,7 +37,6 @@ School District, located in Bellevue, Washington, USA. Their motto is
     * 3.2 Mentors  
 ---  
   
-[[edit](/index.php?title=1899&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -102,7 +101,6 @@ multiple ramps and hung up multiple ringers. They ended up placing 39th.
 The team has commenced operations early in the school year in an effort to
 acquire funding and other resources before the build season.
 
-[[edit](/index.php?title=1899&action=edit&section=5 "Edit section: Robots" )]
 
 ## Robots
 
@@ -127,7 +125,6 @@ acquire funding and other resources before the build season.
   * Public Relations - Olivier Fontenelle 
   * Programming - Ankur Dave 
 
-[[edit](/index.php?title=1899&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

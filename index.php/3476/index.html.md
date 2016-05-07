@@ -47,7 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc3476
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=3476&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -74,7 +73,6 @@ Sunday, Code Orange was the #1 pick by the #1 seed, rookie team 4161. The
 first-year and second-year duo soon joined third-year team 3255, to formulate
 the championship alliance that went undefeated in the elimination matches.
 
-[[edit](/index.php?title=3476&action=edit&section=2 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -194,11 +192,9 @@ List" )]
 
 ###  Students
 
-[[edit](/index.php?title=3476&action=edit&section=7 "Edit section: Alumni" )]
 
 ###  Alumni
 
-[[edit](/index.php?title=3476&action=edit&section=8 "Edit section: Mentors" )]
 
 ###  Mentors
 

@@ -316,7 +316,6 @@ e-mail, nor reason. "
 
 Related articles:
 
-  *   *   * [[edit](/index.php?title=User:W041tursh&action=edit&section=3 "Edit section: labor department" )]
 
 ##  labor department
 

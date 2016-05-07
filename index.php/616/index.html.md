@@ -36,7 +36,6 @@ Team Website: | ?
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=616&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -45,7 +44,6 @@ projects" )]
 
 ## Team projects
 
-  * [[edit](/index.php?title=616&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -56,7 +54,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=616&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -67,17 +64,14 @@ List" )]
 
 ...
 
-[[edit](/index.php?title=616&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
 ...
 
-[[edit](/index.php?title=616&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
-  * [[edit](/index.php?title=616&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

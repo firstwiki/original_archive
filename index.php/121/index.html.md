@@ -43,7 +43,6 @@ Team Website: | <http://www.rhodewarrior.org>
     * 5.2 Adults - Alumni, Engineers, Parents, &amp; Volunteers  
 ---  
   
-[[edit](/index.php?title=121&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -56,7 +55,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=121&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -84,7 +82,6 @@ Accomplishments" )]
   * Battlecry 6 Engineering Excellence Award (Judge's Award) 
   * Battlecry 6 Awesome Offense Award (People's Choice) 
 
-[[edit](/index.php?title=121&action=edit&section=5 "Edit section: Partners" )]
 
 ## Partners
 
@@ -101,7 +98,6 @@ X*Middletown High School (1996)
 
   
 
-[[edit](/index.php?title=121&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 

@@ -59,7 +59,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=296
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=296&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -72,7 +71,6 @@ Projects" )]
 
   * Sundial pit clock service provided to all teams at various regionals and the championship event. 
 
-[[edit](/index.php?title=296&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -90,20 +88,17 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=296&action=edit&section=5 "Edit section: 2001" )]
 
 #### 2001
 
   * UTC New England Regional Xerox Creativity Award 
 
-[[edit](/index.php?title=296&action=edit&section=6 "Edit section: 2005" )]
 
 #### 2005
 
   * Greater Toronto Regional Autodesk Visualization Award 
   * Greater Toronto Regional Judges' "Every Second Counts" Award 
 
-[[edit](/index.php?title=296&action=edit&section=7 "Edit section: 2006" )]
 
 #### 2006
 
@@ -114,7 +109,6 @@ Accomplishments" )]
   * Archimedes Division Champion 
   * Championship Winner 
 
-[[edit](/index.php?title=296&action=edit&section=8 "Edit section: Sponsors" )]
 
 ## Sponsors
 

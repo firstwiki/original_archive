@@ -59,7 +59,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1227
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1227&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -91,7 +90,6 @@ garnered the team a few awards that year.
 The team was incorporated into Team [904](/index.php/904 "904" ) beginning in
 late 2006, and no longer exists as a separate entity.
 
-[[edit](/index.php?title=1227&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -155,7 +153,6 @@ List" )]
   * John Wood 
   * Theo Davis 
 
-[[edit](/index.php?title=1227&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -166,7 +163,6 @@ List" )]
   * Josh 
   * [Jamie Bliss](/index.php/User:Astronouth7303 "User:Astronouth7303" ) (Programmer, 2004 (class of 07)) 
 
-[[edit](/index.php?title=1227&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

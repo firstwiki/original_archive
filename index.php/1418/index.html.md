@@ -64,7 +64,6 @@ Team Projects" )]
 
   * [Arcade Cabinet](/index.php/1418/Arcade "1418/Arcade" ) \- As of December 2006, the Arcade machine is up and running. It plays two games: Fair Use Man, and Thy Shiney Quest. It is set up in the theater lobby, and costs a quarter to play. Last seen in lobby, summer of 2007. Location currently unknown. 
 
-[[edit](/index.php?title=1418&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
@@ -83,7 +82,6 @@ highest ranking robot 1418 has ever built. Just FYI).
 
   * Starting in 2005, team 1418 has brought their robot to both the 3K fun run and the memorial day parade on Memorial Day in the City of Falls Church, VA. 
 
-[[edit](/index.php?title=1418&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -144,7 +142,6 @@ List" )]
   
 We'll see about everyone else...AFTER THEY WIN THE REGIONAL, THAT IS!!!
 
-[[edit](/index.php?title=1418&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -172,7 +169,6 @@ We'll see about everyone else...AFTER THEY WIN THE REGIONAL, THAT IS!!!
   * Erik Zackrison 
   * Alexander Pierson 
 
-[[edit](/index.php?title=1418&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

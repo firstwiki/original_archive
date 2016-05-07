@@ -50,11 +50,9 @@ Bellevue, Washington.
     * 5.4 Mentors  
 ---  
   
-[[edit](/index.php?title=492&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
-[[edit](/index.php?title=492&action=edit&section=2 "Edit section: 2001" )]
 
 ### 2001
 
@@ -104,7 +102,6 @@ promised that there would be a regional in Seattle the following year. The
 Pacific Northwest Regional, now held in the Bank of America Pavilion at the
 University of Washington in early April, debuted the next year.
 
-[[edit](/index.php?title=492&action=edit&section=3 "Edit section: 2002" )]
 
 ### 2002
 
@@ -119,7 +116,6 @@ The team finished the year by holding robotics design and electronics classes,
 and then team members built MINI sumo robots and entered them in the Seattle
 Robotics Society Robothon in May.
 
-[[edit](/index.php?title=492&action=edit&section=4 "Edit section: 2003" )]
 
 ### 2003
 
@@ -142,7 +138,6 @@ came home with 4 trophies from our High School team, and another 4 from our
 Middle School teams, which is the most our club had ever won in a single year,
 despite all the financial troubles that we had to meet.
 
-[[edit](/index.php?title=492&action=edit&section=5 "Edit section: 2004" )]
 
 ### 2004
 
@@ -165,7 +160,6 @@ International School has caused us to lose our workshop area for at least the
 to have very succesful outcomes, winning the Pacific Northwest Regional and
 the Website Design Award.
 
-[[edit](/index.php?title=492&action=edit&section=6 "Edit section: 2005" )]
 
 ### 2005
 
@@ -177,7 +171,6 @@ Ryan McElroy, founder and alumni of the TRC, as well as other alumni including
 Amy McIvor and Bobby Moretti, the TRC should have another successful FIRST
 season.
 
-[[edit](/index.php?title=492&action=edit&section=7 "Edit section: 2006" )]
 
 ### 2006
 
@@ -187,7 +180,6 @@ involvement and its work in spreading the word about FIRST and inspiring its
 members and the larger community to consider science, engineering and
 technology as careers to pursue.
 
-[[edit](/index.php?title=492&action=edit&section=8 "Edit section: Robots" )]
 
 ## Robots
 
@@ -204,14 +196,12 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=492&action=edit&section=10 "Edit section: 2001" )]
 
 ### 2001
 
   * Rookie All Star Award, Silicon Valley Regional 
   * Incredible Play Award, International Championships Competition at Orlando, Florida 
 
-[[edit](/index.php?title=492&action=edit&section=11 "Edit section: 2002" )]
 
 ### 2002
 
@@ -220,7 +210,6 @@ Accomplishments" )]
   * Judges' Award, Southern California Regional 
   * Finalist, Pacific Northwest Regional 
 
-[[edit](/index.php?title=492&action=edit&section=12 "Edit section: 2003" )]
 
 ### 2003
 
@@ -230,7 +219,6 @@ Accomplishments" )]
   * Engineering Inspiration Award, Pacific Northwest Regional 
   * Website Design Award, Pacific Northwest Regional 
 
-[[edit](/index.php?title=492&action=edit&section=13 "Edit section: 2004" )]
 
 ### 2004
 
@@ -239,7 +227,6 @@ Accomplishments" )]
   * Website Design Award, Pacific Northwest Regional 
   * Division Semi-Finalists, International Championships Competition at Atlanta, Georgia 
 
-[[edit](/index.php?title=492&action=edit&section=14 "Edit section: 2005" )]
 
 ### 2005
 
@@ -248,7 +235,6 @@ Accomplishments" )]
   * General Motors Industrial Design Award, Pacific Northwest Regional 
   * Divison Finalists, International Championships Competition at Atlanta, Georgia 
 
-[[edit](/index.php?title=492&action=edit&section=15 "Edit section: 2006" )]
 
 ### 2006
 
@@ -294,7 +280,6 @@ List" )]
 
   * Brad Moore 
 
-[[edit](/index.php?title=492&action=edit&section=21 "Edit section: Mentors" )]
 
 ### Mentors
 

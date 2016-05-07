@@ -45,7 +45,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc359
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=359&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=359&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -106,7 +104,6 @@ Accomplishments" )]
   * 2006 NV J&amp;J Sportsmanship 
   * **2011 [FIRST Championship](/index.php/FIRST_Championship "FIRST Championship" ) Chairman's Award**
 
-[[edit](/index.php?title=359&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -155,7 +152,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=359&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -174,7 +170,6 @@ List" )]
   * Jennifer R. (2005) 
   * Brandon S. (2002-2005) 
 
-[[edit](/index.php?title=359&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -186,7 +181,6 @@ List" )]
   * Hazel C. (2001-?) 
   * Stacy S. (2002-?) 
 
-[[edit](/index.php?title=359&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -65,7 +65,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2337
     * 6.2 Video  
 ---  
   
-[[edit](/index.php?title=2337&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -323,7 +322,6 @@ Future Plans" )]
 Team 2337 plans to attend the Kettering District and Northville District
 Competitions.
 
-[[edit](/index.php?title=2337&action=edit&section=7 "Edit section: Robots" )]
 
 ## Robots
 
@@ -481,7 +479,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=2337&action=edit&section=17 "Edit section: 2008" )]
 
 ### 2008
 
@@ -495,7 +492,6 @@ Accomplishments" )]
   * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) \- [Highest Rookie Seed Award](/index.php/Highest_Rookie_Seed_Award "Highest Rookie Seed Award" ) \- Curie Division 
   * _Ryan Masica wins $20,000 FIRST-Kettering Scholarship_
 
-[[edit](/index.php?title=2337&action=edit&section=18 "Edit section: 2009" )]
 
 ### 2009
 
@@ -505,7 +501,6 @@ Accomplishments" )]
   * _Gage Hainer &amp; Eric Salem win $20,000 FIRST-Kettering Scholarships_
   * _Eric Salem wins $25,000 Russell J. Ebeid ACCESS-Kettering Scholarship_
 
-[[edit](/index.php?title=2337&action=edit&section=19 "Edit section: 2010" )]
 
 ### 2010
 
@@ -517,7 +512,6 @@ Accomplishments" )]
   * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) \- Divisional Quarterfinalists 
   * _Ryan Brancheau &amp; Rick Pease win $20,000 FIRST-Kettering Scholarships_
 
-[[edit](/index.php?title=2337&action=edit&section=20 "Edit section: 2011" )]
 
 ### 2011
 
@@ -540,7 +534,6 @@ Accomplishments" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=2337&action=edit&section=22 "Edit section: 2008" )]
 
 ### 2008
 
@@ -553,7 +546,6 @@ Accomplishments" )]
   * ABB 
   * Diversified Machine, Inc. 
 
-[[edit](/index.php?title=2337&action=edit&section=23 "Edit section: 2009" )]
 
 ### 2009
 
@@ -563,7 +555,6 @@ Accomplishments" )]
   * Davison Tool &amp; Engineering, LLC 
   * FANUC Robotics 
 
-[[edit](/index.php?title=2337&action=edit&section=24 "Edit section: 2010" )]
 
 ### 2010
 
@@ -574,7 +565,6 @@ Accomplishments" )]
   * Davison Tool &amp; Engineering, LLC 
   * Advanced Communications, Inc. 
 
-[[edit](/index.php?title=2337&action=edit&section=25 "Edit section: 2011" )]
 
 ### 2011
 
@@ -584,7 +574,6 @@ Accomplishments" )]
   * Davison Tool &amp; Engineering, LLC 
   * Grand Blanc Educational Foundation 
 
-[[edit](/index.php?title=2337&action=edit&section=26 "Edit section: 2012" )]
 
 ### 2012
 
@@ -592,7 +581,6 @@ Accomplishments" )]
   * Premier Tooling Systems 
   * Grand Blanc Educational Foundation 
 
-[[edit](/index.php?title=2337&action=edit&section=27 "Edit section: Media" )]
 
 ## Media
 
@@ -603,7 +591,6 @@ Media" )]
 
 LINKS HERE
 
-[[edit](/index.php?title=2337&action=edit&section=29 "Edit section: Video" )]
 
 ### Video
 

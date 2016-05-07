@@ -17,7 +17,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=2545&action=edit
   
   
 
-[[edit](/index.php?title=2545&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -32,7 +31,6 @@ Projects" )]
 
 The current team project to complete this years challenge.
 
-[[edit](/index.php?title=2545&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 

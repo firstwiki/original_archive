@@ -34,7 +34,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=176
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=176&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -85,7 +84,6 @@ consisting of two students with a third student (the "human player")
 interacting with the robot. A coach is also part of the "drive team" and helps
 the students plan and execute their game strategy.
 
-[[edit](/index.php?title=176&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -286,7 +284,6 @@ Accomplishments" )]
   * First Place at UTC New England Regional, 2006 
   * Second place on Newton field at Championship 2006 
 
-[[edit](/index.php?title=176&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -297,7 +294,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=176&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -336,7 +332,6 @@ List" )]
   * Christopher Williams - 2007 
   * Peter Zywiak - 2007 
 
-[[edit](/index.php?title=176&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -355,7 +350,6 @@ List" )]
   * Ross Marx - 2006 
   * Maureen McDonald - 2006 
 
-[[edit](/index.php?title=176&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

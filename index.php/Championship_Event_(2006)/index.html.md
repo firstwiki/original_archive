@@ -61,7 +61,6 @@ are finalists.
 
 ###  Rankings
 
-  1. [[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=3 "Edit section: Alliances" )]
 
 ###  Alliances
 
@@ -86,7 +85,6 @@ Captain | Partners
 
 ###  Rankings
 
-  1. [[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=6 "Edit section: Alliances" )]
 
 ###  Alliances
 
@@ -111,7 +109,6 @@ Captain | Partners
 
 ###  Rankings
 
-  1. [[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=9 "Edit section: Alliances" )]
 
 ###  Alliances
 
@@ -136,7 +133,6 @@ Captain | Partners
 
 ###  Rankings
 
-  1. [[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=12 "Edit section: Alliances" )]
 
 ###  Alliances
 

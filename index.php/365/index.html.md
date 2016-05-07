@@ -85,7 +85,6 @@ We have helped start and or sponsored these teams:
   * Team 1708 - McKeesport Area High School and Technology Center 
   * Team 565 - Hodgson VoTech 
 
-[[edit](/index.php?title=365&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -208,7 +207,6 @@ Philadelphia Regional
 
   * Xerox Creativity Award 
 
-[[edit](/index.php?title=365&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -218,7 +216,6 @@ write a thank you letter to each of our sponsors - thanking them for their
 gifts of support over the years. They are also listed on the web site, along
 with their logo and link to their public page.
 
-[[edit](/index.php?title=365&action=edit&section=7 "Edit section: Dupont" )]
 
 ### Dupont
 

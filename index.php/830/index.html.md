@@ -54,7 +54,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc830
     * 6.4 Alumni  
 ---  
   
-[[edit](/index.php?title=830&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -138,7 +137,6 @@ University of Michigan, hosted ten after-school technical workshops for the
 Rat Pack. These workshops included topics such as drivetrain and appendage
 design, electronics, CAD, programming, and machining.
 
-[[edit](/index.php?title=830&action=edit&section=10 "Edit section: Robots" )]
 
 ## Robots
 
@@ -153,7 +151,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=830&action=edit&section=12 "Edit section: Awards" )]
 
 ### Awards
 
@@ -191,7 +188,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=830&action=edit&section=16 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -256,7 +252,6 @@ Mentors" )]
   * Mike Hilton 
   * Justin Moyer 
 
-[[edit](/index.php?title=830&action=edit&section=19 "Edit section: Alumni" )]
 
 ### Alumni
 

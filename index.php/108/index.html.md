@@ -48,7 +48,6 @@ expansion" ).
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=108&action=edit&section=1 "Edit section: The Team" )]
 
 ## The Team
 
@@ -67,7 +66,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=108&action=edit&section=3 "Edit section: SOAP" )]
 
 ### SOAP
 
@@ -112,7 +110,6 @@ been announced for 2010.
   * Movie Server: [www.soap.circuitrunners.com](http://soap.circuitrunners.com/ "http://soap.circuitrunners.com/" )
   * Twitter: [@SOAP108](http://twitter.com/SOAP108 "http://twitter.com/SOAP108" )
 
-[[edit](/index.php?title=108&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -152,7 +149,6 @@ Accomplishments" )]
   * 1997 Featherweight in the Finals, Motorola Midwest Regional 
   * 1997 6th Place, Motorola Midwest Regional 
 
-[[edit](/index.php?title=108&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -168,7 +164,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=108&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
@@ -183,7 +178,6 @@ List" )]
   * Shannon Meisner - SOAP Manager (SOAP Bubble) 
   * Dominique Caldeira - SOAP Co-Manager (SOAP Bubble) 
 
-[[edit](/index.php?title=108&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -242,7 +236,6 @@ Adam Hirsh, former Taravella Supreme
 currently somewhere  
   
 
-[[edit](/index.php?title=108&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 

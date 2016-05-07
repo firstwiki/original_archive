@@ -26,7 +26,6 @@ Approximate team size: | ?
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1190&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -46,7 +45,6 @@ after, Secure Computing's extremely popular
 districts to block inappropriate web content) categorized it as containing
 "Pornography and Web Ads". \--> The year 2006 awards has yet to happen.
 
-[[edit](/index.php?title=1190&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -82,13 +80,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=1190&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=1190&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

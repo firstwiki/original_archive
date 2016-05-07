@@ -59,7 +59,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1507
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1507&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -82,7 +81,6 @@ Many teams sell food, games, crafts, and hold basket raffles all in the name
 of Cancer research. We receive a lot of community support and look forward to
 it every year.
 
-[[edit](/index.php?title=1507&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -149,11 +147,9 @@ List" )]
 
 ### Students
 
-[[edit](/index.php?title=1507&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=1507&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

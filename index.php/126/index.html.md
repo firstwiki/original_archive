@@ -58,7 +58,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=126&action=edit
     * 4.1 Alumni  
 ---  
   
-[[edit](/index.php?title=126&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ The team is one of only a handful of teams that has been in FIRST since the
 first year in 1992. They won the National competition in 1992, and regionals
 in 1999, 2001, and two in 2005.
 
-[[edit](/index.php?title=126&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -79,7 +77,6 @@ Also it won the Engineering Inspiraation Award at the BAE regional and The
 Chairman's award at the Boston Regional this year. Won the Boston BU Regional
 (with team 69 and 125).
 
-[[edit](/index.php?title=126&action=edit&section=3 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -105,7 +102,6 @@ Jenny Ramirez, Alex Collado, Cassandra Vandyne
 
   * Not a complete list * 
 
-[[edit](/index.php?title=126&action=edit&section=5 "Edit section: Alumni" )]
 
 ### Alumni
 

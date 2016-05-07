@@ -36,7 +36,6 @@ Team Website: | <http://www.combbat21.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=21&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -68,7 +67,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=21&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -147,7 +145,6 @@ J&amp;J Team Sportmsanship Award
 
 Most Photogenic Award
 
-[[edit](/index.php?title=21&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -161,19 +158,16 @@ Most Photogenic Award
 
   * Member Example 
 
-[[edit](/index.php?title=21&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=21&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
 Michael Walker - UCF Student (Team 1902 Mentor), High School Class of 2005
 
-[[edit](/index.php?title=21&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

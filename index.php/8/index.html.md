@@ -43,7 +43,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc8
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=8&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -128,7 +127,6 @@ hope to build on for next year.
   * SF Flugtag 
   * MIT-Lemelson InvenTeam 
 
-[[edit](/index.php?title=8&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -148,7 +146,6 @@ Accomplishments" )]
   * 3rd Place 2003 Silicon Valley Regional 
   * 3rd Place 2003 Southern California Regional 
 
-[[edit](/index.php?title=8&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -162,7 +159,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=8&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -180,7 +176,6 @@ Accomplishments" )]
   * Blake Tacklind - 2010 
   * Mike Tramiel - 2008 
 
-[[edit](/index.php?title=8&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -189,7 +184,6 @@ Accomplishments" )]
   * Cameron Tacklind - Santa Barbara City College, Class of 2010 
   * Clark Wilison - UC Santa Barbara, Class of 2010 
 
-[[edit](/index.php?title=8&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

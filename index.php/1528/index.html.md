@@ -37,7 +37,6 @@ iPirates
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1528&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -58,7 +57,6 @@ projects" )]
 [Our YouTube page](http://www.youtube.com/FRC1528
 "http://www.youtube.com/FRC1528" )
 
-[[edit](/index.php?title=1528&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -149,7 +147,6 @@ List" )]
   
 +++++++++++++More TO Come+++++++++++++++
 
-[[edit](/index.php?title=1528&action=edit&section=9 "Edit section: Alumni" )]
 
 ###  Alumni
 

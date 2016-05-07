@@ -49,7 +49,6 @@ expansion" ).
   * 7 Participating Schools  
 ---  
   
-[[edit](/index.php?title=173&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -80,7 +79,6 @@ Competitions Attending" )]
   * Boston Regional [[2]](http://bostonfirst.org/ "http://bostonfirst.org/" )
   * Championship Event 
 
-[[edit](/index.php?title=173&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -136,7 +134,6 @@ Accomplishments" )]
   * UTC Regional 1st seed 
   * UTC Regional Finalist 
 
-[[edit](/index.php?title=173&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 

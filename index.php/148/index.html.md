@@ -45,7 +45,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc148
     * 4.4 Alumni  
 ---  
   
-[[edit](/index.php?title=148&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +59,6 @@ company changed its name to L-3 Communications Integrated Systems.
 RackSolutions.com, a division of Innovation First, Inc., became a corporate
 sponsor in 2007.
 
-[[edit](/index.php?title=148&action=edit&section=2 "Edit section: Awards" )]
 
 ## Awards
 
@@ -107,7 +105,6 @@ sponsor in 2007.
   * 2010 Coopertition Award ([Lone Star Regional](/index.php/Lone_Star_Regional "Lone Star Regional" )) 
   * 2010 Archimedes Division Finalist ([Championship](/index.php/National_Championship "National Championship" )) 
 
-[[edit](/index.php?title=148&action=edit&section=3 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -120,7 +117,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=148&action=edit&section=5 "Edit section: Coaches" )]
 
 ### Coaches
 
@@ -131,7 +127,6 @@ List" )]
   * Van LeJeune (2000-2001) 
   * Johnny Tharp (2005-2009) 
 
-[[edit](/index.php?title=148&action=edit&section=6 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -177,7 +172,6 @@ List" )]
   * Ben Koski (2007) 
   * Amanda Morrison (2008) 
 
-[[edit](/index.php?title=148&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -210,7 +204,6 @@ List" )]
   * Kaleb Wright 
   * Amy Yznaga 
 
-[[edit](/index.php?title=148&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 

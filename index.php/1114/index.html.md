@@ -47,7 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1114
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=1114&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -101,7 +100,6 @@ projects" )]
 
   * [Simbotics.org](http://www.simbotics.org "http://www.simbotics.org" )
 
-[[edit](/index.php?title=1114&action=edit&section=5 "Edit section: Robots" )]
 
 ## Robots
 
@@ -223,7 +221,6 @@ Accomplishments" )]
   * General Motors of Canada - St. Catharines Powertrain 
   * [For a Complete List of Sponsors Click Here](http://www.simbotics.org/current-sponsors "http://www.simbotics.org/current-sponsors" )
 
-[[edit](/index.php?title=1114&action=edit&section=8 "Edit section: Mentors" )]
 
 ## Mentors
 

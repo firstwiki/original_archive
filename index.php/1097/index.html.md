@@ -28,7 +28,6 @@ Approximate team size: | 25
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1097&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -41,7 +40,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=1097&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -54,14 +52,12 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1097&action=edit&section=5 "Edit section: 2003" )]
 
 ### 2003
 
   * Rookie All Star-Sacramento Regional 
   * Rookie All Star-Silicon Valey Regional 
 
-[[edit](/index.php?title=1097&action=edit&section=6 "Edit section: 2004" )]
 
 ### 2004
 
@@ -117,7 +113,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=1097&action=edit&section=10 "Edit section: Alumni" )]
 
 ### Alumni
 

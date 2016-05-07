@@ -33,7 +33,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc330
     * 5.2 Mentors  
 ---  
   
-[[edit](/index.php?title=330&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +59,6 @@ another year. Due to a now-abandoned FIRST rule (which required that a team be
 assigned a new number if its major sponsor changed), the Beach Bot team was
 redesignated as [Team 330](/index.php/Team_330 "Team 330" ).
 
-[[edit](/index.php?title=330&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -119,7 +117,6 @@ for help.
   * 2000 Silicon Valley Regional Finalist 
   * 1999 NASA/AMES Regional Xerox Creativity Award 
 
-[[edit](/index.php?title=330&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -129,13 +126,11 @@ for help.
   * [NASA JPL](http://www.jpl.nasa.gov/ "http://www.jpl.nasa.gov/" )
   * [NASA Goddard](http://www.gsfc.nasa.gov/ "http://www.gsfc.nasa.gov/" )
 
-[[edit](/index.php?title=330&action=edit&section=5 "Edit section: Members" )]
 
 ## Members
 
 (2007 competition year)
 
-[[edit](/index.php?title=330&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
@@ -150,7 +145,6 @@ for help.
   * Caitlin Steele 
   * Faith Steele 
 
-[[edit](/index.php?title=330&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 

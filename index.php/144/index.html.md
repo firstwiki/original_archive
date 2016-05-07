@@ -49,7 +49,6 @@ _team location and name and basic stuff_
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=144&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -72,7 +71,6 @@ desctiption and maybe
   * of 
   * links 
 
-[[edit](/index.php?title=144&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -89,7 +87,6 @@ Accomplishments" )]
   * 1994 - Champions 
   * 1996 - Chairman's Award 
 
-[[edit](/index.php?title=144&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -100,7 +97,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=144&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -109,7 +105,6 @@ List" )]
   * and (role, year (senior, junior, soph...)) 
   * him (role, year (senior, junior, soph...)) 
 
-[[edit](/index.php?title=144&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -117,7 +112,6 @@ List" )]
   * him (year) 
   * too (year) 
 
-[[edit](/index.php?title=144&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

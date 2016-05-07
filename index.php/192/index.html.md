@@ -43,7 +43,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc192
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=192&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -51,7 +50,6 @@ After the fiasco surrounding the 2004-05 Gunn Robotics Team which caused the
 closure of the team, an overwhelming tide of supportive parents and determined
 students restarted team 192 in 05-06.
 
-[[edit](/index.php?title=192&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -76,7 +74,6 @@ Accomplishments" )]
   * [2005](/index.php?title=192_in_2005&action=edit "192 in 2005" )
   * [2006](/index.php/192_in_2006 "192 in 2006" )
 
-[[edit](/index.php?title=192&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -90,15 +87,12 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=192&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
-[[edit](/index.php?title=192&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=192&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

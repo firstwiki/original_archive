@@ -35,7 +35,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=435
     * 6.4 Mentors  
 ---  
   
-[[edit](/index.php?title=435&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -48,7 +47,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=435&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -84,7 +82,6 @@ Accomplishments" )]
   * 2001 "Robodog Day" Announced on April 19 by City of Raleigh 
   * 2000 VCU Regional "Play of the Day" 
 
-[[edit](/index.php?title=435&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -99,7 +96,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=435&action=edit&section=7 "Edit section: Advisors" )]
 
 ### Advisors
 
@@ -108,7 +104,6 @@ Last name |  First name |  Years with team
 Kemp |  Randy |  2  
 Consuelo |  Lugo |  2  
   
-[[edit](/index.php?title=435&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
@@ -150,7 +145,6 @@ Chris |  Suich |  Engineering |  3 |  2008
 Rochelle |  Weimann |  Operations (Marketing) |  1 |  2008  
 Daniel |  Zielenski |  Graphics |  0 |  2011  
   
-[[edit](/index.php?title=435&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -178,7 +172,6 @@ Tisdell |  Suzanne |  3
 Wiggins |  Matt |  4  
 Woods |  Mark |  1  
   
-[[edit](/index.php?title=435&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 

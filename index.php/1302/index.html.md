@@ -32,7 +32,6 @@ Team Website: | N/A
     * 6.1 Mentors  
 ---  
   
-[[edit](/index.php?title=1302&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -44,7 +43,6 @@ Lionheart.
 
 ## Projects
 
-[[edit](/index.php?title=1302&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -112,7 +110,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1302&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 

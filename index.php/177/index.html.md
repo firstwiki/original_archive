@@ -36,14 +36,12 @@ derived from our school name._
   * 4 Sponsors  
 ---  
   
-[[edit](/index.php?title=177&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
 Our team was created in 1995 and has been active in the FIRST community ever
 since.
 
-[[edit](/index.php?title=177&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -140,7 +138,6 @@ Accomplishments" )]
 
   * Best Alternative Scoring Method - New Hampshire Regional 
 
-[[edit](/index.php?title=177&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 

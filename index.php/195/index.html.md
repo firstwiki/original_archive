@@ -45,7 +45,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc195
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=195&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -67,7 +66,6 @@ projects" )]
   * 2006 Dynamic Defense Software 
   * 2004 Magnetic playing fields for every team at the NJ and UTC Hartford regional 
 
-[[edit](/index.php?title=195&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -121,7 +119,6 @@ Accomplishments & Awards" )]
   * 2002 - UTC New England Regional - J&amp;J Sportsmanship Award 
   * 1998 - Johnson &amp; Johnson Mid-Atlantic Regional - Best Play of the Day Award 
 
-[[edit](/index.php?title=195&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -153,7 +150,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=195&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -237,7 +233,6 @@ Systems Engineering |  2011
 Andrew Zdeblick |  2008 |  Northeastern University |  Mechanical Engineering |
 2013  
   
-[[edit](/index.php?title=195&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

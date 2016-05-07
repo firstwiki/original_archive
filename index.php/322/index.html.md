@@ -51,7 +51,6 @@ Invovled" )]
   * Flint Central High School 
   * Flint Northwestern Edision 
 
-[[edit](/index.php?title=322&action=edit&section=3 "Edit section: History" )]
 
 ## History
 
@@ -59,7 +58,6 @@ View all of our history at the link --> [322's
 history](http://www.fireteam.org/history.html
 "http://www.fireteam.org/history.html" )
 
-[[edit](/index.php?title=322&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -82,7 +80,6 @@ Accomplishments/Awards" )]
   * 2004 Great Lakes Regional: BEST WEBSITE DESIGN 
   * 2004 Championship Event: NEWTON DIVISION FINALIST 
 
-[[edit](/index.php?title=322&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 

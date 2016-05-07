@@ -39,14 +39,12 @@ Central and Tremont.
   * 5 Member List  
 ---  
   
-[[edit](/index.php?title=1736&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
 Robot Casserole's rookie year was 2006. They were created along with team 1756
 by Caterpillar.
 
-[[edit](/index.php?title=1736&action=edit&section=2 "Edit section: Events" )]
 
 ### Events
 

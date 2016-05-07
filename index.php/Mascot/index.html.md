@@ -49,7 +49,6 @@ expansion" ).
 
   * Mascots are the the teams physical representation of their teams logo. Commonly a robot, animal, or a various creature/object. Although they don't fill an actual role in Robot Construction (although they can), they contribute to team spirit; much like a cherleader does. 
 
-[[edit](/index.php?title=Mascot&action=edit&section=1 "Edit section: Types" )]
 
 # Types
 

@@ -38,7 +38,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=610
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=610&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=610&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -98,7 +96,6 @@ Accomplishments" )]
   * 2002 Canadian Regional - Engineering Inspiration Award Winner 
   * 2002 Autodesk Inventor Regional Winner 
 
-[[edit](/index.php?title=610&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -123,11 +120,9 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=610&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
-[[edit](/index.php?title=610&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -155,7 +150,6 @@ List" )]
   
 Thanks so much to all the ex-Crescent-FIRSTers!!! Your always welcome back!
 
-[[edit](/index.php?title=610&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

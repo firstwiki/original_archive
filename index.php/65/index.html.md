@@ -45,7 +45,6 @@ Team Website: | <http://www.HuskieBrigade.com>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=65&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -58,7 +57,6 @@ projects" )]
 
   * We are Volunteering at the Detroit Regional The weekend of March 16th, this is something we do every year. 
 
-[[edit](/index.php?title=65&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -73,7 +71,6 @@ Accomplishments" )]
 
   * 2003 - National championship 
 
-[[edit](/index.php?title=65&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -86,19 +83,16 @@ Accomplishments" )]
 
   * Member Example 
 
-[[edit](/index.php?title=65&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Mathew Doll - 2005/06 
 
-[[edit](/index.php?title=65&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=65&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

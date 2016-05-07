@@ -57,29 +57,23 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1714
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=1714&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
 **More Robotics** was founded in 2005 with a goal to offer the FIRST experience to students who would not otherwise have the opportunity. We are a community team made up of students from many area schools. Our original sponsor was Thomas More High School, who welcomed our plans and saw them as a compliment to their Project Lead the Way Curriculum. We have grown a lot from those humble days and are we are having a blast. 
 
-[[edit](/index.php?title=1714&action=edit&section=2 "Edit section: 2006" )]
 
 ### 2006
 
-[[edit](/index.php?title=1714&action=edit&section=3 "Edit section: 2007" )]
 
 ### 2007
 
-[[edit](/index.php?title=1714&action=edit&section=4 "Edit section: 2008" )]
 
 ### 2008
 
-[[edit](/index.php?title=1714&action=edit&section=5 "Edit section: 2009" )]
 
 ### 2009
 
-[[edit](/index.php?title=1714&action=edit&section=6 "Edit section: Events" )]
 
 ##  Events
 
@@ -100,7 +94,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1714
     * [Minnesota 10,000 Lakes Regional](/index.php/Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" )
     * [FIRST Championship](/index.php/FIRST_Championship "FIRST Championship" )
 
-[[edit](/index.php?title=1714&action=edit&section=7 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -141,7 +134,6 @@ Accomplishments" )]
 
 ##  Accomplishments
 
-[[edit](/index.php?title=1714&action=edit&section=10 "Edit section: 2006" )]
 
 ### 2006
 
@@ -153,7 +145,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1714&action=edit&section=11 "Edit section: 2007" )]
 
 ### 2007
 
@@ -166,7 +157,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1714&action=edit&section=12 "Edit section: 2008" )]
 
 ### 2008
 
@@ -177,7 +167,6 @@ Accomplishments" )]
   5. Championship Safety Recognition 
   6. Championship Gracious Professionalism – FRC and FTC teams 
 
-[[edit](/index.php?title=1714&action=edit&section=13 "Edit section: 2009" )]
 
 ### 2009
 

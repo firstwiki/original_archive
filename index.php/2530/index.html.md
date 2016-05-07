@@ -39,14 +39,12 @@ Team Website: | [Official Team Website](http://www.juggernauts.org
   
   
 
-[[edit](/index.php?title=2530&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
 The team was started in 2009. Our team is comprised of Rochester, Minnesota's
 three public schools, Century, Mayo, and John Marshall.
 
-[[edit](/index.php?title=2530&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 

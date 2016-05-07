@@ -134,7 +134,6 @@ Overall, Shop Squad does its best to save the school money and to preserve the
 rich history of Brooklyn Tech. Whenever something needs to be done,
 administration knows where to find them.
 
-[[edit](/index.php?title=334&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -207,7 +206,6 @@ Accomplishments" )]
   
 2010 New York City Breakaway Skirmish Champions (Francis Lewis High School)
 
-[[edit](/index.php?title=334&action=edit&section=9 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -229,7 +227,6 @@ List" )]
 Please see the team website for a full listing of members:
 [Here](http://www.frcteam334.com "http://www.frcteam334.com" )
 
-[[edit](/index.php?title=334&action=edit&section=12 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -239,7 +236,6 @@ Please see the team website for a full listing of members:
     * Suman Sebastin - Polytechnic University TA, Class of 1992 
     * Josè L. Muñoz - Polytechnic University Student, Class of 2003 
 
-[[edit](/index.php?title=334&action=edit&section=13 "Edit section: Mentors" )]
 
 ### Mentors
 

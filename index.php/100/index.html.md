@@ -58,7 +58,6 @@ In the past (2000-2001) the Woodside Robotics team had participated in the
 Sand Hill Challenge. Teams built "soap box cars" and competed for awards in
 design, creativity, and much more.
 
-[[edit](/index.php?title=100&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -132,7 +131,6 @@ Team Facts" )]
   * In 2008 Team 100 played four semifinal matches at the Portland Regional: Win, Loss, Tie, Loss. 
   * In 2008 Team 100 played four matches in the Silicon Valley Regional Finals: Win, Loss, Undecided, Win. The last match was a rematch due to a controversial call by the referees. FIRST invited the finalists to the Championship as an apology for the controversy. 
 
-[[edit](/index.php?title=100&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -146,7 +144,6 @@ members" )]
 
 ## Team members
 
-[[edit](/index.php?title=100&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
@@ -156,7 +153,6 @@ members" )]
   * Locke Alexander - Team Leader 
   * Chris Merian - Mechanical Lead 
 
-[[edit](/index.php?title=100&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -176,7 +172,6 @@ members" )]
   * Nick Carlini, SHS, Class of 2009 
   * Hannah Sarver, CHS, Class of 2009 
 
-[[edit](/index.php?title=100&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 

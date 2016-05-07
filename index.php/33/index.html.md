@@ -39,7 +39,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc33
   * 4 Sponsor  
 ---  
   
-[[edit](/index.php?title=33&action=edit&section=1 "Edit section: Histoy" )]
 
 ## Histoy
 
@@ -49,7 +48,6 @@ and is now partnered with Norte Dame Preparatory in Pontiac, Michigan. The
 team currently consists of 29 students, 6 engineers, 2 alumni, 4 parents, and
 1 teacher.
 
-[[edit](/index.php?title=33&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -170,7 +168,6 @@ Accomplishments" )]
   * 2000 Philadelphia #1 Seed Award 
   * 2000 Philadelphia Imagery Award 
 
-[[edit](/index.php?title=33&action=edit&section=4 "Edit section: Sponsor" )]
 
 ## Sponsor
 

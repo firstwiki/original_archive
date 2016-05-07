@@ -36,15 +36,12 @@ Team Website: | <http://www.rockets34.com/>
   * 6 Links  
 ---  
   
-[[edit](/index.php?title=34&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
-  * [[edit](/index.php?title=34&action=edit&section=2 "Edit section: Team projects" )]
 
 ## Team projects
 
-  * [[edit](/index.php?title=34&action=edit&section=3 "Edit section: Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,7 +72,6 @@ Team Website: | <http://www.rockets34.com/>
   * 2007 - SC Imagery Award 
   * 2007 - National Imagery Award 
 
-[[edit](/index.php?title=34&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -87,15 +83,12 @@ Team Website: | <http://www.rockets34.com/>
 
 ## Members List
 
-  * [[edit](/index.php?title=34&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
-  * [[edit](/index.php?title=34&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
-  * [[edit](/index.php?title=34&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -103,7 +96,6 @@ Team Website: | <http://www.rockets34.com/>
   * Bob Gabrys (Designer) 
   * Grant Reeves (Engineer) 
 
-[[edit](/index.php?title=34&action=edit&section=9 "Edit section: Links" )]
 
 ## Links
 

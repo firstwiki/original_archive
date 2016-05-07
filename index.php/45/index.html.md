@@ -32,7 +32,6 @@ Team Website: | [technokats.org](http://www.technokats.org
     * 6.4 Bot Boosters  
 ---  
   
-[[edit](/index.php?title=45&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -85,7 +84,6 @@ projects" )]
   * [New Year's Eve Ball Drop](http://technokats.org/balldrop.htm "http://technokats.org/balldrop.htm" )
   * [Bona Vista Projects](http://technokats.org/bonavista.htm "http://technokats.org/bonavista.htm" )
 
-[[edit](/index.php?title=45&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -172,7 +170,6 @@ Along with students getting inspired, engineers and teachers are having fun
 while sharpening their design, teaching, and leadership skills. These mentors
 work closely together and learn from each other while inspiring the students.
 
-[[edit](/index.php?title=45&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -192,7 +189,6 @@ work closely together and learn from each other while inspiring the students.
 
 ## Members List
 
-[[edit](/index.php?title=45&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -218,7 +214,6 @@ work closely together and learn from each other while inspiring the students.
   * Tymi Driver - Junior 
   * Taylor Metcalf - Junior 
 
-[[edit](/index.php?title=45&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -231,7 +226,6 @@ work closely together and learn from each other while inspiring the students.
   * Mike Sholty - Kokomo/West Lafayette, Indiana, Class of 2006 
   * Michael Hill - Kokomo/West Lafayette, Indiana, Class of 2006 
 
-[[edit](/index.php?title=45&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

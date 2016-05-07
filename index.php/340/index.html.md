@@ -32,7 +32,6 @@ Team Website: | <http://www.team340.org/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=340&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -52,7 +51,6 @@ projects" )]
   * Beta Team Testers 
   * Many community outreach events 
 
-[[edit](/index.php?title=340&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -101,7 +99,6 @@ Accomplishments" )]
     * Finger Lakes Regional - [Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" )
     * Finger Lakes Regional - [Woodie Flowers Award - Kate Nordland](/index.php?title=Woodie_Flowers_Award_-_Kate_Nordland&action=edit "Woodie Flowers Award - Kate Nordland" )
 
-[[edit](/index.php?title=340&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -114,19 +111,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=340&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=340&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=340&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -81,7 +81,6 @@ Speed change is achieved by manually moving a belt across a stepped pulley
 arrangement, some types introduce a third stepped pulley to increase the speed
 range. This makes selecting the correct spindle speed more likely.
 
-[[edit](/index.php?title=Drill&action=edit&section=4 "Edit section: Safety" )]
 
 ##  Safety
 

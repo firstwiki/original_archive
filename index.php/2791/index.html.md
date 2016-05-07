@@ -54,7 +54,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2791
     * 6.8 Mentors  
 ---  
   
-[[edit](/index.php?title=2791&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -76,7 +75,6 @@ and University at Albany. The current senior class will be attending the
 engineering and computer science programs at RIT, University of Arizona,
 Siena, and Clarkson.
 
-[[edit](/index.php?title=2791&action=edit&section=2 "Edit section: EWCP" )]
 
 ## EWCP
 
@@ -85,7 +83,6 @@ Rastogi (3553) and Ranjit Chanal (1323). EWCP also does periodic podcasts
 throughout the year on various topics the panel deems important to the FIRST
 community.
 
-[[edit](/index.php?title=2791&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -99,13 +96,11 @@ Accomplishments" )]
 
 ##  Accomplishments
 
-[[edit](/index.php?title=2791&action=edit&section=5 "Edit section: 2008" )]
 
 ### 2008
 
   * Pascack Panda-monium Winner with 25 and 11 
 
-[[edit](/index.php?title=2791&action=edit&section=6 "Edit section: 2009" )]
 
 ### 2009
 
@@ -114,7 +109,6 @@ Accomplishments" )]
   * Ramp Riot Mike Wade Award Winner 
   * Ramp Riot Winner with 1218 and 834 
 
-[[edit](/index.php?title=2791&action=edit&section=7 "Edit section: 2010" )]
 
 ### 2010
 
@@ -123,7 +117,6 @@ Accomplishments" )]
   * WPI Regional 7th Seed, 5th Alliance Captain, Quarterfinalists with 195 and 1124 
   * CT Regional 7th Seed, 5th Alliance Captain, Semifinalists with 177 and 173 
 
-[[edit](/index.php?title=2791&action=edit&section=8 "Edit section: 2011" )]
 
 ### 2011
 
@@ -131,7 +124,6 @@ Accomplishments" )]
   * BattleCry @ WPI, 12th Alliance Captain, Quarterfinalists with 3044 and 121 
   * Ramp Riot Winners with 
 
-[[edit](/index.php?title=2791&action=edit&section=9 "Edit section: 2012" )]
 
 ### 2012
 
@@ -158,26 +150,22 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=2791&action=edit&section=12 "Edit section: COO" )]
 
 ### COO
 
   * Jack Sneeringer (2011-2012) 
 
-[[edit](/index.php?title=2791&action=edit&section=13 "Edit section: CTO" )]
 
 ### CTO
 
   * Alex Bush (2011-2012) 
 
-[[edit](/index.php?title=2791&action=edit&section=14 "Edit section: CFO" )]
 
 ### CFO
 
   * Frozen Hot Chocolate (Interim 2011-2012) 
   * Connor Laliberte (2011-2012) 
 
-[[edit](/index.php?title=2791&action=edit&section=15 "Edit section: CMO" )]
 
 ### CMO
 
@@ -201,7 +189,6 @@ Presidents \(2010-11 and earlier\)" )]
   * Animesh Hajela (2009-2010) 
   * Randy Jiang (2008-2009) 
 
-[[edit](/index.php?title=2791&action=edit&section=18 "Edit section: Alumni" )]
 
 ###  Alumni
 

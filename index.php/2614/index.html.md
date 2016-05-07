@@ -49,7 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2614
   * 7 Robots  
 ---  
   
-[[edit](/index.php?title=2614&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -161,7 +160,6 @@ Flight Sciences
 
   
 
-[[edit](/index.php?title=2614&action=edit&section=7 "Edit section: Robots" )]
 
 ## Robots
 

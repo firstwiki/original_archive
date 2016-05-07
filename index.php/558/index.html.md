@@ -45,7 +45,6 @@ Business/Computer magnet school in New Haven, CT.
     * 6.6 Mentors  
 ---  
   
-[[edit](/index.php?title=558&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -81,7 +80,6 @@ projects" )]
   * New Haven Arts and Ideas Festival 
   * The Bruce Museum Robotics Exhibit 
 
-[[edit](/index.php?title=558&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -110,7 +108,6 @@ Accomplishments" )]
   * 2005 UTC Connecticut Regional Imagery Award 
   * 2003 UTC Connecticut Regional Judges Award 
 
-[[edit](/index.php?title=558&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -127,7 +124,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=558&action=edit&section=7 "Edit section: Alumni" )]
 
 #### Alumni
 
@@ -137,7 +133,6 @@ List" )]
   * Daniel B. 
   * Mohamed B. 
 
-[[edit](/index.php?title=558&action=edit&section=8 "Edit section: Seniors" )]
 
 #### Seniors
 
@@ -147,7 +142,6 @@ List" )]
   * Juan G. 
   * Jessy R. 
 
-[[edit](/index.php?title=558&action=edit&section=9 "Edit section: Juniors" )]
 
 #### Juniors
 
@@ -175,7 +169,6 @@ List" )]
 
   * Jacob S. 
 
-[[edit](/index.php?title=558&action=edit&section=12 "Edit section: Mentors" )]
 
 ### Mentors
 

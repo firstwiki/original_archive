@@ -39,7 +39,6 @@ Team Website: | <http://www.eaglerobotics.com/>
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=1388&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -102,7 +101,6 @@ will be the next leaders of Eagle Robotics.
 [[2]](http://www.ccbots.org/AllAmericanNerds/
 "http://www.ccbots.org/AllAmericanNerds/" )
 
-[[edit](/index.php?title=1388&action=edit&section=5 "Edit section: Robots" )]
 
 ##  Robots
 

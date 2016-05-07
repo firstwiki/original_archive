@@ -40,7 +40,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=846
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=846&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -67,7 +66,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=846&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -119,11 +117,9 @@ Accomplishments" )]
   * 2004 Silicon Valley Regional Quarterfinal's 
   * 2004 Silicon Valley Delphi Driving Tomorrow's Technology Award 
 
-[[edit](/index.php?title=846&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=846&action=edit&section=6 "Edit section: Gold:" )]
 
 ### Gold:
 
@@ -135,7 +131,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=846&action=edit&section=7 "Edit section: Silver:" )]
 
 ### Silver:
 
@@ -145,7 +140,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=846&action=edit&section=8 "Edit section: Bronze:" )]
 
 ### Bronze:
 
@@ -227,7 +221,6 @@ Members List" )]
   * Historian - Toshitaka Tachibana '10 
   * Event Manager - Michael Wachenschwanz '09 
 
-[[edit](/index.php?title=846&action=edit&section=12 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -259,7 +252,6 @@ Members List" )]
 
   
 
-[[edit](/index.php?title=846&action=edit&section=13 "Edit section: Mentors" )]
 
 ### Mentors
 

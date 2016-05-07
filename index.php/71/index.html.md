@@ -34,7 +34,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=71
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=71&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -56,7 +55,6 @@ B.E.A.S.T
     **T**weaked
     
 
-[[edit](/index.php?title=71&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -120,7 +118,6 @@ formats" ) for more help.
   * 1996 - No. 1 Seed - National Championship 
   * 1996 - 10th Place National Championship 
 
-[[edit](/index.php?title=71&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -131,15 +128,12 @@ formats" ) for more help.
 
 ## Members List
 
-[[edit](/index.php?title=71&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
-[[edit](/index.php?title=71&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=71&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -55,7 +55,6 @@ Approximate team size: | 14
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=2265&action=edit&section=1 "Edit section: History" )]
 
 # History
 
@@ -70,7 +69,6 @@ projects" )]
   * Recycling Can Drive 
   * Clothing Drive 
 
-[[edit](/index.php?title=2265&action=edit&section=3 "Edit section: Robots" )]
 
 # Robots
 
@@ -89,7 +87,6 @@ Accomplishments" )]
 
 # Accomplishments
 
-[[edit](/index.php?title=2265&action=edit&section=5 "Edit section: 2007" )]
 
 ### 2007
 
@@ -120,7 +117,6 @@ List" )]
   * Sophomores ('10)- Qurat Ali, Siri McClean 
   * Freshmen ('11)- To be announced in September of 2007. 
 
-[[edit](/index.php?title=2265&action=edit&section=9 "Edit section: Alumni" )]
 
 ## Alumni
 

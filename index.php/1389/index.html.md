@@ -42,7 +42,6 @@ Team Website: | <http://www.team1389.com/>
     * 7.5 Teachers  
 ---  
   
-[[edit](/index.php?title=1389&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -56,7 +55,6 @@ projects" )]
   * Chesapeake Regional Compeition 
   * Various off-season competitions 
 
-[[edit](/index.php?title=1389&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -179,7 +177,6 @@ Whitman High School" )]
   * Ben Tourtellot '07 
   * Timothy Watson '09 
 
-[[edit](/index.php?title=1389&action=edit&section=14 "Edit section: Alumni" )]
 
 ### Alumni
 

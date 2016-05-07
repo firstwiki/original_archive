@@ -87,7 +87,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc217
   * 7 External Links  
 ---  
   
-[[edit](/index.php?title=217&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -114,7 +113,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc217
   * 2009 - FIRST World Championship Finalists with Teams [68](/index.php/68 "68" ) &amp; [247](/index.php/247 "247" )
   * 2011 - Newton Division Champions, St. Louis, MO 
 
-[[edit](/index.php?title=217&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -137,7 +135,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=217&action=edit&section=4 "Edit section: 1999" )]
 
 ### 1999
 
@@ -145,14 +142,12 @@ Accomplishments" )]
   * 1999 Midwest Regional Rookie All Star 
   * 1999 Midwest Regional Best Offensive Round 
 
-[[edit](/index.php?title=217&action=edit&section=5 "Edit section: 2000" )]
 
 ### 2000
 
   * 2000 Kettering Kickoff Top Dog 
   * 2000 Midwest Regional Daimler Chrysler Team Spirit 
 
-[[edit](/index.php?title=217&action=edit&section=6 "Edit section: 2001" )]
 
 ### 2001
 
@@ -160,7 +155,6 @@ Accomplishments" )]
   * 2001 Midwest Regional Johnson&amp;Johnson Sportmanship 
   * 2001 World Championship Curie Division Champion 
 
-[[edit](/index.php?title=217&action=edit&section=7 "Edit section: 2002" )]
 
 ### 2002
 
@@ -170,7 +164,6 @@ Accomplishments" )]
   * 2002 Kettering Kickoff Imagery Award 
   * 2002 Indiana Robotics Invitational FIRST Philosophy Award 
 
-[[edit](/index.php?title=217&action=edit&section=8 "Edit section: 2003" )]
 
 ### 2003
 
@@ -182,7 +175,6 @@ Accomplishments" )]
   * 2003 Pittsburgh Regional DaimlerChrysler Team Spirit Award 
   * 2003 Pittsburgh Regional Website Award 
 
-[[edit](/index.php?title=217&action=edit&section=9 "Edit section: 2004" )]
 
 ### 2004
 
@@ -191,7 +183,6 @@ Accomplishments" )]
   * 2004 Detroit Regional Johnson&amp;Johnson Sportsmanship Award 
   * 2004 Detroit Regional Woodie Flowers Award (Paul Copioli) 
 
-[[edit](/index.php?title=217&action=edit&section=10 "Edit section: 2005" )]
 
 ### 2005
 
@@ -203,7 +194,6 @@ Accomplishments" )]
   * 2005 World Championship Semi-Finalists 
   * 2005 World Championship Woodie Flowers Award (Paul Copioli) 
 
-[[edit](/index.php?title=217&action=edit&section=11 "Edit section: 2006" )]
 
 ### 2006
 
@@ -215,14 +205,12 @@ Accomplishments" )]
   * 2006 World Championship Archimedes Division 
   * 2006 World Championship 
 
-[[edit](/index.php?title=217&action=edit&section=12 "Edit section: 2007" )]
 
 ### 2007
 
   * 2007 St. Louis Regional Finalist 
   * 2007 Detroit Regional Chairman's Award 
 
-[[edit](/index.php?title=217&action=edit&section=13 "Edit section: 2008" )]
 
 ### 2008
 
@@ -235,7 +223,6 @@ Accomplishments" )]
   * 2008 World Championship Galileo Division 
   * 2008 World Championship 
 
-[[edit](/index.php?title=217&action=edit&section=14 "Edit section: 2009" )]
 
 ### 2009
 
@@ -250,7 +237,6 @@ Accomplishments" )]
   * 2009 World Championship Curie Division 
   * 2009 World Championship Finalists 
 
-[[edit](/index.php?title=217&action=edit&section=15 "Edit section: 2010" )]
 
 ### 2010
 
@@ -262,7 +248,6 @@ Accomplishments" )]
   * 2010 Michigan State Championship Finalist 
   * 2010 World Championship Galileo Division Finalist 
 
-[[edit](/index.php?title=217&action=edit&section=16 "Edit section: 2011" )]
 
 ### 2011
 
@@ -306,11 +291,9 @@ Accomplishments" )]
     * UAW 
     * Randazzo Heating and Cooling 
 
-[[edit](/index.php?title=217&action=edit&section=18 "Edit section: Members" )]
 
 ## Members
 
-[[edit](/index.php?title=217&action=edit&section=19 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -326,7 +309,6 @@ Accomplishments" )]
   * Ryan Caldwell - Michigan Technological University, MI. Class of 2003 
   * Steve Kalemkiewicz - Wayne State University, MI. Class of 2000. 
 
-[[edit](/index.php?title=217&action=edit&section=20 "Edit section: Mentors" )]
 
 ### Mentors
 

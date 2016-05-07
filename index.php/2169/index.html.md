@@ -65,7 +65,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2169
   * 7 Contact  
 ---  
   
-[[edit](/index.php?title=2169&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -82,7 +81,6 @@ award in 2011
 KING TeC has gone on to host the MN FTC Snowdrift Championship. Since starting
 it in 2009.
 
-[[edit](/index.php?title=2169&action=edit&section=2 "Edit section: Team" )]
 
 ## Team
 
@@ -148,11 +146,9 @@ it in 2009.
     * Programming - Sam Check 
     * Marketing - Monica Nhep 
 
-[[edit](/index.php?title=2169&action=edit&section=3 "Edit section: Robot" )]
 
 ## Robot
 
-[[edit](/index.php?title=2169&action=edit&section=4 "Edit section: 2011" )]
 
 ### 2011
 
@@ -168,7 +164,6 @@ it in 2009.
     * low gear ~4fps 
     * 120 lbs. 
 
-[[edit](/index.php?title=2169&action=edit&section=5 "Edit section: 2010" )]
 
 ### 2010
 
@@ -183,7 +178,6 @@ it in 2009.
   * autonomous 
     * kicks 2 balls into near zone from far zone 
 
-[[edit](/index.php?title=2169&action=edit&section=6 "Edit section: 2009" )]
 
 ### 2009
 
@@ -194,7 +188,6 @@ it in 2009.
     * adustable distance to shoot balls 
   * with dumper 
 
-[[edit](/index.php?title=2169&action=edit&section=7 "Edit section: 2008" )]
 
 ### 2008
 
@@ -210,7 +203,6 @@ bot.jpg "Image:2008_robot.jpg" )
   * Crosses 3 lines in autonomous mode 
   * _Still_ a very simple design! 
 
-[[edit](/index.php?title=2169&action=edit&section=8 "Edit section: 2007" )]
 
 ### 2007
 
@@ -223,11 +215,9 @@ nals08.jpg "Image:regionals08.jpg" )
   * Rough ramps to enhance grip 
   * VERY simple design 
 
-[[edit](/index.php?title=2169&action=edit&section=9 "Edit section: Events" )]
 
 ## Events
 
-[[edit](/index.php?title=2169&action=edit&section=10 "Edit section: 2011" )]
 
 ### 2011
 
@@ -263,7 +253,6 @@ to IRI 2011" )]
 
 #### Accepted to IRI 2011
 
-[[edit](/index.php?title=2169&action=edit&section=15 "Edit section: 2010" )]
 
 ### 2010
 
@@ -289,7 +278,6 @@ Championship" )]
 
 #### Championship
 
-[[edit](/index.php?title=2169&action=edit&section=19 "Edit section: 2009" )]
 
 ### 2009
 
@@ -305,7 +293,6 @@ Championship" )]
 
 #### Championship
 
-[[edit](/index.php?title=2169&action=edit&section=22 "Edit section: 2008" )]
 
 ### 2008
 
@@ -324,7 +311,6 @@ Championship" )]
   * Team 2169 engineered an infallible solution for their battery-cable problem they encountered in their last competition. As it turned out, many other teams were having the same problem. Team 2169's solution turned their problem into a strength! 
   * Team 2169 was chosen by Team 1816 (Green Machine) (who also chose team 2401) to compete in the final rounds. Due to technical complications with Team 1816's robot, the alliance was tragically eliminated in Quarters 4 Match 3. 
 
-[[edit](/index.php?title=2169&action=edit&section=25 "Edit section: 2007" )]
 
 ### 2007
 
@@ -370,7 +356,6 @@ Y29tLmNvbS8=
 
 [**EAC **](http://www.eacpds.com/ "http://www.eacpds.com/" )
 
-[[edit](/index.php?title=2169&action=edit&section=29 "Edit section: Links" )]
 
 ## Links
 

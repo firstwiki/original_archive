@@ -32,7 +32,6 @@ Team Website: | <http://www.team1719.org/>
   * 9 Students  
 ---  
   
-[[edit](/index.php?title=1719&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -81,7 +80,6 @@ Projects" )]
   * Include students from schools without FIRST teams who wish to participate on our team 
   * Support and mentor our school's [FLL](/index.php/FLL "FLL" ) (FIRST Lego League) team in the 2008 season 
 
-[[edit](/index.php?title=1719&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -141,7 +139,6 @@ Finally, thanks to our Non-Engineering Support Group!
   * Dori Plait - Business Mentor 
   * Seth Welborn - Web Design 
 
-[[edit](/index.php?title=1719&action=edit&section=8 "Edit section: Parents" )]
 
 ## Parents
 

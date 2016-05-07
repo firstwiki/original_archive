@@ -34,7 +34,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc339
   * 8 Mentors  
 ---  
   
-[[edit](/index.php?title=339&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -52,7 +51,6 @@ projects" )]
   * Supporting the North Stafford FTC team. 
   * Supporting the Brooke Point FTC team. 
 
-[[edit](/index.php?title=339&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -89,7 +87,6 @@ Accomplishments" )]
   * 2002 Johnson &amp; Johnson Mid-Atlantic Regional Champion 
   * 2001 Xerox Creativity Award 
 
-[[edit](/index.php?title=339&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -107,7 +104,6 @@ Accomplishments" )]
   * Southeastern Sheet Metal 
   * The Contractor's Lumberyard 
 
-[[edit](/index.php?title=339&action=edit&section=6 "Edit section: Students" )]
 
 ## Students
 
@@ -130,7 +126,6 @@ Accomplishments" )]
   * Nickhil Patel - Senior 
   * Travis Olbrich - Senior 
 
-[[edit](/index.php?title=339&action=edit&section=7 "Edit section: Alumni" )]
 
 ## Alumni
 
@@ -165,7 +160,6 @@ Accomplishments" )]
   * Eric Seglum - Class of 2005 
   * Charles Polly - Class of 2004, Clemson 
 
-[[edit](/index.php?title=339&action=edit&section=8 "Edit section: Mentors" )]
 
 ## Mentors
 

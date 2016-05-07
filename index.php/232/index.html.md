@@ -30,7 +30,6 @@ Team Website: |
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=232&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -47,7 +46,6 @@ desctiption and maybe
   * of 
   * links 
 
-[[edit](/index.php?title=232&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -68,7 +66,6 @@ Accomplishments" )]
   * accomplishments 
   * [year](/index.php/FIRSTwiki:Yearly_team_page_format "FIRSTwiki:Yearly team page format" )
 
-[[edit](/index.php?title=232&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -83,7 +80,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=232&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -92,7 +88,6 @@ List" )]
   3. and (role, year (senior, junior, soph...)) 
   4. him (role, year (senior, junior, soph...)) 
 
-[[edit](/index.php?title=232&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -100,7 +95,6 @@ List" )]
   2. him (year) 
   3. too (year) 
 
-[[edit](/index.php?title=232&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

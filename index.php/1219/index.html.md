@@ -67,7 +67,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1219
     * 6.6 Alumni  
 ---  
   
-[[edit](/index.php?title=1219&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -181,7 +180,6 @@ wood*" )]
   * Junior Vex Team 
   * 3 Lego League Teams 
 
-[[edit](/index.php?title=1219&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -196,11 +194,9 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1219&action=edit&section=6 "Edit section: Season" )]
 
 ### Season
 
-[[edit](/index.php?title=1219&action=edit&section=7 "Edit section: 2006" )]
 
 #### 2006
 
@@ -216,7 +212,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1219&action=edit&section=8 "Edit section: 2005" )]
 
 #### 2005
 
@@ -228,14 +223,12 @@ Accomplishments" )]
     * Top seeded Canadian team in the history of the Championships to date [Apr 21st - 23rd 2005](Not anymore Poor Eagles) 
     * Record Broken BY Team 296,217,and 522 blonging from Montearl, quebec, and ottawa(feel like killing them) 
 
-[[edit](/index.php?title=1219&action=edit&section=9 "Edit section: 2004" )]
 
 #### 2004
 
   * First school to have two seperate teams; Girls Team: Diamond Eagles, Boys Team: Iron Eagles 
   * Greater Toronto Regional 
 
-[[edit](/index.php?title=1219&action=edit&section=10 "Edit section: \[1219\]
 :: Iron Eagles" )]
 
 ##### [1219] :: Iron Eagles
@@ -243,14 +236,12 @@ Accomplishments" )]
   * 28th of 75 with a 4-3-1 [W-L-T] record 
   * Quarter-finalists 
 
-[[edit](/index.php?title=1219&action=edit&section=11 "Edit section: \[1309\]
 :: Diamond Eagles" )]
 
 ##### [1309] :: Diamond Eagles
 
   * 50th of 75 with a 3-5-0 [W-L-T] record 
 
-[[edit](/index.php?title=1219&action=edit&section=12 "Edit section: 2003" )]
 
 #### 2003
 
@@ -265,14 +256,12 @@ Season" )]
 
 ### Off Season
 
-[[edit](/index.php?title=1219&action=edit&section=14 "Edit section: 2006" )]
 
 ### 2006
 
   * Wonderland Off-Season Invitational 
     * Perseverance Award 
 
-[[edit](/index.php?title=1219&action=edit&section=15 "Edit section: 2005" )]
 
 #### 2005
 
@@ -296,7 +285,6 @@ Season" )]
   * ISECO 
   * MDRobotics 
 
-[[edit](/index.php?title=1219&action=edit&section=17 "Edit section: Team" )]
 
 ## Team
 
@@ -355,7 +343,6 @@ Videography" )]
   * Mubeen Farasat 
   * Abdullah Ramay 
 
-[[edit](/index.php?title=1219&action=edit&section=23 "Edit section: Alumni" )]
 
 ### Alumni
 

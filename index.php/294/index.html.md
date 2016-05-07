@@ -42,7 +42,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc294
     * 5.4 Leaders  
 ---  
   
-[[edit](/index.php?title=294&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -73,7 +72,6 @@ projects" )]
 
   * Project "Back in Black" 
 
-[[edit](/index.php?title=294&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -110,7 +108,6 @@ Accomplishments" )]
   * 2011 LA Semifinalists 
   * 2011 Galileo Semifinalists 
 
-[[edit](/index.php?title=294&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -119,7 +116,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=294&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
@@ -132,7 +128,6 @@ Accomplishments" )]
   * Gabby Salo - 2009 
   * Anthony Nguyen - 2010 
 
-[[edit](/index.php?title=294&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -151,7 +146,6 @@ Accomplishments" )]
   * Andrew Cole - 2006 
   * David Litwak - 2006 
 
-[[edit](/index.php?title=294&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -164,7 +158,6 @@ Accomplishments" )]
   * Jason Taylor - Wonderlan 
   * Andrew Keisic - GKN 
 
-[[edit](/index.php?title=294&action=edit&section=9 "Edit section: Leaders" )]
 
 ### Leaders
 

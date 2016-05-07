@@ -59,13 +59,11 @@ expansion" ).
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=190&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
 <http://users.wpi.edu/~first/index2.cgi?node=history>
 
-[[edit](/index.php?title=190&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -137,7 +135,6 @@ formats" ) for more help.
   * 2009 BOS GM Industrial Design Award 
   * 2009 MD Johnson and Johnson Gracious Professionalism Award 
 
-[[edit](/index.php?title=190&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -150,15 +147,12 @@ List" )]
 
 <http://users.wpi.edu/~first/index2.cgi?node=organization>
 
-[[edit](/index.php?title=190&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
-[[edit](/index.php?title=190&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=190&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

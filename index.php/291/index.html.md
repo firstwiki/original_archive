@@ -48,7 +48,6 @@ History" )]
 
 ##  Team History
 
-[[edit](/index.php?title=291&action=edit&section=2 "Edit section: 2006" )]
 
 ###  2006
 
@@ -62,7 +61,6 @@ marke by the earning of 4 awards. In Pittsburgh we took the Saftey,
 Sportsmanship, and Entrepreneurship awards. In Philly we took the Industrial
 Design award.
 
-[[edit](/index.php?title=291&action=edit&section=3 "Edit section: 2005" )]
 
 ###  2005
 
@@ -79,7 +77,6 @@ teams with quite a few more veterans on them), we also were honored with the
 Motorola Quality Award for having built the robot with the most rugged and
 reliable design. Congratulations to all involved.
 
-[[edit](/index.php?title=291&action=edit&section=4 "Edit section: 2004" )]
 
 ###  2004
 
@@ -94,7 +91,6 @@ Pennsylvania. And our design efforts raced to new horizons with the
 introduction of our first-ever omnidrive base which provided us with some new
 challenges.
 
-[[edit](/index.php?title=291&action=edit&section=5 "Edit section: 2003" )]
 
 ###  2003
 
@@ -119,7 +115,6 @@ matches were over and the playing fields fell silent we found ourselves ranked
 ninth in the Curie division – a team record for national competition. There
 was no doubt about it – we were really getting the hang of this.
 
-[[edit](/index.php?title=291&action=edit&section=6 "Edit section: 2002" )]
 
 ###  2002
 
@@ -148,7 +143,6 @@ division – the RAGE team #173) earned us a spot in the finals. Somewhat
 expectedly, doing this well only heightened our appetite reach for more in
 2003.
 
-[[edit](/index.php?title=291&action=edit&section=7 "Edit section: 2001" )]
 
 ###  2001
 
@@ -167,7 +161,6 @@ as a crane were effective but far from distinctive. While simply having the
 chance to participate was rewarding enough, the lessons learned were
 invaluable. We would not make the mistake of prioritizing incorrectly again.
 
-[[edit](/index.php?title=291&action=edit&section=8 "Edit section: 2000" )]
 
 ###  2000
 
@@ -185,7 +178,6 @@ tissue paper. While we didn’t win any FIRST awards, Team #33 did give us their
 Design Award in recognition of a robot that held the ramp with vise-like
 strength. Slowly but surely, we were making a name for ourselves.
 
-[[edit](/index.php?title=291&action=edit&section=9 "Edit section: 1999" )]
 
 ###  1999
 

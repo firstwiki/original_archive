@@ -73,7 +73,6 @@ The team is also committed to enhancing the technology department at Watertown
 High School and to graduating individuals who will make a difference in their
 communities.
 
-[[edit](/index.php?title=237&action=edit&section=4 "Edit section: History" )]
 
 ## History
 
@@ -84,7 +83,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=237&action=edit&section=6 "Edit section: Robots" )]
 
 ## Robots
 
@@ -102,7 +100,6 @@ Accomplishments" )]
   * [2000](/index.php?title=237_in_2000&action=edit "237 in 2000" )
   * [1999](/index.php?title=237_in_1999&action=edit "237 in 1999" )
 
-[[edit](/index.php?title=237&action=edit&section=8 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -133,13 +130,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=237&action=edit&section=11 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Jessica Boucher - Manchester, NH, Class of 2001 (Student Leader &amp; Founding Student) 
 
-[[edit](/index.php?title=237&action=edit&section=12 "Edit section: Mentors" )]
 
 ## Mentors
 

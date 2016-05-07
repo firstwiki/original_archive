@@ -51,7 +51,6 @@ Vision" )]
 
 ## Mission &amp; Vision
 
-[[edit](/index.php?title=FIRST&action=edit&section=2 "Edit section: Vision" )]
 
 ### Vision
 

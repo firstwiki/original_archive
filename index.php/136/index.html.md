@@ -48,7 +48,6 @@ leaders, that motivate them to go farther than the goal in front or them.
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=136&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -61,7 +60,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=136&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -74,7 +72,6 @@ Accomplishments" )]
 
   * [136 in 2004](/index.php?title=136_in_2004&action=edit "136 in 2004" )
 
-[[edit](/index.php?title=136&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -87,19 +84,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=136&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=136&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=136&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

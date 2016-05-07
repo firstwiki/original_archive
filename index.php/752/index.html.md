@@ -36,7 +36,6 @@ Team Website: | <http://www.shsrobotix.com/first/index.php>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=752&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -63,7 +62,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=752&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -80,7 +78,6 @@ Accomplishments" )]
 2006 Kleiner Perkins Caufield and Byers award (NYC Regional)  
 2007 Kleiner Perkins Caufield and Byers award (NYC Regional)
 
-[[edit](/index.php?title=752&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -93,19 +90,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=752&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=752&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=752&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

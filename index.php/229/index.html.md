@@ -53,7 +53,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc229
     * 6.4 Alumni  
 ---  
   
-[[edit](/index.php?title=229&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -87,7 +86,6 @@ start a successful FLL organization in each of Massena Central's Elementary
 Schools along with an FTC team in their Junior High School. In 2007, the team
 ran and sponsored a FLL and FTC event which took place at Clarkson University.
 
-[[edit](/index.php?title=229&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -145,7 +143,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=229&action=edit&section=8 "Edit section: Sponsors" )]
 
 ##  Sponsors
 
@@ -194,7 +191,6 @@ Advisors" )]
   * Steve Roberts 
   * Chuck Raiti 
 
-[[edit](/index.php?title=229&action=edit&section=12 "Edit section: Mentors" )]
 
 ###  Mentors
 
@@ -219,7 +215,6 @@ Advisors" )]
   * Erin Kennedy 
   * Steven Wolf 
 
-[[edit](/index.php?title=229&action=edit&section=13 "Edit section: Alumni" )]
 
 ###  Alumni
 

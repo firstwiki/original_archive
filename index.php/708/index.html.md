@@ -41,7 +41,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc708
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=708&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -54,7 +53,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=708&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -68,7 +66,6 @@ Accomplishments" )]
   * Regional Finalist - 2009 Philadelphia Regional 
   * Xerox Creativity Award - 2009 New Jersey Regional 
 
-[[edit](/index.php?title=708&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -92,19 +89,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=708&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=708&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=708&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -60,7 +60,6 @@ event March 24-25 (week 4).
 
 We'll be posting information about our latest robot and team shortly.
 
-[[edit](/index.php?title=1807&action=edit&section=2 "Edit section: History" )]
 
 ##  History
 
@@ -180,7 +179,6 @@ Parade; and we’ve worked with future team members at the elementary school’s
 Science Night and at the Allentown Public Library, showing them how we design
 and build a robot.
 
-[[edit](/index.php?title=1807&action=edit&section=3 "Edit section: Events" )]
 
 ##  Events
 
@@ -231,7 +229,6 @@ and build a robot.
   * 2005 Brunswick Eruption 4 (pre-rookies, using modified Team 1089 robot) 
   * 2005 Montclair Mayhem (pre-rookies, using modified Team 25 robot) 
 
-[[edit](/index.php?title=1807&action=edit&section=4 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -329,7 +326,6 @@ List" )]
 
 This year's 2012 team is our largest in team history, composed of 25 members!
 
-[[edit](/index.php?title=1807&action=edit&section=9 "Edit section: Alumni" )]
 
 ###  Alumni
 

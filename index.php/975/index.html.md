@@ -60,7 +60,6 @@ Team 503 will be participating in one regional event in 2007.
 
 NASA/VCU Regional, Richmond, Virginia
 
-[[edit](/index.php?title=975&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 

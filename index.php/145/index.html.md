@@ -31,7 +31,6 @@ Team Website: |
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=145&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -59,7 +58,6 @@ Accomplishments" )]
 
   * 2007- 
 
-[[edit](/index.php?title=145&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -74,7 +72,6 @@ Team" )]
 
 ##  2006-2007 Team
 
-[[edit](/index.php?title=145&action=edit&section=7 "Edit section: Students" )]
 
 ###  Students
 
@@ -99,7 +96,6 @@ Team" )]
 
   
 
-[[edit](/index.php?title=145&action=edit&section=8 "Edit section: Mentors" )]
 
 ###  Mentors
 

@@ -88,7 +88,6 @@ you know him personally.
     * 8.4 2005  
 ---  
   
-[[edit](/index.php?title=1592&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -138,18 +137,15 @@ Public Schools" )]
 ### [Brevard Public Schools](http://www.brevard.k12.fl.us/
 "http://www.brevard.k12.fl.us/" )
 
-[[edit](/index.php?title=1592&action=edit&section=7 "Edit section: Events" )]
 
 ## Events
 
-[[edit](/index.php?title=1592&action=edit&section=8 "Edit section: 2011" )]
 
 ### 2011
 
   * 2008 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/10/2011 - 3/12/2011) 
   * 2008 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/31/2011 - 4/2/2011) 
 
-[[edit](/index.php?title=1592&action=edit&section=9 "Edit section: 2010" )]
 
 ### 2010
 
@@ -157,7 +153,6 @@ Public Schools" )]
   * 2010 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/25/2010 - 3/27/2010) 
   * 2010 FIRST Championship (4/15/2010 - 4/17/2010) 
 
-[[edit](/index.php?title=1592&action=edit&section=10 "Edit section: 2009" )]
 
 ### 2009
 
@@ -165,7 +160,6 @@ Public Schools" )]
   * 2008 [Connecticut Regional](/index.php/Connecticut_Regional "Connecticut Regional" ) (3/26/2008 - 3/28/2008) 
   * 2008 FIRST Championship (4/16/2008 - 4/18/2008) 
 
-[[edit](/index.php?title=1592&action=edit&section=11 "Edit section: 2008" )]
 
 ### 2008
 
@@ -173,7 +167,6 @@ Public Schools" )]
   * 2008 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/27/2008 - 3/29/2008) 
   * 2008 FIRST Championship (4/17/2008 - 4/19/2008) 
 
-[[edit](/index.php?title=1592&action=edit&section=12 "Edit section: 2007" )]
 
 ### 2007
 
@@ -181,7 +174,6 @@ Public Schools" )]
   * 2007 FIRST Championship (4/12/2007 - 4/14/2007) 
   * 2007 [Waterloo Regional](/index.php/Waterloo_Regional "Waterloo Regional" ) (3/22/2007 - 3/24/2007) 
 
-[[edit](/index.php?title=1592&action=edit&section=13 "Edit section: 2006" )]
 
 ### 2006
 
@@ -189,14 +181,12 @@ Public Schools" )]
   * 2006 Boston Regional (3/23/2006 - 3/25/2006) 
   * 2006 FIRST Championship (4/27/2006 - 4/29/2006) 
 
-[[edit](/index.php?title=1592&action=edit&section=14 "Edit section: 2005" )]
 
 ### 2005
 
   * 2005 [Florida Regional](http://www.firstwiki.net/index.php/Florida_Regional "http://www.firstwiki.net/index.php/Florida_Regional" ) (3/10/2005 - 3/12/2005) 
   * 2005 FIRST Championship (4/21/2005 - 4/23/2005) 
 
-[[edit](/index.php?title=1592&action=edit&section=15 "Edit section: Robots" )]
 
 ## Robots
 
@@ -390,7 +380,6 @@ Sponsors" )]
   * Wing King Three 
   * Winn Dixie 
 
-[[edit](/index.php?title=1592&action=edit&section=30 "Edit section: Team" )]
 
 ## Team
 
@@ -521,17 +510,14 @@ Booster Team" )]
   * Trish Roberts 
   * Susan Roberts 
 
-[[edit](/index.php?title=1592&action=edit&section=38 "Edit section: Videos" )]
 
 ## Videos
 
-[[edit](/index.php?title=1592&action=edit&section=39 "Edit section: 2008" )]
 
 ### 2008
 
   * [2008 Overdrive](http://youtube.com/watch?v=yViRWaSODIc "http://youtube.com/watch?v=yViRWaSODIc" )
 
-[[edit](/index.php?title=1592&action=edit&section=40 "Edit section: 2007" )]
 
 ### 2007
 
@@ -540,11 +526,9 @@ Booster Team" )]
   * [2007 Championship - Newton Final 2](http://youtube.com/watch?v=ISyWa7mcueI "http://youtube.com/watch?v=ISyWa7mcueI" )
   * [2007 Championship - Newton Quarterfinals](http://youtube.com/watch?v=HkIxKxccfa8 "http://youtube.com/watch?v=HkIxKxccfa8" )
 
-[[edit](/index.php?title=1592&action=edit&section=41 "Edit section: 2006" )]
 
 ### 2006
 
-[[edit](/index.php?title=1592&action=edit&section=42 "Edit section: 2005" )]
 
 ### 2005
 

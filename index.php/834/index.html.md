@@ -31,7 +31,6 @@ Team Website: | <http://www.team834.org>
     * 4.2 Mentors  
 ---  
   
-[[edit](/index.php?title=834&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -41,7 +40,6 @@ with teams 293 and 358, won second place at the Philadelphia Regional.
 
   
 
-[[edit](/index.php?title=834&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -62,7 +60,6 @@ their rookie year at the 2002 Philadelpha Regional.
 In 2005, team 834, along with teams 293 and 358, won second place at the
 Philadelphia Regional.
 
-[[edit](/index.php?title=834&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -71,7 +68,6 @@ Philadelphia Regional.
   * Olympus 
   * Giant 
 
-[[edit](/index.php?title=834&action=edit&section=5 "Edit section: Students" )]
 
 ### Students
 
@@ -95,7 +91,6 @@ Philadelphia Regional.
   * Andy To - Vice President 
   * Kurt Walakovitz 
 
-[[edit](/index.php?title=834&action=edit&section=6 "Edit section: Mentors" )]
 
 ### Mentors
 

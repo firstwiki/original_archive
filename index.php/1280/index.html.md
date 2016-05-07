@@ -49,7 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1280
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=1280&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ projects" )]
 The web development team is very strong and has several of its own interesting
 projects.
 
-[[edit](/index.php?title=1280&action=edit&section=3 "Edit section: Scribe" )]
 
 ### Scribe
 
@@ -74,14 +72,12 @@ projects.
 "http://scribe.sourceforge.net" ) Scribe is the
 [CMS](/index.php?title=CMS&action=edit "CMS" ) that the 2006 website ran on.
 
-[[edit](/index.php?title=1280&action=edit&section=4 "Edit section: Kure" )]
 
 ### Kure
 
 [Project website](http://kure.thespinn.com "http://kure.thespinn.com" ) Kure
 is the blogging engine that was integrated into Scribe for the 2006 website.
 
-[[edit](/index.php?title=1280&action=edit&section=5 "Edit section: PQL" )]
 
 ### PQL
 
@@ -92,7 +88,6 @@ stores data in a quick-to-access, flat-file format. Future incarnations of
 Scribe and Kure will use PQL as their storage medium because of its technical
 superiority.
 
-[[edit](/index.php?title=1280&action=edit&section=6 "Edit section: Robots" )]
 
 ## Robots
 
@@ -139,7 +134,6 @@ Accomplishments" )]
   * Bank of California 
   * PG&amp;E 
 
-[[edit](/index.php?title=1280&action=edit&section=9 "Edit section: Members" )]
 
 ## Members
 

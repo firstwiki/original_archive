@@ -21,7 +21,6 @@ able to write more. --[cmh0114](/index.php/User:Cmh0114 "User:Cmh0114" )
 
   
 
-[[edit](/index.php?title=Vex&action=edit&section=1 "Edit section: Basics" )]
 
 # Basics
 

@@ -243,7 +243,6 @@ to participate in this competition, and your support is always welcome. In
 addition to funding, we are always looking for material donations such as
 tools, wood, and metal to help alleviate construction costs.
 
-[[edit](/index.php?title=1089&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 

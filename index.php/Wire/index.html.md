@@ -25,14 +25,12 @@ circuitry" ) component used to transfer electrical energy.
 The standard used in FIRST is the [AWG](/index.php?title=AWG&action=edit "AWG"
 ) standard. Each wire gauge should be used as follows.
 
-[[edit](/index.php?title=Wire&action=edit&section=2 "Edit section: 6 AWG" )]
 
 ### 6 AWG
 
 Used to connect from the [12V battery](/index.php/12V_battery "12V battery" )
 to any other circuit breakers and distrobution blocks.
 
-[[edit](/index.php?title=Wire&action=edit&section=3 "Edit section: 10 AWG" )]
 
 ### 10 AWG
 
@@ -40,21 +38,18 @@ Used in connecting Drill, CIM, Fisher-Price, Globe or Van Door
 [motors](/index.php/Motors "Motors" ) to [Victor 884](/index.php/Victor
 "Victor" ) and circit breakers.
 
-[[edit](/index.php?title=Wire&action=edit&section=4 "Edit section: 16 AWG" )]
 
 ### 16 AWG
 
 Used in connecting seat or window motors to Speed controllers and [circuit
 breakers](/index.php/Circuit_breaker "Circuit breaker" ).
 
-[[edit](/index.php?title=Wire&action=edit&section=5 "Edit section: 24 AWG" )]
 
 ### 24 AWG
 
 Used for connecting [Sensors](/index.php/Sensors "Sensors" ), PWM cables, or
 [Muffin fans](/index.php/Muffin_fan "Muffin fan" ).
 
-[[edit](/index.php?title=Wire&action=edit&section=6 "Edit section: NOTE" )]
 
 ### NOTE
 

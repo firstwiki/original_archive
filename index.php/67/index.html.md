@@ -49,11 +49,9 @@ regional victories.
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=67&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
-[[edit](/index.php?title=67&action=edit&section=2 "Edit section: Groups" )]
 
 ##  Groups
 
@@ -93,7 +91,6 @@ their [Chairman's](http://www2.huronvalley.k12.mi.us/schools/mhs/activity/hot_
 team/hot_chairmans.htm "http://www2.huronvalley.k12.mi.us/schools/mhs/activity
 /hot_team/hot_chairmans.htm" ) page.
 
-[[edit](/index.php?title=67&action=edit&section=5 "Edit section: Animation" )]
 
 ###  Animation
 
@@ -114,7 +111,6 @@ More information about Team 67 can be found on the [HOT team's website](http:/
 "http://www2.huronvalley.k12.mi.us/schools/mhs/activity/hot_team/index1.html"
 ).
 
-[[edit](/index.php?title=67&action=edit&section=6 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -180,7 +176,6 @@ Accomplishments" )]
 
 [[1]](http://www.usfirst.org/ "http://www.usfirst.org/" )
 
-[[edit](/index.php?title=67&action=edit&section=8 "Edit section: Sponsors" )]
 
 ##  Sponsors
 

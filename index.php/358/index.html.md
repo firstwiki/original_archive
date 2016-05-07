@@ -40,7 +40,6 @@ Team Website: | <http://www.team358.org/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=358&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -55,13 +54,11 @@ for help.
 We've been in the FIRST Robotics Competition since Fall of 1999. Here's some
 info on our last years:
 
-[[edit](/index.php?title=358&action=edit&section=2 "Edit section: 2000" )]
 
 ### 2000
 
   * In our rookie year, 2000, we got into FIRST having no clue what it was about, Mr. Foley, Mrs. Cassans and all of us students worked very hard. It all paid off for, we won the Rookie Award in the Long Island Regional. We also won Motorola Quality Award and Most Robust Robot. Although we lost in the finals, we went to Nationals where we were ranked in the Top 100. 
 
-[[edit](/index.php?title=358&action=edit&section=3 "Edit section: 2001" )]
 
 ### 2001
 
@@ -70,7 +67,6 @@ info on our last years:
 
   * During our second season, in 2001, we gained new advisors and engineers. During this year we were able to mentor the Mechanical Bull's (810) rookie season. We were ranked in the top 50% at the Long Island Regional and were in the Top 100 at Nationals. 
 
-[[edit](/index.php?title=358&action=edit&section=4 "Edit section: 2002" )]
 
 ### 2002
 
@@ -80,7 +76,6 @@ info on our last years:
   * In 2002, in the Long Island Regional, we won the Best Play Award (for crushing the MouseBot, sorry about that!) and the GM Industrial Design Award. We went into the finals ranked 10th, but came out in 4th place. 
     * In the New York City Regional went into the finals in 4th place and took 1st place with the SIE H20 BOTS (T.R.I.B.E.) (237). From there we went to Nationals. In Nationals we were ranked in the Top 100 of our division. 
 
-[[edit](/index.php?title=358&action=edit&section=5 "Edit section: 2003" )]
 
 ### 2003
 
@@ -92,7 +87,6 @@ info on our last years:
     * In the Long Island Regional, we won Delphi's "Driving Tomorrow's Technology" Award and the Johnson &amp; Johnson Sportsmanship Award for donating the practice field. We were undefeated and came in first in the seeding rounds, we picked R.A.G.E. (173) and The Duck Tape Bandits to be our allies, but we were knocked out in the first round of the elimination rounds. 
     * At Nationals, we had some technical difficulties, and were seeded 58th in our division. For the first time we made it into the finals, [Da Bears (247)](/index.php/247 "247" ) and Team [525](/index.php/525 "525" ) picked us to be allied with them. We played the first match against [R.A.G.E. (173)](/index.php/173 "173" ) and [Team Hot (67)](/index.php/67 "67" ). Unfortunately we were knocked out in the quarter finals. 
 
-[[edit](/index.php?title=358&action=edit&section=6 "Edit section: 2004" )]
 
 ### 2004
 
@@ -106,7 +100,6 @@ info on our last years:
 
   
 
-[[edit](/index.php?title=358&action=edit&section=7 "Edit section: 2005" )]
 
 ### 2005
 
@@ -118,7 +111,6 @@ info on our last years:
   * Deer Park Invitational Champions with teams [514](/index.php/514 "514" ) and [329](/index.php/329 "329" )
   * Brunswick Eruption Champions 
 
-[[edit](/index.php?title=358&action=edit&section=8 "Edit section: 2006" )]
 
 ### 2006
 
@@ -142,7 +134,6 @@ both daylight and night conditions.
 Robotics Class Robot - We setup our 2005 practice robot for the Robotics class
 to dismantle and reassemble as a learning tool.
 
-[[edit](/index.php?title=358&action=edit&section=10 "Edit section: Robots" )]
 
 ## Robots
 
@@ -203,7 +194,6 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=358&action=edit&section=15 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -218,7 +208,6 @@ List" )]
   * University of Maryland (<http://www.umd.edu/>) – Jessica White 
   * University of Virginia (<http://www.virginia.edu/>) – Iain McLeod 
 
-[[edit](/index.php?title=358&action=edit&section=16 "Edit section: Mentors" )]
 
 ### Mentors
 

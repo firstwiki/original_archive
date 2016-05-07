@@ -52,7 +52,6 @@ Bellarmine Prep Robotics Team, Tacoma WA, Founded in 1999,
   * 6 Members List  
 ---  
   
-[[edit](/index.php?title=360&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -67,7 +66,6 @@ projects" )]
 We are active in the community with many community events, Habitat for
 Humanity, and of course [FLL](/index.php/FLL "FLL" ).
 
-[[edit](/index.php?title=360&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -87,7 +85,6 @@ Accomplishments" )]
   * 2002 WA Imagery 
   * 2000 CA Best Offensive Round 
 
-[[edit](/index.php?title=360&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

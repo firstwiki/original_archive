@@ -44,7 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc191
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=191&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -78,7 +77,6 @@ projects" )]
   * Monroe County Rookie Team Development 
   * Rookie Team Mentoring at 1150 University Avenue, Rochester, NY 
 
-[[edit](/index.php?title=191&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -150,7 +148,6 @@ National Media Recoginition: Rochester Democrat &amp; Chronicle, Forbes,
 Christian Science Monitor, Smithsonian, New York Times &amp; CBS News, WXXI
 HomeWork Hotline
 
-[[edit](/index.php?title=191&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -166,19 +163,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=191&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=191&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Adrienne Emerson - Clarkson University, Class of 2001 -Team 229 Leader in 2005 
 
-[[edit](/index.php?title=191&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

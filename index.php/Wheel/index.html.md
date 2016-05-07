@@ -25,7 +25,6 @@ Jump to: navigation, search
   * 6 External links  
 ---  
   
-[[edit](/index.php?title=Wheel&action=edit&section=1 "Edit section: Types" )]
 
 ##  Types
 
@@ -41,7 +40,6 @@ Standard wheels are the ones which ship with the FIRST kit of parts.
 Originally 8 inches in diameter, the size was changed to 6 inches for the 2007
 season.
 
-[[edit](/index.php?title=Wheel&action=edit&section=3 "Edit section: Grip" )]
 
 ##  Grip
 

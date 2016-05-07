@@ -36,7 +36,6 @@ Team Website: | <http://www.team96.org/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=96&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -57,7 +56,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=96&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -70,7 +68,6 @@ Accomplishments" )]
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=96&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -83,19 +80,16 @@ Accomplishments" )]
 
   * Member Example 
 
-[[edit](/index.php?title=96&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=96&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
 Corey Smith- Johnson &amp; Wales University, Class of 2006
 
-[[edit](/index.php?title=96&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

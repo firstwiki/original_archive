@@ -34,7 +34,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=987
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=987&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -67,7 +66,6 @@ projects" )]
 
   * [team987.com] 
 
-[[edit](/index.php?title=987&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -98,7 +96,6 @@ Accomplishments" )]
 Team 987 has won three out of four years since the Las Vegas Regional was
 started.
 
-[[edit](/index.php?title=987&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -125,19 +122,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=987&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=987&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=987&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

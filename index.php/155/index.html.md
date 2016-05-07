@@ -44,7 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc155
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=155&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -57,7 +56,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=155&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -88,7 +86,6 @@ Accomplishments" )]
 
   * Collects Bottles for recycling  
 
-[[edit](/index.php?title=155&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -105,14 +102,12 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=155&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Andrew Hall-07 
   * Andrew Legnani-07 
 
-[[edit](/index.php?title=155&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -125,7 +120,6 @@ List" )]
 
   * Eillen Roberts Central CT State U CT Class of 06  
 
-[[edit](/index.php?title=155&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -58,7 +58,6 @@ This year's team attended four competitions, were the Connecticut Director's
 Award winners, and achieved the 1st Place Teamword Award at the Ocean Odyssey
 [FLL World Festival](/index.php/FLL_World_Festival "FLL World Festival" )
 
-[[edit](/index.php?title=SMART&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 

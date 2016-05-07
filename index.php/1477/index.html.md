@@ -79,7 +79,6 @@ officially adopted the name **Northside Roboteers** in 2005.
       * 5.3.6 2009  
 ---  
   
-[[edit](/index.php?title=1477&action=edit&section=1 "Edit section: Robots" )]
 
 ## Robots
 
@@ -233,7 +232,6 @@ Robot RoundUp 2009: Lunar Shootout" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=1477&action=edit&section=17 "Edit section: 2004" )]
 
 ### 2004
 
@@ -242,7 +240,6 @@ Robot RoundUp 2009: Lunar Shootout" )]
   * Borden Chemicals 
   * Performance Technologies 
 
-[[edit](/index.php?title=1477&action=edit&section=18 "Edit section: 2005" )]
 
 ### 2005
 
@@ -250,21 +247,18 @@ Robot RoundUp 2009: Lunar Shootout" )]
   * BJ Services 
   * Hexion 
 
-[[edit](/index.php?title=1477&action=edit&section=19 "Edit section: 2006" )]
 
 ### 2006
 
   * Anadarko Petroleum Corporation 
   * BJ Services 
 
-[[edit](/index.php?title=1477&action=edit&section=20 "Edit section: 2007" )]
 
 ### 2007
 
   * Anadarko Petroleum Corporation 
   * Halliburton 
 
-[[edit](/index.php?title=1477&action=edit&section=21 "Edit section: 2008" )]
 
 #### 2008
 
@@ -277,7 +271,6 @@ Robot RoundUp 2009: Lunar Shootout" )]
   * BioFuels Power Corporation 
   * Dr. &amp; Mrs. Gerald Whitehouse 
 
-[[edit](/index.php?title=1477&action=edit&section=22 "Edit section: 2009" )]
 
 #### 2009
 
@@ -299,7 +292,6 @@ List" )]
 
 ### Students
 
-[[edit](/index.php?title=1477&action=edit&section=25 "Edit section: 2004" )]
 
 #### 2004
 
@@ -318,7 +310,6 @@ List" )]
   * Hartej Singh 
   * Ryan Sturgeon 
 
-[[edit](/index.php?title=1477&action=edit&section=26 "Edit section: 2005" )]
 
 #### 2005
 
@@ -347,7 +338,6 @@ List" )]
   * Brent Vangolen 
   * Zi Jiang Yang 
 
-[[edit](/index.php?title=1477&action=edit&section=27 "Edit section: 2006" )]
 
 #### 2006
 
@@ -365,7 +355,6 @@ List" )]
   * Jesse Tannahill 
   * David Uszynski 
 
-[[edit](/index.php?title=1477&action=edit&section=28 "Edit section: 2007" )]
 
 #### 2007
 
@@ -385,7 +374,6 @@ List" )]
   * Jesse Tannahill 
   * Justin Wilson 
 
-[[edit](/index.php?title=1477&action=edit&section=29 "Edit section: 2008" )]
 
 #### 2008
 
@@ -419,7 +407,6 @@ List" )]
   * Richard Narendran 
   * Sarah-Kate Strickland 
 
-[[edit](/index.php?title=1477&action=edit&section=30 "Edit section: 2009" )]
 
 #### 2009
 
@@ -456,7 +443,6 @@ List" )]
   * Stephen Carroll 
   * TJ Sorensen 
 
-[[edit](/index.php?title=1477&action=edit&section=31 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -483,7 +469,6 @@ List" )]
 
 ### Mentors
 
-[[edit](/index.php?title=1477&action=edit&section=33 "Edit section: 2004" )]
 
 #### 2004
 
@@ -495,7 +480,6 @@ List" )]
   * Cassie Steffy 
   * Cheryl Sturgeon (School Sponsor) 
 
-[[edit](/index.php?title=1477&action=edit&section=34 "Edit section: 2005" )]
 
 #### 2005
 
@@ -509,7 +493,6 @@ List" )]
   * Cassie Steffy 
   * Cheryl Sturgeon (School Sponsor) 
 
-[[edit](/index.php?title=1477&action=edit&section=35 "Edit section: 2006" )]
 
 #### 2006
 
@@ -517,7 +500,6 @@ List" )]
   * Cassie Steffy 
   * Cheryl Sturgeon (School Sponsor) 
 
-[[edit](/index.php?title=1477&action=edit&section=36 "Edit section: 2007" )]
 
 #### 2007
 
@@ -526,7 +508,6 @@ List" )]
   * Cassie Steffy 
   * Cheryl Sturgeon (School Sponsor) 
 
-[[edit](/index.php?title=1477&action=edit&section=37 "Edit section: 2008" )]
 
 #### 2008
 
@@ -537,7 +518,6 @@ List" )]
   * Jerry Whitehouse 
   * John Kosin 
 
-[[edit](/index.php?title=1477&action=edit&section=38 "Edit section: 2009" )]
 
 #### 2009
 

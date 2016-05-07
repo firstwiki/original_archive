@@ -40,7 +40,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc694
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=694&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -98,7 +97,6 @@ projects" )]
     * Featured in Popular Science, Scientific American, a Chinese Radio Station, and a local Hartford paper 
     * Expanded to largest team size in history at over 100 members 
 
-[[edit](/index.php?title=694&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -157,7 +155,6 @@ Accomplishments" )]
     * CONN Regional quarterfinalist 
     * CONN Regional Chairman's Award 
 
-[[edit](/index.php?title=694&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -184,7 +181,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=694&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -285,7 +281,6 @@ List" )]
     * Harrison Wong 
     * Dishen Yang 
 
-[[edit](/index.php?title=694&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -322,7 +317,6 @@ List" )]
   * Allan Dong - Freshman, WashU in St. Louis 
   * Theodora "Theo" Kunicki - Freshman, MIT 
 
-[[edit](/index.php?title=694&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

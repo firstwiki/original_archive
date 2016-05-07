@@ -56,7 +56,6 @@ Magna Seating.
   * 14 External Links  
 ---  
   
-[[edit](/index.php?title=503&action=edit&section=1 "Edit section: History" )]
 
 ## History
 

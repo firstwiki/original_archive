@@ -41,7 +41,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc922
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=922&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -73,7 +72,6 @@ participation at the LCC Family Fun Fest at Laredo Community College. In
 addition, the team performs community service while promoting awareness in
 engineering, science, and technology.
 
-[[edit](/index.php?title=922&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -85,7 +83,6 @@ engineering, science, and technology.
   * 2003- H2 
   * 2002- Hercules 
 
-[[edit](/index.php?title=922&action=edit&section=4 "Edit section: Awards" )]
 
 ## Awards
 
@@ -132,7 +129,6 @@ BEST Robotics ::
   * 2005- San Antonio BEST Spirit and Sportsmanship Award 
   * 2004- San Antonio BEST Table Display and Interview Award 
 
-[[edit](/index.php?title=922&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

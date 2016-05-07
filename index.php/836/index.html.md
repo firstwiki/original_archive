@@ -35,7 +35,6 @@ Team Website: | www.robobees.org
   * 7 Links  
 ---  
   
-[[edit](/index.php?title=836&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -65,7 +64,6 @@ deview.JPG "image:836sideview.JPG" )
 [![image:836postcard.JPG](/media/d/db/836postcard.JPG)](/index.php/Image:836po
 stcard.JPG "image:836postcard.JPG" )
 
-[[edit](/index.php?title=836&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -116,7 +114,6 @@ Accomplishments" )]
 
 2008- Semifinalist at New Jersey Regional
 
-[[edit](/index.php?title=836&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -157,7 +154,6 @@ List" )]
 
 The members of Team 836 are both high school students, and mentors.
 
-[[edit](/index.php?title=836&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -174,7 +170,6 @@ Stachelczyk" )
 [Matt Virts](/index.php/User:Mvirts "User:Mvirts" )  
 [Tim Miedzinski](/index.php?title=User:Tim-tim&action=edit "User:Tim-tim" )  
 
-[[edit](/index.php?title=836&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -182,13 +177,11 @@ Miles Frangenberg(2003-2005), David Conrad(2004-2005), Brad Cahn (2003-2005),
 Mat Wheatly (?-2006) , Brandy Reed (?-2006), Matt Keeler(?-2006), Andrew
 Smith(?-2006)
 
-[[edit](/index.php?title=836&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 
 Dave Buddenbohn. . .Founder
 
-[[edit](/index.php?title=836&action=edit&section=10 "Edit section: Links" )]
 
 ## Links
 

@@ -51,7 +51,6 @@ grace the field of competition at a regional.
   * 4 Accomplishments  
 ---  
   
-[[edit](/index.php?title=1337&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -68,7 +67,6 @@ desctiption and maybe
   * of 
   * links 
 
-[[edit](/index.php?title=1337&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 

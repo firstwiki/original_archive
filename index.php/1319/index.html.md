@@ -46,7 +46,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1319
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1319&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -59,7 +58,6 @@ projects" )]
 
 **We have helped with many events such as volunteering at Lego League tournaments and many presentations in our community. We are actively building community partnerships and starting FLL and FTC teams.**
 
-[[edit](/index.php?title=1319&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -119,11 +117,9 @@ List" )]
 
 ### Students
 
-[[edit](/index.php?title=1319&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=1319&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

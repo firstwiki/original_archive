@@ -50,7 +50,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc4
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=4&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -174,11 +173,9 @@ high school participated in FIRST as part of Team 22.
 Being a part of Team 22 for years, it seemed illogical to be given a rookie
 number and the retired team number 4 was assigned.
 
-[[edit](/index.php?title=4&action=edit&section=7 "Edit section: Robots" )]
 
 ##  Robots
 
-[[edit](/index.php?title=4&action=edit&section=8 "Edit section: 2008 Robot" )]
 
 ###  2008 Robot
 
@@ -195,7 +192,6 @@ Image:P1070257.JPG "2008 Robot" )
   * Our website [[1]](http://www.team4element.com "http://www.team4element.com" )
   * FRC [[2]](http://www.usfirst.org/community/frc/default.aspx?id=966 "http://www.usfirst.org/community/frc/default.aspx?id=966" )
 
-[[edit](/index.php?title=4&action=edit&section=10 "Edit section: Events" )]
 
 ##  Events
 
@@ -222,7 +218,6 @@ Accomplishments" )]
   * 2006 ON Judge's Award Day 1 
   * 2007 [Los Angeles Regional](/index.php/Los_Angeles_Regional "Los Angeles Regional" ) Champion 
 
-[[edit](/index.php?title=4&action=edit&section=12 "Edit section: Sponsors" )]
 
 ##  Sponsors
 
@@ -256,7 +251,6 @@ Accomplishments" )]
 
 ##  Members List
 
-[[edit](/index.php?title=4&action=edit&section=14 "Edit section: Current" )]
 
 ###  Current
 
@@ -315,7 +309,6 @@ Accomplishments" )]
   * Nolan T (Electronics) 
   * Alyson W (Financial) 
 
-[[edit](/index.php?title=4&action=edit&section=15 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -340,7 +333,6 @@ Accomplishments" )]
   * Robin R (Machining, (2007)) 
   * Alejandra F (Electronics, (2007)) 
 
-[[edit](/index.php?title=4&action=edit&section=16 "Edit section: Mentors" )]
 
 ###  Mentors
 

@@ -15,7 +15,6 @@ Jump to: navigation, search
 
 **PWM** stands for _**Pulse Width Modulation**_. A PWM signal is a square wave that transmits data by varying the widht of the signal, or time which it is high, creating an [analog](/index.php/Analog "Analog" ) signal with limits, so to speak (any value between 0 and 1 inclusively). By varying the width of the signal, the [speed controller](/index.php/Speed_controller "Speed controller" ) can make changes to the speed the [motors](/index.php/Motor "Motor" ) are run at. 
 
-[[edit](/index.php?title=PWM&action=edit&section=1 "Edit section: See also" )]
 
 ## See also
 

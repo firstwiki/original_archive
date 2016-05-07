@@ -60,7 +60,6 @@ _**Team 1801 - The Dapper Dans of Kountze, Texas**_
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1801&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -77,7 +76,6 @@ desctiption and maybe
   * of 
   * links 
 
-[[edit](/index.php?title=1801&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -122,7 +120,6 @@ List" )]
   * and (role, year (class)) 
   * him (role, year (class)) 
 
-[[edit](/index.php?title=1801&action=edit&section=8 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -130,7 +127,6 @@ List" )]
   * him (year) 
   * too (year) 
 
-[[edit](/index.php?title=1801&action=edit&section=9 "Edit section: Mentors" )]
 
 ###  Mentors
 

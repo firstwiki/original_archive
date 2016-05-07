@@ -338,7 +338,6 @@ fun, I get to take credit, and I get to wear this shirt.
 > Any way, we do thank you all for the work you're doing. Let's get on with
 the rest of the game.
 
-[[edit](/index.php?title=Tooth&action=edit&section=5 "Edit section: Source" )]
 
 ##  Source
 

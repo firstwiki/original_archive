@@ -42,7 +42,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1517
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1517&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -100,7 +99,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=1517&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -178,7 +176,6 @@ Matt, Jena, Jack, and Nick(Juniors)
 Sterling, Lincoln, Ian, Jonny, Tom, Casey, Hillary, Abbey, Katie, and Mark
 (Seniors)
 
-[[edit](/index.php?title=1517&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -191,7 +188,6 @@ keep in touch so here's what you do.
        * Visit our facebook page at [[1]](http://www.facebook.com/group.php?gid=56979468120 "http://www.facebook.com/group.php?gid=56979468120" )
     
 
-[[edit](/index.php?title=1517&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

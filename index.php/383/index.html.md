@@ -37,7 +37,6 @@ Team Website: | <http://www.team383.com.br/>
   * 5 Links  
 ---  
   
-[[edit](/index.php?title=383&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -53,7 +52,6 @@ great results.
 
   
 
-[[edit](/index.php?title=383&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -108,13 +106,11 @@ List" )]
 
   * Guilherme Peretti 
 
-[[edit](/index.php?title=383&action=edit&section=6 "Edit section: Teachers" )]
 
 ### Teachers
 
   * Vitor Barbieri 
 
-[[edit](/index.php?title=383&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -136,7 +132,6 @@ Mentors" )]
   * Roberta Ferrão Hampe 
   * Gabriel Szyszka Haeser 
 
-[[edit](/index.php?title=383&action=edit&section=9 "Edit section: Students" )]
 
 ### Students
 
@@ -152,7 +147,6 @@ Mentors" )]
   * Maria Eduarda Barcellos 
   * Mariana Corrêa Fernandes 
 
-[[edit](/index.php?title=383&action=edit&section=10 "Edit section: Links" )]
 
 ## Links
 

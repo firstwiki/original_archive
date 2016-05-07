@@ -32,7 +32,6 @@ Team Website: | null
   * 9 Students  
 ---  
   
-[[edit](/index.php?title=1893&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -41,7 +40,6 @@ Projects" )]
 
 ## Team Projects
 
-[[edit](/index.php?title=1893&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -68,7 +66,6 @@ Engineering Mentors" )]
 
 ## Non-Engineering Mentors
 
-[[edit](/index.php?title=1893&action=edit&section=8 "Edit section: Parents" )]
 
 ## Parents
 

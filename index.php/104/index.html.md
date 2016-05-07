@@ -32,7 +32,6 @@ Team Website: | <http://www.team104.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=104&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -45,7 +44,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=104&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -58,7 +56,6 @@ Accomplishments" )]
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=104&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -77,7 +74,6 @@ clip.png)](/index.php/Image:104mascot.JPG "Enlarge" )
 
 The Team 104 "Alien" mascot
 
-[[edit](/index.php?title=104&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -104,14 +100,12 @@ The Team 104 "Alien" mascot
   * Brett W 
   * Lisa Y 
 
-[[edit](/index.php?title=104&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Andrew K - Pennsylvania College of Technology, Class of 2004 
   * [Brian Bolz](/index.php?title=Brian_Bolz&action=edit "Brian Bolz" ) \- PSU, Class of 2004 
 
-[[edit](/index.php?title=104&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

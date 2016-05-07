@@ -43,13 +43,11 @@ the obligations required to compete and advertise. Each group has two
 managers. We have mentors and advisors to help with the development of the
 robot and the relationships of the students.
 
-[[edit](/index.php?title=3017&action=edit&section=2 "Edit section: Awards" )]
 
 ## Awards
 
 2009 NYC Regional-Rookie Inspiration Award
 
-[[edit](/index.php?title=3017&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 

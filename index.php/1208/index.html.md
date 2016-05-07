@@ -44,7 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1208
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1208&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +59,6 @@ Fundraising Projects" )]
   * Car Washes 
   * Ornament sales throughout the Holiday season 
 
-[[edit](/index.php?title=1208&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -191,13 +189,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=1208&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=1208&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

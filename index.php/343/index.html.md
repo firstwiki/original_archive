@@ -66,7 +66,6 @@ projects" )]
   * SC Adopt-a-Highway 
   * Oconee County Robo-Boosters 
 
-[[edit](/index.php?title=343&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -148,7 +147,6 @@ Teams" )]
 
   * Team 342 
 
-[[edit](/index.php?title=343&action=edit&section=6 "Edit section: Links" )]
 
 ## Links
 

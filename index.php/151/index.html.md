@@ -37,7 +37,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=151
   * 6 External Links  
 ---  
   
-[[edit](/index.php?title=151&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -99,7 +98,6 @@ toughtechs.org. The team's new website is now at
 website also includes an alternative "classic view" to satisfy those fond of
 the original look of the site.
 
-[[edit](/index.php?title=151&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -191,7 +189,6 @@ Accomplishments" )]
   * Number 1 Seed - BAE Granite State Regional 
   * Best Website Award - BAE Granite State Regional 
 
-[[edit](/index.php?title=151&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -247,7 +244,6 @@ Leads" )]
     * Software - Mark Lemay 
     * Chairman's - Hillary Cheng 
 
-[[edit](/index.php?title=151&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -268,7 +264,6 @@ Leads" )]
   * 2003 **[Incomplete List]**
     * Aaron Lussier - Navy 
 
-[[edit](/index.php?title=151&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

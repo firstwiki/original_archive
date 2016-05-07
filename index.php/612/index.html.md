@@ -66,7 +66,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc612
     * 6.4 Former Mentors  
 ---  
   
-[[edit](/index.php?title=612&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -89,7 +88,6 @@ projects" )]
   * [FIRST STEP](/index.php?title=FIRST_STEP&action=edit "FIRST STEP" )
   * [Engineers Without Borders](/index.php?title=Engineers_Without_Borders&action=edit "Engineers Without Borders" )
 
-[[edit](/index.php?title=612&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -108,7 +106,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=612&action=edit&section=5 "Edit section: 2012" )]
 
 ### 2012
 
@@ -117,22 +114,18 @@ Regional" ) [Motorola Quality Award](/index.php/Motorola_Quality_Award
 "Motorola Quality Award" )  
 2012 - [DC Regional](/index.php?title=DC_Regional&action=edit "DC Regional" )
 
-[[edit](/index.php?title=612&action=edit&section=6 "Edit section: 2011" )]
 
 ### 2011
 
 2011 - [DC Regional](/index.php?title=DC_Regional&action=edit "DC Regional" )  
 2011 - [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
 
-[[edit](/index.php?title=612&action=edit&section=7 "Edit section: 2010" )]
 
 ### 2010
 
-[[edit](/index.php?title=612&action=edit&section=8 "Edit section: 2009" )]
 
 ### 2009
 
-[[edit](/index.php?title=612&action=edit&section=9 "Edit section: 2008" )]
 
 ### 2008
 
@@ -149,7 +142,6 @@ Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award
 2008 - [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
 [Team Spirit Award](/index.php/Team_Spirit_Award "Team Spirit Award" )  
 
-[[edit](/index.php?title=612&action=edit&section=10 "Edit section: 2007" )]
 
 ### 2007
 
@@ -163,7 +155,6 @@ Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award
 2007 - [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake
 Regional" ) [Finalist](/index.php/Finalist "Finalist" )  
 
-[[edit](/index.php?title=612&action=edit&section=11 "Edit section: 2006" )]
 
 ### 2006
 
@@ -287,7 +278,6 @@ Alumni" )]
   * Cha Li, [Virginia Tech](/index.php?title=Virginia_Tech&action=edit "Virginia Tech" ), Class of 2010 
   * [Nate Laverdure](/index.php/User:Nlaverdure "User:Nlaverdure" ), [Old Dominion University](/index.php?title=Old_Dominion_University&action=edit "Old Dominion University" ), Class of 2010 
 
-[[edit](/index.php?title=612&action=edit&section=17 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -295,7 +285,6 @@ Alumni" )]
   * Dave Masters 
   * Shan Rammah 
   * Marty Rothwell 
-  * [[edit](/index.php?title=612&action=edit&section=18 "Edit section: Former Mentors" )]
 
 ### Former Mentors
 

@@ -38,7 +38,6 @@ Team Website: | <http://www.lahsrobotics.org>
     * 2.3 Mentors  
 ---  
   
-[[edit](/index.php?title=114&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -59,7 +58,6 @@ to concentrate on driving - not aiming.
 
   
 
-[[edit](/index.php?title=114&action=edit&section=2 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -67,7 +65,6 @@ to concentrate on driving - not aiming.
   * [Best Buy](http://www.bestbuy.com "http://www.bestbuy.com" )
   * [Los Altos Rotary](http://www.losaltosrotary.org "http://www.losaltosrotary.org" )
 
-[[edit](/index.php?title=114&action=edit&section=3 "Edit section: Students" )]
 
 ### Students
 
@@ -84,7 +81,6 @@ to concentrate on driving - not aiming.
   * Zach Garcia 10 
   * Marshall Scott 10 
 
-[[edit](/index.php?title=114&action=edit&section=4 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -104,7 +100,6 @@ to concentrate on driving - not aiming.
   * Bryce Taenzer 
   * Tyler Draeger 
 
-[[edit](/index.php?title=114&action=edit&section=5 "Edit section: Mentors" )]
 
 ### Mentors
 

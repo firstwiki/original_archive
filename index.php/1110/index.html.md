@@ -28,7 +28,6 @@ Approximate team size: | 18
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=1110&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -43,7 +42,6 @@ California Regional" ) in 2003 to 28th place in 2004. In 2005 we will attend
 the regional in Las Vegas due to a request from [NASA](/index.php/NASA "NASA"
 ) one of our sponsors.
 
-[[edit](/index.php?title=1110&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -84,7 +82,6 @@ List" )]
   * Kristen Von Bustrick- Class of '07 
   * Josh Stepp- Class of '07 
 
-[[edit](/index.php?title=1110&action=edit&section=6 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -100,7 +97,6 @@ List" )]
   * Shaina Silver - Class of '05 
   * Christoph Siedentop - Class of '06 
 
-[[edit](/index.php?title=1110&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 

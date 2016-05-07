@@ -24,7 +24,6 @@ who managing by themself in all meanings.
 
   
 
-[[edit](/index.php?title=1690&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 

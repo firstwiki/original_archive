@@ -43,7 +43,6 @@ Lafayette Jefferson High School in Lafayette, Indiana.
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1646&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +59,6 @@ In 2006, the team decided to change its name from Lafayette Jeff Robotics to
 Boiler Precision Guessworks. The team was quite successful and made it to the
 semifinals at the Buckeye Regional in Cleveland, Ohio.
 
-[[edit](/index.php?title=1646&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -75,19 +73,16 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1646&action=edit&section=4 "Edit section: 2005" )]
 
 ### 2005
 
 Boilermaker Regional Rookie All Star
 
-[[edit](/index.php?title=1646&action=edit&section=5 "Edit section: 2005" )]
 
 ### 2005
 
 Midwest Regional Highest Rookie Seed
 
-[[edit](/index.php?title=1646&action=edit&section=6 "Edit section: 2009" )]
 
 ### 2009
 
@@ -152,7 +147,6 @@ Relations" )]
   * Amanda Hall 
   * Tyler Halliwell 
 
-[[edit](/index.php?title=1646&action=edit&section=14 "Edit section: Alumni" )]
 
 ### Alumni
 

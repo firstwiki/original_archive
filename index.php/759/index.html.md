@@ -40,7 +40,6 @@ Team Website: | <http://www.systemetric.org/>
     * 7.5 Pre 2003/04 season members  
 ---  
   
-[[edit](/index.php?title=759&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -80,7 +79,6 @@ clip.png)](/index.php/Image:Robotics1.jpg "Enlarge" )
 
 Activities Fair display, 9th September 2005
 
-[[edit](/index.php?title=759&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -128,7 +126,6 @@ York City Regional \(2008\)" ): 7th
 [2002](/index.php/New_York_City_Regional_%282002%29 "New York City Regional
 \(2002\)" ): 17th (Rookie Year)  
 
-[[edit](/index.php?title=759&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -138,11 +135,9 @@ York City Regional \(2008\)" ): 7th
   * Spy Masters 
   * and others... 
 
-[[edit](/index.php?title=759&action=edit&section=6 "Edit section: Members" )]
 
 ## Members
 
-[[edit](/index.php?title=759&action=edit&section=7 "Edit section: Founder" )]
 
 #### Founder
 
@@ -157,7 +152,6 @@ Members" )]
 
 WARNING THIS SECTION IS OUT OF DATE!
 
-[[edit](/index.php?title=759&action=edit&section=9 "Edit section: U6" )]
 
 #### U6
 
@@ -172,7 +166,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Tom Tanvir 
   * Ollie Wilson 
 
-[[edit](/index.php?title=759&action=edit&section=10 "Edit section: L6" )]
 
 #### L6
 
@@ -195,7 +188,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Thomas Thornton 
   * Nathan Whitaker 
 
-[[edit](/index.php?title=759&action=edit&section=11 "Edit section: Mentors" )]
 
 #### Mentors
 

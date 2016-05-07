@@ -61,7 +61,6 @@ The [Control System](/index.php/Control_system "Control system" )
   * 3 Spike Red  
 ---  
   
-[[edit](/index.php?title=Spike&action=edit&section=1 "Edit section: Data" )]
 
 ## Data
 
@@ -76,7 +75,6 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Spike&action=edit&section=3 "Edit section: Motors" )]
 
 ### Motors
 

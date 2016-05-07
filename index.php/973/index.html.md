@@ -46,7 +46,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc973
     * 6.3 Parents Mentors  
 ---  
   
-[[edit](/index.php?title=973&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -102,7 +101,6 @@ projects" )]
   * [973's 2009 Offseason - 'Black Knight'](/index.php/973_in_2009#Offseason_Project_-_.27Black_Knight.27 "973 in 2009" )
   * 973's 2011 Offseason - To be unvieled in the fall... 
 
-[[edit](/index.php?title=973&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -148,7 +146,6 @@ Accomplishments" )]
   * 2011 - World Championship Galileo Division Winner 
   * **2011 - World Championship Winner (With teams [254](/index.php/254 "254" ) and [111](/index.php/111 "111" ))**
 
-[[edit](/index.php?title=973&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

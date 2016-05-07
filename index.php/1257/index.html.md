@@ -34,7 +34,6 @@ Team Website: | <http://ucnj-tech.org>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1257&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -52,7 +51,6 @@ projects" )]
   * [Holonomic drive](/index.php?title=Holonomic_drive&action=edit "Holonomic drive" ) \- summer 2004, 1257 plans to construct a 4 wheeled holonomic drive robot using omniwheels. The software that will be used introduces some novel features and is largely completed. It will allow the robot to maintain an absolute orientation on the field so that forward on a joystick will always cause the robot to move in the same direction, regardless of which way it is facing. This ability may also allow a maneuver where the robot rotates about its center while moving forward. The robot will have 4 smaller omniwheels next to the drive omniwheel to track true movement relative to the ground for that particular drive train. Additionally, a custom circuit utilizing a counter and a shift register will be constructed for each drive system so that counting can be (mostly) offloaded from the [FRC](/index.php/Robot_Controller "Robot Controller" ). 
   * A "charity box" inspired by one seen at the local Dairy Queen, potentially in partnership with the Dairy Queen. It will be a garbage can-sized robot-looking wheeled thing. Inside its clear "chest" will be various plinko machine type things to bounce the donated coins around. 
 
-[[edit](/index.php?title=1257&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -100,7 +98,6 @@ index-letter-All-sortby-una-file-index.html "http://www.magnetrobotics.com
   * [Christine Lomiguen](/index.php/User:Christine "User:Christine" ) \- HS Senior 
   * [Sean Murray](/index.php/User:Sean "User:Sean" ) \- HS Sophmore 
 
-[[edit](/index.php?title=1257&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -116,7 +113,6 @@ index-letter-All-sortby-una-file-index.html "http://www.magnetrobotics.com
   * Preethi Moorthy - Cooper Union, Class of 2008 
   * Eric Whitman - Princeton University, Class of 2008 
 
-[[edit](/index.php?title=1257&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

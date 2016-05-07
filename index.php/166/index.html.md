@@ -47,7 +47,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=166&action=edit
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=166&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -121,7 +120,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=166&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -156,7 +154,6 @@ Accomplishments" )]
   * 2006 Granite State Regional - Industrial Safety Award 
   * 2007 Granite State Regional - Judge's Award 
 
-[[edit](/index.php?title=166&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -168,13 +165,11 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=166&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=166&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -191,7 +186,6 @@ List" )]
   * Allison Moberger, 2005 - MIT, Class of 2009 
   * Michelle Petrovic, 2005 - UNH, Class of 2009 
 
-[[edit](/index.php?title=166&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

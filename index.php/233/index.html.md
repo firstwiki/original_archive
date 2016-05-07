@@ -47,7 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc233
     * 6.3 College Mentors  
 ---  
   
-[[edit](/index.php?title=233&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -71,7 +70,6 @@ science and technology.
   * Robot Opera 
   * Art of the Bot 
 
-[[edit](/index.php?title=233&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -173,7 +171,6 @@ Accomplishments" )]
 
   * Rookie All Star, Kennedy Regional 
 
-[[edit](/index.php?title=233&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -206,11 +203,9 @@ Secondary Sponsors:
   * Touch Your World, Inc. 
   * Wal*Mart 
 
-[[edit](/index.php?title=233&action=edit&section=6 "Edit section: Members" )]
 
 ## Members
 
-[[edit](/index.php?title=233&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -270,7 +265,6 @@ Secondary Sponsors:
   * Timothy Williams 
   * Nicholas Wilson 
 
-[[edit](/index.php?title=233&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

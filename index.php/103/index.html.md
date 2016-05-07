@@ -40,7 +40,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc103
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=103&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -58,7 +57,6 @@ Support](http://www.cybersonics.org/cybersonics/rural/index.htm
 Canned Food Drives, Community Fundraisers: Basket Bingo, Spaghetti Dinner,
 Elementary Student team building.
 
-[[edit](/index.php?title=103&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -108,7 +106,6 @@ Accomplishments" )]
   * One Regional Team Spirit Award 
   * One Regional Safety Award 
 
-[[edit](/index.php?title=103&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -130,19 +127,16 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=103&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * [Team Members](http://www.cybersonics.org/cybersonics/team.html "http://www.cybersonics.org/cybersonics/team.html" )
 
-[[edit](/index.php?title=103&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * [Alumni Association](http://qsp.cybersonics.org/cyberalumni/Home.html "http://qsp.cybersonics.org/cyberalumni/Home.html" )
 
-[[edit](/index.php?title=103&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

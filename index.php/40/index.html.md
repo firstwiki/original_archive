@@ -49,7 +49,6 @@ Team Website: | <http://www.checkmate40.com>
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=40&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -69,7 +68,6 @@ team has travelled over 5,200 miles with the field. A video of the project can
 be found [here](http://video.google.com/videoplay?docid=8078364906389058129
 "http://video.google.com/videoplay?docid=8078364906389058129" )
 
-[[edit](/index.php?title=40&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -113,7 +111,6 @@ Accomplishments" )]
   * 2007 BAE Granite State Regional Semi-finalist 
   * 2007 BAE Granite State Regional RadioShack Innovation in Control Award 
 
-[[edit](/index.php?title=40&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -135,19 +132,16 @@ Challenge" )]
 
   * Member Example 
 
-[[edit](/index.php?title=40&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=40&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=40&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 

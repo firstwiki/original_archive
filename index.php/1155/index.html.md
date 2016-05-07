@@ -165,7 +165,6 @@ History" )]
 
 # Yearly History
 
-[[edit](/index.php?title=1155&action=edit&section=8 "Edit section: 2009" )]
 
 ### 2009
 
@@ -180,13 +179,11 @@ playoffs.
 [![ Team 2009 ](/media/a/a6/Team09.jpg)](/index.php/Image:Team09.jpg " Team
 2009 " )
 
-[[edit](/index.php?title=1155&action=edit&section=9 "Edit section: 2008" )]
 
 ### 2008
 
 Entry to be made at a later date.
 
-[[edit](/index.php?title=1155&action=edit&section=10 "Edit section: 2007" )]
 
 ### 2007
 
@@ -205,7 +202,6 @@ to the Championship Event for the second time in as many years.
 [![ Team 2007](/media/b/bf/Team07.jpg)](/index.php/Image:Team07.jpg " Team
 2007" )
 
-[[edit](/index.php?title=1155&action=edit&section=11 "Edit section: 2006" )]
 
 ### 2006
 
@@ -218,19 +214,16 @@ time.
 [![ Team 2006](/media/6/6d/Team06.jpg)](/index.php/Image:Team06.jpg " Team
 2006" )
 
-[[edit](/index.php?title=1155&action=edit&section=12 "Edit section: 2005" )]
 
 ### 2005
 
 Entry to be made at a later date.
 
-[[edit](/index.php?title=1155&action=edit&section=13 "Edit section: 2004" )]
 
 ### 2004
 
 Entry to be made at a later date.
 
-[[edit](/index.php?title=1155&action=edit&section=14 "Edit section: 2003" )]
 
 ### 2003
 
@@ -249,7 +242,6 @@ Projects" )]
   * Initiated a VEX Competition, TOOL Month &amp; Think FIRST with in the school. 
   * Started a Haiti relief program in our school. 
 
-[[edit](/index.php?title=1155&action=edit&section=16 "Edit section: Robots" )]
 
 # Robots
 
@@ -265,28 +257,24 @@ Accomplishments" )]
 
 # Accomplishments
 
-[[edit](/index.php?title=1155&action=edit&section=18 "Edit section: 2004" )]
 
 ### 2004
 
   * NYC Regional - Delphi "Driving Tomorrow's Technology" Award 
   * NYC Regional - Quarterfinalists 
 
-[[edit](/index.php?title=1155&action=edit&section=19 "Edit section: 2005" )]
 
 ### 2005
 
   * NYC Regional - Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award 
   * NYC Regional - Quarterfinalists 
 
-[[edit](/index.php?title=1155&action=edit&section=20 "Edit section: 2006" )]
 
 ### 2006
 
   * NYC Regional - Engineering Inspiration Award 
   * NYC Regional - Quarterfinalists 
 
-[[edit](/index.php?title=1155&action=edit&section=21 "Edit section: 2007" )]
 
 ### 2007
 
@@ -295,14 +283,12 @@ Accomplishments" )]
   * NYC Regional - Quarterfinalists 
   * NYC Regional - Website Award 
 
-[[edit](/index.php?title=1155&action=edit&section=22 "Edit section: 2008" )]
 
 ### 2008
 
   * Connecticut Regional- Quarterfinalists 
   * NYC Regional- Quarterfinalists 
 
-[[edit](/index.php?title=1155&action=edit&section=23 "Edit section: 2009" )]
 
 ### 2009
 
@@ -310,7 +296,6 @@ Accomplishments" )]
   * NYC Regional - Finalists 
   * Connecticut Regional- Winner 
 
-[[edit](/index.php?title=1155&action=edit&section=24 "Edit section: 2010" )]
 
 ### 2010
 
@@ -387,7 +372,6 @@ Daniel Donenfeld - Programming Member (2013)
 
 William Long - Website Member (2013)
 
-[[edit](/index.php?title=1155&action=edit&section=28 "Edit section: Alumni" )]
 
 ## Alumni
 

@@ -112,7 +112,6 @@ FIRST" )]
 
 Coming Soon!
 
-[[edit](/index.php?title=116&action=edit&section=5 "Edit section: Robots" )]
 
 ## Robots
 
@@ -178,7 +177,6 @@ Accomplishments" )]
   * VCU #4 Seed 
   * VCU Semi-Finalist 
 
-[[edit](/index.php?title=116&action=edit&section=7 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -191,7 +189,6 @@ Sponsors" )]
   * Cleared Solutions 
   * Herndon High School 
 
-[[edit](/index.php?title=116&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

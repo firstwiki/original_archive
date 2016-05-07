@@ -49,7 +49,6 @@ Team Website: | <http://www.team422.com>
     * 6.3 Engineering Mentors  
 ---  
   
-[[edit](/index.php?title=422&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -73,7 +72,6 @@ projects" )]
   * Participated in the Vex Challenge during the 2006 Season 
   * Assembled Fuel Cell during the 2007 Build Season 
 
-[[edit](/index.php?title=422&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -206,7 +204,6 @@ Accomplishments" )]
   * FIRST LEGO League Regional Outstanding Volunteer Award 2003, awarded at the Richmond event, which the team hosts yearly. 
   * Special Recognition - Capital Clash 2005 - Special Recognition for volunteer effort aiding this off-season competition. 
 
-[[edit](/index.php?title=422&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

@@ -45,7 +45,6 @@ Team Projects" )]
   * Get ready for Palmetto! (and hopefully a second regional) 
   * Have Fun!! 
 
-[[edit](/index.php?title=1293&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
@@ -56,7 +55,6 @@ defeated Team [1319](/index.php/1319 "1319" ) (Golden Strip Flash), the number
 one seed at the time during the qualification matches on Saturday. The team
 was not picked for an alliance.
 
-[[edit](/index.php?title=1293&action=edit&section=3 "Edit section: Robots" )]
 
 # Robots
 
@@ -93,7 +91,6 @@ List" )]
 
 ## Mentor List
 
-[[edit](/index.php?title=1293&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 

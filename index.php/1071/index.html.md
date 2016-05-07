@@ -34,7 +34,6 @@ Team Website: | <http://www.max1071.com>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1071&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -50,7 +49,6 @@ projects" )]
   * Sponsor FLL team 
   * Sponsor summer camp for middle school 
 
-[[edit](/index.php?title=1071&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -96,13 +94,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=1071&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni attend UMass, Wentworth, ITT Tech, Rochester Institute of Technology 
 
-[[edit](/index.php?title=1071&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

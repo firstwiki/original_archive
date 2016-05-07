@@ -40,7 +40,6 @@ Team Website: | <http://www.first.udsd.k12.pa.us/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=357&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -166,7 +165,6 @@ High School. Andrew Adaman participates in many different parts of the team,
 including Scouting &amp; Scoring and the Database team. Andrew Adaman is
 responsible for checking for syntax and general coding syntax for the website.
 
-[[edit](/index.php?title=357&action=edit&section=10 "Edit section: Robots" )]
 
 ## Robots
 
@@ -202,13 +200,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=357&action=edit&section=15 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=357&action=edit&section=16 "Edit section: Mentors" )]
 
 ### Mentors
 

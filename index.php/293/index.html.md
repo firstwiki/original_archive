@@ -48,7 +48,6 @@ people dream of becoming science and technology heroes"
   * 4 Sponsors  
 ---  
   
-[[edit](/index.php?title=293&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -81,7 +80,6 @@ FIRST Robotics and to create a primarily student-built (and functional) robot.
 
   
 
-[[edit](/index.php?title=293&action=edit&section=2 "Edit section: Photos" )]
 
 ## Photos
 
@@ -160,7 +158,6 @@ thing.
 
 -Honeywell Leadership in Control Award at Philadelphia Regional 
 
-[[edit](/index.php?title=293&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 

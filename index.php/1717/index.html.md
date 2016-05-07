@@ -65,7 +65,6 @@ programming, and fabrication of the robot is done entirely by the students.
 Their mentors, especially head mentor and teacher Amir Abo-Shaeer, play a
 significant role in preparing the all-rookie team each year.
 
-[[edit](/index.php?title=1717&action=edit&section=2 "Edit section: History" )]
 
 ##  History
 
@@ -92,7 +91,6 @@ but unfortunately lost in the semi-finals to teams [71](/index.php/71 "71" ),
 The book _The New Cool_ was written about the 2009 team and was published in
 2011.
 
-[[edit](/index.php?title=1717&action=edit&section=3 "Edit section: Events" )]
 
 ##  Events
 
@@ -137,7 +135,6 @@ The book _The New Cool_ was written about the 2009 team and was published in
   * Los Angeles Regional 
   * Atlanta Championships 
 
-[[edit](/index.php?title=1717&action=edit&section=4 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -192,7 +189,6 @@ Accomplishments" )]
 
   * Arizona Regional Semi-Finalist 
 
-[[edit](/index.php?title=1717&action=edit&section=6 "Edit section: Awards" )]
 
 ##  Awards
 
@@ -247,7 +243,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=1717&action=edit&section=9 "Edit section: Mentors" )]
 
 ###  Mentors
 
@@ -258,7 +253,6 @@ List" )]
   * Don Shelton 
   * Ryan Conolley 
 
-[[edit](/index.php?title=1717&action=edit&section=10 "Edit section: Alumni" )]
 
 ###  Alumni
 

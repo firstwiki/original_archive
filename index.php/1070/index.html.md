@@ -36,7 +36,6 @@ Team Website: |
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1070&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -65,7 +64,6 @@ projects" )]
   * 2008 First Robotics Competition 
   * Outreach programs 
 
-[[edit](/index.php?title=1070&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -121,7 +119,6 @@ _Louisville High School_
   * Chaz Enbody 
   * Michelle Mezher 
 
-[[edit](/index.php?title=1070&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -141,7 +138,6 @@ _Louisville High School_
 
   
 
-[[edit](/index.php?title=1070&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

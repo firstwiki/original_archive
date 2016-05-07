@@ -51,7 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc213
     * 6.4 Mentors 2006  
 ---  
   
-[[edit](/index.php?title=213&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -65,7 +64,6 @@ projects" )]
   * 1/27- We are in the process of building our DB2K7 robot. It's capabilities will be to drop ramps to allow other robots on top, and collect and deposit tubes onto the "rack." 
   * We have recently completed our successful DB2K6 robot. We are looking forward to next year's build season, and are excited for invitationals in the meantime! 
 
-[[edit](/index.php?title=213&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -83,7 +81,6 @@ Accomplishments" )]
   * Winner of the 2003 Manchester BAE systems regional General Motors Industrial Design Award. 
   * Runner-up at the 2006 Boston MA regional. 
 
-[[edit](/index.php?title=213&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -139,7 +136,6 @@ Animation
   * Brad W. 
   * Phil W. 
 
-[[edit](/index.php?title=213&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 

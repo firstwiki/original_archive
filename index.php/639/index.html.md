@@ -36,7 +36,6 @@ Team Website: | <http://www.team639.org/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=639&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -49,7 +48,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=639&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -78,7 +76,6 @@ Accomplishments" )]
   * 2005 Greater Toronto Regional GM Industrial Design Awayrd 
   * 2005 Championship Team 22's Best Robot Design Award 
 
-[[edit](/index.php?title=639&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -101,19 +98,16 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=639&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=639&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=639&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

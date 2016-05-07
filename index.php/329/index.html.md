@@ -38,7 +38,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=329
     * 7.4 Mentors  
 ---  
   
-[[edit](/index.php?title=329&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +59,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=329&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -73,7 +71,6 @@ Accomplishments" )]
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=329&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -86,13 +83,11 @@ List" )]
 
 around 30-40 members
 
-[[edit](/index.php?title=329&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=329&action=edit&section=9 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -105,7 +100,6 @@ around 30-40 members
 
 MOTOROLA
 
-[[edit](/index.php?title=329&action=edit&section=11 "Edit section: Mentors" )]
 
 ### Mentors
 

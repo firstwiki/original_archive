@@ -45,13 +45,11 @@ Team Website: | {{{website}}}
 
   * Updated! 
 
-[[edit](/index.php?title=308&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
   * Team 308 has now been around for 9 years. For the two years beforehand, they were team 139 ('97) and team 197 ('98), which were both stationed out of Farmington Hills Harrison High School. The team's best finish was a National Runner-Up in the 2002 game, "Zone Zeal". For the 1999 season, the TRW sponsorship switched to Walled Lake Consolidated Schools and became known as team 308, The Monsters. The team consists of 20 Students from Walled Lake Central, Northern, and Western High Schools, 7 engineers from TRW Automotive Electronics in Farmington Hills and Tecla, Inc in Walled Lake. The team also has the help of 2 parents. 
 
-[[edit](/index.php?title=308&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -88,7 +86,6 @@ Team Website: | {{{website}}}
   * 2006 Great Lakes Regional 
     * Xerox Creativity Award 
 
-[[edit](/index.php?title=308&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -96,7 +93,6 @@ Team Website: | {{{website}}}
   * Tecla 
   * ITT Tech 
 
-[[edit](/index.php?title=308&action=edit&section=6 "Edit section: Schools" )]
 
 ## Schools
 
@@ -106,7 +102,6 @@ Walled Lake Schools
   * Central 
   * Western 
 
-[[edit](/index.php?title=308&action=edit&section=7 "Edit section: Students" )]
 
 ## Students
 
@@ -143,7 +138,6 @@ Central" )]
   * Tatyana 
   * Jordan Thompson 
 
-[[edit](/index.php?title=308&action=edit&section=11 "Edit section: Mentors" )]
 
 ## Mentors
 
@@ -165,13 +159,11 @@ Teachers" )]
 
   * Bill Leech 
 
-[[edit](/index.php?title=308&action=edit&section=14 "Edit section: Tecla" )]
 
 ##### Tecla
 
   * Jeff Clark 
 
-[[edit](/index.php?title=308&action=edit&section=15 "Edit section: Parents" )]
 
 ##### Parents
 

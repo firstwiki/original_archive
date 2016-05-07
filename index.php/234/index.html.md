@@ -41,7 +41,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc234
   * 6 Members List  
 ---  
   
-[[edit](/index.php?title=234&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -83,7 +82,6 @@ come to compete one last time with their robots. The draw to our event rivals
 that of many FIRST regionals and has brought many of the top minds of FIRST to
 Indianapolis.
 
-[[edit](/index.php?title=234&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -221,7 +219,6 @@ formats" ) for more help.
            Autodesk Inventor Award Finalists
     
 
-[[edit](/index.php?title=234&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

@@ -42,7 +42,6 @@ compelling our tremendously enthusiastic participants.
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1317&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -81,7 +80,6 @@ projects" )]
     * Open houses to raise awareness of FIRST in the community 
     * Demonstrations at Cedar Point for Physics Day, COSI Science Center, Civil Air Patrol, and home school group events. 
 
-[[edit](/index.php?title=1317&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -149,7 +147,6 @@ name on list._ _Year is based on year when on team._
   * **Stephen S.** (Game Specific, Freshman) 
   * **Henry K.** (Arm, Freshman) 
 
-[[edit](/index.php?title=1317&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -167,7 +164,6 @@ name on list._ _Year is based on year when on team._
   * Brian O. - 4th year 
   * Carter R. - 4th year 
 
-[[edit](/index.php?title=1317&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -47,7 +47,6 @@ Team Website: | <http://harrisonboilerrobotics.org/> and
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1747&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -102,7 +101,6 @@ projects" )]
 
   * Went to Kindergarten introduce children to robotics (2005) 
 
-[[edit](/index.php?title=1747&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -186,7 +184,6 @@ List" )]
   * Josh 
   * Vlad 
 
-[[edit](/index.php?title=1747&action=edit&section=9 "Edit section: Alumni" )]
 
 ###  Alumni
 

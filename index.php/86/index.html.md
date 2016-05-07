@@ -97,7 +97,6 @@ for Jacksonville Florida).
 Our team motto is “Going against the Current” and our team robot is named
 “OHMER” in keeping with our geeky physics motif.
 
-[[edit](/index.php?title=86&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -130,7 +129,6 @@ Accomplishments" )]
   * 2006 Nationals Galileo Division Semi-Finalist 
   * 2007 Florida Regional Winner 
 
-[[edit](/index.php?title=86&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -143,7 +141,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=86&action=edit&section=5 "Edit section: Mentors" )]
 
 ### Mentors
 

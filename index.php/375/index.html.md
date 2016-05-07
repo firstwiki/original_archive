@@ -45,7 +45,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc375
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=375&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -77,7 +76,6 @@ projects" )]
   * Joining with Staten Island Project Homefront to give back to our troops overseas. 
   * Creating resources that may be freely accessed by other FIRST teams. 
 
-[[edit](/index.php?title=375&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -221,7 +219,6 @@ Long Island Regional
 
   * Regional Finalist 
 
-[[edit](/index.php?title=375&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -237,7 +234,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=375&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -270,7 +266,6 @@ Graham Freedland - Head of Animation Team
 Artem Lioudvikovsky  
 William Tsimerman - Team Captain (2009)  
 
-[[edit](/index.php?title=375&action=edit&section=8 "Edit section: Students" )]
 
 ### Students
 
@@ -309,7 +304,6 @@ Daniel Timashkov
 Ilua Yaroshevskiy  
 Marc Greenfield  
 
-[[edit](/index.php?title=375&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

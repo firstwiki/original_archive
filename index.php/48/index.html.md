@@ -46,7 +46,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc48
     * 10.2 Mentors  
 ---  
   
-[[edit](/index.php?title=48&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -88,7 +87,6 @@ projects" )]
   * Operation Christmas Child 
   * Relay for Life 
 
-[[edit](/index.php?title=48&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -180,11 +178,9 @@ Accomplishments" )]
     * National Champions 
     * Delphi Golden Gear Award 
 
-[[edit](/index.php?title=48&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=48&action=edit&section=6 "Edit section: Platinum" )]
 
 ##  Platinum
 
@@ -195,7 +191,6 @@ Accomplishments" )]
       NASA
     
 
-[[edit](/index.php?title=48&action=edit&section=7 "Edit section: Gold" )]
 
 ##  Gold
 
@@ -208,7 +203,6 @@ Accomplishments" )]
       Martha Holden Jennings Foundation
     
 
-[[edit](/index.php?title=48&action=edit&section=8 "Edit section: Silver" )]
 
 ##  Silver
 
@@ -236,13 +230,11 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=48&action=edit&section=11 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=48&action=edit&section=12 "Edit section: Mentors" )]
 
 ### Mentors
 

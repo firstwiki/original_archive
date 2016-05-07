@@ -39,7 +39,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=316
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=316&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -54,7 +53,6 @@ projects" )]
   * Easter Seals 
   * Dual on the Delaware (Co-hosted with MOE, team 365) 
 
-[[edit](/index.php?title=316&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -76,11 +74,9 @@ Accomplishments" )]
   * 2009 - Finger Lakes Regional Finalists 
   * 2009 - Finger Lakes Judges Award 
 
-[[edit](/index.php?title=316&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=316&action=edit&section=6 "Edit section: Platinum" )]
 
 ### Platinum
 
@@ -89,21 +85,18 @@ Accomplishments" )]
   * DuPont - DuPont Chamber Works &amp; DuPont Office of Education 
   * BE&amp;K 
 
-[[edit](/index.php?title=316&action=edit&section=7 "Edit section: Gold" )]
 
 ### Gold
 
   * Avalon Exhibits 
   * EIRC 
 
-[[edit](/index.php?title=316&action=edit&section=8 "Edit section: Silver" )]
 
 ### Silver
 
   * Wayne and Cathy Kirk 
   * Greely &amp; Hansen LLC 
 
-[[edit](/index.php?title=316&action=edit&section=9 "Edit section: Bronze" )]
 
 ### Bronze
 
@@ -168,14 +161,12 @@ List" )]
   * Quesion - c/o 2012 
   * Allyson - c/o 2012 
 
-[[edit](/index.php?title=316&action=edit&section=13 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Joey - WPI, c/o 2008 
   * Drew - RIT, c/o 2008 
 
-[[edit](/index.php?title=316&action=edit&section=14 "Edit section: Mentors" )]
 
 ### Mentors
 

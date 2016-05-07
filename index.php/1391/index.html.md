@@ -33,7 +33,6 @@ Team Website: | <http://www.team1391.com/>
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1391&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -46,7 +45,6 @@ projects" )]
 
   * In 2007 Team 1391 members started a social network on the Internet to assist in collaborations throughout the year. The Team 1391 social network is a resource for collaboration and is the home for robot videos and animations. The site URL is: <http://team1391.ning.com/>. 
 
-[[edit](/index.php?title=1391&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -78,13 +76,11 @@ List" )]
 
   * Student Example - Student Year 
 
-[[edit](/index.php?title=1391&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=1391&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

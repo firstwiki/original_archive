@@ -48,7 +48,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc862
     * 8.3 Alumni  
 ---  
   
-[[edit](/index.php?title=862&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -75,7 +74,6 @@ projects" )]
   * Official Team Document Repository [http:<http://lightningrobotics.com/files/?path=>] 
   * Improving Team Website 
 
-[[edit](/index.php?title=862&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -158,7 +156,6 @@ Attended" )]
     * MARC 
     * Kettering KICKOFF 
 
-[[edit](/index.php?title=862&action=edit&section=5 "Edit section: Awards" )]
 
 ## Awards
 
@@ -198,7 +195,6 @@ Rankings" )]
   * 2011 Rank: 114/171 Points: 28 
   * 2012 Rank: 19/190 Points: 158 
 
-[[edit](/index.php?title=862&action=edit&section=7 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -214,7 +210,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=862&action=edit&section=9 "Edit section: Students" )]
 
 ### Students
 
@@ -226,7 +221,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=862&action=edit&section=10 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -245,7 +239,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=862&action=edit&section=11 "Edit section: Alumni" )]
 
 ### Alumni
 

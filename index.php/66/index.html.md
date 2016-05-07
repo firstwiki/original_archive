@@ -96,7 +96,6 @@ projects" )]
   * 102.9 FM W4 Country for their Toys for Tots Campaign 
   * Ypsilanti Community News 
 
-[[edit](/index.php?title=66&action=edit&section=5 "Edit section: Outreach" )]
 
 ## Outreach
 
@@ -105,7 +104,6 @@ projects" )]
   * 2006 - Loaning Robot to Willow Run High School Class of 2010 Homecoming Float 
   * 2006 and 2007 - Invitations to local schools to Great Lakes Regional 
 
-[[edit](/index.php?title=66&action=edit&section=6 "Edit section: Robots" )]
 
 ## Robots
 
@@ -118,7 +116,6 @@ projects" )]
   * 2001 - Frostbyte 
   * 2000 - Mystery Machine 
 
-[[edit](/index.php?title=66&action=edit&section=7 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -128,7 +125,6 @@ projects" )]
   * Ypsilanti Federal Credit Union 
   * Barnes and Noble Bookstore in Ann Arbor 
 
-[[edit](/index.php?title=66&action=edit&section=8 "Edit section: Students" )]
 
 ## Students
 
@@ -146,7 +142,6 @@ projects" )]
   * Seniors: 
     * Kyle Slaven 
 
-[[edit](/index.php?title=66&action=edit&section=9 "Edit section: Alumni" )]
 
 ## Alumni
 

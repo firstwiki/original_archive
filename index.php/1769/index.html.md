@@ -58,11 +58,9 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1769
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1769&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
-[[edit](/index.php?title=1769&action=edit&section=2 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -88,11 +86,9 @@ List" )]
 
 ###  Students
 
-[[edit](/index.php?title=1769&action=edit&section=7 "Edit section: Alumni" )]
 
 ###  Alumni
 
-[[edit](/index.php?title=1769&action=edit&section=8 "Edit section: Mentors" )]
 
 ###  Mentors
 

@@ -47,7 +47,6 @@ _team location and name and basic stuff_
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1511&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -115,7 +114,6 @@ projects" )]
   * The team also hosts the Rochester Rally at Penfield High School, a preship event for all Rochester FIRST teams. From this event we ship 8-10 robots to the drayage facility every year. 
   * Mock Build Season: The team held a mock build season in Nomvember and December of 2009. The students were broken up into two groups, where both teams then had two hours to design a Vex robot to play the game "Vertigo", followed by 4 hours to build and program the robots, and finished with a competition between both of the robots. 
 
-[[edit](/index.php?title=1511&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -231,7 +229,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=1511&action=edit&section=8 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -243,7 +240,6 @@ List" )]
   * Lorien Lee (2004-2006) 
   * Keith Kearns (2004-2006) 
 
-[[edit](/index.php?title=1511&action=edit&section=9 "Edit section: Mentors" )]
 
 ###  Mentors
 

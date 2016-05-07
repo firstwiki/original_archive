@@ -67,7 +67,6 @@ Implementations" )]
 
 Most implementations are available at <http://thebluealliance.net/tbatv/api/>
 
-[[edit](/index.php?title=TBA_API&action=edit&section=4 "Edit section: PHP" )]
 
 ###  PHP
 
@@ -75,7 +74,6 @@ Written by Chris Jelly for The Blue Alliance.
 
 Available at <http://thebluealliance.net/tbatv/api/>
 
-[[edit](/index.php?title=TBA_API&action=edit&section=5 "Edit section: Ruby" )]
 
 ###  Ruby
 
@@ -90,7 +88,6 @@ By Eric Haskins
 
 Available at <http://thebluealliance.net/tbatv/api/>
 
-[[edit](/index.php?title=TBA_API&action=edit&section=7 "Edit section: Perl" )]
 
 ###  Perl
 

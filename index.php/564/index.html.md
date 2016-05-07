@@ -40,7 +40,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc564
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=564&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -192,7 +191,6 @@ community service at the Long Island Vets
                Books for Africa 
     
 
-[[edit](/index.php?title=564&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -237,7 +235,6 @@ Accomplishments" )]
          
     
 
-[[edit](/index.php?title=564&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -255,7 +252,6 @@ List" )]
 
   * NA at this time 
 
-[[edit](/index.php?title=564&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -266,7 +262,6 @@ paini (2010) Erica Kannry (2010) Mike Treanor (2010)
 
   
 
-[[edit](/index.php?title=564&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

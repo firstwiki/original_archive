@@ -37,7 +37,6 @@ Team Website: | <http://www.team888.bizland.com>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=888&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -53,7 +52,6 @@ projects" )]
   * Attempting to create website 
   * Visualizaton and Animation 
 
-[[edit](/index.php?title=888&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -74,7 +72,6 @@ Accomplishments" )]
   * 2002: West Michigan Regional Winner 
   * 2006: Chesapeake Regional Finalists 
 
-[[edit](/index.php?title=888&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -143,7 +140,6 @@ have passed on to a better life" )]
   * Theo Hesse 
   * Zac Cornell 
 
-[[edit](/index.php?title=888&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

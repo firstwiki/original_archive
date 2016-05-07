@@ -40,7 +40,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1168
     * 5.3 Alumni  
 ---  
   
-[[edit](/index.php?title=1168&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -55,7 +54,6 @@ Award](/index.php/Judges_Award "Judges Award" ) and placing 18/35 at the
 In 2005 and 2006, the team competed at the [Chesapeake
 Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" ).
 
-[[edit](/index.php?title=1168&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -114,7 +112,6 @@ List" )]
   * Dave Torres: Sophomore Testing/Builder 
   * Jimmy White: Junior Stuff Guy/Safety Officer 
 
-[[edit](/index.php?title=1168&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -126,7 +123,6 @@ List" )]
   * Mike Addison 
   * Bill Shanley 
 
-[[edit](/index.php?title=1168&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 

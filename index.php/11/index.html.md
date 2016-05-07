@@ -77,7 +77,6 @@ that year, MORT has risen as an educational force, with four different high
 school robotics classes in addition to summer courses and a partnership with
 the County College of Morris.
 
-[[edit](/index.php?title=11&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -141,25 +140,20 @@ guide" ).
 ![awards.PNG](http://users.nac.net/morobot/awards.PNG)
 ![trophies.jpg](http://users.nac.net/morobot/trophies.jpg)
 
-[[edit](/index.php?title=11&action=edit&section=4 "Edit section: 2010" )]
 
 ### 2010
 
-[[edit](/index.php?title=11&action=edit&section=5 "Edit section: 2009" )]
 
 ### 2009
 
-[[edit](/index.php?title=11&action=edit&section=6 "Edit section: 2008" )]
 
 ### 2008
 
-[[edit](/index.php?title=11&action=edit&section=7 "Edit section: 2007" )]
 
 ### 2007
 
   * Delphi's Driving the Future of Technology Award, [New York City Regional](/index.php/New_York_City_Regional "New York City Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=8 "Edit section: 2006" )]
 
 ### 2006
 
@@ -167,7 +161,6 @@ guide" ).
   * Imagery Award, [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )
   * Quarter Finalist, [New Jersey Regional](/index.php/New_Jersey_Regional "New Jersey Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=9 "Edit section: 2005" )]
 
 ### 2005
 
@@ -178,7 +171,6 @@ guide" ).
   * Autodesk Visualization Award, [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )
   * Finalist, Brunswick Eruption (Off-season) 
 
-[[edit](/index.php?title=11&action=edit&section=10 "Edit section: 2004" )]
 
 ### 2004
 
@@ -187,7 +179,6 @@ guide" ).
   * Winner, [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )
   * DaimlerChrysler Team Spirit Award, [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=11 "Edit section: 2003" )]
 
 ### 2003
 
@@ -195,34 +186,29 @@ guide" ).
   * Volunteer of the Year - Bill McGowan, [Mid-Atlantic Regional](/index.php/Mid-Atlantic_Regional "Mid-Atlantic Regional" )
   * Xerox Design Creativity Award, Canadian Regional 
 
-[[edit](/index.php?title=11&action=edit&section=12 "Edit section: 2002" )]
 
 ### 2002
 
   * Semi-Finalist, Canadian Regional 
   * Finalist, [Mid-Atlantic Regional](/index.php/Mid-Atlantic_Regional "Mid-Atlantic Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=13 "Edit section: 2001" )]
 
 ### 2001
 
   * Semi Finalist, Pennsylvania Robotic Challenge (Off-season) 
 
-[[edit](/index.php?title=11&action=edit&section=14 "Edit section: 2000" )]
 
 ### 2000
 
   * Finalist, Pennsylvania Robotic Challenge (Off-season) 
   * Semi-Finalist, [Mid-Atlantic Regional](/index.php/Mid-Atlantic_Regional "Mid-Atlantic Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=15 "Edit section: 1999" )]
 
 ### 1999
 
   * Defensive Play of Day, [Mid-Atlantic Regional](/index.php/Mid-Atlantic_Regional "Mid-Atlantic Regional" )
   * Semi-Finalist, [Mid-Atlantic Regional](/index.php/Mid-Atlantic_Regional "Mid-Atlantic Regional" )
 
-[[edit](/index.php?title=11&action=edit&section=16 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -233,31 +219,24 @@ guide" ).
   * Mt. Olive HS 
   * Mt. Olive Kiwanis Club 
 
-[[edit](/index.php?title=11&action=edit&section=17 "Edit section: Alumni" )]
 
 ## Alumni
 
-[[edit](/index.php?title=11&action=edit&section=18 "Edit section: 2010" )]
 
 ### 2010
 
-[[edit](/index.php?title=11&action=edit&section=19 "Edit section: 2009" )]
 
 ### 2009
 
-[[edit](/index.php?title=11&action=edit&section=20 "Edit section: 2008" )]
 
 ### 2008
 
-[[edit](/index.php?title=11&action=edit&section=21 "Edit section: 2007" )]
 
 ### 2007
 
-[[edit](/index.php?title=11&action=edit&section=22 "Edit section: 2006" )]
 
 ### 2006
 
-[[edit](/index.php?title=11&action=edit&section=23 "Edit section: 2005" )]
 
 ### 2005
 
@@ -281,7 +260,6 @@ guide" ).
   * Katherine Sutton – University of Delaware 
   * Dave Wallack – Rensselaer Polytechnic Institute 
 
-[[edit](/index.php?title=11&action=edit&section=24 "Edit section: 2004" )]
 
 ### 2004
 
@@ -296,7 +274,6 @@ guide" ).
   * Chris Hill - Rowan University 
   * Gary Steinart - Delaware Valley College 
 
-[[edit](/index.php?title=11&action=edit&section=25 "Edit section: 2003" )]
 
 ### 2003
 
@@ -305,7 +282,6 @@ guide" ).
   * Andrew Klages - Arizona State University 
   * Jessica Roth - County College of Morris 
 
-[[edit](/index.php?title=11&action=edit&section=26 "Edit section: 2002" )]
 
 ### 2002
 
@@ -313,13 +289,11 @@ guide" ).
   * Sean Swaszek - New Jersey Institue of Technology 
   * Dave Zaneski - University of Scranton 
 
-[[edit](/index.php?title=11&action=edit&section=27 "Edit section: 2001" )]
 
 ### 2001
 
   * Dan Miller - Drexel University 
 
-[[edit](/index.php?title=11&action=edit&section=28 "Edit section: 2000" )]
 
 ### 2000
 
@@ -330,7 +304,6 @@ guide" ).
   * Vic Reddy - Rutgers University 
   * Vin Reddy - Rutgers University 
 
-[[edit](/index.php?title=11&action=edit&section=29 "Edit section: 1999" )]
 
 ### 1999
 
@@ -339,14 +312,12 @@ guide" ).
   * John Jellis - New Jersey Institue of Technology 
   * Tabish Mustufa - Johns Hopkins University 
 
-[[edit](/index.php?title=11&action=edit&section=30 "Edit section: 1997" )]
 
 ### 1997
 
   * Michael DiCicco - Worcester Polytechnic Institute 
   * Greg Hader - Virginia Tech 
 
-[[edit](/index.php?title=11&action=edit&section=31 "Edit section: Mentors" )]
 
 ## Mentors
 

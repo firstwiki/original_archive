@@ -39,7 +39,6 @@ Team Website: | <http://www.robowizards.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=522&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -61,7 +60,6 @@ projects" )]
 
   * FIRST Safety Animation 
 
-[[edit](/index.php?title=522&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -88,21 +86,18 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=522&action=edit&section=5 "Edit section: 2008" )]
 
 ### 2008
 
   * Long Island Regional Imagery Award 
   * Finger Lakes Regional Imagery Award 
 
-[[edit](/index.php?title=522&action=edit&section=6 "Edit section: 2007" )]
 
 ### 2007
 
   * N.Y.C. Regional Woodie Flowers Award 
   * N.Y.C. Regional Imagery Award 
 
-[[edit](/index.php?title=522&action=edit&section=7 "Edit section: 2006" )]
 
 ### 2006
 
@@ -110,7 +105,6 @@ Accomplishments" )]
   * Archimedes Division Champions 
   * Greater Toronto Regional Chairman's Award 
 
-[[edit](/index.php?title=522&action=edit&section=8 "Edit section: 2004" )]
 
 ### 2004
 
@@ -118,21 +112,18 @@ Accomplishments" )]
   * N.Y.C. Regional GM Industrial Design 
   * N.Y.C. Regional Daimler Chrysler Team Spirit 
 
-[[edit](/index.php?title=522&action=edit&section=9 "Edit section: 2003" )]
 
 ### 2003
 
   * N.Y.C. Regional Champion 
   * N.Y.C. Regional Motorola Quality 
 
-[[edit](/index.php?title=522&action=edit&section=10 "Edit section: 2002" )]
 
 ### 2002
 
   * N.Y.C. Regional Finalist 
   * N.Y.C. Regional Imagery Award 
 
-[[edit](/index.php?title=522&action=edit&section=11 "Edit section: 2001" )]
 
 ### 2001
 
@@ -177,7 +168,6 @@ Steven Schiavone
 Taranpal Bhatia  
 (To be updated.)
 
-[[edit](/index.php?title=522&action=edit&section=16 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -35,7 +35,6 @@ Team Website: | None, yet
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=2604&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -67,7 +66,6 @@ Competitions" )]
     National Championship Georgia Dome, Atlanta, GA
     
 
-[[edit](/index.php?title=2604&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -133,7 +131,6 @@ Caius Schneider- Lift Operator
 
 Tina Hadley- Safety Captain
 
-[[edit](/index.php?title=2604&action=edit&section=8 "Edit section: Mentors" )]
 
 ###  Mentors
 

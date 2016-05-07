@@ -111,7 +111,6 @@ hoody" ) <http://shop.sbotz.com/>
   * Josh Kytta- Grade 12 at Clay High School /2 years 
   * Russell Majcher- Grade 12 at Clay High School, Professional Sailor, Musician /2 years 
 
-[[edit](/index.php?title=1327&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -128,7 +127,6 @@ hoody" ) <http://shop.sbotz.com/>
   * Paul Hartz- Sponsor, CEO of Mack Tool, Supplier 
   * Rhonda Culbertson - Meals 
 
-[[edit](/index.php?title=1327&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 

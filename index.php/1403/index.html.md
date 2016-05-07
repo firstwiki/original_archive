@@ -27,7 +27,6 @@ Team Website: | <http://www.team1403.net/>
   * 4 Sponsors  
 ---  
   
-[[edit](/index.php?title=1403&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -71,7 +70,6 @@ Rookie Year-2004 Attended:
   * Florida Regional 
   * New York Regional 
 
-[[edit](/index.php?title=1403&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 

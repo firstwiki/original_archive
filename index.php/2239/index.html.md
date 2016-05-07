@@ -72,7 +72,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2239
     * 5.2 Mentors  
 ---  
   
-[[edit](/index.php?title=2239&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -84,7 +83,6 @@ This team last participated in the 2001, 2002, and 2003 Florida regionals, and
 placed 3rd overall in Nationals. Hopkins robotics reformed once again in 2007
 as a "rookie" team, and is once again climbing the ranks as a FIRST team.
 
-[[edit](/index.php?title=2239&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -130,7 +128,6 @@ List" )]
 
   * Students of Hopkins High School 
 
-[[edit](/index.php?title=2239&action=edit&section=7 "Edit section: Mentors" )]
 
 ###  Mentors
 

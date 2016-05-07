@@ -49,7 +49,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=69
   * 7 Facebook Group  
 ---  
   
-[[edit](/index.php?title=69&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -75,7 +74,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=69&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -120,7 +118,6 @@ Accomplishments" )]
   * 1996 N1 Outstanding Defense 
   * 1996 NE DaimlerChrysler Team Spirit Award 
 
-[[edit](/index.php?title=69&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -132,7 +129,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=69&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -168,7 +164,6 @@ Accomplishments" )]
   * James Yu 
   * Elbara Ziade 
 
-[[edit](/index.php?title=69&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -284,11 +279,9 @@ Accomplishments" )]
 
   * Eddy "Coach" Smith 
 
-[[edit](/index.php?title=69&action=edit&section=19 "Edit section: Mentors" )]
 
 ### Mentors
 
-[[edit](/index.php?title=69&action=edit&section=20 "Edit section: Gillette" )]
 
 #### Gillette
 

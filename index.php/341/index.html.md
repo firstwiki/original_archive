@@ -44,7 +44,6 @@ Team Website: | <http://www.team341.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=341&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -121,7 +120,6 @@ projects" )]
   * [Singapore Exchange Program](/index.php?title=Singapore_Exchange_Program&action=edit "Singapore Exchange Program" )
   * [Mexico City Exchange Program](/index.php?title=Mexico_City_Exchange_Program&action=edit "Mexico City Exchange Program" )
 
-[[edit](/index.php?title=341&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -149,7 +147,6 @@ formats" ) for more help.
   
   
 
-[[edit](/index.php?title=341&action=edit&section=5 "Edit section: 2007" )]
 
 ###  2007
 
@@ -158,7 +155,6 @@ formats" ) for more help.
   * Chesapeake Regional, Woodie Flowers, Dina Campagna 
   * New Jersey Regional, Daimler Chrysler Team Spirit Award 
 
-[[edit](/index.php?title=341&action=edit&section=6 "Edit section: 2006" )]
 
 ###  2006
 
@@ -167,7 +163,6 @@ formats" ) for more help.
   * Philadelphia Regional, Team Saftey Honorable Mention 
   * Championship, Johnson and Johnson Sportsmanship Award 
 
-[[edit](/index.php?title=341&action=edit&section=7 "Edit section: 2005" )]
 
 ###  2005
 
@@ -177,7 +172,6 @@ formats" ) for more help.
   * Philadelphia Regional, Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award 
   * Summer Frenzy, Champions 
 
-[[edit](/index.php?title=341&action=edit&section=8 "Edit section: 2004" )]
 
 ###  2004
 
@@ -188,7 +182,6 @@ formats" ) for more help.
   * Pennsylvania Robot Challenge, Finalist and #1 Seed 
   * Summer Frenzy, Champions 
 
-[[edit](/index.php?title=341&action=edit&section=9 "Edit section: 2003" )]
 
 ###  2003
 
@@ -200,7 +193,6 @@ formats" ) for more help.
   * MD State Fair Second, Runner-Up 
   * PA Robot Challange VI, Champions 
 
-[[edit](/index.php?title=341&action=edit&section=10 "Edit section: 2002" )]
 
 ###  2002
 
@@ -216,7 +208,6 @@ formats" ) for more help.
   * North Brunswick Eruption, Champion 
   * Ramp Riot, #8 Seed and Team Spirit Award 
 
-[[edit](/index.php?title=341&action=edit&section=11 "Edit section: 2001" )]
 
 ###  2001
 
@@ -224,7 +215,6 @@ formats" ) for more help.
   * National Competition, Ford Motor Company "Best Team" Award 
   * Ramp Riot, Champion 
 
-[[edit](/index.php?title=341&action=edit&section=12 "Edit section: 2000" )]
 
 ###  2000
 
@@ -257,7 +247,6 @@ List" )]
 
 &lt; See website for names &gt;
 
-[[edit](/index.php?title=341&action=edit&section=16 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -277,7 +266,6 @@ List" )]
   * Brian Sherman - Drexel University, Class of 2005 
   * Melissa Slobodzian - Penn State University - Altoona, Class of 2005 
 
-[[edit](/index.php?title=341&action=edit&section=17 "Edit section: Mentors" )]
 
 ### Mentors
 

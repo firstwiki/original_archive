@@ -44,7 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc56
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=56&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -68,7 +67,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=56&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -81,7 +79,6 @@ Accomplishments" )]
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=56&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -92,19 +89,16 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=56&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
   * Student Example - Class of XXXX 
 
-[[edit](/index.php?title=56&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=56&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

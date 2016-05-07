@@ -45,7 +45,6 @@ Team Website: | <http://www.boilerinvasion.org/>
     * 6.3 Purdue Advisors (Purdue-sors)  
 ---  
   
-[[edit](/index.php?title=461&action=edit&section=1 "Edit section: About" )]
 
 ## About
 
@@ -78,11 +77,9 @@ Boilermaker Regional, and won the Championship title at Atlanta as well.
 WBI is well-known throughout the first community for its chant: "Let's all go
 nuts! Robots! Robots!"
 
-[[edit](/index.php?title=461&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
-[[edit](/index.php?title=461&action=edit&section=3 "Edit section: 1999" )]
 
 ### 1999
 
@@ -102,7 +99,6 @@ building a real, working robot. These initial students would be the core of
 the 2000 FIRST team, later to be strengthened by students from other local
 high schools.
 
-[[edit](/index.php?title=461&action=edit&section=4 "Edit section: 2000" )]
 
 ### 2000
 
@@ -127,7 +123,6 @@ Motorola. Our team also set its precedent of being extremely spirited. Even
 though no awards were won at nationals, the fact that the team got there was
 enough to make it among the best experiences of everyone on the team.
 
-[[edit](/index.php?title=461&action=edit&section=5 "Edit section: 2001" )]
 
 ### 2001
 
@@ -144,7 +139,6 @@ Motorola Regional and the Teamwork Award from the IRI. The season was capped
 off by winning both the entire tournament and the Girl’s Championship at the
 Ford Sweet Repeat (FSR).
 
-[[edit](/index.php?title=461&action=edit&section=6 "Edit section: 2002" )]
 
 ### 2002
 
@@ -159,7 +153,6 @@ made it to the final rounds. The team also won the Imagery Award at the
 Buckeye Regional for their bright yellow jerseys and the Spirit Award in St.
 Louis.
 
-[[edit](/index.php?title=461&action=edit&section=7 "Edit section: 2003" )]
 
 ### 2003
 
@@ -173,7 +166,6 @@ the 2003 Chairman's Award page). One of only 23 teams nationally to win this
 prestigious award, WBI then had the opportunity to submit an entry into the
 National Chairman’s Award Competition.
 
-[[edit](/index.php?title=461&action=edit&section=8 "Edit section: 2004" )]
 
 ### 2004
 
@@ -189,7 +181,6 @@ the National Competition, the WBI alliance was 2nd overall in the Curie
 division, and 5th in the nation. At the 2004 Indiana Robotics Invitational,
 WBI won the Animation Award for a fantastic animation made within only a day.
 
-[[edit](/index.php?title=461&action=edit&section=9 "Edit section: 2005" )]
 
 ### 2005
 
@@ -209,7 +200,6 @@ Boilermaker Regional, the Motorola Midwest Regional, and the Championship
 Event in Curie division can be found here.) WBI also attended the Championship
 Event in Atlanta, Georgia.
 
-[[edit](/index.php?title=461&action=edit&section=10 "Edit section: 2006" )]
 
 ### 2006
 
@@ -228,7 +218,6 @@ competed from April 27-29, 2006, in the Championship Event, held in Atlanta at
 the Georgia Dome. At the Championship Event, WBI won the Website Award, a feat
 we are extremely proud of.
 
-[[edit](/index.php?title=461&action=edit&section=11 "Edit section: 2007" )]
 
 ### 2007
 
@@ -242,7 +231,6 @@ Indiana Robotics Regional in July, we went on to the elimination round with a
 drive team that had never driven the robot before. WBI will surely carry this
 success forwards to this year's season.
 
-[[edit](/index.php?title=461&action=edit&section=12 "Edit section: 2008" )]
 
 ### 2008
 
@@ -255,7 +243,6 @@ upper half of the Archimedes Division. Unfortunately, WBI was not selected to
 participate as part of an alliance in the elmination rounds. The 2008 season
 has taught the team many lessons that can help us improve in the future.
 
-[[edit](/index.php?title=461&action=edit&section=13 "Edit section: 2009" )]
 
 ### 2009
 
@@ -281,7 +268,6 @@ The team is an active competitor in all of the aspects of FIRST. Of course WBI
 461 builds robots, but it also actively works on the animation, website, and
 community service aspects of FIRST.
 
-[[edit](/index.php?title=461&action=edit&section=15 "Edit section: Robots" )]
 
 ### Robots
 
@@ -344,7 +330,6 @@ the promise of science and technology. See WBI 461's submissions here:
   * 461 in 2009. [[28]](http://www.boilerinvasion.org/index.php?page=chairmans&id=11 "http://www.boilerinvasion.org/index.php?page=chairmans&id=11" )
   * 461 in 2010. [[29]](http://www.boilerinvasion.org/index.php?page=chairmans&id=12 "http://www.boilerinvasion.org/index.php?page=chairmans&id=12" )
 
-[[edit](/index.php?title=461&action=edit&section=18 "Edit section: Website" )]
 
 ### Website
 
@@ -497,7 +482,6 @@ Please check the website
 "http://www.boilerinvasion.org/index.php?page=member" ) for the most recent
 list of members.
 
-[[edit](/index.php?title=461&action=edit&section=23 "Edit section: Alumni" )]
 
 ### Alumni
 

@@ -23,7 +23,6 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Cylinder&action=edit&section=2 "Edit section: Air" )]
 
 ### Air
 

@@ -69,7 +69,6 @@ Competitions" )]
   * BAE Granite State Regional 
   * National Championship 
 
-[[edit](/index.php?title=125&action=edit&section=4 "Edit section: Robots" )]
 
 ## Robots
 
@@ -84,7 +83,6 @@ Accomplishments" )]
   * 2001 National Championship 
   * 2007 Boston Regional Winner 
 
-[[edit](/index.php?title=125&action=edit&section=6 "Edit section: Sponsors" )]
 
 ## Sponsors
 

@@ -58,7 +58,6 @@ expansion" ).
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=174&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -75,7 +74,6 @@ projects" )]
 Each year the team does community service projects. These have included canned
 food drives and book drives.
 
-[[edit](/index.php?title=174&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -117,7 +115,6 @@ e.gif)
 
 **2006 Buckeye Regional Champions** \- along with alliance partners team [272](/index.php/272 "272" ), Landsdale Catholic High School and team [494](/index.php/494 "494" ), The Goodrich Martians. The alliance completed the finals undefeated. 
 
-[[edit](/index.php?title=174&action=edit&section=5 "Edit section: Sponsors" )]
 
 ##  Sponsors
 

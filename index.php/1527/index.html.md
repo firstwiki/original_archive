@@ -48,19 +48,16 @@ _team location and name and basic stuff_
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1527&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
 Some team history
 
-[[edit](/index.php?title=1527&action=edit&section=2 "Edit section: Events" )]
 
 ##  Events
 
 Lists of events your team has attended
 
-[[edit](/index.php?title=1527&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -92,13 +89,11 @@ List" )]
 
   * List of Students 
 
-[[edit](/index.php?title=1527&action=edit&section=8 "Edit section: Alumni" )]
 
 ###  Alumni
 
   * List of graduated students 
 
-[[edit](/index.php?title=1527&action=edit&section=9 "Edit section: Mentors" )]
 
 ###  Mentors
 

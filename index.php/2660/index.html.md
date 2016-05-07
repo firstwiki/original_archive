@@ -40,7 +40,6 @@ Team 2660, Arts &amp; Technology HS Marysville WA
     * 5.2 Students  
 ---  
   
-[[edit](/index.php?title=2660&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ into a "gokart with a forklift". Thats what we try to build.
 
   
 
-[[edit](/index.php?title=2660&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -92,7 +90,6 @@ _**WE WOULD LIKE TO THANK ALL OUR SPONSORS FOR THEIR HELP!**_
 
   
 
-[[edit](/index.php?title=2660&action=edit&section=5 "Edit section: Members" )]
 
 ## Members
 

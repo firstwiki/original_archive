@@ -32,7 +32,6 @@ Team Website: | <http://www.tigertrons.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=222&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -57,7 +56,6 @@ projects" )]
 
 Remote Control Wheel Chair for Nutcracker play
 
-[[edit](/index.php?title=222&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -99,7 +97,6 @@ Accomplishments" )]
   * 2003 CMP DaimlerChrysler Team Spirit 
   * 2000 PA Best Offensive Round 
 
-[[edit](/index.php?title=222&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -112,7 +109,6 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=222&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -122,7 +118,6 @@ List" )]
   * 2009: David Donowski, Dan Donowski, and Nathan Hill 
   * 2010: Michael Forba, Chad Dymond 
 
-[[edit](/index.php?title=222&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -160,7 +155,6 @@ Alex Hunting Brad Rigdon James Dick Shawn Lees Kim Lawson
   * Brandon Wilson 
   * Dia Siraki 
 
-[[edit](/index.php?title=222&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

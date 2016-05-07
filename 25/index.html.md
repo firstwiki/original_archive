@@ -52,7 +52,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc25
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=25&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -111,7 +110,6 @@ letter to the team acknowledging their sacrifice and praising them for
 upholding FIRST's ideal of Gracious Professionalism, even at the cost of
 losing the Championship Event.
 
-[[edit](/index.php?title=25&action=edit&section=5 "Edit section: Projects" )]
 
 ## Projects
 
@@ -171,7 +169,6 @@ NXT robotics kits. They are given certain tasks to complete, such as following
 a line using a light sensor or building a simple drag racing robot, and have a
 few days to build an effective robot.
 
-[[edit](/index.php?title=25&action=edit&section=10 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -388,7 +385,6 @@ Awards from 2000-2005.
   * 2000: Nationals Division Winner 
   * 2000: National Champions 
 
-[[edit](/index.php?title=25&action=edit&section=12 "Edit section: Sponsors" )]
 
 ##  Sponsors
 
@@ -405,7 +401,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=25&action=edit&section=14 "Edit section: Students" )]
 
 ###  Students
 
@@ -420,7 +415,6 @@ List" )]
   * Michael Zimmerman: Pit Crew (2011-Present) 
   * Melissa Savin: Awards (2010-Present) 
 
-[[edit](/index.php?title=25&action=edit&section=15 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -442,7 +436,6 @@ List" )]
   * Neil Parikh 
   * Thomas McLean 
 
-[[edit](/index.php?title=25&action=edit&section=16 "Edit section: Mentors" )]
 
 ###  Mentors
 

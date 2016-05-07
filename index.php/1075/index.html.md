@@ -32,7 +32,6 @@ Team Website: | <http://www.sinclairsprockets.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1075&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -56,7 +55,6 @@ projects" )]
 
   * Check our website for current team projects 
 
-[[edit](/index.php?title=1075&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -118,7 +116,6 @@ List" )]
 
   * Check website for full student roster and profiles 
 
-[[edit](/index.php?title=1075&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -129,7 +126,6 @@ List" )]
   * Duane Jeffery ('05)- Programmer of 2004 Team -Information Technology, University of Ontario Institute of Technology 
   * John Nelson ('06)- Lead Machinist of 2006 Team -Electrical Engineering, Durham College 
 
-[[edit](/index.php?title=1075&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

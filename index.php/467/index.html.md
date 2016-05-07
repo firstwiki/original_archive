@@ -41,7 +41,6 @@ Team Website: | <http://www.team467.org/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=467&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -54,7 +53,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=467&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -93,7 +91,6 @@ Accomplishments" )]
   * 2008 Connecticut Regional - Judges Award 
   * 2008 Philadelphia Regional - Judges Award 
 
-[[edit](/index.php?title=467&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -104,7 +101,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=467&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -168,7 +164,6 @@ List" )]
 
   * Kefu Zhou  
 
-[[edit](/index.php?title=467&action=edit&section=12 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -193,7 +188,6 @@ List" )]
 
   * Juli Jenson  
 
-[[edit](/index.php?title=467&action=edit&section=14 "Edit section: Mentors" )]
 
 ### Mentors
 

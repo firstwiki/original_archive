@@ -43,7 +43,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc321
   * 6 Coaches &amp; Mentors  
 ---  
   
-[[edit](/index.php?title=321&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -66,7 +65,6 @@ Projects" )]
 
 2006 - BEST Robotics Competition, <http://www.bestinc.org>
 
-[[edit](/index.php?title=321&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -79,7 +77,6 @@ Projects" )]
   * January 2005 Fluffy - Lifted and pushed tetras on top and underneath their respective tetrahedron shaped goals 
   * January 2006 Cerberus - Collected balls via "conveyor belt" and scored in the one-point goals. 
 
-[[edit](/index.php?title=321&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 

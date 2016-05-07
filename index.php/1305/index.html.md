@@ -85,11 +85,9 @@ clip.png)](/index.php/Image:Duke2011.jpg "Enlarge" )
 
 This years robot: Duke
 
-[[edit](/index.php?title=1305&action=edit&section=3 "Edit section: History" )]
 
 ## History
 
-[[edit](/index.php?title=1305&action=edit&section=4 "Edit section: Awards" )]
 
 ###  Awards
 
@@ -181,7 +179,6 @@ Best Cart Design from Team 1006
   * 2010 - Alex Wilcox 
   * 2011 - Darren Stahl 
 
-[[edit](/index.php?title=1305&action=edit&section=6 "Edit section: Robots" )]
 
 ###  Robots
 
@@ -202,7 +199,6 @@ Best Cart Design from Team 1006
   * 2008 - L-Bot 
   * 2009 - Gen. Bot 
 
-[[edit](/index.php?title=1305&action=edit&section=7 "Edit section: Slogans" )]
 
 ###  Slogans
 

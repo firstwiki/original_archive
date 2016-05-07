@@ -54,13 +54,11 @@ Team 1 was a part of the Automation Alley Ground Breaking Ceremony in 2004.
 The team has also made numerous presentations to the state goverment of
 Michigan.
 
-[[edit](/index.php?title=1&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
 The team was started in 1997.
 
-[[edit](/index.php?title=1&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -91,7 +89,6 @@ Accomplishments" )]
   * 1998 MI Motorola Quality Award 
   * 1998 N1 Best Play of the Day Award 
 
-[[edit](/index.php?title=1&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 

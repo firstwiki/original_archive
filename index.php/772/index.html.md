@@ -62,7 +62,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc772
   * 7 Student Mentors  
 ---  
   
-[[edit](/index.php?title=772&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -152,7 +151,6 @@ _(as "Sabre Bytes Robotics")_
   * **Greater Toronto Regional - 41st place out of 63 teams, Quarter-Finalists (1901, 772, 1680)**
     * _Kleiner, Perkins, Caufield and Byers Entrepreneurship Award_
 
-[[edit](/index.php?title=772&action=edit&section=8 "Edit section: Robots" )]
 
 ## Robots
 
@@ -220,7 +218,6 @@ Membership" )]
 
 To be determined
 
-[[edit](/index.php?title=772&action=edit&section=12 "Edit section: Alumni" )]
 
 ## Alumni
 

@@ -51,11 +51,9 @@ Downtown Pittsburgh and have been competing in First Competitions since 2006._
     * 4.3 2012 Sponsors  
 ---  
   
-[[edit](/index.php?title=1743&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
-[[edit](/index.php?title=1743&action=edit&section=2 "Edit section: 2006" )]
 
 ### 2006
 
@@ -82,7 +80,6 @@ eliminated from competing in the final round, but the number one team, 395
 in the final competition. With our defense and their offense we went on to win
 the Pittsburgh Regional Championship.
 
-[[edit](/index.php?title=1743&action=edit&section=3 "Edit section: 2007" )]
 
 ### 2007
 
@@ -97,7 +94,6 @@ a claw/defense robot, after realizing our claw plan was flawed, in the
 Cleveland regional we had built a ramp, and converted our robot from a
 claw/defense robot, to a working ramp/defense robot.
 
-[[edit](/index.php?title=1743&action=edit&section=4 "Edit section: 2008" )]
 
 ### 2008
 
@@ -116,7 +112,6 @@ leader went to a different school. This was a great loss to us, but Robert
 Harris stepped up and took over his responsibilities. We finished a lot sooner
 in the 2008 year, having time to test the robot.
 
-[[edit](/index.php?title=1743&action=edit&section=5 "Edit section: 2009" )]
 
 ### 2009
 
@@ -128,7 +123,6 @@ place them into trailers which each team was carrying behind their robot. Team
 Pittsburgh. We then went on to win the regional with FIRST teams 222 and 1218,
 earning a trip to Atlanta and the world championship.
 
-[[edit](/index.php?title=1743&action=edit&section=6 "Edit section: 2010" )]
 
 ### 2010
 
@@ -140,7 +134,6 @@ to score using a foot shaped kicker to shoot the ball over the two bumps.
 Seeing as we couldn’t cross into other zones, Team 1743 acted as a far zone
 kicker and a defensive robot.
 
-[[edit](/index.php?title=1743&action=edit&section=7 "Edit section: 2011" )]
 
 ### 2011
 

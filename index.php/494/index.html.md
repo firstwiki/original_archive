@@ -68,7 +68,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=494&action=edit
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=494&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -80,7 +79,6 @@ Expanded yearly history should go into a team-year artical, see the
 for help.  
 ---  
   
-[[edit](/index.php?title=494&action=edit&section=2 "Edit section: 2007" )]
 
 ### 2007
 
@@ -89,7 +87,6 @@ for help.
   * [Buckeye Regional](/index.php/Buckeye_Regional "Buckeye Regional" )
   * [Great Lakes Regional](/index.php/Great_Lakes_Regional "Great Lakes Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=3 "Edit section: 2006" )]
 
 ### 2006
 
@@ -98,7 +95,6 @@ for help.
   * [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )
   * [Buckeye Regional](/index.php/Buckeye_Regional "Buckeye Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=4 "Edit section: 2005" )]
 
 ### 2005
 
@@ -107,7 +103,6 @@ for help.
   * [Detroit Regional](/index.php/Detroit_Regional "Detroit Regional" )
   * [West Michigan Regional](/index.php/West_Michigan_Regional "West Michigan Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=5 "Edit section: 2004" )]
 
 ### 2004
 
@@ -116,7 +111,6 @@ for help.
   * [Great Lakes Regional](/index.php/Great_Lakes_Regional "Great Lakes Regional" )
   * [Peachtree Regional](/index.php/Peachtree_Regional "Peachtree Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=6 "Edit section: 2003" )]
 
 ### 2003
 
@@ -125,14 +119,12 @@ for help.
   * [Peachtree Regional](/index.php/Peachtree_Regional "Peachtree Regional" )
   * [Buckeye Regional](/index.php/Buckeye_Regional "Buckeye Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=7 "Edit section: 2002" )]
 
 ### 2002
 
   * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" )
   * [Great Lakes Regional](/index.php/Great_Lakes_Regional "Great Lakes Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=8 "Edit section: 2001" )]
 
 ### 2001
 
@@ -146,7 +138,6 @@ Projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=494&action=edit&section=10 "Edit section: Robots" )]
 
 ## Robots
 
@@ -171,13 +162,11 @@ Expanded yearly history should go into a team-year artical, see the
 for help.  
 ---  
   
-[[edit](/index.php?title=494&action=edit&section=12 "Edit section: 2007" )]
 
 ### 2007
 
   * Great Lakes Regional [Finalist](/index.php/Regional_Finalist "Regional Finalist" )
 
-[[edit](/index.php?title=494&action=edit&section=13 "Edit section: 2006" )]
 
 ### 2006
 
@@ -189,7 +178,6 @@ for help.
   * Buckeye Regional [Winner](/index.php/Regional_Winner "Regional Winner" )
   * Buckeye Regional [RadioShack Innovation in Control Award](/index.php/RadioShack_Innovation_in_Control_Award "RadioShack Innovation in Control Award" )
 
-[[edit](/index.php?title=494&action=edit&section=14 "Edit section: 2005" )]
 
 ### 2005
 
@@ -200,7 +188,6 @@ for help.
   * Finger Lakes Regional [Winner](/index.php/Regional_Winner "Regional Winner" )
   * Finger Lakes Regional [Industrial Safety Award](/index.php/Industrial_Safety_Award "Industrial Safety Award" )
 
-[[edit](/index.php?title=494&action=edit&section=15 "Edit section: 2004" )]
 
 ### 2004
 
@@ -215,7 +202,6 @@ for help.
   * Peachtree Regional [Woodie Flowers Award](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" )-Jay TenBrink 
   * Peachtree Regional [Motorola Quality Award](/index.php/Motorola_Quality_Award "Motorola Quality Award" )
 
-[[edit](/index.php?title=494&action=edit&section=16 "Edit section: 2003" )]
 
 ### 2003
 
@@ -269,7 +255,6 @@ List" )]
   * Eva Yokosawa-11 
   * Matthew Zagone-12 
 
-[[edit](/index.php?title=494&action=edit&section=20 "Edit section: Alumni" )]
 
 ### Alumni
 
@@ -282,7 +267,6 @@ List" )]
   * Will Hubbard-Class of 2006 
   * Nate Wallace-Class of 2006 
 
-[[edit](/index.php?title=494&action=edit&section=21 "Edit section: Mentors" )]
 
 ### Mentors
 

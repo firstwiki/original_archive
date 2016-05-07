@@ -48,7 +48,6 @@ their many side projects.
   * 6 Website  
 ---  
   
-[[edit](/index.php?title=254&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -79,7 +78,6 @@ forward to a great year.
 In the past, 254 has started numerous teams on the West Coast and has
 collaborated with teams 22, 60 and 968.
 
-[[edit](/index.php?title=254&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -194,7 +192,6 @@ won a single regional for more than 3 consecutive years.
   * 2011 Galileo Winner 
   * **2011 Championship Winner**
 
-[[edit](/index.php?title=254&action=edit&section=4 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -211,7 +208,6 @@ won a single regional for more than 3 consecutive years.
   * [Boss Industries, Inc.](http://www.bossair.com/ "http://www.bossair.com/" )
   * [Mike Dininny &amp; Team 233](/index.php/233 "233" )
 
-[[edit](/index.php?title=254&action=edit&section=5 "Edit section: Members" )]
 
 ## Members
 
@@ -229,7 +225,6 @@ Leadership" )]
   * Competition: Erik Anderson - erik.anderson11@bcp.org 
   * Finance: Mark Iskarous - mark.iskarous11@bcp.org 
 
-[[edit](/index.php?title=254&action=edit&section=7 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -327,7 +322,6 @@ of teams by region" )
   
   
 
-[[edit](/index.php?title=254&action=edit&section=8 "Edit section: Website" )]
 
 ## Website
 

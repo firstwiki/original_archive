@@ -40,7 +40,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1923
   * 5 Mentors  
 ---  
   
-[[edit](/index.php?title=1923&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -48,7 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1923
   * Based in West Windsor, NJ, the team is primarily made up of students from West Windsor-Plainsboro High School North. 
   * Originally called Royal Knights Robotics, the team name changed as the team welcomed students from our rival high school (WWP HS South) in 2008. 
 
-[[edit](/index.php?title=1923&action=edit&section=2 "Edit section: Robots" )]
 
 ## Robots
 
@@ -81,7 +79,6 @@ Accomplishments" )]
 This information is current to the 2009 season. Our students will be updating
 this to include our 2010 and 2011 season rosters soon.
 
-[[edit](/index.php?title=1923&action=edit&section=5 "Edit section: Mentors" )]
 
 ## Mentors
 

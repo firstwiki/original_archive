@@ -43,7 +43,6 @@ Team Website: |
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=647&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -75,7 +74,6 @@ projects" )]
   * Autonomous and Disable Switch Boxes 
   * T-Shirt Launcher 
 
-[[edit](/index.php?title=647&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -100,7 +98,6 @@ Accomplishments" )]
   * [2007](/index.php?title=647_in_2007&action=edit "647 in 2007" )
   * [2008](/index.php?title=647_in_2008&action=edit "647 in 2008" )
 
-[[edit](/index.php?title=647&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -117,7 +114,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=647&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
@@ -132,7 +128,6 @@ List" )]
   * Jared Comacho 
   * Fish 
   * Maison Rooler 
-  * [[edit](/index.php?title=647&action=edit&section=8 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -148,7 +143,6 @@ List" )]
   * Dean 
   * Paul 
 
-[[edit](/index.php?title=647&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 

@@ -34,7 +34,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc469
     * 5.3 Mentors  
 ---  
   
-[[edit](/index.php?title=469&action=edit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -47,7 +46,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=469&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -131,7 +129,6 @@ for help.
   * 2000 FORD Sweet Repeat I Competition Finalist 
   * 2000 FORD Sweet Repeat Competition- Best Defensive Robot Award 
 
-[[edit](/index.php?title=469&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -173,7 +170,6 @@ for help.
 
   
 
-[[edit](/index.php?title=469&action=edit&section=6 "Edit section: Students" )]
 
 ### Students
 
@@ -217,13 +213,11 @@ Srinivasa, Shriram - 2010
 
 Wong, Mike - 2007
 
-[[edit](/index.php?title=469&action=edit&section=7 "Edit section: Alumni" )]
 
 ### Alumni
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=469&action=edit&section=8 "Edit section: Mentors" )]
 
 ### Mentors
 

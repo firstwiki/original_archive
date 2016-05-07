@@ -44,7 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2067
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=2067&action=edit&section=1 "Edit section: History" )]
 
 ##  History
 
@@ -85,7 +84,6 @@ projects" )]
 
   * Project Example 
 
-[[edit](/index.php?title=2067&action=edit&section=3 "Edit section: Robots" )]
 
 ##  Robots
 
@@ -139,7 +137,6 @@ Liam Grace-Flood
 
 **Freshmen** Ben Alter 
 
-[[edit](/index.php?title=2067&action=edit&section=8 "Edit section: Alumni" )]
 
 ###  Alumni
 
@@ -157,7 +154,6 @@ Dom Golia
 
 Emma Rubin
 
-[[edit](/index.php?title=2067&action=edit&section=9 "Edit section: Mentors" )]
 
 ###  Mentors
 

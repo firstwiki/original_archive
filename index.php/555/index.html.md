@@ -39,7 +39,6 @@ Team Website: | <http://www.montclairrobotics.com/>
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=555&action=edit&section=1 "Edit section: Awards" )]
 
 ## Awards
 
@@ -52,7 +51,6 @@ Team Website: | <http://www.montclairrobotics.com/>
   * 2005 National Johnson and Johnson Sportsmanship Award 
   * 2004 New York City Regional Judges Award Saturday 
 
-[[edit](/index.php?title=555&action=edit&section=2 "Edit section: History" )]
 
 ## History
 
@@ -60,7 +58,6 @@ Team Website: | <http://www.montclairrobotics.com/>
 
   
 
-[[edit](/index.php?title=555&action=edit&section=3 "Edit section: Robots" )]
 
 ## Robots
 
@@ -74,7 +71,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=555&action=edit&section=5 "Edit section: Sponsors" )]
 
 ## Sponsors
 
@@ -89,17 +85,14 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=555&action=edit&section=7 "Edit section: Students" )]
 
 ### Students
 
 **(Pending)**
 
-[[edit](/index.php?title=555&action=edit&section=8 "Edit section: Alumni" )]
 
 ### Alumni
 
-[[edit](/index.php?title=555&action=edit&section=9 "Edit section: Mentors" )]
 
 ### Mentors
 
