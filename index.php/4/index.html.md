@@ -139,8 +139,6 @@ and help students further their interest in engineering and the sciences. We
 Entrepreneurship, Networking, and Teamwork. And we are truly “Igniting the
 flames of Passion.”
 
-[[edit](/index.php?title=4&action=edit&section=5 "Edit section: Volunteering"
-)]
 
 ###  Volunteering
 
@@ -197,8 +195,6 @@ Image:P1070257.JPG "2008 Robot" )
   * 2006 The Championship Event (4/27/2006 - 4/29/2006) 
   * 2006 Greater Toronto Regional (3/30/2006 - 4/1/2006) 
 
-[[edit](/index.php?title=4&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

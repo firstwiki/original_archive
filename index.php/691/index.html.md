@@ -41,8 +41,6 @@ Team Website: | ?
 
   * History Example 
 
-[[edit](/index.php?title=691&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - Thrusty](/index.php?title=691_in_2004&action=edit "691 in 2004" )
 
-[[edit](/index.php?title=691&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * Textron/Honda/Hart 
 
-[[edit](/index.php?title=691&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

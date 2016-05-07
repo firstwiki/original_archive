@@ -39,8 +39,6 @@ Team Website: | <http://www.max1071.com>
 
   * History Example 
 
-[[edit](/index.php?title=1071&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -81,8 +79,6 @@ Championship, Semi-finals at Beantown Blitz, competed at Team 166's mini-comp.
 
   * Member Example 
 
-[[edit](/index.php?title=1071&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

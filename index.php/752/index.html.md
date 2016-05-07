@@ -55,8 +55,6 @@ team has overwhelming dedication that defies all negative statistics. We
 harvest the talents within students from countless races, nationalities, and
 cultural backgrounds and make this inner-city team worth joining.
 
-[[edit](/index.php?title=752&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -67,8 +65,6 @@ projects" )]
 
   * [2004 - Excalibur](/index.php?title=752_in_2004&action=edit "752 in 2004" )
 
-[[edit](/index.php?title=752&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -83,8 +79,6 @@ Accomplishments" )]
 
   * NJIT &amp; Science HS 
 
-[[edit](/index.php?title=752&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

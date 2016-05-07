@@ -47,8 +47,6 @@ the team. A decision was made and Team 100 became a multi-school team. In
 100 has historically sported very bright orange shirts and used a giant hat as
 their mascot.
 
-[[edit](/index.php?title=100&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -107,8 +105,6 @@ Awards Team 100 has achieved:
   * 2008 - Championship Competition/Curie Division: #16 Seed; Finalists 
   * 2008 - WRRF California Robot Games: Champions 
 
-[[edit](/index.php?title=100&action=edit&section=5 "Edit section: Additional
-Team Facts" )]
 
 ## Additional Team Facts
 
@@ -135,8 +131,6 @@ Team Facts" )]
   * [A Better Mousetrap!](http://www.mastermachinist.com/ "http://www.mastermachinist.com/" )
   * [DreamWorks SKG](http://www.dreamworksanimation.com/dwa/opencms/index.html "http://www.dreamworksanimation.com/dwa/opencms/index.html" )
 
-[[edit](/index.php?title=100&action=edit&section=7 "Edit section: Team
-members" )]
 
 ## Team members
 

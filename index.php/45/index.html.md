@@ -99,8 +99,6 @@ are sure that being a TechnoKat played a big role in their success today.
   * [2009 - Jake](/index.php?title=2009_-_Jake&action=edit "2009 - Jake" )
   * [2010 - TBA](/index.php?title=2010_-_TBA&action=edit "2010 - TBA" )
 
-[[edit](/index.php?title=45&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -49,8 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1208
 
   * History Example 
 
-[[edit](/index.php?title=1208&action=edit&section=2 "Edit section: Team
-Fundraising Projects" )]
 
 ## Team Fundraising Projects
 
@@ -65,16 +63,12 @@ Fundraising Projects" )]
   * [2004 - Excalibur](/index.php?title=Excalibur_%281208%29&action=edit "Excalibur \(1208\)" )
   * [2006 - Jack](/index.php?title=Jack_%281208%29&action=edit "Jack \(1208\)" )
 
-[[edit](/index.php?title=1208&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
 Third Place in Regional competition in 2006. Engineering award (regional).
 Numerous spirit awards from other teams.
 
-[[edit](/index.php?title=1208&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -83,8 +77,6 @@ add their support. So that we do not leave anyone out we have chosen not to
 specifically point out any sponsor, big or small, because each is uniquely
 important to our team and the Robotics community.
 
-[[edit](/index.php?title=1208&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

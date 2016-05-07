@@ -29,8 +29,6 @@ significant article. _See more [stubs](/index.php/Special:Shortpages
   
   
 
-[[edit](/index.php?title=RoboLab&action=edit&section=1 "Edit section:
-Overview" )]
 
 ## Overview
 
@@ -43,8 +41,6 @@ Macintosh platforms. [Mindstorms
 RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) on the
 other hand only runs on Windows.
 
-[[edit](/index.php?title=RoboLab&action=edit&section=2 "Edit section:
-Contructs" )]
 
 ## Contructs
 
@@ -57,8 +53,6 @@ Robolab contains all the standard programming constructs needed such as...
 ...as well as providing all the commands required to control the RCX and
 attached hardware (motors and sensors).
 
-[[edit](/index.php?title=RoboLab&action=edit&section=3 "Edit section: External
-links" )]
 
 ##  External links
 

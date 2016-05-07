@@ -15,8 +15,6 @@ Jump to: navigation, search
 
 **FIRST philosophy** is an oft-heard idea, whether or not it goes by that name all the time. FIRST philosophy has nearly become synonymous with [gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ); an important idea, for sure, but not inclusive of all the ideas that the [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) is about. FIRST has grown into a very diverse and large group through the years, and a distinctive [FIRST sub-culture](/index.php/FIRST_culture "FIRST culture" ) has developed, -- but it would be a mistake to assume that FIRST means the same to everyone involved, or that the ideas of FIRST philosophy, while agreed upon in a general sense, are static and well-defined. Therefore, tread cautiously through this article, as the main tenets and some of the divergent issues are explained. 
 
-[[edit](/index.php?title=FIRST_philosophy&action=edit&section=1 "Edit section:
-Gracious professionalism" )]
 
 ## Gracious professionalism
 

@@ -107,8 +107,6 @@ a good choice for you The price is really cheap As you know, our store is well
 known for its top quality and low price  
   
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=4 "Edit section:
-Our professional Louis Vuitton store has a wide range of hig" )]
 
 ##  Our professional Louis Vuitton store has a wide range of hig
 
@@ -255,8 +253,6 @@ Nowadays, Louis Vuitton brand is becoming more and more popular in the world
 [anda.org/?q=node/49008 louis vuitton outlet]  
 [anda.org/?q=node/49008 louis vuitton outlet]  
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=6 "Edit section:
-louis vuitton 3GT" )]
 
 ##  louis vuitton 3GT
 
@@ -467,8 +463,6 @@ louis vuitton]
 [.php/User:Ryyaprvvs#--_Eric_SondheimerJahmel_Taylor_scored_32_details_4KM
 louis vuitton]  
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=7 "Edit section:
-louis vuitton outlet 9R9" )]
 
 ##  louis vuitton outlet 9R9
 
@@ -921,8 +915,6 @@ louis vuitton outlet 9R9" )]
 [7118 6Rf](http://he.remedydevelopers.com/index.php/User:Shsyez028#7118_6Rf
 "http://he.remedydevelopers.com/index.php/User:Shsyez028#7118_6Rf" )
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=11 "Edit section:
-7014" )]
 
 ##  7014
 
@@ -1079,8 +1071,6 @@ individuals get to others and be attained quickly, without having thinking
 about the situation  
   
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=13 "Edit section:
-7130" )]
 
 ##  7130
 
@@ -1319,8 +1309,6 @@ about the situation
 ://arthropods-of-peru.org/index.php?title=User:Shsyez028#7036_9Fw "http
 ://arthropods-of-peru.org/index.php?title=User:Shsyez028#7036_9Fw" )
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=15 "Edit section:
-7179 2Bg" )]
 
 ##  7179 2Bg
 
@@ -1577,8 +1565,6 @@ r:Shsyez028#7139_1Yt" )
 3RB](http://wiki.adventuregaming.co.uk/index.php/User:Shsyez027#7014_3RB
 "http://wiki.adventuregaming.co.uk/index.php/User:Shsyez027#7014_3RB" )
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=17 "Edit section:
-ugg outlet 0TR" )]
 
 ##  ugg outlet 0TR
 
@@ -1691,8 +1677,6 @@ ugg outlet 0TR" )]
 [&amp;app=blog&amp;id=41584&amp;user_id=2851 ugg outlet]  
 [&amp;app=blog&amp;id=41584&amp;user_id=2851 ugg outlet]  
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=18 "Edit section:
-ugg outlet 0VJ" )]
 
 ##  ugg outlet 0VJ
 
@@ -2019,8 +2003,6 @@ ugg outlet 0VJ" )]
 [to_issue_a_Notice_of_Proposed_Assessment_for_this UGG UK]  
 [to_issue_a_Notice_of_Proposed_Assessment_for_this UGG UK]  
 
-[[edit](/index.php?title=User:Shsyez028&action=edit&section=21 "Edit section:
-7006" )]
 
 ##  7006
 

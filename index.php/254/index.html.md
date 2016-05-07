@@ -209,8 +209,6 @@ won a single regional for more than 3 consecutive years.
 
 ## Members
 
-[[edit](/index.php?title=254&action=edit&section=6 "Edit section: Student
-Leadership" )]
 
 ### Student Leadership
 

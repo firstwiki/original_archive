@@ -73,8 +73,6 @@ Humanity, and of course [FLL](/index.php/FLL "FLL" ).
   * Rainmaker IV -- 2002-2003 
   * Rainmaker V -- 2003-2004 
 
-[[edit](/index.php?title=360&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

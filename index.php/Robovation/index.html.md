@@ -55,8 +55,6 @@ The [Control System](/index.php/Control_system "Control system" )
   * [Robovation (2004)](/index.php/Robovation_%282004%29 "Robovation \(2004\)" )
   * [Robovation (2003)](/index.php/Robovation_%282003%29 "Robovation \(2003\)" )
 
-[[edit](/index.php?title=Robovation&action=edit&section=1 "Edit section: A
-note on nomenclature" )]
 
 ### A note on nomenclature
 

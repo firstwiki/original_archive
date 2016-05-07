@@ -57,8 +57,6 @@ regional victories.
 
 The team is composed of three groups:
 
-[[edit](/index.php?title=67&action=edit&section=3 "Edit section:
-Engineering/Robot" )]
 
 ###  Engineering/Robot
 
@@ -67,8 +65,6 @@ Information about the HOT Team's Engineering/Robot Group can be found on Team
 team/HOT_ENGINEERING.HTM "http://www2.huronvalley.k12.mi.us/schools/mhs/activi
 ty/hot_team/HOT_ENGINEERING.HTM" ) page.
 
-[[edit](/index.php?title=67&action=edit&section=4 "Edit section: Chairman's"
-)]
 
 ###  Chairman's
 

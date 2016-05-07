@@ -99,8 +99,6 @@ regional. They also took home an award from the World Chamionships for their
 first time since their rookie year in 2005, the judge's award. They won the
 award for "Integrated Performance".
 
-[[edit](/index.php?title=1511&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -123,8 +121,6 @@ projects" )]
   * 2008 FRC: Mach 1511 
   * 2009 FRC: Thunderplucker 
 
-[[edit](/index.php?title=1511&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -143,16 +139,12 @@ Accomplishments" )]
   * Champion Alliance ([Bash at the Beach](http://rollingthunder.smugmug.com/photos/39564190-M.jpg "http://rollingthunder.smugmug.com/photos/39564190-M.jpg" ), Preseason, '05) 
   * (Organized) [Rah Cha Cha Ruckus](http://rollingthunder.smugmug.com/photos/42343810-M.jpg "http://rollingthunder.smugmug.com/photos/42343810-M.jpg" ) (Preseason, '05) 
 
-[[edit](/index.php?title=1511&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
   * Harris RF Communications (Main Sponser) 
   * Top Notch Monogramming 
 
-[[edit](/index.php?title=1511&action=edit&section=6 "Edit section: Members
-List" )]
 
 ##  Members List
 

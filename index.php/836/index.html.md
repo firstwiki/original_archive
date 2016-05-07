@@ -85,8 +85,6 @@ the Chesapeake Regional.
 2008- (Unnamed bot): Competing in the New Jersey Regional in Trenton, NJ and
 the Chesapeake Regional.
 
-[[edit](/index.php?title=836&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -145,8 +143,6 @@ Edinger’s Carpet Outlet
 
 Wyle Laboratories
 
-[[edit](/index.php?title=836&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -75,8 +75,6 @@ science and technology.
   * Roccobot (233)|2005 - Roccobot2K5 
   * Roccobot (233)|2005 - Roccobot2K6 
 
-[[edit](/index.php?title=233&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -273,8 +271,6 @@ Secondary Sponsors:
   * Kit Gerhart (Mechanical) (CD Handle: Kit Gerhart) 
   * Nancy Yasecko (PR, Art of the Bot, Robot Opera) 
 
-[[edit](/index.php?title=233&action=edit&section=9 "Edit section: College
-Mentors" )]
 
 ### College Mentors
 

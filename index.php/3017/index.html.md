@@ -51,8 +51,6 @@ robot and the relationships of the students.
 
 2009 - ARK
 
-[[edit](/index.php?title=3017&action=edit&section=4 "Edit section: Advisors"
-)]
 
 ## Advisors
 

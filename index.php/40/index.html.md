@@ -85,8 +85,6 @@ clip.png)](/index.php/Image:TrinityRobotics.jpg "Enlarge" )
   * [2006 - Checkmate II](/index.php/Checkmate_II_%2840%29 "Checkmate II \(40\)" )
   * [2007 - iPinch](/index.php?title=Checkmate_III_%28iPinch%29_%2840%29&action=edit "Checkmate III \(iPinch\) \(40\)" )
 
-[[edit](/index.php?title=40&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -121,8 +119,6 @@ Accomplishments" )]
 
   * [2007 - Big Easy](/index.php?title=Mr._Easy_%2840%29&action=edit "Mr. Easy \(40\)" )
 
-[[edit](/index.php?title=40&action=edit&section=7 "Edit section: Members List"
-)]
 
 ## Members List
 

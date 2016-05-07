@@ -67,8 +67,6 @@ windows machine comes with windows movie maker (I think Vista does... I'm a
 mac user) and every Mac comes with iMovie. As for the output video and naming
 standards please see below!
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=5 "Edit section:
-Standards for Parsing:" )]
 
 ###  Standards for Parsing:
 
@@ -171,8 +169,6 @@ movie files.
   * Troy District OC 
   * Michigan State Championship GL 
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=9 "Edit section:
-Who is Archiving What?" )]
 
 ##  Who is Archiving What?
 

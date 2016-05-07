@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -87,8 +85,6 @@ closest ball to the goal.
 
 ## Tournament Structure
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=4 "Edit section:
-Kit Of Parts" )]
 
 ## Kit Of Parts
 
@@ -97,8 +93,6 @@ Kit Of Parts" )]
   * 4 Delco seat motors 
   * 2 pneumatic pumps 
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -111,8 +105,6 @@ only year up until the 2006 game, [Aim High](/index.php/Aim_High "Aim High" ),
 that teams scored points based on what happened in a match, as opposed to how
 things ended.
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 

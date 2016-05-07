@@ -71,8 +71,6 @@ motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor" )
 | [Globe](/index.php/Globe_motor "Globe motor" )  
 ---  
   
-[[edit](/index.php?title=Motors&action=edit&section=2 "Edit section:
-Suppliers" )]
 
 ### Suppliers
 

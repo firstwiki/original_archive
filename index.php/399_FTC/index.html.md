@@ -55,16 +55,12 @@ Build Robots, Play [Wii](http://wii.nintendo.com/ "http://wii.nintendo.com/"
   * 2006- [Apple Pi 2.0](http://web.mac.com/rharo.jr/iWeb/Site/Vex.html "http://web.mac.com/rharo.jr/iWeb/Site/Vex.html" )
   * 2006- [Apple Pi 2.1](/index.php/399_Vex_in_2006 "399 Vex in 2006" )
 
-[[edit](/index.php?title=399_FTC&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * 2006- Socal Runner-up 
   * 2006- Socal Inspire Award 
 
-[[edit](/index.php?title=399_FTC&action=edit&section=5 "Edit section:
-Sponsors" )]
 
 ## Sponsors
 
@@ -73,8 +69,6 @@ Sponsors" )]
 
 ## Members List
 
-[[edit](/index.php?title=399_FTC&action=edit&section=7 "Edit section:
-Students" )]
 
 ### Students
 
@@ -85,8 +79,6 @@ Students" )]
   * Will Cornel- Slacker 
   * Brian Armstrong- WHO??? 
 
-[[edit](/index.php?title=399_FTC&action=edit&section=8 "Edit section: Mentors"
-)]
 
 ### Mentors
 

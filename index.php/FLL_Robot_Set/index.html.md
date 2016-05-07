@@ -37,8 +37,6 @@ parts to support the needs of an FLL team.
 
 # Official Kit of Parts
 
-[[edit](/index.php?title=FLL_Robot_Set&action=edit&section=2 "Edit section:
-Inventory of the Kit" )]
 
 ## Inventory of the Kit
 
@@ -67,8 +65,6 @@ has more "electric" parts suitable for an FLL team. Here is the breakdown:
 
 # Legacy Kit (No longer sold, but still usable at competition
 
-[[edit](/index.php?title=FLL_Robot_Set&action=edit&section=4 "Edit section:
-Inventory of the Kit" )]
 
 ## Inventory of the Kit
 

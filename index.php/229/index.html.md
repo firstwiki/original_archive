@@ -99,8 +99,6 @@ ran and sponsored a FLL and FTC event which took place at Clarkson University.
   * [2001 - Undefined ](/index.php?title=Undefined_%28229%29&action=edit "Undefined \(229\)" )
   * [2000 - Cerberus ](/index.php?title=Cerberus_%28229%29&action=edit "Cerberus \(229\)" )
 
-[[edit](/index.php?title=229&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -119,8 +117,6 @@ Accomplishments" )]
     * Seeded 6th out of 64 
     * Semifinalists (with Teams 395 and 271) 
 
-[[edit](/index.php?title=229&action=edit&section=7 "Edit section: 2006-2007"
-)]
 
 ### 2006-2007
 
@@ -147,8 +143,6 @@ Accomplishments" )]
   * Massena Central School District 
   * Salmon River Central SChool 
 
-[[edit](/index.php?title=229&action=edit&section=9 "Edit section: Members
-List" )]
 
 ##  Members List
 

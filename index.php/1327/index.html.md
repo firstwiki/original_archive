@@ -71,8 +71,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1327
 
   * We had the privaledge to be on the 2nd Place Alliance in the finals at the Purdue Boilermaker Regional 
 
-[[edit](/index.php?title=1327&action=edit&section=4 "Edit section: *NEW*
-Please Come See Our Online Store!" )]
 
 ## *NEW* Please Come See Our Online Store!
 
@@ -85,8 +83,6 @@ hoody" ) <http://shop.sbotz.com/>
 
 ## The Team
 
-[[edit](/index.php?title=1327&action=edit&section=6 "Edit section: Students"
-)]
 
 ### Students
 
@@ -129,8 +125,6 @@ hoody" ) <http://shop.sbotz.com/>
   * Brian Harter: Penn High School: Graduate as of 05 
   * Andy Hardy: Washington High School: Graduate as of 04 
 
-[[edit](/index.php?title=1327&action=edit&section=9 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

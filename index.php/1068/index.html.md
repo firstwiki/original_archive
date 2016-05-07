@@ -31,8 +31,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=1068&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -43,8 +41,6 @@ projects" )]
 
   * [2004 - Shogun](/index.php?title=Shogun_%281068%29&action=edit "Shogun \(1068\)" )
 
-[[edit](/index.php?title=1068&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -55,8 +51,6 @@ Accomplishments" )]
 
   * LM/Devry/Disney/MEHS 
 
-[[edit](/index.php?title=1068&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

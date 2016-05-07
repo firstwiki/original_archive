@@ -27,8 +27,6 @@ Mindstorms" ) kits and other LEGO parts. It will also include a research
 presentation or topic with formal presentation to the judges. Teams attend FLL
 Events where they can compete with their peers and share what they've learned.
 
-[[edit](/index.php?title=FLL_Challenge&action=edit&section=1 "Edit section:
-Challenge Pages" )]
 
 ## Challenge Pages
 

@@ -21,8 +21,6 @@ Eugenia Gabrielov
   * 5 Thoughts on Future  
 ---  
   
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=1 "Edit section:
-Me" )]
 
 ## Me
 
@@ -37,8 +35,6 @@ Me" )]
   * [Email Me](mailto:a.cookie.for.you@gmail.com "mailto:a.cookie.for.you@gmail.com" )
   * Chief Delphi: [Eugenia Gabrielov](http://www.chiefdelphi.com/forums/member.php?u=4925 "http://www.chiefdelphi.com/forums/member.php?u=4925" )
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=3 "Edit section:
-Robotics" )]
 
 ## Robotics
 
@@ -49,8 +45,6 @@ Robotics" )]
 
 ## Robotics 2006-2007
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=5 "Edit section:
-Regionals" )]
 
 ### Regionals
 
@@ -59,8 +53,6 @@ In 2006, I attended the Boilermaker Regional and the Championship Event.
 During college, I plan to volunteer at competitions, though I have not yet
 decided if I plan to work with a team before I get my bachelor's degree.
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=6 "Edit section:
-Offseason Competitions" )]
 
 ### Offseason Competitions
 

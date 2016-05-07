@@ -33,8 +33,6 @@ output](/index.php?title=Analog_output&action=edit "Analog output" ) value
 used to control motors through [Victors](/index.php/Victor "Victor" ) or
 [Jaguars](/index.php/Jaguar "Jaguar" ).
 
-[[edit](/index.php?title=PWM_signal&action=edit&section=1 "Edit section:
-Programming" )]
 
 ## Programming
 
@@ -47,8 +45,6 @@ does not move send any current to the motor (though the
 [Victor](/index.php/Victor "Victor" ) or [Jaguar](/index.php/Jaguar "Jaguar" )
 can change what exactly happens at this signal).
 
-[[edit](/index.php?title=PWM_signal&action=edit&section=2 "Edit section:
-External Links" )]
 
 ## External Links
 

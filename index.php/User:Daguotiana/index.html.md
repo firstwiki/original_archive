@@ -23,8 +23,6 @@ Jump to: navigation, search
   * 6 www.cheapoakleysunglasses-clearance.us ZZ9nA4  
 ---  
   
-[[edit](/index.php?title=User:Daguotiana&action=edit&section=1 "Edit section:
-raybansunglassescheapuk.com  ray ban sunglasses" )]
 
 ##  raybansunglassescheapuk.com ray ban sunglasses
 
@@ -113,8 +111,6 @@ aviator sunglasses.
        add in small items like a few hotwheel cars,[michael kors](http://www.michaelkorsoutletmichael.us/ "http://www.michaelkorsoutletmichael.us/" ), You can become familiar with the appearance of these bags by visiting the Lacoste website.
     
 
-[[edit](/index.php?title=User:Daguotiana&action=edit&section=6 "Edit section:
-www.cheapoakleysunglasses-clearance.us ZZ9nA4" )]
 
 ##  www.cheapoakleysunglasses-clearance.us ZZ9nA4
 

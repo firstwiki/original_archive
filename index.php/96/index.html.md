@@ -49,8 +49,6 @@ sponsor, the team changed its name to JESTER. As always, the team has a huge
 focus on the students designing and building the robot each year, with the
 mentors acting as support.
 
-[[edit](/index.php?title=96&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -61,8 +59,6 @@ projects" )]
 
   * [2004 - Maniac](/index.php?title=Maniac_%2896%29&action=edit "Maniac \(96\)" )
 
-[[edit](/index.php?title=96&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -73,8 +69,6 @@ Accomplishments" )]
 
   * MassMutual 
 
-[[edit](/index.php?title=96&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

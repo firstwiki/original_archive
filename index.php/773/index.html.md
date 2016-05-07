@@ -47,8 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc773
 
   * History Example 
 
-[[edit](/index.php?title=773&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -59,8 +57,6 @@ projects" )]
 
   * [2004 - Kukinator II](/index.php?title=Kukinator_II_%28773%29&action=edit "Kukinator II \(773\)" )
 
-[[edit](/index.php?title=773&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -117,8 +117,6 @@ were the #12 scorer in Friday's matches.) This alliance went on to defeat the
 seed tagging along) in the semis. It was a successful season, and one that we
 hope to build on for next year.
 
-[[edit](/index.php?title=8&action=edit&section=2 "Edit section: Team projects"
-)]
 
 ## Team projects
 

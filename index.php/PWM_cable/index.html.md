@@ -9,8 +9,6 @@ into both the [robot controller](/index.php/Robot_controller "Robot
 controller" ) and the [Victor 884](/index.php/Victor_884 "Victor 884" ) speed
 controller. This cable carries the [PWM](/index.php/PWM "PWM" ) signal.
 
-[[edit](/index.php?title=PWM_cable&action=edit&section=1 "Edit section: Other
-Uses of the PWM Cable" )]
 
 ## Other Uses of the PWM Cable
 
@@ -23,8 +21,6 @@ the serial connection on the [cmu2cam](/index.php?title=Cmu2cam&action=edit
 3-pin cable identical to the [Victor 884](/index.php/Victor_884 "Victor 884"
 ), as do many sensors.
 
-[[edit](/index.php?title=PWM_cable&action=edit&section=2 "Edit section: Other
-Types of Cables Used for PWM Signals" )]
 
 ## Other Types of Cables Used for PWM Signals
 

@@ -53,8 +53,6 @@ _First Overdrive_
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=694_in_2008&action=edit&section=1 "Edit section: Pre-
-build" )]
 
 ## Pre-build
 
@@ -63,8 +61,6 @@ build" )]
 
 _Engineers and Mao need to write stuff here too_
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -79,8 +75,6 @@ _general description of how it went_ _Mao write stuff here_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=5 "Edit section: New
-York Regional" )]
 
 ### New York Regional
 
@@ -91,8 +85,6 @@ _Mao and engineers need to write stuff here_ etc etc etc
 
 _Someone Write stuff here_
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=7 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -117,8 +109,6 @@ clip.png)](/index.php/Image:N788915578_796432_2784.jpg "Enlarge" )
 
 Desbot doing what it does best
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=9 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

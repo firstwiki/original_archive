@@ -69,8 +69,6 @@ nationals.
   * [2003 - Sprocket II](/index.php/1075_in_2003#Robot "1075 in 2003" )
   * [2003 - Sprocket I (EduRobot)](/index.php/1075_in_2003#Robot "1075 in 2003" )
 
-[[edit](/index.php?title=1075&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -91,8 +89,6 @@ Accomplishments" )]
   * 2003-Delphi E.L.I.T.E. (FRC [48](/index.php/48 "48" )) Unique Drivetrain award, Canadian Regional 
   * 2003-FIRST Canadian Regional Finalists (with [188](/index.php/188 "188" ), and [306](/index.php/306 "306" )) 
 
-[[edit](/index.php?title=1075&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -105,8 +101,6 @@ Accomplishments" )]
   * 2004-Czar Jovanovic, Teacher - Machinist Teacher 
   * 2003-Riley Garner, Teacher - Design Teacher 
 
-[[edit](/index.php?title=1075&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

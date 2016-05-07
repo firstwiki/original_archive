@@ -789,8 +789,6 @@ Jump to: navigation, search
   * 769 LIran ne cédera pas aux pressions occidentales sur son prog  
 ---  
   
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=1 "Edit section:
-Military drill with foreign observers ends in Jinan  - Peopl" )]
 
 ##  Military drill with foreign observers ends in Jinan - Peopl
 
@@ -841,8 +839,6 @@ conducted forward an army team beneath the Jinan Military Region and was open
 to alien military officers.  
 We Recommend
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=2 "Edit section:
-New changes in Chinas social class structure  - Peoples Dail" )]
 
 ##  New changes in Chinas social class structure - Peoples Dail
 
@@ -973,8 +969,6 @@ needed to reinforce the Sino-Japanese knots along holding Chinese
 administration bonds.  
 We Recommend
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=5 "Edit section:
-Japan bans radioactive rice - Peoples Daily Online" )]
 
 ##  Japan bans radioactive rice - Peoples Daily Online
 

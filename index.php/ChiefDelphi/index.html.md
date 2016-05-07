@@ -55,8 +55,6 @@ Delphi from throughout the years:
   * [September 2003](http://web.archive.org/web/20031003073306/www.chiefdelphi.com/forums/portal.php "http://web.archive.org/web/20031003073306/www.chiefdelphi.com/forums/portal.php" )
   * [May 2004](http://web.archive.org/web/20040605182030/www.chiefdelphi.com/forums/portal.php "http://web.archive.org/web/20040605182030/www.chiefdelphi.com/forums/portal.php" )
 
-[[edit](/index.php?title=Chief_Delphi&action=edit&section=2 "Edit section:
-Statistics" )]
 
 ## Statistics
 
@@ -71,8 +69,6 @@ As of February 26, 2009:
 
 ## Structure
 
-[[edit](/index.php?title=Chief_Delphi&action=edit&section=4 "Edit section:
-Significance" )]
 
 ## Significance
 

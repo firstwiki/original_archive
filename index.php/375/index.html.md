@@ -57,8 +57,6 @@ unlike any other. We are proud to say that although we build engineering
 feats, we build spirit, professionalism, and humanitarianism simultaneously.
 As we like to say: "There are no problems, only solutions!"
 
-[[edit](/index.php?title=375&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -91,8 +89,6 @@ projects" )]
   * [2009 - Sliding Seagull (Sputnik)](/index.php?title=Robotic_Plague_%28375%29&action=edit "Robotic Plague \(375\)" )
   * [2010 - iChihuahua](/index.php?title=Robotic_Plague_%28375%29&action=edit "Robotic Plague \(375\)" )
 
-[[edit](/index.php?title=375&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -229,8 +225,6 @@ Long Island Regional
   * [New York-New Jersey Port Authority](http://www.panynj.gov/ "http://www.panynj.gov/" )
   * [Credit Suisse](http://www.creditsuisse.com "http://www.creditsuisse.com" )
 
-[[edit](/index.php?title=375&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

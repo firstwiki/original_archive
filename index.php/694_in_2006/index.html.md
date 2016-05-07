@@ -79,8 +79,6 @@ removed them, leaving us with our truly final design.
   * NYC Regional Xerox Creativity Award 
   * NYC Regional finalist 
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=3 "Edit section: New
-York City Regional Competition" )]
 
 ### New York City Regional Competition
 
@@ -95,8 +93,6 @@ _general description of how it went_
 
 etc etc etc
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=5 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -113,8 +109,6 @@ allowed him to become a finalist at the New York City regional competition.
 Joshua was named after the grandson of two of our chief sponsors, Larry and
 Yvette Gralla.
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=6 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 
@@ -123,8 +117,6 @@ Robot Functions" )]
   * can acquire balls from either the top of the spiral (human-loaded) or the floor (independently) 
   * autonomously score up to 10 balls in the lower goal 
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=7 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

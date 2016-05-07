@@ -45,8 +45,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=303&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -57,8 +55,6 @@ projects" )]
 
   * [2004 - ](/index.php?title=%28303%29&action=edit "\(303\)" )
 
-[[edit](/index.php?title=303&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

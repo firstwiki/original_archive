@@ -47,8 +47,6 @@ year's robot._
 
 ## Build
 
-[[edit](/index.php?title=25_in_2004&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -61,8 +59,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=25_in_2004&action=edit&section=5 "Edit section: next
-Regional name" )]
 
 ### next Regional name
 
@@ -85,8 +81,6 @@ clip.png)](/index.php/Image:Notarealrobot.jpg "Enlarge" )
 
 Note the creative usage of purple and blue blocks as structural members.
 
-[[edit](/index.php?title=25_in_2004&action=edit&section=7 "Edit section: Robot
-Functions" )]
 
 ### Robot Functions
 

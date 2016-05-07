@@ -35,8 +35,6 @@ Team Website: | <http://www.thecatattack.org/>
 
   * History Example 
 
-[[edit](/index.php?title=451&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

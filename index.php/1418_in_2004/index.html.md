@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=1418_in_2004&action=edit&section=1 "Edit section:
-NASA/VCU Regional" )]
 
 ## [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
 

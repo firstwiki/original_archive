@@ -55,8 +55,6 @@ approximately 25 adults, with the students taking on more responsibilities
 than in recent years. We hope to continue this trend as we continue into our
 second decade.
 
-[[edit](/index.php?title=176&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -287,8 +285,6 @@ teams #2056 and #1114.
 
   * UTC Hamilton Sunstrand 
 
-[[edit](/index.php?title=176&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

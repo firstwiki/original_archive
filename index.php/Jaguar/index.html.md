@@ -37,8 +37,6 @@ Competition" ) in the 2010 season to supplement the [Victor
 884](/index.php/Victor_884 "Victor 884" ). It has had two different versions,
 the MDL-BDC "Grey Jaguar" and the MDL-BDC24 "Black Jaguar".
 
-[[edit](/index.php?title=Jaguar&action=edit&section=1 "Edit section:
-Technical" )]
 
 ## Technical
 

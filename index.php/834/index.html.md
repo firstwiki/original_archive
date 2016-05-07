@@ -49,8 +49,6 @@ with teams 293 and 358, won second place at the Philadelphia Regional.
   * 2005 - Nemesis 
   * 2006 - Monstructor 
 
-[[edit](/index.php?title=834&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

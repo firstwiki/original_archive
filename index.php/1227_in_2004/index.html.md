@@ -39,24 +39,18 @@ _General Description of the year._
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=1227_in_2004&action=edit&section=1 "Edit section:
-Pre-build" )]
 
 ## Pre-build
 
 _stuff like getting sponsors and projects that got incorporated into this
 year's robot._
 
-[[edit](/index.php?title=1227_in_2004&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
 
 ## Accomplishments
 
-[[edit](/index.php?title=1227_in_2004&action=edit&section=4 "Edit section:
-Regional name" )]
 
 ### Regional name
 
@@ -71,8 +65,6 @@ _general description of how it went_
 
 etc etc etc
 
-[[edit](/index.php?title=1227_in_2004&action=edit&section=6 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -95,8 +87,6 @@ Note the creative usage of purple and blue blocks as structural members.
   * list 
   * of functions 
 
-[[edit](/index.php?title=1227_in_2004&action=edit&section=8 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

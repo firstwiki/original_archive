@@ -19,8 +19,6 @@ finished...](http://www.freewebs.com/k80girlx3
 
 ##  Resume
 
-[[edit](/index.php?title=User:K80girlx3&action=edit&section=3 "Edit section:
-About Me" )]
 
 ##  About Me
 

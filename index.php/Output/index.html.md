@@ -59,8 +59,6 @@ different signals through the output ports.
 
 ##  Types of Output
 
-[[edit](/index.php?title=Output&action=edit&section=2 "Edit section: Analog
-Output" )]
 
 ### Analog Output
 
@@ -73,8 +71,6 @@ between 0 to 254 (the [RC](/index.php/Robot_Controller "Robot Controller" )
 
 Digital output is simply a 0 or 1.
 
-[[edit](/index.php?title=Output&action=edit&section=4 "Edit section: Robot
-Controller Output" )]
 
 ## Robot Controller Output
 

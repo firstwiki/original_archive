@@ -21,8 +21,6 @@ games and field elements to create a unique game suited to the Vex platform.
   * 4 Sources  
 ---  
   
-[[edit](/index.php?title=Game_%28FTC%29&action=edit&section=1 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -55,8 +53,6 @@ values as follows:
 
 The team with the highest score at the end of the match wins.
 
-[[edit](/index.php?title=Game_%28FTC%29&action=edit&section=2 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -69,8 +65,6 @@ formed, the teams go into a single elimination bracket with an alliance moving
 on after winning two matches against their opponent. The winner of the bracket
 is determined to be the winner of the tournament.
 
-[[edit](/index.php?title=Game_%28FTC%29&action=edit&section=3 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -79,8 +73,6 @@ increased to 18 X 18 X 18 inches, as well as the addition of two more motors
 or servos, and the use of two y-cables. This should enable teams to create
 machines that will be able to complete this year's challenge.
 
-[[edit](/index.php?title=Game_%28FTC%29&action=edit&section=4 "Edit section:
-Sources" )]
 
 ## Sources
 

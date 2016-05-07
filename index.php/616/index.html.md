@@ -39,8 +39,6 @@ Team Website: | ?
 
 ## History
 
-[[edit](/index.php?title=616&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -49,16 +47,12 @@ projects" )]
 
   * [2005 - ???](/index.php/616_in_2005 "616 in 2005" )
 
-[[edit](/index.php?title=616&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
 
 ## Sponsors
 
-[[edit](/index.php?title=616&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

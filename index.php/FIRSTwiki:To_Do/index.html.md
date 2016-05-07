@@ -61,8 +61,6 @@ need to be done to get FIRSTwiki going again.
 
   
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=2 "Edit section:
-Frequently asked questions" )]
 
 ## Frequently asked questions
 
@@ -163,8 +161,6 @@ wikipedia's help pages, et. al., to get an idea of how they do it.
 
 ## Appearance
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=7 "Edit section:
-Content" )]
 
 ## Content
 
@@ -185,8 +181,6 @@ that everyone is on the same page and so that contributors know what to
 contribute. --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 13:15, 4 Jun
 2004 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=8 "Edit section:
-Technical" )]
 
 ### Technical
 

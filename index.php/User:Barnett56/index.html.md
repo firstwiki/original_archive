@@ -37,8 +37,6 @@ vuitton](http://www.louisvuittonbetter.com/
 for more from Louis Vuitton items hitting stores this summer! Approximate
 price will be $1030. Shop via Louis Vuitton online.
 
-[[edit](/index.php?title=User:Barnett56&action=edit&section=2 "Edit section: A
-closer look at Louis Vuitton Spring 2012" )]
 
 ##  A closer look at Louis Vuitton Spring 2012
 
@@ -83,8 +81,6 @@ guys &lt;img class="wp-smiley" title="Louis Vuitton Hair Cubes Strass"
 alt="Louis Vuitton Hair Cubes Strass icon smile" src="/&gt; ), but I'm not
 sure if I can see that person being me.
 
-[[edit](/index.php?title=User:Barnett56&action=edit&section=4 "Edit section:
-Louis Vuitton Wapity Case" )]
 
 ##  Louis Vuitton Wapity Case
 
@@ -105,8 +101,6 @@ you have this and let me know if it can hold the necessities I need to have
 with me at all times (pics would be ohh so helpful)!!!! Buy it via eLuxury for
 $255.
 
-[[edit](/index.php?title=User:Barnett56&action=edit&section=5 "Edit section:
-Louis Vuitton Card Deck Set" )]
 
 ##  Louis Vuitton Card Deck Set
 

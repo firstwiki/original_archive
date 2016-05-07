@@ -105,8 +105,6 @@ crop of young adults will be inspired to reach for the stars.
   * Rotary Club of Killen Heights 
   * Fort Hood Officer's Wives Club 
 
-[[edit](/index.php?title=647&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

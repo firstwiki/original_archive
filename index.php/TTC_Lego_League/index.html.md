@@ -51,8 +51,6 @@ _team location and name and basic stuff_
   * 9 Sponsors  
 ---  
   
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -65,8 +63,6 @@ State Director's Award and represent our state at the FLL Championships. The
 team is entering its 5th season in 2006-2007 and looks forward to many more
 productive years.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=2 "Edit section:
-Robots, Team Name and Number" )]
 
 ## Robots, Team Name and Number
 
@@ -111,16 +107,12 @@ Team Name: The Nano Ninjas
 
 Number: 530
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=3 "Edit section:
-Events Attended" )]
 
 ## Events Attended
 
 
 ## 2005-2006
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=5 "Edit section:
-Trident Tech Scrimmage" )]
 
 ### Trident Tech Scrimmage
 
@@ -147,8 +139,6 @@ marks from the judges. Congratulations also to the F.I.R.S.T Knights of St.
 John's Catholic School in North Charleston on being the Director's Award
 runners up.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=7 "Edit section:
-2006 FLL World Festival" )]
 
 ### 2006 FLL World Festival
 
@@ -163,8 +153,6 @@ were partnered with for the alliance exercise.
 
 ## 2006-2007
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=9 "Edit section:
-Trident Tech Scrimmage" )]
 
 ### Trident Tech Scrimmage
 
@@ -177,8 +165,6 @@ presentation quality. Team 530 was fortunate enough to win first place in the
 research presentation category. Special congratulations to The Atom Busters,
 Champion's Award winners.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=10 "Edit section:
-South Carolina State Tournament" )]
 
 ### South Carolina State Tournament
 
@@ -259,8 +245,6 @@ SC State Champion's Award Second Place (Sat)
 
 Adult Mentor and Outstanding Volunteer Awards for Mr. Sam
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=12 "Edit section:
-Special projects" )]
 
 ## Special projects
 
@@ -277,8 +261,6 @@ takes field trips relating to that year's challenge topic.
 
 ## Members List
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=14 "Edit section:
-Students, Coaches and Mentors \(oh my!\)" )]
 
 ### Students, Coaches and Mentors (oh my!)
 
@@ -287,8 +269,6 @@ For more information about our team please visit
 starting the team and sharing all their knowledge and time. Thanks also to the
 Trident Tech faculty for their support.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=15 "Edit section:
-Mr. Sam" )]
 
 ### Mr. Sam
 

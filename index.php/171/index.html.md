@@ -99,8 +99,6 @@ numerous public appearances with our robots, past and present, such as
 demonstrations for the UW-Board of Regents, UW-P Industrial Advisory Board,
 Wisconsin State Fair, and local parades.
 
-[[edit](/index.php?title=171&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -135,8 +133,6 @@ projects" )]
 
   * University of Wisconsin Platteville &amp; Area Schools 
 
-[[edit](/index.php?title=171&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

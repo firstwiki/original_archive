@@ -69,8 +69,6 @@ Controller \(2007\)" ) used from 2004-2008, though articles on
 train issues specifically related to FIRST. Specific tips from a team's own
 experience are appropriate here.
 
-[[edit](/index.php?title=How-to&action=edit&section=4 "Edit section:
-Electrical" )]
 
 ## Electrical
 
@@ -119,8 +117,6 @@ appropriate here.
   * [Designing a team webpage](/index.php/Designing_a_team_webpage "Designing a team webpage" )
   * [Using CSS](/index.php/Using_CSS "Using CSS" )
 
-[[edit](/index.php?title=How-to&action=edit&section=8 "Edit section: Team
-management" )]
 
 ## Team management
 
@@ -131,8 +127,6 @@ with team management issues directly related to FIRST.
   * [Fundraising](/index.php/Fundraising "Fundraising" )
   * [Creating a non-profit organization](/index.php/Creating_a_non-profit_organization "Creating a non-profit organization" )
 
-[[edit](/index.php?title=How-to&action=edit&section=9 "Edit section: External
-Links" )]
 
 ## External Links
 

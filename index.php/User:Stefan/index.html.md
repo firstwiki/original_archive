@@ -21,8 +21,6 @@ involved with our [RoboCup](http://en.wikipedia.org/wiki/RoboCup
 (TE) Sessions, and FIRST mentoring efforts. All of this and I am pursuing a BS
 in Aerospace Engineering at Georgia Tech.
 
-[[edit](/index.php?title=User:Stefan&action=edit&section=2 "Edit section:
-Contact Info" )]
 
 ### Contact Info
 

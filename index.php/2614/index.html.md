@@ -77,8 +77,6 @@ schoolers) have joined the team.
     * See our 2011 Chairman's Video here. [[3]](http://www.youtube.com/watch?v=ohuLx2smItI "http://www.youtube.com/watch?v=ohuLx2smItI" )
     * See our 2012 Chairman's Video here. [[4]](https://www.facebook.com/photo.php?v=388368541188392 "https://www.facebook.com/photo.php?v=388368541188392" )
 
-[[edit](/index.php?title=2614&action=edit&section=4 "Edit section: MARS is
-Helping Create a FIRST Community in West Virginia" )]
 
 ## MARS is Helping Create a FIRST Community in West Virginia
 
@@ -87,8 +85,6 @@ Helping Create a FIRST Community in West Virginia" )]
   * Meet our sister team, PARTs (Putnam Area Robotics Team) (Team #3492) [[5]](https://sites.google.com/a/team3492.org/putnam-area-robotics-team-p-a-r-t-s/home-1 "https://sites.google.com/a/team3492.org/putnam-area-robotics-team-p-a-r-t-s/home-1" )
   * The Appalachian Robotics Alliance (ARA) [[6]](http://marsfirst.org/?page_id=1624 "http://marsfirst.org/?page_id=1624" )
 
-[[edit](/index.php?title=2614&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -19,8 +19,6 @@ Jump to: navigation, search
 
 On either end of the tanks is a 1/4" NPT threading for a brass fitting.
 
-[[edit](/index.php?title=Storage_tank&action=edit&section=2 "Edit section:
-Current Product Info" )]
 
 ## Current Product Info
 
@@ -29,8 +27,6 @@ Current Product Info" )]
 
 Supplied by [Clippard](http://www.clippard.com "http://www.clippard.com" ).
 
-[[edit](/index.php?title=Storage_tank&action=edit&section=4 "Edit section:
-Model Number" )]
 
 ### Model Number
 

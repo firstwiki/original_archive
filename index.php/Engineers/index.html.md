@@ -15,8 +15,6 @@ are often sought in [FIRST](/index.php/FIRST "FIRST" ) as
 is to encourage more [students](/index.php/Student "Student" ) to seek careers
 in engineering.
 
-[[edit](/index.php?title=Engineer&action=edit&section=1 "Edit section:
-External links" )]
 
 ##  External links
 

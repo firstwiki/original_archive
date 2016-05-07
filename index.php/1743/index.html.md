@@ -137,8 +137,6 @@ kicker and a defensive robot.
 
 ### 2011
 
-[[edit](/index.php?title=1743&action=edit&section=8 "Edit section: The Steel
-City Robotics Alliance" )]
 
 ## The Steel City Robotics Alliance
 
@@ -159,8 +157,6 @@ Starting in 2010 Team 1743 joined the Steel City Robotics Alliance(SCRA).
 
   
 
-[[edit](/index.php?title=1743&action=edit&section=10 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -175,8 +171,6 @@ Starting in 2010 Team 1743 joined the Steel City Robotics Alliance(SCRA).
   * Singularity Clark 
   * City Charter High School 
 
-[[edit](/index.php?title=1743&action=edit&section=12 "Edit section: 2011
-Sponsors" )]
 
 ### 2011 Sponsors
 

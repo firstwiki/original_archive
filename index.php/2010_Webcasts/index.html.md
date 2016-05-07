@@ -7,8 +7,6 @@ Jump to: navigation, search
 Webcasting is related to archiving. Consider visiting [2010
 Archiving](/index.php/2010_Archiving "2010 Archiving" ) as well.
 
-[[edit](/index.php?title=2010_Webcasts&action=edit&section=1 "Edit section:
-Webcast List" )]
 
 ##  Webcast List
 

@@ -57,8 +57,6 @@ Index of FRC Games
   * 7 Sources  
 ---  
   
-[[edit](/index.php?title=Stack_Attack&action=edit&section=1 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -107,24 +105,18 @@ matches. Many times teams would win one match by a landslide, then clear the
 field of all scoring objects for a very low scoring match, thus insuring their
 victory.
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=3 "Edit section:
-Rules" )]
 
 ## Rules
 
 
 ## Strategies
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=5 "Edit section:
-Robots" )]
 
 ## Robots
 
 
 ## Misc Info
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=7 "Edit section:
-Sources" )]
 
 ## Sources
 

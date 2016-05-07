@@ -39,8 +39,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc339
 
 team history goes here
 
-[[edit](/index.php?title=339&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -67,8 +65,6 @@ projects" )]
   * [2001 - Kilroy II](/index.php/339_in_2001 "339 in 2001" )
   * [2000 - Kilroy I](/index.php/339_in_2000 "339 in 2000" )
 
-[[edit](/index.php?title=339&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

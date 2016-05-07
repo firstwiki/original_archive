@@ -33,8 +33,6 @@ Controller](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)"
 ), the function Get_Analog_Value must first be called. This is not necessary
 when the pot is connected to the Operator Interface.
 
-[[edit](/index.php?title=Potentiometer&action=edit&section=1 "Edit section:
-See also" )]
 
 ##  See also
 

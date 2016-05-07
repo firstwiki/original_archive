@@ -219,8 +219,6 @@ alliance, comprised of captain [1243](/index.php/1243 "1243" ),
 [2619](/index.php/2619 "2619" ), and final pick [494](/index.php/494 "494" ),
 who continued to win the event.
 
-[[edit](/index.php?title=2337&action=edit&section=5 "Edit section: 2011 - Life
-is Iterative" )]
 
 ### 2011 - Life is Iterative
 
@@ -337,8 +335,6 @@ Bullet Bill at the Detroit Regional
 
   
 
-[[edit](/index.php?title=2337&action=edit&section=9 "Edit section: 2009 - Bad
-Dream Machine \(Autobomb\)" )]
 
 ### 2009 - Bad Dream Machine (Autobomb)
 
@@ -359,8 +355,6 @@ The Bad Dream Machine at 2337's build facility
 
   
 
-[[edit](/index.php?title=2337&action=edit&section=10 "Edit section: 2010 -
-\(Robot was not named\)" )]
 
 ### 2010 - (Robot was not named)
 
@@ -379,8 +373,6 @@ She-Who-Was-Not-Named at MARC
   * The ball manipulator consisted of a ball magnet (roller), a vacuum, and a latched spring-assisted kicker. The ball control was not optimal, but the kicker proved deadly from midfield.*This robot was unable to go over the bumps, and started all but one match in the midfield (The starting midfield robot was also a midfield specialist). 
   * A system to allow vertically elevating robots to suspend was debuted at Kettering Kickoff, but malfunctioned, not allowing Team 2337 to successfully elevate, due to lack of testing; however, it was successfully used after the event in two staged double vertical suspensions, with Teams [33](/index.php/33 "33" ) (twice), [27](/index.php/27 "27" ), and [1718](/index.php/1718 "1718" ). 
 
-[[edit](/index.php?title=2337&action=edit&section=11 "Edit section: 2011 -
-\(Muhammad\) Ali" )]
 
 ### 2011 - (Muhammad) Ali
 
@@ -391,8 +383,6 @@ She-Who-Was-Not-Named at MARC
   * The arm also included an innovative ratcheting brake system that made unwanted back-driving impossible 
   * For the combination of the ratcheting brake system, the extending arm, and the opening active gripper, the team was awarded the Excellence in Engineering Award at the 2011 Troy District Competition 
 
-[[edit](/index.php?title=2337&action=edit&section=12 "Edit section:
-Leadership" )]
 
 ## Leadership
 
@@ -511,8 +501,6 @@ Leadership" )]
   * [Indiana Robotics Invitational](/index.php/Indiana_Robotics_Invitational "Indiana Robotics Invitational" ) \- Semifinalist 
   * [Kettering Kickoff](/index.php/Kettering_Kickoff "Kettering Kickoff" ) \- Champion 
 
-[[edit](/index.php?title=2337&action=edit&section=21 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

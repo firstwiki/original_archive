@@ -111,8 +111,6 @@ Quality Award.
 2008.jpg](/media/5/5f/Team_1517_2008.jpg)](/index.php/Image:Team_1517_2008.jpg
 "Image:Team 1517 2008.jpg" )
 
-[[edit](/index.php?title=1517&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -151,8 +149,6 @@ and advantageous machine feature. Chesapeake Regional
   * SolidWorks 
   * Taylor Rental 
 
-[[edit](/index.php?title=1517&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -87,8 +87,6 @@ homeschool network or from local high schools currently without a FIRST team.
   * 2006 "[Sergeant York](/index.php/1519_in_2006 "1519 in 2006" )" 
   * 2005 "Elvis - King of Rack and Rail" 
 
-[[edit](/index.php?title=1519&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -117,8 +115,6 @@ Accomplishments" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1519&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

@@ -35,8 +35,6 @@ Students work with [mentors](/index.php/Mentors "Mentors" ) and
 [robot](/index.php/Robot "Robot" ) for a [FIRST](/index.php/FIRST "FIRST" )
 organization.
 
-[[edit](/index.php?title=Students&action=edit&section=1 "Edit section:
-Requirements" )]
 
 ## Requirements
 

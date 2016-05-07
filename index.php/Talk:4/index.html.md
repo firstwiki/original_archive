@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Talk:4&action=edit&section=1 "Edit section: Rookie
-Year" )]
 
 ## Rookie Year
 

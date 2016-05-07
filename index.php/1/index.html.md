@@ -45,8 +45,6 @@ are located at the Oakland Technical Campus Northeast.
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=1&action=edit&section=1 "Edit section: Community
-Involvement" )]
 
 ## Community Involvement
 

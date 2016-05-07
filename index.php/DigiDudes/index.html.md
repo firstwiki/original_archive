@@ -51,8 +51,6 @@ _team location and name and basic stuff_
 
 _just maybe highlights of the team and how it was created_
 
-[[edit](/index.php?title=DigiDudes&action=edit&section=2 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -65,8 +63,6 @@ Robots" )]
 
 ## Current Year Events Attended
 
-[[edit](/index.php?title=DigiDudes&action=edit&section=4 "Edit section: Event
-Name 1" )]
 
 ### Event Name 1
 
@@ -83,8 +79,6 @@ _Short narrative of your team's experience at this event_
 
   
 
-[[edit](/index.php?title=DigiDudes&action=edit&section=6 "Edit section: Awards
-and Recognitions" )]
 
 ## Awards and Recognitions
 
@@ -105,8 +99,6 @@ description and maybe
   * of 
   * links 
 
-[[edit](/index.php?title=DigiDudes&action=edit&section=8 "Edit section:
-Members List" )]
 
 ## Members List
 

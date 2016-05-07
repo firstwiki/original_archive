@@ -17,8 +17,6 @@ circuitry" ) component used to transfer electrical energy.
     * 1.5 NOTE  
 ---  
   
-[[edit](/index.php?title=Wire&action=edit&section=1 "Edit section: Standard"
-)]
 
 ## Standard
 

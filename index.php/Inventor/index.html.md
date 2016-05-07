@@ -55,16 +55,12 @@ number of standard three-dimensional model file formats, such as
 into [computer aided manufacturing](/index.php/Computer_aided_manufacturing
 "Computer aided manufacturing" ) software.
 
-[[edit](/index.php?title=Inventor&action=edit&section=1 "Edit section:
-External Links" )]
 
 ##  External Links
 
   * [Autodesk Inventor](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=4246282 "http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=4246282" )
   * [FIRST CAD Library](http://www.firstcadlibrary.com/ "http://www.firstcadlibrary.com/" )
 
-[[edit](/index.php?title=Inventor&action=edit&section=2 "Edit section: YouTube
-Tutorials" )]
 
 ## YouTube Tutorials
 

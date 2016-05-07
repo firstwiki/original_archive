@@ -33,8 +33,6 @@ with an attached planetary gearbox, which may be removed if suited.
 
     [Globe Motor.pdf](http://www.chiefdelphi.com/media/papers/download/2100 "http://www.chiefdelphi.com/media/papers/download/2100" )
 
-[[edit](/index.php?title=Globe_motor&action=edit&section=2 "Edit section:
-Usage Notes" )]
 
 ## Usage Notes
 

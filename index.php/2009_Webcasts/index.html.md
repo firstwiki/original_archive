@@ -7,8 +7,6 @@ Jump to: navigation, search
 Webcasting is related to archiving. Consider visiting [2009
 Archiving](/index.php/2009_Archiving "2009 Archiving" ) as well.
 
-[[edit](/index.php?title=2009_Webcasts&action=edit&section=1 "Edit section:
-Webcast List" )]
 
 ##  Webcast List
 
@@ -141,8 +139,6 @@ Robotics](http://www.coderedrobotics.com/ "http://www.coderedrobotics.com/" )
 Robotics](http://www.coderedrobotics.com/ "http://www.coderedrobotics.com/" )
 |  Code Red Robotics 2771  
   
-[[edit](/index.php?title=2009_Webcasts&action=edit&section=3 "Edit section:
-How to Webcast" )]
 
 ##  How to Webcast
 

@@ -131,8 +131,6 @@ for help.
   * [National Championship](/index.php/National_Championship "National Championship" )
   * [Great Lakes Regional](/index.php/Great_Lakes_Regional "Great Lakes Regional" )
 
-[[edit](/index.php?title=494&action=edit&section=9 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -149,8 +147,6 @@ Projects" )]
   * 2002 - My Favorite Robot 
   * 2001 - My Favorite Robot 
 
-[[edit](/index.php?title=494&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -213,8 +209,6 @@ for help.
   * Peachtree Regional [Engineering Inspiration Award](/index.php/Engineering_Inspiration_Award "Engineering Inspiration Award" )
   * Buckeye Regional [Motorola Quality Award](/index.php/Motorola_Quality_Award "Motorola Quality Award" )
 
-[[edit](/index.php?title=494&action=edit&section=17 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -223,8 +217,6 @@ for help.
   * [Textron Fastening Systems](http://www.textronfasteningsystems.com/index.html "http://www.textronfasteningsystems.com/index.html" )
   * [NASA](http://www.nasa.gov/ "http://www.nasa.gov/" ) (2006 only) 
 
-[[edit](/index.php?title=494&action=edit&section=18 "Edit section: Members
-List" )]
 
 ## Members List
 

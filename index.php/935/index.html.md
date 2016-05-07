@@ -51,8 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc935
 
   * History Example 
 
-[[edit](/index.php?title=935&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -63,8 +61,6 @@ projects" )]
 
   * [2004 - Protege (Programmable Robot Oriented Toward Education and General Engineering)](/index.php?title=Protege_%28Programmable_Robot_Oriented_Toward_Education_and_General_Engineering%29_%28935%29&action=edit "Protege \(Programmable Robot Oriented Toward Education and General Engineering\) \(935\)" )
 
-[[edit](/index.php?title=935&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
 
   * NHS/SME/AB 
 
-[[edit](/index.php?title=935&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -23,8 +23,6 @@ provided in the [kit of parts](/index.php/Kit_of_parts "Kit of parts" ).
   * 4 External links  
 ---  
   
-[[edit](/index.php?title=Transmission&action=edit&section=1 "Edit section:
-Synopsis" )]
 
 ##  Synopsis
 
@@ -37,8 +35,6 @@ parts](/index.php/Kit_of_parts "Kit of parts" ). Additionally, a custom kit
 transmission was packed into the 2005 kit of parts, giving teams a 1 or 2
 motor, single speed transmission.
 
-[[edit](/index.php?title=Transmission&action=edit&section=2 "Edit section:
-Building a FIRST robot transmission" )]
 
 ## Building a FIRST robot transmission
 
@@ -77,8 +73,6 @@ Some teams take it to the next level and incorperate a [Continously Variable
 Transmission (CVT)](/index.php/CVT "CVT" ), allowing an infinite amount of
 reduction ratios.
 
-[[edit](/index.php?title=Transmission&action=edit&section=4 "Edit section:
-Motors" )]
 
 ### Motors
 

@@ -41,8 +41,6 @@ Team Website: |
 
   * History Example 
 
-[[edit](/index.php?title=140&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - none](/index.php?title=None_%28140%29&action=edit "None \(140\)" )
 
-[[edit](/index.php?title=140&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * Brooks &amp; Tyngsboro 
 
-[[edit](/index.php?title=140&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

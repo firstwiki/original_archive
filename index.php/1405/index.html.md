@@ -61,8 +61,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1405
 
   * NASA 
 
-[[edit](/index.php?title=1405&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

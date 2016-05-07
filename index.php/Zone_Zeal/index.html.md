@@ -85,8 +85,6 @@ zone. And 10 points for each robot touching your home zone. A popular design
 this year was the use of measuring tapes to slide back and touch your home
 zone.
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -99,24 +97,18 @@ During the elimination matches the it was a best of 3 three set. So
 elimination match often became a tug of war battle to try and score the
 rolling goals.
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=4 "Edit section: Kit Of
-Parts" )]
 
 ## Kit Of Parts
 
 
 ## Rules
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
 
 ## Robots
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=8 "Edit section: Misc
-Info" )]
 
 ## Misc Info
 

@@ -37,8 +37,6 @@ of collaborative projects with other FIRST-Related Organisations. Those
 wishing to propose such a collaborative project are invited to mail the
 openfirst-devel mailing list.
 
-[[edit](/index.php?title=OpenFIRST&action=edit&section=3 "Edit section:
-Compatibility" )]
 
 ##  Compatibility
 
@@ -63,8 +61,6 @@ a volunteer may wish to read [the openFIRST Contributor's
 HOWTO](http://openfirst.org/doc/tut/howto/
 "http://openfirst.org/doc/tut/howto/" )
 
-[[edit](/index.php?title=OpenFIRST&action=edit&section=6 "Edit section:
-External Resources" )]
 
 ##  External Resources
 

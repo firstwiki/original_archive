@@ -57,8 +57,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1113
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=1113&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -69,8 +67,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1113
 
   * Member Example 
 
-[[edit](/index.php?title=1113&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

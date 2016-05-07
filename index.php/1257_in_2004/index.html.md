@@ -19,8 +19,6 @@ Jump to: navigation, search
 
 ## Build
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=2 "Edit section: A
-night at Jason Livingston's house" )]
 
 ### A night at [Jason Livingston's house](/index.php/User:Jason_Livingston
 "User:Jason Livingston" )
@@ -63,8 +61,6 @@ Livingston was very understanding, and amazingly, was just worried that
 something was wrong with the robot. We packed up, a rug was put back
 conveniently over the spot, and all was forgotten.
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=3 "Edit section: New
-Jersey Regional" )]
 
 ## [New Jersey Regional](/index.php/New_Jersey_Regional "New Jersey Regional"
 )
@@ -79,14 +75,10 @@ its functions reasonably well.
   * [DaimlerChrysler Team Spirit Award](/index.php/DaimlerChrysler_Team_Spirit_Award "DaimlerChrysler Team Spirit Award" )
   * Seeded 27 of 47 
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=4 "Edit section:
-Chesapeake Regional" )]
 
 ## [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional"
 )
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=5 "Edit section:
-Arrival and qualifying matches" )]
 
 ### Arrival and qualifying matches
 
@@ -103,8 +95,6 @@ from the bar another.
 
 ### Alliance selection
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=7 "Edit section:
-"I'm sorry, that number doesn't exist either"" )]
 
 #### "I'm sorry, that number doesn't exist either"
 
@@ -145,8 +135,6 @@ match: In the final seconds of the last match, Max failed to direct Leon to
 shoot into the opposition's mobile goal which was sitting literally in front
 of him.
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=8 "Edit section:
-Elimination rounds" )]
 
 ### Elimination rounds
 

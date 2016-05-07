@@ -103,8 +103,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1714
 
 2008 (Overdrive) Philbert
 
-[[edit](/index.php?title=1714&action=edit&section=8 "Edit section: 2009
-\(Lunacy\): Philbert 2" )]
 
 ### 2009 (Lunacy): Philbert 2
 
@@ -129,8 +127,6 @@ per match, we were picked first overall by rookie team 2826 and won the event.
 The robot managed a 5-2 record on Newton field, also serving as the first
 backup robot.
 
-[[edit](/index.php?title=1714&action=edit&section=9 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

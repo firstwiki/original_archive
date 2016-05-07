@@ -75,8 +75,6 @@ for help.
   
   
 
-[[edit](/index.php?title=772&action=edit&section=2 "Edit section: 2002: Zone
-Zeal" )]
 
 ###  _2002: Zone Zeal_
 
@@ -91,8 +89,6 @@ _(as "Sabres Robotics")_
 
   * **Canadian Regional (Mississauga, ON) - 26th place out of 51 teams, Quarter Finalists (1114, 771, 772)**
 
-[[edit](/index.php?title=772&action=edit&section=4 "Edit section: 2004: FIRST
-Frenzy - Raising the Bar" )]
 
 ###  _2004: FIRST Frenzy - Raising the Bar_
 
@@ -101,8 +97,6 @@ _(as "Club Sandwich")_
   * **Pittsburgh Regional (Pittsburgh, PA) - 25th place out of 35 teams, Quarter Finalists**
   * **Canadian Super Regional (Mississauga, ON) - 32nd place out of 75 teams, Semi Finalists (1010, 772, 865)**
 
-[[edit](/index.php?title=772&action=edit&section=5 "Edit section: 2005: Triple
-Play" )]
 
 ###  _2005: Triple Play_
 
@@ -133,8 +127,6 @@ _(as "Sabre Bytes Robotics")_
     * _Honourable Mention: Underwriters Laboratories Industrial Safety_
   * **FIRST Championship (Atlanta, GA) - 63rd place out of 86 teams in the Curie division**
 
-[[edit](/index.php?title=772&action=edit&section=7 "Edit section: 2007: Rack
-'n' Roll" )]
 
 ###  _2007: Rack 'n' Roll_
 
@@ -161,8 +153,6 @@ _(as "Sabre Bytes Robotics")_
   * [2003 - Srockbot](/index.php/Srockbot_%28772%29 "Srockbot \(772\)" )
   * [2002 - Sabrebot](/index.php/Sabrebot_%28772%29 "Sabrebot \(772\)" )
 
-[[edit](/index.php?title=772&action=edit&section=9 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -205,8 +195,6 @@ Valiant Machine &amp; Tool Inc
 
 Sport Fest Windsor
 
-[[edit](/index.php?title=772&action=edit&section=11 "Edit section: Team
-Membership" )]
 
 ## Team Membership
 

@@ -7,8 +7,6 @@ Jump to: navigation, search
 A **chassis** is the fundamental rigid frame on and around which a
 [robot](/index.php/Robot "Robot" ) is built.
 
-[[edit](/index.php?title=Chassis&action=edit&section=1 "Edit section:
-Overview" )]
 
 ##  Overview
 
@@ -21,8 +19,6 @@ the chassis be well-designed to keep everything together in a sensible way
 that does not inhibit mobility. Given the restrictions on the robot's design,
 the weight of the chassis must also be considered.
 
-[[edit](/index.php?title=Chassis&action=edit&section=2 "Edit section:
-Materials" )]
 
 ##  Materials
 

@@ -59,8 +59,6 @@ since.
   * 1996 - The Hexorcist 
   * 1995 - The Bobcat 
 
-[[edit](/index.php?title=177&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

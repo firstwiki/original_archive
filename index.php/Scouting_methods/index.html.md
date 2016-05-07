@@ -67,8 +67,6 @@ the harder a method is to use, the more manpower a team will need to be
 effective. So, it really depends on which members of the team are going to be
 doing the scouting.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=4 "Edit section:
-Reliability" )]
 
 ### Reliability
 
@@ -79,8 +77,6 @@ different interpretations as to what data is relevant and what is not. A
 reliable method is one that accurately reflects the overall value and
 qualities of a robot.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=5 "Edit section:
-Compile Time" )]
 
 ### Compile Time
 
@@ -91,8 +87,6 @@ Generally teams will only have one night to compile all of this information.
 So, it is important to carefully consider how much manpower will be available
 to compile the information.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=6 "Edit section:
-Strategy" )]
 
 ### Strategy
 

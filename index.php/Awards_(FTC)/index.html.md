@@ -59,8 +59,6 @@ The Connect Award is given to the team that has spread the word of FIRST
 throughout their community and has made the community a principal part of
 their team.
 
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=5 "Edit section:
-Think Award" )]
 
 ## Think Award
 

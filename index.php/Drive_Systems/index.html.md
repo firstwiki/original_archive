@@ -83,8 +83,6 @@ extensive [open loop](/index.php/Open_loop "Open loop" ) control system.
 
 ## Types of Drive Trains
 
-[[edit](/index.php?title=Drive_train&action=edit&section=3 "Edit section: Two
-wheel drive" )]
 
 ### Two wheel drive
 
@@ -109,8 +107,6 @@ turn. Also, placing the powered wheels along the 30" sides of the robot will
 further slow its rate of turn, making it more controllable (helpful, but not
 necessary). A good example is [95](/index.php/95 "95" )'s 2002 'bot.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=4 "Edit section: Four
-Wheel Drive" )]
 
 ### Four Wheel Drive
 
@@ -143,8 +139,6 @@ A good example of this kind of drivetrain is the [418](/index.php/418 "418" )
 If you hear any reference to a "West Coast drive" it is commonly refering to a
 Six Wheel Drive
 
-[[edit](/index.php?title=Drive_train&action=edit&section=6 "Edit section: Car
-Drive" )]
 
 ### Car Drive
 
@@ -181,8 +175,6 @@ Some forms of swerve drive are also known to have less power for pushing other
 robots around on the field. However, increased maneuverability is gained to
 make up for it. A good example is the [95](/index.php/95 "95" ) 2003 robot.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=8 "Edit section: Crab
-Drive" )]
 
 ### Crab Drive
 
@@ -223,8 +215,6 @@ controllers](/index.php/Victor_884 "Victor 884" ). This problem was
 successfully fixed by using a lookup table to force individual joystick
 positions to map to a linear set of power outputs.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=10 "Edit section:
-Mecanum Drive" )]
 
 ### Mecanum Drive
 
@@ -241,8 +231,6 @@ state, showing the drivetrain quite clearly.
 
 ### Tank Tread Drive
 
-[[edit](/index.php?title=Drive_train&action=edit&section=12 "Edit section:
-Other Drive Types" )]
 
 ### Other Drive Types
 

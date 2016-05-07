@@ -21,8 +21,6 @@ component that allows elctronic control of air pressure flow.
     * 3.2 Model Numbers  
 ---  
   
-[[edit](/index.php?title=Solenoid&action=edit&section=1 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -33,8 +31,6 @@ All solenoids have one input. This should come directly from a [pressure
 regulator](/index.php/Pressure_regulator "Pressure regulator" ). Uses either a
 quick connect connector or is threaded for a 1/8" brass fitting.
 
-[[edit](/index.php?title=Solenoid&action=edit&section=3 "Edit section: Output"
-)]
 
 ### Output
 
@@ -51,8 +47,6 @@ connected to a [spike](/index.php/Spike "Spike" ) for contolling.
 
 ## Types
 
-[[edit](/index.php?title=Solenoid&action=edit&section=6 "Edit section: Single
-Solenoid" )]
 
 ### Single Solenoid
 
@@ -71,8 +65,6 @@ pressure is applied to neither end, and the [cylinder](/index.php/Cylinder
 
 ## Current Product Info
 
-[[edit](/index.php?title=Solenoid&action=edit&section=9 "Edit section:
-Suppliers" )]
 
 ### Suppliers
 

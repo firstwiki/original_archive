@@ -53,8 +53,6 @@ Team Website: | <http://www.Trenton.k12.nj.us/tchs/robotics>
 
 2007 Philadelphia Regional
 
-[[edit](/index.php?title=381&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -69,8 +67,6 @@ projects" )]
   * [2006 - Spiderbot](/index.php/Spiderbot_%28381%29 "Spiderbot \(381\)" )
   * [2007 - Mario](/index.php?title=Mario_%28381%29&action=edit "Mario \(381\)" )
 
-[[edit](/index.php?title=381&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

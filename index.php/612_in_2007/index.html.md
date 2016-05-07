@@ -55,16 +55,12 @@ _General Description of the year._
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=612_in_2007&action=edit&section=1 "Edit section: Pre-
-build" )]
 
 ## Pre-build
 
 _stuff like getting sponsors and projects that got incorporated into this
 year's robot._
 
-[[edit](/index.php?title=612_in_2007&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -91,8 +87,6 @@ article.
   * [Finalist](/index.php/Finalist "Finalist" )
   * [Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award "Kleiner Perkins Caufield & Byers Entrepreneurship Award" )
 
-[[edit](/index.php?title=612_in_2007&action=edit&section=5 "Edit section:
-NASA/VCU Regional" )]
 
 ### [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
 
@@ -113,8 +107,6 @@ clip.png)](/index.php/Image:Notarealrobot.jpg "Enlarge" )
 
 Note the creative usage of purple and blue blocks as structural members.
 
-[[edit](/index.php?title=612_in_2007&action=edit&section=7 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

@@ -41,8 +41,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1353
 
   * History Example 
 
-[[edit](/index.php?title=1353&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - The Botfather](/index.php?title=The_Botfather_%281353%29&action=edit "The Botfather \(1353\)" )
 
-[[edit](/index.php?title=1353&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -67,8 +63,6 @@ Accomplishments" )]
   * Atomic Energy Of Canada Limited 
   * ATI Technologies 
 
-[[edit](/index.php?title=1353&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

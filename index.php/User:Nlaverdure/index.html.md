@@ -19,8 +19,6 @@ Robotics)](http://www.chantillyrobotics.com/
 "http://www.chantillyrobotics.com/" ) and [122 (NASA
 Knights)](http://www.team122.org/ "http://www.team122.org/" )_  
 
-[[edit](/index.php?title=User:Nlaverdure&action=edit&section=1 "Edit section:
-Projects" )]
 
 ## Projects
 

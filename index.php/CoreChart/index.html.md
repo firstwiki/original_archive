@@ -11,8 +11,6 @@ A special version was available for [FIRST](/index.php/FIRST "FIRST" )
 [Innovation First](/index.php/Innovation_First%2C_Inc. "Innovation First,
 Inc." )'s libraries and the [IFI Loader](/index.php/IFI_Loader "IFI Loader" ).
 
-[[edit](/index.php?title=CoreChart&action=edit&section=1 "Edit section: Code"
-)]
 
 ##  Code
 

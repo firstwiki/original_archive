@@ -19,8 +19,6 @@ Jump to: navigation, search
   * 4 What other people think  
 ---  
   
-[[edit](/index.php?title=User:Max&action=edit&section=1 "Edit section: Who am
-I?" )]
 
 ## Who am I?
 
@@ -35,8 +33,6 @@ I?" )]
   * ChiefDelphi: [maxlobovsky](http://www.chiefdelphi.com/forums/member.php?userid=6017 "http://www.chiefdelphi.com/forums/member.php?userid=6017" )
   * email: NOSPAM @cornell.edu, NOSPAM is really "mbl33". 
 
-[[edit](/index.php?title=User:Max&action=edit&section=3 "Edit section: What am
-I doing now?" )]
 
 ## What am I doing now?
 
@@ -45,8 +41,6 @@ otics/2006/index.jsp;jsessionid=4E695D1F3CE7B7AF7874A159C1565545 "http://unive
 rsity.gsfc.nasa.gov/robotics/2006/index.jsp;jsessionid=4E695D1F3CE7B7AF7874A15
 9C1565545" )
 
-[[edit](/index.php?title=User:Max&action=edit&section=4 "Edit section: What
-other people think" )]
 
 ## What other people think
 

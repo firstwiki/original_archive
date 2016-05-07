@@ -15,8 +15,6 @@ Ahh, another competition done...
 
 ** **This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) [sysop](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ). 
 
-[[edit](/index.php?title=User:PeterFll&action=edit&section=1 "Edit section:
-Basics" )]
 
 ## Basics
 
@@ -25,8 +23,6 @@ Joined: _5/1/2005_
 Team: _The [SMART](/index.php/SMART "SMART" ) Team from Connecticut  
 _ Position: _Coach/Mentor_
 
-[[edit](/index.php?title=User:PeterFll&action=edit&section=2 "Edit section:
-More" )]
 
 ## More
 

@@ -111,8 +111,6 @@ Our team motto is “Going against the Current” and our team robot is named
   * [1997- Disposer I](/index.php?title=Disposer_I_%2886%29&action=edit "Disposer I \(86\)" )
   * [1996- Trash Bot](/index.php?title=Trash_Bot_%2886%29&action=edit "Trash Bot \(86\)" )
 
-[[edit](/index.php?title=86&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

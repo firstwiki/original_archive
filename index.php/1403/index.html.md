@@ -79,8 +79,6 @@ Rookie Year-2004 Attended:
   * [2007 - Tubacca](/index.php?title=%281403%29&action=edit "\(1403\)" )
   * [2008 - unnamed](/index.php?title=%281403%29&action=edit "\(1403\)" )
 
-[[edit](/index.php?title=1403&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

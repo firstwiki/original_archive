@@ -21,8 +21,6 @@ Jump to: navigation, search
   * [Victor 884](/index.php/Victor_884 "Victor 884" )
   * [PWM cable](/index.php/PWM_cable "PWM cable" )
 
-[[edit](/index.php?title=PWM&action=edit&section=2 "Edit section: External
-links" )]
 
 ##  External links
 

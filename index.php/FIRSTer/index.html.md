@@ -31,8 +31,6 @@ significant article. _See more [stubs](/index.php/Special:Shortpages
 FIRSTers is generally defined as those who are involved in
 [FIRST](/index.php/FIRST "FIRST" ).
 
-[[edit](/index.php?title=FIRSTer&action=edit&section=1 "Edit section:
-Characteristics" )]
 
 ## Characteristics
 

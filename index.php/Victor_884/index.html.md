@@ -123,8 +123,6 @@ ranges from 3% to 100% of full throttle. A cooling fan operated by the input
 voltage of the speed controller insures that the Victor 884 is continously
 cooled.
 
-[[edit](/index.php?title=Victor_884&action=edit&section=2 "Edit section: Use"
-)]
 
 ### Use
 
@@ -151,8 +149,6 @@ can cause tipping issues. Turrets, arms, and other manipulators should usually
 use 'brake' mode, both to help hold a load at its desired position and to aid
 in controllability.
 
-[[edit](/index.php?title=Victor_884&action=edit&section=4 "Edit section:
-Connections" )]
 
 ## Connections
 

@@ -57,8 +57,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1418
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1418&action=edit&section=1 "Edit section: Current
-Team Projects" )]
 
 ## Current Team Projects
 
@@ -91,8 +89,6 @@ highest ranking robot 1418 has ever built. Just FYI).
   * 2005 - Manus Imperatorus (mechanically complete, but electronics were yanked in Feb '06, up and running again by January 2006) 
   * [2004 - The Grue](/index.php/1418_in_2004 "1418 in 2004" ) (dismantled summer '04) 
 
-[[edit](/index.php?title=1418&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -107,8 +103,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=1418&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

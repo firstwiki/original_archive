@@ -63,16 +63,12 @@ recognize team and individual achievements.
   * [FIRST Dean's List Award](/index.php/FIRST_Dean%27s_List_Award "FIRST Dean's List Award" )
   * [The Allaire Medal](/index.php/The_Allaire_Medal "The Allaire Medal" )
 
-[[edit](/index.php?title=Awards&action=edit&section=3 "Edit section: Non-Team
-Awards" )]
 
 ## Non-Team Awards
 
   * [Founder's Award](/index.php/Founder%27s_Award "Founder's Award" )
   * [Outstanding Volunteer of the Year Award](/index.php/Outstanding_Volunteer_of_the_Year_Award "Outstanding Volunteer of the Year Award" )
 
-[[edit](/index.php?title=Awards&action=edit&section=4 "Edit section: External
-Links" )]
 
 ## External Links
 

@@ -65,8 +65,6 @@ no matter how they ranked in the competitions.
   * Delaware Regional FIRST Vex Challenge [[4]](http://moe365.org/lego/tournament2005/vex.html "http://moe365.org/lego/tournament2005/vex.html" )
   * See website for more information 
 
-[[edit](/index.php?title=365&action=edit&section=3 "Edit section: Reaching
-Out" )]
 
 ## Reaching Out
 
@@ -95,8 +93,6 @@ We have helped start and or sponsored these teams:
   * [2001 - Lil' MOE](/index.php?title=365_in_2001&action=edit "365 in 2001" )
   * [2000 - Big MOE](/index.php?title=365_in_2000&action=edit "365 in 2000" )
 
-[[edit](/index.php?title=365&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -223,8 +219,6 @@ employees in a varridy of engineering, and non-engineering fields.
   * DuPont Facility Services &amp; Real Estate 
   * DuPont Corian® 
 
-[[edit](/index.php?title=365&action=edit&section=8 "Edit section: Other
-Sponsors" )]
 
 ### Other Sponsors
 

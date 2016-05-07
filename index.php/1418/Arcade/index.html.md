@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=1418/Arcade&action=edit&section=1 "Edit section:
-Synopsis" )]
 
 #  Synopsis
 

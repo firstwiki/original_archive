@@ -77,8 +77,6 @@ Jump to: navigation, search
   * 60 Greek tourism rebound needs reforms to last  
 ---  
   
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=1 "Edit section:
-Constable's  Lock  for sale, seen worth $30-40 million" )]
 
 ##  Constable's Lock for sale, seen worth $30-40 million
 
@@ -185,8 +183,6 @@ Entertainment Fashion People ArtsRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg>
   * <http://whatworkswell.net/index.php/User:Etwefj5rg#11_22_63___tops_best-sellers_list_for_second_week>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=3 "Edit section:
-Gosh! Famous Five get 21st Century makeover" )]
 
 ##  Gosh! Famous Five get 21st Century makeover
 
@@ -259,8 +255,6 @@ ArtsRelated Theme Articles:
   * <http://totalomics.com/index.php/User:Etwefe5rg#Broadway_talks_go_all_night.3B_strike_continues>
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefz9rg#Billy_Idol_promises_drugs.2C_booze_and_women_in_his_memoir>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=4 "Edit section:
-Charlie Sheen bombs in Detroit debacle" )]
 
 ##  Charlie Sheen bombs in Detroit debacle
 
@@ -601,8 +595,6 @@ Entertainment Fashion People ArtsRelated Theme Articles:
   * &lt;a href="<http://atozscan.com/story.php?title=gucci-outlet-9>" target="_blank"&gt;<http://atozscan.com/story.php?title=gucci-outlet-9>&lt;/a&gt;
   * <http://testanything.org/wiki/index.php/User:Etwefy5rg#Broadway.27s_Spidey_turns_two.2C_breaks_house_record>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=7 "Edit section:
-Matisse bronze could fetch $35 million at auction" )]
 
 ##  Matisse bronze could fetch $35 million at auction
 
@@ -677,8 +669,6 @@ ArtsRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Nazi_looted_relics_returned_to_former_owner.27s_heirs>
   * &lt;a href="<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37243>" target="_blank"&gt;<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37243>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=8 "Edit section:
-Green Auction nets $2 million for environment" )]
 
 ##  Green Auction nets $2 million for environment
 
@@ -1031,8 +1021,6 @@ Business TravelerRelated Theme Articles:
   * &lt;a href="<http://thatshowimakeit.com/index.php?p=blogs/viewstory/1399483>" target="_blank"&gt;<http://thatshowimakeit.com/index.php?p=blogs/viewstory/1399483>&lt;/a&gt;
   * &lt;a href="<http://freunde.com.br/index.php?p=blogs/viewstory/108564>" target="_blank"&gt;<http://freunde.com.br/index.php?p=blogs/viewstory/108564>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=12 "Edit section:
-Italian museum defies pope over crucified frog" )]
 
 ##  Italian museum defies pope over crucified frog
 
@@ -1109,8 +1097,6 @@ World Arts LifestyleRelated Theme Articles:
   * &lt;a href="<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37239>" target="_blank"&gt;<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37239>&lt;/a&gt;
   * &lt;a href="<http://allsoft.netii.net/index.php?p=blogs/viewstory/15541>" target="_blank"&gt;<http://allsoft.netii.net/index.php?p=blogs/viewstory/15541>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=13 "Edit section:
-Strauss-Kahn case twist turns prospects upside-down" )]
 
 ##  Strauss-Kahn case twist turns prospects upside-down
 
@@ -1217,8 +1203,6 @@ Business TravelerRelated Theme Articles:
   * &lt;a href="<http://frendseven.us.pn/index.php?p=blogs/viewstory/19078>" target="_blank"&gt;<http://frendseven.us.pn/index.php?p=blogs/viewstory/19078>&lt;/a&gt;
   * &lt;a href="<http://galas.club.lc/index.php?p=blogs/viewstory/5943>" target="_blank"&gt;<http://galas.club.lc/index.php?p=blogs/viewstory/5943>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=14 "Edit section:
-Bodies found from London's old Bedlam hospital" )]
 
 ##  Bodies found from London's old Bedlam hospital
 
@@ -1297,8 +1281,6 @@ Business TravelerRelated Theme Articles:
   * &lt;a href="<http://uupv.info/story.php?title=louis-vuitton-94>" target="_blank"&gt;<http://uupv.info/story.php?title=louis-vuitton-94>&lt;/a&gt;
   * <http://sn.cybermoslem.net//blogs/viewstory/233354>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=15 "Edit section:
-Shanghai eatery pairs food, wine, light, sound" )]
 
 ##  Shanghai eatery pairs food, wine, light, sound
 
@@ -1401,8 +1383,6 @@ Business TravelerRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Warhol_painting_among_.242.8_million_Irish_bad_bank_auction>
   * <http://jejaringsosial.lampungtimurkab.go.id/blogs/viewstory/25328>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=16 "Edit section:
-Egypt's unrest blights 2011 tourism revenue" )]
 
 ##  Egypt's unrest blights 2011 tourism revenue
 
@@ -1695,8 +1675,6 @@ Theme Articles:
   * <http://testanything.org/wiki/index.php/User:Etwefy5rg#China_slams_art_magazine_for_honoring_Ai_Weiwei>
   * <http://sabahpinoy.com/blogs/posts/etwefy3rg>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=19 "Edit section:
-Art market buzzes ahead of Basel, London sales" )]
 
 ##  Art market buzzes ahead of Basel, London sales
 
@@ -2051,8 +2029,6 @@ Price Related NewsRelated Theme Articles:
   * <http://www.openideaswiki.com/index.php/User:Etwefc0rg#Radioactive_iodine_from_Japan_found_in_Russia>
   * <http://hoihoi.netne.net/index.php?p=blogs/viewstory/38259>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=24 "Edit section:
-Top 10 fishing destinations" )]
 
 ##  Top 10 fishing destinations
 
@@ -2197,8 +2173,6 @@ Business TravelerRelated Theme Articles:
   * <http://www.german-fishing-network.com/blogs/posts/etwefo3rg>
   * <http://www.iemu.org/index.php/User:Etwefh5rg#Contemporary_artist_Mike_Kelley_found_dead>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=25 "Edit section:
-Accor says targeted buys may boost Indian expansion" )]
 
 ##  Accor says targeted buys may boost Indian expansion
 
@@ -2255,8 +2229,6 @@ Theme Articles:
   * <http://mbadge.com/blogs/entry/Schiele-cityscape-tipped-to-fetch-record-price>
   * <http://www.schoolyardonline.com/blogs/entry/France-says-Rio-Paris-black-box-data-intact>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=26 "Edit section:
-InterContinental to return $1 bln from hotel sales" )]
 
 ##  InterContinental to return $1 bln from hotel sales
 
@@ -2575,8 +2547,6 @@ Price Related NewsRelated Theme Articles:
   * <http://cpnt.tv/forum/index.php?topic=664736.msg806528#msg806528>
   * <http://ouropenmind.com/blogs/viewstory/73275>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=30 "Edit section:
-Top 10  ugly  buildings to visit" )]
 
 ##  Top 10 ugly buildings to visit
 
@@ -2733,8 +2703,6 @@ Price Related NewsRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#La_Scala_opens_rehearsals_to_publicize_cuts>
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=32 "Edit section:
-Jimmy Kimmel goes head-to-head with Leno, Letterman" )]
 
 ##  Jimmy Kimmel goes head-to-head with Leno, Letterman
 
@@ -2849,8 +2817,6 @@ Entertainment Fashion Television MediaRelated Theme Articles:
   * <http://totalomics.com/index.php/User:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
   * <http://posizionamento-web.it/immobiliare/story.php?title=louis-vuitton-borse-2>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=34 "Edit section:
-Pioneering comedian Phyllis Diller dies at age 95" )]
 
 ##  Pioneering comedian Phyllis Diller dies at age 95
 
@@ -2973,8 +2939,6 @@ Entertainment Fashion Politics PeopleRelated Theme Articles:
   * <http://studenttrade.ca/ads/san-francisco-flower-power-singer-scott-mckenzie/>
   * <http://www.legendstudio.org/component/blog/comments?pid=11509>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=35 "Edit section:
-Clues sought in suicide of film director Tony Scott" )]
 
 ##  Clues sought in suicide of film director Tony Scott
 
@@ -3109,8 +3073,6 @@ Entertainment Fashion FilmRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
   * <http://gatherup.org/blogs/2858/74821/china-to-start-work-on-world-s-h>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=36 "Edit section:
-San Francisco  flower power singer Scott McKenzie dead at 7" )]
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
 
@@ -3213,8 +3175,6 @@ Entertainment Fashion Television MediaRelated Theme Articles:
   * <http://mind2tests.tmaze.net/blogs/posts/etwefz0rg>
   * <http://izonebook.com/index.php?p=blogs/viewstory/295702>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=38 "Edit section:
-Classical Brits to honor U.S. film composer Williams" )]
 
 ##  Classical Brits to honor U.S. film composer Williams
 
@@ -3393,8 +3353,6 @@ Entertainment Fashion PeopleRelated Theme Articles:
   * <http://www.tradeshowcorner.com/answers/?p=153245>
   * <http://www.iemu.org/index.php/User:Etwefh5rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=40 "Edit section:
-Grammys go country for nominations concert" )]
 
 ##  Grammys go country for nominations concert
 
@@ -3559,8 +3517,6 @@ Entertainment Fashion Politics PeopleRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
   * <http://william4mary.com/ads/the-office-to-end-run-on-u-s-tv-in-2013/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=42 "Edit section:
-Fox studio to distribute Dreamworks Animation films" )]
 
 ##  Fox studio to distribute Dreamworks Animation films
 
@@ -3673,8 +3629,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * <http://bouma.org/blogs/viewstory/71244>
   * <http://occupynconline.org/activity/p/211713/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=44 "Edit section:
-Happily Divorced  actress Tichina Arnold is wed" )]
 
 ##  Happily Divorced actress Tichina Arnold is wed
 
@@ -3843,8 +3797,6 @@ Entertainment Fashion FilmRelated Theme Articles:
   * <http://directask.com/?p=192088>
   * <http://lifecycle.kimbol.com/index.php?p=blogs/viewstory/368430>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=46 "Edit section:
-Classical Brits to honor U.S. film composer Williams" )]
 
 ##  Classical Brits to honor U.S. film composer Williams
 
@@ -4129,8 +4081,6 @@ Entertainment Fashion PeopleRelated Theme Articles:
   * <http://kidsrockproductions.com/node/31740>
   * <http://www.promosipercuma.net/ads/michael-j-fox-to-star-in-tv-comedy-as-dad-with-pa/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=50 "Edit section:
-Fox studio to distribute Dreamworks Animation films" )]
 
 ##  Fox studio to distribute Dreamworks Animation films
 
@@ -4533,8 +4483,6 @@ Entertainment Fashion HealthRelated Theme Articles:
   * <http://mind2tests.tmaze.net/blogs/posts/etwefz0rg>
   * <http://totalomics.com/index.php/User:Etwefe4rg#Fox_promotes_broadcast_TV_executive_Kevin_Reilly>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=57 "Edit section:
-Michael J. Fox to star in TV comedy as dad with Parkinson's" )]
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
 

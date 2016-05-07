@@ -67,8 +67,6 @@ drive chains would come off, and Nubcake would become stuck on the field. Its
 [autonomous mode](/index.php/Autonomous_mode "Autonomous mode" ) was a simple
 "drive, turn, drive, dump," written on-site at the competition.
 
-[[edit](/index.php?title=1899&action=edit&section=3 "Edit section: 2006-2007"
-)]
 
 ### 2006-2007
 
@@ -91,8 +89,6 @@ lost the first few rounds due to problems with the chains and the claw, they
 managed to win three matches. Their best win was 49 to 2. They drove up
 multiple ramps and hung up multiple ringers. They ended up placing 39th.
 
-[[edit](/index.php?title=1899&action=edit&section=4 "Edit section: 2007-2008"
-)]
 
 ### 2007-2008
 
@@ -105,8 +101,6 @@ acquire funding and other resources before the build season.
   * Nubcake - 2006 (decommissioned) 
   * Ultimate Novice - 2007 
 
-[[edit](/index.php?title=1899&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

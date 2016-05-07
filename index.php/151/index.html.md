@@ -203,8 +203,6 @@ the original look of the site.
 
 ## Members List
 
-[[edit](/index.php?title=151&action=edit&section=6 "Edit section: Student
-Leads" )]
 
 ### Student Leads
 

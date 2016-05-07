@@ -21,8 +21,6 @@ add that "Designing team websites" page later tonight...right now I'm going
 outside because it's nice out. --[LauraN](/index.php/User:LauraN "User:LauraN"
 ) 18:44, 15 Jun 2004 (EDT)
 
-[[edit](/index.php?title=Talk:Basic_HTML&action=edit&section=1 "Edit section:
-standards based html?" )]
 
 ##  standards based html?
 

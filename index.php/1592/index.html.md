@@ -113,22 +113,16 @@ Behold this year's latest phenomenon, Tony!
 
 ## Team Websites
 
-[[edit](/index.php?title=1592&action=edit&section=3 "Edit section: Team 1592
-Website" )]
 
 ### [Team 1592 Website](http://www.team1592.org "http://www.team1592.org" )
 
 
 ### [FIRST Website](http://www.usfirst.org "http://www.usfirst.org" )
 
-[[edit](/index.php?title=1592&action=edit&section=5 "Edit section: Chief
-Delphi Website" )]
 
 ### [Chief Delphi Website](http://www.chiefdelphi.com/forums/portal.php
 "http://www.chiefdelphi.com/forums/portal.php" )
 
-[[edit](/index.php?title=1592&action=edit&section=6 "Edit section: Brevard
-Public Schools" )]
 
 ### [Brevard Public Schools](http://www.brevard.k12.fl.us/
 "http://www.brevard.k12.fl.us/" )
@@ -209,8 +203,6 @@ overpass, telescoping arm, 2-speed.
 [More Game Info.](http://www.usfirst.org/community/frc/default.aspx?id=966
 "http://www.usfirst.org/community/frc/default.aspx?id=966" )
 
-[[edit](/index.php?title=1592&action=edit&section=17 "Edit section: 2007:
-Rack'n'Roll" )]
 
 ### **2007: Rack'n'Roll**
 
@@ -231,8 +223,6 @@ pusher.
 [Game Info.](http://www.firstwiki.net/index.php/Rack_%27n%27_Roll
 "http://www.firstwiki.net/index.php/Rack_%27n%27_Roll" )
 
-[[edit](/index.php?title=1592&action=edit&section=18 "Edit section: 2006: Aim
-High" )]
 
 ### **2006: Aim High**
 
@@ -253,8 +243,6 @@ high goal), 7 balls in 15 seconds, and a 6 wheel drive.
 [Game Info.](http://www.firstwiki.net/index.php/Aim_High
 "http://www.firstwiki.net/index.php/Aim_High" )
 
-[[edit](/index.php?title=1592&action=edit&section=19 "Edit section: 2005:
-Triple Play \(Rookie Year\)" )]
 
 ### **2005: Triple Play (Rookie Year)**
 
@@ -279,8 +267,6 @@ autonomous mode (knock down hanging tetra), arm extends to 9', can stack up to
 
 ## Accomplishments
 
-[[edit](/index.php?title=1592&action=edit&section=21 "Edit section: 2008:
-Overdrive" )]
 
 ### **2008: Overdrive**
 
@@ -289,8 +275,6 @@ Overdrive" )]
   * Denver Regional General Motors Industrial Design Award 
   * Denver Regional Woodie Flowers Award for Vicki Huffman 
 
-[[edit](/index.php?title=1592&action=edit&section=22 "Edit section: 2007:
-Rack'n'Roll" )]
 
 ### **2007: Rack'n'Roll**
 
@@ -301,8 +285,6 @@ Rack'n'Roll" )]
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=23 "Edit section: 2006: Aim
-High" )]
 
 ### **2006: Aim High**
 
@@ -323,16 +305,12 @@ High" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=1592&action=edit&section=26 "Edit section: Partners"
-)]
 
 ### **Partners**
 
   * [Analex](http://www.analex.com/ "http://www.analex.com/" )
   * NASA Launch Services Program 
 
-[[edit](/index.php?title=1592&action=edit&section=27 "Edit section: Gold
-Sponsors" )]
 
 ### **Gold Sponsors**
 
@@ -347,8 +325,6 @@ Sponsors" )]
   * [DeVry University](http://www.devry.edu/ "http://www.devry.edu/" )
   * [Lewis Marine Supply](http://www.lewismarine.com/ "http://www.lewismarine.com/" )
 
-[[edit](/index.php?title=1592&action=edit&section=29 "Edit section: T-shirt
-Sponsors" )]
 
 ### **T-shirt Sponsors**
 
@@ -369,8 +345,6 @@ Sponsors" )]
 
 ## Team
 
-[[edit](/index.php?title=1592&action=edit&section=31 "Edit section: Robot
-Team" )]
 
 ### **Robot Team**
 
@@ -405,8 +379,6 @@ gallery on the webpage, photography, and videography.
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=33 "Edit section: Project
-Management" )]
 
 ### **Project Management**
 
@@ -423,8 +395,6 @@ fundraising &amp; community service activities.
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=34 "Edit section: Drivers"
-)]
 
 ### **Drivers**
 
@@ -439,8 +409,6 @@ well as designated fundraising events.
 
 **Drive Coach**: Zac Adams 
 
-[[edit](/index.php?title=1592&action=edit&section=35 "Edit section: Pit Crew"
-)]
 
 ### **Pit Crew**
 
@@ -455,8 +423,6 @@ well as designated fundraising events.
   * Bryan Rickards 
   * Andy Roberts 
 
-[[edit](/index.php?title=1592&action=edit&section=36 "Edit section: Mentors &
-Advisors" )]
 
 ### **Mentors &amp; Advisors**
 

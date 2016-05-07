@@ -27,8 +27,6 @@ A **pneumatic cylinder** is a [pneumatics](/index.php/Pneumatics "Pneumatics"
 Air pressure connectors are at either end of the cylinder and are threaded for
 either a 1/4" or 1/8" NPT connector.
 
-[[edit](/index.php?title=Cylinder&action=edit&section=3 "Edit section: Load"
-)]
 
 ### Load
 
@@ -43,8 +41,6 @@ where a clevis can be added.
   * Bore - The diameter of the internal chamber of the cylinder. 
   * Clevis - A connect that can be attached to the end of a rod to mount it to a surface or other object. 
 
-[[edit](/index.php?title=Cylinder&action=edit&section=5 "Edit section: Current
-Product Info" )]
 
 ## Current Product Info
 

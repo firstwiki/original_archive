@@ -39,8 +39,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1133
 
   * History Example 
 
-[[edit](/index.php?title=1133&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -51,8 +49,6 @@ projects" )]
 
   * [2004 - Hugsy](/index.php?title=Hugsy_%281133%29&action=edit "Hugsy \(1133\)" )
 
-[[edit](/index.php?title=1133&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -63,8 +59,6 @@ Accomplishments" )]
 
   * NASA &amp; Hug High 
 
-[[edit](/index.php?title=1133&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

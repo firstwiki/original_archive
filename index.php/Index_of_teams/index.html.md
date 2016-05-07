@@ -63,8 +63,6 @@ _**Index of teams**:_
   
   
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=1 "Edit section:
-1-100" )]
 
 ## 1-100
 
@@ -169,8 +167,6 @@ _**Index of teams**:_
   * [99](/index.php?title=99&action=edit "99" )
   * [100](/index.php/100 "100" ) (WildHats) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=2 "Edit section:
-101-200" )]
 
 ## 101-200
 
@@ -275,8 +271,6 @@ _**Index of teams**:_
   * [199](/index.php?title=199&action=edit "199" )
   * [200](/index.php?title=200&action=edit "200" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=3 "Edit section:
-201-300" )]
 
 ## 201-300
 
@@ -381,8 +375,6 @@ _**Index of teams**:_
   * [299](/index.php?title=299&action=edit "299" )
   * [300](/index.php/300 "300" ) (West Philly) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=4 "Edit section:
-301-400" )]
 
 ## 301-400
 
@@ -487,8 +479,6 @@ _**Index of teams**:_
   * [399](/index.php/399 "399" ) (Eagle Robotics) 
   * [400](/index.php?title=400&action=edit "400" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=5 "Edit section:
-401-500" )]
 
 ## 401-500
 
@@ -593,8 +583,6 @@ _**Index of teams**:_
   * [499](/index.php/499 "499" ) (Toltechs) 
   * [500](/index.php/500 "500" ) (The Bears) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=6 "Edit section:
-501-600" )]
 
 ## 501-600
 
@@ -699,8 +687,6 @@ _**Index of teams**:_
   * [599](/index.php/599 "599" ) (Robo-Dox) 
   * [600](/index.php/600 "600" ) (ElectricMayhem) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=7 "Edit section:
-601-700" )]
 
 ## 601-700
 
@@ -805,8 +791,6 @@ _**Index of teams**:_
   * [699](/index.php?title=699&action=edit "699" )
   * [700](/index.php?title=700&action=edit "700" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=8 "Edit section:
-701-800" )]
 
 ## 701-800
 
@@ -911,8 +895,6 @@ _**Index of teams**:_
   * [799](/index.php?title=799&action=edit "799" )
   * [800](/index.php/800 "800" ) (The HazBots) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=9 "Edit section:
-801-900" )]
 
 ## 801-900
 
@@ -1017,8 +999,6 @@ _**Index of teams**:_
   * [899](/index.php?title=899&action=edit "899" )
   * [900](/index.php/900 "900" ) (Team Infinity) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=10 "Edit section:
-901-1000" )]
 
 ## 901-1000
 
@@ -1123,8 +1103,6 @@ _**Index of teams**:_
   * [999](/index.php/999 "999" ) (C.R.A.S.H. (Cheshire Robotics and Sikorsky Helicopters)) 
   * [1000](/index.php/1000 "1000" ) (Cybearcats) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=11 "Edit section:
-1001-1100" )]
 
 ## 1001-1100
 
@@ -1229,8 +1207,6 @@ _**Index of teams**:_
   * [1099](/index.php/1099 "1099" ) (DiscoTechs) 
   * [1100](/index.php/1100 "1100" ) (The Tomahawks) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=12 "Edit section:
-1101-1200" )]
 
 ## 1101-1200
 
@@ -1335,8 +1311,6 @@ _**Index of teams**:_
   * [1199](/index.php?title=1199&action=edit "1199" )
   * [1200](/index.php?title=1200&action=edit "1200" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=13 "Edit section:
-1201-1300" )]
 
 ## 1201-1300
 
@@ -1441,8 +1415,6 @@ _**Index of teams**:_
   * [1299](/index.php/1299 "1299" ) (Dominators) 
   * [1300](/index.php/1300 "1300" ) (EVO) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=14 "Edit section:
-1301-1400" )]
 
 ## 1301-1400
 
@@ -1547,8 +1519,6 @@ _**Index of teams**:_
   * [1399](/index.php?title=1399&action=edit "1399" )
   * [1400](/index.php?title=1400&action=edit "1400" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=15 "Edit section:
-1401-1500" )]
 
 ## 1401-1500
 
@@ -1653,8 +1623,6 @@ _**Index of teams**:_
   * [1499](/index.php/1499 "1499" )
   * [1500](/index.php/1500 "1500" ) (Metal Morphose) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=16 "Edit section:
-1501-1600" )]
 
 ## 1501-1600
 
@@ -3113,8 +3081,6 @@ _**Index of teams**:_
   * [2899](/index.php?title=2899&action=edit "2899" )
   * [2900](/index.php?title=2900&action=edit "2900" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=30 "Edit section:
-2901-3000" )]
 
 ## 2901-3000
 
@@ -3219,8 +3185,6 @@ _**Index of teams**:_
   * [2999](/index.php?title=2999&action=edit "2999" )
   * [3000](/index.php?title=3000&action=edit "3000" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=31 "Edit section:
-3001-3100" )]
 
 ## 3001-3100
 
@@ -3325,8 +3289,6 @@ _**Index of teams**:_
   * [3099](/index.php?title=3099&action=edit "3099" )
   * [3100](/index.php?title=3100&action=edit "3100" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=32 "Edit section:
-3101-3200" )]
 
 ## 3101-3200
 
@@ -3433,8 +3395,6 @@ _**Index of teams**:_
   * [3199](/index.php?title=3199&action=edit "3199" )
   * [3200](/index.php?title=3200&action=edit "3200" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=33 "Edit section:
-3201-3300" )]
 
 ## 3201-3300
 
@@ -4371,8 +4331,6 @@ _**Index of teams**:_
   * [4100](/index.php?title=4100&action=edit "4100" )
   * [4320](/index.php/4320 "4320" ) (The Jokers,Israel) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=42 "Edit section:
-4101-4200" )]
 
 ## 4101-4200
 

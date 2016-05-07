@@ -65,16 +65,12 @@ into the name Robot Casserole, and it stuck.
 
 Coming Soon!
 
-[[edit](/index.php?title=1736&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * 2007 Wisconsin regional- [General Motors Industrial Design Award](/index.php/General_Motors_Industrial_Design_Award "General Motors Industrial Design Award" )
   * 2006 Midwest regional- [Xerox creativity award](/index.php?title=Xerox_creativity_award&action=edit "Xerox creativity award" )
 
-[[edit](/index.php?title=1736&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

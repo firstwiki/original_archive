@@ -199,8 +199,6 @@ community service at the Long Island Vets
   * 2009 - Serenity 
   * 2011 - Star bot (Some technical assembly required) 
 
-[[edit](/index.php?title=564&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -243,8 +241,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=564&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

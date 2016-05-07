@@ -63,8 +63,6 @@ Team Website: | <http://www.team1391.com/>
 
   * Member Example 
 
-[[edit](/index.php?title=1391&action=edit&section=6 "Edit section: Students"
-)]
 
 ### Students
 

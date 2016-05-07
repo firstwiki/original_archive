@@ -41,8 +41,6 @@ Team Website: |
 
   * History Example 
 
-[[edit](/index.php?title=333&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - CAN - DEW](/index.php?title=CAN_-_DEW_%28333%29&action=edit "CAN - DEW \(333\)" )
 
-[[edit](/index.php?title=333&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * Team #333 CAN - DEW 
 
-[[edit](/index.php?title=333&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

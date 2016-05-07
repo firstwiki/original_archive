@@ -93,8 +93,6 @@ as a "rookie" team, and is once again climbing the ranks as a FIRST team.
   * [2011 - The Neutralist with Minibot Lord Nibbler](/index.php?title=The_Neutralist_and_Lord_Nibbler_%282239%29&action=edit "The Neutralist and Lord Nibbler \(2239\)" )
   * [2012 - () By Design](/index.php?title=%28%29_By_Design_%282239%29&action=edit "\(\) By Design \(2239\)" )
 
-[[edit](/index.php?title=2239&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -105,8 +103,6 @@ Accomplishments" )]
   * Attended the 2011 Minneapolis, MN North Star Regional seeded as #36 after qualification matches 
   * Attended the 2012 Minneapolis, MN North Star Regional seeded as #12 after qualification matches and competed in the 4th seed alliance, losing after the third match of quarter-finals (7-2-0) 
 
-[[edit](/index.php?title=2239&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -119,8 +115,6 @@ Accomplishments" )]
 
   * FIRST Hopkins High School Robotics Club 
 
-[[edit](/index.php?title=2239&action=edit&section=6 "Edit section: Students"
-)]
 
 ### Students
 

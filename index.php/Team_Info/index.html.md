@@ -37,8 +37,6 @@ expansion" ).
   * 7 Major Sponsor Information  
 ---  
   
-[[edit](/index.php?title=Team_Info&action=edit&section=1 "Edit section:
-Purpose" )]
 
 ## Purpose
 
@@ -63,8 +61,6 @@ the_ {} _in the tag)_
 [[{_insert correct page name here_}|_Displayed name on this page_]] _(Be sure
 to leave out the_ {} _in the tag)_
 
-[[edit](/index.php?title=Team_Info&action=edit&section=3 "Edit section: Team
-Information" )]
 
 ## Team Information
 
@@ -77,8 +73,6 @@ To compress the table, here is a key for the names of some of the fields.
   * CAW = [Chairman's Award Winner](/index.php/Chairman%27s_Award "Chairman's Award" )
   * EIAW = [Engineering Inspiration Award Winner](/index.php/Engineering_Inspiration_Award "Engineering Inspiration Award" )
 
-[[edit](/index.php?title=Team_Info&action=edit&section=5 "Edit section: Team
-Information Table" )]
 
 #### Team Information Table
 
@@ -387,8 +381,6 @@ it](http://www.firstwiki.net/index.php?title=Team_Info&action=edit
   
   
 
-[[edit](/index.php?title=Team_Info&action=edit&section=7 "Edit section:
-Regional Information" )]
 
 ## Regional Information
 
@@ -545,8 +537,6 @@ Noedit.png)](/index.php/Image:Noedit.png "" )
 
   
 
-[[edit](/index.php?title=Team_Info&action=edit&section=9 "Edit section: Major
-Sponsor Information" )]
 
 ##  Major Sponsor Information
 

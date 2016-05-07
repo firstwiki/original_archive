@@ -57,8 +57,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1089
     * 6.8 Coach/Mentors  
 ---  
   
-[[edit](/index.php?title=1089&action=edit&section=1 "Edit section: Mission
-Statement" )]
 
 ## Mission Statement
 
@@ -73,8 +71,6 @@ projects, and have a blast while doing it!
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=2 "Edit section: About Us"
-)]
 
 ## About Us
 
@@ -295,8 +291,6 @@ large can communicate with ease.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=8 "Edit section: Spirit
-Committee" )]
 
 ### Spirit Committee
 
@@ -323,8 +317,6 @@ community at large.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=9 "Edit section: Records and
-Business Committee" )]
 
 ### Records and Business Committee
 
@@ -369,8 +361,6 @@ to Hightstown’s robotics program, but also to FIRST and the local community.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=11 "Edit section: Media
-Committee" )]
 
 ### Media Committee
 
@@ -389,8 +379,6 @@ visual presentation.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=12 "Edit section: Robot/Tech
-and Design Committee" )]
 
 ### Robot/Tech and Design Committee
 
@@ -417,8 +405,6 @@ pitfalls and successes of each design.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=13 "Edit section:
-Programming Committee" )]
 
 ### Programming Committee
 
@@ -431,8 +417,6 @@ further enhance our robot's capabilities.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=14 "Edit section:
-Coach/Mentors" )]
 
 ### Coach/Mentors
 

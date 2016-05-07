@@ -39,8 +39,6 @@ at [requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion
   * Quarter-Finalist (with [1147](/index.php/1147 "1147" ) and [1458](/index.php/1458 "1458" )) 
   * [Rookie All-Star Award](/index.php/Rookie_All-Star_Award "Rookie All-Star Award" )
 
-[[edit](/index.php?title=1388_in_2004&action=edit&section=2 "Edit section:
-National Championship" )]
 
 ## [National Championship](/index.php/National_Championship "National
 Championship" )

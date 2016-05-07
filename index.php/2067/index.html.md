@@ -77,8 +77,6 @@ team placed 26th out of 86 teams in their division. Elated, and with much more
 experience, the team returned home to begin planning and fundraising for the
 next season.
 
-[[edit](/index.php?title=2067&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -89,8 +87,6 @@ projects" )]
 
 FRC Breakaway- Ronaldo
 
-[[edit](/index.php?title=2067&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -101,8 +97,6 @@ Accomplishments" )]
 
   * Sponsor Example 
 
-[[edit](/index.php?title=2067&action=edit&section=6 "Edit section: Members
-List" )]
 
 ##  Members List
 

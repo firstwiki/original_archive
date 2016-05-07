@@ -57,8 +57,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=316
   * 2008 - SAM 
   * 2009 - Sammy Su Botsy 
 
-[[edit](/index.php?title=316&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -137,8 +135,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=316&action=edit&section=12 "Edit section: Students"
-)]
 
 ### Students
 

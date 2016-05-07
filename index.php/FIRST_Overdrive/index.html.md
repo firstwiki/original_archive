@@ -127,8 +127,6 @@ direction score:
 Alliances score an additional 12 points for each of their Trackballs that are
 positioned anywhere on the overpass at the end of the match.
 
-[[edit](/index.php?title=FIRST_Overdrive&action=edit&section=3 "Edit section:
-Hybrid Period" )]
 
 ### Hybrid Period
 
@@ -141,8 +139,6 @@ The number of different IR signals the IR board is physically able to receive
 is 4. The number of distinct commands that are allowed to be sent is also 4,
 thus ruling out multi-signal combinations.
 
-[[edit](/index.php?title=FIRST_Overdrive&action=edit&section=4 "Edit section:
-Competition Schedule" )]
 
 ## Competition Schedule
 
@@ -151,8 +147,6 @@ Competition Schedule" )]
   * Regional competitions — weekends, February 28, 2008 – April 6, 2008 
   * Championship — April 17, 2008 – April 19, 2008 
 
-[[edit](/index.php?title=FIRST_Overdrive&action=edit&section=5 "Edit section:
-Robots" )]
 
 ## Robots
 

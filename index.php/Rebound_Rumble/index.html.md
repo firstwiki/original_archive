@@ -67,24 +67,18 @@ bridge, all participating teams earn additional valuable seeding points.
   * 3 References  
 ---  
   
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=1 "Edit section:
-Game Overview" )]
 
 ## Game Overview
 
 
 ### Field
 
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=3 "Edit section:
-Game Play" )]
 
 ### Game Play
 
 
 ### Scoring
 
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=5 "Edit section:
-Competition Schedule" )]
 
 ## Competition Schedule
 

@@ -51,8 +51,6 @@ The Research Project for Mission Mars asked teams to...
   * Select an important question related to this mission 
   * Design a robotic expedition to answer this question 
 
-[[edit](/index.php?title=Mission_Mars&action=edit&section=3 "Edit section:
-External Links" )]
 
 ## External Links
 

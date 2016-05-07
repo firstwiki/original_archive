@@ -9,8 +9,6 @@ Jump to: navigation, search
 
 **Autonomous mode** refers to the short period in the beginning of a match where the [robot](/index.php/Robot "Robot" ) operates without any user input, relying on pre-programmed code to operate the robot. 
 
-[[edit](/index.php?title=Autonomous_mode&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 

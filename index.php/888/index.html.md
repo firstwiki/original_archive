@@ -75,8 +75,6 @@ Team Website: | <http://www.team888.bizland.com>
   * NASA 
   * WR Grace 
 
-[[edit](/index.php?title=888&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

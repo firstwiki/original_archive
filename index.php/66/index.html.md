@@ -37,8 +37,6 @@ Approximate team size: | 10-20
   * 10 Other Goodies  
 ---  
   
-[[edit](/index.php?title=66&action=edit&section=1 "Edit section: History &
-Awards" )]
 
 ## History &amp; Awards
 
@@ -67,8 +65,6 @@ Awards" )]
   * The Penguins That Flew 
   * The Flyers (The standard name for any team at Willow Run High School) 
 
-[[edit](/index.php?title=66&action=edit&section=3 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -77,8 +73,6 @@ projects" )]
   * Team Starter Kit 
   * Recruitment video 
 
-[[edit](/index.php?title=66&action=edit&section=4 "Edit section: Appearances"
-)]
 
 ## Appearances
 
@@ -167,8 +161,6 @@ projects" )]
     * Bernard Milliner 
     * Cody McGeorge 
 
-[[edit](/index.php?title=66&action=edit&section=10 "Edit section: Other
-Goodies" )]
 
 ## Other Goodies
 

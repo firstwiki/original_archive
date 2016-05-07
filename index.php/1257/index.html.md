@@ -43,8 +43,6 @@ VanEkeren" ) at the Union County Magnet High School in September 2003. For the
 consisted of students from both the Union County Magnet High School and Union
 County Vocational-Technical High School.
 
-[[edit](/index.php?title=1257&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -57,16 +55,12 @@ projects" )]
   * [2004 - Vortex](/index.php/1257_in_2004 "1257 in 2004" )
   * [2005](/index.php/1257_in_2005 "1257 in 2005" )
 
-[[edit](/index.php?title=1257&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * [2004 (rookie year)](/index.php/1257_in_2004 "1257 in 2004" )
   * [2005](/index.php/1257_in_2005 "1257 in 2005" )
 
-[[edit](/index.php?title=1257&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -83,8 +77,6 @@ see complete list at the [website](http://www.magnetrobotics.com/Members_List-
 index-letter-All-sortby-una-file-index.html "http://www.magnetrobotics.com
 /Members_List-index-letter-All-sortby-una-file-index.html" )
 
-[[edit](/index.php?title=1257&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

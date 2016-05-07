@@ -47,8 +47,6 @@ clip.png)](/index.php/Image:FR_Dummies.jpg "Enlarge" )
   * **Keep people updated**: For the duration of the fundraiser, keep the momentum going with regular updates using graphics like a bar graph to chart your success. 
   * **Wrapping it up**: Deliver ordered goods (if necessary) and total up your profits. Compare your totals with your goal and determine whether or not there is a need for more fundraising if you fall short, or how to spend your surplus if you've met with success. 
 
-[[edit](/index.php?title=Fundraising&action=edit&section=2 "Edit section:
-Fundraisers" )]
 
 ##  Fundraisers
 

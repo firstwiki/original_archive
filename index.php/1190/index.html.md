@@ -31,8 +31,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=1190&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -57,8 +55,6 @@ districts to block inappropriate web content) categorized it as containing
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=1190&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -69,8 +65,6 @@ districts to block inappropriate web content) categorized it as containing
 
   * Member Example 
 
-[[edit](/index.php?title=1190&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

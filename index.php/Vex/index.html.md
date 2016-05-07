@@ -27,8 +27,6 @@ able to write more. --[cmh0114](/index.php/User:Cmh0114 "User:Cmh0114" )
 The Vex game is played on a 12'x12' field, with robots of up to 18"x18"x18"
 allowed.
 
-[[edit](/index.php?title=Vex&action=edit&section=2 "Edit section: 2012 Game"
-)]
 
 # 2012 Game
 

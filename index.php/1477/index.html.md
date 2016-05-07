@@ -117,8 +117,6 @@ officially adopted the name **Northside Roboteers** in 2005.
 [![Image:1477Robot_TRS2009.jpg](/media/9/95/1477Robot_TRS2009.jpg)](/index.php
 /Image:1477Robot_TRS2009.jpg "Image:1477Robot_TRS2009.jpg" )
 
-[[edit](/index.php?title=1477&action=edit&section=2 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -127,48 +125,36 @@ Accomplishments" )]
 
   * Qualifier Rounds: 29th of 43 teams 
 
-[[edit](/index.php?title=1477&action=edit&section=4 "Edit section: Lone Star
-Regional 2005" )]
 
 ### Lone Star Regional 2005
 
   * Qualifier Rounds: 15th of 40 teams 
   * Elimination Rounds: 5th Seed Alliance (624 &amp; 695) - Semifinals 
 
-[[edit](/index.php?title=1477&action=edit&section=5 "Edit section: Lone Star
-Regional 2006" )]
 
 ### Lone Star Regional 2006
 
   * Qualifier Rounds: 5th of 54 teams 
   * Elimination Rounds: 4th Seed Alliance (1858 &amp; 1920) - Quarterfinals 
 
-[[edit](/index.php?title=1477&action=edit&section=6 "Edit section: Lone Star
-Regional 2007" )]
 
 ### Lone Star Regional 2007
 
   * Qualifier Rounds: 15th of 52 teams 
   * Elimination Rounds: 1st Alternate 
 
-[[edit](/index.php?title=1477&action=edit&section=7 "Edit section: Lone Star
-Regional 2008" )]
 
 ### Lone Star Regional 2008
 
   * Qualifier Rounds: 3rd of 46 teams 
   * Elimination Rounds: 2nd Seed Alliance (1429 &amp; 57) - Regional Champions 
 
-[[edit](/index.php?title=1477&action=edit&section=8 "Edit section: Bayou
-Regional 2008" )]
 
 ### Bayou Regional 2008
 
   * Qualifier Rounds: 1st of 46 teams 
   * Elimination Rounds: 1st Seed Alliance (16 &amp; 440) - Regional Champions 
 
-[[edit](/index.php?title=1477&action=edit&section=9 "Edit section: FRC
-Championship 2008 - Curie" )]
 
 ### FRC Championship 2008 - Curie
 
@@ -179,24 +165,18 @@ Championship 2008 - Curie" )]
 
   * Qualifier Rounds: 4-4-0 
 
-[[edit](/index.php?title=1477&action=edit&section=11 "Edit section: Bayou
-Regional 2009" )]
 
 ### Bayou Regional 2009
 
   * Qualifier Rounds: 1st of 31 teams 
   * Elimination Rounds: 1st Seed Alliance (624 &amp; 2173) - Regional Champions 
 
-[[edit](/index.php?title=1477&action=edit&section=12 "Edit section: Lone Star
-Regional 2009" )]
 
 ### Lone Star Regional 2009
 
   * Qualifier Rounds: 12th of 63 teams 
   * Elimination Rounds: 3rd Seed Alliance (441 &amp; 2583) - Quarterfinals 
 
-[[edit](/index.php?title=1477&action=edit&section=13 "Edit section: FRC
-Championship 2009 - Galileo" )]
 
 ### FRC Championship 2009 - Galileo
 
@@ -219,8 +199,6 @@ Championship 2009 - Galileo" )]
 
   
 
-[[edit](/index.php?title=1477&action=edit&section=16 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -277,8 +255,6 @@ Championship 2009 - Galileo" )]
 
 ## Members List
 
-[[edit](/index.php?title=1477&action=edit&section=24 "Edit section: Students"
-)]
 
 ### Students
 

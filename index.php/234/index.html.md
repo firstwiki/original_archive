@@ -47,8 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc234
 Cyber Blue has been active as a FIRST Robotics team since 1999. Ever since
 then, it has grown to be a nationally recognized team.
 
-[[edit](/index.php?title=234&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -97,8 +95,6 @@ Indianapolis.
   * [2000 - Steel Falcon II](/index.php?title=Beefeater_%28234%29&action=edit "Beefeater \(234\)" )
   * [1999 - Steel Falcon](/index.php?title=Beefeater_%28234%29&action=edit "Beefeater \(234\)" )
 
-[[edit](/index.php?title=234&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

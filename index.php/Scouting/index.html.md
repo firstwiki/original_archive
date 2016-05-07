@@ -45,8 +45,6 @@ need it, is quite a formidable challenge.
 This is why it is so vitally important to do as much preparation for scouting
 as possible _before_ the competition.
 
-[[edit](/index.php?title=Scouting&action=edit&section=2 "Edit section: Methods
-of Scouting" )]
 
 ## Methods of Scouting
 
@@ -59,8 +57,6 @@ proper preparation, scouting can be an incredibly useful tool that can give a
 team the edge it needs to win a competion, and picking the method or methods
 best for your team is essential to success.
 
-[[edit](/index.php?title=Scouting&action=edit&section=3 "Edit section: The
-Database" )]
 
 ### The Database
 
@@ -75,8 +71,6 @@ and some may lack functionality to the point an excel sheet is better. _Note:
 Databases are usually best kept in objective form; save subjective data for
 notes, an excel sheet, or other method._
 
-[[edit](/index.php?title=Scouting&action=edit&section=4 "Edit section: Excel"
-)]
 
 ### Excel
 
@@ -89,8 +83,6 @@ into an excel sheet, but scout can also create a sheet of subjective data. If
 it comes down to teetering on two or more teams positions on the list, things
 will come down to subjective data.
 
-[[edit](/index.php?title=Scouting&action=edit&section=5 "Edit section: Notes"
-)]
 
 ### Notes
 
@@ -107,8 +99,6 @@ robot at competition. Some teams have created databases that can generate
 basic information of this sort automatically, and prepare it in a printable
 form; however, pencil and paper or manual searching works, too.
 
-[[edit](/index.php?title=Scouting&action=edit&section=6 "Edit section: The
-Scout" )]
 
 ## The Scout
 
@@ -119,8 +109,6 @@ may not be making the best decisions when it comes to picking teams. Knowing
 the scouts, and how to keep them doing great work while still having a good
 time, is the most critical part to scouting's success.
 
-[[edit](/index.php?title=Scouting&action=edit&section=7 "Edit section:
-Hierarchy" )]
 
 ###  Hierarchy
 
@@ -133,8 +121,6 @@ must be installed. Here are some tips to creating a successful hierarchy:
   * The should be "Collectors" whose primary job is to take data on robots and keep mental and physical notes of their performance. There should be enough of these to rotate them out for break often, as this job gets very tedious, very fast. 
   * There should be a runner between the [pits](/index.php?title=Pits&action=edit "Pits" ) and the [stands](/index.php?title=Stands&action=edit "Stands" ) to pass information back and forth between the [Drive Team](/index.php/Drive_Team "Drive Team" ), [Pit crew](/index.php?title=Pit_crew&action=edit "Pit crew" ), and scouts. 
 
-[[edit](/index.php?title=Scouting&action=edit&section=8 "Edit section: Morale"
-)]
 
 ###  Morale
 

@@ -61,8 +61,6 @@ Max Efficiency | 45.0 | 4614 | 19.8 | 154 | 65%
 Max Power | 171.7 | 2655 | 67.9 | 337 | 41%  
 Stall | 343.4 | 0 | 133.0 | 0 | 0%  
   
-[[edit](/index.php?title=CIM_motor&action=edit&section=2 "Edit section: By
-year" )]
 
 ##  By year
 
@@ -75,8 +73,6 @@ tp://usfirst.org/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/201
 //usfirst.org/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_A
 ssets/Kit_of_Parts/2011%20Kit%20of%20Parts%20Checklist%20Rev%20E.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=4 "Edit section: 2008"
-)]
 
 ###  2008
 
@@ -87,8 +83,6 @@ Two standard motors are included, 3.5" CIM no longer allowed.
 
 Two of the standard 2.5" motors are included, and a larger 3.5" CIM.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=6 "Edit section: 2006"
-)]
 
 ###  2006
 
@@ -101,8 +95,6 @@ Two of the four CIM motors were replaced with the larger "mini-bike" motors.
 
 Four of the motors were included in the KOP.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=8 "Edit section: 2004"
-)]
 
 ###  2004
 

@@ -35,8 +35,6 @@ Team Website: |
 
 _just maybe highlights of the team and how it was created_
 
-[[edit](/index.php?title=232&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -55,8 +53,6 @@ desctiption and maybe
   * Seasons' robots 
   * [year - robot name](/index.php/FIRSTwiki:Yearly_team_page_format "FIRSTwiki:Yearly team page format" )
 
-[[edit](/index.php?title=232&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
   4. a list of 
   5. sponsors 
 
-[[edit](/index.php?title=232&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

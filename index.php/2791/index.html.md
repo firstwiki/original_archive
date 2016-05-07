@@ -91,8 +91,6 @@ community.
   * (Retired)Gene (Minibot named Simmons after Gene Simmons of KISS) <http://team2791.com/The_Shaker_Robotics_Team/Challenge.html>
   * Filibuster 
 
-[[edit](/index.php?title=2791&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -143,8 +141,6 @@ Accomplishments" )]
   * PVA 
   * Benet Labs 
 
-[[edit](/index.php?title=2791&action=edit&section=11 "Edit section: Members
-List" )]
 
 ##  Members List
 
@@ -169,8 +165,6 @@ List" )]
 
   * Evan Bowman (2011-2012) 
 
-[[edit](/index.php?title=2791&action=edit&section=16 "Edit section: Presidents
-\(2010-11 and earlier\)" )]
 
 ### Presidents (2010-11 and earlier)
 

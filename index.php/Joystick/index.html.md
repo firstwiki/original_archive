@@ -63,8 +63,6 @@ Over the years, there have been many different methods of connecting a
 joystick to the [operator interface](/index.php/Operator_Interface "Operator
 Interface" ).
 
-[[edit](/index.php?title=Joystick&action=edit&section=2 "Edit section: USB
-Connector" )]
 
 ### USB Connector
 
@@ -79,8 +77,6 @@ Before 2009, the [USB Chicklet](/index.php/USB_chicklet "USB chicklet" ) was
 introduced in 2007 to allow teams to use most USB game controllers, especially
 the XBox 360 controller.
 
-[[edit](/index.php?title=Joystick&action=edit&section=3 "Edit section: 15-Pin
-Connector" )]
 
 ### 15-Pin Connector
 
@@ -93,8 +89,6 @@ less of those still support the gameport standard which is required for its
 use with the operator interface. To guarantee that a new joystick supports the
 gameport standard, make sure it supports both DOS and Windows 3.1.
 
-[[edit](/index.php?title=Joystick&action=edit&section=4 "Edit section: Other
-Joysticks" )]
 
 ### Other Joysticks
 

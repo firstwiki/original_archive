@@ -29,8 +29,6 @@ their database.
   * 4 Finding EventIDs  
 ---  
   
-[[edit](/index.php?title=TBA_API&action=edit&section=1 "Edit section: API
-Information" )]
 
 ##  API Information
 
@@ -51,8 +49,6 @@ PDF](http://www.thebluealliance.net/tbatv/api/apidocs.pdf
 TBA API, you will need an API Key. Instructions on how to request one are in
 the API docs.
 
-[[edit](/index.php?title=TBA_API&action=edit&section=2 "Edit section: Get an
-API Key" )]
 
 ##  Get an API Key
 
@@ -77,8 +73,6 @@ Available at <http://thebluealliance.net/tbatv/api/>
 
 <http://thebluealliance.net/tbatv/api/>
 
-[[edit](/index.php?title=TBA_API&action=edit&section=6 "Edit section: C# .NET"
-)]
 
 ###  C# .NET
 
@@ -93,8 +87,6 @@ By Scott Lawrence (Team 449)
 
 Available at <http://robot.mbhs.edu/resources/apps/tba-api-perl>
 
-[[edit](/index.php?title=TBA_API&action=edit&section=8 "Edit section: Finding
-EventIDs" )]
 
 ##  Finding EventIDs
 

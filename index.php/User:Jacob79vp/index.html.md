@@ -29,8 +29,6 @@ Position: _Vice President, Mechanical Sub-Team Leader, Backup Human Player"_
 
   
 
-[[edit](/index.php?title=User:Jacob79vp&action=edit&section=1 "Edit section:
-FIRSTwiki Projects" )]
 
 ## FIRSTwiki Projects
 

@@ -73,8 +73,6 @@ quarter-finals with the Cheesy Poofs and Fembots.
   * [2004 - King Louis I](/index.php?title=King_Louis_I_%281070%29&action=edit "King Louis I \(1070\)" ) \- FRC 
   * [2003 - Marvin](/index.php?title=Marvin_%281070%29&action=edit "Marvin \(1070\)" ) \- FRC 
 
-[[edit](/index.php?title=1070&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -85,8 +83,6 @@ Accomplishments" )]
   * 2007 FIRST Robotics Southern California Regional Quarter-Finalists 
   * 2007 FIRST Robotics Silicon Valley Regional Quarter-Finalists 
 
-[[edit](/index.php?title=1070&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -99,8 +95,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=1070&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

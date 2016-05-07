@@ -111,8 +111,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=610&action=edit
 It has been noted that Team 610 always appreciates the support that their
 sponsors have given the team.
 
-[[edit](/index.php?title=610&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

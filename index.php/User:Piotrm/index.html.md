@@ -9,8 +9,6 @@ Jump to: navigation, search
 
 I am Piotr Mardziel, a college student on team [190](/index.php/190 "190" ).
 
-[[edit](/index.php?title=User:Piotrm&action=edit&section=2 "Edit section:
-Contact" )]
 
 ## Contact
 

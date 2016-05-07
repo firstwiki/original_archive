@@ -29,8 +29,6 @@ Jump to: navigation, search
   * [Petroleum engineering](http://www.wikipedia.org/wiki/Petroleum_engineering "wikipedia:Petroleum_engineering" )
   * [Traffic engineering](http://www.wikipedia.org/wiki/Traffic_engineering "wikipedia:Traffic_engineering" )
 
-[[edit](/index.php?title=Engineering&action=edit&section=2 "Edit section:
-External links" )]
 
 ##  External links
 

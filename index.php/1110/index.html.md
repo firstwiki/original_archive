@@ -59,8 +59,6 @@ the regional in Las Vegas due to a request from [NASA](/index.php/NASA "NASA"
 
 ## Members List
 
-[[edit](/index.php?title=1110&action=edit&section=5 "Edit section: Students"
-)]
 
 ### Students
 
@@ -105,8 +103,6 @@ the regional in Las Vegas due to a request from [NASA](/index.php/NASA "NASA"
   * Gilbert Wong (Mechanical) 
   * Nelson Poon (Mechanical) 
 
-[[edit](/index.php?title=1110&action=edit&section=8 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

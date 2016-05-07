@@ -13,8 +13,6 @@ Jump to: navigation, search
   * 5 Team adding script?  
 ---  
   
-[[edit](/index.php?title=Talk:Team_Info&action=edit&section=1 "Edit section:
-Split this page?" )]
 
 ##  Split this page?
 
@@ -65,8 +63,6 @@ Jersey) to categories of teams in each state. One step at a time, though.
 [Nlaverdure](/index.php/User:Nlaverdure "User:Nlaverdure" ) 19:21, 5 June 2007
 (EDT)
 
-[[edit](/index.php?title=Talk:Team_Info&action=edit&section=4 "Edit section:
-Organize Code" )]
 
 ##  Organize Code
 
@@ -77,8 +73,6 @@ possible to split it up so that each line on the table is seperated in the
 code, it would be very helpful. [Cbale2000](/index.php/User:Cbale2000
 "User:Cbale2000" ) 13:55, 16 May 2008 (EDT)
 
-[[edit](/index.php?title=Talk:Team_Info&action=edit&section=5 "Edit section:
-Team adding script?" )]
 
 ##  Team adding script?
 

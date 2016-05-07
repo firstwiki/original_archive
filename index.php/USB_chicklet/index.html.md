@@ -63,8 +63,6 @@ A top down view of the chicklet allowing important items to be noted.
   * Saitek ST290 Joystick 
   * Saitek ST290 Pro Joystick 
 
-[[edit](/index.php?title=USB_chicklet&action=edit&section=3 "Edit section: See
-Also" )]
 
 ## See Also
 

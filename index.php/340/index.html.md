@@ -37,8 +37,6 @@ Team Website: | <http://www.team340.org/>
 
   * Team 340 history [[1]](http://team340.org/index.php?option=com_content&view=article&id=51&Itemid=72 "http://team340.org/index.php?option=com_content&view=article&id=51&Itemid=72" )
 
-[[edit](/index.php?title=340&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

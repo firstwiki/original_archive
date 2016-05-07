@@ -15,8 +15,6 @@ BASIC Stamp manual
 
 **PBASIC** is the language that was used to [program](/index.php/Programming "Programming" ) the [Robot Controller](/index.php/Robot_Controller "Robot Controller" ) for the 2003 season and before. The 2004 season marked a significant switch to the much more sophisticated [C programming language](/index.php/PIC_C "PIC C" ). While PBASIC is a more simple language, with its limitations, complex robots could still be created. The simple language proved easier for [rookie](/index.php?title=Rookie&action=edit "Rookie" ) teams to learn, and also provided a challenge for [veteran](/index.php?title=Veteran&action=edit "Veteran" ) teams because of the limitations. PBASIC is [Parallax's](/index.php/Parallax "Parallax" ) version of the Basic programming language, designed for the [BASIC stamp](/index.php/BASIC_stamp "BASIC stamp" ) (specifically the [BS2sx](/index.php/BS2sx "BS2sx" ) was used in 2000 and after, while the [BS2](/index.php/BS2 "BS2" ) was used prior to that). 
 
-[[edit](/index.php?title=PBASIC&action=edit&section=1 "Edit section: Code
-Structure" )]
 
 ## Code Structure
 

@@ -95,8 +95,6 @@ Regional" )
   * 6 External Links  
 ---  
   
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=1 "Edit section:
-History" )]
 
 ##  History
 
@@ -129,8 +127,6 @@ contract of not bringing food into the venue. Many teams will socialize
 outside in the nice weather, and team 1324 hosted a barbecue for all teams
 outside in the 2006 season.
 
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=3 "Edit section:
-Team Social" )]
 
 ##  Team Social
 
@@ -143,8 +139,6 @@ and are able to eat a catered dinner for free. Teams have to give an advance
 list to the Regional Planning Committee for tickets needed for the social, but
 all tickets are free of charge.
 
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=4 "Edit section:
-Unique Awards" )]
 
 ##  Unique Awards
 

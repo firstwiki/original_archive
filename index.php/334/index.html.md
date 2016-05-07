@@ -55,8 +55,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc334
     * 6.3 Mentors  
 ---  
   
-[[edit](/index.php?title=334&action=edit&section=1 "Edit section: Team 334
-History" )]
 
 ## Team 334 History
 
@@ -145,8 +143,6 @@ formats" ) for more help.
 
 ### 2004 - CareTECH
 
-[[edit](/index.php?title=334&action=edit&section=5 "Edit section: 2005 -
-RosieBot" )]
 
 ### 2005 - RosieBot
 
@@ -205,8 +201,6 @@ ia/1/10/Cheesy_Harris2.jpg)](/index.php/Image:Cheesy_Harris2.jpg
 
 ## Members List
 
-[[edit](/index.php?title=334&action=edit&section=11 "Edit section: Students"
-)]
 
 ### Students
 

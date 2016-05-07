@@ -9,8 +9,6 @@ Jump to: navigation, search
 FIRST Blogs are part of The [openFIRST](/index.php/OpenFIRST "OpenFIRST" )
 Project.
 
-[[edit](/index.php?title=FIRST_Blogs&action=edit&section=1 "Edit section:
-External links" )]
 
 ##  External links
 

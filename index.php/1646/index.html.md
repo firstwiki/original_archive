@@ -99,8 +99,6 @@ Boilermaker Regional Judges Award
 
 ## Members List
 
-[[edit](/index.php?title=1646&action=edit&section=9 "Edit section: Students"
-)]
 
 ### Students
 
@@ -109,8 +107,6 @@ Boilermaker Regional Judges Award
 
   * Tyler "Beans" Woods 
 
-[[edit](/index.php?title=1646&action=edit&section=11 "Edit section:
-Programming" )]
 
 #### Programming
 
@@ -119,8 +115,6 @@ Programming" )]
   * Breandon 
   * Robert 
 
-[[edit](/index.php?title=1646&action=edit&section=12 "Edit section: Mechanics"
-)]
 
 #### Mechanics
 
@@ -171,8 +165,6 @@ Programming" )]
 
   
 
-[[edit](/index.php?title=1646&action=edit&section=15 "Edit section: Mentors"
-)]
 
 ### Mentors
 

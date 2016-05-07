@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Diaoyudao&action=edit&section=1 "Edit section:
-Louboutin Avenue To Popularity903" )]
 
 ##  Louboutin Avenue To Popularity903
 

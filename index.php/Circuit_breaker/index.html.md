@@ -21,8 +21,6 @@ list of [short articles](/index.php/Special:Shortpages "Special:Shortpages"
   
   
 
-[[edit](/index.php?title=Circuit_breaker&action=edit&section=1 "Edit section:
-External links" )]
 
 ##  External links
 

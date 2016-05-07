@@ -31,8 +31,6 @@ Jump to: navigation, search
   * [MSC Industrial Supply Co.](http://www1.mscdirect.com/cgi/nnsrhm "http://www1.mscdirect.com/cgi/nnsrhm" ) \- Like McMaster, only cheaper 
   * [Grainger](http://www.grainger.com "http://www.grainger.com" ) \- Somewhere between Home Depot and McMaster in terms of how technical items can be 
 
-[[edit](/index.php?title=Suppliers&action=edit&section=2 "Edit section: Drive
-Train" )]
 
 ## Drive Train
 
@@ -47,8 +45,6 @@ Train" )]
   * [Capitol USA Minimoto](http://www.dcminimoto.com/pinionsandsprockets.htm "http://www.dcminimoto.com/pinionsandsprockets.htm" ) \- #25 Aluminum sprockets 
   * [Rush Gears Inc](http://www.rushgears.com/ "http://www.rushgears.com/" )
 
-[[edit](/index.php?title=Suppliers&action=edit&section=3 "Edit section:
-Electronics" )]
 
 ## Electronics
 
@@ -69,8 +65,6 @@ Electronics" )]
   * [Parker](http://www.parker.com/ "http://www.parker.com/" ) \- Supplier of some of the pnuematics used in the KOP 
   * [Norgren](http://www.norgren.com/ "http://www.norgren.com/" ) \- Supplier of some of the pnuematics used in the KOP 
 
-[[edit](/index.php?title=Suppliers&action=edit&section=5 "Edit section:
-Software" )]
 
 ## Software
 

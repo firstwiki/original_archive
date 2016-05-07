@@ -105,8 +105,6 @@ able to make it to school to finish the robot in time.
   * Spirit of Luke (2006) 
   * Sebastian (2007) 
 
-[[edit](/index.php?title=1747&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -123,16 +121,12 @@ Accomplishments" )]
   * Judges Award (St. Louis Regional) 
   * Regional Finalists (Boilermaker Regional) 
 
-[[edit](/index.php?title=1747&action=edit&section=5 "Edit section: Animations"
-)]
 
 ##  Animations
 
   * 2006's "Ideas Realized" Animation 
   * 2007's "Think Green" Animation 
 
-[[edit](/index.php?title=1747&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -145,8 +139,6 @@ Accomplishments" )]
 
 ##  Members List
 
-[[edit](/index.php?title=1747&action=edit&section=8 "Edit section: Students"
-)]
 
 ###  Students
 
@@ -183,8 +175,6 @@ Accomplishments" )]
 
 ###  Alumni
 
-[[edit](/index.php?title=1747&action=edit&section=10 "Edit section: Mentors"
-)]
 
 ###  Mentors
 

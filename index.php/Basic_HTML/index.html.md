@@ -27,8 +27,6 @@ images, and a wide host of other formatting. For a comprehensive review of
 available markup, see the [W3C HTML 4.01 specification](http://www.w3.org/TR
 /REC-html40/ "http://www.w3.org/TR/REC-html40/" ).
 
-[[edit](/index.php?title=Basic_HTML&action=edit&section=2 "Edit section:
-Creating team websites" )]
 
 ## Creating team websites
 

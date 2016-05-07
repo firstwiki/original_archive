@@ -59,8 +59,6 @@ passing. With out Terry none of this could have happened.
 Team 987 has won three out of four years since the Las Vegas Regional was
 started.
 
-[[edit](/index.php?title=987&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -113,8 +111,6 @@ started.
 
   * Cimarron Memorial High Sschool HIGH ROLLERS 
 
-[[edit](/index.php?title=987&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

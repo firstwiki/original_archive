@@ -65,8 +65,6 @@ Well-known alliance partners that they have selected or have selected them
 include [359](/index.php/359 "359" ), [968](/index.php/968 "968" ),
 [469](/index.php/469 "469" ), and [1717](/index.php/1717 "1717" ).
 
-[[edit](/index.php?title=294&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -83,8 +81,6 @@ projects" )]
   * 2010 | Enigma/McTwist 
   * 2011 | Norbert 
 
-[[edit](/index.php?title=294&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -61,8 +61,6 @@ Team 22 began in 1996 at Chatsworth HS. They were the first team on the West
 Coast to win the coveted National Chairman's Award, placing them in the Hall
 of Fame.
 
-[[edit](/index.php?title=22&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -73,8 +71,6 @@ projects" )]
 
   * [2004 - H.O.M.E.R. (Human Operated Mechanically Engineered Robot)](/index.php?title=H.O.M.E.R._%28Human_Operated_Mechanically_Engineered_Robot%29_%2822%29&action=edit "H.O.M.E.R. \(Human Operated Mechanically Engineered Robot\) \(22\)" )
 
-[[edit](/index.php?title=22&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -85,8 +81,6 @@ Accomplishments" )]
 
   * Delta Hi-Tech, Boeing, NASA/JPL, Fadal Engineering 
 
-[[edit](/index.php?title=22&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

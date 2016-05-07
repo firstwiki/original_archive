@@ -41,8 +41,6 @@ Fabrication is divided into several phases, beginning with the arrival of raw
 [materials](/index.php?title=Materials&action=edit "Materials" ) and
 [COTS](/index.php?title=COTS&action=edit "COTS" ) parts.
 
-[[edit](/index.php?title=Fabrication&action=edit&section=2 "Edit section:
-Machining" )]
 
 ## Machining
 
@@ -57,8 +55,6 @@ Parts are often machined from sketches or CAD drawings. Common
 ), [polycarbonate](/index.php/Polycarbonate "Polycarbonate" ), and
 [polyethylene](/index.php?title=Polyethylene&action=edit "Polyethylene" ).
 
-[[edit](/index.php?title=Fabrication&action=edit&section=3 "Edit section:
-Assembly" )]
 
 ## Assembly
 

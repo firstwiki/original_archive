@@ -51,8 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc762
 
   * History Example 
 
-[[edit](/index.php?title=762&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -63,8 +61,6 @@ projects" )]
 
   * [2004 - Jimmy](/index.php?title=Jimmy_%28762%29&action=edit "Jimmy \(762\)" )
 
-[[edit](/index.php?title=762&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
 
   * LBHS Patriots 
 
-[[edit](/index.php?title=762&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

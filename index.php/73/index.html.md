@@ -105,8 +105,6 @@ support was provided by a faculty member in the packaging science department
 and supported by funds from the New York State Department of Education
 Collegiate Science and Technology Program (CSTEP).
 
-[[edit](/index.php?title=73&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -121,8 +119,6 @@ projects" )]
   * [1998 - Tigerbolt III](/index.php?title=Tigerbolt_III_%2873%29&action=edit "Tigerbolt III \(73\)" )
   * [1996 - Tigerbolt II](/index.php/Tigerbolt_II_%2873%29 "Tigerbolt II \(73\)" )
 
-[[edit](/index.php?title=73&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

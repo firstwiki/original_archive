@@ -63,8 +63,6 @@ Lists of events your team has attended
 
   * [2008 - our robot](/index.php/FIRSTwiki:Yearly_team_page_format "FIRSTwiki:Yearly team page format" )
 
-[[edit](/index.php?title=1527&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -75,8 +73,6 @@ Accomplishments" )]
 
   * List of Sponsors 
 
-[[edit](/index.php?title=1527&action=edit&section=6 "Edit section: Members
-List" )]
 
 ##  Members List
 

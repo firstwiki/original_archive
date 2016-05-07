@@ -29,8 +29,6 @@ component used to compress air for powering pneumatics systems.
 
 ## Connections
 
-[[edit](/index.php?title=Compressor&action=edit&section=2 "Edit section: Air"
-)]
 
 ### Air
 
@@ -49,8 +47,6 @@ switch](/index.php/Pressure_switch "Pressure switch" ).
 
 ## Current Product Info
 
-[[edit](/index.php?title=Compressor&action=edit&section=5 "Edit section:
-Supplier" )]
 
 ### Supplier
 

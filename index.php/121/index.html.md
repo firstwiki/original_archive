@@ -101,8 +101,6 @@ X*Middletown High School (1996)
   * Greg Sanford - Tiverton High School, 2010 
   * Brad Mello - Mount Hope High School, 2010 
 
-[[edit](/index.php?title=121&action=edit&section=7 "Edit section: Adults -
-Alumni, Engineers, Parents, & Volunteers" )]
 
 ### Adults - Alumni, Engineers, Parents, &amp; Volunteers
 

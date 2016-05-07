@@ -47,8 +47,6 @@ year's robot._
 
 ## Build
 
-[[edit](/index.php?title=25_in_2001&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -61,8 +59,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=25_in_2001&action=edit&section=5 "Edit section: next
-Regional name" )]
 
 ### next Regional name
 
@@ -91,8 +87,6 @@ Note the creative usage of purple and blue blocks as structural members.
   * list 
   * of functions 
 
-[[edit](/index.php?title=25_in_2001&action=edit&section=8 "Edit section: Robot
-Strategy" )]
 
 ### Robot Strategy
 

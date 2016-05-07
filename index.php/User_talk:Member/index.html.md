@@ -41,8 +41,6 @@ Still constantly poking my partner Ben to update the software, I promise I
 hate waiting as much as you do! --[Hallry](/index.php/User:Hallry
 "User:Hallry" ) 17:15, 26 June 2011 (EDT)
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=3 "Edit section:
-Looonnnggg Time" )]
 
 ##  Looonnnggg Time
 
@@ -71,8 +69,6 @@ You don't even have to sign. [Hallry](/index.php/User:Hallry "User:Hallry" )
 
     No problem, thanks for your help =) [Hallry](/index.php/User:Hallry "User:Hallry" ) 22:28, 25 July 2011 (EDT) 
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=5 "Edit section:
-Coloring for welcome template" )]
 
 ##  Coloring for welcome template
 

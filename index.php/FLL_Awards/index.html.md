@@ -43,8 +43,6 @@ detailed descriptions.
     * 5.3 Other Judge's Awards  
 ---  
   
-[[edit](/index.php?title=FLL_Awards&action=edit&section=1 "Edit section:
-Champions Award" )]
 
 ## Champions Award
 
@@ -53,8 +51,6 @@ overall team. Typically criteria is a combination of Robot Performance, Robot
 Technical Design (including programming), Teamwork, and Research Project in
 equal measure with FLL Values used as the tie breaker.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=2 "Edit section:
-Technical Awards" )]
 
 ## Technical Awards
 
@@ -65,8 +61,6 @@ Awarded to the team whose robot excels in the areas of innovative design,
 robust design, and innovative and robust programming. Larger tournaments may
 break these into three or four separate categories.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=4 "Edit section: Robot
-Performance Award" )]
 
 ### Robot Performance Award
 
@@ -75,8 +69,6 @@ Given to the team with the high score in the Robot Game.
 
 ## Team Performance Awards
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=6 "Edit section:
-Project Awards" )]
 
 ### Project Awards
 
@@ -93,8 +85,6 @@ within their team.
 
 ## Special Recognition Awards
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=9 "Edit section:
-Outstanding Volunteer Award" )]
 
 ### Outstanding Volunteer Award
 
@@ -115,24 +105,18 @@ influence was most obvious in the judges conversations with the team.
 
 ## Judges Awards
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=13 "Edit section:
-Against All Odds Award" )]
 
 ### Against All Odds Award
 
 Given to the team that overcame unusual odds or situations to do attend or do
 well at the competition.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=14 "Edit section: Team
-Spirit Award" )]
 
 ### Team Spirit Award
 
 Rewards a team that shows a commitment to getting others to see how much fun
 science and technology can be when you are on a great team.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=15 "Edit section:
-Other Judge's Awards" )]
 
 ### Other Judge's Awards
 

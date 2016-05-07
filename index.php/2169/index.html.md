@@ -221,8 +221,6 @@ nals08.jpg "Image:regionals08.jpg" )
 
 ### 2011
 
-[[edit](/index.php?title=2169&action=edit&section=11 "Edit section: Lake
-Superior" )]
 
 #### Lake Superior
 
@@ -255,8 +253,6 @@ Superior" )]
 
   * KING-TeC wins the Design Creativity Award! 
 
-[[edit](/index.php?title=2169&action=edit&section=17 "Edit section: 10,000
-Lakes" )]
 
 #### 10,000 Lakes
 
@@ -265,16 +261,12 @@ Lakes" )]
   * KING-TeC goes into elimination rounds as 5th seed, and teams with team 2194 and 2989. 
   * The alliance finishes in 3rd place. 
 
-[[edit](/index.php?title=2169&action=edit&section=18 "Edit section:
-Championship" )]
 
 #### Championship
 
 
 ### 2009
 
-[[edit](/index.php?title=2169&action=edit&section=20 "Edit section: North
-Star" )]
 
 #### North Star
 
@@ -291,8 +283,6 @@ Star" )]
 
   * Team 2169 teamed up with Team 93 (N.E.W. Apple Corps Robotics) and Team 1652 (LakeView Legends) for the final rounds. Before the final match, Team 1652 experienced fatal technical complications and were replaced by Team 1306 (BadgerBOTS). During autonomous mode, Team 2169's robot caught a corner of the field and their battery cable was violently jostled loose. So as not to be a field liability, former Team 2169 Captain Nate Vetter (senior at the time) appropriately hit the kill switch. Team 2169 took home second place, proving that their previous year's triumph at the Wisconsin regional was no fluke. 
 
-[[edit](/index.php?title=2169&action=edit&section=24 "Edit section: Minnesota"
-)]
 
 #### Minnesota
 
@@ -309,8 +299,6 @@ Star" )]
   * Wins the Milwaukee Regional 
     * Teamed up with teams 537 (Charger Robotics) and team 2194 (Fondy Fire) 
 
-[[edit](/index.php?title=2169&action=edit&section=27 "Edit section: Atlanta"
-)]
 
 #### Atlanta
 
@@ -359,8 +347,6 @@ TeC/195384037146558" )
 Google+**](https://plus.google.com/104723844469418200235/posts
 "https://plus.google.com/104723844469418200235/posts" )
 
-[[edit](/index.php?title=2169&action=edit&section=30 "Edit section: Contact"
-)]
 
 ## Contact
 

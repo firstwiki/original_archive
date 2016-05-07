@@ -71,16 +71,12 @@ University](http://www.neu.edu "http://www.neu.edu" ) in Boston, MA.
 
 ## History
 
-[[edit](/index.php?title=Beantown_Blitz&action=edit&section=2 "Edit section:
-Results" )]
 
 ## Results
 
   * [2004](/index.php/Beantown_Blitz_%282004%29 "Beantown Blitz \(2004\)" )
   * [2005](/index.php?title=Beantown_Blitz_%282005%29&action=edit "Beantown Blitz \(2005\)" )
 
-[[edit](/index.php?title=Beantown_Blitz&action=edit&section=3 "Edit section:
-Reference" )]
 
 ## Reference
 

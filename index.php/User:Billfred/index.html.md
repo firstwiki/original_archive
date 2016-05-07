@@ -13,8 +13,6 @@ Jump to: navigation, search
   * 5 The Name  
 ---  
   
-[[edit](/index.php?title=User:Billfred&action=edit&section=1 "Edit section:
-The Man With a Plan" )]
 
 ## The Man With a Plan
 
@@ -35,8 +33,6 @@ Fork High School &amp; Chapin High School, aka D5 Robotics.
 2007-present: Team [1618](/index.php?title=1618&action=edit "1618" ), Columbia
 High School, aka Capital Robotics.
 
-[[edit](/index.php?title=User:Billfred&action=edit&section=3 "Edit section:
-The Volunteer" )]
 
 ## The Volunteer
 
@@ -55,8 +51,6 @@ The Volunteer" )]
   * 2006: Cal Games, Game Announcer 
   * 2007: Florida Regional, Inspector 
 
-[[edit](/index.php?title=User:Billfred&action=edit&section=4 "Edit section:
-The Future" )]
 
 ## The Future
 

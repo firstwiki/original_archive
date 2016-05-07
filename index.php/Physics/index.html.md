@@ -43,24 +43,18 @@ on Wikipedia](http://www.wikipedia.org/wiki/physics "wikipedia:physics" ).
 
 # Static Formulas
 
-[[edit](/index.php?title=Physics&action=edit&section=2 "Edit section: Dynamic
-Formulas" )]
 
 # Dynamic Formulas
 
 
 ## Linear Motion
 
-[[edit](/index.php?title=Physics&action=edit&section=4 "Edit section:
-Parabolic Motion" )]
 
 ## Parabolic Motion
 
 
 # Calculations
 
-[[edit](/index.php?title=Physics&action=edit&section=6 "Edit section: Motors"
-)]
 
 ## Motors
 
@@ -71,8 +65,6 @@ Parabolic Motion" )]
 
   * [Ohm's Law](/index.php/Ohm%27s_Law "Ohm's Law" ) (voltage, resistance, and current) 
 
-[[edit](/index.php?title=Physics&action=edit&section=8 "Edit section:
-Pneumatics" )]
 
 ## Pneumatics
 

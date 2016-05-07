@@ -37,8 +37,6 @@ is:
 
 Programming articles need improvement.
 
-[[edit](/index.php?title=User:Phrontist&action=edit&section=3 "Edit section:
-Biographical Information \(see: My Massive Ego\)" )]
 
 ##  Biographical Information (see: My Massive Ego)
 

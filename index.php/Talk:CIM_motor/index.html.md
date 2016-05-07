@@ -21,8 +21,6 @@ might be CIM, not chiaphua. See
 "http://www.usfirst.org/robotics/2004/specsheets.htm" ).
 --[Max](/index.php/User:Max "User:Max" ) 15:00, 4 Jul 2004 (EDT)
 
-[[edit](/index.php?title=Talk:CIM_motor&action=edit&section=1 "Edit section:
-Infobox motor Template" )]
 
 ##  Infobox motor Template
 

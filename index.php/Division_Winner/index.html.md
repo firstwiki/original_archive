@@ -259,8 +259,6 @@ International Corporation/ ProObject, Inc. &amp; Eleanor Roosevelt HS
 [340](/index.php/340 "340" ) |  Nortel Networks &amp; Churchville Chili
 Schools  
   
-[[edit](/index.php?title=Division_Winner&action=edit&section=4 "Edit section:
-Newton Division Winners" )]
 
 ## Newton Division Winners
 

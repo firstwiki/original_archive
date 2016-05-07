@@ -57,8 +57,6 @@ Team Website: | <http://www.team1748.org>
 2007 Chesapeake Regional Finalist  
 2008 Chesapeake Regional Quater-Finalist  
 
-[[edit](/index.php?title=1748&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -71,8 +69,6 @@ NASA's MD Space Grant Consortium
 
   * Member Example 
 
-[[edit](/index.php?title=1748&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

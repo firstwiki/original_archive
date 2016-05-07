@@ -33,8 +33,6 @@ Approximate team size: | 25
 
   * History Example 
 
-[[edit](/index.php?title=1097&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -47,8 +45,6 @@ projects" )]
   * [2004 - MoJo II - "MoJo Reloaded"](/index.php?title=MoJo_II_%281097%29&action=edit "MoJo II \(1097\)" )
   * [2005 - MoJo III - "Lazarus"](/index.php?title=MoJo_III_%281097%29&action=edit "MoJo III \(1097\)" )
 
-[[edit](/index.php?title=1097&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -69,8 +65,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1097&action=edit&section=7 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -85,8 +79,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1097&action=edit&section=8 "Edit section: Members
-List" )]
 
 ## Members List
 

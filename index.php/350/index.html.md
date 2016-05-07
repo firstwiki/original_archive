@@ -79,8 +79,6 @@ finished 76 out of 85 in that division.
   * Analog Devices 
   * QD Machine 
 
-[[edit](/index.php?title=350&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

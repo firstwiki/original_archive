@@ -167,8 +167,6 @@ experiences in their lives; 2nd, only to Atlanta, GA.
 With the Greater Toronto Regional, "Super Regional", overhead -- all eyes are
 on 1219 and how they will pull away from this regional.
 
-[[edit](/index.php?title=1219&action=edit&section=2 "Edit section: *knock
-wood*" )]
 
 ###### *knock wood*
 
@@ -187,8 +185,6 @@ wood*" )]
   * 2005 - The Grip 
   * 2006 - Un-named [unofficially 'The Choo-Choo'] 
 
-[[edit](/index.php?title=1219&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -249,8 +245,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1219&action=edit&section=13 "Edit section: Off
-Season" )]
 
 ### Off Season
 
@@ -289,8 +283,6 @@ help out with various aspects of the team. The following are divisions within
 the 1219 Team. Please click on one of the following links to see the students
 that are part of each division.
 
-[[edit](/index.php?title=1219&action=edit&section=18 "Edit section: Build
-Team" )]
 
 ### Build Team
 
@@ -307,8 +299,6 @@ Team" )]
 
 ### Marketing
 
-[[edit](/index.php?title=1219&action=edit&section=20 "Edit section:
-Programming" )]
 
 ### Programming
 
@@ -321,8 +311,6 @@ Programming" )]
 
 ### Videography
 
-[[edit](/index.php?title=1219&action=edit&section=22 "Edit section: Mentors"
-)]
 
 ### Mentors
 

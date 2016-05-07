@@ -99,8 +99,6 @@ of regionals" )**
   * RS Phillips 
   * Post Foundation 
 
-[[edit](/index.php?title=1302&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

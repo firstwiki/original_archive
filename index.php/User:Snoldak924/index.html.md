@@ -17,8 +17,6 @@ I am Sam Oldak, the webmaster/photographer of team [1389](/index.php/1389
   * ChiefDelphi: snoldak924 
   * E-mail: (sam)-@-(oldaks.com) 
 
-[[edit](/index.php?title=User:Snoldak924&action=edit&section=3 "Edit section:
-Web Portfolio" )]
 
 ## Web Portfolio
 

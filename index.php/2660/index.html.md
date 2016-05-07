@@ -75,8 +75,6 @@ into a "gokart with a forklift". Thats what we try to build.
 
 (pictures to be edited)
 
-[[edit](/index.php?title=2660&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -91,8 +89,6 @@ _**WE WOULD LIKE TO THANK ALL OUR SPONSORS FOR THEIR HELP!**_
 
 ## Members
 
-[[edit](/index.php?title=2660&action=edit&section=6 "Edit section: Adult
-Mentors" )]
 
 ### Adult Mentors
 
@@ -105,8 +101,6 @@ Mentors" )]
   * Matt Chonka 
   * Frank Redmond 
 
-[[edit](/index.php?title=2660&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

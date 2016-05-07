@@ -33,8 +33,6 @@ Jump to: navigation, search
     * Programer 
     * Human Element 
 
-[[edit](/index.php?title=User:DanArgent&action=edit&section=2 "Edit section:
-Contact Info" )]
 
 ## Contact Info
 
@@ -43,8 +41,6 @@ Contact Info" )]
 
   
 
-[[edit](/index.php?title=User:DanArgent&action=edit&section=3 "Edit section:
-Background" )]
 
 ## Background
 
@@ -65,8 +61,6 @@ on a short burst of writing while I'm here.
 
 ## Experiances (2004)
 
-[[edit](/index.php?title=User:DanArgent&action=edit&section=5 "Edit section: I
-intend on updating this more later" )]
 
 #### I intend on updating this more later
 

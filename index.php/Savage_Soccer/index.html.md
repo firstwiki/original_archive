@@ -65,8 +65,6 @@ season competitions" )
   
   
 
-[[edit](/index.php?title=Savage_Soccer&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -85,8 +83,6 @@ The competition is based off of FIRST and is created every year by WPI. Teams
 build a robot in four weeks using the [Robovation](/index.php/Robovation
 "Robovation" ) or [Vex](/index.php/Vex "Vex" ) kit.
 
-[[edit](/index.php?title=Savage_Soccer&action=edit&section=3 "Edit section:
-More Info" )]
 
 ## More Info
 

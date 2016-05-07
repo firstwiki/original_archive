@@ -41,8 +41,6 @@ Team Website: | <http://www.team639.org/>
 
   * History Example 
 
-[[edit](/index.php?title=639&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -57,8 +55,6 @@ projects" )]
   * 2002 
   * 2001 
 
-[[edit](/index.php?title=639&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -91,8 +87,6 @@ Accomplishments" )]
   * Gold Screen Printing 
   * Bishop's Carpet One 
 
-[[edit](/index.php?title=639&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

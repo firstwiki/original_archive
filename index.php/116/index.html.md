@@ -99,8 +99,6 @@ regional finals as the #2 seed. For the 2006/07 season, FVC 18 was re-numbered
 as FVC 116. In 2007/8, the team fielded two FTC teams. FTC 539 won the
 Maryland FTC Championship in 2008, and qualified for the Championship event.
 
-[[edit](/index.php?title=116&action=edit&section=4 "Edit section: Promoting
-FIRST" )]
 
 ### Promoting FIRST
 

@@ -81,8 +81,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=296
   * 2005 - Northern Knight VII 
   * 2006 - Northern Ninja 
 
-[[edit](/index.php?title=296&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

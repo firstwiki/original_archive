@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -89,8 +87,6 @@ balls for each team on the ground between the ladders.
 for each ball in the middle rung, and 3 points for each ball in the highest
 rung. Each ball in the center column doubled the team's score.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -107,8 +103,6 @@ to last one match. FIRST had giant charging stations where you would swap your
 used batteries for freshly charged ones. FIRST raised the weight limit from
 120 lbs to 130 lbs to accomodate the bigger battery.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -141,8 +135,6 @@ through the sides of the central goal to reduce opposing scores.
 
 ## Misc Info
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

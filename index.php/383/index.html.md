@@ -65,8 +65,6 @@ great results.
   * [2007 - Brazilian Buddy VIII](/index.php/Brazilian_Buddy_VIII_%28383%29 "Brazilian Buddy VIII \(383\)" )
   * [2008 - Brazilian Buddy IX](/index.php?title=Brazilian_Buddy_IX_%28383%29&action=edit "Brazilian Buddy IX \(383\)" )
 
-[[edit](/index.php?title=383&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -97,8 +95,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=383&action=edit&section=5 "Edit section: Team Leader"
-)]
 
 ### Team Leader
 

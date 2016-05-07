@@ -21,8 +21,6 @@ Jump to: navigation, search
   * 4 Coach Outlet 11587  
 ---  
   
-[[edit](/index.php?title=User:Bdnf98l9&action=edit&section=1 "Edit section:
-Brett Favre's Consecutive Get started Skills -- Negotiating" )]
 
 ##  Brett Favre's Consecutive Get started Skills -- Negotiating
 

@@ -41,8 +41,6 @@ this article.
   * 4 Uses  
 ---  
   
-[[edit](/index.php?title=LEGO_Mindstorms&action=edit&section=1 "Edit section:
-Introduction" )]
 
 ## Introduction
 
@@ -53,8 +51,6 @@ as used in FLL competition. Although there are several sets released by LEGO,
 only two are legal or practical for FLL use. These are the Robotics Invention
 System and the NXT.
 
-[[edit](/index.php?title=LEGO_Mindstorms&action=edit&section=2 "Edit section:
-Robotics Invention System" )]
 
 ## Robotics Invention System
 
@@ -73,8 +69,6 @@ gears and wheels, with which to build a robot. Teams may expand their kit with
 any unaltered LEGO parts, but are limited to a set number of sensors and
 motors, depending on the rules of the game.
 
-[[edit](/index.php?title=LEGO_Mindstorms&action=edit&section=3 "Edit section:
-NXT" )]
 
 ## NXT
 
@@ -87,8 +81,6 @@ LEGO Technic parts. Teams may expand their kit with any unaltered LEGO parts,
 but are limited to a set number of sensors and motors, depending on the rules
 of the game.
 
-[[edit](/index.php?title=LEGO_Mindstorms&action=edit&section=4 "Edit section:
-Uses" )]
 
 ## Uses
 

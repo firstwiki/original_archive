@@ -85,8 +85,6 @@ food drives and book drives.
   * [1999 - Ice3](/index.php/174_1999 "174 1999" ) ([Double Trouble](/index.php/Double_Trouble "Double Trouble" )) 
   * [1998 - Big Chill](/index.php/174_1998 "174 1998" ) ([Ladder Logic](/index.php/Ladder_Logic "Ladder Logic" )) 
 
-[[edit](/index.php?title=174&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

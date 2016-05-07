@@ -69,8 +69,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc708
   * Immunicon 
   * AMI Semiconductor 
 
-[[edit](/index.php?title=708&action=edit&section=6 "Edit section: Schools
-Involved" )]
 
 ## Schools Involved
 

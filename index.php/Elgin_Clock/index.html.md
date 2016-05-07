@@ -29,8 +29,6 @@ significant article. If you'd like to add to more stubs, look at the list of
   
   
 
-[[edit](/index.php?title=Elgin_Clock&action=edit&section=1 "Edit section: The
-Bench" )]
 
 ## The Bench
 
@@ -47,8 +45,6 @@ FIRST, in addition to the many references to famous FIRSTers.
 "The Christmas Bench" was released exactly 8 months later on
 [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) on November, 19, 2006.
 
-[[edit](/index.php?title=Elgin_Clock&action=edit&section=2 "Edit section: The
-Bench" )]
 
 ### _The Bench_
 
@@ -115,8 +111,6 @@ The Bench in Watertown is what makes Elgin so smart
 I want to buy some Clinque makeup  
 Some one just told me to shut up.  
 
-[[edit](/index.php?title=Elgin_Clock&action=edit&section=3 "Edit section: The
-Christmas Bench" )]
 
 ### _The Christmas Bench_
 

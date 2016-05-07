@@ -119,8 +119,6 @@ info on our last years:
   * [UTC New England Regional](/index.php/UTC_New_England_Regional "UTC New England Regional" ). 
     * [Regional Finalists](/index.php/Regional_Finalist "Regional Finalist" ) with teams [181](/index.php/181 "181" ) and [558](/index.php/558 "558" ). 
 
-[[edit](/index.php?title=358&action=edit&section=9 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -163,8 +161,6 @@ to dismantle and reassemble as a learning tool.
   * 2001 Drexel University Scholarship, [Championship Event](/index.php/Championship_Event "Championship Event" )
   * 2000 [Motorola Quality Award](/index.php/Motorola_Quality_Award "Motorola Quality Award" ), [Long Island Regional](/index.php/Long_Island_Regional "Long Island Regional" )
 
-[[edit](/index.php?title=358&action=edit&section=12 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -183,8 +179,6 @@ to dismantle and reassemble as a learning tool.
 
   * Member Example 
 
-[[edit](/index.php?title=358&action=edit&section=14 "Edit section: Students"
-)]
 
 ### Students
 

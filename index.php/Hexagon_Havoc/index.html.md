@@ -57,32 +57,24 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
 
 ## Game Description
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
 
 ## Kit Of Parts
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
 
 ## Strategies
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -91,8 +83,6 @@ Robots" )]
 
   * The [Placebo](/index.php/Placebo "Placebo" ) this year was a hovercraft built from kit parts. 
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

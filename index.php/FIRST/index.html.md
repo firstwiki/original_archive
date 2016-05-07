@@ -59,8 +59,6 @@ students involved in and excited about science and technology.
 
     Our mission is to inspire young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership.[[2]](http://usfirst.org/aboutus/content.aspx?id=34 "http://usfirst.org/aboutus/content.aspx?id=34" )
 
-[[edit](/index.php?title=FIRST&action=edit&section=4 "Edit section: Programs"
-)]
 
 ## Programs
 

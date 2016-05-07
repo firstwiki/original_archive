@@ -11,8 +11,6 @@ from page data. Instead of giving a paragraph a background color or different
 font, you assign it a style. This separation allows changes in style without
 having to run through the entire document replacing each instance.
 
-[[edit](/index.php?title=Using_CSS&action=edit&section=1 "Edit section:
-Embedding CSS into HTML" )]
 
 ##  Embedding CSS into HTML
 

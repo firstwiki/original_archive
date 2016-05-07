@@ -99,8 +99,6 @@ The [Boston Regional](http://www.bostonfirst.org "http://www.bostonfirst.org"
 ) will be held for the first time in 2006, at [Boston
 University](http://www.bu.edu "http://www.bu.edu" )'s new Agganis Arena.
 
-[[edit](/index.php?title=Boston_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

@@ -69,8 +69,6 @@ talking to the Fighting Pi about helping us out. We got our machine shop
 
 2008 Overdrive bot named "835"
 
-[[edit](/index.php?title=2604&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -97,8 +95,6 @@ Champion Steel KBC Tools EMC Squared
 
   
 
-[[edit](/index.php?title=2604&action=edit&section=6 "Edit section: Members
-List" )]
 
 ##  Members List
 

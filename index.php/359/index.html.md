@@ -143,8 +143,6 @@ of Fame. In 2011, they won IRI for the second year in a row.
   * Min Plastics 
   * Walmart Honolulu 
 
-[[edit](/index.php?title=359&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

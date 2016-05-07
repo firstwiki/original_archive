@@ -59,8 +59,6 @@ I still think of how foolish I must have looked, as I gazed at you, that first
 time. I remember watching you intently, as you took off your hat and loosely
 shook your short dark hair with your fingers.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=2 "Edit section:
-is powerless" )]
 
 ##  is powerless
 
@@ -97,8 +95,6 @@ I still think of how foolish I must have looked, as I gazed at you, that first
 time. I remember watching you intently, as you took off your hat and loosely
 shook your short dark hair with your fingers.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=3 "Edit section:
-love not return when your birthday she looks so excited" )]
 
 ##  love not return when your birthday she looks so excited
 
@@ -133,8 +129,6 @@ I still think of how foolish I must have looked, as I gazed at you, that first
 time. I remember watching you intently, as you took off your hat and loosely
 shook your short dark hair with your fingers.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=4 "Edit section: I
-this person" )]
 
 ##  I this person
 
@@ -157,8 +151,6 @@ each other so tight I thought we would burst. I asked you to marry me the very
 same day and I whooped with joy when you looked deep into my eyes and said
 "yes" to being my bride.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=5 "Edit section:
-Have a good" )]
 
 ##  Have a good
 
@@ -239,8 +231,6 @@ moments I am there, feeling again what is like to know true love for the very
 first time. It pleases me that I can still have those feelings now after all
 those years, and I know I will always have them to comfort me.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=7 "Edit section:
-not happy" )]
 
 ##  not happy
 
@@ -281,8 +271,6 @@ moments I am there, feeling again what is like to know true love for the very
 first time. It pleases me that I can still have those feelings now after all
 those years, and I know I will always have them to comfort me.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=8 "Edit section:
-Do not think that the young can also get married later" )]
 
 ##  Do not think that the young can also get married later
 
@@ -323,8 +311,6 @@ moments I am there, feeling again what is like to know true love for the very
 first time. It pleases me that I can still have those feelings now after all
 those years, and I know I will always have them to comfort me.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=9 "Edit section:
-My dependence" )]
 
 ##  My dependence
 

@@ -11,8 +11,6 @@ Jump to: navigation, search
 FIRST](http://www.usfirst.org/involved/content.aspx?id=882
 "http://www.usfirst.org/involved/content.aspx?id=882" )
 
-[[edit](/index.php?title=FIRST_sponsors&action=edit&section=2 "Edit section:
-Sponsors with FIRSTwiki Entries" )]
 
 ### Sponsors with FIRSTwiki Entries
 

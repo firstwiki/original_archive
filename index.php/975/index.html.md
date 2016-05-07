@@ -51,8 +51,6 @@ and John Tyler Community College. Their team motto is "Be FIRST!"
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=975&action=edit&section=1 "Edit section: 2007
-Competition Schedule" )]
 
 ## 2007 Competition Schedule
 
@@ -69,8 +67,6 @@ NASA/VCU Regional, Richmond, Virginia
   * [2003](http://www.chiefdelphi.com/media/photos/15073 "http://www.chiefdelphi.com/media/photos/15073" )
   * [2002](http://www.chiefdelphi.com/media/photos/13779 "http://www.chiefdelphi.com/media/photos/13779" )
 
-[[edit](/index.php?title=975&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

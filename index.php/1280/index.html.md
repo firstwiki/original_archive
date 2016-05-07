@@ -57,8 +57,6 @@ team has received numerous awards and significantly improved its skill set. In
 their rookie year the team won five awards at two different regionals. Their
 first regional win was in 2007, at the Silicon Valley Regional.
 
-[[edit](/index.php?title=1280&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -95,8 +93,6 @@ superiority.
   * [2005 - Sea Biscuit](/index.php?title=Sea_Biscuit_%281280%29&action=edit "Sea Biscuit \(1280\)" )
   * [2006 - Sea Biscuit](/index.php?title=Sea_Biscuit_%281280%29&action=edit "Sea Biscuit \(1280\)" )
 
-[[edit](/index.php?title=1280&action=edit&section=7 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -123,8 +119,6 @@ Accomplishments" )]
       * Robotics Competition Finalist 
       * Rookie Inspiration Award 
 
-[[edit](/index.php?title=1280&action=edit&section=8 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -137,8 +131,6 @@ Accomplishments" )]
 
 ## Members
 
-[[edit](/index.php?title=1280&action=edit&section=10 "Edit section: Students"
-)]
 
 ### Students
 

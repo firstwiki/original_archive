@@ -31,8 +31,6 @@ make a significant article. _See more [stubs](/index.php/Special:Shortpages
 Each year, [FIRST](/index.php/FIRST "FIRST" ) issues a new [FIRST Tech
 Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) game.
 
-[[edit](/index.php?title=Game_%28FTC%29&action=edit&section=1 "Edit section:
-Game Pages" )]
 
 ## Game Pages
 

@@ -57,8 +57,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2056
 
 ## History
 
-[[edit](/index.php?title=2056&action=edit&section=2 "Edit section: Rookie
-Year" )]
 
 ## Rookie Year
 
@@ -121,8 +119,6 @@ the second round of selections. The alliance (1114,111,2056,494) then went
 with only one loss in eliminations. This event solidfying the rookie team as a
 likely elite level team.
 
-[[edit](/index.php?title=2056&action=edit&section=3 "Edit section: 2008
-Season" )]
 
 ## 2008 Season
 
@@ -137,8 +133,6 @@ Season" )]
   * 2010 - Hammer Time 
   * 2011 - Unfinished Business 
 
-[[edit](/index.php?title=2056&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -183,8 +177,6 @@ Accomplishments" )]
       * Semi-Finalists in Archimedes Division 
     * Indiana Robotics Invitational 
 
-[[edit](/index.php?title=2056&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -207,16 +199,12 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=2056&action=edit&section=8 "Edit section: Teachers"
-)]
 
 ### Teachers
 
   * Stan Hunter 
   * Mr. Murray 
 
-[[edit](/index.php?title=2056&action=edit&section=9 "Edit section: Students"
-)]
 
 ### Students
 
@@ -233,8 +221,6 @@ Accomplishments" )]
   * Charlie Carruba 
   * Taylor Barett 
 
-[[edit](/index.php?title=2056&action=edit&section=10 "Edit section: Returning
-Alumni" )]
 
 ### Returning Alumni
 

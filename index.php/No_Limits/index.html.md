@@ -35,8 +35,6 @@ which described the day in a life of a child with a disability. Teams were
 then asked to compete in the Robot Game, and design and present a Research
 Project.
 
-[[edit](/index.php?title=No_Limits&action=edit&section=1 "Edit section: Robot
-Game" )]
 
 ## Robot Game
 
@@ -57,8 +55,6 @@ The Research Project for No Limits asked teams to...
   * Be Inventors: Teams had to design and propose an invention that would make it easier for someone with a disability to overcome a problem in the location selected 
   * Be Marketing Experts: Raise awareness in the community about the problem and the team's proposed solution/invention 
 
-[[edit](/index.php?title=No_Limits&action=edit&section=3 "Edit section:
-External Links" )]
 
 ## External Links
 

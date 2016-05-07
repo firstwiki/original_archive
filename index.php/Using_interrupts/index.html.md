@@ -155,8 +155,6 @@ time span between hardware events is sometimes refered to as **event latency**
 \- how long can the event sit there not being serviced before information
 associated with the event is lost or corrupted.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=3 "Edit section:
-Event Latency" )]
 
 ## Event Latency
 
@@ -167,8 +165,6 @@ Sensor from 2007 was less than 40usec. The inverse of event latency is the
 maximum number of interrupts per second possible for a given piece of
 hardware.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=4 "Edit section:
-Interrupt Latency" )]
 
 ## Interrupt Latency
 
@@ -303,8 +299,6 @@ processing another interrupt delivery will occur.
 Not clearing the IF flag within the service routine is a common cause of the
 RLOD.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=8 "Edit section:
-Interrupt Service Routines" )]
 
 ## Interrupt Service Routines
 
@@ -327,8 +321,6 @@ unusual, but not necessarily unexpected.
 The ISR for a particular hardware device can also be referred to as the
 hardware driver.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=9 "Edit section:
-Interrupt Context" )]
 
 ## Interrupt Context
 

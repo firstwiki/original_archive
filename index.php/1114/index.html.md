@@ -67,8 +67,6 @@ creative students from Governor Simcoe to achieve one of the most successful
 rookie seasons in the 2003 FRC Game “[Stack Attack](/index.php/Stack_Attack
 "Stack Attack" )”.
 
-[[edit](/index.php?title=1114&action=edit&section=3 "Edit section: The 2004
-FRC Season" )]
 
 ###  The 2004 FRC Season
 
@@ -91,8 +89,6 @@ another trip the National Championship in Atlanta, Georgia are just a few of
 the memorable highlights from the successful sophomore season – with
 “Simbotics” winning more awards than any other FIRST Team that season.
 
-[[edit](/index.php?title=1114&action=edit&section=4 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -111,8 +107,6 @@ projects" )]
   * [2010 - Simbot Quatchi](/index.php?title=1114_in_2010&action=edit "1114 in 2010" )
   * [2012 - Simbot Jordan](/index.php?title=1114_in_2012&action=edit "1114 in 2012" )
 
-[[edit](/index.php?title=1114&action=edit&section=6 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -211,8 +205,6 @@ Accomplishments" )]
   * 2003 Pittsburgh Regional 
     * Rookie All-Star 
 
-[[edit](/index.php?title=1114&action=edit&section=7 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

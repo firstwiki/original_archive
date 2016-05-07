@@ -57,8 +57,6 @@ sponsors](/index.php/FIRST_sponsors "FIRST sponsors" )).
 
   * See the [Index of Motors](/index.php/Motors "Motors" )
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=3 "Edit section:
-Pneumatics" )]
 
 ## [Pneumatics](/index.php/Pneumatics "Pneumatics" )
 
@@ -89,8 +87,6 @@ manual](http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf
 
 ## [Structural](/index.php/Chassis "Chassis" )
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=7 "Edit section:
-Drive train" )]
 
 ## [Drive train](/index.php/Drive_train "Drive train" )
 

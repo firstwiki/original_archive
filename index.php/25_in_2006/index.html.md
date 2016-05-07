@@ -41,16 +41,12 @@ such as the New Jersey Regional Chairman's award.
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=25_in_2006&action=edit&section=1 "Edit section: Pre-
-build" )]
 
 ## Pre-build
 
 _stuff like getting sponsors and projects that got incorporated into this
 year's robot._
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -61,8 +57,6 @@ day of the build season.
 
 ## Accomplishments
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=4 "Edit section: New
-Jersey Regional" )]
 
 ### New Jersey Regional
 
@@ -103,8 +97,6 @@ clip.png)](/index.php/Image:Evil_machine_4.jpg "Enlarge" )
 
 2006 Robot - Evil Machine 4: The Enforcer
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=8 "Edit section: Robot
-Functions" )]
 
 ### Robot Functions
 

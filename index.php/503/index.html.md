@@ -63,8 +63,6 @@ Magna Seating.
 
 **Community Involvement** This team consistently works to expose more people in their community and and educational system to the FIRST world. Each year they present our robot to the Novi Community School District to encourage excitement over science and technology, this year reaching 4,500 students. The robot appears for the 200 residents at the Fox Run Retirement community to demonstrate the robot and show what teamwork and dedication can accomplish. To further promote FIRST in their community they present their robot at the City Fair impacting 1,000 residents and make it available for the 37,500 that attended the Michigan State Fair. Their robot consistently makes appearances at the State FLL competition in Novi and displays future opportunities available to the 800 FLL kids. At the YES! event (Youth in Engineering and Science) their robot was displayed for the 15,000 that attended. The expo inspires kids to pursue careers in engineering and our demonstration inspired Fredrick Douglass Academy, Ogemaw Heights, and Traverse City Central to create FRC teams of their own. In ’05 at the grand opening of the Rock Financial Showplace, they had an opportunity to incorporate their team and FIRST into the opening of one of the largest expo centers in the country. They invited 10 other teams to create a mock competition and demonstrate their enthusiasm for the 900 VIPs and 75,000 others that attended. For 2 weeks the event was advertised on a marquee to 300,000 drivers on Interstate 96 daily. Frog Force strives to be a positive influence in the FIRST community and spread the message of FIRST wherever they go. 
 
-[[edit](/index.php?title=503&action=edit&section=2 "Edit section: 2010
-Competition Schedule" )]
 
 ## 2010 Competition Schedule
 
@@ -87,8 +85,6 @@ Michigan State Championship (8-5-0)
 
 The Championship Event; Archimedes Division (6-6-0)
 
-[[edit](/index.php?title=503&action=edit&section=4 "Edit section: 2008
-Competition Schedule and Results" )]
 
 ## 2008 Competition Schedule and Results
 
@@ -113,8 +109,6 @@ Buckeye Regional (6-7-0)
 
 The Championship Event; Galileo Division (7-7-0)
 
-[[edit](/index.php?title=503&action=edit&section=6 "Edit section: 2006
-Competition Schedule and Results" )]
 
 ## 2006 Competition Schedule and Results
 
@@ -155,8 +149,6 @@ West Michigan (3-5-0)
 
 Robot Driven by: Joe Belter and AJ Franchi
 
-[[edit](/index.php?title=503&action=edit&section=9 "Edit section: 2003
-Competition Schedule and Results" )]
 
 ## 2003 Competition Schedule and Results
 
@@ -179,8 +171,6 @@ West Michigan
 
 The Championship Event
 
-[[edit](/index.php?title=503&action=edit&section=11 "Edit section: 2001
-Competition Schedule and Results" )]
 
 ## 2001 Competition Schedule and Results
 

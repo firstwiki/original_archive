@@ -83,8 +83,6 @@ assessed.
 
 ## Game Overview
 
-[[edit](/index.php?title=Breakaway&action=edit&section=2 "Edit section: Field"
-)]
 
 ### Field
 
@@ -105,8 +103,6 @@ The game is played with 12 standard size 5 white soccer balls.
 [![Image:Breakaway_field.jpg](/media/0/00/Breakaway_field.jpg)](/index.php/Ima
 ge:Breakaway_field.jpg "Image:Breakaway_field.jpg" )
 
-[[edit](/index.php?title=Breakaway&action=edit&section=3 "Edit section: Game
-Play" )]
 
 ### Game Play
 
@@ -135,8 +131,6 @@ points.
   * Each elevated robot (above the platform) is worth 2 points 
   * Each suspended robot (contact with a elevated robot) is worth 3 points 
 
-[[edit](/index.php?title=Breakaway&action=edit&section=5 "Edit section:
-Competition Schedule" )]
 
 ## Competition Schedule
 
@@ -145,8 +139,6 @@ Competition Schedule" )]
   * Regional Competitions - March 4, 2010 - April 3, 2010 
   * Championships - April 15-17, 2010 
 
-[[edit](/index.php?title=Breakaway&action=edit&section=6 "Edit section:
-Robots" )]
 
 ## Robots
 

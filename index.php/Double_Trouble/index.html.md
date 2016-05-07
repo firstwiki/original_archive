@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Double_Trouble&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -83,24 +81,18 @@ There might have been a multiplier if the puck was on your side of the field?
 
 ## Tournament Structure
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=4 "Edit section:
-Kit Of Parts" )]
 
 ## Kit Of Parts
 
 
 ## Rules
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
 
 ## Robots
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=8 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 

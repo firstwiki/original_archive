@@ -41,16 +41,12 @@ program in 2011.
     * 3.2 External Links  
 ---  
   
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=1 "Edit section:
-Robot Challenge" )]
 
 #  Robot Challenge
 
 This section needs to be filled in with more than statistics. If someone is
 willing to write for this section, please post here.
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=2 "Edit section:
-Current Challenge" )]
 
 ##  Current Challenge
 
@@ -59,32 +55,24 @@ Current Challenge" )]
     * [2011 - "All Your Bases"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
     * [2011 - "The Best Trajectory"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=3 "Edit section:
-Events" )]
 
 #  Events
 
 This section needs to be filled in with more than statistics. If someone is
 willing to write for this section, please post here.
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=4 "Edit section:
-Awards" )]
 
 ##  Awards
 
 This section needs to be filled in with more than statistics. If someone is
 willing to write for this section, please post here.
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=5 "Edit section:
-History" )]
 
 #  History
 
 This section needs to be filled in with more than statistics. If someone is
 willing to write for this section, please post here.
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=6 "Edit section:
-Previous Challenges" )]
 
 ##  Previous Challenges
 

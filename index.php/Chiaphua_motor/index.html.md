@@ -61,8 +61,6 @@ SPECIFICATIONS](http://www2.usfirst.org/2005comp/Specs/CIM.pdf
   * 3 Usage Notes  
 ---  
   
-[[edit](/index.php?title=CIM_motor&action=edit&section=1 "Edit section: Torque
-and Efficiency curves" )]
 
 ## Torque and Efficiency curves
 
@@ -77,8 +75,6 @@ Stall | 343.4 | 0 | 133.0 | 0 | 0%
 
 ##  By year
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=3 "Edit section: 2012"
-)]
 
 ### 2012
 
@@ -97,8 +93,6 @@ tp://usfirst.org/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/201
 //usfirst.org/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_A
 ssets/Kit_of_Parts/2011%20Kit%20of%20Parts%20Checklist%20Rev%20E.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=5 "Edit section: 2010"
-)]
 
 ### 2010
 
@@ -111,8 +105,6 @@ Kit%20Of%20Parts%20Checklist_RevC.pdf" ) Up to five 2.5" CIMs could be used [[
 010_Assets/08_The%20Robot_RevK.pdf "http://www.usfirst.org/uploadedFiles/Commu
 nity/FRC/Game_and_Season__Info/2010_Assets/08_The%20Robot_RevK.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=6 "Edit section: 2009"
-)]
 
 ### 2009
 
@@ -127,8 +119,6 @@ propellers and ducted fans to gain more control on the slippery surface.
 [[6]](http://www.chiefdelphi.com/forums/showthread.php?t=74770
 "http://www.chiefdelphi.com/forums/showthread.php?t=74770" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=7 "Edit section: 2008"
-)]
 
 ###  2008
 
@@ -139,8 +129,6 @@ Two standard motors are included, 3.5" CIM no longer allowed.
 
 Two of the standard 2.5" motors are included, and a larger 3.5" CIM.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=9 "Edit section: 2006"
-)]
 
 ###  2006
 
@@ -153,8 +141,6 @@ Two of the four CIM motors were replaced with the larger "mini-bike" motors.
 
 Four of the motors were included in the KOP.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=11 "Edit section: 2004"
-)]
 
 ###  2004
 

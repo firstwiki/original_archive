@@ -69,8 +69,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1507
   * 2008 - Fourth Season, Number 1 seed at Finger Lakes Regional, Finalist at Greater Toronto Regional 
   * 2009 - Fifth Season, Number 1 seed and Winner at Finger Lakes Regional, Semi Finalist at Philadelphia Regional, Alliance Captains of the Winning Alliance on Newton Field at Championships, Semi-Finalist at Einstein Field at Championships 
 
-[[edit](/index.php?title=1507&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -91,8 +89,6 @@ it every year.
   * 2010- Billy the Kid 
   * 2011- Billiam the Conqueror 
 
-[[edit](/index.php?title=1507&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -135,8 +131,6 @@ Accomplishments" )]
 (This list is far from complete. We wish to thank all our sponsors, large and
 small, for their support.)
 
-[[edit](/index.php?title=1507&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

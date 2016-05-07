@@ -29,8 +29,6 @@ Profile](http://www.chiefdelphi.com/forums/member.php?u=6146
 
 _Ok, so it's not really a resume. So what?!?_
 
-[[edit](/index.php?title=User:Texan&action=edit&section=3 "Edit section:
-Programming" )]
 
 ## Programming
 

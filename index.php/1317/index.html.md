@@ -117,8 +117,6 @@ _Listed in order of contribution size (categories independent, of course)_
     * Skyline Chili 
     * East of Chicago Pizza 
 
-[[edit](/index.php?title=1317&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

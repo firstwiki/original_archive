@@ -69,8 +69,6 @@ academic sponsor from the local community. The goal is to inspire students
 through the building of a robot that participates in the local and national
 competitions established and run by the FIRST organization.
 
-[[edit](/index.php?title=69&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -87,8 +85,6 @@ projects" )]
   * [2007 - HYPERdrive](/index.php?title=HYPERdrive_VII_%2869%29&action=edit "HYPERdrive VII \(69\)" )
   * [2008 - HYPERdrive](/index.php?title=HYPERdrive_VIII_%2869%29&action=edit "HYPERdrive VIII \(69\)" )
 
-[[edit](/index.php?title=69&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -167,8 +163,6 @@ Accomplishments" )]
 
   * Arthur Barrett 
 
-[[edit](/index.php?title=69&action=edit&section=9 "Edit section: Class of
-2008" )]
 
 ##### Class of 2008
 
@@ -181,8 +175,6 @@ Accomplishments" )]
   * James Keith 
   * Tim Schow 
 
-[[edit](/index.php?title=69&action=edit&section=10 "Edit section: Class of
-2007" )]
 
 ##### Class of 2007
 
@@ -223,8 +215,6 @@ Accomplishments" )]
   * Nicole Johnson 
   * Brain Papile 
 
-[[edit](/index.php?title=69&action=edit&section=15 "Edit section: Class of
-2002" )]
 
 ##### Class of 2002
 
@@ -247,8 +237,6 @@ Accomplishments" )]
 
   * Chris Johnson 
 
-[[edit](/index.php?title=69&action=edit&section=17 "Edit section: Class of
-2000" )]
 
 ##### Class of 2000
 
@@ -287,8 +275,6 @@ Accomplishments" )]
   * Brian Rua (Machinist) 
   * Rich LaFratta (Machinist) 
 
-[[edit](/index.php?title=69&action=edit&section=21 "Edit section: Quincy
-Public Schools" )]
 
 #### Quincy Public Schools
 
@@ -303,16 +289,12 @@ Public Schools" )]
   * Eddy "Coach" Smith (Teacher) 
   * Jerry "Mr. Q." Quintiliani (Teacher) 
 
-[[edit](/index.php?title=69&action=edit&section=22 "Edit section: Other
-Volunteers" )]
 
 #### Other Volunteers
 
   * Marc Griffin (Engineer) 
   * Michelle Maguire 
 
-[[edit](/index.php?title=69&action=edit&section=23 "Edit section: Facebook
-Group" )]
 
 ## Facebook Group
 

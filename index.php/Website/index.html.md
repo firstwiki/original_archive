@@ -19,8 +19,6 @@ different parts of the sites. As of March 2007 there are over 8 billion web
 pages in total on the World Wide Web. - Source
 <http://www.google.co.uk/intl/en/help/features.html>
 
-[[edit](/index.php?title=Website&action=edit&section=1 "Edit section: Websites
-in FIRST" )]
 
 ## Websites in FIRST
 
@@ -31,8 +29,6 @@ There are various practices for maintaining team websites. Some are maintained
 by adult or professional webmasters, and some are student-designed and
 maintained.
 
-[[edit](/index.php?title=Website&action=edit&section=2 "Edit section: See
-Also" )]
 
 ##  See Also
 

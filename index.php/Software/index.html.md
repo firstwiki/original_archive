@@ -15,16 +15,12 @@ charge.
   * 4 Web Design  
 ---  
   
-[[edit](/index.php?title=Software&action=edit&section=1 "Edit section:
-Programming" )]
 
 ## Programming
 
   * [MPLAB](/index.php/MPLAB "MPLAB" )
   * [MCC18](/index.php/MCC18 "MCC18" )
 
-[[edit](/index.php?title=Software&action=edit&section=2 "Edit section:
-Animation" )]
 
 ## Animation
 

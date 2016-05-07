@@ -41,8 +41,6 @@ I also have a Bachelor of Science in Computer Science from [Cornell
 University](http://www.cornell.edu "http://www.cornell.edu" ), earned in May
 2000.
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=3 "Edit section: Non-
-FIRST Hobbies" )]
 
 ## Non-FIRST Hobbies
 
@@ -59,8 +57,6 @@ I also play trombone in the [Interboro Band](http://www.interboroband.org
 
 ## FIRST and FLL Competitions I've Attended
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=5 "Edit section: 2002
-\(Zone Zeal\)" )]
 
 ### 2002 ([Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" ))
 
@@ -69,8 +65,6 @@ I also play trombone in the [Interboro Band](http://www.interboroband.org
   * [UTC New Haven Regional](/index.php/UTC_Regional "UTC Regional" ) (now called the UTC New England Regional and located in Hartford) 
   * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) (Epcot Center) 
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=6 "Edit section: 2003
-\(Stack Attack\)" )]
 
 ### 2003 ([Stack Attack](/index.php/Stack_Attack "Stack Attack" ))
 
@@ -79,8 +73,6 @@ I also play trombone in the [Interboro Band](http://www.interboroband.org
   * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" )
   * Southern New Hampshire FLL Regional (volunteer, Technical Judging) 
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=7 "Edit section: 2004
-\(FIRST Frenzy: Raising the Bar\)" )]
 
 ### 2004 ([FIRST Frenzy: Raising the
 Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
@@ -103,8 +95,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * [Mayhem in Merrimack](/index.php/Mayhem_in_Merrimack "Mayhem in Merrimack" ) (volunteer, Field Reset) 
   * [Robonautica](/index.php?title=Robonautica&action=edit "Robonautica" ) 5 (volunteer, Technical Judging) 
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=9 "Edit section: 2006
-\(Aim High\)" )]
 
 ### 2006 ([Aim High](/index.php/Aim_High "Aim High" ))
 
@@ -113,8 +103,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" )
   * [Boston Regional](/index.php/Boston_Regional "Boston Regional" )
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=10 "Edit section: My
-FIRST History" )]
 
 ## My FIRST History
 

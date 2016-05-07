@@ -21,8 +21,6 @@ Jump to: navigation, search
   * 4 nfl9  
 ---  
   
-[[edit](/index.php?title=User:Wang506018&action=edit&section=1 "Edit section:
-NFL2" )]
 
 ##  NFL2
 
@@ -105,8 +103,6 @@ Sham"Lady Gaga beat Oprah this year because of her social media power
   * [NFL9](http://suofannet.sourceforge.net/thread-13224-1-1.html "http://suofannet.sourceforge.net/thread-13224-1-1.html" )
   * [NFL0](http://www.beautifulplussizes.info/my_articles/ "http://www.beautifulplussizes.info/my_articles/" )
 
-[[edit](/index.php?title=User:Wang506018&action=edit&section=2 "Edit section:
-NFL9" )]
 
 ##  NFL9
 
@@ -155,8 +151,6 @@ theory*political parties*political systemsnet/static/css/goarticles550x250
   * [NFL4](http://pulmogenomics.org/index.php/User:Wang496647#NFL4 "http://pulmogenomics.org/index.php/User:Wang496647#NFL4" )
   * [NFL6](http://wiki.ngopulse.net/index.php/User:Wang500588#NFL6 "http://wiki.ngopulse.net/index.php/User:Wang500588#NFL6" )
 
-[[edit](/index.php?title=User:Wang506018&action=edit&section=3 "Edit section:
-NFL5" )]
 
 ##  NFL5
 
@@ -203,8 +197,6 @@ Russian, she will be good to you also
   * [NFL8](http://wiki.marway.org/index.php/User:Wang510251#NFL8 "http://wiki.marway.org/index.php/User:Wang510251#NFL8" )
   * [NFL0](http://dwxyzh.com/forum.php?mod=viewthread&tid=559232&extra= "http://dwxyzh.com/forum.php?mod=viewthread&tid=559232&extra=" )
 
-[[edit](/index.php?title=User:Wang506018&action=edit&section=4 "Edit section:
-nfl9" )]
 
 ##  nfl9
 

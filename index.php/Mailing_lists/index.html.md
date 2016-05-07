@@ -19,8 +19,6 @@ There are several mailing lists related to [FIRST](/index.php/FIRST "FIRST" ).
 
 ## Groups
 
-[[edit](/index.php?title=Mailing_lists&action=edit&section=2 "Edit section:
-Google Groups 2 Beta" )]
 
 ### Google Groups 2 Beta
 
@@ -67,8 +65,6 @@ Google Groups 2 Beta" )]
   * [Robotics Team 45](http://groups.yahoo.com/group/technokats/ "http://groups.yahoo.com/group/technokats/" )
   * [Robo Chicks Union](http://groups.yahoo.com/group/FIRSTRCU/ "http://groups.yahoo.com/group/FIRSTRCU/" )
 
-[[edit](/index.php?title=Mailing_lists&action=edit&section=4 "Edit section:
-Categories" )]
 
 ## Categories
 

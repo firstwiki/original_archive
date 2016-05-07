@@ -47,8 +47,6 @@ Team Website: |
 
   * [Rex](/index.php/Rex_%28145%29 "Rex \(145\)" )
 
-[[edit](/index.php?title=145&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -63,8 +61,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=145&action=edit&section=6 "Edit section: 2006-2007
-Team" )]
 
 ##  2006-2007 Team
 

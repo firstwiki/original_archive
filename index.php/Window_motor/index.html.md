@@ -49,24 +49,18 @@ Free speed (rpm): | 85
   * 4 Usage notes  
 ---  
   
-[[edit](/index.php?title=Window_motor&action=edit&section=1 "Edit section:
-Included gearbox" )]
 
 ## Included gearbox
 
 The window motor's has a worm gear gearbox that is not backdrive-able.
 However, inside the gearbox is a plastic gear which has been known to strip.
 
-[[edit](/index.php?title=Window_motor&action=edit&section=2 "Edit section:
-Torque curve" )]
 
 ## Torque curve
 
 
 ## Efficiency curve
 
-[[edit](/index.php?title=Window_motor&action=edit&section=4 "Edit section:
-Usage notes" )]
 
 ## Usage notes
 

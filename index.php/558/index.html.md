@@ -115,8 +115,6 @@ finalist.
   * Wal*mart 
   * Brandford Bobbies 
 
-[[edit](/index.php?title=558&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

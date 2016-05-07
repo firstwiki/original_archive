@@ -41,8 +41,6 @@ actuators](/index.php/Rotary_actuator "Rotary actuator" ).
   * [Pressure regulators](/index.php/Pressure_regulator "Pressure regulator" )
   * [Pressure switch](/index.php/Pressure_switch "Pressure switch" )
 
-[[edit](/index.php?title=Pneumatics&action=edit&section=2 "Edit section:
-Advantages" )]
 
 ## Advantages
 

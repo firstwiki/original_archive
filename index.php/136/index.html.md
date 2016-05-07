@@ -53,8 +53,6 @@ leaders, that motivate them to go farther than the goal in front or them.
 
   * History Example 
 
-[[edit](/index.php?title=136&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -65,8 +63,6 @@ projects" )]
 
   * [2004 - Ekirt](/index.php?title=136_in_2004&action=edit "136 in 2004" )
 
-[[edit](/index.php?title=136&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -77,8 +73,6 @@ Accomplishments" )]
 
   * Nat'l Starch&amp;Plfld HS 
 
-[[edit](/index.php?title=136&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

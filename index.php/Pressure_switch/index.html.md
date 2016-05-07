@@ -31,8 +31,6 @@ A pressure switch.
     * 4.3 MPLAB  
 ---  
   
-[[edit](/index.php?title=Pressure_switch&action=edit&section=1 "Edit section:
-Data" )]
 
 ## Data
 
@@ -41,8 +39,6 @@ pressure is greater than 95psi after hitting a peak of 115psi. The terminals
 are disconnected when the pressure is less than 115psi after dropping below
 95psi.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=2 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -51,16 +47,12 @@ Connections" )]
 
 Connects to the system via a 1/8" NPT thread on the bottom.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=4 "Edit section:
-Signal" )]
 
 ### Signal
 
 Two terminals on the top that are connected to a digital input on the robot
 controller, connecting on the black and white wires.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=5 "Edit section:
-Current Product Info" )]
 
 ## Current Product Info
 
@@ -75,16 +67,12 @@ Supplied by [[The Nason Company](http://www.nasonptc.com
 
 SM-2B-115R
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=8 "Edit section:
-Programming" )]
 
 ## Programming
 
 The Robot Controller needs to check the pressure switch and react accordingly
 by applying power to the compressor when needed.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=9 "Edit section:
-Default Code" )]
 
 ### Default Code
 

@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Keatonic&action=edit&section=1 "Edit section:
-Keaton Mantz" )]
 
 ## Keaton Mantz
 

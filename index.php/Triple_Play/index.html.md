@@ -41,8 +41,6 @@ Index of FRC Games
   
 **Triple Play** was the 2005 [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) [game](/index.php/Game "Game" ). 
 
-[[edit](/index.php?title=Triple_Play&action=edit&section=1 "Edit section:
-Description" )]
 
 ## Description
 

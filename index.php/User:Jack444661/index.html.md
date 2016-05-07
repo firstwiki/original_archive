@@ -655,8 +655,6 @@ Jump to: navigation, search
   * 638 Li, Miao ethnic groups celebrate Qixi Festival  
 ---  
   
-[[edit](/index.php?title=User:Jack444661&action=edit&section=1 "Edit section:
-New global greenhouse gas measuring standards unveiled in Ch" )]
 
 ##  New global greenhouse gas measuring standards unveiled in Ch
 
@@ -775,8 +773,6 @@ meetings among greater depth.
   * <http://www.kansasfreepress.com/2012/07/health-care-fiscal-responsibility.html#comments>
   * &lt;a href="<http://www.adviceaboutanything.com/forum/index.php?topic=362900.msg448024#msg448024>" target="_blank"&gt;<http://www.adviceaboutanything.com/forum/index.php?topic=362900.msg448024#msg448024>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=3 "Edit section:
-Oppositions divided on Friends of Syria meeting - Xinhua  En" )]
 
 ##  Oppositions divided on Friends of Syria meeting - Xinhua En
 
@@ -993,8 +989,6 @@ Chinese trademark verdict.
   * &lt;a href="[http://bbs.biansao.com/forum.php?mod=viewthread&amp;tid=248345](http://bbs.biansao.com/forum.php?mod=viewthread&tid=248345 "http://bbs.biansao.com/forum.php?mod=viewthread&tid=248345" )" target="_blank"&gt;[http://bbs.biansao.com/forum.php?mod=viewthread&amp;tid=248345](http://bbs.biansao.com/forum.php?mod=viewthread&tid=248345 "http://bbs.biansao.com/forum.php?mod=viewthread&tid=248345" )&lt;/a&gt;
   * &lt;a href="<http://www.rzcar.net/plus/view.php?aid=20945>" target="_blank"&gt;<http://www.rzcar.net/plus/view.php?aid=20945>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=7 "Edit section:
-NASA exploring ways to clean up space debris - Xinhua  Engli" )]
 
 ##  NASA exploring ways to clean up space debris - Xinhua Engli
 
@@ -1115,8 +1109,6 @@ Related articles：
   * <http://www.workreduction.com/wiki/index.php/User:Jack351382#Obama_pledges_continued_support_for_Libya_-_Xinhua__English.>
   * &lt;a href="[http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&amp;extra=](http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&extra= "http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&extra=" )" target="_blank"&gt;[http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&amp;extra=](http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&extra= "http://blog.xingxiangzg.com/bbs/viewthread.php?tid=635962&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=8 "Edit section:
-Obama holds press conference on economy, Libya, Afghanistan" )]
 
 ##  Obama holds press conference on economy, Libya, Afghanistan
 
@@ -1359,8 +1351,6 @@ Related articles：
   * <http://adarticles.net/my_articles/>
   * <http://soph.jp/MT/archives/2010/11/27154138.php#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=11 "Edit section:
-پوچتا نومەرى:100859" )]
 
 ##  پوچتا نومەرى:100859
 
@@ -1633,8 +1623,6 @@ deficit into a 120-103 win over Cleveland Cavaliers aboard Wednesday.
   * <http://cliquenote.org/index.php/members/home>
   * <http://www.creditease.cn/bbs/forum-26-1.html>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=16 "Edit section:
-Major UN powers discuss new Syria resolution as Chinese envo" )]
 
 ##  Major UN powers discuss new Syria resolution as Chinese envo
 
@@ -1791,8 +1779,6 @@ Related articles：
   * &lt;a href="[http://www.qingbei.com.cn/forum.php?mod=viewthread&amp;tid=189940&amp;extra=](http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=189940&extra= "http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=189940&extra=" )" target="_blank"&gt;[http://www.qingbei.com.cn/forum.php?mod=viewthread&amp;tid=189940&amp;extra=](http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=189940&extra= "http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=189940&extra=" )&lt;/a&gt;
   * &lt;a href="<http://www.b-b-u.com/blogs_full.php?id=153252>" target="_blank"&gt;<http://www.b-b-u.com/blogs_full.php?id=153252>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=18 "Edit section:
-Most Beijing residents think consumer prices too high" )]
 
 ##  Most Beijing residents think consumer prices too high
 
@@ -1883,8 +1869,6 @@ liquidity plus cautious macro economy policies.
   * &lt;a href="[http://www.printerking.hk/forum.php?mod=viewthread&amp;tid=59734](http://www.printerking.hk/forum.php?mod=viewthread&tid=59734 "http://www.printerking.hk/forum.php?mod=viewthread&tid=59734" )" target="_blank"&gt;[http://www.printerking.hk/forum.php?mod=viewthread&amp;tid=59734](http://www.printerking.hk/forum.php?mod=viewthread&tid=59734 "http://www.printerking.hk/forum.php?mod=viewthread&tid=59734" )&lt;/a&gt;
   * <http://www.heyunfeng.com/haohanwang/admin/login.asp>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=20 "Edit section:
-Murray eases into US Open fourth round" )]
 
 ##  Murray eases into US Open fourth round
 
@@ -1947,8 +1931,6 @@ these guys would be world-beaters. Related articles：
   * <http://blogs.princeton.edu/pia/personal/thoffecker/2010/08/on-rain.html#comments>
   * &lt;a href="[http://www.rplive.us/bbs/forum.php?mod=viewthread&amp;tid=5118](http://www.rplive.us/bbs/forum.php?mod=viewthread&tid=5118 "http://www.rplive.us/bbs/forum.php?mod=viewthread&tid=5118" )" target="_blank"&gt;[http://www.rplive.us/bbs/forum.php?mod=viewthread&amp;tid=5118](http://www.rplive.us/bbs/forum.php?mod=viewthread&tid=5118 "http://www.rplive.us/bbs/forum.php?mod=viewthread&tid=5118" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=21 "Edit section:
-Microsoft, AOL, Yahoo ally on ads" )]
 
 ##  Microsoft, AOL, Yahoo ally on ads
 
@@ -2287,8 +2269,6 @@ articles：
   * &lt;a href="[http://www.love-lena.com/bbs/viewthread.php?tid=2854034&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=2854034&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=2854034&extra=" )" target="_blank"&gt;[http://www.love-lena.com/bbs/viewthread.php?tid=2854034&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=2854034&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=2854034&extra=" )&lt;/a&gt;
   * <http://www.315tosu.net/thread-130153-1-1.html>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=27 "Edit section:
-NBA全明星在安利中心上演" )]
 
 ##  NBA全明星在安利中心上演
 
@@ -2329,8 +2309,6 @@ Related articles：
   * &lt;a href="<http://en.healiki.org/index.php?title=User:Jackchen516#Malaysian_Muslims_protest_against_alleged_Quran_burning_-_Xi>" target="_blank"&gt;<http://en.healiki.org/index.php?title=User:Jackchen516#Malaysian_Muslims_protest_against_alleged_Quran_burning_-_Xi>&lt;/a&gt;
   * &lt;a href="[http://dwxyzh.com/forum.php?mod=viewthread&amp;tid=821038&amp;extra=](http://dwxyzh.com/forum.php?mod=viewthread&tid=821038&extra= "http://dwxyzh.com/forum.php?mod=viewthread&tid=821038&extra=" )" target="_blank"&gt;[http://dwxyzh.com/forum.php?mod=viewthread&amp;tid=821038&amp;extra=](http://dwxyzh.com/forum.php?mod=viewthread&tid=821038&extra= "http://dwxyzh.com/forum.php?mod=viewthread&tid=821038&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=28 "Edit section:
-Largest Picasso exhibition in Chinese mainland opens to publ" )]
 
 ##  Largest Picasso exhibition in Chinese mainland opens to publ
 
@@ -2439,8 +2417,6 @@ accelerating urbanization and 1 aging population. Related articles：
   * &lt;a href="[http://bbs.gzsc.net/forum.php?mod=viewthread&amp;tid=32884](http://bbs.gzsc.net/forum.php?mod=viewthread&tid=32884 "http://bbs.gzsc.net/forum.php?mod=viewthread&tid=32884" )" target="_blank"&gt;[http://bbs.gzsc.net/forum.php?mod=viewthread&amp;tid=32884](http://bbs.gzsc.net/forum.php?mod=viewthread&tid=32884 "http://bbs.gzsc.net/forum.php?mod=viewthread&tid=32884" )&lt;/a&gt;
   * <http://www.kamadatakuma.com/weblog/archives/2006/09/rd-6.html#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=30 "Edit section:
-NASA loses command codes to control space station - Xinhua" )]
 
 ##  NASA loses command codes to control space station - Xinhua
 
@@ -2579,8 +2555,6 @@ international interference.? Related articles：
   * &lt;a href="[http://www.ituantuan.cn/bbs/home.php?mod=space&amp;uid=14142&amp;do=blog&amp;quickforward=1&amp;id=291894](http://www.ituantuan.cn/bbs/home.php?mod=space&uid=14142&do=blog&quickforward=1&id=291894 "http://www.ituantuan.cn/bbs/home.php?mod=space&uid=14142&do=blog&quickforward=1&id=291894" )" target="_blank"&gt;[http://www.ituantuan.cn/bbs/home.php?mod=space&amp;uid=14142&amp;do=blog&amp;quickforward=1&amp;id=291894](http://www.ituantuan.cn/bbs/home.php?mod=space&uid=14142&do=blog&quickforward=1&id=291894 "http://www.ituantuan.cn/bbs/home.php?mod=space&uid=14142&do=blog&quickforward=1&id=291894" )&lt;/a&gt;
   * &lt;a href="[http://bbs.seaaa.com/home.php?mod=space&amp;uid=10745&amp;do=blog&amp;quickforward=1&amp;id=549973](http://bbs.seaaa.com/home.php?mod=space&uid=10745&do=blog&quickforward=1&id=549973 "http://bbs.seaaa.com/home.php?mod=space&uid=10745&do=blog&quickforward=1&id=549973" )" target="_blank"&gt;[http://bbs.seaaa.com/home.php?mod=space&amp;uid=10745&amp;do=blog&amp;quickforward=1&amp;id=549973](http://bbs.seaaa.com/home.php?mod=space&uid=10745&do=blog&quickforward=1&id=549973 "http://bbs.seaaa.com/home.php?mod=space&uid=10745&do=blog&quickforward=1&id=549973" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=32 "Edit section:
-Nepals Newar ethnic community mark indigenous era" )]
 
 ##  Nepals Newar ethnic community mark indigenous era
 
@@ -2865,8 +2839,6 @@ also be screened. Related articles：
   * <http://www.315tosu.net/thread-133981-1-1.html>
   * &lt;a href="[http://www.seosha.com/bbs/viewthread.php?tid=1894112&amp;extra=](http://www.seosha.com/bbs/viewthread.php?tid=1894112&extra= "http://www.seosha.com/bbs/viewthread.php?tid=1894112&extra=" )" target="_blank"&gt;[http://www.seosha.com/bbs/viewthread.php?tid=1894112&amp;extra=](http://www.seosha.com/bbs/viewthread.php?tid=1894112&extra= "http://www.seosha.com/bbs/viewthread.php?tid=1894112&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=38 "Edit section:
-Obama to add $50 million dollars for AIDS fightXINHUANET" )]
 
 ##  Obama to add $50 million dollars for AIDS fightXINHUANET
 
@@ -2933,8 +2905,6 @@ right-wing and anti-Muslim outlooks aboard the Internet.
   * <http://hepaticcancer.org/index.php/User:Jack009861#Nordic_skiing_Tour_de_ski_womens_results_-_Xinhua__English.n>
   * &lt;a href="[http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&amp;tid=40607](http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&tid=40607 "http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&tid=40607" )" target="_blank"&gt;[http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&amp;tid=40607](http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&tid=40607 "http://gztxwl.gotoip2.com/upload/forum.php?mod=viewthread&tid=40607" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=40 "Edit section:
-Lion dances performed in Cambodia to celebrate Chinese New Y" )]
 
 ##  Lion dances performed in Cambodia to celebrate Chinese New Y
 
@@ -2991,8 +2961,6 @@ are some 700,000 Chinese descendants alive within Cambodia. Related articles：
   * <http://gsmokingforum.intimex.hk/showtopic-423341.aspx>
   * &lt;a href="[http://www.savehunyin.com/forum.php?mod=viewthread&amp;tid=90269](http://www.savehunyin.com/forum.php?mod=viewthread&tid=90269 "http://www.savehunyin.com/forum.php?mod=viewthread&tid=90269" )" target="_blank"&gt;[http://www.savehunyin.com/forum.php?mod=viewthread&amp;tid=90269](http://www.savehunyin.com/forum.php?mod=viewthread&tid=90269 "http://www.savehunyin.com/forum.php?mod=viewthread&tid=90269" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=41 "Edit section:
-News Analysis Palestinian factions step forward towards reco" )]
 
 ##  News Analysis Palestinian factions step forward towards reco
 
@@ -3081,8 +3049,6 @@ of waiting." Related articles：
   * &lt;a href="<http://www.fulucc.com/plus/view.php?aid=243880>" target="_blank"&gt;<http://www.fulucc.com/plus/view.php?aid=243880>&lt;/a&gt;
   * &lt;a href="[http://bbs.htwcy.com/forum.php?mod=viewthread&amp;tid=4869](http://bbs.htwcy.com/forum.php?mod=viewthread&tid=4869 "http://bbs.htwcy.com/forum.php?mod=viewthread&tid=4869" )" target="_blank"&gt;[http://bbs.htwcy.com/forum.php?mod=viewthread&amp;tid=4869](http://bbs.htwcy.com/forum.php?mod=viewthread&tid=4869 "http://bbs.htwcy.com/forum.php?mod=viewthread&tid=4869" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=42 "Edit section:
-News Analysis Service trade cooperation between Chinas mainl" )]
 
 ##  News Analysis Service trade cooperation between Chinas mainl
 
@@ -3171,8 +3137,6 @@ the nation's mutation Zhou commented. Related articles：
   * &lt;a href="<http://www.bjtrtbj.com/plus/view.php?aid=46412>" target="_blank"&gt;<http://www.bjtrtbj.com/plus/view.php?aid=46412>&lt;/a&gt;
   * &lt;a href="[http://bbs.lmdk.cn/home.php?mod=space&amp;uid=12254&amp;do=blog&amp;quickforward=1&amp;id=100749](http://bbs.lmdk.cn/home.php?mod=space&uid=12254&do=blog&quickforward=1&id=100749 "http://bbs.lmdk.cn/home.php?mod=space&uid=12254&do=blog&quickforward=1&id=100749" )" target="_blank"&gt;[http://bbs.lmdk.cn/home.php?mod=space&amp;uid=12254&amp;do=blog&amp;quickforward=1&amp;id=100749](http://bbs.lmdk.cn/home.php?mod=space&uid=12254&do=blog&quickforward=1&id=100749 "http://bbs.lmdk.cn/home.php?mod=space&uid=12254&do=blog&quickforward=1&id=100749" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=43 "Edit section:
-News Analysis S&Ps downgrade to have limited impact on globa" )]
 
 ##  News Analysis S&amp;Ps downgrade to have limited impact on globa
 
@@ -3345,8 +3309,6 @@ their operations. Related articles：
   * &lt;a href="[http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&amp;topic=31856](http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&topic=31856 "http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&topic=31856" )" target="_blank"&gt;[http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&amp;topic=31856](http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&topic=31856 "http://www.cems.bj.cn/cgi-bin/topic.cgi?forum=2&topic=31856" )&lt;/a&gt;
   * &lt;a href="[http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&amp;extra=page%3D1&amp;frombbs=1](http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&extra=page%3D1&frombbs=1 "http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&extra=page%3D1&frombbs=1" )" target="_blank"&gt;[http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&amp;extra=page%3D1&amp;frombbs=1](http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&extra=page%3D1&frombbs=1 "http://www.o-talk.com/HOME/HK/viewthread.php?tid=407154&extra=page%3D1&frombbs=1" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=44 "Edit section:
-More Chinese students have poor eyesight, suffer from obesit" )]
 
 ##  More Chinese students have poor eyesight, suffer from obesit
 
@@ -3393,8 +3355,6 @@ was on the decline. Related articles：
   * <http://www.yotsuba-dream.com/youtuba/2009/08/1001.html#comments>
   * &lt;a href="<http://iipalibrary.in/mediawiki/index.php?title=User:Jackchen416#King_opens_parliament_sitting_in_Kuala_Lumpur.2C_Malaysia_-_Xi>" target="_blank"&gt;<http://iipalibrary.in/mediawiki/index.php?title=User:Jackchen416#King_opens_parliament_sitting_in_Kuala_Lumpur.2C_Malaysia_-_Xi>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=45 "Edit section:
-Myanmar boosts development of traditional medicine - Xinhua" )]
 
 ##  Myanmar boosts development of traditional medicine - Xinhua
 
@@ -3503,8 +3463,6 @@ articles：
   * &lt;a href="[http://forum.3g.com.hk/viewthread.php?tid=1296224&amp;extra=](http://forum.3g.com.hk/viewthread.php?tid=1296224&extra= "http://forum.3g.com.hk/viewthread.php?tid=1296224&extra=" )" target="_blank"&gt;[http://forum.3g.com.hk/viewthread.php?tid=1296224&amp;extra=](http://forum.3g.com.hk/viewthread.php?tid=1296224&extra= "http://forum.3g.com.hk/viewthread.php?tid=1296224&extra=" )&lt;/a&gt;
   * &lt;a href="<http://www.vdalian.com/cms/plus/view.php?aid=23228>" target="_blank"&gt;<http://www.vdalian.com/cms/plus/view.php?aid=23228>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=46 "Edit section:
-Myanmar president calls for promoting essence of traditional" )]
 
 ##  Myanmar president calls for promoting essence of traditional
 
@@ -3695,8 +3653,6 @@ national side 20 annuals antecedent. Related articles：
   * <http://occupyburlington.org/mediawiki/index.php/User:Jackchen237#Kenya_launches_data_centers_to_improve_disease_surveillance>
   * &lt;a href="[http://www.wwzh.info/forum/viewthread.php?tid=3803504&amp;extra=](http://www.wwzh.info/forum/viewthread.php?tid=3803504&extra= "http://www.wwzh.info/forum/viewthread.php?tid=3803504&extra=" )" target="_blank"&gt;[http://www.wwzh.info/forum/viewthread.php?tid=3803504&amp;extra=](http://www.wwzh.info/forum/viewthread.php?tid=3803504&extra= "http://www.wwzh.info/forum/viewthread.php?tid=3803504&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=50 "Edit section:
-Major blast rocks Norway PMs office" )]
 
 ##  Major blast rocks Norway PMs office
 
@@ -3953,8 +3909,6 @@ articles：
   * &lt;a href="[http://www.itaooke.com/bbs/home.php?mod=space&amp;uid=2636&amp;do=blog&amp;quickforward=1&amp;id=29738](http://www.itaooke.com/bbs/home.php?mod=space&uid=2636&do=blog&quickforward=1&id=29738 "http://www.itaooke.com/bbs/home.php?mod=space&uid=2636&do=blog&quickforward=1&id=29738" )" target="_blank"&gt;[http://www.itaooke.com/bbs/home.php?mod=space&amp;uid=2636&amp;do=blog&amp;quickforward=1&amp;id=29738](http://www.itaooke.com/bbs/home.php?mod=space&uid=2636&do=blog&quickforward=1&id=29738 "http://www.itaooke.com/bbs/home.php?mod=space&uid=2636&do=blog&quickforward=1&id=29738" )&lt;/a&gt;
   * &lt;a href="[http://422488com.1531555.com/viewthread.php?tid=145916&amp;extra=](http://422488com.1531555.com/viewthread.php?tid=145916&extra= "http://422488com.1531555.com/viewthread.php?tid=145916&extra=" )" target="_blank"&gt;[http://422488com.1531555.com/viewthread.php?tid=145916&amp;extra=](http://422488com.1531555.com/viewthread.php?tid=145916&extra= "http://422488com.1531555.com/viewthread.php?tid=145916&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=56 "Edit section:
-Obama welcomes new bailout plan for Greece - Xinhua  English" )]
 
 ##  Obama welcomes new bailout plan for Greece - Xinhua English
 
@@ -4141,8 +4095,6 @@ daytime. Related articles：
   * <http://www.hnfch.cn/showtopic-90444.aspx>
   * &lt;a href="[http://forum.roboforex.tw/forum.php?mod=viewthread&amp;tid=357061](http://forum.roboforex.tw/forum.php?mod=viewthread&tid=357061 "http://forum.roboforex.tw/forum.php?mod=viewthread&tid=357061" )" target="_blank"&gt;[http://forum.roboforex.tw/forum.php?mod=viewthread&amp;tid=357061](http://forum.roboforex.tw/forum.php?mod=viewthread&tid=357061 "http://forum.roboforex.tw/forum.php?mod=viewthread&tid=357061" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=59 "Edit section:
-MSF provides medical supplies for Malian refugees in Maurita" )]
 
 ##  MSF provides medical supplies for Malian refugees in Maurita
 
@@ -4191,8 +4143,6 @@ Malian refugees alive in precarious conditions. Related articles：
   * &lt;a href="<http://61.133.200.47/forumdisplay.php?fid=84>" target="_blank"&gt;<http://61.133.200.47/forumdisplay.php?fid=84>&lt;/a&gt;
   * &lt;a href="[http://theneswhk.com/forum.php?mod=viewthread&amp;tid=50392](http://theneswhk.com/forum.php?mod=viewthread&tid=50392 "http://theneswhk.com/forum.php?mod=viewthread&tid=50392" )" target="_blank"&gt;[http://theneswhk.com/forum.php?mod=viewthread&amp;tid=50392](http://theneswhk.com/forum.php?mod=viewthread&tid=50392 "http://theneswhk.com/forum.php?mod=viewthread&tid=50392" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=60 "Edit section:
-New Bulgarian president prioritizes economic development - X" )]
 
 ##  New Bulgarian president prioritizes economic development - X
 
@@ -4381,8 +4331,6 @@ sustained minor injuries." Related articles：
   * &lt;a href="[http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&amp;tid=51282](http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=51282 "http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=51282" )" target="_blank"&gt;[http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&amp;tid=51282](http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=51282 "http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=51282" )&lt;/a&gt;
   * <http://www.joycook.jp/blog/2012/06/post-326.html#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=63 "Edit section:
-No more chicken without sex life at Beijing restaurants - Xi" )]
 
 ##  No more chicken without sex life at Beijing restaurants - Xi
 
@@ -4477,8 +4425,6 @@ Time. Related articles：
   * <http://voidnow.org/archives/2012/04/democracy-sucks.php#comments>
   * &lt;a href="[http://www.gudaye.com/bbs/viewthread.php?tid=350447&amp;extra=](http://www.gudaye.com/bbs/viewthread.php?tid=350447&extra= "http://www.gudaye.com/bbs/viewthread.php?tid=350447&extra=" )" target="_blank"&gt;[http://www.gudaye.com/bbs/viewthread.php?tid=350447&amp;extra=](http://www.gudaye.com/bbs/viewthread.php?tid=350447&extra= "http://www.gudaye.com/bbs/viewthread.php?tid=350447&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=64 "Edit section:
-New Israeli airstrike kills 2 in Gaza, death toll rises to 2" )]
 
 ##  New Israeli airstrike kills 2 in Gaza, death toll rises to 2
 
@@ -4575,8 +4521,6 @@ tonight."
   * &lt;a href="[http://bbs.fukang.net.cn/home.php?mod=space&amp;uid=7542&amp;do=blog&amp;quickforward=1&amp;id=45988](http://bbs.fukang.net.cn/home.php?mod=space&uid=7542&do=blog&quickforward=1&id=45988 "http://bbs.fukang.net.cn/home.php?mod=space&uid=7542&do=blog&quickforward=1&id=45988" )" target="_blank"&gt;[http://bbs.fukang.net.cn/home.php?mod=space&amp;uid=7542&amp;do=blog&amp;quickforward=1&amp;id=45988](http://bbs.fukang.net.cn/home.php?mod=space&uid=7542&do=blog&quickforward=1&id=45988 "http://bbs.fukang.net.cn/home.php?mod=space&uid=7542&do=blog&quickforward=1&id=45988" )&lt;/a&gt;
   * <http://www.de-bbs.com/bbs/forum-2-1.html>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=66 "Edit section:
-Meaning of Zhu Mins appointment at IMF" )]
 
 ##  Meaning of Zhu Mins appointment at IMF
 
@@ -4753,8 +4697,6 @@ shooting activities from Dec. 1. (Xinhua/Li Mingfang) Related articles：
   * &lt;a href="<http://www.foreverbiotech.com/plus/view.php?aid=291034>" target="_blank"&gt;<http://www.foreverbiotech.com/plus/view.php?aid=291034>&lt;/a&gt;
   * <http://www.cando4115.com/daplog/2011/11/honnjituno.html#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=71 "Edit section:
-Jet-lagged Jankovic out of Indian Wells - Xinhua  English.ne" )]
 
 ##  Jet-lagged Jankovic out of Indian Wells - Xinhua English.ne
 
@@ -4791,8 +4733,6 @@ articles：
   * &lt;a href="<http://og41wiki.com/index.php?title=User:Jackchen299#John_Carter_fails_to_overthrow_The_Lorax_as_No._1_in_North_A>" target="_blank"&gt;<http://og41wiki.com/index.php?title=User:Jackchen299#John_Carter_fails_to_overthrow_The_Lorax_as_No._1_in_North_A>&lt;/a&gt;
   * &lt;a href="[http://www.xianggang118.com/viewthread.php?tid=3942035&amp;extra=page%3D1&amp;frombbs=1](http://www.xianggang118.com/viewthread.php?tid=3942035&extra=page%3D1&frombbs=1 "http://www.xianggang118.com/viewthread.php?tid=3942035&extra=page%3D1&frombbs=1" )" target="_blank"&gt;[http://www.xianggang118.com/viewthread.php?tid=3942035&amp;extra=page%3D1&amp;frombbs=1](http://www.xianggang118.com/viewthread.php?tid=3942035&extra=page%3D1&frombbs=1 "http://www.xianggang118.com/viewthread.php?tid=3942035&extra=page%3D1&frombbs=1" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=72 "Edit section:
-Only diplomacy can resolve Iran-West row" )]
 
 ##  Only diplomacy can resolve Iran-West row
 
@@ -5017,8 +4957,6 @@ of the maximum important keep currencies, the euro." Related articles：
   * &lt;a href="<http://gamedesign.turn2turn.com/index.php?title=User:Jackchen540#Malaysia_launches_Chinese-supplied_train_sets_-_Xinhua__Engl>" target="_blank"&gt;<http://gamedesign.turn2turn.com/index.php?title=User:Jackchen540#Malaysia_launches_Chinese-supplied_train_sets_-_Xinhua__Engl>&lt;/a&gt;
   * <http://jiminy.medialab.sciences-po.fr/hci/index.php/User:Jackchen789#Obama_calls_S_Korean_president_on_Kims_death_-_Xinhua__Engli>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=75 "Edit section:
-Kim Jong Il meets senior Chinese official in Pyongyang" )]
 
 ##  Kim Jong Il meets senior Chinese official in Pyongyang
 
@@ -5055,8 +4993,6 @@ communicate aboard socialist construction experiences.
   * &lt;a href="[http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&amp;tid=5655](http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&tid=5655 "http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&tid=5655" )" target="_blank"&gt;[http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&amp;tid=5655](http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&tid=5655 "http://www.zyuemusic.com/bbs/forum.php?mod=viewthread&tid=5655" )&lt;/a&gt;
   * &lt;a href="<http://miruhi.pestermom.com/index.php?title=User:Jackchen266#Neither_a_borrower_nor_a_lender_be>" target="_blank"&gt;<http://miruhi.pestermom.com/index.php?title=User:Jackchen266#Neither_a_borrower_nor_a_lender_be>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=76 "Edit section:
-NASAs Dawn spacecraft sends asteroid images back - Xinhua  E" )]
 
 ##  NASAs Dawn spacecraft sends asteroid images back - Xinhua E
 
@@ -5313,8 +5249,6 @@ Around 13 tons of Tilapia died last July under alike circumstances.
   * &lt;a href="[http://bbs.lenovomobile.com/home.php?mod=space&amp;uid=219898&amp;do=blog&amp;quickforward=1&amp;id=963704](http://bbs.lenovomobile.com/home.php?mod=space&uid=219898&do=blog&quickforward=1&id=963704 "http://bbs.lenovomobile.com/home.php?mod=space&uid=219898&do=blog&quickforward=1&id=963704" )" target="_blank"&gt;[http://bbs.lenovomobile.com/home.php?mod=space&amp;uid=219898&amp;do=blog&amp;quickforward=1&amp;id=963704](http://bbs.lenovomobile.com/home.php?mod=space&uid=219898&do=blog&quickforward=1&id=963704 "http://bbs.lenovomobile.com/home.php?mod=space&uid=219898&do=blog&quickforward=1&id=963704" )&lt;/a&gt;
   * <http://www.commoncurrent.com/notes/2010/10/preview-shanghai-expo-summit-u.html#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=82 "Edit section:
-Kim Jong Il meets senior Chinese official in Pyongyang" )]
 
 ##  Kim Jong Il meets senior Chinese official in Pyongyang
 
@@ -5349,8 +5283,6 @@ communicate on socialist construction experiences.
   * &lt;a href="[http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&amp;tid=50591](http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=50591 "http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=50591" )" target="_blank"&gt;[http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&amp;tid=50591](http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=50591 "http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=50591" )&lt;/a&gt;
   * &lt;a href="[http://www.wanmeigu.com/forum.php?mod=viewthread&amp;tid=845641](http://www.wanmeigu.com/forum.php?mod=viewthread&tid=845641 "http://www.wanmeigu.com/forum.php?mod=viewthread&tid=845641" )" target="_blank"&gt;[http://www.wanmeigu.com/forum.php?mod=viewthread&amp;tid=845641](http://www.wanmeigu.com/forum.php?mod=viewthread&tid=845641 "http://www.wanmeigu.com/forum.php?mod=viewthread&tid=845641" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=83 "Edit section:
-Minister pledges economic, trade cooperation with U.S. - Xin" )]
 
 ##  Minister pledges economic, trade cooperation with U.S. - Xin
 
@@ -5469,8 +5401,6 @@ Related articles：
   * &lt;a href="[http://ww.coolshowx.com/forum.php?mod=viewthread&amp;tid=830965](http://ww.coolshowx.com/forum.php?mod=viewthread&tid=830965 "http://ww.coolshowx.com/forum.php?mod=viewthread&tid=830965" )" target="_blank"&gt;[http://ww.coolshowx.com/forum.php?mod=viewthread&amp;tid=830965](http://ww.coolshowx.com/forum.php?mod=viewthread&tid=830965 "http://ww.coolshowx.com/forum.php?mod=viewthread&tid=830965" )&lt;/a&gt;
   * &lt;a href="[http://phpeye.net/demo/dx2/forum.php?mod=viewthread&amp;tid=7825&amp;extra=](http://phpeye.net/demo/dx2/forum.php?mod=viewthread&tid=7825&extra= "http://phpeye.net/demo/dx2/forum.php?mod=viewthread&tid=7825&extra=" )" target="_blank"&gt;[http://phpeye.net/demo/dx2/forum.php?mod=viewthread&amp;tid=7825&amp;extra=](http://phpeye.net/demo/dx2/forum.php?mod=viewthread&tid=7825&extra= "http://phpeye.net/demo/dx2/forum.php?mod=viewthread&tid=7825&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=85 "Edit section:
-Nepal Army Day observed by Punjita Pradhan - Xinhua  English" )]
 
 ##  Nepal Army Day observed by Punjita Pradhan - Xinhua English
 
@@ -5733,8 +5663,6 @@ coarse season."
   * &lt;a href="[http://devmsn.com/forum.php?mod=viewthread&amp;tid=1937176](http://devmsn.com/forum.php?mod=viewthread&tid=1937176 "http://devmsn.com/forum.php?mod=viewthread&tid=1937176" )" target="_blank"&gt;[http://devmsn.com/forum.php?mod=viewthread&amp;tid=1937176](http://devmsn.com/forum.php?mod=viewthread&tid=1937176 "http://devmsn.com/forum.php?mod=viewthread&tid=1937176" )&lt;/a&gt;
   * <http://touchnokia.ru/v-byudzhetnyx-modelyax-nokia-poyavitsya-twitter.html#comments>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=90 "Edit section:
-No substantial changes in domestic, foreign policies expecte" )]
 
 ##  No substantial changes in domestic, foreign policies expecte
 
@@ -5861,8 +5789,6 @@ Related articles：
   * <http://www.joycook.jp/blog/2012/06/post-327.html#comments>
   * <http://ws.yzgs.gov.cn/Admin_login.asp>
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=91 "Edit section:
-Let market solve Taobao Mall dispute" )]
 
 ##  Let market solve Taobao Mall dispute
 
@@ -5961,8 +5887,6 @@ apt build and improve mall rules.
   * &lt;a href="<http://shenyaobbs.com/forumdisplay.php?fid=9>" target="_blank"&gt;<http://shenyaobbs.com/forumdisplay.php?fid=9>&lt;/a&gt;
   * &lt;a href="<http://bbs.jiuhuashan.cc/forumdisplay.php?fid=40>" target="_blank"&gt;<http://bbs.jiuhuashan.cc/forumdisplay.php?fid=40>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=92 "Edit section:
-Organic food, a way out" )]
 
 ##  Organic food, a way out
 
@@ -6017,8 +5941,6 @@ China, which shows that there namely great latent amid the mall he said.
   * &lt;a href="[http://xianggang118.com/viewthread.php?tid=3976367&amp;extra=page%3D1&amp;frombbs=1](http://xianggang118.com/viewthread.php?tid=3976367&extra=page%3D1&frombbs=1 "http://xianggang118.com/viewthread.php?tid=3976367&extra=page%3D1&frombbs=1" )" target="_blank"&gt;[http://xianggang118.com/viewthread.php?tid=3976367&amp;extra=page%3D1&amp;frombbs=1](http://xianggang118.com/viewthread.php?tid=3976367&extra=page%3D1&frombbs=1 "http://xianggang118.com/viewthread.php?tid=3976367&extra=page%3D1&frombbs=1" )&lt;/a&gt;
   * &lt;a href="[http://fengbar.com/bbs/viewthread.php?tid=51514&amp;extra=](http://fengbar.com/bbs/viewthread.php?tid=51514&extra= "http://fengbar.com/bbs/viewthread.php?tid=51514&extra=" )" target="_blank"&gt;[http://fengbar.com/bbs/viewthread.php?tid=51514&amp;extra=](http://fengbar.com/bbs/viewthread.php?tid=51514&extra= "http://fengbar.com/bbs/viewthread.php?tid=51514&extra=" )&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=93 "Edit section:
-Moodys downgrades Greece to lowest rating - Xinhua  English." )]
 
 ##  Moodys downgrades Greece to lowest rating - Xinhua English.
 
@@ -6149,8 +6071,6 @@ traditional Tibetan houses… Related articles：
   * &lt;a href="[http://forum.pandlbox.com/forum.php?mod=viewthread&amp;tid=201131](http://forum.pandlbox.com/forum.php?mod=viewthread&tid=201131 "http://forum.pandlbox.com/forum.php?mod=viewthread&tid=201131" )" target="_blank"&gt;[http://forum.pandlbox.com/forum.php?mod=viewthread&amp;tid=201131](http://forum.pandlbox.com/forum.php?mod=viewthread&tid=201131 "http://forum.pandlbox.com/forum.php?mod=viewthread&tid=201131" )&lt;/a&gt;
   * &lt;a href="<http://www.dlchunyin.cn/bbs/forumdisplay.php?fid=5>" target="_blank"&gt;<http://www.dlchunyin.cn/bbs/forumdisplay.php?fid=5>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=95 "Edit section:
-Liverpool beat Cardiff City 3-2 on penalties - Xinhua  Engli" )]
 
 ##  Liverpool beat Cardiff City 3-2 on penalties - Xinhua Engli
 
@@ -6293,8 +6213,6 @@ year growth target by 8 percent in early 2011 afterward its economy grew
   * <http://blog.cube-dg.com/archives/2011/1013_110249.html#comments>
   * &lt;a href="<http://earthsherbs.com/index.php?title=User:Jackchen322#Moodys_puts_global_banks_on_notice_-_Xinhua__English.news.cn>" target="_blank"&gt;<http://earthsherbs.com/index.php?title=User:Jackchen322#Moodys_puts_global_banks_on_notice_-_Xinhua__English.news.cn>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=97 "Edit section:
-Lantern Festival in Old Summer Palace marks CPCs anniversary" )]
 
 ##  Lantern Festival in Old Summer Palace marks CPCs anniversary
 
@@ -6341,8 +6259,6 @@ police plus teenage students.
   * &lt;a href="<http://emlkc.org/index.php?title=User:Jackchen396#Microblog_becomes_popular_way_for_young_people_to_celebrate>" target="_blank"&gt;<http://emlkc.org/index.php?title=User:Jackchen396#Microblog_becomes_popular_way_for_young_people_to_celebrate>&lt;/a&gt;
   * &lt;a href="<http://www.kingmale.com/forumdisplay.php?fid=2>" target="_blank"&gt;<http://www.kingmale.com/forumdisplay.php?fid=2>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Jack444661&action=edit&section=98 "Edit section:
-Mystery deepens in galaxy cluster A520 - Xinhua  English.new" )]
 
 ##  Mystery deepens in galaxy cluster A520 - Xinhua English.new
 

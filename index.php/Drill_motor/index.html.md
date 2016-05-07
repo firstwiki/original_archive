@@ -69,8 +69,6 @@ but they can easily be removed.
 
 ## Torque and Efficiency curves
 
-[[edit](/index.php?title=Drill_motor&action=edit&section=3 "Edit section:
-Without gearbox" )]
 
 ### Without gearbox
 
@@ -85,8 +83,6 @@ g)](/index.php/Image:Drill_motor_graphs_no_GB.png
 (/index.php/Image:Drillmotorgraphs.JPG "Drill Motor Torque and Efficieny
 Graphs" )
 
-[[edit](/index.php?title=Drill_motor&action=edit&section=5 "Edit section:
-Usage Notes" )]
 
 ## Usage Notes
 

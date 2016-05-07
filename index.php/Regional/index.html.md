@@ -125,16 +125,12 @@ Regionals](/index.php/Index_of_Regionals "Index of Regionals" )
 
 ##  Overview
 
-[[edit](/index.php?title=Regional&action=edit&section=2 "Edit section: 1992 -
-1999" )]
 
 ###  1992 - 1999
 
 Before 1999, there was a double elimination tournament with all teams
 participating.
 
-[[edit](/index.php?title=Regional&action=edit&section=3 "Edit section: 1999 -
-2004" )]
 
 ###  1999 - 2004
 
@@ -171,8 +167,6 @@ following fashion, where QF is the quarter finals, and SF is the semifinals.
 Finalists 1 and 2 play against each other for the title of [Regional
 Winner](/index.php/Regional_Winner "Regional Winner" ).
 
-[[edit](/index.php?title=Regional&action=edit&section=4 "Edit section:
-2004-Present" )]
 
 ## 2004-Present
 

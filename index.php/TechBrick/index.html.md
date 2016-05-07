@@ -39,8 +39,6 @@ Info](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=TechBrick
 
 **TechBrick** is a FVC team formed of alumni from the FLL team [Techbrick](/index.php/Techbrick "Techbrick" ). 
 
-[[edit](/index.php?title=TechBrick&action=edit&section=2 "Edit section:
-Robots" )]
 
 ##  Robots
 
@@ -79,8 +77,6 @@ clip.png)](/index.php/Image:TechBrick_Robot06.jpg "Enlarge" )
 See our [sponsors page](http://techbrick.com/Lego/Lego2006/Support/index.html
 "http://techbrick.com/Lego/Lego2006/Support/index.html" ) for more details.
 
-[[edit](/index.php?title=TechBrick&action=edit&section=5 "Edit section:
-Members List" )]
 
 ##  Members List
 
@@ -95,8 +91,6 @@ Members List" )]
 
   
 
-[[edit](/index.php?title=TechBrick&action=edit&section=7 "Edit section:
-Mentors" )]
 
 ###  Mentors
 

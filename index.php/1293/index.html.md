@@ -33,8 +33,6 @@ Team Website: | <http://d5robotics.org>
       * 3.3.3 Students  
 ---  
   
-[[edit](/index.php?title=1293&action=edit&section=1 "Edit section: Current
-Team Projects" )]
 
 ## Current Team Projects
 
@@ -63,8 +61,6 @@ was not picked for an alliance.
   * 2005: Ockham's Raizor. Designed on the [Kitbot](/index.php?title=Kitbot&action=edit "Kitbot" ) frame, Ockham used aluminum extrusion and belting to lift tetras on a simple finger over twelve feet in the air. Ockham also sported custom covers over the arm, which drew the eye of others. 
   * 2004: Bob. He was designed for herding and 2X ball manipulation on the mobile goal by use of a van door-powered winch of an arm. (The arm was removed on the final day of the Palmetto Regional.) Further, Bob's drivetrain used power window motors from the kit, a relatively unusual choice. 
 
-[[edit](/index.php?title=1293&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

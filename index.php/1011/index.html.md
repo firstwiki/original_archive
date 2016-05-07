@@ -41,8 +41,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1011
 
   * History Example 
 
-[[edit](/index.php?title=1011&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - ](/index.php?title=%281011%29&action=edit "\(1011\)" )
 
-[[edit](/index.php?title=1011&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * UA &amp; SSA 
 
-[[edit](/index.php?title=1011&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -45,8 +45,6 @@ _team location and name and basic stuff_
   * 7 Sponsors  
 ---  
   
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -57,8 +55,6 @@ _just maybe highlights of the team and how it was created_
 
   * [Sample fll team-little engine-2004](/index.php/Sample_fll_team-little_engine-2004 "Sample fll team-little engine-2004" )
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=3 "Edit section:
-Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -69,8 +65,6 @@ Current Year Events Attended" )]
 
 _Short narrative of your team's experience at this event_
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=5 "Edit section:
-Event Name 2" )]
 
 ### Event Name 2
 
@@ -91,8 +85,6 @@ _Short narrative of your team's experience at this event_
 Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=7 "Edit section:
-Special projects" )]
 
 ## Special projects
 
@@ -105,8 +97,6 @@ description and maybe
 
 ## Members List
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=9 "Edit section:
-Students" )]
 
 ### Students
 
@@ -115,16 +105,12 @@ Students" )]
   * only (role, grade, years on team, etc.) 
   * please (role, grade, years on team, etc.) 
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=10 "Edit section:
-Coaches" )]
 
 ### Coaches
 
   * and (role) 
   * him/her (role) 
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=11 "Edit section:
-Mentors" )]
 
 ### Mentors
 
@@ -133,8 +119,6 @@ Mentors" )]
   * this (role) 
   * dude (role) 
 
-[[edit](/index.php?title=Sample_fll_team&action=edit&section=12 "Edit section:
-Sponsors" )]
 
 ## Sponsors
 

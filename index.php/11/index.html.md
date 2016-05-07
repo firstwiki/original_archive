@@ -65,8 +65,6 @@ Team Website: | <http://www.mortteam11.org>
     * 6.11 Special Mention/Past Mentors  
 ---  
   
-[[edit](/index.php?title=11&action=edit&section=1 "Edit section: The Infamous
-Story" )]
 
 ## The Infamous Story
 
@@ -111,8 +109,6 @@ the County College of Morris.
   * [2005](/index.php/11_in_2005 "11 in 2005" )
   * [2006](/index.php/11_in_2006 "11 in 2006" )
 
-[[edit](/index.php?title=11&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -321,8 +317,6 @@ guide" ).
 
 ## Mentors
 
-[[edit](/index.php?title=11&action=edit&section=32 "Edit section: Project
-Manager" )]
 
 ### Project Manager
 
@@ -333,8 +327,6 @@ Manager" )]
 
   * Ernie DiCicco, ABB 
 
-[[edit](/index.php?title=11&action=edit&section=34 "Edit section: Autodesk
-Inventor \(Design Team\)" )]
 
 ### Autodesk Inventor (Design Team)
 
@@ -345,8 +337,6 @@ Inventor \(Design Team\)" )]
 
   * Mike Marvin 
 
-[[edit](/index.php?title=11&action=edit&section=36 "Edit section: End
-Effectors" )]
 
 ### End Effectors
 
@@ -363,8 +353,6 @@ Effectors" )]
 
   * Terry Thomas 
 
-[[edit](/index.php?title=11&action=edit&section=39 "Edit section: Research &
-Development" )]
 
 ### Research &amp; Development
 
@@ -375,8 +363,6 @@ Development" )]
 
   * None 
 
-[[edit](/index.php?title=11&action=edit&section=41 "Edit section: Multimedia
-Documentation" )]
 
 ### Multimedia Documentation
 

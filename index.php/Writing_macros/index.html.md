@@ -53,8 +53,6 @@ Macros can make a program more readable and maintainable by having all
 constants named in one place, as well as providing reasonable names for
 input/output variables.
 
-[[edit](/index.php?title=Writing_macros&action=edit&section=3 "Edit section:
-Constants" )]
 
 ### Constants
 

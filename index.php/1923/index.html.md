@@ -57,8 +57,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1923
   * Wobot (2010) 
   * La Flama Blanca (2011) [Minibots named RoBhavish, IterationX, and RoBhavish 2.0] 
 
-[[edit](/index.php?title=1923&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

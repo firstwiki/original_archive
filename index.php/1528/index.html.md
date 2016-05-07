@@ -63,8 +63,6 @@ _The iPirates have been around since 2004, and have participated in both the
   * 2007 
   * 2008 
 
-[[edit](/index.php?title=1528&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -105,8 +103,6 @@ Accomplishments" )]
 
 ##  Members List
 
-[[edit](/index.php?title=1528&action=edit&section=8 "Edit section: Students"
-)]
 
 ###  Students
 
@@ -147,8 +143,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1528&action=edit&section=10 "Edit section: Mentors"
-)]
 
 ###  Mentors
 

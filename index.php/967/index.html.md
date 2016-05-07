@@ -31,8 +31,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=967&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -43,8 +41,6 @@ projects" )]
 
   * [2004 - Metal Menace](/index.php?title=Metal_Menace_%28967%29&action=edit "Metal Menace \(967\)" )
 
-[[edit](/index.php?title=967&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -61,8 +57,6 @@ Rookie All Star Award (2002)
 
   * Linn-Mar Robotics 
 
-[[edit](/index.php?title=967&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -35,8 +35,6 @@ Team Website: | <http://www.Team237.com/>
   * 10 Mentors  
 ---  
   
-[[edit](/index.php?title=237&action=edit&section=1 "Edit section: Team Name"
-)]
 
 ## Team Name
 
@@ -53,8 +51,6 @@ T.R.I.B.E.
 
   * **T**aking **R**obotics **I**nto **B**old **E**xperiences 
 
-[[edit](/index.php?title=237&action=edit&section=3 "Edit section: Mission
-Statement" )]
 
 ## Mission Statement
 
@@ -115,8 +111,6 @@ communities.
 
   * Member Example 
 
-[[edit](/index.php?title=237&action=edit&section=10 "Edit section: Students"
-)]
 
 ### Students
 

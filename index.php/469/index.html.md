@@ -39,8 +39,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc469
 
   * History Example 
 
-[[edit](/index.php?title=469&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -57,8 +55,6 @@ projects" )]
   * [2001 - Cornelius II](/index.php?title=469_in_2001&action=edit "469 in 2001" )
   * [2000 - Cornelius](/index.php?title=469_in_2000&action=edit "469 in 2000" )
 
-[[edit](/index.php?title=469&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

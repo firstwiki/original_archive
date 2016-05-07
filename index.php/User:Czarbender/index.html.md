@@ -13,8 +13,6 @@ Jump to: navigation, search
   * 5 What I Don't Like  
 ---  
   
-[[edit](/index.php?title=User:Czarbender&action=edit&section=1 "Edit section:
-Chris Pineda" )]
 
 ## Chris Pineda
 
@@ -47,8 +45,6 @@ Video Games, TV, Rock music, computer programming, robots (Yes Robots, if
 interested [click here](/index.php/FIRST_Robotics_Competition "FIRST Robotics
 Competition" )) and I love My Girlfriend.
 
-[[edit](/index.php?title=User:Czarbender&action=edit&section=5 "Edit section:
-What I Don't Like" )]
 
 ## What I Don't Like
 

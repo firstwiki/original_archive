@@ -29,8 +29,6 @@ this article.
 Combat was designed to compete in the 2002 [FIRST](/index.php/FIRST "FIRST" )
 robotics game, [Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" ).
 
-[[edit](/index.php?title=Combat_%28647%29&action=edit&section=1 "Edit section:
-Robot Functions" )]
 
 ## Robot Functions
 

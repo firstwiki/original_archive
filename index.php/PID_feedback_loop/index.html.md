@@ -83,8 +83,6 @@ The sum of these calculations is then added to the last
   * 9 External Links  
 ---  
   
-[[edit](/index.php?title=PID_controller&action=edit&section=1 "Edit section:
-Theory" )]
 
 ## Theory
 
@@ -107,8 +105,6 @@ The general equation for proportional control is
 Pout=Kerr*Kp where Pout is the output, Kerr= Target value-Current value, and
 Kp is the gain value.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=2 "Edit section:
-Application" )]
 
 ## Application
 
@@ -141,8 +137,6 @@ and only add complexity where it is absolutely necessary. Complex things are
 hard to fix and tend to break more easily. Simple things are much easier to
 devlop.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=3 "Edit section:
-Tuning" )]
 
 ## Tuning
 
@@ -165,8 +159,6 @@ if there is some following error in the system; that is, if the controlled
 variable has a constant difference from desired setpoint. Integral gain should
 only be used sparingly since it tends to destabilize a system.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=4 "Edit section:
-Going open loop" )]
 
 ## Going open loop
 
@@ -213,8 +205,6 @@ sanity of the control software cannot be depended upon.
 )](/index.php/Image:Pidclosedloopsystem.JPG "Schematic for a PID closed loop
 system" )
 
-[[edit](/index.php?title=PID_controller&action=edit&section=8 "Edit section:
-See also" )]
 
 ## See also
 
@@ -223,8 +213,6 @@ See also" )]
   * [Open loop](/index.php/Open_loop "Open loop" )
   * [Closed loop](/index.php/Closed_loop "Closed loop" )
 
-[[edit](/index.php?title=PID_controller&action=edit&section=9 "Edit section:
-External Links" )]
 
 ## External Links
 

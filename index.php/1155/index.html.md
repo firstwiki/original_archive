@@ -61,8 +61,6 @@ Team Website: | <http://www.bxsciborgs.com>
 
 # General History
 
-[[edit](/index.php?title=1155&action=edit&section=2 "Edit section: Formation"
-)]
 
 ### Formation
 
@@ -91,8 +89,6 @@ created an award winning robot. At the 2004 NYC regionals the team reached the
 quarter finals and won the Delphi "Driving Tomorrow's Technology" Award for an
 innovative stair climbing mechanism.
 
-[[edit](/index.php?title=1155&action=edit&section=4 "Edit section: Maintaining
-The Team" )]
 
 ### Maintaining The Team
 
@@ -109,8 +105,6 @@ the quarter finals. But as an added bonus, thanks to great leadership and
 organization the team was awarded the Kleiner Perkins Caufield &amp; Byers
 Entrepreneurship Award for great business planning and organization.
 
-[[edit](/index.php?title=1155&action=edit&section=5 "Edit section: Our First
-World Championship" )]
 
 ### Our First World Championship
 
@@ -221,8 +215,6 @@ Entry to be made at a later date.
 
 Entry to be made at a later date.
 
-[[edit](/index.php?title=1155&action=edit&section=15 "Edit section: Team
-Projects" )]
 
 # Team Projects
 
@@ -307,8 +299,6 @@ Projects" )]
 
 # Members List
 
-[[edit](/index.php?title=1155&action=edit&section=27 "Edit section: Students"
-)]
 
 ### Students
 
@@ -361,8 +351,6 @@ William Long - Website Member (2013)
 
 ## Alumni
 
-[[edit](/index.php?title=1155&action=edit&section=29 "Edit section: Captains"
-)]
 
 ### Captains
 
@@ -373,8 +361,6 @@ William Long - Website Member (2013)
   * George Hsieh (2007) 
   * Tom Ford (2006) 
 
-[[edit](/index.php?title=1155&action=edit&section=30 "Edit section: Class of
-2010" )]
 
 ### Class of 2010
 
@@ -385,8 +371,6 @@ William Long - Website Member (2013)
   * Andrew Zhang - TBA 
   * Benjamin Diamond - TBA 
 
-[[edit](/index.php?title=1155&action=edit&section=31 "Edit section: Class of
-2009" )]
 
 ### Class of 2009
 
@@ -409,8 +393,6 @@ William Long - Website Member (2013)
   * Simon Strauss - Rensselaer Polytechnic Institute 
   * Yoriyasu Yano - University of California, Berkeley 
 
-[[edit](/index.php?title=1155&action=edit&section=33 "Edit section: Class of
-2007" )]
 
 ### Class of 2007
 

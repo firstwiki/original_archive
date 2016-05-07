@@ -19,8 +19,6 @@ article.
   
   
 
-[[edit](/index.php?title=1257_in_2005&action=edit&section=1 "Edit section:
-Optimus Prime/Jenny/Untitled" )]
 
 ## Optimus Prime/Jenny/Untitled
 

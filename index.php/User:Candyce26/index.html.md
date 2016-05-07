@@ -97,8 +97,6 @@ jordan jersey](http://dev.zoints.com/showthread.php?p=46374#post46374
 aforementioned gifts will in no way go mistaken and will be highly appreciated
 once they are given to a male who is a accurate supporter of the activity.
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=2 "Edit section:
-Basketball Match Info and Guidelines" )]
 
 ##  Basketball Match Info and Guidelines
 
@@ -471,8 +469,6 @@ Related articles:
   * [NFL Football Logo Record of the Legendary](http://www.umss.org/forums/topic/nfl-football-logo-record-of-the-legendary?replies=0#post-54222 "http://www.umss.org/forums/topic/nfl-football-logo-record-of-the-legendary?replies=0#post-54222" )
   * [NFL Coaching Camp Jump Tricks](http://www.teachopedia.com/node/84275 "http://www.teachopedia.com/node/84275" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=6 "Edit section:
-NFL Training Camp Soar Techniques" )]
 
 ##  NFL Training Camp Soar Techniques
 
@@ -545,8 +541,6 @@ Related articles:
   * [NFL Coaching Camp Leap Techniques](http://eatproduction.com/drupal/node/52086 "http://eatproduction.com/drupal/node/52086" )
   * [NFL playoffs brought only 1 shock 2012](http://yoamocolima.com/foro/topic.php?id=10348&replies=1#post-11718 "http://yoamocolima.com/foro/topic.php?id=10348&replies=1#post-11718" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=7 "Edit section:
-NFL Stadiums Seeking To Have Handheld Steel Detectors" )]
 
 ##  NFL Stadiums Seeking To Have Handheld Steel Detectors
 
@@ -909,8 +903,6 @@ Related articles:
   * [Issues Tim Tebow Will Educate You About Lifestyle](http://melvilleactiongroup.com.au/forum/topic.php?id=24023&replies=1#post-31769 "http://melvilleactiongroup.com.au/forum/topic.php?id=24023&replies=1#post-31769" )
   * [Tebow is arguably the greatest attract in the NFL](http://www.teachopedia.com/node/89244 "http://www.teachopedia.com/node/89244" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=12 "Edit section:
-Items Tim Tebow Will Instruct You About Lifestyle" )]
 
 ##  Items Tim Tebow Will Instruct You About Lifestyle
 
@@ -1017,8 +1009,6 @@ Related articles:
   * [Tebow is arguably the greatest draw in the NFL](http://seiklejad.mithio.com/node/395775 "http://seiklejad.mithio.com/node/395775" )
   * [Items Tim Tebow Will Teach You About Lifestyle](http://pgapi.devstaff.org/node/374731 "http://pgapi.devstaff.org/node/374731" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=13 "Edit section:
-Cowboys do preserve their initial spherical decide on" )]
 
 ##  Cowboys do preserve their initial spherical decide on
 
@@ -1147,8 +1137,6 @@ Related articles:
   * [Cowboys do maintain their initial spherical decide on](http://matthewburton.org/a-space/index.php?title=User:Loriann44#Cowboys_do_maintain_their_initial_spherical_decide_on "http://matthewburton.org/a-space/index.php?title=User:Loriann44#Cowboys_do_maintain_their_initial_spherical_decide_on" )
   * [Cowboys do hold their very first spherical decide](http://www.kochan.com/saien/post-24.html#comments "http://www.kochan.com/saien/post-24.html#comments" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=15 "Edit section:
-Dallas Cowboys - The Biggest Game of All" )]
 
 ##  Dallas Cowboys - The Biggest Game of All
 
@@ -1295,8 +1283,6 @@ Related articles:
   * [Cowboys do keep their initial round pick](http://cityone.bom.hk/viewthread.php?tid=19661&extra= "http://cityone.bom.hk/viewthread.php?tid=19661&extra=" )
   * [Dallas Cowboys - the web site was pulled Sunday ev](http://retromypc.com/zh-cn/node/167904 "http://retromypc.com/zh-cn/node/167904" )
 
-[[edit](/index.php?title=User:Candyce26&action=edit&section=17 "Edit section:
-Give A Memory - Tickets To Very hot Video games or Concerts" )]
 
 ##  Give A Memory - Tickets To Very hot Video games or Concerts
 

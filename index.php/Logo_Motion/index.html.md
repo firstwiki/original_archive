@@ -75,8 +75,6 @@ Index of FRC Games
   * 5 External links  
 ---  
   
-[[edit](/index.php?title=Logo_Motion&action=edit&section=1 "Edit section:
-Kickoff" )]
 
 ## Kickoff
 
@@ -107,8 +105,6 @@ Logomotion logo
 
 [2011 Webcasts](/index.php/2011_Webcasts "2011 Webcasts" )
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=3 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -121,8 +117,6 @@ A match is 135 seconds long.
   * **Teleoperated** \- final 120 seconds. Humans using a console drive their robots around the field, trying to score points using any game piece. 
     * **Endgame** \- final 10 seconds. Minibots may be deployed onto the towers to score extra points. They may only be deployed during this period. 
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=5 "Edit section:
-Alliances" )]
 
 ### Alliances
 
@@ -211,8 +205,6 @@ capped at 158, as game pieces may not be de-scored.
 
   
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=9 "Edit section:
-Robots" )]
 
 ### Robots
 
@@ -221,8 +213,6 @@ notable difference is that while a robot must start the match within
 38"x28"x60", it may expand to a 84" diameter cylinder with no height
 constraints.&lt;ref name="FRC 2011 manual"/&gt;
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=10 "Edit section:
-References" )]
 
 ## References
 

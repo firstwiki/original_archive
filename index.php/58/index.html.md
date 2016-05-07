@@ -127,8 +127,6 @@ the 2005 competition in Manchester, NH, 24 students, 2 teachers, 4 engineers
 and many parents will match their best efforts against the premier thinkers
 and most motivated teams in the nation. We look forward to great results!
 
-[[edit](/index.php?title=58&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

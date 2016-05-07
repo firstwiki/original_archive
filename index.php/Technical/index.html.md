@@ -45,8 +45,6 @@ Technical topics involved in [FIRST](/index.php/FIRST "FIRST" ) include:
   * [Simulation](/index.php/Simulation "Simulation" )
   * [Terminology](/index.php/Terminology "Terminology" )
 
-[[edit](/index.php?title=Technical&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

@@ -41,8 +41,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1470
 
   * History Example 
 
-[[edit](/index.php?title=1470&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - BearBot](/index.php?title=BearBot_%281470%29&action=edit "BearBot \(1470\)" )
 
-[[edit](/index.php?title=1470&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * Oliver H. S./PPS 
 
-[[edit](/index.php?title=1470&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

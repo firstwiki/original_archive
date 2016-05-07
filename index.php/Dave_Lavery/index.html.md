@@ -55,8 +55,6 @@ clip.png)](/index.php/Image:Button.jpg "Enlarge" )
 
 Pimp Pin on the big screen
 
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=2 "Edit section:
-Random Facts" )]
 
 ##  Random Facts
 
@@ -129,8 +127,6 @@ cjfas u7vkxu dasv;79swkjlwgf4
 zs90Q3 P BU7C Okljsxdfyuhi  
   
 
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=5 "Edit section:
-Related \(Literally!\) Links" )]
 
 ##  Related (Literally!) Links
 

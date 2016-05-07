@@ -47,8 +47,6 @@ competition. Central SpaceLab went to Nationals in Atlanta for Mission Mars,
 No Limits, and Ocean Odyssey after placing first in the state competitions in
 those years.
 
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=2 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -57,8 +55,6 @@ drive base that can use additional attachments and arms. They have used the
 same robot for Ocean Odyssey as No Limits, which in turn was very similar to
 the Mission Mars robot.
 
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=3 "Edit section:
-Programming" )]
 
 ## Programming
 
@@ -67,8 +63,6 @@ each year and used in competitions. These trade secrets, for example, allow
 them to surpass the three sensor limit and incorporate additional sensors, as
 well as allowing them to use more than five different programs.
 
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=4 "Edit section:
-Awards and Recognitions" )]
 
 ## Awards and Recognitions
 

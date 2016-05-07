@@ -25,8 +25,6 @@ Jump to: navigation, search
   * 8 2009 new accumulation  
 ---  
   
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=1 "Edit section:
-The-economic-recession-Japan-fashion-week-cool-response" )]
 
 ##  The-economic-recession-Japan-fashion-week-cool-response
 
@@ -93,8 +91,6 @@ Barneys new store opening on display. And with the March 13 in Tokyo in
 shinjuku Barneys store began selling the products. (0)  
 _
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=3 "Edit section:
-Linjiaxin whereabouts eerie to a mystery" )]
 
 ##  Linjiaxin whereabouts eerie to a mystery
 
@@ -197,8 +193,6 @@ Related articles:
   * ["love is a chronic poison](http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison" )
   * [nervous reply big S message](http://www.indianmusicguide.com/index.php/User:Vivianllik#nervous_reply_big_S_message "http://www.indianmusicguide.com/index.php/User:Vivianllik#nervous_reply_big_S_message" )
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=4 "Edit section:
-her light said" )]
 
 ##  her light said
 
@@ -287,8 +281,6 @@ Related articles:
   * ["love is a chronic poison](http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison" )
   * [must still go out what mistake.](http://dpp.doctorpundit.com/index.php/User:Vivianllid#must_still_go_out_what_mistake. "http://dpp.doctorpundit.com/index.php/User:Vivianllid#must_still_go_out_what_mistake." )
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=6 "Edit section:
-prada Internet has a huge online store. . However" )]
 
 ##  prada Internet has a huge online store. . However
 
@@ -379,8 +371,6 @@ even the number of repeat the sequence, and they are the real cycle. . All
 things considered, still can obtain false COACH bag bag, if the budget does
 not allow you to and real money. Reference.  
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=8 "Edit section:
-2009 new accumulation" )]
 
 ##  2009 new accumulation
 

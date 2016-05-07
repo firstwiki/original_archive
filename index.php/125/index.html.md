@@ -57,8 +57,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=125&action=edit
   * Boston Regional 
   * National Championship 
 
-[[edit](/index.php?title=125&action=edit&section=3 "Edit section: 2005
-Competitions" )]
 
 ## 2005 Competitions
 
@@ -71,8 +69,6 @@ Competitions" )]
   * [2006 - Sweet Caroline](/index.php?title=Sweet_Caroline_%28125%29&action=edit "Sweet Caroline \(125\)" )
   * [2004 - Disco Stu](/index.php?title=Disco_Stu_%28125%29&action=edit "Disco Stu \(125\)" )
 
-[[edit](/index.php?title=125&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

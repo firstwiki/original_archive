@@ -21,8 +21,6 @@ Jump to: navigation, search
   * 4 money is now coming in and can be reinvested  
 ---  
   
-[[edit](/index.php?title=User:Wichea&action=edit&section=1 "Edit section:
-comAbout AuthorJames is a steel detailer at OSTD  With so ma" )]
 
 ##  comAbout AuthorJames is a steel detailer at OSTD With so ma
 

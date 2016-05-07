@@ -27,8 +27,6 @@ teams may have two or more teachers to assist shaparone meetings and events so
 that one teacher does not get continuously burned out and behind schedule of
 his or her own classes.
 
-[[edit](/index.php?title=Teachers&action=edit&section=1 "Edit section: See
-Also" )]
 
 ## See Also
 

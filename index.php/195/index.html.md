@@ -57,8 +57,6 @@ Students of Team 195 have gone on to some of the most prestigious and
 reputable universities in the country and have been employed by top high-
 technology and engineering corporations.
 
-[[edit](/index.php?title=195&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -85,8 +83,6 @@ projects" )]
   * [2011 - Knightmare 2K11](/index.php?title=195_in_2011&action=edit "195 in 2011" )
   * [2012 - The Screaming Knight](/index.php?title=195_in_2012&action=edit "195 in 2012" )
 
-[[edit](/index.php?title=195&action=edit&section=4 "Edit section:
-Accomplishments & Awards" )]
 
 ## Accomplishments &amp; Awards
 
@@ -145,8 +141,6 @@ Accomplishments & Awards" )]
   * Chuck &amp; Eddie's Used Auto Parts 
   * Tiger Enterprises 
 
-[[edit](/index.php?title=195&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -203,8 +197,6 @@ List" )]
   * Suhail Pathan - 2015 
   * Evan Misiorski - 2015 
 
-[[edit](/index.php?title=195&action=edit&section=8 "Edit section: Notable
-Alumni" )]
 
 ### Notable Alumni
 

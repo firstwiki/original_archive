@@ -61,8 +61,6 @@ history](http://www.fireteam.org/history.html
 Robot](http://www.fireteam.org/robot.html "http://www.fireteam.org/robot.html"
 )
 
-[[edit](/index.php?title=322&action=edit&section=5 "Edit section:
-Accomplishments/Awards" )]
 
 ## Accomplishments/Awards
 
@@ -83,8 +81,6 @@ Accomplishments/Awards" )]
   * FLINT COMMUNITY SCHOOLS 
   * UNIVERSITY OF MICHIAGN-FLINT 
 
-[[edit](/index.php?title=322&action=edit&section=7 "Edit section: Team
-Members" )]
 
 ## Team Members
 

@@ -41,8 +41,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1305
   * 7 Other Facts  
 ---  
   
-[[edit](/index.php?title=1305&action=edit&section=1 "Edit section: Our
-Mission" )]
 
 ## Our Mission
 
@@ -163,8 +161,6 @@ Highest Rookie Seed
 Motorola Quality Award  
 Best Cart Design from Team 1006  
 
-[[edit](/index.php?title=1305&action=edit&section=5 "Edit section: Captains"
-)]
 
 ###  Captains
 
@@ -209,8 +205,6 @@ Best Cart Design from Team 1006
   * 2010 - A Decade of Inspiration, Innovation and Initiative 
   * 2011 - Turning Up The Heat! 
 
-[[edit](/index.php?title=1305&action=edit&section=8 "Edit section: Our
-Schools" )]
 
 ## Our Schools
 
@@ -421,8 +415,6 @@ Ontario, Canada is a main center for the many outlying communities. In the
 spirit of FIRST, we continuously welcome students from these communities who
 are interested in science and technology.  
 
-[[edit](/index.php?title=1305&action=edit&section=10 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

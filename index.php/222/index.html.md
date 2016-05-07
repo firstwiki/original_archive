@@ -49,8 +49,6 @@ _Team #222 The TIGERTRONS_ (1999 to Present)
 
   
 
-[[edit](/index.php?title=222&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -77,8 +75,6 @@ A collection of robots
 
 <http://www.chiefdelphi.com/forums/showthread.php?threadid=46470>
 
-[[edit](/index.php?title=222&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

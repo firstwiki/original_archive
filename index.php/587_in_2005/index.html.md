@@ -43,8 +43,6 @@ _A brief summary of Team 587 in 2005._
 
 ## Build
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -55,8 +53,6 @@ Accomplishments" )]
   * Was not selected for eliminations 
   * Did not win any awards 
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=5 "Edit section:
-Championship Event - Galileo Division" )]
 
 ### Championship Event - Galileo Division
 
@@ -71,8 +67,6 @@ Championship Event - Galileo Division" )]
 
   
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=7 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

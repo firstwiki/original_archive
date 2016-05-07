@@ -53,8 +53,6 @@ Bristol Meyers-Squibb. This year marked a huge turnaround for the team.
 
   * Regional Champions 
 
-[[edit](/index.php?title=25_in_2000&action=edit&section=3 "Edit section:
-Robot" )]
 
 ## Robot
 

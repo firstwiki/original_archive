@@ -65,8 +65,6 @@ independent state.
   * 3 External Links  
 ---  
   
-[[edit](/index.php?title=Dean_Kamen&action=edit&section=1 "Edit section:
-Notable quotations" )]
 
 ## Notable quotations
 
@@ -75,16 +73,12 @@ Notable quotations" )]
 
 ## See also
 
-[[edit](/index.php?title=Dean_Kamen&action=edit&section=3 "Edit section:
-Family" )]
 
 ### Family
 
   * [Bart Kamen](/index.php/Bart_Kamen "Bart Kamen" )
   * [Libby Kamen](/index.php/Libby_Kamen "Libby Kamen" )
 
-[[edit](/index.php?title=Dean_Kamen&action=edit&section=4 "Edit section:
-External Links" )]
 
 ## External Links
 

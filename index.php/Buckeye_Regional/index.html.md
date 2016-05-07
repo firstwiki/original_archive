@@ -113,8 +113,6 @@ Regional" )
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=Buckeye_Regional&action=edit&section=1 "Edit section:
-History" )]
 
 ##  History
 
@@ -147,8 +145,6 @@ The Buckeye Regional website is
 [here](http://www.grc.nasa.gov/WWW/OEP/first/regional/index.htm
 "http://www.grc.nasa.gov/WWW/OEP/first/regional/index.htm" )
 
-[[edit](/index.php?title=Buckeye_Regional&action=edit&section=4 "Edit section:
-External Links" )]
 
 ## External Links
 

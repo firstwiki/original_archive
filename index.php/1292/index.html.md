@@ -39,8 +39,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1292
 
   * History Example 
 
-[[edit](/index.php?title=1292&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -51,8 +49,6 @@ projects" )]
 
   * [2004 - ](/index.php?title=1292_in_2004&action=edit "1292 in 2004" )
 
-[[edit](/index.php?title=1292&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -63,8 +59,6 @@ Accomplishments" )]
 
   * RNS Joysticks 
 
-[[edit](/index.php?title=1292&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

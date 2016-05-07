@@ -77,8 +77,6 @@ an active role in performing community service work. Habitat for Humanity and
 Adopt a Highway are just two of the many programs that directly benefit the
 city of Warren, its people, and its appearance.
 
-[[edit](/index.php?title=48&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -105,8 +103,6 @@ projects" )]
   * [1999 - Xtremachen 2](/index.php/Xtremachen_2_%2848%29 "Xtremachen 2 \(48\)" )
   * [1998 - Xtremachen](/index.php/Xtremachen_%2848%29 "Xtremachen \(48\)" )
 
-[[edit](/index.php?title=48&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -215,8 +211,6 @@ Accomplishments" )]
       Kent State University - Trumbull Branch
     
 
-[[edit](/index.php?title=48&action=edit&section=9 "Edit section: Team
-Contributors" )]
 
 ##  Team Contributors
 
@@ -225,8 +219,6 @@ Contributors" )]
       Rockshotz, Inc. - Photography
     
 
-[[edit](/index.php?title=48&action=edit&section=10 "Edit section: Members
-List" )]
 
 ## Members List
 

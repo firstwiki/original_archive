@@ -361,8 +361,6 @@ draft prospect to focal point for organizations in the here and now
 Falcons](http://47tm.com/forum.php?mod=viewthread&tid=1251530
 "http://47tm.com/forum.php?mod=viewthread&tid=1251530" )
 
-[[edit](/index.php?title=User:Hsysz131&action=edit&section=7 "Edit section:
-Wholesale Nike NFL Jerseys cheapTier 2 - #/39951 Nick Foles" )]
 
 ##  Wholesale Nike NFL Jerseys cheapTier 2 - #/39951 Nick Foles
 
@@ -451,8 +449,6 @@ nike-nfl-jerseys-china-was-ucla-football-had-become-soft-your-1-3-through
 "http://ec2-107-20-247-58.compute-1.amazonaws.com/content/wholesale-nike-nfl-
 jerseys-china-was-ucla-football-had-become-soft-your-1-3-through" )
 
-[[edit](/index.php?title=User:Hsysz131&action=edit&section=8 "Edit section:
-Monogram Multicolore Canvas M93738 fish" )]
 
 ##  Monogram Multicolore Canvas M93738 fish
 
@@ -565,8 +561,6 @@ find online
 plan](http://sponsorhunter.com/members/home
 "http://sponsorhunter.com/members/home" )
 
-[[edit](/index.php?title=User:Hsysz131&action=edit&section=9 "Edit section:
-Monogram Canvas M60067 Perhaps a same day restore service" )]
 
 ##  Monogram Canvas M60067 Perhaps a same day restore service
 

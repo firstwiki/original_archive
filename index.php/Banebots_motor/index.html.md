@@ -41,8 +41,6 @@ Banebots motor" )
 
 ##  Kit of Parts
 
-[[edit](/index.php?title=Banebots_motor&action=edit&section=2 "Edit section:
-2008" )]
 
 ###  2008
 
@@ -51,8 +49,6 @@ Information for the 2008 motor supplied in the kit of parts is available at
 /MOTOR-BRUSH/M2-RS540-120" ) [[2]](http://banebots.com/p/M2-RS550-120
 "http://banebots.com/p/M2-RS550-120" )
 
-[[edit](/index.php?title=Banebots_motor&action=edit&section=3 "Edit section:
-Torque and Efficiency curves" )]
 
 ## Torque and Efficiency curves
 

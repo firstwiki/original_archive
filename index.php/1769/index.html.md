@@ -69,16 +69,12 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1769
 
   * 2012 Greater Kansas City Regional Winners 
 
-[[edit](/index.php?title=1769&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
 
 ##  Members List
 
-[[edit](/index.php?title=1769&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

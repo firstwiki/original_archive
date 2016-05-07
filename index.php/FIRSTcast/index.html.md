@@ -31,8 +31,6 @@ FIRSTcast Season 2 Logo
   * [Adam Richards](/index.php/Adam_Richards "Adam Richards" )
   * [Conor Ryan](/index.php?title=Conor_Ryan&action=edit "Conor Ryan" )
 
-[[edit](/index.php?title=FIRSTcast&action=edit&section=2 "Edit section: Hosts"
-)]
 
 ##  Hosts
 
@@ -77,8 +75,6 @@ Guests **Episode 1.1** \-
 
 **Episode 2.4** Michelle Celio Kelli Van Antwerp 
 
-[[edit](/index.php?title=FIRSTcast&action=edit&section=4 "Edit section: The
-Episodes" )]
 
 ##  The Episodes
 

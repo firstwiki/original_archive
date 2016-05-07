@@ -65,8 +65,6 @@ the robot, and can be as complicated as a large network of
 simple as a trial-and-error [dead reckoning](/index.php/Dead_reckoning "Dead
 reckoning" ) solution.
 
-[[edit](/index.php?title=Programming&action=edit&section=3 "Edit section: See
-also" )]
 
 ##  See also
 

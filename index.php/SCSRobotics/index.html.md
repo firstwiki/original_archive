@@ -41,8 +41,6 @@ teams" )
     * 6.1 Team Members  
 ---  
   
-[[edit](/index.php?title=SCSRobotics&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -63,8 +61,6 @@ in the middle of the city of Toronto.
   * Seasons' robots 
   * [team name - robot name - year](/index.php?title=FIRSTwiki:FLL_robot_page_format&action=edit "FIRSTwiki:FLL robot page format" )
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=3 "Edit section:
-Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -75,8 +71,6 @@ Current Year Events Attended" )]
 
 _Short narrative of your team's experience at this event_
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=5 "Edit section:
-Event Name 2" )]
 
 ### Event Name 2
 
@@ -95,8 +89,6 @@ _Short narrative of your team's experience at this event_
 
 -Gracious Proffesionalism (Atlanta) 
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=7 "Edit section:
-Reasearch Project" )]
 
 ## Reasearch Project
 
@@ -107,8 +99,6 @@ cardboard to Atlanta without expensive shipping. So instead we bought a blow
 up boat and a lot of decorations and brought it to Atlanta. We blew up and
 decorated the boat there.
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=8 "Edit section:
-Members List" )]
 
 ## Members List
 

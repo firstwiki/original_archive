@@ -71,8 +71,6 @@ the team received the [Imagery Award](/index.php/Imagery_Award "Imagery Award"
 ), and was later selected for an alliance with Teams [1975](/index.php/1975
 "1975" ) and [175](/index.php/175 "175" ).
 
-[[edit](/index.php?title=1719&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -87,8 +85,6 @@ Projects" )]
   * [2007 - Señor el Roboto](/index.php/1719_in_2007#Robot "1719 in 2007" )
   * [2008 - ???](/index.php?title=1719_in_2008&action=edit "1719 in 2008" )
 
-[[edit](/index.php?title=1719&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -99,8 +95,6 @@ Accomplishments" )]
   * 2006 - Won the [Rookie Inspiration Award](/index.php/Rookie_Inspiration_Award "Rookie Inspiration Award" ) at the Philadelphia Regional. 
   * 2006 - Attended the Championships in Atlanta. 
 
-[[edit](/index.php?title=1719&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -115,8 +109,6 @@ support. Without our sponsors, we would not be able to compete.
   * PTC 
   * Sid and Susan Meier 
 
-[[edit](/index.php?title=1719&action=edit&section=6 "Edit section: Engineering
-Mentors" )]
 
 ## Engineering Mentors
 

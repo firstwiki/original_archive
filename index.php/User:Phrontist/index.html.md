@@ -21,8 +21,6 @@ Jump to: navigation, search
   * 3 Contact Information  
 ---  
   
-[[edit](/index.php?title=User:Phrontist&action=edit&section=1 "Edit section:
-ToDo List" )]
 
 ##  ToDo List
 
@@ -35,8 +33,6 @@ is:
   4. Dump the links onto the page 
   5. Distill the information into a nice, clean, article 
 
-[[edit](/index.php?title=User:Phrontist&action=edit&section=2 "Edit section:
-Pet Project of The Moment" )]
 
 ###  Pet Project of The Moment
 
@@ -123,8 +119,6 @@ my team was easily convinced. Nerd Pride!
 [![Image:Phrontist.jpg](/media/3/32/Phrontist.jpg)](/index.php/Image:Phrontist
 .jpg "Image:Phrontist.jpg" )
 
-[[edit](/index.php?title=User:Phrontist&action=edit&section=4 "Edit section:
-Contact Information" )]
 
 ##  Contact Information
 

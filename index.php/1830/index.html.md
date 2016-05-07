@@ -65,8 +65,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=1830&action=edit
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=1830&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -77,8 +75,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=1830&action=edit
 
   * Member Example 
 
-[[edit](/index.php?title=1830&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

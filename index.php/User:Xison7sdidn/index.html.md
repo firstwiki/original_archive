@@ -59,8 +59,6 @@ Jump to: navigation, search
   * 42 Government went too far in Balco sports drug case, says cour  
 ---  
   
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=1 "Edit section:
-Virginia, government square off over healthcare" )]
 
 ##  Virginia, government square off over healthcare
 
@@ -267,8 +265,6 @@ Britain,[Gucci Outlet](http://www.guccioutleteonline.net/
 "http://www.guccioutleteonline.net/" ), who Sunday became the first golfer to
 win the European Tour and U.S. PGA Tour money-list titles:&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=4 "Edit section:
-Numbers tell the story of Federer's U.S. Open shocker" )]
 
 ##  Numbers tell the story of Federer's U.S. Open shocker
 
@@ -349,8 +345,6 @@ chances."&lt;/p&gt;
 
 &lt;p&gt;(Editing by Larry Fine)&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=5 "Edit section:
-Sweat-prone athletes may be protected from asthma" )]
 
 ##  Sweat-prone athletes may be protected from asthma
 
@@ -597,8 +591,6 @@ Park.&lt;/p&gt;
 the most likely challenger to the Federer-Nadal duopoly but has failed to
 reach any grand slam final since.&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=8 "Edit section:
-ETF investors favor BlackRock over Vanguard in April" )]
 
 ##  ETF investors favor BlackRock over Vanguard in April
 
@@ -649,8 +641,6 @@ trusts.&lt;/p&gt;
 
 &lt;p&gt;(Reporting by Aaron Pressman. Editing by Robert MacMillan)&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=9 "Edit section:
-Octogenarians have more heart surgery, live longer" )]
 
 ##  Octogenarians have more heart surgery, live longer
 

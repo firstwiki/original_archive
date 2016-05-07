@@ -79,8 +79,6 @@ M- and nothing is grounded.
 Spikes can be connected to a [motor](/index.php/Motor "Motor" ) that does not
 need to move at a variable speed. The motor cannot draw more than 20A.
 
-[[edit](/index.php?title=Spike&action=edit&section=4 "Edit section: Solenoids"
-)]
 
 ### Solenoids
 
@@ -113,8 +111,6 @@ When the white wire is at +5V and the red wire is at 0V, M+ receives the full
 input voltage. When the red wire is at +5V and the white wire is at 0V, M-
 receives the full input voltage.
 
-[[edit](/index.php?title=Spike&action=edit&section=7 "Edit section: Spike Red"
-)]
 
 #  Spike Red
 

@@ -49,8 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc155
 
   * History Example 
 
-[[edit](/index.php?title=155&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -77,8 +75,6 @@ projects" )]
 
   * [2006 - Nutty 7](/index.php?title=Nutty_7_%28155%29&action=edit "Nutty 7 \(155\)" )  
 
-[[edit](/index.php?title=155&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -97,8 +93,6 @@ Accomplishments" )]
 
   * Coke  
 
-[[edit](/index.php?title=155&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

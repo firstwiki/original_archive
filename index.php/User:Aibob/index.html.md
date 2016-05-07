@@ -57,8 +57,6 @@ and my operating system (which has no name), and it is currently planned to be
 for x86-64 processors, and hopefully I will migrate it to PowerPC processors
 after I make it well enough.
 
-[[edit](/index.php?title=User:Aibob&action=edit&section=3 "Edit section:
-Projects" )]
 
 ## Projects
 

@@ -17,8 +17,6 @@ order. If the torque exerted by a [motor](/index.php/Motor "Motor" ) on its
 axle is known, one can find the force exerted at a different distance from the
 center.
 
-[[edit](/index.php?title=Torque&action=edit&section=2 "Edit section:
-Conceptual Definition" )]
 
 ##  Conceptual Definition
 

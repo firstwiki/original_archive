@@ -65,8 +65,6 @@ Award winners, and achieved the 1st Place Teamword Award at the Ocean Odyssey
   * [Stardust (2003)](/index.php?title=SMART-Stardust-2003&action=edit "SMART-Stardust-2003" )
   * [Big Ben (2002)](/index.php?title=SMART-Big_Ben-2002&action=edit "SMART-Big Ben-2002" )
 
-[[edit](/index.php?title=SMART&action=edit&section=3 "Edit section: Current
-Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -91,8 +89,6 @@ This event was hosted by two FIRST teams - Buzz Robotics ([Team
 175](/index.php/175 "175" )) and ACES High ([Team 176](/index.php/176 "176"
 )).
 
-[[edit](/index.php?title=SMART&action=edit&section=5 "Edit section: Bridgeport
-Qualifying Event" )]
 
 ### Bridgeport Qualifying Event
 
@@ -133,8 +129,6 @@ They were our alliance partner, were located in the booth next to ours in the
 pits, AND they got the 2nd place teamwork award! All in all, a great
 experience that we'll never forget.
 
-[[edit](/index.php?title=SMART&action=edit&section=8 "Edit section: Awards and
-Recognitions" )]
 
 ## Awards and Recognitions
 

@@ -45,8 +45,6 @@ Team Website: | <http://www.first.udsd.k12.pa.us/>
 
   * History Example 
 
-[[edit](/index.php?title=357&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -83,8 +81,6 @@ one thing, but not to another. All accounts have profile and contact
 information associate with them. Because this information is considered
 private, you must be logged in as a member to view this information.
 
-[[edit](/index.php?title=357&action=edit&section=6 "Edit section: Membership
-Types" )]
 
 ##### Membership Types
 
@@ -95,8 +91,6 @@ Types" )]
     * Alumni - This user has a primarily non-active role on the team. In the event an alumni may wish to remain on the database for recognition purposes, they are given this status. Alumni can also be granted individual access to web-site features if needed. 
     * Student - This user by default has very minimal access. A student's default access privileges are: Team Emailer and Subteam Manager. A student may be granted seperate privilages by an administrative user. 
 
-[[edit](/index.php?title=357&action=edit&section=7 "Edit section: Control
-Functions" )]
 
 #### Control Functions
 
@@ -121,8 +115,6 @@ The following are features that are used in the Account Control Panel.
   * **Log Viewer** **- Upon any event triggered by a user (User Edit, Article Edit, etc) a log is saved in the database. Administrators will review these often to monitor for abuse. 
   * **Media Manager** *- This feature corresponds with the media section on the website. Image and video files may be uploaded through an HTML form. Also adding categories is possible through this. Due to technical restrictions, it may impossible to upload larger (generally video) files through the HTML form. To bypass this restriction, it is possible to upload by sending the file through a FTP stream then using the website to scan the folder the file was uploaded to for any new files. 
 
-[[edit](/index.php?title=357&action=edit&section=8 "Edit section: Original
-Web-Team" )]
 
 #### Original Web-Team
 
@@ -137,8 +129,6 @@ add interactivity for the team members. The original website was located on
 "http://www.udsd.k12.pa.us" ) servers, which for security reasons prevented
 students being able to directly update the pages.
 
-[[edit](/index.php?title=357&action=edit&section=9 "Edit section: Original
-Web-Team Members" )]
 
 ##### Original Web-Team Members
 
@@ -169,8 +159,6 @@ responsible for checking for syntax and general coding syntax for the website.
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=357&action=edit&section=12 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -183,8 +171,6 @@ responsible for checking for syntax and general coding syntax for the website.
 
   * Member Example 
 
-[[edit](/index.php?title=357&action=edit&section=14 "Edit section: Students"
-)]
 
 ### Students
 

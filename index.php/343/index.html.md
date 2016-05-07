@@ -75,8 +75,6 @@ expansion" ).
   * [2007 - Andzrej](/index.php?title=Andzrej_%28343%29&action=edit "Andzrej \(343\)" )
   * [2008 - Wheelie Mammoth](/index.php?title=Wheelie_Mammoth_%28343%29&action=edit "Wheelie Mammoth \(343\)" )
 
-[[edit](/index.php?title=343&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

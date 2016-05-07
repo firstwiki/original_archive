@@ -99,8 +99,6 @@ in 2007, and in 2008, at Buckeye.
   * [2005 - CASTER](/index.php/612_in_2005#Robot "612 in 2005" )
   * [2004 - Black Knight](/index.php/612_in_2004#Robot "612 in 2004" )
 
-[[edit](/index.php?title=612&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -181,8 +179,6 @@ Flowers Award" )
   * [Booz Allen Hamilton](/index.php?title=Booz_Allen_Hamilton&action=edit "Booz Allen Hamilton" )
   * [PMI](/index.php?title=PMI&action=edit "PMI" )
 
-[[edit](/index.php?title=612&action=edit&section=13 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -37,8 +37,6 @@ of [Team 357's Website](http://www.firstwiki.org/357#Team_357_Web-Site
 
   
 
-[[edit](/index.php?title=User:Knippschild&action=edit&section=2 "Edit section:
-More Info" )]
 
 ##  More Info
 

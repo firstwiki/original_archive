@@ -49,8 +49,6 @@ events" ).
 
 #  2007
 
-[[edit](/index.php?title=Past_events&action=edit&section=2 "Edit section:
-March 2007" )]
 
 ##  March 2007
 
@@ -59,8 +57,6 @@ March 2007" )]
 
   * New York hosts second-largest FRC competition, second only to the FRC Nationals in Atlanta. It is held at the Jacob Javits Convention Center in New York City. 
 
-[[edit](/index.php?title=Past_events&action=edit&section=4 "Edit section:
-January 2007" )]
 
 ##  January 2007
 
@@ -69,16 +65,12 @@ January 2007" )]
 
   * Rack N' Roll is announced as the 2007 game during the FIRST Kickoff. 
 
-[[edit](/index.php?title=Past_events&action=edit&section=6 "Edit section:
-2006" )]
 
 #  2006
 
 
 ##  December 2006
 
-[[edit](/index.php?title=Past_events&action=edit&section=8 "Edit section:
-December 2" )]
 
 ###  December 2
 
@@ -87,8 +79,6 @@ December 2" )]
 
 ##  March 2006
 
-[[edit](/index.php?title=Past_events&action=edit&section=10 "Edit section:
-March 13, 5:00 PM \(PST\)" )]
 
 ###  March 13, 5:00 PM (PST)
 
@@ -97,8 +87,6 @@ March 13, 5:00 PM \(PST\)" )]
 
 ##  February 2006
 
-[[edit](/index.php?title=Past_events&action=edit&section=12 "Edit section:
-February 21" )]
 
 ###  February 21
 
@@ -109,8 +97,6 @@ February 21" )]
 
   * 2006 Autodesk Visualization submissions posted online at Project Point. (This year's theme is "Ideas Realized.") 
 
-[[edit](/index.php?title=Past_events&action=edit&section=14 "Edit section:
-January 2006" )]
 
 ##  January 2006
 
@@ -119,16 +105,12 @@ January 2006" )]
 
   * Aim High is announced as the 2006 game during the official FIRST Kickoff. 
 
-[[edit](/index.php?title=Past_events&action=edit&section=16 "Edit section:
-2005" )]
 
 #  2005
 
 
 ##  December 2005
 
-[[edit](/index.php?title=Past_events&action=edit&section=18 "Edit section:
-December 12" )]
 
 ###  December 12
 
@@ -137,8 +119,6 @@ December 12" )]
 
 ##  January 2005
 
-[[edit](/index.php?title=Past_events&action=edit&section=20 "Edit section:
-January 8" )]
 
 ###  January 8
 
@@ -147,8 +127,6 @@ January 8" )]
 
 #  2004
 
-[[edit](/index.php?title=Past_events&action=edit&section=22 "Edit section:
-December 2004" )]
 
 ##  December 2004
 
@@ -157,8 +135,6 @@ December 2004" )]
 
   * [FIRST](/index.php/FIRST "FIRST" ) releases the [Official 2005 Game Hint](/index.php/Official_2005_Game_Hint "Official 2005 Game Hint" ). 
 
-[[edit](/index.php?title=Past_events&action=edit&section=24 "Edit section: May
-2004" )]
 
 ##  May 2004
 
@@ -167,16 +143,12 @@ December 2004" )]
 
   * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) contains [100](/index.php/Special:Statistics "Special:Statistics" ) true articles! 
 
-[[edit](/index.php?title=Past_events&action=edit&section=26 "Edit section: May
-28" )]
 
 ###  May 28
 
   * [FIRST](/index.php/FIRST "FIRST" ) announces competition entry fee increases for 2005. ([FIRST memo](http://www.usfirst.org/robotics/2005/regfeememo.htm "http://www.usfirst.org/robotics/2005/regfeememo.htm" )) ([CD](/index.php/Chief_Delphi "Chief Delphi" ) threads: [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28820 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28820" ) and [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28828 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28828" )) 
   * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) moves to [Chief Delphi](/index.php/Chief_Delphi "Chief Delphi" ). 
 
-[[edit](/index.php?title=Past_events&action=edit&section=27 "Edit section: May
-24" )]
 
 ### May 24
 

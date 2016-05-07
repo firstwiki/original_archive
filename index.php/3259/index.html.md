@@ -71,16 +71,12 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc3259
 
   * 2012 Smoky Mountains Regional Winner 
 
-[[edit](/index.php?title=3259&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
 
 ##  Members List
 
-[[edit](/index.php?title=3259&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

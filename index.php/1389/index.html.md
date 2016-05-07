@@ -47,8 +47,6 @@ Team Website: | <http://www.team1389.com/>
 
   * The Georgetown Day/Walt Whitman High Schools Robotics Team, known as "Team 1389," first competed in the FIRST Robotics competition in 2004. 
 
-[[edit](/index.php?title=1389&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -69,24 +67,18 @@ projects" )]
   * [2005](/index.php?title=1389_in_2005&action=edit "1389 in 2005" )
   * [2006](/index.php?title=1389_in_2006&action=edit "1389 in 2006" )
 
-[[edit](/index.php?title=1389&action=edit&section=5 "Edit section: Team
-Organization" )]
 
 ## Team Organization
 
 Our team's unique [organization](/index.php/Team_organization "Team
 organization" ).
 
-[[edit](/index.php?title=1389&action=edit&section=6 "Edit section:
-Engineering" )]
 
 ### Engineering
 
 The [engineering](/index.php/Engineering "Engineering" ) team designs and
 builds the [robot](/index.php/Robot "Robot" ).
 
-[[edit](/index.php?title=1389&action=edit&section=7 "Edit section:
-Marketing/Public Relations" )]
 
 ### Marketing/Public Relations
 
@@ -117,8 +109,6 @@ clip.png)](/index.php/Image:Programming.JPG "Enlarge" )
 
 The 2005 Programming/Electrical Team with that year's electrical board.
 
-[[edit](/index.php?title=1389&action=edit&section=9 "Edit section: Web site"
-)]
 
 ### Web site
 
@@ -139,8 +129,6 @@ team creates and maintains our state-of-the-art web page, located at
 
 ## Members List
 
-[[edit](/index.php?title=1389&action=edit&section=12 "Edit section: Georgetown
-Day High School" )]
 
 ### Georgetown Day High School
 
@@ -189,8 +177,6 @@ Day High School" )]
 
   * Mr. Michael Oldak (engineer) 
 
-[[edit](/index.php?title=1389&action=edit&section=17 "Edit section: Teachers"
-)]
 
 ### Teachers
 

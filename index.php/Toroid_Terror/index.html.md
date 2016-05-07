@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -81,8 +79,6 @@ In each corner of the hexagon field, there was a stack of inner tubes, 1 each
 of red, white and blue, which were the colors of the team. Each human player
 also started with 3 innertubes, of the teams color.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=2 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -99,8 +95,6 @@ The main tournament was double elimination, in which every team competed. The
 matches were 1v1v1 where the top scoring team was the winner and the other two
 lost. When it got down to the final 16 teams, the game switched to 1v1.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=4 "Edit section:
-Kit Of Parts" )]
 
 ## Kit Of Parts
 
@@ -115,8 +109,6 @@ there were rumors of robots being assembled in a room, and when they tried to
 take it out to ship, it wouldn't fit through a door. The size requirement was
 changed for the following years to 3'x30"x4'.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -125,8 +117,6 @@ would only hold one inner tube). Teams would put a tube or similar structure
 on top of the center column, which would allow more inner tubes to fit
 centered above the column.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -141,8 +131,6 @@ Beatty &amp; Hammond [71](/index.php/71 "71" ) won the championship because
 they pulled off the center capping strategy faster and smoother then anyone
 else.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=8 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 

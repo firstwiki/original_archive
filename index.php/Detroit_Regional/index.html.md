@@ -87,8 +87,6 @@ Regional" )
 The Detroit Regional takes place in Detroit, Michigan, and is usually held at
 Wayne State University.
 
-[[edit](/index.php?title=Detroit_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

@@ -57,8 +57,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=435
   * [2001 - ???](/index.php?title=435_in_2001&action=edit "435 in 2001" )
   * [2000 - ???](/index.php?title=435_in_2000&action=edit "435 in 2000" )
 
-[[edit](/index.php?title=435&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -89,8 +87,6 @@ Accomplishments" )]
   * [North Carolina State University](http://www.ncsu.edu/ "http://www.ncsu.edu/" )
   * [Southeast Raleigh Magnet High School](http://www.srhs.net/ "http://www.srhs.net/" )
 
-[[edit](/index.php?title=435&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

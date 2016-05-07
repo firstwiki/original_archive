@@ -47,8 +47,6 @@ _team location and name and basic stuff_
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=Robomaniacs&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -85,8 +83,6 @@ results were firm seventh. They did very well and they showed great team work.
   * Seasons' robots 
   * [team name - robot name - year](/index.php?title=FIRSTwiki:FLL_robot_page_format&action=edit "FIRSTwiki:FLL robot page format" )
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=3 "Edit section:
-Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -143,8 +139,6 @@ The team competed well - achieving 3 of the top 10 scores at the event. For
 the first time in 3 years, the team took an award at this event, bringing home
 a "Top Finalist" trophy.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=9 "Edit section: AACS
-Pre-season tournament" )]
 
 ### AACS Pre-season tournament
 
@@ -153,8 +147,6 @@ Pre-season tournament" )]
 In this first-year warm-up event, the team again performed well. the team ran
 300+ scores in all of their runs, taking 1st place in the tournament.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=10 "Edit section:
-Maryland State Tournament" )]
 
 ### Maryland State Tournament
 
@@ -185,8 +177,6 @@ final round. The team ranked highest in the teamwork category, tying for 3rd
 place in that area. Their combined score put them in 7th place for the
 competition.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=12 "Edit section:
-Awards and Recognitions" )]
 
 ## Awards and Recognitions
 
@@ -201,8 +191,6 @@ Awards and Recognitions" )]
 Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=13 "Edit section:
-Sponsors" )]
 
 ## Sponsors
 

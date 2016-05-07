@@ -113,8 +113,6 @@ Kickoff.
 
   
 
-[[edit](/index.php?title=Aim_High&action=edit&section=3 "Edit section: Field
-Layout" )]
 
 ## Field Layout
 
@@ -169,8 +167,6 @@ facing alliance 7, and so on. At the end of the finals, the last remaining
 alliance is declared the winner and all three teams are given the right to
 attend the national competition.
 
-[[edit](/index.php?title=Aim_High&action=edit&section=6 "Edit section: Kit of
-Parts" )]
 
 ## Kit of Parts
 
@@ -187,8 +183,6 @@ of parts" ) this year,
   * An IR transmitter and reciever (for broken beam detection) 
   * And (probably the most surprising) a [digital camera](/index.php?title=Digital_camera&action=edit "Digital camera" ) and _Picasa_ software supplied by [Google](/index.php?title=Google&action=edit "Google" )
 
-[[edit](/index.php?title=Aim_High&action=edit&section=7 "Edit section: Rules"
-)]
 
 ## Rules
 
@@ -201,8 +195,6 @@ Major Rules include:
   * If a robot is more then 60 inches high, and it blocks a ball from being shot, a 5 point penalty per ball will be assesed. 
   * Power supplies are limited to compressed air, a 12-volt motorcycle battery, a 7.2-volt RC battery, deformation of parts (such as springs), and potential energy due to gravity. 
 
-[[edit](/index.php?title=Aim_High&action=edit&section=8 "Edit section: Robots"
-)]
 
 ## Robots
 
@@ -215,8 +207,6 @@ or catapults.
 The game is a test of accuracy and efficient use of resources, such as the
 CMUCam, to make the largest scoring advantage.
 
-[[edit](/index.php?title=Aim_High&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

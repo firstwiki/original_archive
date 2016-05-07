@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Uygxied86p&action=edit&section=1 "Edit section:
-www.lovesportswithcheapjerseys.com u59Qgk-y70XqXM-Ze87Tcl" )]
 
 ##  www.lovesportswithcheapjerseys.com u59Qgk-y70XqXM-Ze87Tcl
 

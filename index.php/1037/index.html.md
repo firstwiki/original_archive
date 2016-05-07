@@ -31,8 +31,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=1037&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -43,8 +41,6 @@ projects" )]
 
   * [2004 - The Screamer](/index.php?title=The_Screamer_%281037%29&action=edit "The Screamer \(1037\)" )
 
-[[edit](/index.php?title=1037&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -55,8 +51,6 @@ Accomplishments" )]
 
   * Ford &amp; SCREAM Team 
 
-[[edit](/index.php?title=1037&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

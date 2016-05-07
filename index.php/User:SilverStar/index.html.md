@@ -31,8 +31,6 @@ Jump to: navigation, search
 
 * * *
 
-[[edit](/index.php?title=User:SilverStar&action=edit&section=2 "Edit section:
-My Pages" )]
 
 ## My Pages
 
@@ -41,8 +39,6 @@ My Pages" )]
 
 * * *
 
-[[edit](/index.php?title=User:SilverStar&action=edit&section=3 "Edit section:
-ChiefDelphi" )]
 
 ## [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" )
 

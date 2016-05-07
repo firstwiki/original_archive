@@ -47,8 +47,6 @@ year. In 2006, signifigantly more people have in the school have taken
 interest, with many more trying for the team. The team has not won any awards
 to date.
 
-[[edit](/index.php?title=RoboKnights&action=edit&section=2 "Edit section:
-Ocean Oddessy Events Attended" )]
 
 # Ocean Oddessy Events Attended
 
@@ -67,8 +65,6 @@ interesting, seeing other teams' displays and their problems. We didn't win
 any awards or make it to the World Festival, but we learned and waited for
 next year"
 
-[[edit](/index.php?title=RoboKnights&action=edit&section=3 "Edit section: Nano
-Quest\(current year\) Events Attended" )]
 
 # Nano Quest(current year) Events Attended
 
@@ -77,8 +73,6 @@ Quest\(current year\) Events Attended" )]
 "We did really well, but didn't make it to state, but we'll try again next
 year!"
 
-[[edit](/index.php?title=RoboKnights&action=edit&section=4 "Edit section:
-Awards Won" )]
 
 # Awards Won
 
@@ -99,8 +93,6 @@ Clayton Regional-2nd Place Technical Presentation
   * Marshall (Robot Running, Programming) 7th Grade, Years on Team: 1 
   * Wheeler (Robot Running, Programming) 7th Grade, Years on Team: 1 
 
-[[edit](/index.php?title=RoboKnights&action=edit&section=6 "Edit section: Team
-Coach" )]
 
 ## Team Coach
 

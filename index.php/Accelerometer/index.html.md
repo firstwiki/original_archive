@@ -49,8 +49,6 @@ The [Control System](/index.php/Control_system "Control system" )
   * 5 Sources  
 ---  
   
-[[edit](/index.php?title=Accelerometer&action=edit&section=1 "Edit section:
-Definition" )]
 
 ## Definition
 
@@ -59,8 +57,6 @@ forces. These forces may be static, like the constant force of gravity pulling
 at your feet, or they could be dynamic - caused by moving or vibrating the
 accelerometer.
 
-[[edit](/index.php?title=Accelerometer&action=edit&section=2 "Edit section:
-Uses" )]
 
 ## Uses
 
@@ -91,8 +87,6 @@ functionality. This provides more realistic game control.
 [![](/media/thumb/f/fd/WiiAccel.jpg/100px-
 WiiAccel.jpg)](/index.php/Image:WiiAccel.jpg "" )
 
-[[edit](/index.php?title=Accelerometer&action=edit&section=4 "Edit section:
-Types" )]
 
 ## Types
 

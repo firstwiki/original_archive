@@ -47,8 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1717
     * 8.2 Alumni  
 ---  
   
-[[edit](/index.php?title=1717&action=edit&section=1 "Edit section: Overview"
-)]
 
 ##  Overview
 
@@ -221,8 +219,6 @@ The book _The New Cool_ was written about the 2009 team and was published in
   * Los Angeles Regional Rookie All-Star 
   * Arizona Regional Rookie Inspiration Award 
 
-[[edit](/index.php?title=1717&action=edit&section=7 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 

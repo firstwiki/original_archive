@@ -35,8 +35,6 @@ Team Website: | null
 
 ## History
 
-[[edit](/index.php?title=1893&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -49,24 +47,18 @@ Projects" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1893&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
 
 ## Engineering Mentors
 
-[[edit](/index.php?title=1893&action=edit&section=7 "Edit section: Non-
-Engineering Mentors" )]
 
 ## Non-Engineering Mentors
 
 
 ## Parents
 
-[[edit](/index.php?title=1893&action=edit&section=9 "Edit section: Students"
-)]
 
 ## Students
 

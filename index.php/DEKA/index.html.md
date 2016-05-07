@@ -15,8 +15,6 @@ Some of their notable inventions and products are
   * heart stent 
   * [Segway](http://www.wikipedia.org/wiki/Segway "wikipedia:Segway" )
 
-[[edit](/index.php?title=DEKA&action=edit&section=1 "Edit section: External
-Links" )]
 
 ## External Links
 

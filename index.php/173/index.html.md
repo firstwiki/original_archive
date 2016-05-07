@@ -91,8 +91,6 @@ years in the FRC Competition, and hopes to do well in the future.
   * [1996 - ???](/index.php?title=173_in_1996&action=edit "173 in 1996" )
   * [1995 - ???](/index.php?title=173_in_1995&action=edit "173 in 1995" )
 
-[[edit](/index.php?title=173&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

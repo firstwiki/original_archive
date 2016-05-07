@@ -43,8 +43,6 @@ Team Website: | <http://team291.org/>
     * 2.4 Bronze Sponsors  
 ---  
   
-[[edit](/index.php?title=291&action=edit&section=1 "Edit section: Team
-History" )]
 
 ##  Team History
 
@@ -199,8 +197,6 @@ he was exactly right. It so impressed the judges that, along with our other
 efforts in our rookie season, we were awarded with Rookie of the Year honors.
 That was only the beginning.
 
-[[edit](/index.php?title=291&action=edit&section=10 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 

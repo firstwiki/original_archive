@@ -23,8 +23,6 @@ The **Judges' Award** is given to a [team](/index.php/Team "Team" ) which the
 judges feel exhibit special qualities that deserve to be recognized, although
 they do not qualify for a regular award.
 
-[[edit](/index.php?title=Judges%27_Award&action=edit&section=1 "Edit section:
-Example" )]
 
 ## Example
 

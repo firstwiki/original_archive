@@ -39,8 +39,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=71
 
   * History Example 
 
-[[edit](/index.php?title=71&action=edit&section=2 "Edit section: Naming
-Convention" )]
 
 ## Naming Convention
 
@@ -63,8 +61,6 @@ B.E.A.S.T
   * [2002 - The Beast](/index.php?title=The_Beast_%2871%29&action=edit "The Beast \(71\)" )
   * [2001 - The Beast](/index.php?title=The_Beast_%2871%29&action=edit "The Beast \(71\)" )
 
-[[edit](/index.php?title=71&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -123,8 +119,6 @@ formats" ) for more help.
 
   * Team Hammond 
 
-[[edit](/index.php?title=71&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

@@ -65,8 +65,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc862
   * [2011](/index.php?title=862_in_2011&action=edit "862 in 2011" )
   * [2012](/index.php?title=862_in_2012&action=edit "862 in 2012" )
 
-[[edit](/index.php?title=862&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -91,8 +89,6 @@ projects" )]
   * [2011 - Vortex](/index.php?title=862_in_2011&action=edit "862 in 2011" )
   * [2012 - Eddie](/index.php?title=862_in_2012&action=edit "862 in 2012" )
 
-[[edit](/index.php?title=862&action=edit&section=4 "Edit section: Events
-Attended" )]
 
 ## Events Attended
 
@@ -185,8 +181,6 @@ Attended" )]
   * 2012 Michigan _FIRST_ Robotics District Competition State Championship - Quarterfinalist (862, 1718, 3322) 
   * **2012 _FIRST_ Championship - Excellence in Design Award sponsored by Autodesk**
 
-[[edit](/index.php?title=862&action=edit&section=6 "Edit section: State
-Rankings" )]
 
 ## State Rankings
 
@@ -205,8 +199,6 @@ Rankings" )]
   * Weldcraft Wheels 
   * Michigan Alarm 
 
-[[edit](/index.php?title=862&action=edit&section=8 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -105,8 +105,6 @@ Team Website: | <http://www.team467.org/>
   * Brendah Donoghue 
   * John Vicalvi 
 
-[[edit](/index.php?title=467&action=edit&section=9 "Edit section: Class of
-2009" )]
 
 #### Class of 2009
 
@@ -129,8 +127,6 @@ Team Website: | <http://www.team467.org/>
 
   * Erin Connor  
 
-[[edit](/index.php?title=467&action=edit&section=11 "Edit section: Class of
-2011" )]
 
 #### Class of 2011
 
@@ -157,8 +153,6 @@ Team Website: | <http://www.team467.org/>
 
 ### Alumni
 
-[[edit](/index.php?title=467&action=edit&section=13 "Edit section: Class of
-2007" )]
 
 #### Class of 2007
 

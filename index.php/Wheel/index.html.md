@@ -31,8 +31,6 @@ Jump to: navigation, search
 Various types of wheels exist, including standard, grip, holonomic, and
 mechanum.
 
-[[edit](/index.php?title=Wheel&action=edit&section=2 "Edit section: Standard"
-)]
 
 ##  Standard
 

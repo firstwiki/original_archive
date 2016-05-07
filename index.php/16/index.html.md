@@ -81,8 +81,6 @@ specialize in impossible situations.
   * Team 16 was selected as one of 17 FRC teams to beta test the new 2009 control system and train a portion of the other 1700 teams. We traveled to Kansas City and St. Louis to demonstrate the new control system and offered training workshops to over 70 teams from 3 states. 
   * In fifteen seasons of competition the Bomb Squad has earned and maintained a position in the FIRST Hall of Fame. In addition to the Chairman’s Award, Team 16 won a Creativity Award at the Championship level. In 2008 the team was a Division Champion and earned a World Finalist medal. The many Regional honors bestowed upon the Bomb Squad include 8 Regional Championships, 38 Regional Awards and 2005 Woodie Flowers Finalist and 2009 Championship Woodie Flower award winner John Novak. 
 
-[[edit](/index.php?title=16&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -107,8 +105,6 @@ projects" )]
 
   * Two Minute Warning - 1998 
 
-[[edit](/index.php?title=16&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

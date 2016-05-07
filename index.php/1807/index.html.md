@@ -47,8 +47,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1807
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1807&action=edit&section=1 "Edit section: Current
-Year" )]
 
 ##  Current Year
 
@@ -279,8 +277,6 @@ Frc1807-2011.JPG)](/index.php/Image:Frc1807-2011.JPG "" )
 
   * 2005: Montclair Mayhem (pre-rookie): Highest Qualifying Score 
 
-[[edit](/index.php?title=1807&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -313,8 +309,6 @@ Thanks to all for enabling us to reach our goals!
 
 ##  Members List
 
-[[edit](/index.php?title=1807&action=edit&section=8 "Edit section: Students"
-)]
 
 ###  Students
 

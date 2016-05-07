@@ -69,16 +69,12 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc3255
 
   * 2012 San Diego Regional Winners 
 
-[[edit](/index.php?title=3255&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
 
 ##  Members List
 
-[[edit](/index.php?title=3255&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

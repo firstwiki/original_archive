@@ -73,8 +73,6 @@ desctiption and maybe
   * of links to each 
   * Seasons' robots 
 
-[[edit](/index.php?title=1337&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

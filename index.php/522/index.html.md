@@ -53,8 +53,6 @@ strategizing, and much more. You can't miss us with our vibrant, purple
 shirts, wizard regalia, loud chanting, our mascots, the wizards, and most
 importantly, our Teamwork and Gracious Professionalism!
 
-[[edit](/index.php?title=522&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -81,8 +79,6 @@ projects" )]
 
 2001 - Wilma
 
-[[edit](/index.php?title=522&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -131,8 +127,6 @@ Accomplishments" )]
   * N.Y.C. Regional Incredible Play of the Day 
   * N.Y.C. Regional Finalist 
 
-[[edit](/index.php?title=522&action=edit&section=12 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -145,8 +139,6 @@ Verizon Foundation
 NY State Senator Diane J. Savino  
 Mayor Bloomberg  
 
-[[edit](/index.php?title=522&action=edit&section=13 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -155,8 +147,6 @@ List" )]
 
 (To be updated.)
 
-[[edit](/index.php?title=522&action=edit&section=15 "Edit section: Active
-Alumni" )]
 
 ### Active Alumni
 

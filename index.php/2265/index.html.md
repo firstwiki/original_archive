@@ -99,8 +99,6 @@ NYC Regional - Rookie All-Star Award
 
 # Members List
 
-[[edit](/index.php?title=2265&action=edit&section=8 "Edit section: Students"
-)]
 
 ### Students
 

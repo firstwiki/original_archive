@@ -61,8 +61,6 @@ SOAP stands for SigmaC@T Opponant Analysis Program; it is a program designed
 to scout other teams to check compatability. SOAP is available to all other
 teams, if they would like to use it. Check out the website for more info!
 
-[[edit](/index.php?title=108&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -117,8 +115,6 @@ been announced for 2010.
   * [2005 - SigmaC@T 2005](/index.php?title=108_in_2005&action=edit "108 in 2005" ) [2005 bot](http://www.chiefdelphi.com/media/img/c49/c495e7fd9d90168cc3d5855a1ee074ca_l.jpg "http://www.chiefdelphi.com/media/img/c49/c495e7fd9d90168cc3d5855a1ee074ca_l.jpg" )
   * [2004 - SigmaC@T 2004](/index.php?title=108_in_2004&action=edit "108 in 2004" )
 
-[[edit](/index.php?title=108&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -159,8 +155,6 @@ Accomplishments" )]
   * Brother 
   * Apple 
 
-[[edit](/index.php?title=108&action=edit&section=7 "Edit section: Members
-List" )]
 
 ## Members List
 

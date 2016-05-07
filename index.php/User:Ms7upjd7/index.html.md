@@ -223,8 +223,6 @@ include sneakers, apparel, add-ons and of course, sunglasses.
   * [Men's Adidas ZX 500 Shoes Outlet Get Exclusive Assortment Of](http://wiki.umuse.org/User:Mf6abbz1#Men.27s_Adidas_ZX_500_Shoes_Outlet_Get_Exclusive_Assortment_Of "http://wiki.umuse.org/User:Mf6abbz1#Men.27s_Adidas_ZX_500_Shoes_Outlet_Get_Exclusive_Assortment_Of" )
   * [Buy Adidas Devotion PB](http://www.thebenchmarkers.com/story.php?title=buy-adidas-devotion-pb "http://www.thebenchmarkers.com/story.php?title=buy-adidas-devotion-pb" )
 
-[[edit](/index.php?title=User:Ms7upjd7&action=edit&section=5 "Edit section:
-adidas 2012 shoes Bamboo Clothing - The 7 Benefits Of Bamboo" )]
 
 ##  adidas 2012 shoes Bamboo Clothing - The 7 Benefits Of Bamboo
 

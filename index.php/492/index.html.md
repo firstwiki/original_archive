@@ -191,8 +191,6 @@ technology as careers to pursue.
   * [Chronos (492)](/index.php/Chronos_%28492%29 "Chronos \(492\)" ) \- [492 in 2002](/index.php/492_in_2002 "492 in 2002" )
   * [Prometheus (492)](/index.php/Prometheus_%28492%29 "Prometheus \(492\)" ) \- [492 in 2001](/index.php/492_in_2001 "492 in 2001" )
 
-[[edit](/index.php?title=492&action=edit&section=9 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -251,16 +249,12 @@ Accomplishments" )]
   * DeVry University 
   * The Hovander Family 
 
-[[edit](/index.php?title=492&action=edit&section=17 "Edit section: Members
-List" )]
 
 ## Members List
 
 
 ### Students
 
-[[edit](/index.php?title=492&action=edit&section=19 "Edit section: Leadership"
-)]
 
 ### Leadership
 
@@ -269,8 +263,6 @@ List" )]
   * Chief Financial Officer (CFO): Ann Tseng 
   * Chief Information Officer (CIO): Katelyn Malmsten 
 
-[[edit](/index.php?title=492&action=edit&section=20 "Edit section: Advisors"
-)]
 
 ### Advisors
 

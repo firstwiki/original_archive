@@ -71,8 +71,6 @@ Elementary Student team building.
   * 2001 - Catawampus 
   * 2000 - Ball Flogger 
 
-[[edit](/index.php?title=103&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

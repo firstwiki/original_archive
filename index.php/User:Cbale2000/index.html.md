@@ -55,8 +55,6 @@ areas_
   * 3 Comments  
 ---  
   
-[[edit](/index.php?title=User:Cbale2000&action=edit&section=1 "Edit section:
-FIRSTwiki Projects" )]
 
 ## FIRSTwiki Projects
 
@@ -65,8 +63,6 @@ FIRSTwiki Projects" )]
 
   * Create and fill the new [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" ) page. There's a lot of teams to add so anyone who would like to help out, please feel free to. 
 
-[[edit](/index.php?title=User:Cbale2000&action=edit&section=3 "Edit section:
-Finished Projects" )]
 
 ### Finished Projects
 

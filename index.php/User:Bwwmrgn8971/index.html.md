@@ -213,8 +213,6 @@ comprehensive conduct towards element linked to sector companies. &lt;/p&gt;
 
 .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=2 "Edit section:
-article10928" )]
 
 ##  article10928
 
@@ -503,8 +501,6 @@ the opportunities. Zero! End along with pick along with take action.
 
 .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=4 "Edit section:
-article1687" )]
 
 ##  article1687
 
@@ -1003,8 +999,6 @@ jerseys in UK London 2011](http://www.fanaticsuk.info
 "http://www.fanaticsuk.info" ), two pairs of combinations before the final are
 not met . &lt;/p&gt; &lt;/div&gt;
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=8 "Edit section:
-Dong Teng New lower stamp duty than to simply abolish the Ne" )]
 
 ##  Dong Teng New lower stamp duty than to simply abolish the Ne
 

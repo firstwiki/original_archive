@@ -89,8 +89,6 @@ at __________. The dates for competition this year is 2/28/2008 - 3/1/2008.
 
   
 
-[[edit](/index.php?title=Midwest_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

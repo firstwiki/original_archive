@@ -63,8 +63,6 @@ Usually the [FRC](/index.php/FRC "FRC" ) game contains of two alliances (red
 and blue) each with three robots on the alliance. The game also usually
 contains a game element and a goal object.
 
-[[edit](/index.php?title=Game_%28FRC%29&action=edit&section=2 "Edit section:
-Game Periods" )]
 
 ### Game Periods
 
@@ -75,8 +73,6 @@ occasionally a third period within the last main period.
   * [Teleoperated Period](/index.php/Teleoperated_Period "Teleoperated Period" )
     * [End Game](/index.php/End_Game "End Game" )
 
-[[edit](/index.php?title=Game_%28FRC%29&action=edit&section=3 "Edit section:
-Kickoff" )]
 
 ## Kickoff
 

@@ -75,8 +75,6 @@ Please
 links with a valid URL or remove dead links.  
 ---|---  
   
-[[edit](/index.php?title=Control_system&action=edit&section=1 "Edit section:
-2009 Control System" )]
 
 ##  2009 Control System
 

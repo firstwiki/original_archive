@@ -85,8 +85,6 @@ Central High School, The Central High School Home &amp; School Association
 
 ## Student Members
 
-[[edit](/index.php?title=321&action=edit&section=6 "Edit section:
-Build/Robotic Design Crew" )]
 
 ### Build/Robotic Design Crew
 
@@ -97,8 +95,6 @@ Build/Robotic Design Crew" )]
 
   * \- 
 
-[[edit](/index.php?title=321&action=edit&section=8 "Edit section: Coaches &
-Mentors" )]
 
 ## Coaches &amp; Mentors
 

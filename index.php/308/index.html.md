@@ -65,8 +65,6 @@ Team Website: | {{{website}}}
   * 2008-Audrey X 
   * 2009-Audrey XI 
 
-[[edit](/index.php?title=308&action=edit&section=4 "Edit section: Awards
-\(List Incomplete\)" )]
 
 ## Awards (List Incomplete)
 
@@ -103,8 +101,6 @@ Walled Lake Schools
 
 ## Students
 
-[[edit](/index.php?title=308&action=edit&section=8 "Edit section: Walled Lake
-Northern" )]
 
 #### Walled Lake Northern
 
@@ -123,8 +119,6 @@ Northern" )]
 
   
 
-[[edit](/index.php?title=308&action=edit&section=10 "Edit section: Walled Lake
-Central" )]
 
 #### Walled Lake Central
 
@@ -137,8 +131,6 @@ Central" )]
 
 ## Mentors
 
-[[edit](/index.php?title=308&action=edit&section=12 "Edit section: TRW
-Engineers" )]
 
 ##### TRW Engineers
 

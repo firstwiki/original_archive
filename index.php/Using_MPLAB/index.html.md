@@ -39,8 +39,6 @@ onfirst.com/FIRSTRobotics/pdfs/C-BOT_Install_1-29-2004.pdf
 
 ## Getting around in MPLAB
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=3 "Edit section:
-Toolbar bars" )]
 
 ### Toolbar bars
 
@@ -57,8 +55,6 @@ almost all Windows editing programs.
   * **Print:** Prints the currently focused file. 
   * **Help:** Clicking on this button opens a table of contents of help avaiable. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=5 "Edit section:
-Project" )]
 
 #### Project
 
@@ -73,8 +69,6 @@ breakpoints, and other non-essential stuff.
   * **Save workspace:** Saves the currently open project file. 
   * **Build options:** Brings up a dialog box which allows you to set many options of your project and parameters passed on to the assembler, compiler, and linker. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=6 "Edit section:
-Debug" )]
 
 #### Debug
 
@@ -91,8 +85,6 @@ things which you can change which effect all projects.
   * **MCC18 Location:** From the menus, choose Project > Set Language Tool Locations... This option tells MPLAB where it can find MCC18. 
   * **MCC18 Default Dirs:** From the menus, choose Project > Set Language Tool Locations... This option allows you to set the places in which MCC18 looks for various things. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=8 "Edit section: The
-Dialog Boxes" )]
 
 ### The Dialog Boxes
 
@@ -101,8 +93,6 @@ at least most of them._
 _Dialog boxes are arranged according to nesting in menus. If there is another
 way of reaching them, it will be noted at the beginning of the section._
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=9 "Edit section:
-File" )]
 
 #### File
 
@@ -113,8 +103,6 @@ _File &gt; Open..._
 **Purpose:** This option allows you to open up source, list, map, and linker files. ("All files" option is also included)  
 **Use:** This window operates just like a standard Windows open box. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=11 "Edit section:
-Open Workspace" )]
 
 ##### Open Workspace
 
@@ -129,8 +117,6 @@ _File &gt; Import..._
 **Purpose:** Allows you to import .hex and debugger files. (all files option is also included)  
 **Use:** This window operates just like a standard Windows open box. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=13 "Edit section:
-Save As" )]
 
 ##### Save As
 
@@ -145,8 +131,6 @@ _File &gt; Open Workspace..._
 **Purpose:** Allows you to save the currently open workspace.  
 **Use:** This window operates just like a standard Windows save box. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=15 "Edit section:
-Project" )]
 
 #### Project
 

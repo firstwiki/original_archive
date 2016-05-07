@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Maize_Craze&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -83,8 +81,6 @@ Get as many points as you can by collecting and returning tennis balls into
 your scoring area. There were 4 robots on the field at a time, and they
 started in the 4 corners of the field. The matches were two minutes long.
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -111,8 +107,6 @@ clip.png)](/index.php/Image:Comp1992.jpg "Enlarge" )
 
 ## Strategies
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 

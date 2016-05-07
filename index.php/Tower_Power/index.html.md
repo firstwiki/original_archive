@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Tower_Power&action=edit&section=1 "Edit section:
-Field Layout" )]
 
 ## Field Layout
 
@@ -83,8 +81,6 @@ points and a ball in the lower part of the tower was 1 point.
 
 ## Tournament Structure
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=4 "Edit section: Kit
-Of Parts" )]
 
 ## Kit Of Parts
 
@@ -93,8 +89,6 @@ Of Parts" )]
 
 ## Rules
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -103,8 +97,6 @@ Strategies" )]
 
   * The National Champion, Sunny Delight, shot balls into the goal. 
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=8 "Edit section: Misc
-Info" )]
 
 ## Misc Info
 

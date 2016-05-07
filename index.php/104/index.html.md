@@ -37,8 +37,6 @@ Team Website: | <http://www.team104.com/>
 
   * History Example 
 
-[[edit](/index.php?title=104&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -49,8 +47,6 @@ projects" )]
 
   * [2004 - XLR8](/index.php?title=104_in_2004&action=edit "104 in 2004" )
 
-[[edit](/index.php?title=104&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -61,8 +57,6 @@ Accomplishments" )]
 
   * MEI &amp; WCASD 
 
-[[edit](/index.php?title=104&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

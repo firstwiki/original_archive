@@ -145,8 +145,6 @@ motor and locked into a horizontal position.
   * 2012 San Diego Regional Engineering Excellence Award Recipients 
   * 2011 San Diego Regional Judge's Award Recipients 
 
-[[edit](/index.php?title=3476&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -183,8 +181,6 @@ Mr. and Mrs. Mabie
 
 ##  Members List
 
-[[edit](/index.php?title=3476&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

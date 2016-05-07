@@ -17,8 +17,6 @@ Jump to: navigation, search
 
 This is how [237](/index.php/237 "237" ) did in 2002.
 
-[[edit](/index.php?title=237_in_2002&action=edit&section=2 "Edit section: UTC
-Regional" )]
 
 ### [UTC Regional](/index.php/UTC_Regional "UTC Regional" )
 
@@ -47,8 +45,6 @@ involved in F.I.R.S.T.
   * Seeded 19th out of 63 teams 
   * Eliminated in the semifinals 
 
-[[edit](/index.php?title=237_in_2002&action=edit&section=3 "Edit section:
-National Championship" )]
 
 ### [National Championship](/index.php/National_Championship "National
 Championship" )
@@ -61,8 +57,6 @@ visiting our pit area many times.
 
   * Seeded 55th out of 71 teams (Curie (Blue) Division) 
 
-[[edit](/index.php?title=237_in_2002&action=edit&section=4 "Edit section:
-Robot" )]
 
 ## Robot
 

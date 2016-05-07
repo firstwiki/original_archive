@@ -13,8 +13,6 @@ Jump to: navigation, search
     * 2.2 Outside Sources for Ideas  
 ---  
   
-[[edit](/index.php?title=Recruitment&action=edit&section=1 "Edit section:
-Introduction" )]
 
 # Introduction
 
@@ -25,8 +23,6 @@ FIRST team because of the large time committment involved. Also, many students
 the project. Building an entire robot from scratch seems like such an esoteric
 task that many give up before they even start.
 
-[[edit](/index.php?title=Recruitment&action=edit&section=2 "Edit section: Two
-Important Considerations" )]
 
 ## Two Important Considerations
 
@@ -45,8 +41,6 @@ is still necessary to draw attention to the team and make sure that interested
 students are comfortable with approaching team members for information. Here
 are some specific ideas for recruitment:
 
-[[edit](/index.php?title=Recruitment&action=edit&section=4 "Edit section:
-Specific Activities" )]
 
 ## Specific Activities
 

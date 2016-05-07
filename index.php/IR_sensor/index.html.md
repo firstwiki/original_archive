@@ -53,8 +53,6 @@ continued importance. The most common setup works by connecting the sensors to
 frequency and pulse-width that the [IR beacons](/index.php/IR_beacon "IR
 beacon" ) were known to emit.
 
-[[edit](/index.php?title=IR_sensor&action=edit&section=1 "Edit section: Use in
-2004" )]
 
 ## Use in 2004
 
@@ -89,8 +87,6 @@ it is not static, [dead reckoning](/index.php/Dead_reckoning "Dead reckoning"
 [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=26774
 "http://www.chiefdelphi.com/forums/showthread.php?t=26774" )).
 
-[[edit](/index.php?title=IR_sensor&action=edit&section=3 "Edit section:
-Resources" )]
 
 ## Resources
 

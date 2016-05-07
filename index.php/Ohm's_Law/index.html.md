@@ -17,8 +17,6 @@ actuality, resistance is dependent on temperature change. However, despite
 these non-ideal situations, the _Ohm's law_ equation is still somewhat valid,
 only R is no longer a constant.
 
-[[edit](/index.php?title=Ohm%27s_Law&action=edit&section=1 "Edit section:
-Resources" )]
 
 ## Resources
 

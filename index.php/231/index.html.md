@@ -49,8 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc231
 
   * History 
 
-[[edit](/index.php?title=231&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -61,8 +59,6 @@ projects" )]
 
   * [2004 - Roboticus](/index.php/Roboticus_%28231%29 "Roboticus \(231\)" )
 
-[[edit](/index.php?title=231&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
   * Boeing 
   * ASME 
 
-[[edit](/index.php?title=231&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

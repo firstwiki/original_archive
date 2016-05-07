@@ -45,8 +45,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=329
 -we have started a lego league at all seven of our local elementary schools   
 -the number of members in our team has atleast doubled in from last year (2007)   
 
-[[edit](/index.php?title=329&action=edit&section=2 "Edit section: official
-website" )]
 
 ## official website
 
@@ -87,8 +85,6 @@ around 30-40 members
 
   * Alumni Example - Alumni Present Location, Class of XXXX 
 
-[[edit](/index.php?title=329&action=edit&section=10 "Edit section: sponsors"
-)]
 
 ### sponsors
 

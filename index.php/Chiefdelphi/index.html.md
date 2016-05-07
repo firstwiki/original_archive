@@ -47,8 +47,6 @@ back to the community. Members from all walks of [FIRST](/index.php/FIRST
   * 4 Significance  
 ---  
   
-[[edit](/index.php?title=Chief_Delphi&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -79,8 +77,6 @@ As of February 26, 2009:
   * Active Members: 7,950 
   * Most users online at one time: 635, on 01-06-2007 
 
-[[edit](/index.php?title=Chief_Delphi&action=edit&section=3 "Edit section:
-Structure" )]
 
 ## Structure
 

@@ -41,8 +41,6 @@ Team Website: |
 
   * History Example 
 
-[[edit](/index.php?title=382&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - Tux](/index.php?title=Tux_%28382%29&action=edit "Tux \(382\)" )
 
-[[edit](/index.php?title=382&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

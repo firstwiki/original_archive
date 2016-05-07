@@ -39,8 +39,6 @@ Team Website: |
 
   * History Example 
 
-[[edit](/index.php?title=1218&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -51,8 +49,6 @@ projects" )]
 
   * [2004 - Trike](/index.php?title=Trike_%281218%29&action=edit "Trike \(1218\)" )
 
-[[edit](/index.php?title=1218&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -73,8 +69,6 @@ Accomplishments" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1218&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

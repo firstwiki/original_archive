@@ -103,8 +103,6 @@ will be the next leaders of Eagle Robotics.
   * [2006 - Z^3](/index.php?title=1388_in_2006&action=edit "1388 in 2006" ) (Team Leaders David Cruz/ Alice Grey) 
   * [2007 - Lucky](/index.php?title=1388_in_2007&action=edit "1388 in 2007" ) (Team Leaders Garrett Tietz/ Bryan Quennell) 
 
-[[edit](/index.php?title=1388&action=edit&section=6 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

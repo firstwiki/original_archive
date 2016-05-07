@@ -259,8 +259,6 @@ GA, team 461 made a strong showing, going 6-1 and was seeded 10th at the end
 of qualification rounds. With a good season behind it, WBI looks foward to
 future success in the upcoming seasons.
 
-[[edit](/index.php?title=461&action=edit&section=14 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -291,8 +289,6 @@ information about Rowdy Pete can be found at
   * 461 in 2009: Rowdy Pete 10. [[10]](http://www.boilerinvasion.org/index.php?page=robots&id=1 "http://www.boilerinvasion.org/index.php?page=robots&id=1" )
   * 461 in 2010: Rowdy Pete 11. [[11]](http://www.boilerinvasion.org/index.php?page=robots&id=8 "http://www.boilerinvasion.org/index.php?page=robots&id=8" )
 
-[[edit](/index.php?title=461&action=edit&section=16 "Edit section: Animation"
-)]
 
 ### Animation
 
@@ -309,8 +305,6 @@ of the previous creations.
   * 461 in 2009. [[19]](http://www.boilerinvasion.org/index.php?page=animation&id=9 "http://www.boilerinvasion.org/index.php?page=animation&id=9" )
   * 461 in 2010. [[20]](http://www.boilerinvasion.org/index.php?page=animation&id=10 "http://www.boilerinvasion.org/index.php?page=animation&id=10" )
 
-[[edit](/index.php?title=461&action=edit&section=17 "Edit section: Community
-Service" )]
 
 ### Community Service
 

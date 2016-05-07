@@ -57,8 +57,6 @@ Index of FRC Games
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Rug_Rage&action=edit&section=1 "Edit section: Field
-Layout" )]
 
 ## Field Layout
 
@@ -75,24 +73,18 @@ Rug Rage Field
 Each goal has a crossbar that only allows small balls to roll under it. Game
 starts with scoring objects (balls) randomly placed in center of field.
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=2 "Edit section: Game
-Description" )]
 
 ## Game Description
 
 Each kick ball in a team's goal is worth 5 points and each water-filled ball
 is worth one point.
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
 The pair of teams with the highest scores were the winners, and (conversely)
 the two teams with the lowest scores are the losers.
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=4 "Edit section: Kit Of
-Parts" )]
 
 ## Kit Of Parts
 
@@ -107,8 +99,6 @@ Parts" )]
 
 ## Strategies
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=7 "Edit section: Robots"
-)]
 
 ## Robots
 

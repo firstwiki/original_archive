@@ -67,16 +67,12 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2386
 
 ##  Accomplishments
 
-[[edit](/index.php?title=2386&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
 
 ##  Members List
 
-[[edit](/index.php?title=2386&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

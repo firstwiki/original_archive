@@ -25,8 +25,6 @@ Competition Year: | xxxx
 
 ## Robot
 
-[[edit](/index.php?title=TechBrick_-_2004&action=edit&section=2 "Edit section:
-Technical Details" )]
 
 ### Technical Details
 
@@ -43,8 +41,6 @@ Technical Details" )]
   * Max _Possible_ Score: 400 
   * Max Score Achieved in Actual Competition: ? 
 
-[[edit](/index.php?title=TechBrick_-_2004&action=edit&section=3 "Edit section:
-Special Features" )]
 
 ### Special Features
 
@@ -57,8 +53,6 @@ Special Features" )]
 
   
 
-[[edit](/index.php?title=TechBrick_-_2004&action=edit&section=4 "Edit section:
-Builder's "Journal"" )]
 
 ### Builder's "Journal"
 
@@ -73,8 +67,6 @@ had learned and observed. We made it simpler, worked on predictable
 programming, combined tasks, and used video recording and evaluation to cut
 our table time from 4 minutes to less than 2 minutes for all missions.
 
-[[edit](/index.php?title=TechBrick_-_2004&action=edit&section=5 "Edit section:
-Lessons Learned" )]
 
 ### Lessons Learned
 

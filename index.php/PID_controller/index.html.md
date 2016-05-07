@@ -173,8 +173,6 @@ passers-by, or both. If strange behaivor is observed on a previously working
 control loop, check the sensors to make sure the correct values are being
 read, and that the sensor is functioning.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=5 "Edit section:
-Positive Feedback" )]
 
 ## Positive Feedback
 
@@ -185,8 +183,6 @@ times the PID gains should lead to a further reduction in the error. Positive
 feedback will cause a runaway condition that can be very violent, causing
 damage to people or equipment.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=6 "Edit section:
-Safety Mechanisms" )]
 
 ## Safety Mechanisms
 
@@ -199,8 +195,6 @@ switches) or software ("soft" limits). If only software limits are available,
 there should be a watchdog circuit with safe shutdown implemented, since the
 sanity of the control software cannot be depended upon.
 
-[[edit](/index.php?title=PID_controller&action=edit&section=7 "Edit section:
-Schematic" )]
 
 ## Schematic
 

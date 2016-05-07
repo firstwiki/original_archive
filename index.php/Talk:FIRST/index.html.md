@@ -23,8 +23,6 @@ Jump to: navigation, search
     * 4.2 Wrong Page  
 ---  
   
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=1 "Edit section:
-Current Topics" )]
 
 ## Current Topics
 
@@ -57,8 +55,6 @@ they be removed unless there's something to fill 'em with.
      I suppose, we have to make the page though. [Boydean](/index.php/User:Boydean "User:Boydean" ) 22:59, 14 March 2010 (EDT) 
      After thinking about the page for a bit (or rather staring at the edit box), I couldn't think of what would go on there, besides the general definition of the term and how it applied to FIRST. That could fit in just the FIRST page in a section? [Tanner](/index.php/User:TannerLD "User:TannerLD" ) 21:06, 16 March 2010 (EDT) 
 
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=4 "Edit section:
-Resolved/Old Topics" )]
 
 ## Resolved/Old Topics
 

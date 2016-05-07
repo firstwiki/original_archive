@@ -51,8 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc814
 
   * History Example 
 
-[[edit](/index.php?title=814&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -63,8 +61,6 @@ projects" )]
 
   * [2004 - Blondie Girl](/index.php?title=Blondie_Girl_%28814%29&action=edit "Blondie Girl \(814\)" )
 
-[[edit](/index.php?title=814&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
 
   * New Tech Robotics 
 
-[[edit](/index.php?title=814&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

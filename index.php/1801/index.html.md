@@ -65,8 +65,6 @@ _**Team 1801 - The Dapper Dans of Kountze, Texas**_
 
 _Team history_
 
-[[edit](/index.php?title=1801&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -101,8 +99,6 @@ desctiption and maybe
   * a list of 
   * sponsors 
 
-[[edit](/index.php?title=1801&action=edit&section=6 "Edit section: Members
-List" )]
 
 ##  Members List
 

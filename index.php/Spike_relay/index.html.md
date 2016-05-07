@@ -71,8 +71,6 @@ M- and nothing is grounded.
 Spikes can be connected to a [motor](/index.php/Motor "Motor" ) that does not
 need to move at a variable speed. The motor cannot draw more than 20A.
 
-[[edit](/index.php?title=Spike&action=edit&section=4 "Edit section: Solenoids"
-)]
 
 ### Solenoids
 
@@ -91,8 +89,6 @@ enabled. If the compressor is powered in reverse, it will appear to function,
 but it will be drawing more current and producing more heat than it should for
 the amount of air it moves.
 
-[[edit](/index.php?title=Spike&action=edit&section=6 "Edit section: Pinout of
-Control Input" )]
 
 ### Pinout of Control Input
 

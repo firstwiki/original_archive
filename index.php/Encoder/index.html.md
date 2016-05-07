@@ -59,8 +59,6 @@ encoding methods include using reflective optical detection, mechanical wipers
   * 3 Interfacing Considerations  
 ---  
   
-[[edit](/index.php?title=Encoder&action=edit&section=1 "Edit section:
-Calculations" )]
 
 ## Calculations
 
@@ -83,8 +81,6 @@ gone by since the last pulse.
 Note that at high speed, this method can be very noisy, so a running average
 of the last few pulse durations can be useful.
 
-[[edit](/index.php?title=Encoder&action=edit&section=3 "Edit section: Types of
-Encoders" )]
 
 ## Types of Encoders
 

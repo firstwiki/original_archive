@@ -13,8 +13,6 @@ patrol [Recent Changes](/index.php/Special:Recentchanges
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Vaporizer&action=edit&section=1 "Edit section:
-No More Smoking In Your Life, Join Hands With Vaporizers" )]
 
 ##  No More Smoking In Your Life, Join Hands With Vaporizers
 

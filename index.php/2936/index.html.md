@@ -69,16 +69,12 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2936
 
   * 2012 Alamo Regional Winner 
 
-[[edit](/index.php?title=2936&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
 
 ##  Members List
 
-[[edit](/index.php?title=2936&action=edit&section=6 "Edit section: Students"
-)]
 
 ###  Students
 

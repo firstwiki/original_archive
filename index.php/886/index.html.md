@@ -49,8 +49,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc886
 
   * History Example 
 
-[[edit](/index.php?title=886&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -61,8 +59,6 @@ projects" )]
 
   * [2004 - The Wildcat](/index.php?title=The_Wildcat_%28886%29&action=edit "The Wildcat \(886\)" )
 
-[[edit](/index.php?title=886&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -73,8 +69,6 @@ Accomplishments" )]
 
   * Wildcats 
 
-[[edit](/index.php?title=886&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

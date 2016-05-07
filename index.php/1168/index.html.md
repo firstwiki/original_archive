@@ -69,8 +69,6 @@ Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" ).
   * [2004](/index.php/1168_in_2004 "1168 in 2004" )
   * [2005](/index.php?title=1168_in_2005&action=edit "1168 in 2005" )
 
-[[edit](/index.php?title=1168&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -79,8 +77,6 @@ Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" ).
   * Monarch Plastics 
   * McGrory Glass Inc. 
 
-[[edit](/index.php?title=1168&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -71,8 +71,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc213
   * [2004 - Dirty Bird 04](/index.php/Dirty_Bird_04_%28213%29 "Dirty Bird 04 \(213\)" )
   * [2003 - Dirty Bird 03](/index.php/Dirty_Bird_03_%28213%29 "Dirty Bird 03 \(213\)" )
 
-[[edit](/index.php?title=213&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -87,8 +85,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=213&action=edit&section=7 "Edit section: Student
-Leaders 2007" )]
 
 ### Student Leaders 2007
 
@@ -99,8 +95,6 @@ Leaders 2007" )]
   * Lead Programmer- Bryan Custer 
   * Secretary of Defense- DJ Rosner 
 
-[[edit](/index.php?title=213&action=edit&section=8 "Edit section: Students
-2006" )]
 
 ### Students 2006
 

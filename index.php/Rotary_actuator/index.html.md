@@ -9,8 +9,6 @@ component used to turn air pressure into rotational energy. The ones used by
 [FIRST](/index.php/FIRST "FIRST" ) are manufactured by
 [Bimba](http://www.bimba.com "http://www.bimba.com" ).
 
-[[edit](/index.php?title=Rotary_actuator&action=edit&section=1 "Edit section:
-Connections" )]
 
 ## Connections
 

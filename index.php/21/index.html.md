@@ -147,8 +147,6 @@ Most Photogenic Award
   * [Boeing](http://www.boeing.com "http://www.boeing.com" )
   * [ASRC](http://www.ustdc.com/ "http://www.ustdc.com/" )
 
-[[edit](/index.php?title=21&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

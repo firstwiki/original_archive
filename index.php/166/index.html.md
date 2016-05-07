@@ -113,8 +113,6 @@ for help.
     * Events Attended: BAE Systems Granite State Regional, Boilermaker Regional 
     * Robot Name: Gemini 
 
-[[edit](/index.php?title=166&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -137,8 +135,6 @@ projects" )]
   * [2006 - Scorpio](/index.php?title=Scorpio_%28166%29&action=edit "Scorpio \(166\)" )
   * [2007 - Gemini](/index.php?title=Gemini_%28166%29&action=edit "Gemini \(166\)" )
 
-[[edit](/index.php?title=166&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

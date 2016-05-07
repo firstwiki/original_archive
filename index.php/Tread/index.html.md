@@ -25,8 +25,6 @@ navigating curves, but have zero turn radius. While treads tend to be very
 rugged, they are also very hard to repair in the event of damage or
 maintenance.
 
-[[edit](/index.php?title=Tread&action=edit&section=1 "Edit section: External
-links" )]
 
 ##  External links
 

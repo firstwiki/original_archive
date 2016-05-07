@@ -53,8 +53,6 @@ _General Description of the year._
 
 ## Build
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=2 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,16 +63,12 @@ Accomplishments" )]
   
 _Aim low and score high._
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=3 "Edit section:
-Build" )]
 
 ## Build
 
 
 ### Trenton Regional Competition
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=5 "Edit section: New
-York City Regional Competition" )]
 
 ### New York City Regional Competition
 
@@ -89,16 +83,12 @@ _general description of how it went_
 
 etc etc etc
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=7 "Edit section:
-Robot" )]
 
 ## Robot
 
 
 ### Robot Functions
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=9 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

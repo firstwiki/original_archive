@@ -87,8 +87,6 @@ Regional" )
 The **Florida Regional** takes place in Orlando,Fl and is usually held at
 University of Central Florida .
 
-[[edit](/index.php?title=Florida_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

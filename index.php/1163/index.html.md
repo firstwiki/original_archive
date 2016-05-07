@@ -41,8 +41,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1163
 
   * History Example 
 
-[[edit](/index.php?title=1163&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - Hector 2](/index.php?title=Hector_2_%281163%29&action=edit "Hector 2 \(1163\)" )
 
-[[edit](/index.php?title=1163&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * Trojans 
 
-[[edit](/index.php?title=1163&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -51,8 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1319
 
 **FRC 1319 was established in 2004 and was originally known as the Golden Strip Flash. Since then, we have expanded our efforts (and shortened our name) to create a positive impact on our community and the FIRST community. We have won numerous awards and been to many different regionals, including: Peachtree, Palmetto, Chesapeake, Central Florida, Boilermaker, Buckeye, and Smoky Mountains Regional. We also strive to qualify for the World Championship each year that we compete. We are an ever-growing team with many years ahead.**
 
-[[edit](/index.php?title=1319&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -71,8 +69,6 @@ projects" )]
 2011 - Dualie's Revenge  
 **
 
-[[edit](/index.php?title=1319&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -105,8 +101,6 @@ Accomplishments" )]
 Advance SC  
 School District of Greenville County**
 
-[[edit](/index.php?title=1319&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

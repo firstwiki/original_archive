@@ -31,24 +31,18 @@ To create sections, use equal signs:
       * 2.1.1 a very deep section  
 ---  
   
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=1 "Edit section:
-section 1" )]
 
 # section 1
 
 
 ## section 1A
 
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=3 "Edit section:
-section 1B" )]
 
 ## section 1B
 
 
 # Section 2
 
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=5 "Edit section:
-Section 2a" )]
 
 ## Section 2a
 

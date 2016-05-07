@@ -63,8 +63,6 @@ Team Website: | <http://www.team422.com>
   * Duel on the Delaware Attendee every year 
   * Club/Team bylaws overhaul in 2007, team structure changes 
 
-[[edit](/index.php?title=422&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -217,8 +215,6 @@ Also called Grunty.
 
 ## Members List
 
-[[edit](/index.php?title=422&action=edit&section=7 "Edit section: Student
-Officers" )]
 
 ### Student Officers
 
@@ -227,8 +223,6 @@ Officers" )]
   * Will Pierce - Communications 
   * Alex Venning - Resource Manager 
 
-[[edit](/index.php?title=422&action=edit&section=8 "Edit section: Some Alumni"
-)]
 
 ### Some Alumni
 
@@ -239,8 +233,6 @@ Officers" )]
   * Mark Tomczak - Programmer/electrician in 2000 and 2001. Graduated Carnegie Mellon University in winter of 2005. Currently employed with [Sim Ops Studios](http://www.simopsstudios.com "http://www.simopsstudios.com" )
   * and a lot more 
 
-[[edit](/index.php?title=422&action=edit&section=9 "Edit section: Engineering
-Mentors" )]
 
 ### Engineering Mentors
 

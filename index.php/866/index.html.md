@@ -31,8 +31,6 @@ Approximate team size: | ?
 
   * History Example 
 
-[[edit](/index.php?title=866&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -43,8 +41,6 @@ projects" )]
 
   * [2004 - Cacique 4](/index.php?title=Cacique_4_%28866%29&action=edit "Cacique 4 \(866\)" )
 
-[[edit](/index.php?title=866&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -55,8 +51,6 @@ Accomplishments" )]
 
   * Turabo Hurricanes 
 
-[[edit](/index.php?title=866&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

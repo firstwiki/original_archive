@@ -25,8 +25,6 @@ The [Electric Motor NXT](http://peeron.com/inv/parts/53787
 "http://peeron.com/inv/parts/53787" ) is the motor that comes with the newer
 Mindstorms NXT.
 
-[[edit](/index.php?title=Motors_%28FLL%29&action=edit&section=2 "Edit section:
-Old Mindstorms Motors" )]
 
 # Old Mindstorms Motors
 

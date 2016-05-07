@@ -41,8 +41,6 @@ every group saw a change of hands.
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=25_in_2007&action=edit&section=1 "Edit section: Pre-
-build" )]
 
 ## Pre-build
 
@@ -57,8 +55,6 @@ brushes to bananas, the manipulator was but one of the bumps hit by 25 in the
 2007 build season. Scrapping their ramp a day before ship it was replaced with
 a large blue shell resting on the back.
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -77,8 +73,6 @@ Accomplishments" )]
   * Number 6 Seed (7-2-0 Through Qualifications) 
   * UTC Regional Finalist (With 176 and 2104) 
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=6 "Edit section:
-Championships" )]
 
 ### Championships
 
@@ -101,8 +95,6 @@ Rack-A-Tier]]
   * Servo brakes 
   * Manipulator fingers open or close in less than a second 
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=9 "Edit section: Robot
-Strategy" )]
 
 ### Robot Strategy
 

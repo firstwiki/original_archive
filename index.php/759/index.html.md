@@ -141,8 +141,6 @@ Ankur Mehta
 
   
 
-[[edit](/index.php?title=759&action=edit&section=8 "Edit section: Current
-Members" )]
 
 ## Current Members
 
@@ -195,8 +193,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Ed Smyth - Web Admin 
   * Many parents of the students. 
 
-[[edit](/index.php?title=759&action=edit&section=12 "Edit section: Ex Members"
-)]
 
 ## Ex Members
 
@@ -213,8 +209,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Vicky Bragg 
   * Robert Lasenby 
 
-[[edit](/index.php?title=759&action=edit&section=14 "Edit section: U6 2005/6"
-)]
 
 #### U6 2005/6
 
@@ -229,8 +223,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Raven Tse - General helper and part-time graphics producer 
   * Stuart Craft - Captain 
 
-[[edit](/index.php?title=759&action=edit&section=15 "Edit section: U6th
-2004/5" )]
 
 #### U6th 2004/5
 
@@ -245,8 +237,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Stephen [Denman](/index.php/User:Denman "User:Denman" ) \- Self Proclaimed Geek, and Vice Captain 
   * Will Sinclair - Programmer 
 
-[[edit](/index.php?title=759&action=edit&section=16 "Edit section: U6th
-2003/04" )]
 
 #### U6th 2003/04
 
@@ -259,8 +249,6 @@ WARNING THIS SECTION IS OUT OF DATE!
   * Rob Spanton - Progamming guy 
   * Sally Young - Joint Captain 
 
-[[edit](/index.php?title=759&action=edit&section=17 "Edit section: Pre 2003/04
-season members" )]
 
 #### Pre 2003/04 season members
 

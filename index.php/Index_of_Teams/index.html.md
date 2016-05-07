@@ -43,8 +43,6 @@ _**Index of teams**:_
   
   
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=1 "Edit section:
-1-100" )]
 
 ## 1-100
 
@@ -115,8 +113,6 @@ _**Index of teams**:_
   * [97](/index.php/97 "97" ) (RoboRuminants) 
   * [100](/index.php/100 "100" ) (WHS &amp; CHS Robotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=2 "Edit section:
-101-200" )]
 
 ## 101-200
 
@@ -307,8 +303,6 @@ _**Index of teams**:_
   * [398](/index.php/398 "398" ) (The Thundering Herd) 
   * [399](/index.php/399 "399" ) (Eagle Robotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=5 "Edit section:
-401-500" )]
 
 ## 401-500
 
@@ -365,8 +359,6 @@ _**Index of teams**:_
   * [499](/index.php/499 "499" ) (Toltechs) 
   * [500](/index.php/500 "500" ) (The Bears) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=6 "Edit section:
-501-600" )]
 
 ## 501-600
 
@@ -425,8 +417,6 @@ _**Index of teams**:_
   * [599](/index.php/599 "599" ) (Robo-Dox) 
   * [600](/index.php/600 "600" ) (ElectricMayhem) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=7 "Edit section:
-601-700" )]
 
 ## 601-700
 
@@ -479,8 +469,6 @@ _**Index of teams**:_
   * [697](/index.php/697 "697" ) (Panda Robotics) 
   * [698](/index.php/698 "698" ) (HHS Microbots) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=8 "Edit section:
-701-800" )]
 
 ## 701-800
 
@@ -521,8 +509,6 @@ _**Index of teams**:_
   * [783](/index.php/783 "783" ) (Mobotics) 
   * [800](/index.php/800 "800" ) (The HazBots) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=9 "Edit section:
-801-900" )]
 
 ## 801-900
 
@@ -597,8 +583,6 @@ _**Index of teams**:_
   * [899](/index.php?title=899&action=edit "899" )
   * [900](/index.php/900 "900" ) (Team Infinity) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=10 "Edit section:
-901-1000" )]
 
 ## 901-1000
 
@@ -665,8 +649,6 @@ _**Index of teams**:_
   * [999](/index.php/999 "999" ) (C.R.A.S.H. (Cheshire Robotics and Sikorsky Helicopters)) 
   * [1000](/index.php/1000 "1000" ) (Cybearcats) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=11 "Edit section:
-1001-1100" )]
 
 ## 1001-1100
 
@@ -747,8 +729,6 @@ _**Index of teams**:_
   * [1099](/index.php/1099 "1099" ) (The Lions) 
   * [1100](/index.php/1100 "1100" ) (The Tomahawks) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=12 "Edit section:
-1101-1200" )]
 
 ## 1101-1200
 
@@ -901,8 +881,6 @@ _**Index of teams**:_
   * [1299](/index.php/1299 "1299" ) (Dominators) 
   * [1300](/index.php/1300 "1300" ) (EVO) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=14 "Edit section:
-1301-1400" )]
 
 ## 1301-1400
 
@@ -991,8 +969,6 @@ _**Index of teams**:_
   * [1397](/index.php/1397 "1397" ) (Rock 'n Ram) 
   * [1398](/index.php/1398 "1398" ) (Robo-Raiders) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=15 "Edit section:
-1401-1500" )]
 
 ## 1401-1500
 
@@ -1083,8 +1059,6 @@ _**Index of teams**:_
   * [1497](/index.php/1497 "1497" ) (Ram Robotics) 
   * [1500](/index.php/1500 "1500" ) (Metal Morphose) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=16 "Edit section:
-1501-1600" )]
 
 ## 1501-1600
 
@@ -1203,8 +1177,6 @@ _**Index of teams**:_
   * [1699](/index.php/1699 "1699" ) (Robocats) 
   * [1700](/index.php/1700 "1700" ) (Gatorbotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=18 "Edit section:
-1701-1800" )]
 
 ## 1701-1800
 
@@ -1249,8 +1221,6 @@ _**Index of teams**:_
   * [1793](/index.php/1793 "1793" ) (Norview Pilots,Ace 
   * [1799](/index.php/1799 "1799" ) (Jeffco Area) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=19 "Edit section:
-1801-1900" )]
 
 ## 1801-1900
 
@@ -1293,8 +1263,6 @@ _**Index of teams**:_
   * [1899](/index.php/1899 "1899" ) (Saints Robotics) 
   * [1900](/index.php?title=1900&action=edit "1900" ) (Roosevelt Rough Ryders) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=20 "Edit section:
-1901-2000" )]
 
 ## 1901-2000
 
@@ -1595,8 +1563,6 @@ _**Index of teams**:_
   * [2199](/index.php/2199 "2199" ) (Robo Lions) 
   * [2200](/index.php/2200 "2200" ) (MM Rambotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=23 "Edit section:
-2201-2300" )]
 
 ## 2201-2300
 
@@ -1701,8 +1667,6 @@ _**Index of teams**:_
   * [2299](/index.php?title=2299&action=edit "2299" )
   * [2300](/index.php?title=2300&action=edit "2300" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=24 "Edit section:
-2301-2400" )]
 
 ## 2301-2400
 

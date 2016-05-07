@@ -51,8 +51,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1395
 
   * History Example 
 
-[[edit](/index.php?title=1395&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -63,8 +61,6 @@ projects" )]
 
   * [2004 - El Aguila](/index.php?title=El_Aguila_%281395%29&action=edit "El Aguila \(1395\)" )
 
-[[edit](/index.php?title=1395&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -75,8 +71,6 @@ Accomplishments" )]
 
   * ACHS MESA 
 
-[[edit](/index.php?title=1395&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

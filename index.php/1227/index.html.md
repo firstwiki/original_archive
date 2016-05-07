@@ -111,8 +111,6 @@ late 2006, and no longer exists as a separate entity.
   * [2005 - Wiley Grembot](/index.php/1227_in_2005#_Robot "1227 in 2005" )
   * [2006 - ???](/index.php?title=1226_in_2006&action=edit "1226 in 2006" )
 
-[[edit](/index.php?title=1227&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -129,8 +127,6 @@ Accomplishments" )]
 
 ## Members List
 
-[[edit](/index.php?title=1227&action=edit&section=6 "Edit section: Students"
-)]
 
 ### Students
 

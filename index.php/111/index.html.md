@@ -123,8 +123,6 @@ formats" ) for more help.
   * Prospect High School 
   * Local Home Schools 
 
-[[edit](/index.php?title=111&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -61,8 +61,6 @@ High Schools.
   * [2006 - Sisyphus](/index.php?title=Sisyphus_%28806%29&action=edit "Sisyphus \(806\)" )
   * [2007 - The Anvil](/index.php?title=Anvil_%28806%29&action=edit "Anvil \(806\)" )
 
-[[edit](/index.php?title=806&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

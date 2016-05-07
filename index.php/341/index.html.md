@@ -217,8 +217,6 @@ formats" ) for more help.
   * Philadelphia Regional, Rookie All-Star 
   * Philadelphia Regional, Semi-Finalist 
 
-[[edit](/index.php?title=341&action=edit&section=13 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -229,8 +227,6 @@ formats" ) for more help.
   * DeVry University 
   * PJM Interconnection 
 
-[[edit](/index.php?title=341&action=edit&section=14 "Edit section: Members
-List" )]
 
 ## Members List
 

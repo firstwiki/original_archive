@@ -15,8 +15,6 @@ Jump to: navigation, search
 
 This is an index of people that are part of the FIRST community.
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=1 "Edit section:
-Key" )]
 
 ## Key
 
@@ -45,8 +43,6 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
   * [Alpert, Gail](/index.php?title=Gail_Alpert&action=edit "Gail Alpert" ) \- [M](/index.php/Mentor "Mentor" )[V](/index.php/Volunteer "Volunteer" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=3 "Edit section:
-B" )]
 
 ## B
 
@@ -81,8 +77,6 @@ B" )]
 
   * [Evoy, Bob](/index.php?title=Bob_Evoy&action=edit "Bob Evoy" ) \- [UFH](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=7 "Edit section:
-F" )]
 
 ## F
 
@@ -93,8 +87,6 @@ F" )]
   * [Frank, Robert](/index.php/User:Aibob "User:Aibob" ) \- [ST](/index.php/Student "Student" ) of [358](/index.php/358 "358" )
   * [Fultz, Chris](/index.php/Chris_Fultz "Chris Fultz" ) \- [M](/index.php/Mentor "Mentor" ) of [234](/index.php/234 "234" ) \- [UFH](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" ) \- [WFA](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=8 "Edit section:
-G" )]
 
 ## G
 
@@ -113,8 +105,6 @@ G" )]
   * [Hollis1138](/index.php/User:Hollis1138 "User:Hollis1138" ) = [ST](/index.php/Student "Student" ) of [1073](/index.php/1073 "1073" )
   * [Hughes, Kyle](/index.php/Kyle_Hughes "Kyle Hughes" )\- [WFA](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=10 "Edit section:
-I" )]
 
 ## I
 
@@ -135,8 +125,6 @@ I" )]
   * [Kurniawan, Jonathan](/index.php?title=Jonathan_Kurniawan&action=edit "Jonathan Kurniawan" ) \- [ST](/index.php/Student "Student" ) of Team [100](/index.php/100 "100" )
   * [Kyramarios, Steve](/index.php?title=Steve_Kyramarios&action=edit "Steve Kyramarios" ) \- Engineer on Team [254](/index.php/254 "254" ) \- 2004 Sacramento Regional WFA Winner 
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=13 "Edit section:
-L" )]
 
 ## L
 
@@ -157,8 +145,6 @@ L" )]
   * [Morrison, Amanda](/index.php?title=Amanda_Morrison&action=edit "Amanda Morrison" )
   * McGowan, William - [V](/index.php/Volunteer "Volunteer" ), [M](/index.php/Mentor "Mentor" ) of Team [11](/index.php/11 "11" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=15 "Edit section:
-N" )]
 
 ## N
 
@@ -181,8 +167,6 @@ N" )]
   * [Perez, Lisa](/index.php?title=Lisa_Perez&action=edit "Lisa Perez" )
   * [Pyne, Martin](/index.php?title=Martin_Pyne&action=edit "Martin Pyne" ) \- [ST](/index.php/Student "Student" ) of [1168](/index.php/1168 "1168" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=18 "Edit section:
-Q" )]
 
 ## Q
 
@@ -207,8 +191,6 @@ Q" )]
   * [Sparks, Ed](/index.php?title=Ed_Sparks&action=edit "Ed Sparks" )
   * [Sweet, Beth](/index.php?title=Beth_Sweet&action=edit "Beth Sweet" ) \- [M](/index.php/Mentor "Mentor" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=22 "Edit section:
-U" )]
 
 ## U
 
@@ -219,8 +201,6 @@ U" )]
   * [Vasquez, Oscar](/index.php?title=Vasquez%2C_Oscar&action=edit "Vasquez, Oscar" ) \- [M](/index.php/Mentor "Mentor" )
   * [Verbrugge, Dave](/index.php/Dave_Verbrugge "Dave Verbrugge" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=24 "Edit section:
-W" )]
 
 ## W
 
@@ -233,8 +213,6 @@ W" )]
 
 ## X
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=26 "Edit section:
-Y" )]
 
 ## Y
 

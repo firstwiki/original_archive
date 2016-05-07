@@ -41,8 +41,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1131
 
   * History Example 
 
-[[edit](/index.php?title=1131&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -53,8 +51,6 @@ projects" )]
 
   * [2004 - Robo-tech 2](/index.php?title=Robo-tech_2_%281131%29&action=edit "Robo-tech 2 \(1131\)" )
 
-[[edit](/index.php?title=1131&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -65,8 +61,6 @@ Accomplishments" )]
 
   * WCTHS 
 
-[[edit](/index.php?title=1131&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

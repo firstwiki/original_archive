@@ -57,8 +57,6 @@ rules and they give you a reason not to contribute, please disregard them.**
   * [New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
   * [User questions](/index.php/FIRSTwiki:User_Questions "FIRSTwiki:User Questions" )
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=2 "Edit section:
-How do I do that?" )]
 
 ## How do I do that?
 
@@ -71,8 +69,6 @@ How do I do that?" )]
   * To find out what has recently been changed, go to the [recent changes page](/index.php/Special:Recentchanges "Special:Recentchanges" )
   * Login by following the link in the upper right hand corner 
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=4 "Edit section:
-Modifying FIRSTwiki" )]
 
 ### Modifying FIRSTwiki
 
@@ -81,8 +77,6 @@ Modifying FIRSTwiki" )]
   * To start a new page, follow a red link in an article and start typing in the edit box. Also, you can create a link in the [sandbox](/index.php/FIRSTwiki:Sandbox "FIRSTwiki:Sandbox" ), or just type in the url <http://firstwiki.org/index.php/your_page> and click the _Edit this page_ link. 
   * To upload an image, click on the _Upload file_ link in the side bar. To use images in your article, refer to [Image use policy](/index.php/Image_use_policy "Image use policy" ). 
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=5 "Edit section:
-Page formats" )]
 
 ####  Page formats
 
@@ -123,8 +117,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * [Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
   * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=7 "Edit section:
-Disagreements and arbitration" )]
 
 ##  Disagreements and arbitration
 

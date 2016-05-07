@@ -41,16 +41,12 @@ teams" )
   * 6 Sponsors  
 ---  
   
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
 This team was started after the coach started a lego club at his house.
 [TechBrick](/index.php/TechBrick "TechBrick" ) is also a Vex team.
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=2 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -61,8 +57,6 @@ Robots" )]
 
 ## Current Year Events Attended
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=4 "Edit section: MD
-State Tournament" )]
 
 ### MD State Tournament
 
@@ -81,8 +75,6 @@ Prior Years: [2004](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 
 ## Members List
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=7 "Edit section:
-Students" )]
 
 ### Students
 
@@ -97,8 +89,6 @@ Students" )]
   * KC (building/programming, 8th, 05 and 06) 
   * Zach (building/programming, 8th, 05 and 06) 
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=8 "Edit section:
-Coaches" )]
 
 ### Coaches
 
@@ -107,8 +97,6 @@ Coaches" )]
   * Debbie Dininno (building) 
   * Cari Norton (research) 
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=9 "Edit section:
-Mentors" )]
 
 ### Mentors
 

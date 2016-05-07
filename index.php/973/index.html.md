@@ -91,8 +91,6 @@ students. Making 973's motto 'OUTWORK US' worthy.
 [![Image:973_2011_Team_Photo.png](/media/7/75/973_2011_Team_Photo.png)](/index
 .php/Image:973_2011_Team_Photo.png "Image:973_2011_Team_Photo.png" )
 
-[[edit](/index.php?title=973&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -115,8 +113,6 @@ projects" )]
   * [973's 2010 Robot - The Boss](/index.php/973_in_2010 "973 in 2010" )
   * [973's 2011 Robot - The Titan](/index.php/973_in_2011 "973 in 2011" )
 
-[[edit](/index.php?title=973&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -195,8 +191,6 @@ Fastenal
   
 [Older Sponsers](/index.php/Older_Sponsers "Older Sponsers" )
 
-[[edit](/index.php?title=973&action=edit&section=10 "Edit section: Current
-Members, 2011 Season" )]
 
 ## Current Members, 2011 Season
 
@@ -227,8 +221,6 @@ Members, 2011 Season" )]
 
   * Brian Ferguson (Machinist) 
 
-[[edit](/index.php?title=973&action=edit&section=12 "Edit section: Student
-Mentors" )]
 
 ### Student Mentors
 
@@ -243,8 +235,6 @@ Ryan Reed (Home Depot Representative)
 
   
 
-[[edit](/index.php?title=973&action=edit&section=13 "Edit section: Parents
-Mentors" )]
 
 ### Parents Mentors
 

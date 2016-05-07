@@ -67,8 +67,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1831
 
   * 2006 - NH Highest Rookie Seed 
 
-[[edit](/index.php?title=1831&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -83,8 +81,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1831
 
   * Member Example 
 
-[[edit](/index.php?title=1831&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

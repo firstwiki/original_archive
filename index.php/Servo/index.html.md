@@ -19,8 +19,6 @@ place instead of just spinning. They are connected to the [robot
 controller](/index.php/Robot_controller "Robot controller" ) through a
 [PWM](/index.php/PWM "PWM" ) interface.
 
-[[edit](/index.php?title=Servo&action=edit&section=1 "Edit section: Continuous
-Rotation Servo" )]
 
 ## Continuous Rotation Servo
 

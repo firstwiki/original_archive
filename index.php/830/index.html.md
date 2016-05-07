@@ -63,8 +63,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc830
 
 ## Team projects
 
-[[edit](/index.php?title=830&action=edit&section=3 "Edit section: Legos: A
-Girl's Favorite Toy" )]
 
 ### Legos: A Girl's Favorite Toy
 
@@ -73,16 +71,12 @@ The team helped the University of Michigan's Women in Science and Engineering
 girls from Washtenaw County, providing funding, mentorship, and spirit for the
 team.
 
-[[edit](/index.php?title=830&action=edit&section=4 "Edit section: Helping the
-Hungry" )]
 
 ### Helping the Hungry
 
 The team collected canned goods for Food Gatherers, an organization which
 provides food to the needy.
 
-[[edit](/index.php?title=830&action=edit&section=5 "Edit section: Making a
-Mark at Mott" )]
 
 ### Making a Mark at Mott
 
@@ -91,8 +85,6 @@ Michigan's C.S. Mott Children's Hospital. This program allowed patients to
 interact with the team and their peers in a fun and educational setting using
 Lego Mindstorm kits.
 
-[[edit](/index.php?title=830&action=edit&section=6 "Edit section: Pfun with
-Pfizer: SAMJAM" )]
 
 ### Pfun with Pfizer: SAMJAM
 
@@ -111,8 +103,6 @@ with high school mentors, and over the course of the camp, they were
 challenged to effectively create a balloon-popping robot that used only the
 parts in one Mindstorms kit and one small needle.
 
-[[edit](/index.php?title=830&action=edit&section=8 "Edit section: Continuing
-the Tradition of Sally Ride" )]
 
 ### Continuing the Tradition of Sally Ride
 
@@ -123,8 +113,6 @@ During this, the team spoke to the girls and their parents about the goal of
 FIRST, and allowed them to strap on their safety glasses and operate the 2005
 robot's appendage.
 
-[[edit](/index.php?title=830&action=edit&section=9 "Edit section:
-UMentorFIRST" )]
 
 ### UMentorFIRST
 
@@ -153,8 +141,6 @@ design, electronics, CAD, programming, and machining.
   * 2006 Waterloo Regional Autodesk Visualization Award 
   * 2007 Waterloo Regional Xerox Creativity Award 
 
-[[edit](/index.php?title=830&action=edit&section=13 "Edit section:
-Competition" )]
 
 ### Competition
 
@@ -175,8 +161,6 @@ Competition" )]
   * TRW 
   * ABB 
 
-[[edit](/index.php?title=830&action=edit&section=15 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -191,8 +175,6 @@ List" )]
   * Dianne Down 
   * Simon Ntezinde 
 
-[[edit](/index.php?title=830&action=edit&section=17 "Edit section: Former
-Mentors" )]
 
 ### Former Mentors
 

@@ -91,8 +91,6 @@ In [2006](/index.php/Aim_High "Aim High" ), the camera has a green target that
 is lit by six lights. This ensures that the lighting conditions do not effect
 the ability of the camera too much.
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=2 "Edit section: Camera
-Mount" )]
 
 ## Camera Mount
 
@@ -107,8 +105,6 @@ When assembling the camera mount, it should be noted that the lens goes on the
 bottom of the mount. When assembled correctly, it is very close to the center
 of the pan and tilt servos.
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=4 "Edit section:
-Problems" )]
 
 ## Problems
 
@@ -121,8 +117,6 @@ Is the backup battery charged? The camera and it's servos are powered off of
 the blue backup battery, not the main battery. This should be the first thing
 to check if the camera is not operating properly.
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=6 "Edit section: Wire
-Connections" )]
 
 ### Wire Connections
 

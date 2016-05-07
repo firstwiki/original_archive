@@ -259,8 +259,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc217
   * 2011 Michigan State Championship Team Spirit Award 
   * 2011 World Championship Newton Division Champions 
 
-[[edit](/index.php?title=217&action=edit&section=17 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -335,8 +333,6 @@ official [FIRST Lego League](/index.php/FIRST_Lego_League "FIRST Lego League"
 ) competition in November each year. ThunderQuest is currently the largest FLL
 regional competition site in the state of Michigan.
 
-[[edit](/index.php?title=217&action=edit&section=22 "Edit section: External
-Links" )]
 
 ## External Links
 

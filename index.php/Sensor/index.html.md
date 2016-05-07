@@ -91,8 +91,6 @@ See [electronics rules](/index.php?title=Electronics_rules&action=edit
 "Electronics rules" ) for information on where and which sensors may be
 bought, and the price limit on them.
 
-[[edit](/index.php?title=Sensor&action=edit&section=1 "Edit section:
-Resources" )]
 
 ### Resources
 
