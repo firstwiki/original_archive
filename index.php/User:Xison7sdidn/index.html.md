@@ -142,8 +142,6 @@ Thursday, including a tax on tanning salons intended to partially pay for the
 reforms and a centralized federal healthcare Web site, the individual mandate
 is set to go into effect in 2014.&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=2 "Edit section:
-Yankees sign Soriano in bid to strengthen bullpen" )]
 
 ##  Yankees sign Soriano in bid to strengthen bullpen
 
@@ -188,8 +186,6 @@ pitch.&lt;/p&gt;
 &lt;p&gt;Soriano could also become the Yankees closer after the two-year
 contract Rivera signed in December expires.&lt;/p&gt;
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=3 "Edit section:
-Factbox  Golf-World number one Luke Donald" )]
 
 ##  Factbox Golf-World number one Luke Donald
 
@@ -424,8 +420,6 @@ production.&lt;/p&gt;
         Health
     
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=6 "Edit section:
-France's Turgot facing ban for test no shows" )]
 
 ##  France's Turgot facing ban for test no shows
 
@@ -470,8 +464,6 @@ Bernaudeau said by telephone.&lt;/p&gt;
         Sports
     
 
-[[edit](/index.php?title=User:Xison7sdidn&action=edit&section=7 "Edit section:
-Federer's motivation faces Melbourne Park test" )]
 
 ##  Federer's motivation faces Melbourne Park test
 

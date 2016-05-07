@@ -70,8 +70,6 @@ siblings also support the team with their unquenchable team spirit. This
 involvement leads to close, permanent relationships springing up between
 families, and lifelong friendships between team members.
 
-[[edit](/index.php?title=1317&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -88,8 +86,6 @@ projects" )]
   * [Wabash](/index.php/Wabash_%281317%29 "Wabash \(1317\)" )
   * [Shpiffy](/index.php?title=Shpiffy_%281317%29&action=edit "Shpiffy \(1317\)" )
 
-[[edit](/index.php?title=1317&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -98,8 +94,6 @@ Accomplishments" )]
   * [2006](/index.php?title=1317_in_2006&action=edit "1317 in 2006" )
   * [2007](/index.php/1317_in_2007 "1317 in 2007" )
 
-[[edit](/index.php?title=1317&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -128,8 +122,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1317&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

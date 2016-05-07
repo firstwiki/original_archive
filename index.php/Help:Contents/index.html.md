@@ -50,8 +50,6 @@ rules and they give you a reason not to contribute, please disregard them.**
   * 5 Getting in touch  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=1 "Edit section:
-About FIRSTwiki" )]
 
 ## About FIRSTwiki
 
@@ -64,8 +62,6 @@ How do I do that?" )]
 
 ## How do I do that?
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=3 "Edit section:
-Using FIRSTwiki" )]
 
 ### Using FIRSTwiki
 
@@ -120,8 +116,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
 
      `{{subst:format/game}}`
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=6 "Edit section:
-Information and resources for contributors" )]
 
 ## Information and resources for contributors
 
@@ -138,8 +132,6 @@ If you disagree with what should be in an article, use the article's
 discussion page. If that does not resolve the issue, use the official
 [arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" ) page.
 
-[[edit](/index.php?title=FIRSTwiki:Help&action=edit&section=8 "Edit section:
-Getting in touch" )]
 
 ## Getting in touch
 

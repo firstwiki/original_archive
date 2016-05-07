@@ -14,8 +14,6 @@ _Should be titled "[regional page name] [year]" like [New Jersey Regional
 
 brief description of anything specific to this regional in this year.
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_competition_page_format&action=edit&
-section=1 "Edit section: List of teams attending" )]
 
 ## List of teams attending
 

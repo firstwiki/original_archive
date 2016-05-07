@@ -32,8 +32,6 @@ Fresh Meadows, NY. The team was established in 2008.
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=3017&action=edit&section=1 "Edit section: Overview"
-)]
 
 ## Overview
 
@@ -62,8 +60,6 @@ robot and the relationships of the students.
   * Mr. Anuran 
   * Mr. Konstantinovich 
 
-[[edit](/index.php?title=3017&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

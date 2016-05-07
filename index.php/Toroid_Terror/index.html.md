@@ -92,8 +92,6 @@ doubled if it was directly over the center column (like the white tubes in the
 picture). You also doubled your score if you had 3 in a vertical column on the
 scoring posts.
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -108,8 +106,6 @@ Kit Of Parts" )]
 
   * Robots were powered by 2 12v drill batteries 
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -152,8 +148,6 @@ Misc Info" )]
 
   * The [Placebo](/index.php/Placebo "Placebo" ) was called showbot and shot confetti into the crowd. 
 
-[[edit](/index.php?title=Toroid_Terror&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

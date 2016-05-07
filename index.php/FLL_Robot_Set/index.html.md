@@ -34,8 +34,6 @@ parts to support the needs of an FLL team.
   * 3 See Also:  
 ---  
   
-[[edit](/index.php?title=FLL_Robot_Set&action=edit&section=1 "Edit section:
-Official Kit of Parts" )]
 
 # Official Kit of Parts
 
@@ -66,8 +64,6 @@ has more "electric" parts suitable for an FLL team. Here is the breakdown:
   * Building Instructions (same as retail version) 
   * 2 Storage Box with Sorting Trays 
 
-[[edit](/index.php?title=FLL_Robot_Set&action=edit&section=3 "Edit section:
-Legacy Kit \(No longer sold, but still usable at competition" )]
 
 # Legacy Kit (No longer sold, but still usable at competition
 
@@ -86,8 +82,6 @@ The kit contains all items in the [3804-1](http://peeron.com/inv/sets/3804-1
   * [RoboLab](/index.php/RoboLab "RoboLab" ) software (in addition to the [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) software) 
   * A few extra plastic parts not normally in the retail kit 
 
-[[edit](/index.php?title=FLL_Robot_Set&action=edit&section=5 "Edit section:
-See Also:" )]
 
 # See Also:
 

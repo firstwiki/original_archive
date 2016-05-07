@@ -100,8 +100,6 @@ regional outside of North America.
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=Israel_Regional&action=edit&section=1 "Edit section:
-For the 2005 FRC, Triple Play, 12 teams from israel competed:" )]
 
 ### For the 2005 FRC, Triple Play, 12 teams from israel competed:
 

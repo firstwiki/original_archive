@@ -28,8 +28,6 @@ released, the spirits of the circuitry cause it to no longer work. This is
 why, for instance, when a motor starts releasing magic smoke, it will no
 longer function properly.
 
-[[edit](/index.php?title=Magic_smoke&action=edit&section=2 "Edit section:
-External Links" )]
 
 ###  External Links
 

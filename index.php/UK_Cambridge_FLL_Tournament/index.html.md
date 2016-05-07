@@ -12,8 +12,6 @@ Jump to: navigation, search
   * 4 Results  
 ---  
   
-[[edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit&section=1
-"Edit section: Details" )]
 
 ## Details
 
@@ -26,8 +24,6 @@ Jump to: navigation, search
   * **Contact: **
   * **FIRST Team Sponsors/Hosts: [Team 759 - Systemetric](/index.php/759 "759" )**
 
-[[edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit&section=2
-"Edit section: How to Register" )]
 
 ## How to Register
 
@@ -36,8 +32,6 @@ Jump to: navigation, search
 
 ## History
 
-[[edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit&section=4
-"Edit section: Results" )]
 
 ## Results
 

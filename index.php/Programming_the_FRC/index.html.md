@@ -44,8 +44,6 @@ parts" ), and is availalbe on the [InnovationFIRST](/index.php/InnovationFIRST
     * 2.3 Process_Data_From_Master_uP  
 ---  
   
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-1 "Edit section: About C" )]
 
 ## About C
 
@@ -226,8 +224,6 @@ would be compiled as
     (((foo + bar) > (bar - foo)) ? ((foo + bar) - (bar - foo)) : ((bar - foo) - (foo + bar)))
     
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-7 "Edit section: About the default code" )]
 
 ## About the default code
 

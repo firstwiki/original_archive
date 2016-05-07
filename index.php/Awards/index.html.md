@@ -26,8 +26,6 @@ recognize team and individual achievements.
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=Awards&action=edit&section=1 "Edit section: Team
-Awards" )]
 
 ## Team Awards
 
@@ -58,8 +56,6 @@ Awards" )]
   * [Rookie All-Star Award](/index.php/Rookie_All-Star_Award "Rookie All-Star Award" )
   * [Highest Rookie Seed Award](/index.php/Highest_Rookie_Seed_Award "Highest Rookie Seed Award" )
 
-[[edit](/index.php?title=Awards&action=edit&section=2 "Edit section: Team
-Member Awards" )]
 
 ## Team Member Awards
 

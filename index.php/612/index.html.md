@@ -80,8 +80,6 @@ local elementary and middle schools. The team has thus far won three
 consecutive Regional Chairman's awards; in 2006 they won at Chesapeake, at VCU
 in 2007, and in 2008, at Buckeye.
 
-[[edit](/index.php?title=612&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -168,8 +166,6 @@ Regional" ) [Chairman's Award](/index.php/Regional_Chairman%27s_Award
 Regional" ) [Woodie Flowers Award](/index.php/Woodie_Flowers_Award "Woodie
 Flowers Award" )
 
-[[edit](/index.php?title=612&action=edit&section=12 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -190,8 +186,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=612&action=edit&section=14 "Edit section: 2012 Team"
-)]
 
 ### 2012 Team
 
@@ -238,8 +232,6 @@ List" )]
   * Jake " " Dansey 
   * Johnathan " " Bae 
 
-[[edit](/index.php?title=612&action=edit&section=15 "Edit section: 2008-2009
-Team \(Alumni\)" )]
 
 #### 2008-2009 Team (Alumni)
 
@@ -268,8 +260,6 @@ Team \(Alumni\)" )]
   * Beatrice "Cha Cha" Peng - 2008 
   * Bryan "Doughnut" Doan - 2009, [George Mason University](/index.php?title=George_Mason_University&action=edit "George Mason University" )
 
-[[edit](/index.php?title=612&action=edit&section=16 "Edit section: More
-Alumni" )]
 
 ### More Alumni
 

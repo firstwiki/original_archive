@@ -12,8 +12,6 @@ Jump to: navigation, search
   * 2 Robot  
 ---  
   
-[[edit](/index.php?title=237_in_2002&action=edit&section=1 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

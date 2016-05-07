@@ -32,8 +32,6 @@ because of its simplicity.
   * 4 Conclusion  
 ---  
   
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=1 "Edit section: Intoduction" )]
 
 ## Intoduction
 
@@ -74,8 +72,6 @@ right side.
 For this algorithm we will be working with a setup that only includes one
 motor per side.
 
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=4 "Edit section: Controller quirks" )]
 
 ### Controller quirks
 
@@ -98,8 +94,6 @@ on=5 "Edit section: The code begins" )]
 
 **Note:** From this point forward I will be assuming that the reader has basic familiarity with the C Language. Anyone on the team can develop the functional requirements, but the programmers job really takes off here. 
 
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=6 "Edit section: Aliases" )]
 
 ### Aliases
 
@@ -122,8 +116,6 @@ semi-colon like normal C code.
     #define FullReverse 0          /* Basic Constants */
     
 
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=7 "Edit section: Autonomous code" )]
 
 ### Autonomous code
 
@@ -274,8 +266,6 @@ step 0 starts to look like this:
        break;
     
 
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=10 "Edit section: Spinning Clockwise" )]
 
 #### Spinning Clockwise
 
@@ -386,8 +376,6 @@ see what it does. If it goes too far, take some cycles off the appropriate
 timer. If it doesn't spin enough, on that spin timer add a few extra cycles.
 The idea here is to just play with it until you get it right!
 
-[[edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit&secti
-on=13 "Edit section: Next Steps" )]
 
 ## Next Steps
 

@@ -34,8 +34,6 @@ Team Website: | <http://www.team100.org/>
     * 7.4 Faculty Advisors  
 ---  
   
-[[edit](/index.php?title=100&action=edit&section=1 "Edit section: Team
-History" )]
 
 ## Team History
 
@@ -78,8 +76,6 @@ formats" ) for more help.
   * **2002** \- Four wheel/skid steer powered by bosch motors with the stock Bosch gearboxes. Had pneumatically operated claws to manipulate the goals and a deployable 5th wheel powered by another Bosch motor, which gave extra pushing power. 
   * **1995** \- Nicknamed "Stealth," our 1995 robot was able to quickly pick up balls in the "mosh pit" and carry them to the goal. It used a four wheel/skid-steer drivetrain powered by Bosch motors with the stock Bosch gearboxes. It also featured an unfolding claw that could grab the big ball and swing it over the top of the robot. 
 
-[[edit](/index.php?title=100&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -182,8 +178,6 @@ members" )]
   * Janice Valletta - Website 
   * Jim Cape - Electronics 
 
-[[edit](/index.php?title=100&action=edit&section=11 "Edit section: Faculty
-Advisors" )]
 
 ### Faculty Advisors
 

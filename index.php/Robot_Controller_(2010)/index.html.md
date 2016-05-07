@@ -20,16 +20,12 @@ LabVIEW, C, C++, or Java.
   * 4 Key Features  
 ---  
   
-[[edit](/index.php?title=Robot_Controller_%282010%29&action=edit&section=1
-"Edit section: Programming" )]
 
 ## Programming
 
 Code is cross-compiled on a seperate computer then uploaded over the network
 by the programming environment.
 
-[[edit](/index.php?title=Robot_Controller_%282010%29&action=edit&section=2
-"Edit section: LabVIEW" )]
 
 ### LabVIEW
 
@@ -38,8 +34,6 @@ by the programming environment.
 
 ### C++
 
-[[edit](/index.php?title=Robot_Controller_%282010%29&action=edit&section=4
-"Edit section: C" )]
 
 ### C
 
@@ -48,8 +42,6 @@ by the programming environment.
 
 ### Java
 
-[[edit](/index.php?title=Robot_Controller_%282010%29&action=edit&section=6
-"Edit section: Hardware" )]
 
 ## Hardware
 
@@ -58,8 +50,6 @@ by the programming environment.
 
 ## Modules
 
-[[edit](/index.php?title=Robot_Controller_%282010%29&action=edit&section=8
-"Edit section: Key Features" )]
 
 ## Key Features
 

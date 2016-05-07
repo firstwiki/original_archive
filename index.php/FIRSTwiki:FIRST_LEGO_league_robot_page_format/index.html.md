@@ -38,8 +38,6 @@ Competition Year: | xxxx
   * 5 Programmer's "Journal"  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_robot_page_format&action=
-edit&section=1 "Edit section: Robot Name" )]
 
 ## Robot Name
 

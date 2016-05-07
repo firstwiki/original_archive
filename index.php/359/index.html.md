@@ -60,8 +60,6 @@ regionals. Their outstanding recent performance allowed this very involved
 team to win the Championship Chairman's Award, placing them in the FIRST Hall
 of Fame. In 2011, they won IRI for the second year in a row.
 
-[[edit](/index.php?title=359&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -88,8 +86,6 @@ projects" )]
   * [Poi Pounder IV](/index.php?title=359_in_2003&action=edit "359 in 2003" )
   * [Poi Pounder III](/index.php?title=359_in_2005&action=edit "359 in 2005" )
 
-[[edit](/index.php?title=359&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -74,8 +74,6 @@ March 12-13 Ann Arbor District
 
 March 26-27 Troy District
 
-[[edit](/index.php?title=503&action=edit&section=3 "Edit section: 2009
-Competition Schedule and Results" )]
 
 ## 2009 Competition Schedule and Results
 
@@ -104,8 +102,6 @@ Great Lakes Regional, Ypsilanti, Michigan (11-5-0)
 
 The Championship Event, Newton Division (4-3-0)
 
-[[edit](/index.php?title=503&action=edit&section=5 "Edit section: 2007
-Competition Schedule and Results" )]
 
 ## 2007 Competition Schedule and Results
 
@@ -134,8 +130,6 @@ Curie Division Winner
 
 Robot Driven by Brian Hopton (bhop) and Jermey Hillard
 
-[[edit](/index.php?title=503&action=edit&section=7 "Edit section: 2005
-Competition Schedule and Results" )]
 
 ## 2005 Competition Schedule and Results
 
@@ -150,8 +144,6 @@ World Champion with 330 &amp; 67
 
 Robot Driven by Brian Hopton (bhop) and Sudeep Rohatgi
 
-[[edit](/index.php?title=503&action=edit&section=8 "Edit section: 2004
-Competition Schedule and Results" )]
 
 ## 2004 Competition Schedule and Results
 
@@ -176,8 +168,6 @@ The Championship Event; Galileo Division (3-4-0)
 
 Robot Driven by: Joe Belter and AJ Franchi
 
-[[edit](/index.php?title=503&action=edit&section=10 "Edit section: 2002
-Competition Schedule and Results" )]
 
 ## 2002 Competition Schedule and Results
 
@@ -200,8 +190,6 @@ Great Lake Regional
 
 The Championship Event
 
-[[edit](/index.php?title=503&action=edit&section=12 "Edit section: Robot
-Names" )]
 
 ## Robot Names
 
@@ -230,8 +218,6 @@ giving him or her a robot namesake.
   * [2002 Guenther](http://www.chiefdelphi.com/media/photos/14117 "http://www.chiefdelphi.com/media/photos/14117" )
   * 2001 The Wedge 
 
-[[edit](/index.php?title=503&action=edit&section=13 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -266,8 +252,6 @@ Accomplishments" )]
   * 2002 GL Motorola Quality 
   * 2001 MI1 Rookie All-Star 
 
-[[edit](/index.php?title=503&action=edit&section=14 "Edit section: External
-Links" )]
 
 ## External Links
 

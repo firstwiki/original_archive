@@ -34,16 +34,12 @@ Team Website: | <http://www.Fireteam.org/>
   * 7 Team Members  
 ---  
   
-[[edit](/index.php?title=322&action=edit&section=1 "Edit section: What do
-F.I.R.E. mean and Team Motto" )]
 
 ## What do F.I.R.E. mean and Team Motto
 
   * Flint Inspires Real Engineers 
   * T.E.A.M.: Together Everyone Achieves More 
 
-[[edit](/index.php?title=322&action=edit&section=2 "Edit section: Schools
-Invovled" )]
 
 ## Schools Invovled
 

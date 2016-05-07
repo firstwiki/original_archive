@@ -68,8 +68,6 @@ the [spike relays](/index.php/Spike "Spike" ), [motors](/index.php/Motors
 "Motors" ), and [servos](/index.php/Servo "Servo" ). It is the unit that is
 [programmed](/index.php/Programming "Programming" ).
 
-[[edit](/index.php?title=Robot_Controller&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 

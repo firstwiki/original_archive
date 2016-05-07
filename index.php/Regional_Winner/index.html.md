@@ -8,8 +8,6 @@ This award celebrates the team or alliance that wins a regional competition.
 The number of teams that can win a regional depends on the way the alliances
 are setup for each year's game.
 
-[[edit](/index.php?title=Regional_Winner&action=edit&section=1 "Edit section:
-Silicon Valley Regional Winners" )]
 
 ## Silicon Valley Regional Winners
 

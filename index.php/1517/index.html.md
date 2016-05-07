@@ -92,8 +92,6 @@ Safety Award. Choosing the New York City Regional as a second competition,
 Brady advances to the quarter finals and is awarded the prestigious Motorola
 Quality Award.
 
-[[edit](/index.php?title=1517&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -142,8 +140,6 @@ and advantageous machine feature. Chesapeake Regional
 
 2005 Rookie Highest Seed Award BAE Granite State Regional
 
-[[edit](/index.php?title=1517&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -162,8 +158,6 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1517&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

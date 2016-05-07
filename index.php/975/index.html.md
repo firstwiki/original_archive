@@ -80,8 +80,6 @@ Accomplishments" )]
     
     
 
-[[edit](/index.php?title=975&action=edit&section=4 "Edit section: External
-Links" )]
 
 ## External Links
 

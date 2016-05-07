@@ -140,8 +140,6 @@ to dismantle and reassemble as a learning tool.
   * [2004 - TBD](/index.php?title=TBD_%28358%29&action=edit "TBD \(358\)" )
   * [2005 - Mantis II](/index.php?title=Mantis_II_%28358%29&action=edit "Mantis II \(358\)" )
 
-[[edit](/index.php?title=358&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -180,8 +178,6 @@ Accomplishments" )]
   * Northrop Grumman 
   * Hauppauge Union Free School District 
 
-[[edit](/index.php?title=358&action=edit&section=13 "Edit section: Members
-List" )]
 
 ## Members List
 

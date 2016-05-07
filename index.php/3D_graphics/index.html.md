@@ -16,8 +16,6 @@ Jump to: navigation, search
 Many teams use various 3D modeling and [animation](/index.php/Animation
 "Animation" ) software for design, graphics, the animation competition, etc.
 
-[[edit](/index.php?title=3D_graphics&action=edit&section=1 "Edit section:
-Software" )]
 
 ## Software
 

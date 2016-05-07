@@ -114,8 +114,6 @@ Minnesota 10000 Regional |  Link coming soon |  FRC 2574 - Robohuskie |
 Minnesota North Star Regional |  <http://robotics.mnmsa.org/webcast.html> |
 Kevin O'Connor (2175) |  
   
-[[edit](/index.php?title=2009_Webcasts&action=edit&section=2 "Edit section:
-Michigan District Events" )]
 
 ###  Michigan District Events
 

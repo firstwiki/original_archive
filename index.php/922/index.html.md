@@ -54,8 +54,6 @@ technology and preparing its members for their future careers. Our team's
 corporate style organization allows us to manage our large number of students
 and achieve our team's objectives
 
-[[edit](/index.php?title=922&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

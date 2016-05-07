@@ -46,8 +46,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc103
   * Cybersonics Technology Team 103 was founded in the fall of 1996 by advisors Dave and Cathy Beck and competed in the 1997 competitions. 
   * Team 103 has been featured on TechTV, CADalyst Newsletter, and have been given the title on "Inventor of the Month" by Autodesk in recognition of the 2006 Auotdesk Inventor Award. 
 
-[[edit](/index.php?title=103&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -122,8 +120,6 @@ Accomplishments" )]
   * H.M. Brass and Copper 
   * Thrivent Financial for Lutherans 
 
-[[edit](/index.php?title=103&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

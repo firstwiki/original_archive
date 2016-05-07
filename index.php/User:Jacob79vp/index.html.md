@@ -38,8 +38,6 @@ FIRSTwiki Projects" )]
 
   
 
-[[edit](/index.php?title=User:Jacob79vp&action=edit&section=2 "Edit section:
-Notes" )]
 
 ## Notes
 

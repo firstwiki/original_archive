@@ -46,8 +46,6 @@ Team Website: | <http://www.team467.org/>
 
   * History Example 
 
-[[edit](/index.php?title=467&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -66,8 +64,6 @@ projects" )]
   * 2001 - "Over the Bar" bot 
   * 2000 - ALF 
 
-[[edit](/index.php?title=467&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -96,16 +92,12 @@ Accomplishments" )]
 
   * Intel &amp; Shrewsbury &amp; US Army 
 
-[[edit](/index.php?title=467&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 
 
 ### Students
 
-[[edit](/index.php?title=467&action=edit&section=8 "Edit section: Class of
-2008" )]
 
 #### Class of 2008
 
@@ -128,8 +120,6 @@ List" )]
   * Matt Whalen 
   * Laurissa Rybacki 
 
-[[edit](/index.php?title=467&action=edit&section=10 "Edit section: Class of
-2010" )]
 
 #### Class of 2010
 

@@ -36,16 +36,12 @@ Team Website: |
 
   * Team 145 is composed of students from Unadilla Valley High School, Sherburne-Earlville High School, Norwich High School Oxford High School and Bainbridge-Guilford High School. The team is currently centered at Norwich High School and uses the resources provided there. Before 2004, the team was centered at DCMO BOCES. 
 
-[[edit](/index.php?title=145&action=edit&section=2 "Edit section: Regular
-Competitions" )]
 
 ## Regular Competitions
 
   * Finger Lakes Regional Competition in Rochester, NY at **R**ochester **I**nstitute of **T**echnology (RIT) 
   * Tunkhannok, PA 
 
-[[edit](/index.php?title=145&action=edit&section=3 "Edit section: Robot Names"
-)]
 
 ## Robot Names
 

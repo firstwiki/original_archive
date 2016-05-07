@@ -36,8 +36,6 @@ clip.png)](/index.php/Image:FR_Dummies.jpg "Enlarge" )
   * 4 Fundraising Links  
 ---  
   
-[[edit](/index.php?title=Fundraising&action=edit&section=1 "Edit section:
-Basics" )]
 
 ## Basics
 
@@ -72,8 +70,6 @@ Fundraisers" )]
     personalized items for your school such as t-shirts, school supplies, car tags, key chains, spirit items 
     Walk-A-Thons 
 
-[[edit](/index.php?title=Fundraising&action=edit&section=3 "Edit section:
-Corporate/Academic Funds Solicitation" )]
 
 ##  Corporate/Academic Funds Solicitation
 
@@ -82,8 +78,6 @@ Corporate/Academic Funds Solicitation" )]
   * Speak to your school's PA or to alumni = Alumni and the PA are a great way to fundraise for your team. 
   * Local businesses = Local businesses are a great not only to get the cash cow flowing but also to increase local PR with your city. Ask any local businesses to help out with fundraisers. For example, work with them by designating a night of the month in which a business will donate a percentage of their profit's for the day to your team. This is especially useful when dealing with restaurants, hand out flyers and anyone who comes into that place of business will have 10% or 15% taken off their bill and donated to your team. 
 
-[[edit](/index.php?title=Fundraising&action=edit&section=4 "Edit section:
-Fundraising Links" )]
 
 ## Fundraising Links
 

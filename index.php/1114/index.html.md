@@ -50,8 +50,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1114
 
 ## History
 
-[[edit](/index.php?title=1114&action=edit&section=2 "Edit section: The 2003
-FRC Season" )]
 
 ###  The 2003 FRC Season
 
@@ -224,8 +222,6 @@ Accomplishments" )]
 
 ## Mentors
 
-[[edit](/index.php?title=1114&action=edit&section=9 "Edit section: Returning
-Alumni" )]
 
 ### Returning Alumni
 
@@ -236,8 +232,6 @@ Alumni" )]
   * Tyler Holtzman (McMaster Univeristy, 2008) 
   * Brent Selvig (Niagara College, 2007) 
 
-[[edit](/index.php?title=1114&action=edit&section=10 "Edit section: Mentors"
-)]
 
 ### Mentors
 

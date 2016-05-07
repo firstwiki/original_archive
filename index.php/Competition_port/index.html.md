@@ -12,8 +12,6 @@ mode](/index.php/Autonomous_mode "Autonomous mode" ) at competitions. The port
 is only used at competitions, and when using a
 [dongle](/index.php/Competition_port_dongle "Competition port dongle" ).
 
-[[edit](/index.php?title=Competition_port&action=edit&section=1 "Edit section:
-See also" )]
 
 ## See also
 

@@ -72,8 +72,6 @@ includes a [TTL port](/index.php/TTL_port "TTL port" ).
 
 Note that in previous years, the FRC was very different.
 
-[[edit](/index.php?title=Robot_Controller_%282004%29&action=edit&section=1
-"Edit section: Changes in 2005" )]
 
 ## Changes in 2005
 
@@ -82,8 +80,6 @@ The 2005 robot controller is identical to the 2004 one, except that:
   * It has two pins for the backup battery instead of the socket 
   * It comes with version 10 of the [firmware](/index.php?title=Firmware&action=edit "Firmware" ). 
 
-[[edit](/index.php?title=Robot_Controller_%282004%29&action=edit&section=2
-"Edit section: Changes in 2006" )]
 
 ## Changes in 2006
 
@@ -92,8 +88,6 @@ The primary change in
 controller \(2006\)" ) was changing the processor from PIC18F8520 to a
 PIC18F8722.
 
-[[edit](/index.php?title=Robot_Controller_%282004%29&action=edit&section=3
-"Edit section: See Also" )]
 
 ## See Also
 

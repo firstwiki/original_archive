@@ -54,8 +54,6 @@ in the middle of the city of Toronto.
 
 **2005-2006:** SCSRobotics team SCS Penguins (FLL Team 752) win the Director's Award at the Ontario Provincial Tournament, advancing to Atlanta!! 
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=2 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -70,8 +68,6 @@ Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=4 "Edit section:
-Event Name 1" )]
 
 ### Event Name 1
 
@@ -90,8 +86,6 @@ _Short narrative of your team's experience at this event_
 
   
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=6 "Edit section:
-Awards and Recognitions" )]
 
 ## Awards and Recognitions
 
@@ -118,8 +112,6 @@ Members List" )]
 
 ## Members List
 
-[[edit](/index.php?title=SCSRobotics&action=edit&section=9 "Edit section: Team
-Members" )]
 
 ### Team Members
 

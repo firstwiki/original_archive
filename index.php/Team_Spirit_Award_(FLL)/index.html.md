@@ -16,8 +16,6 @@ and technology can be, especially when you’re part of a great team._
 This is an "optional" award and is not specifically considered when
 determining the Director's Award winner at a competition.
 
-[[edit](/index.php?title=Team_Spirit_Award_%28FLL%29&action=edit&section=1
-"Edit section: External Links" )]
 
 ##  External Links
 

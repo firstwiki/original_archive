@@ -26,8 +26,6 @@ same....) --[Max](/index.php/User:Max "User:Max" )
 Ha! No, I'm not Mr.Ballou. I'm not nearly cool enough
 ----[Phrontist](/index.php/User:Phrontist "User:Phrontist" )
 
-[[edit](/index.php?title=Talk:1418&action=edit&section=1 "Edit section: wow"
-)]
 
 ##  wow
 

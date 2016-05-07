@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Rochester_Institute_of_Technology&action=edit&section
-=1 "Edit section: History" )]
 
 ## History
 
@@ -50,8 +48,6 @@ the 2004 year, the FIRST club became officialy recognized by the university as
 RIT FIRST. Elections for 2005 have already been held, with Michael Martin
 being elected President and Chris Vincent elected Vice President.
 
-[[edit](/index.php?title=Rochester_Institute_of_Technology&action=edit&section
-=3 "Edit section: Faculty/Staff Involvement" )]
 
 ## Faculty/Staff Involvement
 

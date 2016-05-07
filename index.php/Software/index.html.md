@@ -36,8 +36,6 @@ Animation" )]
 
   * [Autodesk Inventor](/index.php/Autodesk_Inventor "Autodesk Inventor" )
 
-[[edit](/index.php?title=Software&action=edit&section=4 "Edit section: Web
-Design" )]
 
 ## Web Design
 

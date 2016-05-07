@@ -1760,8 +1760,6 @@ _**Index of teams**:_
   * [1599](/index.php/1599 "1599" ) (Atlee Raiders) 
   * [1600](/index.php?title=1600&action=edit "1600" ) (Jeff Tech) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=17 "Edit section:
-1601-1700" )]
 
 ## 1601-1700
 
@@ -1866,8 +1864,6 @@ _**Index of teams**:_
   * [1699](/index.php/1699 "1699" ) (Robocats) 
   * [1700](/index.php/1700 "1700" ) (Gatorbotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=18 "Edit section:
-1701-1800" )]
 
 ## 1701-1800
 
@@ -1972,8 +1968,6 @@ _**Index of teams**:_
   * [1799](/index.php/1799 "1799" ) (Jeffco Area) 
   * [1800](/index.php?title=1800&action=edit "1800" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=19 "Edit section:
-1801-1900" )]
 
 ## 1801-1900
 
@@ -2078,8 +2072,6 @@ _**Index of teams**:_
   * [1899](/index.php/1899 "1899" ) (Saints Robotics) 
   * [1900](/index.php?title=1900&action=edit "1900" ) (Roosevelt Rough Ryders) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=20 "Edit section:
-1901-2000" )]
 
 ## 1901-2000
 
@@ -2184,8 +2176,6 @@ _**Index of teams**:_
   * [1999](/index.php?title=1999&action=edit "1999" ) (RoboVikings) 
   * [2000](/index.php?title=2000&action=edit "2000" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=21 "Edit section:
-2001-2100" )]
 
 ## 2001-2100
 
@@ -2290,8 +2280,6 @@ _**Index of teams**:_
   * [2099](/index.php?title=2099&action=edit "2099" )
   * [2100](/index.php?title=2100&action=edit "2100" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=22 "Edit section:
-2101-2200" )]
 
 ## 2101-2200
 
@@ -2396,8 +2384,6 @@ _**Index of teams**:_
   * [2199](/index.php/2199 "2199" ) (Robo Lions) 
   * [2200](/index.php/2200 "2200" ) (MM Rambotics) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=23 "Edit section:
-2201-2300" )]
 
 ## 2201-2300
 
@@ -2502,8 +2488,6 @@ _**Index of teams**:_
   * [2299](/index.php?title=2299&action=edit "2299" )
   * [2300](/index.php?title=2300&action=edit "2300" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=24 "Edit section:
-2301-2400" )]
 
 ## 2301-2400
 
@@ -2608,8 +2592,6 @@ _**Index of teams**:_
   * [2399](/index.php/2399 "2399" )
   * [2400](/index.php?title=2400&action=edit "2400" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=25 "Edit section:
-2401-2500" )]
 
 ## 2401-2500
 
@@ -2714,8 +2696,6 @@ _**Index of teams**:_
   * [2499](/index.php?title=2499&action=edit "2499" )
   * [2500](/index.php/2500 "2500" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=26 "Edit section:
-2501-2600" )]
 
 ## 2501-2600
 
@@ -2820,8 +2800,6 @@ _**Index of teams**:_
   * [2599](/index.php?title=2599&action=edit "2599" ) (Full Throttle) 
   * [2600](/index.php?title=2600&action=edit "2600" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=27 "Edit section:
-2601-2700" )]
 
 ## 2601-2700
 
@@ -2926,8 +2904,6 @@ _**Index of teams**:_
   * [2699](/index.php?title=2699&action=edit "2699" )
   * [2700](/index.php?title=2700&action=edit "2700" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=28 "Edit section:
-2701-2800" )]
 
 ## 2701-2800
 
@@ -3032,8 +3008,6 @@ _**Index of teams**:_
   * [2799](/index.php?title=2799&action=edit "2799" )
   * [2800](/index.php?title=2800&action=edit "2800" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=29 "Edit section:
-2801-2900" )]
 
 ## 2801-2900
 
@@ -3564,8 +3538,6 @@ _**Index of teams**:_
   * [3299](/index.php?title=3299&action=edit "3299" )
   * [3300](/index.php?title=3300&action=edit "3300" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=34 "Edit section:
-3301-3400" )]
 
 ## 3301-3400
 
@@ -3670,8 +3642,6 @@ _**Index of teams**:_
   * [3399](/index.php?title=3399&action=edit "3399" )
   * [3400](/index.php?title=3400&action=edit "3400" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=35 "Edit section:
-3401-3500" )]
 
 ## 3401-3500
 
@@ -3776,8 +3746,6 @@ _**Index of teams**:_
   * [3499](/index.php?title=3499&action=edit "3499" )
   * [3500](/index.php?title=3500&action=edit "3500" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=36 "Edit section:
-3501-3600" )]
 
 ## 3501-3600
 
@@ -3882,8 +3850,6 @@ _**Index of teams**:_
   * [3599](/index.php?title=3599&action=edit "3599" ) (Dolphin Robotics) 
   * [3600](/index.php?title=3600&action=edit "3600" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=37 "Edit section:
-3601-3700" )]
 
 ## 3601-3700
 
@@ -3988,8 +3954,6 @@ _**Index of teams**:_
   * [3699](/index.php?title=3699&action=edit "3699" )
   * [3700](/index.php?title=3700&action=edit "3700" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=38 "Edit section:
-3701-3800" )]
 
 ## 3701-3800
 
@@ -4094,8 +4058,6 @@ _**Index of teams**:_
   * [3799](/index.php?title=3799&action=edit "3799" ) (ND High School) 
   * [3800](/index.php?title=3800&action=edit "3800" ) (Mustangs) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=39 "Edit section:
-3801-3900" )]
 
 ## 3801-3900
 
@@ -4200,8 +4162,6 @@ _**Index of teams**:_
   * [3899](/index.php?title=3899&action=edit "3899" )
   * [3900](/index.php?title=3900&action=edit "3900" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=40 "Edit section:
-3901-4000" )]
 
 ## 3901-4000
 
@@ -4306,8 +4266,6 @@ _**Index of teams**:_
   * [3999](/index.php?title=3999&action=edit "3999" )
   * [4000](/index.php?title=4000&action=edit "4000" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=41 "Edit section:
-4001-4100" )]
 
 ## 4001-4100
 

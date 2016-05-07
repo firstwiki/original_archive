@@ -22,8 +22,6 @@ Jump to: navigation, search
   * 5 Software  
 ---  
   
-[[edit](/index.php?title=Suppliers&action=edit&section=1 "Edit section:
-General" )]
 
 ## General
 
@@ -62,8 +60,6 @@ Electronics" )]
   * [Banner](http://www.bannerengineering.com/ "http://www.bannerengineering.com/" ) \- Supplier of sensors 
   * [Terminal Supply Co.](http://www.terminalsupplyco.com/ "http://www.terminalsupplyco.com/" ) \- Electrical terminal supplier 
 
-[[edit](/index.php?title=Suppliers&action=edit&section=4 "Edit section:
-Pneumatics" )]
 
 ## Pneumatics
 

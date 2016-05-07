@@ -44,8 +44,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc116
     * 4.2 Mentors  
 ---  
   
-[[edit](/index.php?title=116&action=edit&section=1 "Edit section: Team
-History" )]
 
 ## Team History
 
@@ -62,8 +60,6 @@ acquiring the NASA sponsorship, they acquired the team identity. Over the
 years, Team 116 has used a variety of identities, ranging from "Aluminum
 Weasels" to "RoboHobos" to the current name, Epsilon Delta.
 
-[[edit](/index.php?title=116&action=edit&section=2 "Edit section: Animation
-History" )]
 
 ### Animation History
 
@@ -88,8 +84,6 @@ leadership of Kit Parker. Kit once again led the team to the NASA/VCU AVA in
 2008, and the team was nominated as a Championship AVA finalist for the first
 time in 2008.
 
-[[edit](/index.php?title=116&action=edit&section=3 "Edit section: Vex and FTC
-History" )]
 
 ### Vex and FTC History
 
@@ -120,8 +114,6 @@ Coming Soon!
   * [2006 - ED v.7.0](/index.php?title=116_in_2006&action=edit "116 in 2006" )
   * [2005 - ED v.6.0](/index.php/116_in_2005 "116 in 2005" )
 
-[[edit](/index.php?title=116&action=edit&section=6 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -180,8 +172,6 @@ Accomplishments" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=116&action=edit&section=8 "Edit section: Title
-Sponsors" )]
 
 ###  Title Sponsors
 

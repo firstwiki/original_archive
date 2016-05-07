@@ -122,8 +122,6 @@ This regional was formed in 2002 and has quickly become one of the most
 attended regionals in the world. In just two years, there were 62 teams that
 competed! In 2007, 59 teams competed.
 
-[[edit](/index.php?title=Buckeye_Regional&action=edit&section=2 "Edit section:
-About the Buckeye Regional" )]
 
 ##  About the Buckeye Regional
 
@@ -136,8 +134,6 @@ participated, which was really cool because everyone got to meet new people
 from all walks of life.  
   
 
-[[edit](/index.php?title=Buckeye_Regional&action=edit&section=3 "Edit section:
-Contact" )]
 
 ##  Contact
 

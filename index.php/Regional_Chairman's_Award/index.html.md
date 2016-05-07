@@ -26,8 +26,6 @@ Jump to: navigation, search
     * 5.1 Regional / Team Number / Team Name  
 ---  
   
-[[edit](/index.php?title=Regional_Chairman%27s_Award&action=edit&section=1
-"Edit section: Regional Chairman's Award" )]
 
 ### Regional Chairman's Award
 
@@ -52,8 +50,6 @@ There is also a section for [Chairman's Award](/index.php/Chairman%27s_Award
 
 ## 2007 Regional Chairman's Award Winners
 
-[[edit](/index.php?title=Regional_Chairman%27s_Award&action=edit&section=3
-"Edit section: Regional / Team Number" )]
 
 ### Regional / Team Number
 
@@ -136,8 +132,6 @@ Regional" ) |  [27](/index.php/27 "27" )
 [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" ) |
 [269](/index.php/269 "269" )  
   
-[[edit](/index.php?title=Regional_Chairman%27s_Award&action=edit&section=4
-"Edit section: 2006 Regional Chairman's Award Winners" )]
 
 ## 2006 Regional Chairman's Award Winners
 
@@ -222,8 +216,6 @@ Regional" ) |  [503](/index.php/503 "503" )
 
 ## 2005 Regional Chairman's Award Winners
 
-[[edit](/index.php?title=Regional_Chairman%27s_Award&action=edit&section=7
-"Edit section: Regional / Team Number" )]
 
 ### Regional / Team Number
 
@@ -290,8 +282,6 @@ England Regional" ) |  [236](/index.php/236 "236" )
 [West Michigan Regional](/index.php/West_Michigan_Regional "West Michigan
 Regional" ) |  [67](/index.php/67 "67" )  
   
-[[edit](/index.php?title=Regional_Chairman%27s_Award&action=edit&section=8
-"Edit section: 2004 Regional Chairman's Award Winners" )]
 
 ## 2004 Regional Chairman's Award Winners
 

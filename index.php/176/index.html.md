@@ -270,8 +270,6 @@ Drive Team:
 Awards UTC Finalist with teams #25 and #2104, 1st ranked team GTR Winners with
 teams #2056 and #1114.
 
-[[edit](/index.php?title=176&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

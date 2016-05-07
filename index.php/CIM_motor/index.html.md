@@ -50,8 +50,6 @@ SPECIFICATIONS](http://www2.usfirst.org/2005comp/Specs/CIM.pdf
   * 3 Usage Notes  
 ---  
   
-[[edit](/index.php?title=CIM_motor&action=edit&section=1 "Edit section: Torque
-and Efficiency curves" )]
 
 ## Torque and Efficiency curves
 
@@ -68,8 +66,6 @@ year" )]
 
 ##  By year
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=3 "Edit section: 2011"
-)]
 
 ### 2011
 
@@ -86,8 +82,6 @@ ssets/Kit_of_Parts/2011%20Kit%20of%20Parts%20Checklist%20Rev%20E.pdf" )
 
 Two standard motors are included, 3.5" CIM no longer allowed.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=5 "Edit section: 2007"
-)]
 
 ###  2007
 
@@ -102,8 +96,6 @@ Two of the four CIM motors were replaced with the larger "mini-bike" motors.
 [[2]](http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf
 "http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=7 "Edit section: 2005"
-)]
 
 ###  2005
 
@@ -116,8 +108,6 @@ Four of the motors were included in the KOP.
 
 Two of the motors are included in the KOP.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=9 "Edit section: Usage
-Notes" )]
 
 ## Usage Notes
 

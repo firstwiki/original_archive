@@ -24,8 +24,6 @@ page](/index.php/FIRSTwiki:How_to_create_or_edit_an_FLL_event_page
     * 1.3 Vex Team  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:How_to_create_or_edit_your_team_page&action
-=edit&section=1 "Edit section: Create a New Team Page" )]
 
 ## Create a New Team Page
 
@@ -40,8 +38,6 @@ page, then check out the official page formats to see if your team's page
 adheres to the standard. If not, you may want to edit it according to those
 instructions.
 
-[[edit](/index.php?title=FIRSTwiki:How_to_create_or_edit_your_team_page&action
-=edit&section=3 "Edit section: FLL Team" )]
 
 ### FLL Team
 
@@ -52,8 +48,6 @@ ready to make your team page...
 
   * View the [Step-by-Step Tutorial](/index.php/FIRSTwiki:Create_Team_Page_Tutorial_%28FLL%29 "FIRSTwiki:Create Team Page Tutorial \(FLL\)" ) on how to create your team page. 
 
-[[edit](/index.php?title=FIRSTwiki:How_to_create_or_edit_your_team_page&action
-=edit&section=4 "Edit section: Vex Team" )]
 
 ### Vex Team
 

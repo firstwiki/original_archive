@@ -12,8 +12,6 @@ Jump to: navigation, search
     * 3.1 Old Projects  
 ---  
   
-[[edit](/index.php?title=User:Aibob&action=edit&section=1 "Edit section:
-About" )]
 
 ## About
 
@@ -38,8 +36,6 @@ Home pages: | [bobfrank.org](http://bobfrank.org/ "http://bobfrank.org/" )
 | [phpmaid.com](http://phpmaid.com/ "http://phpmaid.com/" )  
 | [bobbys.us](http://bobbys.us/ "http://bobbys.us/" )  
   
-[[edit](/index.php?title=User:Aibob&action=edit&section=2 "Edit section: Info"
-)]
 
 ## Info
 
@@ -68,8 +64,6 @@ Projects" )]
 
   * [phpMaid](http://phpmaid.com/ "http://phpmaid.com/" )
 
-[[edit](/index.php?title=User:Aibob&action=edit&section=4 "Edit section: Old
-Projects" )]
 
 ### Old Projects
 

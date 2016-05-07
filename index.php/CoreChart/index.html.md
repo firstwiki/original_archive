@@ -22,8 +22,6 @@ simple to understand high level commands. It included none of the abstraction
 of [PIC C](/index.php/PIC_C "PIC C" ), such as function arguments or data
 types, a factor which led to its non-adoption and subsequent downfall.
 
-[[edit](/index.php?title=CoreChart&action=edit&section=2 "Edit section:
-Program" )]
 
 ##  Program
 
@@ -32,8 +30,6 @@ Basic](http://www.wikipedia.org/wiki/Visual_Basic "wikipedia:Visual_Basic" ).
 It called [Microchip](/index.php/Microchip "Microchip" )'s assembler and
 linker (which was included in the installer) to generate a hex file.
 
-[[edit](/index.php?title=CoreChart&action=edit&section=3 "Edit section:
-External links" )]
 
 ##  External links
 

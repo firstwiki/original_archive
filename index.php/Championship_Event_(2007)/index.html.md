@@ -52,8 +52,6 @@ are finalists.
   * 8 Sources  
 ---  
   
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=1
-"Edit section: Newton" )]
 
 ##  Newton
 
@@ -76,8 +74,6 @@ Captain | Partners
 |  |  
 |  |  
   
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=4
-"Edit section: Archimedes" )]
 
 ##  Archimedes
 
@@ -100,8 +96,6 @@ Captain | Partners
 |  |  
 |  |  
   
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=7
-"Edit section: Galileo" )]
 
 ##  Galileo
 
@@ -124,8 +118,6 @@ Captain | Partners
 |  |  
 |  |  
   
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=10
-"Edit section: Curie" )]
 
 ##  Curie
 
@@ -306,8 +298,6 @@ Captain | Partners
 
 86\. 1617
 
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=12
-"Edit section: Alliances" )]
 
 ###  Alliances
 
@@ -352,8 +342,6 @@ Captain | Partners
 
 2 Wins over 1
 
-[[edit](/index.php?title=Championship_Event_%282007%29&action=edit&section=14
-"Edit section: Einstein" )]
 
 ##  Einstein
 

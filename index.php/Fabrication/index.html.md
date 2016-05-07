@@ -34,8 +34,6 @@ place. There are several guidelines to building the robot. Each team starts
 with the same [kit of parts](/index.php/Kit_of_parts "Kit of parts" ) and must
 follow the rules of the specific [game](/index.php/FRC_Games "FRC Games" ).
 
-[[edit](/index.php?title=Fabrication&action=edit&section=1 "Edit section:
-Phases" )]
 
 # Phases
 

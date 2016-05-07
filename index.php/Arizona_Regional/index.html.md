@@ -112,8 +112,6 @@ from California to Alaska), and has enjoyed international teams from Canada
 and Mexico (to date, it is the only regional to have a team from Mexico, team
 1401, in attendance).
 
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=2 "Edit section:
-Location" )]
 
 ##  Location
 
@@ -156,8 +154,6 @@ Regional also has two special awards it offers:
   * The Arizona Regional Teacher of the Year Award, which is awarded to a teacher of one of the teams attending the Arizona Regional. 
   * The Steve Sanghi Scholarship, which is a private scholarship awarded to a student on an Arizona FRC team. 
 
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=5 "Edit section:
-Regional Sponsors" )]
 
 ##  Regional Sponsors
 
@@ -180,8 +176,6 @@ Regional Sponsors" )]
   * White Electronics 
   * Mr. and Mrs. Steve Sanghi 
 
-[[edit](/index.php?title=Arizona_Regional&action=edit&section=6 "Edit section:
-External Links" )]
 
 ## External Links
 

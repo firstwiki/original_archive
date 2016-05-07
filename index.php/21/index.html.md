@@ -60,8 +60,6 @@ invited to come out and participate with the team.
 At competition, ComBBAT has a reputation for being spirited, professional,
 sportsmanly, and loud.
 
-[[edit](/index.php?title=21&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -78,8 +76,6 @@ projects" )]
   * [1999 - Tippy](/index.php/21_in_1999 "21 in 1999" )
   * [1998 - Christine](/index.php/21_in_1998 "21 in 1998" )
 
-[[edit](/index.php?title=21&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

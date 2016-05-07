@@ -58,8 +58,6 @@ Team Website: | <http://www.bxsciborgs.com>
     * 7.3 Mentors  
 ---  
   
-[[edit](/index.php?title=1155&action=edit&section=1 "Edit section: General
-History" )]
 
 # General History
 
@@ -78,8 +76,6 @@ tools, too small a work force and, as is the way of Bronx Science students, a
 Science Students, the team completed their robot and went on to compete at the
 NYC regionals.
 
-[[edit](/index.php?title=1155&action=edit&section=3 "Edit section: General
-Growth" )]
 
 ### General Growth
 
@@ -138,8 +134,6 @@ Championships held in Atlanta, Georgia. The Georgia trip was one for the
 record books for the Sciborgs. The first trip to the International
 championships and a long deserved trip after 3 years of dedicated work.
 
-[[edit](/index.php?title=1155&action=edit&section=6 "Edit section: Returning
-to The World Championship" )]
 
 ### Returning to The World Championship
 
@@ -160,8 +154,6 @@ team, was awarded the Rookie All Star Award. These Accomplishments granted
 BOTH teams entrance into the Championships. Once again giving them a chance to
 compete in the International finals.
 
-[[edit](/index.php?title=1155&action=edit&section=7 "Edit section: Yearly
-History" )]
 
 # Yearly History
 
@@ -252,8 +244,6 @@ Projects" )]
   * 2009 - ______________ (Its a robot, it doesn't have a name) 
   * 2010 - Megan Fox 
 
-[[edit](/index.php?title=1155&action=edit&section=17 "Edit section:
-Accomplishments" )]
 
 # Accomplishments
 
@@ -302,8 +292,6 @@ Accomplishments" )]
   * NJ Regional - Pit Safety Award 
   * NYC Regional - Finalists 
 
-[[edit](/index.php?title=1155&action=edit&section=25 "Edit section: Sponsors"
-)]
 
 # Sponsors
 
@@ -316,8 +304,6 @@ Accomplishments" )]
   * The Ackman Family Foundation 
   * Snapple 
 
-[[edit](/index.php?title=1155&action=edit&section=26 "Edit section: Members
-List" )]
 
 # Members List
 
@@ -410,8 +396,6 @@ William Long - Website Member (2013)
   * Alexander Malashev - Carnegie Mellon University 
   * Sonny Sonkiya - University of Pennsylvania 
 
-[[edit](/index.php?title=1155&action=edit&section=32 "Edit section: Class of
-2008" )]
 
 ### Class of 2008
 
@@ -446,8 +430,6 @@ William Long - Website Member (2013)
   * Jason Ruan - SUNY Binghamton 
   * Ly Ky Tran - CUNY Honors @ Hunter College 
 
-[[edit](/index.php?title=1155&action=edit&section=34 "Edit section: Class of
-2006" )]
 
 ### Class of 2006
 
@@ -456,8 +438,6 @@ William Long - Website Member (2013)
   * Jesus Janfan - CUNY Honors @ City College and Columbia University 
   * Julie Jurgela - SUNY Binghamton 
 
-[[edit](/index.php?title=1155&action=edit&section=35 "Edit section: Mentors"
-)]
 
 ## Mentors
 

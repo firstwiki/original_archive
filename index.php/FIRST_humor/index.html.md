@@ -12,8 +12,6 @@ Jump to: navigation, search
 _Also see other elements of [FIRST culture](/index.php/FIRST_culture "FIRST
 culture" )._
 
-[[edit](/index.php?title=FIRST_humor&action=edit&section=1 "Edit section: Not
-really FIRST, but we like it" )]
 
 ### Not really FIRST, but we like it
 

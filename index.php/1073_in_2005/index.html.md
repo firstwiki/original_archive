@@ -44,8 +44,6 @@ represented differing parts of the team. It was through student leadership and
 seniors taking up the mantle of management that the team not only survived,
 but prevailed.
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -78,8 +76,6 @@ effectively prevent any practice before it was shipped. Considering how much
 more complicated this robot was than in previous years, the practice day
 during the competition would be even more valuable than before.
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -128,8 +124,6 @@ replaced with a simple hook cobbled together of former grabber pieces. This
 proved to be very helpful and helped allow the team to finish 15th out of 51
 teams.
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=6 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

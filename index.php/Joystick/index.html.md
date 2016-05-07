@@ -56,8 +56,6 @@ potentiometers for the user to use and manipulate.
   * 2 Kit of Parts Joysticks  
 ---  
   
-[[edit](/index.php?title=Joystick&action=edit&section=1 "Edit section:
-Connection to Operator Interface" )]
 
 ## Connection to Operator Interface
 
@@ -104,8 +102,6 @@ Teams can purchase other joysticks, or make their own control devices and
 joysticks. The possibilities are endless with the post-2009 operator
 interface.
 
-[[edit](/index.php?title=Joystick&action=edit&section=5 "Edit section: Kit of
-Parts Joysticks" )]
 
 ## Kit of Parts Joysticks
 

@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User_talk:Denman&action=edit&section=1 "Edit section:
-Reverts" )]
 
 ## Reverts
 

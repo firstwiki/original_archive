@@ -12,8 +12,6 @@ Jump to: navigation, search
     * 1.3 Phrontist; (3/0/0)  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Nominations_for_adminship/Archive_1&action=
-edit&section=1 "Edit section: Nominations for sysopship" )]
 
 ## Nominations for sysopship
 

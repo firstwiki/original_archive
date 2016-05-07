@@ -178,8 +178,6 @@ trafik? Virkelige verden? På internettet? &lt;p&gt; Copyright 2005 Donna Payne
   * [I virkeligheden](http://smtp.ekonbilisim.net/wiki/index.php/User:Ahiubyxd "http://smtp.ekonbilisim.net/wiki/index.php/User:Ahiubyxd" )
   * [som du er reklame.](http://gewehrhistory.com/index.php/User:Ahiujein#som_du_er_reklame. "http://gewehrhistory.com/index.php/User:Ahiujein#som_du_er_reklame." )
 
-[[edit](/index.php?title=User:Ahiuqmxs&action=edit&section=3 "Edit section:
-nike free 3.0 blå www.nikefreelilla.com" )]
 
 ##  nike free 3.0 blå www.nikefreelilla.com
 
@@ -314,8 +312,6 @@ besøgende:
   * <http://bluejoe.csdb.cn/index.php/User:Ahiuktxh#billige_nike_air_max_www.nikefreelilla.com>
   * &lt;a href="<http://www.thediary.org/ahiuwlfp/65282/clubmaster+ray+ban+solbriller+www.nikefreelilla.com.html>" target="_blank"&gt;<http://www.thediary.org/ahiuwlfp/65282/clubmaster+ray+ban+solbriller+www.nikefreelilla.com.html>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Ahiuqmxs&action=edit&section=5 "Edit section:
-nike free run +2.se www.nikefreelilla.com" )]
 
 ##  nike free run +2.se www.nikefreelilla.com
 

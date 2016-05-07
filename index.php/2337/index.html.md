@@ -86,8 +86,6 @@ that FIRST Robotics offers. These two students, Matt Dearlove and Gage Hainer,
 played a crucial role in establishing the foundation of the Grand Blanc High
 School Robotics Team.
 
-[[edit](/index.php?title=2337&action=edit&section=2 "Edit section: 2008 -
-Rookie's Fortune" )]
 
 ### 2008 - Rookie's Fortune
 
@@ -118,8 +116,6 @@ seeded team on Curie Division, where they advanced it to the Semifinals before
 being eliminated by the team that declined 2337's invitation, then led their
 own alliance to Einstein Finals, Team [67](/index.php/67 "67" ).
 
-[[edit](/index.php?title=2337&action=edit&section=3 "Edit section: 2009 -
-Sophomore Blues" )]
 
 ### 2009 - Sophomore Blues
 
@@ -138,8 +134,6 @@ competition 2337's record fell to 4-8-0. The EngiNERDs qualified for the
 Michigan State Championship, but their robot woes continued to plague the
 team, leading to a final record of 4-4-0, finishing the NERDs' season.
 
-[[edit](/index.php?title=2337&action=edit&section=4 "Edit section: 2010 - A
-Resurgance" )]
 
 ### 2010 - A Resurgance
 
@@ -314,8 +308,6 @@ dispatching the #3 alliance of [1243](/index.php/1243 "1243" ),
 [27](/index.php/27 "27" ), and [1684](/index.php?title=1684&action=edit "1684"
 ) in the finals, taking home the championship.
 
-[[edit](/index.php?title=2337&action=edit&section=6 "Edit section: 2012 -
-Future Plans" )]
 
 ### 2012 - Future Plans
 
@@ -334,8 +326,6 @@ clip.png)](/index.php/Image:2337robot2008.jpg "Enlarge" )
 
 Bullet Bill at the Detroit Regional
 
-[[edit](/index.php?title=2337&action=edit&section=8 "Edit section: 2008 -
-Bullet Bill" )]
 
 ### 2008 - Bullet Bill
 
@@ -406,8 +396,6 @@ Leadership" )]
 
 ## Leadership
 
-[[edit](/index.php?title=2337&action=edit&section=13 "Edit section: History"
-)]
 
 ### History
 
@@ -424,8 +412,6 @@ Leadership" )]
     * 2011 - Basel Alghanem 
     * 2012 - Jordan Nickola 
 
-[[edit](/index.php?title=2337&action=edit&section=14 "Edit section: Current
-Mentors" )]
 
 ### Current Mentors
 
@@ -450,8 +436,6 @@ Mentors" )]
   * Greg Leighton - Mechanical (alumnus junior mentor) 
   * Eric Bachman - CAD (alumnus junior mentor) 
 
-[[edit](/index.php?title=2337&action=edit&section=15 "Edit section: Current
-Section Leaders" )]
 
 ### Current Section Leaders
 
@@ -474,8 +458,6 @@ Section Leaders" )]
     * Community Connections - Hannah McMurray 
     * Entrepreneurship - Unfilled 
 
-[[edit](/index.php?title=2337&action=edit&section=16 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -584,8 +566,6 @@ Accomplishments" )]
 
 ## Media
 
-[[edit](/index.php?title=2337&action=edit&section=28 "Edit section: Social
-Media" )]
 
 ### Social Media
 

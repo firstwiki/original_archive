@@ -48,8 +48,6 @@ build" )]
 
 _Small projects that got incorporated into this year's robot._
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -64,8 +62,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=4 "Edit section: New
-Jersey Regional" )]
 
 ### New Jersey Regional
 
@@ -74,8 +70,6 @@ Jersey Regional" )]
   * Regional Champions 
   * General Motors Industrial Design Award 
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=5 "Edit section: UTC
-Hartford Regional" )]
 
 ### UTC Hartford Regional
 
@@ -90,16 +84,12 @@ Championships" )]
 
   * Galileo #3 Seed (Undefeated through qualification) 
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=7 "Edit section:
-Robot" )]
 
 ## Robot
 
 [[Image:|thumb|right|2006 Robot - Evil Machine 5: La Guillotine AKA
 Rack-A-Tier]]
 
-[[edit](/index.php?title=25_in_2007&action=edit&section=8 "Edit section: Robot
-Functions" )]
 
 ### Robot Functions
 

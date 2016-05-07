@@ -58,8 +58,6 @@ build" )]
 
 ## Pre-build
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -72,8 +70,6 @@ Accomplishments" )]
 
 _Mao start writing_
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=4 "Edit section: New
-Jersey Regional" )]
 
 ### New Jersey Regional
 
@@ -90,8 +86,6 @@ York Regional" )]
 
 _Mao and engineers need to write stuff here_ etc etc etc
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=6 "Edit section:
-Atlanta Galileo Division" )]
 
 ### Atlanta Galileo Division
 
@@ -104,8 +98,6 @@ Robot" )]
 
 _General description of the robot_
 
-[[edit](/index.php?title=694_in_2008&action=edit&section=8 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

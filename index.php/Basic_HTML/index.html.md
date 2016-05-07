@@ -12,8 +12,6 @@ have a web browser. There are more advanced tools available, but for many
 purposes they are overkill. The file, complete with markup, is saved with an
 extension of ".html" (or ".htm").
 
-[[edit](/index.php?title=Basic_HTML&action=edit&section=1 "Edit section:
-Syntax" )]
 
 ## Syntax
 
@@ -50,8 +48,6 @@ in order to make your page useful for other [FIRSTers](/index.php/FIRSTer
 
   
 
-[[edit](/index.php?title=Basic_HTML&action=edit&section=3 "Edit section:
-Resources" )]
 
 ## Resources
 

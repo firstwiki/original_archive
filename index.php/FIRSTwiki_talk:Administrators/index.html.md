@@ -50,8 +50,6 @@ way of doing unexpected things! --[Mrawls](/index.php/User:Mrawls
   * 5 Files for deletion  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki_talk:Administrators&action=edit&section=1
-"Edit section: Bureaucratship \(moved from user talk:max" )]
 
 ## Bureaucratship (moved from [user talk:max](/index.php/User_talk:Max "User
 talk:Max" )
@@ -64,8 +62,6 @@ What does being a bureaucrat mean? Can you edit PHP code?
 
     Ability to appoint other sysops/bureaucrats. Not my choosing of the name, built into software. --[Max](/index.php/User:Max "User:Max" ) 16:46, 9 Jun 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki_talk:Administrators&action=edit&section=2
-"Edit section: Request to block user" )]
 
 ##  Request to block user
 
@@ -86,8 +82,6 @@ username](http://en.wikipedia.org/wiki/Wikipedia:Changing_username
 
     Agreed. -- [ZhongHan](/index.php/User:ZhongHan "User:ZhongHan" ) [(Email)](/index.php/Special:Emailuser/ZhongHan "Special:Emailuser/ZhongHan" ) 06:31, 29 August 2006 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki_talk:Administrators&action=edit&section=3
-"Edit section: Request to delete pages" )]
 
 ##  Request to delete pages
 
@@ -124,8 +118,6 @@ Will add more as I go along.-- [ZhongHan](/index.php/User:ZhongHan
 "User:ZhongHan" ) [(Email)](/index.php/Special:Emailuser/ZhongHan
 "Special:Emailuser/ZhongHan" ) 04:20, 9 March 2007 (EST)
 
-[[edit](/index.php?title=FIRSTwiki_talk:Administrators&action=edit&section=5
-"Edit section: Files for deletion" )]
 
 ##  Files for deletion
 

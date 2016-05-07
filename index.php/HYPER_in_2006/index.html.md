@@ -30,8 +30,6 @@ See the [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats
   
   
 
-[[edit](/index.php?title=HYPER_in_2006&action=edit&section=1 "Edit section:
-Awards of 2006" )]
 
 # Awards of 2006
 

@@ -32,8 +32,6 @@ detailed descriptions.
   * 6 PTC Design Award  
 ---  
   
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=1 "Edit section:
-Inspire Award" )]
 
 ## Inspire Award
 
@@ -42,24 +40,18 @@ chosen by the judges as having represented a role model FTC team. The team who
 is awarded this will move onto the next level event (either the Championship
 Tournament or World Championship).
 
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=2 "Edit section:
-Rockwell Collins Innovate Award" )]
 
 ## Rockwell Collins Innovate Award
 
 The Rockwell Collins Innovate Award is given to a team that thinks outside the
 box with their design creating a innovative and creative robot.
 
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=3 "Edit section:
-Motivate Award" )]
 
 ## Motivate Award
 
 The Motivate Award is given to a team at a FTC event that shows true team
 spirit and enthusiasm for the games.
 
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=4 "Edit section:
-Connect Award" )]
 
 ## Connect Award
 
@@ -76,8 +68,6 @@ The Think Award is given to the team that best reflects the “journey” the te
 took as they experienced the engineering design process during the build
 season.
 
-[[edit](/index.php?title=Awards_%28FTC%29&action=edit&section=6 "Edit section:
-PTC Design Award" )]
 
 ## PTC Design Award
 

@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Piotrm&action=edit&section=1 "Edit section: Who
-am I" )]
 
 ## Who am I
 

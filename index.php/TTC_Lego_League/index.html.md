@@ -116,8 +116,6 @@ Events Attended" )]
 
 ## Events Attended
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=4 "Edit section:
-2005-2006" )]
 
 ## 2005-2006
 
@@ -136,8 +134,6 @@ and programming. Each team completed several runs and a technical
 presentation. A Junior FLL event was also held with teams from local area
 elementary schools, community groups and homeschooled teams.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=6 "Edit section:
-South Carolina State Tournament" )]
 
 ### South Carolina State Tournament
 
@@ -164,8 +160,6 @@ table runs and presentations. We met a lot of people from across the globe and
 became good friends with the South African FLL team, the Explorobots, whom we
 were partnered with for the alliance exercise.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=8 "Edit section:
-2006-2007" )]
 
 ## 2006-2007
 
@@ -202,8 +196,6 @@ all, a very succesful season!
 Good luck to Doby's Mill Elementary (Friday's Champion's Award winners) and
 Oakview Elementary (Saturday's Champion's Award) in Atlanta!
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=11 "Edit section:
-Awards and Recognitions" )]
 
 ## Awards and Recognitions
 
@@ -282,8 +274,6 @@ other items. In 2006, the team is monitoring water quality near a oyster bed
 in a local creek. During the season, the team always has guest speakers and
 takes field trips relating to that year's challenge topic.
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=13 "Edit section:
-Members List" )]
 
 ## Members List
 
@@ -314,8 +304,6 @@ In 2007, Mr. Sam was recognized at the state level with an Outstanding
 Volunteer Award and the Adult Mentor Award, two very deserved accolades. Way
 to go Mr. Sam!
 
-[[edit](/index.php?title=TTC_Lego_League&action=edit&section=16 "Edit section:
-Sponsors" )]
 
 ## Sponsors
 

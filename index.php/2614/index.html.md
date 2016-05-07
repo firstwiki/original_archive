@@ -60,8 +60,6 @@ rival Morgantown and University High Schools but over the years students from
 Point Pleasant and East Fairmont High Schools (as well as several home-
 schoolers) have joined the team.
 
-[[edit](/index.php?title=2614&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -70,8 +68,6 @@ Projects" )]
   * Parade Bot - In the summer of 2009 MARS began construction of a community demonstration robot in the shape of our mascot. It has a mecanum drive base with a self-contained backpack control unit and is very easy for young children to drive. It has a computer monitor for a face and speakers for ears, making it the ideal presentation robot. Using its arms it has already cut a ribbon and broken ground for two new buildings on the West Virginia University campus. 
   * BETA Testing - MARS assisted FRC team 1629 (GaCo) in testing the new FRC control system in the fall of 2008. 
 
-[[edit](/index.php?title=2614&action=edit&section=3 "Edit section: Spreading
-FIRST" )]
 
 ## Spreading FIRST
 
@@ -146,8 +142,6 @@ Accomplishments" )]
     * Rookie All-Star Award 
     * Regional Champions 
 
-[[edit](/index.php?title=2614&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

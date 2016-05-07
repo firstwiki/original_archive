@@ -74,16 +74,12 @@ The field was a 12 sided polygon, with a large tower in the middle. The tower
 was surrounded by a hexagon outlined by four by fours. There were 12 balls for
 each team on the field.
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=2 "Edit section: Game
-Description" )]
 
 ## Game Description
 
 There were 3 robots at a time. A ball in the upper part of the tower was 3
 points and a ball in the lower part of the tower was 1 point.
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -94,8 +90,6 @@ Of Parts" )]
 
   * Robots were powered by a 23 volt drill battery. 
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -104,8 +98,6 @@ Strategies" )]
 
 ## Strategies
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -122,8 +114,6 @@ modern FRC Team Numbering System), as they competed in the 1994 Archimedes
 Division. [[1]](http://video.google.com/videoplay?docid=7056934861850183073
 "http://video.google.com/videoplay?docid=7056934861850183073" )
 
-[[edit](/index.php?title=Tower_Power&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

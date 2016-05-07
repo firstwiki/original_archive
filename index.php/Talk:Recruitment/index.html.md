@@ -36,8 +36,6 @@ section 1" )]
 
 # section 1
 
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=2 "Edit section:
-section 1A" )]
 
 ## section 1A
 
@@ -46,8 +44,6 @@ section 1B" )]
 
 ## section 1B
 
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=4 "Edit section:
-Section 2" )]
 
 # Section 2
 
@@ -64,8 +60,6 @@ which is written as:
 ==Section 2a==  
 You can only do this as 6 deep.
 
-[[edit](/index.php?title=Talk:Recruitment&action=edit&section=6 "Edit section:
-a very deep section" )]
 
 ###### a very deep section
 

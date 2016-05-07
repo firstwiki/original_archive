@@ -42,8 +42,6 @@ Jump to: navigation, search
   * [Eric's PIC Page](http://www.brouhaha.com/~eric/pic/ "http://www.brouhaha.com/~eric/pic/" ) offers many code samples, tips, and other guidelines and resources for working with a PIC chip. 
   * [Myke Predko](http://www.rentron.com/pic.htm "http://www.rentron.com/pic.htm" ) (of Reynold's Electronics) offers another useful PIC project page. 
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=3
-"Edit section: General C Internet sites" )]
 
 ## General C Internet sites
 
@@ -56,8 +54,6 @@ Jump to: navigation, search
   * [C programming notes](http://www.eskimo.com/~scs/cclass/cclass.html "http://www.eskimo.com/~scs/cclass/cclass.html" ) from a college class 
   * [C programming tutorial](http://cplus.about.com/library/blctut.htm "http://cplus.about.com/library/blctut.htm" ) from About.com 
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=5
-"Edit section: Reference" )]
 
 ### Reference
 
@@ -66,8 +62,6 @@ Jump to: navigation, search
 
   
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=6
-"Edit section: Books" )]
 
 ## Books
 

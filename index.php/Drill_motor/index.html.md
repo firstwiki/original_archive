@@ -54,8 +54,6 @@ each side of the [robot](/index.php/Robot "Robot" ).
   * 3 Usage Notes  
 ---  
   
-[[edit](/index.php?title=Drill_motor&action=edit&section=1 "Edit section:
-Included gearbox" )]
 
 ## Included gearbox
 
@@ -68,8 +66,6 @@ set to disengage the gearbox from its output shaft at a certain torque.
 Additionally, the gearbox has two small pins that stop backdrive on the motor,
 but they can easily be removed.
 
-[[edit](/index.php?title=Drill_motor&action=edit&section=2 "Edit section:
-Torque and Efficiency curves" )]
 
 ## Torque and Efficiency curves
 
@@ -82,8 +78,6 @@ Without gearbox" )]
 g)](/index.php/Image:Drill_motor_graphs_no_GB.png
 "image:drill_motor_graphs_no_GB.png" )
 
-[[edit](/index.php?title=Drill_motor&action=edit&section=4 "Edit section: With
-gearbox set to low gear" )]
 
 ### With gearbox set to low gear
 

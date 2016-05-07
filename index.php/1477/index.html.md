@@ -122,8 +122,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1477&action=edit&section=3 "Edit section: Lone Star
-Regional 2004" )]
 
 ### Lone Star Regional 2004
 
@@ -176,8 +174,6 @@ Championship 2008 - Curie" )]
 
   * Qualifier Rounds: 68th of 84 teams 
 
-[[edit](/index.php?title=1477&action=edit&section=10 "Edit section: Indiana
-Robotics Invitational 2008" )]
 
 ### Indiana Robotics Invitational 2008
 
@@ -206,16 +202,12 @@ Championship 2009 - Galileo" )]
 
   * Qualifier Rounds: 50th of 86 teams 
 
-[[edit](/index.php?title=1477&action=edit&section=14 "Edit section: Texas
-Robot RoundUp 2009: Lunar Shootout" )]
 
 ### Texas Robot RoundUp 2009: Lunar Shootout
 
   * Qualifier Rounds: 4th of 8 teams 
   * Elimination Rounds: 2nd Seed Alliance (2587) - Finals Qualifier 
 
-[[edit](/index.php?title=1477&action=edit&section=15 "Edit section: Schools"
-)]
 
 ## Schools
 
@@ -282,8 +274,6 @@ Robot RoundUp 2009: Lunar Shootout" )]
   * RE/MAX 
   * SBM Offshore 
 
-[[edit](/index.php?title=1477&action=edit&section=23 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -464,8 +454,6 @@ List" )]
   * Hartej Singh, University of Texas at San Antonio, Class of 2005 
   * Ryan Sturgeon, University of Michigan, Class of 2005 
 
-[[edit](/index.php?title=1477&action=edit&section=32 "Edit section: Mentors"
-)]
 
 ### Mentors
 

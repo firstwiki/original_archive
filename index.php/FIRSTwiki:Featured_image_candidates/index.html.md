@@ -44,8 +44,6 @@ page so you don't accidentally vote for an image that was already featured.
   * 5 Tier 1  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Featured_image_candidates&action=edit&secti
-on=1 "Edit section: Tier 5" )]
 
 ##  Tier 5
 
@@ -54,8 +52,6 @@ on=2 "Edit section: Tier 4" )]
 
 ##  Tier 4
 
-[[edit](/index.php?title=FIRSTwiki:Featured_image_candidates&action=edit&secti
-on=3 "Edit section: Tier 3" )]
 
 ##  Tier 3
 
@@ -64,8 +60,6 @@ on=4 "Edit section: Tier 2" )]
 
 ##  Tier 2
 
-[[edit](/index.php?title=FIRSTwiki:Featured_image_candidates&action=edit&secti
-on=5 "Edit section: Tier 1" )]
 
 ##  Tier 1
 

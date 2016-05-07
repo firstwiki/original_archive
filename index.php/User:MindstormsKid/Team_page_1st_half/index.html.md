@@ -20,8 +20,6 @@ Jump to: navigation, search
     * 3.3 Tennessee State Tournament  
 ---  
   
-[[edit](/index.php?title=User:MindstormsKid/Team_page_1st_half&action=edit&sec
-tion=1 "Edit section: Team Info and History" )]
 
 ## Team Info and History
 
@@ -32,8 +30,6 @@ tion=2 "Edit section: Team Location" )]
 
 We are based in St. Elmo, a neighborhood in Chattanooga, Tennessee.
 
-[[edit](/index.php?title=User:MindstormsKid/Team_page_1st_half&action=edit&sec
-tion=3 "Edit section: Team Age" )]
 
 ### Team Age
 
@@ -50,8 +46,6 @@ article that it was the current "hot number". The "storm" part came from
 "Mindstorms", and the "Team" part (it's actually part of the name) was used
 because Teddy didn't think "Terastorm" sounded good.
 
-[[edit](/index.php?title=User:MindstormsKid/Team_page_1st_half&action=edit&sec
-tion=5 "Edit section: How the team was started" )]
 
 ### How the team was started
 
@@ -66,8 +60,6 @@ tion=6 "Edit section: Robots" )]
 
   * [Team Terastorm - Robot - 2007](/index.php?title=Team_Terastorm_-_Robot_-_2007&action=edit "Team Terastorm - Robot - 2007" )
 
-[[edit](/index.php?title=User:MindstormsKid/Team_page_1st_half&action=edit&sec
-tion=7 "Edit section: Current Season Events Attended" )]
 
 ## Current Season Events Attended
 
@@ -82,8 +74,6 @@ Wow! We got second place, and this was our first tournament!
 We got there at about 8:00am, central time. There were about 8 teams, and
 there were three rounds.
 
-[[edit](/index.php?title=User:MindstormsKid/Team_page_1st_half&action=edit&sec
-tion=9 "Edit section: Chattanooga Tournament" )]
 
 ### Chattanooga Tournament
 

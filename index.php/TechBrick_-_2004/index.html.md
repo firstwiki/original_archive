@@ -22,8 +22,6 @@ Competition Year: | xxxx
     * 1.4 Lessons Learned  
 ---  
   
-[[edit](/index.php?title=TechBrick_-_2004&action=edit&section=1 "Edit section:
-Robot" )]
 
 ## Robot
 

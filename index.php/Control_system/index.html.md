@@ -82,8 +82,6 @@ links with a valid URL or remove dead links.
 
   * Check out [FRCWiki.com](http://frcwiki.com "http://frcwiki.com" ). 
 
-[[edit](/index.php?title=Control_system&action=edit&section=2 "Edit section:
-2005-2008 Control System" )]
 
 ##  2005-2008 Control System
 

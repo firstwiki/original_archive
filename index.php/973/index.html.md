@@ -158,8 +158,6 @@ Laron Inc.
 
   
 
-[[edit](/index.php?title=973&action=edit&section=6 "Edit section: Platinum
-\($1000+\)" )]
 
 ### Platinum ($1000+)
 
@@ -168,8 +166,6 @@ The Price Family
 Laron Inc.  
 MindBody
 
-[[edit](/index.php?title=973&action=edit&section=7 "Edit section: Gold
-\($500-$1000\)" )]
 
 ### Gold ($500-$1000)
 
@@ -182,16 +178,12 @@ Oak Country Lumber
 
   
 
-[[edit](/index.php?title=973&action=edit&section=8 "Edit section: Silver
-\($250-$500\)" )]
 
 ### Silver ($250-$500)
 
 Next Intent  
 Atascadero Kiwanis Club  
 
-[[edit](/index.php?title=973&action=edit&section=9 "Edit section: Bronze
-\(Under $250\)" )]
 
 ### Bronze (Under $250)
 
@@ -208,8 +200,6 @@ Members, 2011 Season" )]
 
 ## Current Members, 2011 Season
 
-[[edit](/index.php?title=973&action=edit&section=11 "Edit section: Students"
-)]
 
 ### Students
 

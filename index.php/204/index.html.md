@@ -40,8 +40,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=204
 FIRST member since 1998. We've always been a student run organization and have
 had mulitple victories.
 
-[[edit](/index.php?title=204&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -58,8 +56,6 @@ projects" )]
   * [2003 Zikomo Ngwazi](/index.php?title=204_in_2003&action=edit "204 in 2003" )
   * [2002 Hiemdal](/index.php?title=204_in_2002&action=edit "204 in 2002" )
 
-[[edit](/index.php?title=204&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -78,8 +74,6 @@ Accomplishments" )]
   * Echo Pizza 
   * Joe Burleigh 
 
-[[edit](/index.php?title=204&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

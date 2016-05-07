@@ -6,8 +6,6 @@ Jump to: navigation, search
 
 **Assembly** is close to machine language, i.e., the basic instructions that a computer processes. It is a low-level language, without the sophistication of C, for instance, but is used because it can produce faster software than a high level language. But any errors in your code may be fatal. The standard extension for a file containing assembly is .asm. 
 
-[[edit](/index.php?title=Assembly&action=edit&section=1 "Edit section:
-Inlining assembly in C" )]
 
 ## Inlining assembly in C
 

@@ -168,8 +168,6 @@ Accomplishments" )]
   * Ben Ng 09 
   * Matt Houston 09 
 
-[[edit](/index.php?title=1280&action=edit&section=11 "Edit section: Mentors"
-)]
 
 ### Mentors
 

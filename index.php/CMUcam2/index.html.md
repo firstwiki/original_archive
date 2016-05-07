@@ -78,8 +78,6 @@ camera is commonly mounted to two servos in order to locate objects.
     * 3.3 Status Lights  
 ---  
   
-[[edit](/index.php?title=CMUcam2&action=edit&section=1 "Edit section: Purpose"
-)]
 
 ## Purpose
 
@@ -102,8 +100,6 @@ The camera came with a pan and tilt mount powered by servos that could be used
 to allow the robot to "look around". The mount also made it easy for teams to
 mount the camera on their robot.
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=3 "Edit section:
-Assembly" )]
 
 ### Assembly
 
@@ -118,8 +114,6 @@ Problems" )]
 
 Here are a few things to try if the camera is not operating properly.
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=5 "Edit section: Backup
-Battery" )]
 
 ### Backup Battery
 
@@ -138,8 +132,6 @@ controller](/index.php/Robot_controller "Robot controller" ). The other is
 plugged into the small TTL/RS-232 converter, which is then plugged into the
 [robot controller](/index.php/Robot_controller "Robot controller" ).
 
-[[edit](/index.php?title=CMUcam2&action=edit&section=7 "Edit section: Status
-Lights" )]
 
 ### Status Lights
 

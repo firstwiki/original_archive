@@ -52,8 +52,6 @@ by Caterpillar.
   * 2007 - [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )
   * 2006 - [Midwest Regional](/index.php/Midwest_Regional "Midwest Regional" )
 
-[[edit](/index.php?title=1736&action=edit&section=3 "Edit section: The Name"
-)]
 
 ### The Name
 
@@ -62,8 +60,6 @@ around, but nothing was chosen. Someone mentioned that Peoria was the largest
 consumer of green bean casserole per capita in the United States. This evolved
 into the name Robot Casserole, and it stuck.
 
-[[edit](/index.php?title=1736&action=edit&section=4 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -84,8 +80,6 @@ Accomplishments" )]
 
   * [Caterpillar Inc.](http://www.cat.com/cda/layout?m=8703&x=7| "http://www.cat.com/cda/layout?m=8703&x=7|" )
 
-[[edit](/index.php?title=1736&action=edit&section=7 "Edit section: Member
-List" )]
 
 ## Member List
 

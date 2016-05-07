@@ -100,8 +100,6 @@ clip.png)](/index.php/Image:Logomotion.gif "Enlarge" )
 
 Logomotion logo
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=2 "Edit section:
-Competition and Results" )]
 
 ## Competition and Results
 
@@ -114,8 +112,6 @@ Rules" )]
 
 ## Rules
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=4 "Edit section:
-Match periods" )]
 
 ### Match periods
 
@@ -134,8 +130,6 @@ As per previous years' competitions, three teams are on each alliance, red and
 blue. Each team may have one robot on the field. That robot may be remotely
 controlled by a driver after the autonomous period.
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=6 "Edit section:
-Field" )]
 
 ### Field
 
@@ -166,8 +160,6 @@ colored tape on the floor to allow for sensor calibration and to create visual
 reference points. Furthermore, the tape delineates area where certain robots
 may or may not traverse.
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=7 "Edit section:
-Playing pieces" )]
 
 ### Playing pieces
 
@@ -180,8 +172,6 @@ The following make up the FIRST Logo.
   * **Circle** \- a white, circular inner tube 
   * **Square** \- a blue, square inner tube 
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=8 "Edit section:
-Scoring" )]
 
 ### Scoring
 
@@ -236,8 +226,6 @@ References" )]
 
 ## References
 
-[[edit](/index.php?title=Logo_Motion&action=edit&section=11 "Edit section:
-External links" )]
 
 ## External links
 

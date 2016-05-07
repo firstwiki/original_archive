@@ -64,8 +64,6 @@ FRC Team 25, Raider Robotix, was founded in 1997 as part of the Systemic
 Science Initiative. Early on, the team struggled to field a competitive team
 and gain financial support from the surrounding community.
 
-[[edit](/index.php?title=25&action=edit&section=3 "Edit section: National
-Success" )]
 
 ### National Success
 
@@ -74,8 +72,6 @@ agreed to lend its financial and technical support to the team. This sparked
 the dawn of a new era in Raider Robotix. They won the National Championship
 that year, gaining them national prominence.
 
-[[edit](/index.php?title=25&action=edit&section=4 "Edit section: Continued
-Excellence" )]
 
 ### Continued Excellence
 
@@ -144,8 +140,6 @@ offering teams a place to compete with their robot during the fall, the
 competition also allows team 25 to invite members from the local community to
 attend and get excited about robotics.
 
-[[edit](/index.php?title=25&action=edit&section=8 "Edit section: Community
-Involvement" )]
 
 ### Community Involvement
 
@@ -156,8 +150,6 @@ a strong relationship with the North Brunswick Senior Citizen Center and the
 North Brunswick Food Pantry. Many students also lend their aid to local
 hospitals, soup kitchens, religious organisations, and fire departments.
 
-[[edit](/index.php?title=25&action=edit&section=9 "Edit section: Raider
-Robotix LEGO Camp" )]
 
 ### Raider Robotix LEGO Camp
 
@@ -396,8 +388,6 @@ Awards from 2000-2005.
   * **Royal Hawaiian Creations**: Team 25 works with Royal Hawaiian Creations, located in Hawaii, each year to obtain the authentic Hawaiian shirts that are a part of our team's signature uniform. 
   * **Infrared Remote Solutions**: In the 2008 season, team 25 worked with Infrared Remote Solutions to develop an IR remote control system that allowed us to control our robot's every move during the "Hybrid" portion of that year's game; this was a large contribution to our on-field success that season. 
 
-[[edit](/index.php?title=25&action=edit&section=13 "Edit section: Members
-List" )]
 
 ##  Members List
 

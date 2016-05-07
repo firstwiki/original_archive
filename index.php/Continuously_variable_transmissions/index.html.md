@@ -14,8 +14,6 @@ Jump to: navigation, search
   * 3 Application in FIRST  
 ---  
   
-[[edit](/index.php?title=Continuously_variable_transmissions&action=edit&secti
-on=1 "Edit section: Synopsis" )]
 
 ##  Synopsis
 
@@ -26,8 +24,6 @@ shifting between gears as in a normal transmission, the sizes of these wheels
 change, effecitively producing an infinite number of gear ratios. This type of
 CVT is rarely seen, but it illustrates the point effectively.
 
-[[edit](/index.php?title=Continuously_variable_transmissions&action=edit&secti
-on=2 "Edit section: Types of CVT" )]
 
 ##  Types of CVT
 
@@ -46,8 +42,6 @@ CVT is often seen [in motorcycles](http://www.kawasaki.co.uk/atv/specification
 [![Image:Cvt2_thumb.jpg](/media/c/cf/Cvt2_thumb.jpg)](/index.php/Image:Cvt2_th
 umb.jpg "Image:Cvt2_thumb.jpg" )
 
-[[edit](/index.php?title=Continuously_variable_transmissions&action=edit&secti
-on=4 "Edit section: Toroidal" )]
 
 ###  Toroidal
 
@@ -76,8 +70,6 @@ information and images.
 [![Image:Wheel_cvt.gif](/media/6/68/Wheel_cvt.gif)](/index.php/Image:Wheel_cvt
 .gif "Image:Wheel_cvt.gif" )
 
-[[edit](/index.php?title=Continuously_variable_transmissions&action=edit&secti
-on=6 "Edit section: Application in FIRST" )]
 
 ##  Application in FIRST
 

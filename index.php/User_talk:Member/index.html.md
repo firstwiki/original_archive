@@ -20,8 +20,6 @@ Jump to: navigation, search
   * 7 Just an update  
 ---  
   
-[[edit](/index.php?title=User_talk:Member&action=edit&section=1 "Edit section:
-Template:Featureimage" )]
 
 ##  [Template:Featureimage](/index.php/Template:Featureimage
 "Template:Featureimage" )
@@ -36,8 +34,6 @@ it. =). --[Hallry](/index.php/User:Hallry "User:Hallry" ) 22:59, 14 June 2011
 
     Cool. I like your revisions. [Member](/index.php/User:Member "User:Member" ) 23:45, 14 June 2011 (EDT) 
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=2 "Edit section:
-In case you were wondering" )]
 
 ##  In case you were wondering
 
@@ -60,8 +56,6 @@ absence! --[Hallry](/index.php/User:Hallry "User:Hallry" ) 12:24, 16 July 2011
 
     Also just want to say thank you very much for changing the featured image and article for the front page, it looks great! --[Hallry](/index.php/User:Hallry "User:Hallry" ) 12:26, 16 July 2011 (EDT) 
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=4 "Edit section:
-FYI" )]
 
 ##  FYI
 
@@ -86,8 +80,6 @@ I had it as red, white, and blue to correspond with the colors of the FIRST
 logo...what do you think? --[Hallry](/index.php/User:Hallry "User:Hallry" )
 00:15, 7 August 2011 (EDT)
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=6 "Edit section:
-Away until the 13th" )]
 
 ##  Away until the 13th
 
@@ -102,8 +94,6 @@ software. [Hallry](/index.php/User:Hallry "User:Hallry" ) 00:15, 7 August 2011
 
     Back from camp, and you did an AWESOME job dealing with the spam. No email back from Brandon yet =/ --[Hallry](/index.php/User:Hallry "User:Hallry" ) 16:06, 13 August 2011 (EDT) 
 
-[[edit](/index.php?title=User_talk:Member&action=edit&section=7 "Edit section:
-Just an update" )]
 
 ##  Just an update
 

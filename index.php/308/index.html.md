@@ -38,8 +38,6 @@ Team Website: | {{{website}}}
       * 1.7.4 Parents  
 ---  
   
-[[edit](/index.php?title=308&action=edit&section=1 "Edit section: Attending in
-2009" )]
 
 # Attending in 2009
 
@@ -114,8 +112,6 @@ Northern" )]
   * Stefan Bloomenstein 
   * Patrick Tallman 
 
-[[edit](/index.php?title=308&action=edit&section=9 "Edit section: Walled Lake
-Western" )]
 
 #### Walled Lake Western
 
@@ -152,8 +148,6 @@ Engineers" )]
   * Steve Sexton 
   * Patrick Wu 
 
-[[edit](/index.php?title=308&action=edit&section=13 "Edit section: Walled Lake
-Teachers" )]
 
 ##### Walled Lake Teachers
 

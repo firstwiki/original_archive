@@ -204,16 +204,12 @@ That was only the beginning.
 
 ##  Sponsors
 
-[[edit](/index.php?title=291&action=edit&section=11 "Edit section: Platinum
-Sponsors" )]
 
 ###  Platinum Sponsors
 
   * GE 
   * Erie School District 
 
-[[edit](/index.php?title=291&action=edit&section=12 "Edit section: Gold
-Sponsors" )]
 
 ###  Gold Sponsors
 
@@ -222,8 +218,6 @@ Sponsors" )]
   * Braendel Painting 
   * Jenson-Landis Jr. Memorial Open 
 
-[[edit](/index.php?title=291&action=edit&section=13 "Edit section: Silver
-Sponsors" )]
 
 ###  Silver Sponsors
 
@@ -234,8 +228,6 @@ Sponsors" )]
   * Grise Audio-Visual Center 
   * Amatech Polycel 
 
-[[edit](/index.php?title=291&action=edit&section=14 "Edit section: Bronze
-Sponsors" )]
 
 ###  Bronze Sponsors
 

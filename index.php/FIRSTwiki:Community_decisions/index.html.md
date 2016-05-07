@@ -60,8 +60,6 @@ Jump to: navigation, search
     * 3.5 Common edit summary notation  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=1
-"Edit section: Current Issues" )]
 
 # Current Issues
 
@@ -136,8 +134,6 @@ March 2010 (EDT)
     Was doing stuff on my personal wiki and noticed that in the newest version of MW you **can** move files (ergo, renaming them) without doing any download and reuploading. Guess we'll just have to wait until the latest updated is installed. [Tanner](/index.php/User:TannerLD "User:TannerLD" ) 09:25, 23 March 2010 (EDT) 
     Going to starting cranking out on this. Our files are awful. Period. A lot of them can be deleted, and most of them need to be renamed. [Boydean](/index.php/User:Boydean "User:Boydean" ) 00:12, 27 May 2011 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=7
-"Edit section: Project Header Templates" )]
 
 ## Project Header Templates
 
@@ -150,8 +146,6 @@ jumping around articles in the wiki. [Boydean](/index.php/User:Boydean
 
     I think it'd be good. Would certainly help clean things up and make it look more professional. Plus it looks more organized when there are three different notices at the top of pages. [Tanner](/index.php/User:TannerLD "User:TannerLD" ) 18:06, 14 March 2010 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=8
-"Edit section: FTC Events" )]
 
 ## FTC Events
 
@@ -174,8 +168,6 @@ On [Competitions](/index.php/Competitions "Competitions" ), don't FLL and FTC
 have championships as well? Then shouldn't they have said pages for that?
 [Tanner](/index.php/User:TannerLD "User:TannerLD" ) 20:50, 13 March 2010 (EST)
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=10
-"Edit section: Resolved Issues" )]
 
 # Resolved Issues
 
@@ -192,8 +184,6 @@ This does not appear to be a current issue: several people have managed to
 upload without problem. [Nathan Hui](/index.php/User:Nathan_Hui "User:Nathan
 Hui" ) 23:17, 19 February 2012 (CST)
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=12
-"Edit section: Inspiration, Recognition, Science, and Technology Pages" )]
 
 ## Inspiration, Recognition, Science, and Technology Pages
 
@@ -214,8 +204,6 @@ they be removed unless there's something to fill 'em with.
 
      What about linking all four of them to a single "[FIRST (acronym)](/index.php?title=FIRST_%28acronym%29&action=edit "FIRST \(acronym\)" )" page, where we could break down the name, reasoning, and vision behind it, from that page, we could also have links to each words corresponding wiktionary articles. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 22:28, 14 March 2010 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=13
-"Edit section: Game" )]
 
 ## Game
 
@@ -234,8 +222,6 @@ moving things around and having some pages that link to those pages.
 
     Pretty much did it, though I left the [FLL Challenges](/index.php/FLL_Challenges "FLL Challenges" ) as it was as it's kinda unique in it's name. Though I still created a [Game (FLL)](/index.php/Game_%28FLL%29 "Game \(FLL\)" ) just for consistency sake. [Tanner](/index.php/User:TannerLD "User:TannerLD" ) 20:51, 16 March 2010 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=14
-"Edit section: Drivetrain" )]
 
 ## Drivetrain
 
@@ -254,8 +240,6 @@ follow.[Tanner](/index.php/User:TannerLD "User:TannerLD" ) 21:52, 13 March
 
 # Relatively Old Issues
 
-[[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=16
-"Edit section: FIRSTWiki Trashed \(Admins please read\)" )]
 
 ## FIRSTWiki Trashed (Admins please read)
 

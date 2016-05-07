@@ -78,8 +78,6 @@ Team Website: | <http://www.rockets34.com/>
   * Siemens VDO 
   * Midway Machine 
 
-[[edit](/index.php?title=34&action=edit&section=5 "Edit section: Members List"
-)]
 
 ## Members List
 

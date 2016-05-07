@@ -48,8 +48,6 @@ This will be a rough list of stuff that needs to be done on FIRSTwiki.
     * 7.1 Technical  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=1 "Edit section:
-Resurrect FIRST Wiki" )]
 
 ## Resurrect FIRST Wiki
 
@@ -82,8 +80,6 @@ organize current tasks, perhaps separating them from the discussion about
 them. --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 20:00, 30 Jun 2004
 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=3 "Edit section:
-Weeding articles" )]
 
 ## Weeding articles
 
@@ -110,8 +106,6 @@ If we get an influx of users, we sure want them to know what they can do to
 help, or else it's all for naught. Other ideas/opinions on this?
 --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 18:52, 14 Jun 2004 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=4 "Edit section:
-Meta pages" )]
 
 ## Meta pages
 
@@ -160,16 +154,12 @@ meta pages, that is) ... and I think everyone would benefit from examining
 wikipedia's help pages, et. al., to get an idea of how they do it.
 --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 16:51, 9 Jun 2004 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=5 "Edit section:
-Format" )]
 
 ## Format
 
   * Standard FIRSTwiki:Team page format, people, competition, etc. [page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) must be developed ASAP, and that means soon. There is going to be a lot of wasted work redoing pages if we wait too long. We should do it right and utilize {{msg:xxxxx}} where possible. --[Max](/index.php/User:Max "User:Max" )
   * Look for a better system for organizing all the list of awards. Awards will be on team pages, regional pages, awards pages, etc etc. A DB system is possible, but that will require a lot of code to interface with MediaWiki that may very well break in future versions of it. --[Max](/index.php/User:Max "User:Max" ) 21:03, 27 May 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:To_Do&action=edit&section=6 "Edit section:
-Appearance" )]
 
 ## Appearance
 

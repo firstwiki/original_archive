@@ -70,8 +70,6 @@ alliance. There were two alliances of three teams each. Alliances had to get
 special balls, or "moon rocks", into opposing the alliance's trailers to score
 points.
 
-[[edit](/index.php?title=Lunacy&action=edit&section=1 "Edit section: Game
-play" )]
 
 ## Game play
 

@@ -56,8 +56,6 @@ Speed and pushing power are, in most cases, inversely proportional to one
 another and can be adjusted by modifying the gearing ratios between the input
 (motors) and the output (wheels).
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=2 "Edit section:
-Maneuverability" )]
 
 ### Maneuverability
 
@@ -74,8 +72,6 @@ controls which can take the form of either a closed loop software control
 (e.g. [PID feedback loop](/index.php/PID_feedback_loop "PID feedback loop" )),
 or an extensive [open loop](/index.php/Open_loop "Open loop" ) control system.
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=3 "Edit section: Types
-of Drivetrains" )]
 
 ## Types of Drivetrains
 
@@ -108,8 +104,6 @@ of mass, minimizing the area through which it must travel in order to turn.
 Placing the powered wheels along the 30" sides of the robot will further slow
 its rate of turn, making it more controllable (helpful, but not necessary).
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=5 "Edit section: Four
-Wheel Drive" )]
 
 ### Four Wheel Drive
 
@@ -120,8 +114,6 @@ extra driven wheels, a four wheel drive robot has more traction and control
 over a two wheel drive robot. The trade-off is the increased wheel base can
 cause problems turning (when the wheel base exceeds the wheel width).
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=6 "Edit section: Six
-Wheel Drive" )]
 
 ### Six Wheel Drive
 
@@ -156,8 +148,6 @@ for the driver, it is not a very common choice due to its lack of
 maneuverability. Generally, the large turning radius makes it very difficult
 to maneuver in a corner or tight space.
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=8 "Edit section:
-Swerve Drive" )]
 
 ### Swerve Drive
 
@@ -196,8 +186,6 @@ turning simultaneously, as well as point turning. However, the increasing
 weight and complexity of the latter two designs leads many teams to use the
 simpler _crab drive_.
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=10 "Edit section:
-Holonomic Drive" )]
 
 ### Holonomic Drive
 

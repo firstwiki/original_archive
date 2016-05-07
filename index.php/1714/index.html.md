@@ -176,8 +176,6 @@ Accomplishments" )]
   4. Minnesota 10,000 Lakes Regional Rockwell Automation Innovation in Control 
   5. Minnesota 10,000 Lakes Regional Safety Recognition 
 
-[[edit](/index.php?title=1714&action=edit&section=14 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 

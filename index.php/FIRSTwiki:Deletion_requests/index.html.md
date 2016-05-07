@@ -14,8 +14,6 @@ policy](/index.php?title=Deletion_policy&action=edit "Deletion policy" ). When
 recommending an article, please include a link to it and state why it should
 be removed.
 
-[[edit](/index.php?title=FIRSTwiki:Deletion_requests&action=edit&section=1
-"Edit section: Requests for speedy deletion" )]
 
 ## Requests for speedy deletion
 
@@ -44,8 +42,6 @@ Guideline for the Modern Jew" )
 
     **Deleted**, no explanation needed... --[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257 "1257" )]]] 11:32, 13 Oct 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Deletion_requests&action=edit&section=2
-"Edit section: Decisions in progress" )]
 
 ## Decisions in progress
 

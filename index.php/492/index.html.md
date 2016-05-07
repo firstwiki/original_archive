@@ -240,8 +240,6 @@ Accomplishments" )]
 
   * Winner, Pacific Northwest Regional Chairman's Award 
 
-[[edit](/index.php?title=492&action=edit&section=16 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -258,8 +256,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=492&action=edit&section=18 "Edit section: Students"
-)]
 
 ### Students
 

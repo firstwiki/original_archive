@@ -16,8 +16,6 @@ point ball." The 2003 game manual describes autonomous mode like this:
 
     As soon as the game starts, all robots will be under autonomous control (no human drivers) for a period of 15 seconds. During this time, the robots will operate and react only to sensor inputs and to commands programmed by their teams into the onboard robot control system. Operator control of the robot will not be possible during this time. (see [2003 Game Manual](http://www2.usfirst.org/2003comp/The_Game.pdf "http://www2.usfirst.org/2003comp/The_Game.pdf" )) 
 
-[[edit](/index.php?title=Autonomous_mode&action=edit&section=1 "Edit section:
-See also" )]
 
 ##  See also
 
@@ -26,8 +24,6 @@ See also" )]
   * [Dead reckoning](/index.php/Dead_reckoning "Dead reckoning" )
   * [Control system](/index.php/Control_system "Control system" )
 
-[[edit](/index.php?title=Autonomous_mode&action=edit&section=2 "Edit section:
-Resources" )]
 
 ##  Resources
 

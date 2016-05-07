@@ -52,8 +52,6 @@ below).
 
 ## About C
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-2 "Edit section: Comments" )]
 
 ### Comments
 
@@ -98,8 +96,6 @@ There are several advantages to this:
   * Can be placed within a /* */ comment (aka a muliline comment) 
   * You can use multi-line comments to comment out code w/o having to go through each line and add /* at the beginning 
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-3 "Edit section: Variables" )]
 
 ### Variables
 
@@ -134,8 +130,6 @@ then put the following statement in _user_routines_fast.c_:
      extern unsigned int arm_pos;
     
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-4 "Edit section: Macros as Aliases" )]
 
 ### Macros as Aliases
 
@@ -168,8 +162,6 @@ p2_wheel is changed to p3_wheel, the rest of the code does not care -- only
 the alias has to be changed (this is preferred, of course, as opposed to
 changing many references).
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-5 "Edit section: Macros as Constants" )]
 
 ### Macros as Constants
 
@@ -202,8 +194,6 @@ certain forward speed during a particular stage. Having that speed defined in
 an easily accessible location with other adjustable parameters makes changing
 it much easier. In general, macros aid in the development process.
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-6 "Edit section: Macros as Functions" )]
 
 ### Macros as Functions
 
@@ -234,8 +224,6 @@ would be compiled as
 
 ## About the default code
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-8 "Edit section: Initialization" )]
 
 ### Initialization
 
@@ -252,8 +240,6 @@ certain range. In general, it is good practice to intialize most variables in
 this function that need initialization, rather than when they are declared, so
 that they are easy to get to and change when necessary.
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-9 "Edit section: Main loop" )]
 
 ### Main loop
 
@@ -264,8 +250,6 @@ processes it, then outputs other data, then repeats. For this reason, custom
 code will almost never include additional looping structures, and alogirthms
 must be adopted to this.
 
-[[edit](/index.php?title=Programming_the_Robot_Controller&action=edit&section=
-10 "Edit section: Process_Data_From_Master_uP" )]
 
 ### Process_Data_From_Master_uP
 

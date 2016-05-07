@@ -38,8 +38,6 @@ teams" )
   * 6 Links  
 ---  
   
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -84,16 +82,12 @@ Awards and Recognitions" )]
   * State Champion-2006 
   * World Festival Director's Award (international champion) - 2006 
 
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=5 "Edit section:
-Robot Score" )]
 
 ## Robot Score
 
 Our best score is a perfect score of 400. We have gotten more than fifty of
 those during practice and competition over the past year.
 
-[[edit](/index.php?title=Central_SpaceLab&action=edit&section=6 "Edit section:
-Links" )]
 
 ## Links
 

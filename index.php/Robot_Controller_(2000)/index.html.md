@@ -42,8 +42,6 @@ output data ever 26.2 ms.
 
   
 
-[[edit](/index.php?title=Robot_Controller_%282000%29&action=edit&section=1
-"Edit section: External links" )]
 
 ## External links
 

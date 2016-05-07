@@ -46,8 +46,6 @@ John got us our first sponsors and some of our other mentors in addition to
 talking to the Fighting Pi about helping us out. We got our machine shop
 (where we build) about 1 week into the 2008 build season.
 
-[[edit](/index.php?title=2604&action=edit&section=2 "Edit section: Past
-Competitions" )]
 
 ##  Past Competitions
 
@@ -90,8 +88,6 @@ Accomplishments" )]
       *Rookie-All-Star Award
     
 
-[[edit](/index.php?title=2604&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -106,8 +102,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=2604&action=edit&section=7 "Edit section: Students"
-)]
 
 ###  Students
 

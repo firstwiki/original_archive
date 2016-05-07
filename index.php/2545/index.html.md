@@ -24,8 +24,6 @@ Team 2545 was created in late 2007. The team comprises students from Columbia
 Heights High School. We are sponsored by BAE and NASA, and work at the BAE
 facility in Col. Hts. MN.
 
-[[edit](/index.php?title=2545&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 

@@ -76,8 +76,6 @@ sections was the goal area, which consisted of 3 ramps, a flat area on top,
 and a football style field goal. There were 36 and 24 inch balls to
 manipulate, in the colors of the teams.
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=2 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -86,8 +84,6 @@ small 24" ball was over the goal and 3 points for each time the large ball was
 over. The tiebreakers were the highest ball over the goal, and then the
 closest ball to the goal.
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -106,8 +102,6 @@ Rules" )]
 
 ## Rules
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -122,16 +116,12 @@ Robots" )]
 
 ## Robots
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=8 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 
 It has been said that this is [Dean Kamen's](/index.php/Dean_Kamen "Dean
 Kamen" ) least favorite [Game](/index.php/Game "Game" ).
 
-[[edit](/index.php?title=Ramp_n%27_Roll&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

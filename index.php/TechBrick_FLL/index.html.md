@@ -58,8 +58,6 @@ Robots" )]
   * [TechBrick - 2005](/index.php?title=TechBrick_-_2005&action=edit "TechBrick - 2005" )
   * [TechBrick - 2006](/index.php?title=TechBrick_-_2006&action=edit "TechBrick - 2006" )
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=3 "Edit section:
-Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -72,8 +70,6 @@ State Tournament" )]
 
   
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=5 "Edit section:
-Awards and Recognitions" )]
 
 ## Awards and Recognitions
 
@@ -82,8 +78,6 @@ Prior Years: [2004](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 
   
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=6 "Edit section:
-Members List" )]
 
 ## Members List
 
@@ -120,8 +114,6 @@ Mentors" )]
 
   * Amy (building) 
 
-[[edit](/index.php?title=TechBrick_FLL&action=edit&section=10 "Edit section:
-Sponsors" )]
 
 ## Sponsors
 

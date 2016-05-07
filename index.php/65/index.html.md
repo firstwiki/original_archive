@@ -50,8 +50,6 @@ Team Website: | <http://www.HuskieBrigade.com>
 
   * History Example 
 
-[[edit](/index.php?title=65&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -64,8 +62,6 @@ projects" )]
   * 2005 - PowerDawg 9 
   * 2006 - PowerDawg X 
 
-[[edit](/index.php?title=65&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -76,8 +72,6 @@ Accomplishments" )]
 
   * GM Powertrain &amp; Pontiac Northern HS 
 
-[[edit](/index.php?title=65&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

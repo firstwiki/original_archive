@@ -146,8 +146,6 @@ The book _The New Cool_ was written about the 2009 team and was published in
   * 2007 _PenguinBot II_
   * 2006 _PenguinBot_
 
-[[edit](/index.php?title=1717&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -238,8 +236,6 @@ Accomplishments" )]
   * FLIR Systems 
   * ATK Space 
 
-[[edit](/index.php?title=1717&action=edit&section=8 "Edit section: Members
-List" )]
 
 ##  Members List
 

@@ -32,8 +32,6 @@ mp/fl_winners.html "http://web.archive.org/web/19990508220924/www.usfirst.org/
   
   
 
-[[edit](/index.php?title=Championship_Event_%281998%29&action=edit&section=1
-"Edit section: Top 10 Teams" )]
 
 ##  Top 10 Teams
 
@@ -48,8 +46,6 @@ mp/fl_winners.html "http://web.archive.org/web/19990508220924/www.usfirst.org/
   9. Team [1](/index.php/1 "1" ) \- 3-Dimensional Services &amp; Oakland Technical Center, Northeast Campus (OTC-NE) (Rochester Hills/Oakland, MI) 
   10. Team [111](/index.php/111 "111" ) \- Motorola, Inc. &amp; Rolling Meadows High School/Wheeling High School (Schaumburg/Rolling Meadows/Wheeling, IL) 
 
-[[edit](/index.php?title=Championship_Event_%281998%29&action=edit&section=2
-"Edit section: Award Winners" )]
 
 ##  Award Winners
 

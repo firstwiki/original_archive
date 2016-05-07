@@ -90,8 +90,6 @@ within the next few weeks for updates.**_
 The Microsoft Seattle Regional is new this year (2008) and will be held March
 20-22 at the Tacoma Convention Center in Washington.
 
-[[edit](/index.php?title=Seattle_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

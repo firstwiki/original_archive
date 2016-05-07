@@ -8,8 +8,6 @@ A **speed controller** is a device that processes an input signal to control
 the speed of a [motor](/index.php/Motor "Motor" ). This is accomplished by
 controlling the voltage delivered to the motor.
 
-[[edit](/index.php?title=Speed_controller&action=edit&section=1 "Edit section:
-Speed Controller Design" )]
 
 ## Speed Controller Design
 
@@ -24,8 +22,6 @@ voltage of the speed controller. The H-bridge design also allows the motor to
 be reversed and allows for the motor terminals to be shorted to "brake" the
 motor.
 
-[[edit](/index.php?title=Speed_controller&action=edit&section=2 "Edit section:
-Types/Brands of Speed Controllers" )]
 
 ## Types/Brands of Speed Controllers
 

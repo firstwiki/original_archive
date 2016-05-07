@@ -130,8 +130,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc217
   * 2010 - Mia 
   * 2011 - Elektra 
 
-[[edit](/index.php?title=217&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -328,8 +326,6 @@ Accomplishments" )]
   * Omar Zrien (Cross the Road Electronics) 
   * Gary Yahr (Oakland Community College) 
 
-[[edit](/index.php?title=217&action=edit&section=21 "Edit section: FIRST
-Community Outreach" )]
 
 ## FIRST Community Outreach
 

@@ -38,8 +38,6 @@ can also be made of [steel](/index.php/Steel "Steel" ), which is heavy but
 extremely durable, wood, or plastic such as [HDPE](/index.php/HDPE "HDPE" ).
 The choice of materials is crucial to the effectiveness of a chassis design.
 
-[[edit](/index.php?title=Chassis&action=edit&section=3 "Edit section: External
-links" )]
 
 ##  External links
 

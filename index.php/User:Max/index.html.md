@@ -28,8 +28,6 @@ I?" )]
   * I am Maxim Lobovsky, an alumni of team [1257](/index.php/1257 "1257" ). 
   * As of now, I am the administrator of [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) and the only [bureaucrat](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ) on FIRSTwiki. 
 
-[[edit](/index.php?title=User:Max&action=edit&section=2 "Edit section:
-Contact" )]
 
 ## Contact
 

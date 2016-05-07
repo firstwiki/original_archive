@@ -66,8 +66,6 @@ Accomplishments" )]
   * ColumbusPublic 
   * NASA 
 
-[[edit](/index.php?title=382&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

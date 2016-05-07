@@ -50,8 +50,6 @@ situation.
   
   
 
-[[edit](/index.php?title=FIRSTwiki:Policies_and_guidelines&action=edit&section
-=1 "Edit section: Key policies" )]
 
 ## Key policies
 
@@ -64,8 +62,6 @@ experience here.
   * **Don't infringe copyrights.** FIRSTwiki is licensed under the [GNU Free Documentation License](http://www.wikipedia.org/wiki/GNU_Free_Documentation_License "wikipedia:GNU_Free_Documentation_License" ), and infringing copyright defeats the wiki's goal of [open content](http://www.wikipedia.org/wiki/open_content "wikipedia:open_content" ). See [Copyrights](http://www.wikipedia.org/wiki/Copyrights "wikipedia:Copyrights" ) for more information. 
   * **Respect other contributors.** FIRSTwikians come from all walks of life and all fields of FIRST. Remember [gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ). See [Etiquette](/index.php?title=FIRSTwiki:Etiquette&action=edit "FIRSTwiki:Etiquette" ) for more information directly related to the wiki and the Internet. 
 
-[[edit](/index.php?title=FIRSTwiki:Policies_and_guidelines&action=edit&section
-=2 "Edit section: Policy enforcement" )]
 
 ## Policy enforcement
 

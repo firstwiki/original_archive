@@ -80,8 +80,6 @@ assessed.
   * 3 Robots  
 ---  
   
-[[edit](/index.php?title=Breakaway&action=edit&section=1 "Edit section: Game
-Overview" )]
 
 ## Game Overview
 
@@ -130,8 +128,6 @@ alliances goals to earn points. At the end of the match any robots that are
 above the platform or hanging from another robot are awarded additional
 points.
 
-[[edit](/index.php?title=Breakaway&action=edit&section=4 "Edit section:
-Scoring" )]
 
 ### Scoring
 

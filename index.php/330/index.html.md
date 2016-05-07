@@ -72,8 +72,6 @@ redesignated as [Team 330](/index.php/Team_330 "Team 330" ).
   * 2006: Beach Bot 9 (AKA "Summer") 
   * 2007: Beach Bot 10 (AKA "Pedrito" [and twin "Tricia"]) 
 
-[[edit](/index.php?title=330&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

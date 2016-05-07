@@ -144,8 +144,6 @@ Jump to: navigation, search
   * 127 Liwan District Guangfu Zhong 286 Guangfu Building  
 ---  
   
-[[edit](/index.php?title=User:W041tursh&action=edit&section=1 "Edit section:
-000 yuan" )]
 
 ##  000 yuan
 
@@ -256,8 +254,6 @@ Related articles:
   * [the Reply to the divorce agreement owned by ex-wife's house to sell](http://202.116.160.89/Discuz6.0/viewthread.php?tid=167036&extra=page%3D1&frombbs=1 "http://202.116.160.89/Discuz6.0/viewthread.php?tid=167036&extra=page%3D1&frombbs=1" )
   * [I lost my balance](http://www.postingpayday.com/a-look-at-some-free-blog-scripts/ "http://www.postingpayday.com/a-look-at-some-free-blog-scripts/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=2 "Edit section:
-he listed 16 at fault. March 21" )]
 
 ##  he listed 16 at fault. March 21
 
@@ -434,8 +430,6 @@ Related articles:
   * [the lottery the next day](http://www.dapinjia.com/plus/view.php?aid=250047 "http://www.dapinjia.com/plus/view.php?aid=250047" )
   * [Wang Tianhao to contract fraud prosecution.](http://truecultheavymetal.com/blog6.php/2010/11/26/ "http://truecultheavymetal.com/blog6.php/2010/11/26/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=4 "Edit section:
-dial in the past" )]
 
 ##  dial in the past
 
@@ -646,8 +640,6 @@ Related articles:
   * [Xu Yong](http://453777.com/forum.php?mod=viewthread&tid=7994 "http://453777.com/forum.php?mod=viewthread&tid=7994" )
   * [has the responsibility to each other to see a doctor](http://honeywiki.zavinagi.org/index.php/User:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor "http://honeywiki.zavinagi.org/index.php/User:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=6 "Edit section:
-the incident that night" )]
 
 ##  the incident that night
 
@@ -968,8 +960,6 @@ Related articles:
   * [Under the laws of Britain and other countries](http://www.xsjp.com.cn/bbs/forumdisplay.php?fid=65 "http://www.xsjp.com.cn/bbs/forumdisplay.php?fid=65" )
   * [and also refused to talk about compensation](http://cms.engl.iastate.edu/help/index.php/User:W720adqsh#and_also_refused_to_talk_about_compensation "http://cms.engl.iastate.edu/help/index.php/User:W720adqsh#and_also_refused_to_talk_about_compensation" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=8 "Edit section:
-According to reports" )]
 
 ##  According to reports
 
@@ -1038,8 +1028,6 @@ Related articles:
   * [74 years old](http://bbs.hgzhiai.com/home.php?mod=space&uid=1665&do=blog&quickforward=1&id=12525 "http://bbs.hgzhiai.com/home.php?mod=space&uid=1665&do=blog&quickforward=1&id=12525" )
   * [her first walk on the west side of the car crash](http://entre-mecs.ca/events_view.php?eid=32553 "http://entre-mecs.ca/events_view.php?eid=32553" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=9 "Edit section:
-this official said" )]
 
 ##  this official said
 
@@ -1118,8 +1106,6 @@ Related articles:
   * [From 10 years ago](http://www.disjunktion.com/content/manman-huasheng-station-message-some-friends-questioned-reply "http://www.disjunktion.com/content/manman-huasheng-station-message-some-friends-questioned-reply" )
   * [deputy director of a few days did not come to work.](http://www.huidabbs.com/thread-310228-1-1.html "http://www.huidabbs.com/thread-310228-1-1.html" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=10 "Edit section:
-to implementation of mandatory removal program" )]
 
 ##  to implementation of mandatory removal program
 
@@ -1296,8 +1282,6 @@ Related articles:
   * [put the female children to pull their own homes](http://www.taikua.com/forum.php?mod=viewthread&tid=63596 "http://www.taikua.com/forum.php?mod=viewthread&tid=63596" )
   * [all of the operating funds are network "Baccarat" phagocytosis.](http://www.dedaloconsultores.com/GrupoDedalo/index.php?topic=79774.msg205307#msg205307 "http://www.dedaloconsultores.com/GrupoDedalo/index.php?topic=79774.msg205307#msg205307" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=13 "Edit section:
-the the Mohicans man's hair is very special" )]
 
 ##  the the Mohicans man's hair is very special
 
@@ -1402,8 +1386,6 @@ Related articles:
   * [donation frequency is not too high](http://www.develop-your.com/Article%20Direct/misc/donation-frequency-is-not-too-high.html?preview=1 "http://www.develop-your.com/Article%20Direct/misc/donation-frequency-is-not-too-high.html?preview=1" )
   * [when a day spent 13](http://ucenterhome.92ysa.com/space.php?uid=135879&do=blog&id=240050 "http://ucenterhome.92ysa.com/space.php?uid=135879&do=blog&id=240050" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=14 "Edit section:
-later with the ball."" )]
 
 ##  later with the ball."
 
@@ -1498,8 +1480,6 @@ Related articles:
   * [cosmetic surgery costs about 17](http://spitters.de/index.php?p=blogs/viewstory/416142 "http://spitters.de/index.php?p=blogs/viewstory/416142" )
   * [30 the evening of 3](http://xinguanren.net/forum.php?mod=viewthread&tid=57097 "http://xinguanren.net/forum.php?mod=viewthread&tid=57097" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=16 "Edit section:
-Newspaper Roundup" )]
 
 ##  Newspaper Roundup
 
@@ -1566,8 +1546,6 @@ Related articles:
   * [she took a small Doina recurrence deterioration](http://xn--onqu75bcvap11j.iziyou.com/viewthread.php?tid=831915&extra= "http://xn--onqu75bcvap11j.iziyou.com/viewthread.php?tid=831915&extra=" )
   * ["to participate in activities to show self-confidence." Han Han said](http://www.syney.net/bbs/viewthread.php?tid=54002&extra= "http://www.syney.net/bbs/viewthread.php?tid=54002&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=17 "Edit section:
-quietly hid the letter of acceptance" )]
 
 ##  quietly hid the letter of acceptance
 
@@ -1656,8 +1634,6 @@ cher](http://www.poloralphlaurenpascherdfr.com
   * [2010 at 7 pm](http://www.friends2talk2.com/modules/boonex/blogs/blogs.php?action=show_member_post&post_id=45474 "http://www.friends2talk2.com/modules/boonex/blogs/blogs.php?action=show_member_post&post_id=45474" )
   * [and he was in a good mood](http://playascartel2.com/members/home "http://playascartel2.com/members/home" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=19 "Edit section:
-See Chen Bingyan elderly arrival" )]
 
 ##  See Chen Bingyan elderly arrival
 
@@ -2380,8 +2356,6 @@ Related articles:
   * [check the grinder gear](http://www.lsxo.com/bbs/forum.php?mod=viewthread&tid=980 "http://www.lsxo.com/bbs/forum.php?mod=viewthread&tid=980" )
   * [was the security on its back kicking](http://www.chisome.com/bbs/home.php?mod=space&uid=2041&do=blog&quickforward=1&id=26197 "http://www.chisome.com/bbs/home.php?mod=space&uid=2041&do=blog&quickforward=1&id=26197" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=28 "Edit section:
-two staff men to lift down the stairs" )]
 
 ##  two staff men to lift down the stairs
 
@@ -2416,8 +2390,6 @@ Related articles:
   * ['s knife I was later kicked off. "Mr. Jia said.](http://50.6.229.66/forum.php?mod=viewthread&tid=101103 "http://50.6.229.66/forum.php?mod=viewthread&tid=101103" )
   * [Ko Wing-Yung](http://hkspeakup.com/forum.php?mod=viewthread&tid=9185 "http://hkspeakup.com/forum.php?mod=viewthread&tid=9185" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=30 "Edit section:
-Lee Sau who is less than five dollars" )]
 
 ##  Lee Sau who is less than five dollars
 
@@ -2524,8 +2496,6 @@ Related articles:
   * [At the police station](http://www.docarzt.com/lost/lost-recaps/the-last-temptation-of-locke-507-the-life-and-death-of-jeremy-bentham/ "http://www.docarzt.com/lost/lost-recaps/the-last-temptation-of-locke-507-the-life-and-death-of-jeremy-bentham/" )
   * [The end of last year](http://www.creditcardanswerguide.com/?p=23740 "http://www.creditcardanswerguide.com/?p=23740" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=32 "Edit section:
-close to 100 dollars." )]
 
 ##  close to 100 dollars.
 
@@ -2640,8 +2610,6 @@ Related articles:
   * [remove the medical syringe needles at home to complete the insemination.](http://foro.ninsmallorca.com/index.php?topic=9728.msg11092#msg11092 "http://foro.ninsmallorca.com/index.php?topic=9728.msg11092#msg11092" )
   * [nausea and other reactions](http://www.partydating.pl/events_view.php?eid=240569 "http://www.partydating.pl/events_view.php?eid=240569" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=33 "Edit section:
-Tongling City" )]
 
 ##  Tongling City
 
@@ -2676,8 +2644,6 @@ Related articles:
   * [Defendant involved nine charges](http://bbs.shmohe.com/forumdisplay.php?fid=4 "http://bbs.shmohe.com/forumdisplay.php?fid=4" )
   * [Humou repeatedly exclaimed](http://cdr.chicagobynight.org/CDR/index.php/User:Sfhis45ygr#Humou_repeatedly_exclaimed "http://cdr.chicagobynight.org/CDR/index.php/User:Sfhis45ygr#Humou_repeatedly_exclaimed" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=34 "Edit section:
-his near-legendary life experience" )]
 
 ##  his near-legendary life experience
 
@@ -2910,8 +2876,6 @@ Related articles:
   * [Color ball "lottery for the evening of November 24](http://text-world.co.nu/forum.php?mod=viewthread&tid=4382&extra= "http://text-world.co.nu/forum.php?mod=viewthread&tid=4382&extra=" )
   * [feel that someone entered the room and go to bed](http://ideas4landscaping.com/forum/?p=7620 "http://ideas4landscaping.com/forum/?p=7620" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=36 "Edit section:
-and made notes. Continue to investigate the case." )]
 
 ##  and made notes. Continue to investigate the case.
 
@@ -3006,8 +2970,6 @@ Related articles:
   * [the other on to do six days rest day schedule also views.](http://xietd.com/thread-7211-1-1.html "http://xietd.com/thread-7211-1-1.html" )
   * [the bank sent a text message](http://afghannama.com/members/home "http://afghannama.com/members/home" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=38 "Edit section:
-The brother picked up 3.5 million yuan worth of and Tian ret" )]
 
 ##  The brother picked up 3.5 million yuan worth of and Tian ret
 
@@ -3020,8 +2982,6 @@ Related articles:
   * [hands and feet varying degrees of contusion.](http://www.yz-times.cn/club/forumdisplay.php?fid=2 "http://www.yz-times.cn/club/forumdisplay.php?fid=2" )
   * [longevity](http://027-098-194-131.easyhost.com.hk/cuuo/viewthread.php?tid=826512&extra= "http://027-098-194-131.easyhost.com.hk/cuuo/viewthread.php?tid=826512&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=39 "Edit section:
-Development Zone" )]
 
 ##  Development Zone
 
@@ -3068,8 +3028,6 @@ Related articles:
   * [Youth National Day rent his girlfriend home ask the elders indifference](http://baclink.aboutptc.net/profile.php?user=10803&v=comments "http://baclink.aboutptc.net/profile.php?user=10803&v=comments" )
   * [do not get big](http://www.xo1ox.com/forum.php?mod=viewthread&tid=110571 "http://www.xo1ox.com/forum.php?mod=viewthread&tid=110571" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=40 "Edit section:
-have become commonplace." )]
 
 ##  have become commonplace.
 
@@ -3114,8 +3072,6 @@ Related articles:
   * [Liu the stolen money exponentially makes cheated](http://www.daisystories.com/blog/ "http://www.daisystories.com/blog/" )
   * [named Ma Huan number code to call that friend](http://www.makemoneybloggingpro.com/top-blogging-software-wordpress-nucleus-bbpress-typepad-b2evolution-2/ "http://www.makemoneybloggingpro.com/top-blogging-software-wordpress-nucleus-bbpress-typepad-b2evolution-2/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=41 "Edit section:
-At 7 o'clock on December 9th" )]
 
 ##  At 7 o'clock on December 9th
 
@@ -3392,8 +3348,6 @@ Related articles:
   * [believe it actually fell down](http://lxage.com/bbs/read.php?tid=57285 "http://lxage.com/bbs/read.php?tid=57285" )
   * [Looked Wu Shengfang smoothly into the delivery room](http://767655.com/forum.php?mod=viewthread&tid=40047 "http://767655.com/forum.php?mod=viewthread&tid=40047" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=43 "Edit section:
-Man arm boiler stuck three days of self-amputation survival" )]
 
 ##  Man arm boiler stuck three days of self-amputation survival
 
@@ -3548,8 +3502,6 @@ Related articles:
   * ['s "special care"](http://corporatefusioninc.com/yabb/YaBB.pl?num=1343608110/0 "http://corporatefusioninc.com/yabb/YaBB.pl?num=1343608110/0" )
   * [00 in the morning and more](http://sjjyjjgc.web.ywwl.net/bbs/read.php?tid=17670 "http://sjjyjjgc.web.ywwl.net/bbs/read.php?tid=17670" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=46 "Edit section:
-Yang said" )]
 
 ##  Yang said
 
@@ -3626,8 +3578,6 @@ Related articles:
   * [my family will lose a husband](http://mrspriggley.com/thread-428769-1-1.html "http://mrspriggley.com/thread-428769-1-1.html" )
   * [the high content of iron in the small Lu Lu blood](http://51juan.org/forum.php?mod=viewthread&tid=348 "http://51juan.org/forum.php?mod=viewthread&tid=348" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=47 "Edit section:
-on behalf of the points 1000 points" )]
 
 ##  on behalf of the points 1000 points
 
@@ -3814,8 +3764,6 @@ Related articles:
   * [California on October 16.](http://www.the-back-row.com/index.php/2011/03/01/ "http://www.the-back-row.com/index.php/2011/03/01/" )
   * [Recently](http://tougao.cfan.com.cn/forum.php?mod=viewthread&tid=40443 "http://tougao.cfan.com.cn/forum.php?mod=viewthread&tid=40443" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=50 "Edit section:
-go there tomorrow. They found the illegal fake products" )]
 
 ##  go there tomorrow. They found the illegal fake products
 
@@ -4074,8 +4022,6 @@ Related articles:
   * [and said many things](http://www.maison-nicolas-perrin.com/2012/06/stirring-the-lees-with-james-molesworth.php#comments "http://www.maison-nicolas-perrin.com/2012/06/stirring-the-lees-with-james-molesworth.php#comments" )
   * [plates and stop smashed in the door of the house](http://www.premiermindset.com/turnkey/blog.php?user=nihaoz4z0&blogentry_id=189026 "http://www.premiermindset.com/turnkey/blog.php?user=nihaoz4z0&blogentry_id=189026" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=51 "Edit section:
-but still higher than the actual age or some." )]
 
 ##  but still higher than the actual age or some.
 
@@ -4102,8 +4048,6 @@ Related articles:
   * [40-year-old harbor area](http://szyxtx.net/forum.php?mod=viewthread&tid=9076 "http://szyxtx.net/forum.php?mod=viewthread&tid=9076" )
   * [the risk is smaller and less costly](http://www.younggayamerica.net/activity/p/1302/ "http://www.younggayamerica.net/activity/p/1302/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=52 "Edit section:
-the public security" )]
 
 ##  the public security
 
@@ -4174,8 +4118,6 @@ Related articles:
   * [was found dead fish in the reservoir below the creek](http://www.txhzj.com/bbs/forum.php?mod=viewthread&tid=4070 "http://www.txhzj.com/bbs/forum.php?mod=viewthread&tid=4070" )
   * [Man shot PETTY to the crowd caused a death and one re-](http://www.mqlinchang.cn/review.asp?NewsID=508 "http://www.mqlinchang.cn/review.asp?NewsID=508" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=53 "Edit section:
-Qun behind what people cut is not clear." )]
 
 ##  Qun behind what people cut is not clear.
 
@@ -4250,8 +4192,6 @@ Related articles:
   * [8 people sentenced to imprisonment](http://magicsocialnetwork.com/blogs/posts/sfhis78rzh "http://magicsocialnetwork.com/blogs/posts/sfhis78rzh" )
   * [because the weather is hot](http://civiclists.com/activity/p/68388/ "http://civiclists.com/activity/p/68388/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=54 "Edit section:
-After the meal beaten" )]
 
 ##  After the meal beaten
 
@@ -4418,8 +4358,6 @@ Related articles:
   * [" a villager said](http://blog.ispfun.com/2011/09/kangana-ranaut-hot-in-white-bikini/ "http://blog.ispfun.com/2011/09/kangana-ranaut-hot-in-white-bikini/" )
   * [Civil cases is best used with caution polygraph](http://makinguptherightway.com/forums/topic/civil-cases-is-best-used-with-caution-polygraph#post-25900 "http://makinguptherightway.com/forums/topic/civil-cases-is-best-used-with-caution-polygraph#post-25900" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=57 "Edit section:
-- Learned Berson and his mother was born the same day" )]
 
 ##  \- Learned Berson and his mother was born the same day
 
@@ -4572,8 +4510,6 @@ Related articles:
   * [nor did any of the holidays.](http://wowhot.yysh88.com/read.php?tid=62092 "http://wowhot.yysh88.com/read.php?tid=62092" )
   * [the green aurora is the result of oxygen atoms and charged particles](http://www.gtamama.com/read-htm-tid-9810.html "http://www.gtamama.com/read-htm-tid-9810.html" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=58 "Edit section:
-do not know."" )]
 
 ##  do not know."
 
@@ -4630,8 +4566,6 @@ Related articles:
   * [Another witness said he was walking around](http://countryhavenranch.com/blog3/2007/10/05/vegas-or-bust/ "http://countryhavenranch.com/blog3/2007/10/05/vegas-or-bust/" )
   * [can not find at home. Fortunately](http://chiru.in/fans/user_blog_comments.php?blogentry_id=253213 "http://chiru.in/fans/user_blog_comments.php?blogentry_id=253213" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=59 "Edit section:
-there is no penetration" )]
 
 ##  there is no penetration
 
@@ -4828,8 +4762,6 @@ Related articles:
   * [Graham McGeorge](http://www.dalian365.net/uhome/space.php?uid=42601&do=blog&id=1717009 "http://www.dalian365.net/uhome/space.php?uid=42601&do=blog&id=1717009" )
   * [the rest owned by the mobilization of those proceeds.](http://xinglong520.com/viewthread.php?tid=19317&extra= "http://xinglong520.com/viewthread.php?tid=19317&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=61 "Edit section:
-Zhang need to paste the money of nearly 700" )]
 
 ##  Zhang need to paste the money of nearly 700
 
@@ -4966,8 +4898,6 @@ Related articles:
   * [the fossils buried deep underground](http://schmidt-it.net/b2evolution/blog1.php/die-muelltonne-ist-eroeffnet#comments "http://schmidt-it.net/b2evolution/blog1.php/die-muelltonne-ist-eroeffnet#comments" )
   * [Secondary school female director received interest, misappropriation of paragraph 800 km and](http://www.dejt.gov.cn/Review.asp?NewsID=213 "http://www.dejt.gov.cn/Review.asp?NewsID=213" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=62 "Edit section:
-after graduation" )]
 
 ##  after graduation
 
@@ -5436,8 +5366,6 @@ Related articles:
   * [. But to the front of the aircraft](http://ana-unique.com/society/members/home "http://ana-unique.com/society/members/home" )
   * [90 after the most beautiful](http://hafyws.com/forum.php?mod=viewthread&tid=738473 "http://hafyws.com/forum.php?mod=viewthread&tid=738473" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=66 "Edit section:
-Yuzhong Committee Propaganda Department" )]
 
 ##  Yuzhong Committee Propaganda Department
 
@@ -5494,8 +5422,6 @@ Related articles:
   * [Zhu Zhuren also expressed surprise. Zhuzhu Ren said](http://yuzg.net/forum.php?mod=viewthread&tid=36675 "http://yuzg.net/forum.php?mod=viewthread&tid=36675" )
   * [to see what you mean](http://www.streamxy.com/2008/11/05/b2evolution-an-alternative-to-wordpress/ "http://www.streamxy.com/2008/11/05/b2evolution-an-alternative-to-wordpress/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=67 "Edit section:
-00 yesterday" )]
 
 ##  00 yesterday
 
@@ -6030,8 +5956,6 @@ Related articles:
   * ['s eight dolphins baby football star's name](http://bbs.codingthink.com/forum.php?mod=viewthread&tid=141391 "http://bbs.codingthink.com/forum.php?mod=viewthread&tid=141391" )
   * [and angrily hit Zhao few slap in the face](http://www.buddinet.com/SYB/2010/12/houston-red-light-cameras.html#comments "http://www.buddinet.com/SYB/2010/12/houston-red-light-cameras.html#comments" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=75 "Edit section:
-Many people nearby heard a loud noise" )]
 
 ##  Many people nearby heard a loud noise
 
@@ -6738,8 +6662,6 @@ Related articles:
   * [United States](http://www.hkaa.edu.hk/forum/viewthread.php?tid=672428&extra= "http://www.hkaa.edu.hk/forum/viewthread.php?tid=672428&extra=" )
   * [the police found these prostitution information](http://blog2.osoe.jp/blogs/2011/02/android-screen-capture-windows7-64-bit.html#comments "http://blog2.osoe.jp/blogs/2011/02/android-screen-capture-windows7-64-bit.html#comments" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=83 "Edit section:
-the company will Zhongshi Hu posted to the Dubai office" )]
 
 ##  the company will Zhongshi Hu posted to the Dubai office
 
@@ -6834,8 +6756,6 @@ Related articles:
   * [arms are before putting the drug.](http://www.cfsc.org.hk/yconcept/discuz/viewthread.php?tid=481597&extra= "http://www.cfsc.org.hk/yconcept/discuz/viewthread.php?tid=481597&extra=" )
   * [His new wife by her husband cut-throat case hearing on campus](http://www.shoes.mu.nu/gallery/displayimage.php?pos=-175 "http://www.shoes.mu.nu/gallery/displayimage.php?pos=-175" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=84 "Edit section:
-grandmother" )]
 
 ##  grandmother
 
@@ -6994,8 +6914,6 @@ Related articles:
   * [9 years old](http://mayibefrank.com/posts/north-dakota-passes-alaska-as-us-2-oil-producer/ "http://mayibefrank.com/posts/north-dakota-passes-alaska-as-us-2-oil-producer/" )
   * ['s advice](http://dabenzi.com/u/bbs/viewthread.php?tid=5343&extra= "http://dabenzi.com/u/bbs/viewthread.php?tid=5343&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=87 "Edit section:
-the offending car stepped on the gas to escape" )]
 
 ##  the offending car stepped on the gas to escape
 
@@ -7068,8 +6986,6 @@ Related articles:
   * [attached great importance to immediately set up a task force to blitz inventory](http://www.rdmov.com/forum/viewthread.php?tid=87173&extra= "http://www.rdmov.com/forum/viewthread.php?tid=87173&extra=" )
   * [find washed off vehicles](http://www.underground-world.com/blog.php?user=nihaoz8a5&blogentry_id=9617 "http://www.underground-world.com/blog.php?user=nihaoz8a5&blogentry_id=9617" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=89 "Edit section:
-and the remainder shared equally by the Involved parents" )]
 
 ##  and the remainder shared equally by the Involved parents
 
@@ -7140,8 +7056,6 @@ Related articles:
   * [the temple is also a screwdriver bundle](http://www.tutubbs.com/plus/view.php?aid=19360 "http://www.tutubbs.com/plus/view.php?aid=19360" )
   * [the grandmother of twins rushed to the hospital](http://www.titianxingdao.cn/forum.php?mod=viewthread&tid=13392 "http://www.titianxingdao.cn/forum.php?mod=viewthread&tid=13392" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=90 "Edit section:
-Woman trapped in the elevator when you want to climb out of" )]
 
 ##  Woman trapped in the elevator when you want to climb out of
 
@@ -7154,8 +7068,6 @@ Related articles:
   * [Chen meal punched and kicked.](http://h.xitc.net/viewthread.php?tid=55231&extra= "http://h.xitc.net/viewthread.php?tid=55231&extra=" )
   * [the daughter of Dr. Wang that saw nearly 40 times the disease](http://www.dpaihang.com/bbs/forum.php?mod=viewthread&tid=71920 "http://www.dpaihang.com/bbs/forum.php?mod=viewthread&tid=71920" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=91 "Edit section:
-saying it was the second generation of 3D glasses" )]
 
 ##  saying it was the second generation of 3D glasses
 
@@ -7206,8 +7118,6 @@ Related articles:
   * [bbs.66wz.com](http://dksdrift.com/luntan/boke.asp?i27y72i47.showtopic.13502.html "http://dksdrift.com/luntan/boke.asp?i27y72i47.showtopic.13502.html" )
   * [the family would not listen](http://blogs.umass.edu/steph4rl/2010/12/16/erecruiting-for-jobs-internships-and-co-op/ "http://blogs.umass.edu/steph4rl/2010/12/16/erecruiting-for-jobs-internships-and-co-op/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=92 "Edit section:
-get off" )]
 
 ##  get off
 
@@ -7328,8 +7238,6 @@ Related articles:
   * [educational background and work experience](http://www.av169.com/plus/view.php?aid=26533 "http://www.av169.com/plus/view.php?aid=26533" )
   * [plus some computer accessories](http://www.fulucc.com/plus/view.php?aid=273355 "http://www.fulucc.com/plus/view.php?aid=273355" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=94 "Edit section:
-Cheng Yuanming relatives and visit. March 17" )]
 
 ##  Cheng Yuanming relatives and visit. March 17
 
@@ -7428,8 +7336,6 @@ contraband. &lt;/p&gt; Related articles:
   * [and thought he was dying](http://www.margsanimals.com/blogs/index.php/blogs/ "http://www.margsanimals.com/blogs/index.php/blogs/" )
   * [all these years you have friends Thought a home](http://www.xwff.net/viewthread.php?tid=63174&extra= "http://www.xwff.net/viewthread.php?tid=63174&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=96 "Edit section:
-in the media with the help of Lhasa and Beijing" )]
 
 ##  in the media with the help of Lhasa and Beijing
 
@@ -7830,8 +7736,6 @@ Related articles:
   * [who is lit with a lighter](http://educatinggermany.7doves.com/2008/ "http://educatinggermany.7doves.com/2008/" )
   * [but there are more than 10 employees in the store. Suddenly](http://laurenleonardinteriors.com/blog/if-i-had-a-living-room/hadley_bench_large/ "http://laurenleonardinteriors.com/blog/if-i-had-a-living-room/hadley_bench_large/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=102 "Edit section:
-speeding away. To recover" )]
 
 ##  speeding away. To recover
 
@@ -8004,8 +7908,6 @@ Related articles:
   * [the opposite sex service is a must](http://help.clipflex.net/index.php?p=blogs/viewstory/509756 "http://help.clipflex.net/index.php?p=blogs/viewstory/509756" )
   * [mercurialmercurial](http://taleempoint.net/story.php?title=mercurialmercurial-28 "http://taleempoint.net/story.php?title=mercurialmercurial-28" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=105 "Edit section:
-mother Liu Fangxun body every day" )]
 
 ##  mother Liu Fangxun body every day
 
@@ -8196,8 +8098,6 @@ Related articles:
   * [the mother is strongly opposed to the son to return home](http://techknowhowdiv.com/activity/p/19366/ "http://techknowhowdiv.com/activity/p/19366/" )
   * [then clashed with. Dining together after hearing a few people down the stairs](http://www.petroren.cn/viewthread.php?tid=360904&extra= "http://www.petroren.cn/viewthread.php?tid=360904&extra=" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=108 "Edit section:
-000 choice fees withheld by the "concealed"" )]
 
 ##  000 choice fees withheld by the "concealed"
 
@@ -8442,8 +8342,6 @@ Related articles:
   * [Tian Hong room decorated like a hall](http://my.629.com/space.php?uid=8917&do=blog&id=187552 "http://my.629.com/space.php?uid=8917&do=blog&id=187552" )
   * [one as young as 12-year-old boy. Mother said](http://www.lvyou123.com/bbs/viewthread.php?tid=292858&extra=page%3D1&frombbs=1 "http://www.lvyou123.com/bbs/viewthread.php?tid=292858&extra=page%3D1&frombbs=1" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=111 "Edit section:
-is the day of Shaoxing and Hangzhou" )]
 
 ##  is the day of Shaoxing and Hangzhou
 
@@ -8566,8 +8464,6 @@ Related articles:
   * [but he insists that the letter to his wife on a regular basis](http://mypetsbook.net/activity/p/285612/ "http://mypetsbook.net/activity/p/285612/" )
   * [compensable](http://mocoloco.com/archives/027641.php "http://mocoloco.com/archives/027641.php" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=112 "Edit section:
-west bridgehead to see" )]
 
 ##  west bridgehead to see
 
@@ -8732,8 +8628,6 @@ Related articles:
   * [was published in the newspaper](http://www.xinqiao.org.cn/plus/view.php?aid=63685 "http://www.xinqiao.org.cn/plus/view.php?aid=63685" )
   * [and certainly 'hit the jackpot](http://vonlin.d9x.ru/blog.php?user=sfhis40qct&blogentry_id=56968 "http://vonlin.d9x.ru/blog.php?user=sfhis40qct&blogentry_id=56968" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=114 "Edit section:
-said Liu Xixiang quarreled frequently with colleagues" )]
 
 ##  said Liu Xixiang quarreled frequently with colleagues
 
@@ -8986,8 +8880,6 @@ Related articles:
   * [but always felt a little strange](http://kb.webhosting.uk.com/tag/b2evolution-hosting/ "http://kb.webhosting.uk.com/tag/b2evolution-hosting/" )
   * [the case is under further hearing.](http://www.ceospace.biz/blogs/uvw083 "http://www.ceospace.biz/blogs/uvw083" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=116 "Edit section:
-he had stopped breathing." )]
 
 ##  he had stopped breathing.
 
@@ -9036,8 +8928,6 @@ Related articles:
   * [So what is the purpose Wang](http://www.mdjiaoyu.com/website/bbs/boke.asp?sfhis78ann.showtopic.9302.html "http://www.mdjiaoyu.com/website/bbs/boke.asp?sfhis78ann.showtopic.9302.html" )
   * [348 lawyers](http://thegoodmule.org/forum/viewtopic.php?f=17&t=374808 "http://thegoodmule.org/forum/viewtopic.php?f=17&t=374808" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=117 "Edit section:
-Hutouhunao" )]
 
 ##  Hutouhunao
 
@@ -9170,8 +9060,6 @@ Related articles:
   * [Haidian near the bridge](http://www.scopeoo.net/forum.php?mod=viewthread&tid=721089 "http://www.scopeoo.net/forum.php?mod=viewthread&tid=721089" )
   * [a huge amount](http://civiclists.com/activity/p/155807/ "http://civiclists.com/activity/p/155807/" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=119 "Edit section:
-this dog every day" )]
 
 ##  this dog every day
 
@@ -9222,8 +9110,6 @@ Related articles:
   * [be able to carefully listen to the world](http://blog.odem.org/2012/01/cicero-internet-bashing.html#comments "http://blog.odem.org/2012/01/cicero-internet-bashing.html#comments" )
   * [is neither reported](http://home.haixiachina.com/space.php?uid=121050&do=blog&id=300636 "http://home.haixiachina.com/space.php?uid=121050&do=blog&id=300636" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=120 "Edit section:
-can no longer stay here" )]
 
 ##  can no longer stay here
 
@@ -9436,8 +9322,6 @@ Related articles:
   * [replaced by two strange men. "Valuable possessions are out](http://www.fxyzyz.com/bbs/viewthread.php?tid=205174&extra= "http://www.fxyzyz.com/bbs/viewthread.php?tid=205174&extra=" )
   * [chemical preservatives bags 3 more than 70 kg](http://www.hlqczl.cn/member/index.php?uid=sfhis74lvf "http://www.hlqczl.cn/member/index.php?uid=sfhis74lvf" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=122 "Edit section:
-a middle-aged man surrounded by a bite of the man's face" )]
 
 ##  a middle-aged man surrounded by a bite of the man's face
 
@@ -9514,8 +9398,6 @@ Related articles:
   * [shall be given a lighter punishment. 23 am](http://www.luckcai.com/bbs/viewthread.php?tid=31283&extra= "http://www.luckcai.com/bbs/viewthread.php?tid=31283&extra=" )
   * [put a few mahjong table](http://jammuyellowpages.com/blogs/posts/sfhis99ovm "http://jammuyellowpages.com/blogs/posts/sfhis99ovm" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=123 "Edit section:
-abetting" )]
 
 ##  abetting
 
@@ -9622,8 +9504,6 @@ Related articles:
   * [has been unable to accept the award. No way](http://old.khiclub.com/blogs/1199/14637/that-a-few-days-ago "http://old.khiclub.com/blogs/1199/14637/that-a-few-days-ago" )
   * [there is no quality problem](http://singlesnetcam.com/blogs/posts/W453ixlsh "http://singlesnetcam.com/blogs/posts/W453ixlsh" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=125 "Edit section:
-National registered consulting engineer" )]
 
 ##  National registered consulting engineer
 
@@ -9922,8 +9802,6 @@ Related articles:
   * ["comes to life in Chongqing](http://literarydish.com/2011/10/30/holly-robinson-peete-dresses-up-as-lil-wayne-and-posts-letter-to-fans-of-the-talk-lil-wayne-in-vibe/ "http://literarydish.com/2011/10/30/holly-robinson-peete-dresses-up-as-lil-wayne-and-posts-letter-to-fans-of-the-talk-lil-wayne-in-vibe/" )
   * [wash your face](http://albertaonlinelearning.com/wordtoo/blog1.php/2010/06/19/extended-post#comments "http://albertaonlinelearning.com/wordtoo/blog1.php/2010/06/19/extended-post#comments" )
 
-[[edit](/index.php?title=User:W041tursh&action=edit&section=127 "Edit section:
-Liwan District Guangfu Zhong 286 Guangfu Building" )]
 
 ##  Liwan District Guangfu Zhong 286 Guangfu Building
 

@@ -56,8 +56,6 @@ encompasses North Bay, Ontario, Canada and communities within an hour’s drive.
 We strive to draw in a variety of individuals, including teachers, parents,
 business owners and young students who have not yet entered high school.  
 
-[[edit](/index.php?title=1305&action=edit&section=2 "Edit section: This Years
-Robot" )]
 
 ## This Years Robot
 
@@ -414,8 +412,6 @@ P1B 6C1
 Phone: (705) 475-2326  
 Range: Grade JK to 8 [French Immersion]  
 
-[[edit](/index.php?title=1305&action=edit&section=9 "Edit section: Our Area"
-)]
 
 ## Our Area
 
@@ -466,8 +462,6 @@ Victor Stenning
 West Ferris Secondary School  
 Widdifield Secondary School  
 
-[[edit](/index.php?title=1305&action=edit&section=11 "Edit section: Other
-Facts" )]
 
 ## Other Facts
 

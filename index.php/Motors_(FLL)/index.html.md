@@ -18,8 +18,6 @@ electric motors driven by power from either the older Mindstorms or newer NXT
     * 3.1 Other  
 ---  
   
-[[edit](/index.php?title=Motors_%28FLL%29&action=edit&section=1 "Edit section:
-Mindstorms NXT Motors" )]
 
 # Mindstorms NXT Motors
 
@@ -38,8 +36,6 @@ Either the [Electric Technic Mini-Motor
 version](http://peeron.com/inv/parts/43362c01
 "http://peeron.com/inv/parts/43362c01" ) included on more recent sets).
 
-[[edit](/index.php?title=Motors_%28FLL%29&action=edit&section=3 "Edit section:
-Parts limitations" )]
 
 # Parts limitations
 
@@ -54,8 +50,6 @@ page](http://www.philohome.com/motors/motorcomp.htm
 motors are legal for FLL robots! Not all the motors on Philo's page are legal
 for FLL bots.
 
-[[edit](/index.php?title=Motors_%28FLL%29&action=edit&section=4 "Edit section:
-Other" )]
 
 ## Other
 

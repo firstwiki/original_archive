@@ -76,8 +76,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1257&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

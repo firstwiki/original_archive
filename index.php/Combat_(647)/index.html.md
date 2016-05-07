@@ -38,8 +38,6 @@ Robot Functions" )]
   * Powerful 
   * Goal Grabber 
 
-[[edit](/index.php?title=Combat_%28647%29&action=edit&section=2 "Edit section:
-Robot Strategy" )]
 
 ## Robot Strategy
 

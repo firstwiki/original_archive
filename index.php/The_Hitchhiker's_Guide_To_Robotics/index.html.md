@@ -64,8 +64,6 @@ ion=1 "Edit section: FIRST" )]
 
 ## FIRST
 
-[[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
-ion=2 "Edit section: What is it?" )]
 
 ### What is it?
 
@@ -86,8 +84,6 @@ and technology center, including a hands-on children's science museum."
 You can learn more about the FIRST organization [here](http://www.usfirst.org
 "http://www.usfirst.org" ).
 
-[[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
-ion=3 "Edit section: FIRST Robotics" )]
 
 ### FIRST Robotics
 
@@ -96,8 +92,6 @@ ion=4 "Edit section: FIRST Teams" )]
 
 ## FIRST Teams
 
-[[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
-ion=5 "Edit section: Advice to running a team" )]
 
 ### Advice to running a team
 
@@ -146,8 +140,6 @@ ion=7 "Edit section: The Robot Guide" )]
 
 ## The Robot Guide
 
-[[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
-ion=8 "Edit section: Robot Mechanics" )]
 
 ### Robot Mechanics
 

@@ -26,8 +26,6 @@ component used to compress air for powering pneumatics systems.
     * 2.1 Supplier  
 ---  
   
-[[edit](/index.php?title=Compressor&action=edit&section=1 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -38,8 +36,6 @@ Connections" )]
 
 Air is outputted through a quick connector.
 
-[[edit](/index.php?title=Compressor&action=edit&section=3 "Edit section:
-Electrical Power" )]
 
 ### Electrical Power
 
@@ -50,8 +46,6 @@ controller](/index.php/Robot_controller "Robot controller" ) to automatically
 control the compressor with the help of a [pressure
 switch](/index.php/Pressure_switch "Pressure switch" ).
 
-[[edit](/index.php?title=Compressor&action=edit&section=4 "Edit section:
-Current Product Info" )]
 
 ## Current Product Info
 

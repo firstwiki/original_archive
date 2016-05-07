@@ -42,8 +42,6 @@ Archiving" ).
     * 6.2 District Events  
 ---  
   
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=1
-"Edit section: Overview" )]
 
 ##  Overview
 
@@ -88,8 +86,6 @@ ChiefDelphi.
       * For example (~$1): ([http://www.monoprice.com/products/product.asp?c_id=102&amp;cp_id=10218&amp;cs_id=1021804&amp;p_id=666&amp;seq=1&amp;format=2](http://www.monoprice.com/products/product.asp?c_id=102&cp_id=10218&cs_id=1021804&p_id=666&seq=1&format=2 "http://www.monoprice.com/products/product.asp?c_id=102&cp_id=10218&cs_id=1021804&p_id=666&seq=1&format=2" )) 
   * Justin.tv Account (Free): <http://www.justin.tv>
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=3
-"Edit section: Setting up the Hardware & Software" )]
 
 ##  Setting up the Hardware &amp; Software
 
@@ -116,8 +112,6 @@ ChiefDelphi.
   2. While logged in, visit <http://www.justin.tv/broadcast/adv_other> and click "Show" next to "Stream Key:' 
   3. Copy and save the stream key 
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=6
-"Edit section: Video capture device" )]
 
 ###  Video capture device
 
@@ -126,8 +120,6 @@ ChiefDelphi.
   1. Install the necessary drivers and/or any software that comes with the device 
   2. If software is included with the video capture device, hook up the video capture device to a video source, such as a DVD player, and confirm that video can be displayed on your computer through the included software 
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=7
-"Edit section: Adobe Flash Media Live Encoder" )]
 
 ###  Adobe Flash Media Live Encoder
 
@@ -198,8 +190,6 @@ This software records the video.
   10. Record a short clip, paying attention to the CPU usage (shouldn't be maxing out your CPU), Data rate (~10 MB/minute), and Avg. fps (~30). 
   11. Verify that the output file plays, is of reasonable quality, and that sound levels are appropriate. 
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=10
-"Edit section: During the Event" )]
 
 ##  During the Event
 
@@ -224,8 +214,6 @@ with the url and info about your team/organization.
 
 ##  After the Event
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=12
-"Edit section: Splitting the Video Into Individual Matches" )]
 
 ###  Splitting the Video Into Individual Matches
 
@@ -240,8 +228,6 @@ standards please see below!
   * DO NOT include the announcers introduction, we are just looking for the robot action. 
   * End the video once the play has stopped, if you like you can cut in the final score (this is a bit of a pain, and TBA already has it listed on their site anyway). 
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=13
-"Edit section: Upload to YouTube \(Recommended\)" )]
 
 ###  Upload to YouTube (Recommended)
 
@@ -352,8 +338,6 @@ ny | New York City |   | ein | FIRST Championship - Einstein Field
 
 ##  Who is Archiving What?
 
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=18
-"Edit section: Regional Events" )]
 
 ### Regional Events
 
@@ -412,8 +396,6 @@ Apr. 5-7| Queen City| |
 Apr. 5-7| Lone Star| |  
 Apr. 5-7| Spokane| |  
   
-[[edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit&section=19
-"Edit section: District Events" )]
 
 ### District Events
 

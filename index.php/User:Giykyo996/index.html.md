@@ -26,8 +26,6 @@ Jump to: navigation, search
   * 9 My dependence  
 ---  
   
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=1 "Edit section:
-to see the leaves fall off trees and crazy I forgot to speak" )]
 
 ##  to see the leaves fall off trees and crazy I forgot to speak
 
@@ -200,8 +198,6 @@ each other so tight I thought we would burst. I asked you to marry me the very
 same day and I whooped with joy when you looked deep into my eyes and said
 "yes" to being my bride.
 
-[[edit](/index.php?title=User:Giykyo996&action=edit&section=6 "Edit section:
-Why so simple" )]
 
 ##  Why so simple
 

@@ -138,8 +138,6 @@ Accomplishments" )]
   * [Rochester Institute of Technology](/index.php/Rochester_Institute_of_Technology "Rochester Institute of Technology" ) (RIT) [[1]](http://www.rit.edu "http://www.rit.edu" )
   * [Edison Technical and Occupational Center](http://www.rcsdk12.org/schools/secondary/edison.htm "http://www.rcsdk12.org/schools/secondary/edison.htm" )
 
-[[edit](/index.php?title=73&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

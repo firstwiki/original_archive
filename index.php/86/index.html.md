@@ -66,8 +66,6 @@ expansion" ).
     * 4.1 Mentors  
 ---  
   
-[[edit](/index.php?title=86&action=edit&section=1 "Edit section: Team
-Information" )]
 
 ## Team Information
 

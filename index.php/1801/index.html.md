@@ -84,8 +84,6 @@ desctiption and maybe
   * 2010 Epic Dan 
   * 2011 Dan Halen 
 
-[[edit](/index.php?title=1801&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -94,8 +92,6 @@ Accomplishments" )]
   * of links to each years' 
   * accomplishments 
 
-[[edit](/index.php?title=1801&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -110,8 +106,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=1801&action=edit&section=7 "Edit section: Students"
-)]
 
 ###  Students
 

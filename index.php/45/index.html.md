@@ -76,8 +76,6 @@ automotive industry, for companies like Delphi and GM. Other alumni work in
 aerospace, information technology, consumer electronics, and healthcare. We
 are sure that being a TechnoKat played a big role in their success today.
 
-[[edit](/index.php?title=45&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -184,8 +182,6 @@ work closely together and learn from each other while inspiring the students.
 [Kokomo High School](http://www.kokomo.k12.in.us/khssc/khssc.htm
 "http://www.kokomo.k12.in.us/khssc/khssc.htm" )
 
-[[edit](/index.php?title=45&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 
@@ -248,8 +244,6 @@ work closely together and learn from each other while inspiring the students.
 
   
 
-[[edit](/index.php?title=45&action=edit&section=10 "Edit section: Bot
-Boosters" )]
 
 ### Bot Boosters
 

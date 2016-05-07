@@ -190,8 +190,6 @@ formats" ) for more help.
   * Baxter Healthcare 
   * JCPenny 
 
-[[edit](/index.php?title=16&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

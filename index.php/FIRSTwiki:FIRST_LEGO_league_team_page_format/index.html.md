@@ -42,8 +42,6 @@ _team location and name and basic stuff_
   * 7 Sponsors  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=1 "Edit section: History" )]
 
 ## History
 
@@ -60,8 +58,6 @@ dit&section=2 "Edit section: Robots" )]
   * Seasons' robots 
   * [team name - robot name - year](/index.php?title=FIRSTwiki:FLL_robot_page_format&action=edit "FIRSTwiki:FLL robot page format" )
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=3 "Edit section: Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
@@ -74,8 +70,6 @@ dit&section=4 "Edit section: Event Name 1" )]
 
 _Short narrative of your team's experience at this event_
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=5 "Edit section: Event Name 2" )]
 
 ### Event Name 2
 
@@ -98,8 +92,6 @@ dit&section=6 "Edit section: Awards and Recognitions" )]
 Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=7 "Edit section: Special projects" )]
 
 ## Special projects
 
@@ -114,8 +106,6 @@ dit&section=8 "Edit section: Members List" )]
 
 ## Members List
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=9 "Edit section: Students" )]
 
 ### Students
 
@@ -124,16 +114,12 @@ dit&section=9 "Edit section: Students" )]
   * only (role, grade, years on team, etc.) 
   * please (role, grade, years on team, etc.) 
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=10 "Edit section: Coaches" )]
 
 ### Coaches
 
   * and (role) 
   * him/her (role) 
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=11 "Edit section: Mentors" )]
 
 ### Mentors
 
@@ -142,8 +128,6 @@ dit&section=11 "Edit section: Mentors" )]
   * this (role) 
   * dude (role) 
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_team_page_format&action=e
-dit&section=12 "Edit section: Sponsors" )]
 
 ## Sponsors
 

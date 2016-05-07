@@ -50,8 +50,6 @@ the United States Naval Academy in Annapolis, MD. In 2005, the now expanded
 team won the leadership in control award again due to a highly complex
 autonomus mode option control system at the USNA.
 
-[[edit](/index.php?title=836&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

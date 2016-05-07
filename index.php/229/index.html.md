@@ -76,8 +76,6 @@ demonstrations of our robots at local organizations. We are also working with
 the local elementary schools to form several Lego league teams, and several
 local middle schools in order to form several Tech Challenge teams.
 
-[[edit](/index.php?title=229&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -106,8 +104,6 @@ Accomplishments" )]
 
 ##  Accomplishments
 
-[[edit](/index.php?title=229&action=edit&section=5 "Edit section: 2008-2009"
-)]
 
 ### 2008-2009
 
@@ -116,8 +112,6 @@ Accomplishments" )]
   * Chesapeake Regional 
     * Quarterfinalists (with Teams 287 and 1626) 
 
-[[edit](/index.php?title=229&action=edit&section=6 "Edit section: 2007-2008"
-)]
 
 ### 2007-2008
 
@@ -158,8 +152,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=229&action=edit&section=10 "Edit section: Students"
-)]
 
 ###  Students
 
@@ -182,8 +174,6 @@ List" )]
   * Ray - Safety Captain 
   * Jake LaShomb 
 
-[[edit](/index.php?title=229&action=edit&section=11 "Edit section: Faculty
-Advisors" )]
 
 ### Faculty Advisors
 

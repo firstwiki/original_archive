@@ -62,8 +62,6 @@ Field Layout" )]
 
 ## Field Layout
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=2 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -72,8 +70,6 @@ Tournament Structure" )]
 
 ## Tournament Structure
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=4 "Edit section:
-Kit Of Parts" )]
 
 ## Kit Of Parts
 
@@ -82,8 +78,6 @@ Rules" )]
 
 ## Rules
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -92,8 +86,6 @@ Robots" )]
 
 ## Robots
 
-[[edit](/index.php?title=Hexagon_Havoc&action=edit&section=8 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 

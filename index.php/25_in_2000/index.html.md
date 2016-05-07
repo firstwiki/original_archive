@@ -42,16 +42,12 @@ article.
 In the year 2000, Team 25 received the help of a few dedicated engineers from
 Bristol Meyers-Squibb. This year marked a huge turnaround for the team.
 
-[[edit](/index.php?title=25_in_2000&action=edit&section=1 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * Mid-Atlantic Regional Champions 
   * National Champion 
 
-[[edit](/index.php?title=25_in_2000&action=edit&section=2 "Edit section:
-Johnson & Johnson Mid-Atlantic Regional" )]
 
 ### Johnson &amp; Johnson Mid-Atlantic Regional
 

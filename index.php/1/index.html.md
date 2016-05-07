@@ -64,8 +64,6 @@ The team was started in 1997.
 
   * 2004 - Juggy 
 
-[[edit](/index.php?title=1&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

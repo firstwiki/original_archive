@@ -32,8 +32,6 @@ Tournament" ).
   * 4 Results  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_qualifying_tournament_pag
-e_format&action=edit&section=1 "Edit section: Details" )]
 
 ## Details
 
@@ -46,16 +44,12 @@ e_format&action=edit&section=1 "Edit section: Details" )]
   * **Contact:**
   * **FIRST Team Sponsors/Hosts:**
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_qualifying_tournament_pag
-e_format&action=edit&section=2 "Edit section: How to Register" )]
 
 ## How to Register
 
 Example: Registration is through the First Lego League Website and usually
 starts October 1.
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_qualifying_tournament_pag
-e_format&action=edit&section=3 "Edit section: History" )]
 
 ## History
 

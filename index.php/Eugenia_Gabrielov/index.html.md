@@ -30,8 +30,6 @@ Me" )]
   * Birthday: September 12, 1988 (Send presents) 
   * Location: West Lafayette, Indiana 
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=2 "Edit section:
-Contact Information" )]
 
 ## Contact Information
 
@@ -48,8 +46,6 @@ Robotics" )]
   * Westside Boiler Invasion 
   * Personal Rookie Season: 2004 
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=4 "Edit section:
-Robotics 2006-2007" )]
 
 ## Robotics 2006-2007
 
@@ -70,8 +66,6 @@ Offseason Competitions" )]
 
 IRI 2006 (July '06) Ra-Cha-Cha Ruckus 2006 (Fall '06)
 
-[[edit](/index.php?title=User:Freshfrolic&action=edit&section=7 "Edit section:
-Thoughts on Future" )]
 
 ## Thoughts on Future
 

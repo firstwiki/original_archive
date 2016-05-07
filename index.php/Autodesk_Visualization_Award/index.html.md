@@ -20,8 +20,6 @@ max](/index.php/3ds_max "3ds max" ).
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=Autodesk_Visualization_Award&action=edit&section=1
-"Edit section: Process" )]
 
 ##  Process
 
@@ -80,8 +78,6 @@ what [FIRST](/index.php/FIRST "FIRST" ) means to your team. Your entry will be
 judged on how well your animation visually illustrates this written
 statement."
 
-[[edit](/index.php?title=Autodesk_Visualization_Award&action=edit&section=4
-"Edit section: Creativity \(35%\)" )]
 
 ### Creativity (35%)
 

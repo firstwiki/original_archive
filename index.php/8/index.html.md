@@ -134,8 +134,6 @@ hope to build on for next year.
   * [2006 - Phoenix](/index.php?title=Pheonix_%288%29&action=edit "Pheonix \(8\)" )
   * [2005 - Ganginator](/index.php?title=Ganginator_%288%29&action=edit "Ganginator \(8\)" )
 
-[[edit](/index.php?title=8&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -154,8 +152,6 @@ Accomplishments" )]
   * [IDEO](http://www.ideo.com "http://www.ideo.com" )
   * Santa Clara ROP 
 
-[[edit](/index.php?title=8&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

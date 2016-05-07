@@ -36,8 +36,6 @@ characteristics and behaviors that are governed by
 characteristics is important for a team to choose the correct, most efficient
 motor to accomplish a given task.
 
-[[edit](/index.php?title=Motors&action=edit&section=1 "Edit section:
-Characteristics" )]
 
 ##  Characteristics
 
@@ -74,8 +72,6 @@ door](/index.php/Van_door_motor "Van door motor" ) |
 Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
 [Globe](/index.php/Globe_motor "Globe motor" )  
   
-[[edit](/index.php?title=Motors&action=edit&section=2 "Edit section:
-Suppliers" )]
 
 ### Suppliers
 

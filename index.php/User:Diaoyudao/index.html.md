@@ -102,8 +102,6 @@ disregard
   * [Louboutin Avenue To Popularity754](http://wiki.classdrive.net/index.php/User:Diaoyudao "http://wiki.classdrive.net/index.php/User:Diaoyudao" )
   * [Christian Louboutin Method To Fame387](http://www.brickcityboxing.com/index.php/a/2010/06/ "http://www.brickcityboxing.com/index.php/a/2010/06/" )
 
-[[edit](/index.php?title=User:Diaoyudao&action=edit&section=2 "Edit section:
-Louboutin Method In order to Popularity605" )]
 
 ##  Louboutin Method In order to Popularity605
 
@@ -190,8 +188,6 @@ overlooked even if someone desired to ignore
   * [Christian Louboutin Method In order to Fame888](http://thebiblereincarnate.com/index.php/User:Diaoyudao "http://thebiblereincarnate.com/index.php/User:Diaoyudao" )
   * [Christian Louboutin Avenue To Fame469](http://www.iemu.org/index.php/User:Diaoyudao#Christian_Louboutin_Avenue_To_Fame469 "http://www.iemu.org/index.php/User:Diaoyudao#Christian_Louboutin_Avenue_To_Fame469" )
 
-[[edit](/index.php?title=User:Diaoyudao&action=edit&section=3 "Edit section:
-Louboutin Avenue In order to Popularity377" )]
 
 ##  Louboutin Avenue In order to Popularity377
 

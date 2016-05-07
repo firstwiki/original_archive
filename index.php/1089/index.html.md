@@ -172,8 +172,6 @@ Keep a look out for more incredible accomplishments!
   
   
 
-[[edit](/index.php?title=1089&action=edit&section=3 "Edit section: General
-Team Information" )]
 
 ## General Team Information
 
@@ -254,8 +252,6 @@ tools, wood, and metal to help alleviate construction costs.
   * 2008 - Apollo 
   * 2009 - Apollo II 
 
-[[edit](/index.php?title=1089&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -268,8 +264,6 @@ tools, wood, and metal to help alleviate construction costs.
   * Shiseido 
   * Cardinal Partners 
 
-[[edit](/index.php?title=1089&action=edit&section=6 "Edit section: Team
-Committees" )]
 
 ## Team Committees
 
@@ -284,8 +278,6 @@ Committees" )]
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=7 "Edit section: Web Design
-Committee" )]
 
 ### Web Design Committee
 
@@ -350,8 +342,6 @@ Mercury.
 
   
 
-[[edit](/index.php?title=1089&action=edit&section=10 "Edit section:
-Fundraising/Events Planning Committee" )]
 
 ### Fundraising/Events Planning Committee
 

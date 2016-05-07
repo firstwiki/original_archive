@@ -138,8 +138,6 @@ control utilized a fold-down wedge that guided the bridge down and beneath the
 robot's bumpers. It was actuated by two linkages that were powered by a window
 motor and locked into a horizontal position.
 
-[[edit](/index.php?title=3476&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -182,8 +180,6 @@ Dr. and Mrs. Rathbun
 
 Mr. and Mrs. Mabie
 
-[[edit](/index.php?title=3476&action=edit&section=5 "Edit section: Members
-List" )]
 
 ##  Members List
 

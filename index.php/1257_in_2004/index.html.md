@@ -16,8 +16,6 @@ Jump to: navigation, search
     * 3.3 Elimination rounds  
 ---  
   
-[[edit](/index.php?title=1257_in_2004&action=edit&section=1 "Edit section:
-Build" )]
 
 ## Build
 
@@ -102,8 +100,6 @@ the qualifying matches putting it in 13th seed. The two lost matches were due
 to a malfunction preventing a hang one round, and an opposing robot denying us
 from the bar another.
 
-[[edit](/index.php?title=1257_in_2004&action=edit&section=6 "Edit section:
-Alliance selection" )]
 
 ### Alliance selection
 

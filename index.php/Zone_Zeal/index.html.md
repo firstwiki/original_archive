@@ -64,8 +64,6 @@ clip.png)](/index.php/Image:2002_competition_semifinals.jpg "Enlarge" )
   * 9 Sources  
 ---  
   
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=1 "Edit section: Field
-Layout" )]
 
 ## Field Layout
 
@@ -78,8 +76,6 @@ and in the center was a larger PVC pipe. The goals could be filled with 8"
 soccer balls that were located along the wall (20 per side) in the center of
 the field.
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=2 "Edit section: Game
-Description" )]
 
 ## Game Description
 
@@ -108,8 +104,6 @@ Parts" )]
 
 ## Kit Of Parts
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=5 "Edit section: Rules"
-)]
 
 ## Rules
 
@@ -118,8 +112,6 @@ Strategies" )]
 
 ## Strategies
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -130,8 +122,6 @@ Info" )]
 
   * This was the last year Championships were held at the Epcot center 
 
-[[edit](/index.php?title=Zone_Zeal&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

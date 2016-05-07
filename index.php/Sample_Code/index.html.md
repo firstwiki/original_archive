@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Sample_Code&action=edit&section=1 "Edit section:
-Sample Code" )]
 
 ## Sample Code
 

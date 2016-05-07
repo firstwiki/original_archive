@@ -58,8 +58,6 @@ Awards" )]
   * 2007 - Buckeye Regional Chairman's Award 
   * 2007 - GM Team of the Year Award 
 
-[[edit](/index.php?title=66&action=edit&section=2 "Edit section: Also known
-as... \(The evolution of Team 66\)" )]
 
 ## Also known as... (The evolution of Team 66)
 

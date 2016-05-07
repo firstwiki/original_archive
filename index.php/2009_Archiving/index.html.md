@@ -20,16 +20,12 @@ Archiving is closely related to webcasting. Consider visiting
   * 4 Who is Archiving What?  
 ---  
   
-[[edit](/index.php?title=2009_Archiving&action=edit&section=1 "Edit section:
-Where to Send Video" )]
 
 ##  Where to Send Video
 
 Contact Greg Marra or Jonathan Norris on the Chief Delphi forums for more
 information about how to send video to the TBA and SOAP Archives via FTP.
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=2 "Edit section:
-How to Archive" )]
 
 ##  How to Archive
 
@@ -38,8 +34,6 @@ t.php?p=784059&amp;postcount=1](http://www.chiefdelphi.com/forums/showpost.php
 ?p=784059&postcount=1
 "http://www.chiefdelphi.com/forums/showpost.php?p=784059&postcount=1" )
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=3 "Edit section:
-How To Record" )]
 
 ###  How To Record
 
@@ -62,8 +56,6 @@ scoreboard video feed. We prefer this feed over you recording the matches with
 a camcorder, FIRST hires a professional company at every regional to tape the
 matches.
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=4 "Edit section:
-Parsing and Cutting Up the Video Into Individual Matches" )]
 
 ###  Parsing and Cutting Up the Video Into Individual Matches
 
@@ -90,16 +82,12 @@ Standards for Parsing:" )]
     * Video Resolution: recommended 640X480, acceptable 320X240 
     * HTTP Streaming: when encoding the video to its final format of MPEG4 or h264 enable http streaming (for most encoders it will be an option). This will allow anyone with a smart phone, iPhone, or iPod touch to stream the matches and watch them directly on their handset. 
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=6 "Edit section:
-Archiving Format" )]
 
 ##  Archiving Format
 
 For consistency and predictability sake, we have a preference in naming the
 movie files.
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=7 "Edit section:
-General Naming Rules" )]
 
 ###  General Naming Rules
 
@@ -128,8 +116,6 @@ General Naming Rules" )]
   2. No spaces in a filename, please. 
   3. Sometimes a match gets replayed- name the one that counts in the standings as "fl_001.wmv". The one(s) that do NOT count, "fl_001bad1.wmv", "fl_001bad2.wmv", etc... 
 
-[[edit](/index.php?title=2009_Archiving&action=edit&section=8 "Edit section:
-Event Abbreviations" )]
 
 ###  Event Abbreviations
 

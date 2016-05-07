@@ -8,8 +8,6 @@ The [LEGO Mindstorms](/index.php/LEGO_Mindstorms "LEGO Mindstorms" ) NXT has
 been available to consumers in Fall of 2006. The release of NXT greatly
 impacted the [FLL](/index.php/FLL "FLL" ) competition.
 
-[[edit](/index.php?title=NXT&action=edit&section=1 "Edit section:
-Specifications" )]
 
 ## Specifications
 
@@ -22,8 +20,6 @@ Specifications" )]
   * Brand new proramming language produced by National Instruments based on Labview. Compatible with OS X and Windows XP. 
   * Bluetooth compatible 
 
-[[edit](/index.php?title=NXT&action=edit&section=2 "Edit section: External
-links" )]
 
 ##  External links
 

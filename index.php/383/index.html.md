@@ -94,8 +94,6 @@ Accomplishments" )]
 
 2000 VA Most Photogenic Award
 
-[[edit](/index.php?title=383&action=edit&section=4 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -118,8 +116,6 @@ List" )]
   * Guilherme Jose Kranz 
   * Manoel Fabricio Flores da Cunha (Coach) 
 
-[[edit](/index.php?title=383&action=edit&section=8 "Edit section: Volunteer
-Mentors" )]
 
 ### Volunteer Mentors
 

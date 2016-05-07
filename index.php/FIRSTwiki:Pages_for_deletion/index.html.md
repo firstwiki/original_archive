@@ -8,8 +8,6 @@ Please use this page to add links to pages that are suggested for deletion. If
 the deletion is other than trivial a discussion should ensue before an
 administrator deletes the page.
 
-[[edit](/index.php?title=FIRSTwiki:Pages_for_deletion&action=edit&section=1
-"Edit section: Template:FLLstatetournamentcategories" )]
 
 ## Template:FLLstatetournamentcategories
 
@@ -18,8 +16,6 @@ parameter which was misguided. This is a "dead" page
 now.--[PeterFll](/index.php/User:PeterFll "User:PeterFll" ) 14:34, 31 May 2005
 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki:Pages_for_deletion&action=edit&section=2
-"Edit section: Articles for Deletion" )]
 
 ## Articles for Deletion
 

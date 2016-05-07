@@ -14,8 +14,6 @@ Jump to: navigation, search
   * 4 Programming  
 ---  
   
-[[edit](/index.php?title=User:SilverStar&action=edit&section=1 "Edit section:
-Profile" )]
 
 ## Profile
 
@@ -54,8 +52,6 @@ My ChiefDelphi profile: <http://www.chiefdelphi.com/forums/member.php?u=1668>
 
 * * *
 
-[[edit](/index.php?title=User:SilverStar&action=edit&section=4 "Edit section:
-Programming" )]
 
 ## [Programming](/index.php/Programming "Programming" )
 

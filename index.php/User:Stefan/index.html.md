@@ -6,8 +6,6 @@ Jump to: navigation, search
 
 Below you will find info about me and such.
 
-[[edit](/index.php?title=User:Stefan&action=edit&section=1 "Edit section:
-Info" )]
 
 # Info
 
@@ -34,8 +32,6 @@ Contact Info" )]
 
   * <http://www.darthimpala.com>
 
-[[edit](/index.php?title=User:Stefan&action=edit&section=3 "Edit section:
-Websites / Projects" )]
 
 # Websites / Projects
 

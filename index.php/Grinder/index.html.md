@@ -24,8 +24,6 @@ or [drill](/index.php/Drill "Drill" ) bits. Alternatively it may be used to
 roughly shape metal prior to [welding](/index.php/Welding "Welding" ) or
 fitting.
 
-[[edit](/index.php?title=Grinder&action=edit&section=1 "Edit section: Safety"
-)]
 
 ##  Safety
 

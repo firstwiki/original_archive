@@ -6,8 +6,6 @@ Jump to: navigation, search
 
 [Archive 1](/index.php/User_talk:Max/Archive_1 "User talk:Max/Archive 1" )
 
-[[edit](/index.php?title=User_talk:Max&action=edit&section=1 "Edit section:
-PHP/MediaWiki upgrade" )]
 
 ##  PHP/MediaWiki upgrade
 

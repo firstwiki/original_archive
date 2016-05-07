@@ -18,8 +18,6 @@ A **pneumatic cylinder** is a [pneumatics](/index.php/Pneumatics "Pneumatics"
     * 3.2 Models  
 ---  
   
-[[edit](/index.php?title=Cylinder&action=edit&section=1 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -38,8 +36,6 @@ The static end of the cylinder has a mounting hole at the end which can be
 used with a supplied bracket. The rod end of the cylinder is a threaded end,
 where a clevis can be added.
 
-[[edit](/index.php?title=Cylinder&action=edit&section=4 "Edit section: Terms"
-)]
 
 ## Terms
 
@@ -52,16 +48,12 @@ Product Info" )]
 
 ## Current Product Info
 
-[[edit](/index.php?title=Cylinder&action=edit&section=6 "Edit section:
-Suppliers" )]
 
 ### Suppliers
 
   * [Parker](http://www.parker.com "http://www.parker.com" )
   * [Bimba Manufacturing](http://www.bimba.com "http://www.bimba.com" )
 
-[[edit](/index.php?title=Cylinder&action=edit&section=7 "Edit section: Models"
-)]
 
 ### Models
 

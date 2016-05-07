@@ -56,8 +56,6 @@ grace the field of competition at a regional.
 
 just maybe highlights of the team and how it was created
 
-[[edit](/index.php?title=1337&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 

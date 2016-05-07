@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Torque&action=edit&section=1 "Edit section: Rigourous
-Definition" )]
 
 ##  Rigourous Definition
 

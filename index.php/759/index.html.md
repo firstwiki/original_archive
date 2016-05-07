@@ -90,8 +90,6 @@ Activities Fair display, 9th September 2005
   * [Stealth Hedgehog](/index.php/Stealth_Hedgehog_%28759%29 "Stealth Hedgehog \(759\)" ) (2003) 
   * [(2002)](/index.php/759_in_2002 "759 in 2002" )
 
-[[edit](/index.php?title=759&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -106,8 +104,6 @@ Accomplishments" )]
   * 2002 Semi-Finalists (NYC) 
   * 2002 Sportsmanship Award (NYC) 
 
-[[edit](/index.php?title=759&action=edit&section=4 "Edit section: NYC Seeding"
-)]
 
 ### NYC Seeding
 
@@ -204,8 +200,6 @@ WARNING THIS SECTION IS OUT OF DATE!
 
 ## Ex Members
 
-[[edit](/index.php?title=759&action=edit&section=13 "Edit section: U6 2006/7"
-)]
 
 #### U6 2006/7
 

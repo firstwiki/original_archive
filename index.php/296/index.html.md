@@ -64,8 +64,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=296
 
   * Coming soon... 
 
-[[edit](/index.php?title=296&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 

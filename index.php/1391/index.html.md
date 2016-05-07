@@ -38,8 +38,6 @@ Team Website: | <http://www.team1391.com/>
 
   * History Example 
 
-[[edit](/index.php?title=1391&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -50,8 +48,6 @@ projects" )]
 
   * [2004 - The Metal Moose](/index.php/1391_in_2004 "1391 in 2004" )
 
-[[edit](/index.php?title=1391&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -62,8 +58,6 @@ projects" )]
   * Sayles Engineering, Inc 
   * Sandgate Technologies, Inc. 
 
-[[edit](/index.php?title=1391&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

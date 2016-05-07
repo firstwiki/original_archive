@@ -6,8 +6,6 @@ Jump to: navigation, search
 
 **Debugging** is the process of finding and resolving bugs, which are errors within [programming](/index.php/Programming "Programming" ). 
 
-[[edit](/index.php?title=Debugging&action=edit&section=1 "Edit section:
-Techniques" )]
 
 ##  Techniques
 
@@ -32,8 +30,6 @@ author's permission.
 
   
 
-[[edit](/index.php?title=Debugging&action=edit&section=2 "Edit section: See
-also" )]
 
 ##  See also
 

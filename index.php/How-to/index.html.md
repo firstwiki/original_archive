@@ -28,8 +28,6 @@ Jump to: navigation, search
   * 8 External Links  
 ---  
   
-[[edit](/index.php?title=How-to&action=edit&section=1 "Edit section:
-Animation" )]
 
 ## Animation
 
@@ -42,8 +40,6 @@ the [Autodesk Visualization Award](/index.php/Autodesk_Visualization_Award
   * [Using 3ds max](/index.php?title=Using_3ds_max&action=edit "Using 3ds max" )
   * [Creating texture maps](/index.php/Creating_texture_maps "Creating texture maps" )
 
-[[edit](/index.php?title=How-to&action=edit&section=2 "Edit section:
-Programming Pre-2009" )]
 
 ## Programming Pre-2009
 
@@ -66,8 +62,6 @@ Controller \(2007\)" ) used from 2004-2008, though articles on
     * [FRC Functions Index](/index.php?title=FRC_Functions_Index&action=edit "FRC Functions Index" )
     * [Sample Code](/index.php/Sample_Code "Sample Code" )
 
-[[edit](/index.php?title=How-to&action=edit&section=3 "Edit section: Drive
-train" )]
 
 ## Drive train
 
@@ -88,8 +82,6 @@ on creating a fully functional [control system](/index.php/Control_system
   * [Guide to soldering](/index.php/Guide_to_soldering "Guide to soldering" )
   * [Wire stripping](/index.php/Wire_stripping "Wire stripping" )
 
-[[edit](/index.php?title=How-to&action=edit&section=5 "Edit section:
-Mechanical" )]
 
 ## Mechanical
 
@@ -102,8 +94,6 @@ be appropriate, among other articles.
   * [Modifying a servo](/index.php/Modifying_a_servo "Modifying a servo" )
   * [Multi-positioning with pneumatics](/index.php?title=Multi-positioning_with_pneumatics&action=edit "Multi-positioning with pneumatics" )
 
-[[edit](/index.php?title=How-to&action=edit&section=6 "Edit section:
-Manufacturing" )]
 
 ### Manufacturing
 
@@ -116,8 +106,6 @@ Manufacturing" )]
     * [G-code guide](/index.php?title=G-code_guide&action=edit "G-code guide" )
   * [Machining](/index.php/Machining "Machining" )
 
-[[edit](/index.php?title=How-to&action=edit&section=7 "Edit section: Website"
-)]
 
 ## Website
 

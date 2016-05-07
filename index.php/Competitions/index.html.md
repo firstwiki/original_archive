@@ -16,8 +16,6 @@ Jump to: navigation, search
 Competitions are events that teams can attend to compete with other teams in
 that region.
 
-[[edit](/index.php?title=Competitions&action=edit&section=1 "Edit section:
-FIRST Robotics Competitions" )]
 
 ## FIRST Robotics Competitions
 
@@ -30,16 +28,12 @@ competition" ).
 Each year, the competitions center on [official FIRST
 games](/index.php/FRC_games "FRC games" ).
 
-[[edit](/index.php?title=Competitions&action=edit&section=2 "Edit section:
-FIRST Lego League Competitions" )]
 
 ## FIRST Lego League Competitions
 
 [FIRST LEGO League](/index.php/FIRST_LEGO_League "FIRST LEGO League" ) only
 has [FLL events](/index.php/FLL_events "FLL events" ).
 
-[[edit](/index.php?title=Competitions&action=edit&section=3 "Edit section:
-FIRST Technical Challenge Competitions" )]
 
 ## FIRST Technical Challenge Competitions
 

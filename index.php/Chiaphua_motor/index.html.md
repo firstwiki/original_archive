@@ -74,8 +74,6 @@ Max Efficiency | 45.0 | 4614 | 19.8 | 154 | 65%
 Max Power | 171.7 | 2655 | 67.9 | 337 | 41%  
 Stall | 343.4 | 0 | 133.0 | 0 | 0%  
   
-[[edit](/index.php?title=CIM_motor&action=edit&section=2 "Edit section: By
-year" )]
 
 ##  By year
 
@@ -90,8 +88,6 @@ ics_Programs/FRC/Game_and_Season__Info/2012_Assets/KickoffKitChecklistRev_A.pd
 f "http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/
 FRC/Game_and_Season__Info/2012_Assets/KickoffKitChecklistRev_A.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=4 "Edit section: 2011"
-)]
 
 ### 2011
 
@@ -138,8 +134,6 @@ propellers and ducted fans to gain more control on the slippery surface.
 
 Two standard motors are included, 3.5" CIM no longer allowed.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=8 "Edit section: 2007"
-)]
 
 ###  2007
 
@@ -154,8 +148,6 @@ Two of the four CIM motors were replaced with the larger "mini-bike" motors.
 [[7]](http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf
 "http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf" )
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=10 "Edit section: 2005"
-)]
 
 ###  2005
 
@@ -168,8 +160,6 @@ Four of the motors were included in the KOP.
 
 Two of the motors are included in the KOP.
 
-[[edit](/index.php?title=CIM_motor&action=edit&section=12 "Edit section: Usage
-Notes" )]
 
 ## Usage Notes
 

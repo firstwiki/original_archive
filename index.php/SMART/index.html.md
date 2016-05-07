@@ -44,8 +44,6 @@ teams" )
   * 5 Sponsors  
 ---  
   
-[[edit](/index.php?title=SMART&action=edit&section=1 "Edit section: History"
-)]
 
 ## History
 
@@ -72,8 +70,6 @@ Year Events Attended" )]
 
 ## Current Year Events Attended
 
-[[edit](/index.php?title=SMART&action=edit&section=4 "Edit section: Enfield
-Qualifying Event" )]
 
 ### Enfield Qualifying Event
 
@@ -110,8 +106,6 @@ well as the Robot Performance Award.
 
   
 
-[[edit](/index.php?title=SMART&action=edit&section=6 "Edit section:
-Connecticut State Tournament" )]
 
 ### Connecticut State Tournament
 
@@ -124,8 +118,6 @@ nice things to say to us when the event was over. This was definitely the
 toughest competition we've ever been to in Connecticut. The bar was high this
 year. A lot of great teams doing lots of cool GP stuff.
 
-[[edit](/index.php?title=SMART&action=edit&section=7 "Edit section: FLL World
-Festival" )]
 
 ### FLL World Festival
 
@@ -158,8 +150,6 @@ Prior Years
   * [SMART 2003](/index.php?title=SMART_2003&action=edit "SMART 2003" )
   * [SMART 2002](/index.php?title=SMART_2002&action=edit "SMART 2002" )
 
-[[edit](/index.php?title=SMART&action=edit&section=9 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

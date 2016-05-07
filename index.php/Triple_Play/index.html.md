@@ -68,8 +68,6 @@ end of the two minute and fifteen second match. Ten points could also be
 scored if all three alliance robots were behind the starting line at their end
 of the field at the end of the game.
 
-[[edit](/index.php?title=Triple_Play&action=edit&section=2 "Edit section: New
-Features" )]
 
 ## New Features
 
@@ -82,8 +80,6 @@ Features" )]
   * [MPLAB](/index.php/MPLAB "MPLAB" ) version 7 and [MCC18](/index.php/MCC18 "MCC18" ) version 2.4 
   * [Fix-it window](/index.php?title=Fix-it_window&action=edit "Fix-it window" )
 
-[[edit](/index.php?title=Triple_Play&action=edit&section=3 "Edit section:
-References" )]
 
 ## References
 

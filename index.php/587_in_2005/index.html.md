@@ -34,16 +34,12 @@ _A brief summary of Team 587 in 2005._
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=587_in_2005&action=edit&section=1 "Edit section:
-Picture" )]
 
 ## Picture
 
 [![image:2005FRC587.jpg](/media/c/ca/2005FRC587.jpg)](/index.php/Image:2005FRC
 587.jpg "image:2005FRC587.jpg" )
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -52,8 +48,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=4 "Edit section:
-NASA/VCU Regional" )]
 
 ### NASA/VCU Regional
 
@@ -70,8 +64,6 @@ Championship Event - Galileo Division" )]
   * Was not selected for eliminations 
   * Did not win any awards 
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=6 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -88,8 +80,6 @@ Robot Functions" )]
   * list 
   * of functions 
 
-[[edit](/index.php?title=587_in_2005&action=edit&section=8 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

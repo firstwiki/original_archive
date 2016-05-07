@@ -50,16 +50,12 @@ the regional in Las Vegas due to a request from [NASA](/index.php/NASA "NASA"
   * [2005 - Spoon](/index.php?title=Spoon_%281110%29&action=edit "Spoon \(1110\)" )
   * [2006 - Schmidt Finder- 3WNM-WS? (3 Weeks, No Money- Where's Schmidt?)](/index.php?title=Schmidt_Finder-_3WNM-WS%3F_%281110%29&action=edit "Schmidt Finder- 3WNM-WS? \(1110\)" )
 
-[[edit](/index.php?title=1110&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * Highest Regional Standing: 1 of 57 - Southern California Regional 2003 
   * Award: Autodesk Animation Award - Las Vegas Regional 2005 
 
-[[edit](/index.php?title=1110&action=edit&section=4 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -84,8 +84,6 @@ Documents](http://www.usfirst.org/roboticsprograms/frc/content.aspx?id=9152
   * 3 Robots  
 ---  
   
-[[edit](/index.php?title=FIRST_Overdrive&action=edit&section=1 "Edit section:
-Game Overview" )]
 
 ## Game Overview
 
@@ -106,8 +104,6 @@ are radio controlled by team operators standing at either end of the field.
 [![Image:Field2008.jpg](/media/d/df/Field2008.jpg)](/index.php/Image:Field2008
 .jpg "Image:Field2008.jpg" )
 
-[[edit](/index.php?title=FIRST_Overdrive&action=edit&section=2 "Edit section:
-Scoring" )]
 
 ### Scoring
 

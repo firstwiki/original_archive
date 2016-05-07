@@ -50,8 +50,6 @@ senior citizens how to use their personal computers, presenting our robots at
 different city-wide events, and fundraising within the Stuyvesant alumni and
 corporate communities.
 
-[[edit](/index.php?title=694&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -110,8 +108,6 @@ projects" )]
   * [2008 - Desbot](/index.php/694_in_2008 "694 in 2008" )
   * [2009 - Michael1](/index.php/694_in_2009 "694 in 2009" )
 
-[[edit](/index.php?title=694&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -176,8 +172,6 @@ Accomplishments" )]
   * The Wallace Foundation 
   * Anonymous 
 
-[[edit](/index.php?title=694&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

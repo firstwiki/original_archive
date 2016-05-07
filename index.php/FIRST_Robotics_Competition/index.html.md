@@ -46,8 +46,6 @@ FRC was founded in 1992, four years after the creation of
   * 1993 - [Rug Rage](/index.php/Rug_Rage "Rug Rage" )
   * 1992 - [Maize Craze](/index.php/Maize_Craze "Maize Craze" )
 
-[[edit](/index.php?title=FIRST_Robotics_Competition&action=edit&section=2
-"Edit section: External Links" )]
 
 ## External Links
 

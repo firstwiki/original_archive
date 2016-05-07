@@ -24,8 +24,6 @@ Wow, this page is already very long. Should we split it into several sections?
 
   * I think the page getting long was inevitable, it's just like the team list page. Theres just so much information that theres no good way to break it up into separate sections without it still being huge. This is more of a list than an article so some of the size rules don't apply. I'd say just leave everything where it is, in a nice central location. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 14:39, 2 June 2007 (EDT) 
 
-[[edit](/index.php?title=Talk:Team_Info&action=edit&section=2 "Edit section:
-GeoHack" )]
 
 ##  GeoHack
 
@@ -42,8 +40,6 @@ Y |  \-
 [Nlaverdure](/index.php/User:Nlaverdure "User:Nlaverdure" ) 19:06, 5 June 2007
 (EDT)
 
-[[edit](/index.php?title=Talk:Team_Info&action=edit&section=3 "Edit section:
-Conventional location info" )]
 
 ##  Conventional location info
 

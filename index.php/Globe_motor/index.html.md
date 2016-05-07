@@ -28,8 +28,6 @@ parts](/index.php/Kit_of_parts "Kit of parts" ) for many years. Originally a
 torque make it useful for powering robot mechanisms. The globe motor comes
 with an attached planetary gearbox, which may be removed if suited.
 
-[[edit](/index.php?title=Globe_motor&action=edit&section=1 "Edit section:
-Torque and Efficiency curves" )]
 
 ## Torque and Efficiency curves
 

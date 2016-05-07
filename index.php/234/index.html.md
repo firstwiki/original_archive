@@ -234,8 +234,6 @@ Morris Machine Co., Inc.
 
 74 Proud Grandmas
 
-[[edit](/index.php?title=234&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

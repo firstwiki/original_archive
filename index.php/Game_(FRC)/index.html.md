@@ -56,8 +56,6 @@ Attack" ), and the stairs in [FIRST Frenzy: Raising the
 Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
 ) show just how clever [FIRST](/index.php/FIRST "FIRST" ) can be.
 
-[[edit](/index.php?title=Game_%28FRC%29&action=edit&section=1 "Edit section:
-The Game" )]
 
 ## The Game
 

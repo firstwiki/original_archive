@@ -24,8 +24,6 @@ FIRSTcast Season 2 Logo
   * 5 External links  
 ---  
   
-[[edit](/index.php?title=FIRSTcast&action=edit&section=1 "Edit section:
-Founders" )]
 
 ##  Founders
 
@@ -48,8 +46,6 @@ Founders" )]
 
 **Greg Marra**
 
-[[edit](/index.php?title=FIRSTcast&action=edit&section=3 "Edit section: The
-Guests" )]
 
 ##  The Guests
 
@@ -114,8 +110,6 @@ Episodes" )]
 
   
 
-[[edit](/index.php?title=FIRSTcast&action=edit&section=5 "Edit section:
-External links" )]
 
 ##  External links
 

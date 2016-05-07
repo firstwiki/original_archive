@@ -10,8 +10,6 @@ track. When connecting a sprocket to a [motor](/index.php/Motor "Motor" ) or
 [robot](/index.php/Robot "Robot" )'s [drive train](/index.php/Drive_train
 "Drive train" ), you can modify the overall gear ratio of the chain drive.
 
-[[edit](/index.php?title=Sprocket&action=edit&section=1 "Edit section:
-External links" )]
 
 ##  External links
 

@@ -60,8 +60,6 @@ Approximate team size: | 14
 
   * We are a rookie team based in the Bronx, New York. 
 
-[[edit](/index.php?title=2265&action=edit&section=2 "Edit section: Team
-projects" )]
 
 # Team projects
 
@@ -82,8 +80,6 @@ clip.png)](/index.php/Image:Rosietherivetted3-resized.jpg "Enlarge" )
 
 Rosie the Rivetted 2007
 
-[[edit](/index.php?title=2265&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 # Accomplishments
 
@@ -92,8 +88,6 @@ Accomplishments" )]
 
 NYC Regional - Rookie All-Star Award
 
-[[edit](/index.php?title=2265&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 # Sponsors
 
@@ -102,8 +96,6 @@ NYC Regional - Rookie All-Star Award
   * Consolidated Edison 
   * Bloomberg LLC 
 
-[[edit](/index.php?title=2265&action=edit&section=7 "Edit section: Members
-List" )]
 
 # Members List
 
@@ -120,8 +112,6 @@ List" )]
 
 ## Alumni
 
-[[edit](/index.php?title=2265&action=edit&section=10 "Edit section: Class of
-2007" )]
 
 ### Class of 2007
 
@@ -134,8 +124,6 @@ List" )]
   * Ly Ky Tran - CUNY Honors @ Hunter College 
   * Emile Yu - McGill University 
 
-[[edit](/index.php?title=2265&action=edit&section=11 "Edit section: Mentors"
-)]
 
 ## Mentors
 

@@ -42,8 +42,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1113
 
   * History Example 
 
-[[edit](/index.php?title=1113&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -54,8 +52,6 @@ projects" )]
 
   * [2004 - sweetie](/index.php?title=Sweetie_%281113%29&action=edit "Sweetie \(1113\)" )
 
-[[edit](/index.php?title=1113&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -68,8 +64,6 @@ Accomplishments" )]
 
   * TU Eng Explorers 
 
-[[edit](/index.php?title=1113&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

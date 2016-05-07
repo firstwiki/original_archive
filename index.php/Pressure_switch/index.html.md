@@ -46,8 +46,6 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=3 "Edit section:
-Air" )]
 
 ### Air
 
@@ -66,16 +64,12 @@ Current Product Info" )]
 
 ## Current Product Info
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=6 "Edit section:
-Supplier" )]
 
 ### Supplier
 
 Supplied by [[The Nason Company](http://www.nasonptc.com
 "http://www.nasonptc.com" )].
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=7 "Edit section:
-Model Number" )]
 
 ### Model Number
 
@@ -100,8 +94,6 @@ to one terminal of the switch and the black ground wire connected to the other
 terminal. Connect the Spike Relay with compressor attached to relay output 8.
 The controller should turn the compressor on when needed, and off when not.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=10 "Edit section:
-easyC PRO" )]
 
 ### easyC PRO
 
@@ -126,8 +118,6 @@ Pressure Switch block, the code automatically checks the pressure switch every
 500 milliseconds (1 millisecond = 0.001 second; 500 milliseconds = 1/2 second)
 and switches the relay on if needed.
 
-[[edit](/index.php?title=Pressure_switch&action=edit&section=11 "Edit section:
-MPLAB" )]
 
 ### MPLAB
 

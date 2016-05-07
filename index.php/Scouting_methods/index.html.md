@@ -42,16 +42,12 @@ of these methods makes for the strongest scouting effort.
     * 2.6 Database  
 ---  
   
-[[edit](/index.php?title=Scouting_methods&action=edit&section=1 "Edit section:
-Scouting criteria" )]
 
 ## Scouting criteria
 
 While there are many criteria to consider when choosing a method, the most
 important factors are listed below.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=2 "Edit section:
-Set-up Time" )]
 
 ### Set-up Time
 
@@ -60,8 +56,6 @@ method. Teams that set aside some time ahead of competition to develop a
 method have quite a few more options available than teams that try to pull
 something together at the last minute.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=3 "Edit section:
-Ease of use" )]
 
 ### Ease of use
 
@@ -108,8 +102,6 @@ pushing match, who has more torque? Does a robot generally defend the home
 area, or go deep into enemy territory? This aspect includes those things which
 are very helpful to know in strategizing for a match.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=7 "Edit section:
-Partner Picking" )]
 
 ### Partner Picking
 
@@ -118,8 +110,6 @@ need to be prepared with a detailed plan of which robots they will pick as
 their partner, with a plan for backup partners, keeping in mind that that the
 other 7 teams will very likely be wanting to pick the same partners.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=8 "Edit section:
-Methods at a glance" )]
 
 ## Methods at a glance
 
@@ -142,8 +132,6 @@ time** | **Partner Picking**
 Please note that these are rough aproximations, methods can be better or worse
 depending on how you go about it.
 
-[[edit](/index.php?title=Scouting_methods&action=edit&section=9 "Edit section:
-Statistical" )]
 
 ### [Statistical](/index.php?title=Statistical_scouting&action=edit
 "Statistical scouting" )

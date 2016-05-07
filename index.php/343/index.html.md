@@ -48,8 +48,6 @@ expansion" ).
   * 6 Links  
 ---  
   
-[[edit](/index.php?title=343&action=edit&section=1 "Edit section: Official
-Competition Schedules" )]
 
 ## Official Competition Schedules
 
@@ -58,8 +56,6 @@ Competition Schedules" )]
   * March 13-15 Peachtree Regional Duluth, GA 
   * March 27-29 Palmetto Regional Clemson, SC 
 
-[[edit](/index.php?title=343&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -140,8 +136,6 @@ Accomplishments" )]
   * 2000 N1 Rookie All-Star Award 
   * 2000 N1 US Coast Guard Academy MITE Scholarship 
 
-[[edit](/index.php?title=343&action=edit&section=5 "Edit section: Sister
-Teams" )]
 
 ## Sister Teams
 

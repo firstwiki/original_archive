@@ -76,8 +76,6 @@ respect with the Mayhem FLL team since facing them head to head three times at
 the 2002 New Hampshire State FLL tournament. Others have come through the
 homeschool network or from local high schools currently without a FIRST team.
 
-[[edit](/index.php?title=1519&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -104,8 +102,6 @@ Accomplishments" )]
   * 2006 River Rage - Tournament Winner with Teams 1073 (The FORCE Team) and 1474 (Tewksbury Titans) 
   * 2007 Mayhem in Merrimack - Tournament Winner with Team 501 (Cruisin' Crusaders) 
 
-[[edit](/index.php?title=1519&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -116,8 +112,6 @@ Accomplishments" )]
   * MJS Metals 
   * [MAYHEM inc.](http://www.mayheminc.org "http://www.mayheminc.org" )
 
-[[edit](/index.php?title=1519&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -98,16 +98,12 @@ Accomplishments" )]
 
   * Learning first hand about saftey (see [When Robots Attack](/index.php?title=When_Robots_Attack&action=edit "When Robots Attack" )) 
 
-[[edit](/index.php?title=1418&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
   * [Aurora Flight Sciences](http://aurora.aero "http://aurora.aero" )
   * Digital Design and Imaging Service (Also noted for purchasing firstwiki.org) 
 
-[[edit](/index.php?title=1418&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

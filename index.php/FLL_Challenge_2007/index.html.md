@@ -46,8 +46,6 @@ children and 10,600 teams are expected worldwide.
   * 5 External links  
 ---  
   
-[[edit](/index.php?title=Power_Puzzle&action=edit&section=1 "Edit section:
-Challenge Summary" )]
 
 ##  Challenge Summary
 
@@ -108,8 +106,6 @@ introducing them to the wonders of science and technology through traditional,
 open-ended LEGO building with an age-appropriate Challenge based on the FIRST
 LEGO League theme.
 
-[[edit](/index.php?title=Power_Puzzle&action=edit&section=3 "Edit section:
-Missions" )]
 
 ##  Missions
 
@@ -142,16 +138,12 @@ consisting of different tasks surrounding the topic. The missions include:
   * Parking Lot 
   * Fairness Bonus 
 
-[[edit](/index.php?title=Power_Puzzle&action=edit&section=4 "Edit section:
-References" )]
 
 ## References
 
   * [The official _FIRST_ LEGO League site](http://www.firstlegoleague.org "http://www.firstlegoleague.org" )
   * [FLL Open European Championship website](http://www.flloec.org/ "http://www.flloec.org/" )
 
-[[edit](/index.php?title=Power_Puzzle&action=edit&section=5 "Edit section:
-External links" )]
 
 ##  External links
 

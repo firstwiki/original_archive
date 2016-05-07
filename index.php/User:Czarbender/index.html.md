@@ -28,24 +28,18 @@ here that belong to Wikipedia. I'm also on team [3536](/index.php/3536 "3536"
 ), The Reseda Regent Robotics. This is also the same username I have in
 Wikipedia if you want to take a look at it.
 
-[[edit](/index.php?title=User:Czarbender&action=edit&section=2 "Edit section:
-What I Stand For" )]
 
 ## What I Stand For
 
 I stand for video game rights, both from consoles and computer games. I also
 stand for the integration of the Metal Gear Solid series onto Nintendo.
 
-[[edit](/index.php?title=User:Czarbender&action=edit&section=3 "Edit section:
-What I Stand Against" )]
 
 ## What I Stand Against
 
 I stand against injustices, particularly between rival gaming consoles,
 PlayStation 3 and the Wii.
 
-[[edit](/index.php?title=User:Czarbender&action=edit&section=4 "Edit section:
-What I Like" )]
 
 ## What I Like
 

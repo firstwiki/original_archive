@@ -50,8 +50,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=1830&action=edit
 
   * History Example 
 
-[[edit](/index.php?title=1830&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -62,8 +60,6 @@ projects" )]
 
   * Robot Example 
 
-[[edit](/index.php?title=1830&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -76,8 +72,6 @@ Accomplishments" )]
 
   * Sponsor 
 
-[[edit](/index.php?title=1830&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

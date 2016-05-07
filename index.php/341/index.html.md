@@ -110,8 +110,6 @@ team walked home with their first regional win ever and recieved the
 Event](/index.php/Championship_Event "Championship Event" ) took 7th overall
 seed only losing 1 match.
 
-[[edit](/index.php?title=341&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -132,8 +130,6 @@ projects" )]
   * [2006 - Miss Daisy V](/index.php/341_in_2006#Robot "341 in 2006" )
   * [2007 - Miss Daisy VI (The Black Orchid)](/index.php/341_in_2007#Robot "341 in 2007" )
 
-[[edit](/index.php?title=341&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -238,8 +234,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=341&action=edit&section=15 "Edit section: Students"
-)]
 
 ### Students
 

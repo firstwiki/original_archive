@@ -204,8 +204,6 @@ Members List" )]
 
   
 
-[[edit](/index.php?title=846&action=edit&section=11 "Edit section: Officers"
-)]
 
 ### Officers
 

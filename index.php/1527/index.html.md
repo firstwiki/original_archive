@@ -70,8 +70,6 @@ Accomplishments" )]
 
   * List of Accomplishments (awards and such) 
 
-[[edit](/index.php?title=1527&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -82,8 +80,6 @@ List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=1527&action=edit&section=7 "Edit section: Students"
-)]
 
 ###  Students
 

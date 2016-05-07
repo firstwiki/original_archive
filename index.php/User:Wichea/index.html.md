@@ -68,8 +68,6 @@ company that offers insurance on the move You must make sure that the vehicle
 transporting company would provide insurance for your car  
   
 
-[[edit](/index.php?title=User:Wichea&action=edit&section=2 "Edit section: Like
-all other plastic materials" )]
 
 ##  Like all other plastic materials
 
@@ -86,8 +84,6 @@ all other plastic materials" )]
     
     
 
-[[edit](/index.php?title=User:Wichea&action=edit&section=3 "Edit section: If
-you put the number on retention you avoid this charge but" )]
 
 ##  If you put the number on retention you avoid this charge but
 
@@ -104,8 +100,6 @@ you put the number on retention you avoid this charge but" )]
     
     
 
-[[edit](/index.php?title=User:Wichea&action=edit&section=4 "Edit section:
-money is now coming in and can be reinvested" )]
 
 ##  money is now coming in and can be reinvested
 

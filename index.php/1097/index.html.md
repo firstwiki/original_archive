@@ -90,8 +90,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1097&action=edit&section=9 "Edit section: Students"
-)]
 
 ### Students
 
@@ -130,8 +128,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=1097&action=edit&section=11 "Edit section: Mentors"
-)]
 
 ### Mentors
 

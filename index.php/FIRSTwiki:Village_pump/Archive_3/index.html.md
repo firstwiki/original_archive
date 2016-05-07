@@ -12,8 +12,6 @@ Jump to: navigation, search
     * 1.3 Potential name changes  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_3&action=edit&section=
-1 "Edit section: FIRSTwiki-related" )]
 
 # FIRSTwiki-related
 
@@ -66,8 +64,6 @@ just upload them? Should the manuals not be uploaded?
 
 **Discussion moved to [FIRSTwiki talk:Contact-A-Thon](/index.php/FIRSTwiki_talk:Contact-A-Thon "FIRSTwiki talk:Contact-A-Thon" )** \--[Max](/index.php/User:Max "User:Max" ) 18:06, 14 Jul 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_3&action=edit&section=
-4 "Edit section: Potential name changes" )]
 
 ## Potential name changes
 

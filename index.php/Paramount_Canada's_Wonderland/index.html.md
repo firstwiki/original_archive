@@ -66,8 +66,6 @@ season competitions" )
   
 **Paramount Canada's Wonderland** is an [off-season competition](/index.php/Off-season_competition "Off-season competition" ). 
 
-[[edit](/index.php?title=Paramount_Canada%27s_Wonderland&action=edit&section=1
-"Edit section: External links" )]
 
 ## External links
 

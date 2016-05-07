@@ -124,8 +124,6 @@ More information about Team 67 can be found on the [HOT team's website](http:/
   * [1998 - HOTBOT](/index.php?title=67_in_1998&action=edit "67 in 1998" )
   * [1997 - HOTBOT](/index.php?title=67_in_1997&action=edit "67 in 1997" )
 
-[[edit](/index.php?title=67&action=edit&section=7 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

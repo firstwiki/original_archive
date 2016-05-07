@@ -20,8 +20,6 @@ FIRSTWiki contains a abundant amount of images and files. Following the image
 use policy can make it easier for other users to find and for system ops to
 manage the images.
 
-[[edit](/index.php?title=FIRSTwiki:Image_use_policy&action=edit&section=1
-"Edit section: General Guidelines" )]
 
 ## General Guidelines
 

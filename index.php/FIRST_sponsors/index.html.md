@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=FIRST_sponsors&action=edit&section=1 "Edit section:
-Official FIRST List" )]
 
 ### Official FIRST List
 

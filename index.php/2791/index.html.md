@@ -130,8 +130,6 @@ Accomplishments" )]
   * BAE GSR Finalists with 1519 and 885 
   * BAE GSR Imagery Award 
 
-[[edit](/index.php?title=2791&action=edit&section=10 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -180,8 +178,6 @@ List" )]
   * Julie Millet (2009-2010) 
   * Chris Budrow (2008-2009) 
 
-[[edit](/index.php?title=2791&action=edit&section=17 "Edit section: Vice
-Presidents \(2010-11 and earlier\)" )]
 
 ### Vice Presidents (2010-11 and earlier)
 
@@ -204,8 +200,6 @@ Presidents \(2010-11 and earlier\)" )]
   * Akash Rastogi (2011 Mascot) - Drexel University (Mechanical Engineering) 
   * Ryan Fry (2011) - Drexel University (Computer Programming) 
 
-[[edit](/index.php?title=2791&action=edit&section=19 "Edit section: Mentors"
-)]
 
 ###  Mentors
 

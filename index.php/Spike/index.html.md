@@ -70,8 +70,6 @@ M+ and grounds M-. Likewise when it recieves a REV signal, it applies +12v to
 M- and grounds M+. When both signals are recieved, +12v is applied to M+ and
 M- and nothing is grounded.
 
-[[edit](/index.php?title=Spike&action=edit&section=2 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -92,8 +90,6 @@ simply ground the negative ends of the [solenoid](/index.php/Solenoid
 panel](/index.php/Breaker_panel "Breaker panel" ) and the positive ends to M+
 and M-.
 
-[[edit](/index.php?title=Spike&action=edit&section=5 "Edit section: Air
-Compressor" )]
 
 ### Air Compressor
 
@@ -106,8 +102,6 @@ the spike module's 20 amp fuse and replace it with a 20 amp circuit breaker to
 avoid nuisance blowing of the fuse when the spike module is used with an air
 compressor.
 
-[[edit](/index.php?title=Spike&action=edit&section=6 "Edit section: Pinout of
-Control Input" )]
 
 ### Pinout of Control Input
 

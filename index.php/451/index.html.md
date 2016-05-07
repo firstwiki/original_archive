@@ -58,8 +58,6 @@ projects" )]
 
   
 
-[[edit](/index.php?title=451&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -70,8 +68,6 @@ Accomplishments" )]
 
   * Dana/The Cat Attack 
 
-[[edit](/index.php?title=451&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

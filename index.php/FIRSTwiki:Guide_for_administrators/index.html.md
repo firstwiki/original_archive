@@ -70,8 +70,6 @@ n=2 "Edit section: Responsibilities" )]
 
 ## Responsibilities
 
-[[edit](/index.php?title=FIRSTwiki:Guide_for_administrators&action=edit&sectio
-n=3 "Edit section: Deleting pages" )]
 
 ### Deleting pages
 
@@ -80,8 +78,6 @@ page deleting seen on Wikipedia (2 or 3 different pages:suggesting, voting,
 deletion). Most deletions will be relatively obvious, but as always, _if you
 aren't absolutely sure, don't do it_.
 
-[[edit](/index.php?title=FIRSTwiki:Guide_for_administrators&action=edit&sectio
-n=4 "Edit section: Blocking users and dealing with vandalism" )]
 
 ### Blocking users and dealing with vandalism
 
@@ -112,8 +108,6 @@ appropriate help pages. When moving pages, make sure to follow the guidelines
 at [How to move a page](/index.php/FIRSTwiki:How_to_move_a_page "FIRSTwiki:How
 to move a page" ).
 
-[[edit](/index.php?title=FIRSTwiki:Guide_for_administrators&action=edit&sectio
-n=6 "Edit section: Site notice" )]
 
 ##  Site notice
 

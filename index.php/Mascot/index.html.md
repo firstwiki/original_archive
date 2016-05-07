@@ -64,8 +64,6 @@ expansion" ).
 For example for team 173 Rage Robotics the Mascot is a red Bulldog being as
 enthusiastic as possible.
 
-[[edit](/index.php?title=Mascot&action=edit&section=2 "Edit section: Mascots"
-)]
 
 # Mascots
 

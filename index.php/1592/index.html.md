@@ -110,8 +110,6 @@ Behold this year's latest phenomenon, Tony!
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=2 "Edit section: Team
-Websites" )]
 
 ## Team Websites
 
@@ -120,8 +118,6 @@ Website" )]
 
 ### [Team 1592 Website](http://www.team1592.org "http://www.team1592.org" )
 
-[[edit](/index.php?title=1592&action=edit&section=4 "Edit section: FIRST
-Website" )]
 
 ### [FIRST Website](http://www.usfirst.org "http://www.usfirst.org" )
 
@@ -190,8 +186,6 @@ Public Schools" )]
 
 ## Robots
 
-[[edit](/index.php?title=1592&action=edit&section=16 "Edit section: 2008:
-Overdrive" )]
 
 ### **2008: Overdrive**
 
@@ -282,8 +276,6 @@ autonomous mode (knock down hanging tetra), arm extends to 9', can stack up to
 [Game Info.](http://www.firstwiki.net/index.php/Triple_Play
 "http://www.firstwiki.net/index.php/Triple_Play" )
 
-[[edit](/index.php?title=1592&action=edit&section=20 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -320,8 +312,6 @@ High" )]
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=24 "Edit section: 2005:
-Triple Play \(Rookie Year\)" )]
 
 ### **2005: Triple Play (Rookie Year)**
 
@@ -330,8 +320,6 @@ Triple Play \(Rookie Year\)" )]
   * Top seeded Rookie Award in Championship in Atlanta, GA 
   * Quater-finalist in Archimedes Division in Atlanta, GA 
 
-[[edit](/index.php?title=1592&action=edit&section=25 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -352,8 +340,6 @@ Sponsors" )]
   * VA Paving 
   * [Walmart](http://www.walmart.com/ "http://www.walmart.com/" )
 
-[[edit](/index.php?title=1592&action=edit&section=28 "Edit section: Silver
-Sponsors" )]
 
 ### **Silver Sponsors**
 
@@ -406,8 +392,6 @@ electrical system, and autonomous mode programming.
 
   
 
-[[edit](/index.php?title=1592&action=edit&section=32 "Edit section:
-Computer/Multimedia Team" )]
 
 ### **Computer/Multimedia Team**
 
@@ -492,8 +476,6 @@ Advisors" )]
   * Kristina Smith (Alumni) 
   * Erica Young (Alumni) 
 
-[[edit](/index.php?title=1592&action=edit&section=37 "Edit section: Parent
-Booster Team" )]
 
 ### **Parent Booster Team**
 

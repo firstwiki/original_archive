@@ -136,8 +136,6 @@ _(incomplete List)_
   * [1657](/index.php?title=1657&action=edit "1657" ) Vilar International &amp; Mevoot Eron (Kibutz E'in Shemer, NORTHERN Israel) 
   * [1690](/index.php/1690 "1690" ) Rafael &amp; Ort Binyamina (Binyamina, NORTHERN Israel) 
 
-[[edit](/index.php?title=Israel_Regional&action=edit&section=2 "Edit section:
-For the 2006 FRC, Aim High, 26 teams from israel competed:" )]
 
 ### For the 2006 FRC, Aim High, 26 teams from israel competed:
 
@@ -168,8 +166,6 @@ For the 2006 FRC, Aim High, 26 teams from israel competed:" )]
   * [1956](/index.php?title=1956&action=edit "1956" ) Hoom El Phachem (Hoom El Phachem, Northern Israel) 
   * [1957](/index.php?title=1957&action=edit "1957" ) Nofey Golan (Katzerin, Northern Israel) 
 
-[[edit](/index.php?title=Israel_Regional&action=edit&section=3 "Edit section:
-For the 2007 FRC, Rack N' Roll, 34 teams from israel competed:" )]
 
 ### For the 2007 FRC, Rack N' Roll, 34 teams from israel competed:
 
@@ -210,8 +206,6 @@ For the 2007 FRC, Rack N' Roll, 34 teams from israel competed:" )]
 
   
 
-[[edit](/index.php?title=Israel_Regional&action=edit&section=4 "Edit section:
-External Links" )]
 
 ## External Links
 

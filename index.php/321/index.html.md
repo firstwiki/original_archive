@@ -58,8 +58,6 @@ Along with the [FIRST robotics competition](http://www.usfirst.org
 competition](http://www.bestinc.org "http://www.bestinc.org" ) as well as the
 [MATE ROV competition](http://www.materover.org "http://www.materover.org" ).
 
-[[edit](/index.php?title=321&action=edit&section=2 "Edit section: Team
-Projects" )]
 
 ## Team Projects
 
@@ -84,8 +82,6 @@ Projects" )]
 "http://www.drexel.edu/coe/" ), The Boeing Company, The Associated Alumni of
 Central High School, The Central High School Home &amp; School Association
 
-[[edit](/index.php?title=321&action=edit&section=5 "Edit section: Student
-Members" )]
 
 ## Student Members
 
@@ -96,8 +92,6 @@ Build/Robotic Design Crew" )]
 
   * \- 
 
-[[edit](/index.php?title=321&action=edit&section=7 "Edit section: Multimedia
-Crew" )]
 
 ### Multimedia Crew
 

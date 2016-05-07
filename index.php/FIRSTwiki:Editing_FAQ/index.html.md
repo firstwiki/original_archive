@@ -60,8 +60,6 @@ edit a page](http://www.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page
   * 4 See also  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=1 "Edit section: Other resources" )]
 
 ## Other resources
 
@@ -70,8 +68,6 @@ n=1 "Edit section: Other resources" )]
   * General policies in [FIRSTwiki:Policies and guidelines for contributors](/index.php/FIRSTwiki:Policies_and_guidelines_for_contributors "FIRSTwiki:Policies and guidelines for contributors" )
   * Page formats to follow in [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=2 "Edit section: General tips" )]
 
 ## General tips
 
@@ -116,8 +112,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
 
      `{{subst:format/game}}`
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=4 "Edit section: The wiki markup" )]
 
 ## The wiki markup
 
@@ -174,8 +168,6 @@ n=7 "Edit section: Character formatting" )]
   * Add _italics_ by using two apostrophes, ''like this'' 
   * For complex mathematical formulae, see [FIRSTwiki:TeX help](/index.php/FIRSTwiki:TeX_help "FIRSTwiki:TeX help" )
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=8 "Edit section: See also" )]
 
 ## See also
 

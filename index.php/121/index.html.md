@@ -48,8 +48,6 @@ Team Website: | <http://www.rhodewarrior.org>
 
   * History Example 
 
-[[edit](/index.php?title=121&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -68,8 +66,6 @@ projects" )]
   * [1998 - Rhode Warrior I](/index.php?title=121_in_1998&action=edit "121 in 1998" )
   * [1997 - AquaTred](/index.php?title=121_in_1997&action=edit "121 in 1997" )
 
-[[edit](/index.php?title=121&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

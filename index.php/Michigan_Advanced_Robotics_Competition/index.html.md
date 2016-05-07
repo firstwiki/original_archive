@@ -70,8 +70,6 @@ at Monroe High School in Monroe, Michigan.
 
   
 
-[[edit](/index.php?title=Michigan_Advanced_Robotics_Competition&action=edit&se
-ction=1 "Edit section: Years" )]
 
 ## Years
 
@@ -82,8 +80,6 @@ ction=2 "Edit section: Awards" )]
 
 ## Awards
 
-[[edit](/index.php?title=Michigan_Advanced_Robotics_Competition&action=edit&se
-ction=3 "Edit section: External links" )]
 
 ## External links
 

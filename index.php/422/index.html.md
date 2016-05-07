@@ -190,8 +190,6 @@ other people in the way.
 
 Also called Grunty.
 
-[[edit](/index.php?title=422&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -216,8 +214,6 @@ Accomplishments" )]
   * Basic Electric Sales Inc. 
   * Richmond Tooling 
 
-[[edit](/index.php?title=422&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

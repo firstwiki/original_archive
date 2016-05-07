@@ -72,8 +72,6 @@ Notable quotations" )]
 
   * "We're moving to the metric system inch-by-inch" (paraphrase) -- 2002 kickoff, when asked why the rules weren't in metric, like the rest of the world. 
 
-[[edit](/index.php?title=Dean_Kamen&action=edit&section=2 "Edit section: See
-also" )]
 
 ## See also
 

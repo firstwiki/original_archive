@@ -74,8 +74,6 @@ from capacitance to voltage, and you will get an accelerometer. There are even
 more methods, including use of the piezoresistive effect, hot air bubbles, and
 light.
 
-[[edit](/index.php?title=Accelerometer&action=edit&section=3 "Edit section:
-Examples" )]
 
 ## Examples
 
@@ -114,8 +112,6 @@ magnetic fields
 [![](/media/thumb/3/33/HallEffectAccel.gif/150px-
 HallEffectAccel.gif)](/index.php/Image:HallEffectAccel.gif "" )  
 
-[[edit](/index.php?title=Accelerometer&action=edit&section=5 "Edit section:
-Sources" )]
 
 ## Sources
 

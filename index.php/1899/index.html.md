@@ -48,8 +48,6 @@ Expanded yearly history should go into a team-year artical, see the
 for help.  
 ---  
   
-[[edit](/index.php?title=1899&action=edit&section=2 "Edit section: 2005-2006"
-)]
 
 ### 2005-2006
 
@@ -114,8 +112,6 @@ acquire funding and other resources before the build season.
 
   * Bezos Family Foundation 
 
-[[edit](/index.php?title=1899&action=edit&section=7 "Edit section: Leadership"
-)]
 
 ### Leadership
 

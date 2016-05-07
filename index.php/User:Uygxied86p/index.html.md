@@ -56,8 +56,6 @@ alternatively some transfer into borrowers?accounts. Related articles：
   * <http://wiki.melwil.net/wiki/User:Uygxied87b>
   * <http://www.luckypublishing.com/activity/p/70932/>
 
-[[edit](/index.php?title=User:Uygxied86p&action=edit&section=2 "Edit section:
-cheap jerseys w27W8g-k44KAPu-Qy29LY0" )]
 
 ##  cheap jerseys w27W8g-k44KAPu-Qy29LY0
 
@@ -118,8 +116,6 @@ Rs.1174. Related articles：
   * <http://www.iambo.com/blog/archives/2010/03/polaroid-of-the-week-03-22-10.html#comments>
   * <http://www.benvanzijl.nl/activity/p/103189/>
 
-[[edit](/index.php?title=User:Uygxied86p&action=edit&section=3 "Edit section:
-wholesale jerseys r86Ubp-s56PnZW-6r53QXx" )]
 
 ##  wholesale jerseys r86Ubp-s56PnZW-6r53QXx
 

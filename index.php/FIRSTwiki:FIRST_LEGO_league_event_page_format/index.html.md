@@ -26,8 +26,6 @@ _You can insert this by placing {{subst:format/FLL event}}, and saving._
   * 5 Results  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_event_page_format&action=
-edit&section=1 "Edit section: Details" )]
 
 ## Details
 
@@ -68,8 +66,6 @@ edit&section=4 "Edit section: History" )]
 
 **Suggest a narrative description of history and highlights.**
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_event_page_format&action=
-edit&section=5 "Edit section: Results" )]
 
 ## Results
 

@@ -62,8 +62,6 @@ Build" )]
 
 ## Build
 
-[[edit](/index.php?title=694_in_2002&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -78,8 +76,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=694_in_2002&action=edit&section=5 "Edit section: next
-Regional name" )]
 
 ### next Regional name
 
@@ -92,8 +88,6 @@ Robot" )]
 
 _General description of the robot"_
 
-[[edit](/index.php?title=694_in_2002&action=edit&section=7 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

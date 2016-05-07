@@ -90,8 +90,6 @@ Regional" )
   
 The **Brazil Pilot Regional** takes place in Porto Alegre, Brazil
 
-[[edit](/index.php?title=Brazil_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

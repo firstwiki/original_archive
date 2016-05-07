@@ -90,8 +90,6 @@ Regional" )
   
   
 
-[[edit](/index.php?title=FIRSTwiki:Competition_page_format&action=edit&section
-=1 "Edit section: History" )]
 
 ## History
 

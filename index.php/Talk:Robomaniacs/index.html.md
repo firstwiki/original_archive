@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Talk:Robomaniacs&action=edit&section=1 "Edit section:
-Welcome Robomaniacs!!" )]
 
 ## Welcome Robomaniacs!!
 

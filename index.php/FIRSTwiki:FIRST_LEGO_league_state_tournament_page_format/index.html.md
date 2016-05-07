@@ -60,16 +60,12 @@ regional tournaments held around the state. Winners of one of these awards
 (Directors, Performance, Research Project, Teamwork, Team Spirit) are eligible
 to advance.
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_official_tournament_page_
-format&action=edit&section=3 "Edit section: How to Register" )]
 
 ## How to Register
 
 Example: Registration is through the First Lego League Website and usually
 starts October 1.
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_official_tournament_page_
-format&action=edit&section=4 "Edit section: History" )]
 
 ## History
 

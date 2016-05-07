@@ -58,8 +58,6 @@ Bellarmine Prep Robotics Team, Tacoma WA, Founded in 1999,
 Founded in 1999. 30-40 active members. Wonderful sponsors. Senior team from
 Washington State!
 
-[[edit](/index.php?title=360&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -90,8 +88,6 @@ Accomplishments" )]
 
 <http://bprobotics.com/sponsors.htm>
 
-[[edit](/index.php?title=360&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

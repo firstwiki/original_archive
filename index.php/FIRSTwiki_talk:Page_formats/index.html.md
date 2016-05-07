@@ -10,8 +10,6 @@ the formats now and use them on thier team pages.
 [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 11:40, 19 September
 2007 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki_talk:Page_formats&action=edit&section=1
-"Edit section: Robot Page Format?" )]
 
 ## Robot Page Format?
 

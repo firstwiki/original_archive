@@ -94,8 +94,6 @@ collaborated with teams 22, 60 and 968.
   * Devastator - 2009 
   * Onslaught - 2010 
 
-[[edit](/index.php?title=254&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -52,8 +52,6 @@ districts to block inappropriate web content) categorized it as containing
   * [2005 - Jane Doe](/index.php/Jane_Doe_%281190%29 "Jane Doe \(1190\)" )
   * [2006 - BAMFR](/index.php/BAMFR_%281190%29 "BAMFR \(1190\)" )
 
-[[edit](/index.php?title=1190&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -66,8 +64,6 @@ Accomplishments" )]
 
   * Ray/TV/CCSF/N/L &amp; OHS 
 
-[[edit](/index.php?title=1190&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

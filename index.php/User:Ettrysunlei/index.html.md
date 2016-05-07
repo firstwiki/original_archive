@@ -196,8 +196,6 @@ louis vuitton outletE3p" )]
 [xtra= louis vuitton outlet]  
 [xtra= louis vuitton outlet]  
 
-[[edit](/index.php?title=User:Ettrysunlei&action=edit&section=5 "Edit section:
-to maintain their brand image" )]
 
 ##  to maintain their brand image
 
@@ -834,8 +832,6 @@ applic](http://www.sarasverden.com/forum/topic.php?id=40996&replies=1#post-436
 ), custom rectangular sticker printing and custom bumper sticker printing etc  
   
 
-[[edit](/index.php?title=User:Ettrysunlei&action=edit&section=8 "Edit section:
-concentrate on the music in class and try and enjoy that" )]
 
 ##  concentrate on the music in class and try and enjoy that
 
@@ -856,8 +852,6 @@ concentrate on the music in class and try and enjoy that" )]
     
     
 
-[[edit](/index.php?title=User:Ettrysunlei&action=edit&section=9 "Edit section:
-so the rate of interest would become a little high" )]
 
 ##  so the rate of interest would become a little high
 

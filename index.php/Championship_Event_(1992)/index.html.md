@@ -48,8 +48,6 @@ Xerox Corporation &amp; Joseph C. Wilson Magnet High School
 ([191](/index.php/191 "191" )) won the [Chairman's
 Award](/index.php/Chairman%27s_Award "Chairman's Award" ).
 
-[[edit](/index.php?title=Championship_Event_%281992%29&action=edit&section=1
-"Edit section: Teams" )]
 
 ##  Teams
 

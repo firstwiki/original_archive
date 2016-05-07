@@ -56,8 +56,6 @@ different signals through the output ports.
   * 3 Operator Interface Output  
 ---  
   
-[[edit](/index.php?title=Output&action=edit&section=1 "Edit section: Types of
-Output" )]
 
 ##  Types of Output
 
@@ -70,8 +68,6 @@ Analog output is a sent as a [PWM signal](/index.php/PWM_signal "PWM signal" )
 between 0 to 254 (the [RC](/index.php/Robot_Controller "Robot Controller" )
 **does not** use the 255 signal).
 
-[[edit](/index.php?title=Output&action=edit&section=3 "Edit section: Digital
-Output" )]
 
 ### Digital Output
 
@@ -82,8 +78,6 @@ Controller Output" )]
 
 ## Robot Controller Output
 
-[[edit](/index.php?title=Output&action=edit&section=5 "Edit section: Operator
-Interface Output" )]
 
 ## Operator Interface Output
 

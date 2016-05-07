@@ -20,8 +20,6 @@ These team pages don't use [Template:teamtable](/index.php/Template:Teamtable
   * 6 2500's  
 ---  
   
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_don%27t_use_teamtable&
-action=edit&section=1 "Edit section: 0000's" )]
 
 ##  0000's
 
@@ -142,8 +140,6 @@ action=edit&section=2 "Edit section: 0500's" )]
   * [998](/index.php/998 "998" )
   * [999](/index.php/999 "999" )
 
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_don%27t_use_teamtable&
-action=edit&section=3 "Edit section: 1000's" )]
 
 ##  1000's
 
@@ -444,8 +440,6 @@ action=edit&section=3 "Edit section: 1000's" )]
   * [1496](/index.php/1496 "1496" )
   * [1497](/index.php/1497 "1497" )
 
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_don%27t_use_teamtable&
-action=edit&section=4 "Edit section: 1500's" )]
 
 ##  1500's
 
@@ -500,8 +494,6 @@ action=edit&section=4 "Edit section: 1500's" )]
   * [1985](/index.php/1985 "1985" )
   * [1987](/index.php/1987 "1987" )
 
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_don%27t_use_teamtable&
-action=edit&section=5 "Edit section: 2000's" )]
 
 ##  2000's
 
@@ -544,8 +536,6 @@ action=edit&section=5 "Edit section: 2000's" )]
   * [2285](/index.php/2285 "2285" )
   * [2389](/index.php/2389 "2389" )
 
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_don%27t_use_teamtable&
-action=edit&section=6 "Edit section: 2500's" )]
 
 ##  2500's
 

@@ -98,8 +98,6 @@ Accomplishments" )]
 2009 - UL Industrial Safety Award  
 2009 - Motorola Quality Award  
 
-[[edit](/index.php?title=1319&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -112,8 +110,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1319&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

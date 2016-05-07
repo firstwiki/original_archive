@@ -98,8 +98,6 @@ top of the ramp to block oncoming traffic. At the end of the game, robots
 would hurry up to the platform, since for each robot entirely on the ramp, the
 alliance gets 25 points.
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=2 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -114,8 +112,6 @@ Rules" )]
 
 ## Rules
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=4 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -124,8 +120,6 @@ Robots" )]
 
 ## Robots
 
-[[edit](/index.php?title=Stack_Attack&action=edit&section=6 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 

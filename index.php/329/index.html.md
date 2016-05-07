@@ -52,8 +52,6 @@ website" )]
 
 team329.com
 
-[[edit](/index.php?title=329&action=edit&section=3 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -64,8 +62,6 @@ projects" )]
 
   * [2004 - ](/index.php?title=%28329%29&action=edit "\(329\)" )
 
-[[edit](/index.php?title=329&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -76,8 +72,6 @@ Accomplishments" )]
 
   * Pat-Med Robotics 
 
-[[edit](/index.php?title=329&action=edit&section=7 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -56,8 +56,6 @@ common drive train incarnations.
   * 3 See also  
 ---  
   
-[[edit](/index.php?title=Drive_train&action=edit&section=1 "Edit section: The
-Basics" )]
 
 ## The Basics
 
@@ -82,8 +80,6 @@ can take the form of either genuine closed loop software control (e.g. [PID
 feedback loop](/index.php/PID_feedback_loop "PID feedback loop" )), or an
 extensive [open loop](/index.php/Open_loop "Open loop" ) control system.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=2 "Edit section:
-Types of Drive Trains" )]
 
 ## Types of Drive Trains
 
@@ -126,8 +122,6 @@ trade-off is the increased wheel base can cause problems turning (when the
 wheel base exceeds the wheel width.) A good example is [587](/index.php/587
 "587" )'s '05 bot.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=5 "Edit section: Six
-Wheel Drive" )]
 
 ### Six Wheel Drive
 
@@ -166,8 +160,6 @@ radius makes it very difficult to maneuver in a corner.
 A good example of this type of drivetrain is the [612](/index.php/612 "612" )
 '05 bot.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=7 "Edit section:
-Swerve Drive" )]
 
 ### Swerve Drive
 
@@ -206,8 +198,6 @@ turning simultaneously, as well as point turning. However, the increasing
 weight and complexity of the latter two designs leads many teams to use the
 simpler _crab drive_.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=9 "Edit section:
-Holonomic Drive" )]
 
 ### Holonomic Drive
 
@@ -248,8 +238,6 @@ speeds. Mecanum is hard to understand without a picture, so
 [1595](/index.php?title=1595&action=edit "1595" ) robot in its incomplete
 state, showing the drivetrain quite clearly.
 
-[[edit](/index.php?title=Drive_train&action=edit&section=11 "Edit section:
-Tank Tread Drive" )]
 
 ### Tank Tread Drive
 
@@ -258,8 +246,6 @@ Other Drive Types" )]
 
 ### Other Drive Types
 
-[[edit](/index.php?title=Drive_train&action=edit&section=13 "Edit section: See
-also" )]
 
 ##  See also
 

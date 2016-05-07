@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:K80girlx3&action=edit&section=1 "Edit section:
-Contact" )]
 
 ##  Contact
 
@@ -18,8 +16,6 @@ Personal Website: [It's not really
 finished...](http://www.freewebs.com/k80girlx3
 "http://www.freewebs.com/k80girlx3" )  
 
-[[edit](/index.php?title=User:K80girlx3&action=edit&section=2 "Edit section:
-Resume" )]
 
 ##  Resume
 

@@ -62,8 +62,6 @@ Torque curve" )]
 
 ## Torque curve
 
-[[edit](/index.php?title=Window_motor&action=edit&section=3 "Edit section:
-Efficiency curve" )]
 
 ## Efficiency curve
 

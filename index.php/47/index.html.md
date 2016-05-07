@@ -40,8 +40,6 @@ Team 47, Chief Delphi, is a robotics team from Pontiac, MI. They are sponsored
 by Delphi and Daimler Chrysler. The team's motto is " Planning Today,
 Engineering Tomorrow"
 
-[[edit](/index.php?title=47&action=edit&section=1 "Edit section: 2007
-Competition Schedule" )]
 
 ## 2007 Competition Schedule
 
@@ -56,8 +54,6 @@ West Michigan Regional, Allendale, Michigan
 
 The Championship Event, Atlanta, Georgia
 
-[[edit](/index.php?title=47&action=edit&section=2 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -104,8 +100,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=47&action=edit&section=3 "Edit section: External
-Links" )]
 
 ## External Links
 

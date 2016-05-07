@@ -14,16 +14,12 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Rotary_actuator&action=edit&section=2 "Edit section:
-Air" )]
 
 ### Air
 
 Brass fittings can be connected onto both ends to apply pressure to the
 actuator.
 
-[[edit](/index.php?title=Rotary_actuator&action=edit&section=3 "Edit section:
-Load" )]
 
 ### Load
 

@@ -138,8 +138,6 @@ We await another tough challenge and are excited to tackle it... by Force.
   * [2005 - Blizzard VI](/index.php?title=Blizzard_%28188%29&action=edit "Blizzard \(188\)" )
   * [2006 - Blizzard VII](/index.php?title=Blizzard_%28188%29&action=edit "Blizzard \(188\)" )
 
-[[edit](/index.php?title=188&action=edit&section=6 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

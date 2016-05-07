@@ -58,8 +58,6 @@ MAX II - 2004, Competed at UTC New England Regional, PARC, Beantown Blitz
 MAX III - 2005, Won UTC New England Regional, 7th seed alliance captian at the
 Championship, Semi-finals at Beantown Blitz, competed at Team 166's mini-comp.  
 
-[[edit](/index.php?title=1071&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -68,8 +66,6 @@ Accomplishments" )]
 2005 National Quarterfinalist (alliance captain)  
 2005 Beantown Blitz semifinals  
 
-[[edit](/index.php?title=1071&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -80,8 +76,6 @@ Accomplishments" )]
   * ITW Corporation 
   * Oasis webhosting 
 
-[[edit](/index.php?title=1071&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -28,8 +28,6 @@ Current Topics" )]
 
 ## Current Topics
 
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=2 "Edit section:
-History" )]
 
 ## History
 
@@ -38,8 +36,6 @@ provide enough factual information to make a solid article. Accumulate sources
 and information about the history here that'll go into this section.
 [Boydean](/index.php/User:Boydean "User:Boydean" ) 23:05, 14 March 2010 (EDT)
 
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=3 "Edit section:
-Inspiration, Recognition, Science, and Technology Pages" )]
 
 ## Inspiration, Recognition, Science, and Technology Pages
 
@@ -66,8 +62,6 @@ Resolved/Old Topics" )]
 
 ## Resolved/Old Topics
 
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=5 "Edit section: Wrong
-page, Wrong name?" )]
 
 ### Wrong page, Wrong name?
 
@@ -96,8 +90,6 @@ are today."
 Any thoughts?-[PeterFll](/index.php/User:PeterFll "User:PeterFll" ) 08:41, 23
 Jun 2005 (EDT)
 
-[[edit](/index.php?title=Talk:FIRST&action=edit&section=6 "Edit section: Wrong
-Page" )]
 
 ###  Wrong Page
 

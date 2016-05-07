@@ -68,8 +68,6 @@ Beantown Blitz is an [off-season competition](/index.php/Off-
 season_competition "Off-season competition" ) held annually at [Northeastern
 University](http://www.neu.edu "http://www.neu.edu" ) in Boston, MA.
 
-[[edit](/index.php?title=Beantown_Blitz&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 

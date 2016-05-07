@@ -28,8 +28,6 @@ Jump to: navigation, search
   * 4 See Also  
 ---  
   
-[[edit](/index.php?title=Scouting&action=edit&section=1 "Edit section:
-Overview" )]
 
 ## Overview
 
@@ -154,8 +152,6 @@ to try and keep people happy:
 
   
 
-[[edit](/index.php?title=Scouting&action=edit&section=9 "Edit section: See
-Also" )]
 
 ## See Also
 

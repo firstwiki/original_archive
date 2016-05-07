@@ -34,8 +34,6 @@ characteristics and behaviors that are governed by
 characteristics is important for a team to choose the correct, most efficient
 motor to accomplish a given task.
 
-[[edit](/index.php?title=Motors&action=edit&section=1 "Edit section:
-Characteristics" )]
 
 ##  Characteristics
 

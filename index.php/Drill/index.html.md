@@ -16,8 +16,6 @@ various materials.
   * 3 External links  
 ---  
   
-[[edit](/index.php?title=Drill&action=edit&section=1 "Edit section: Overview"
-)]
 
 ##  Overview
 
@@ -34,8 +32,6 @@ against the target material and rotated. The tip of the drill bit does the
 work of cutting into the target material, slicing off thin shavings (twist
 drills or auger bits) or grinding off small particles (oil drilling).
 
-[[edit](/index.php?title=Drill&action=edit&section=2 "Edit section: Electric
-drill" )]
 
 ###  Electric drill
 
@@ -48,8 +44,6 @@ now give them variable speed, reversibility and [torque](/index.php/Torque
 "Torque" ) control. Many drills are also cordless and use rechargeable
 batteries.
 
-[[edit](/index.php?title=Drill&action=edit&section=3 "Edit section: Drill
-press" )]
 
 ###  Drill press
 
@@ -88,8 +82,6 @@ range. This makes selecting the correct spindle speed more likely.
   * Keep loose clothing away from the spinning parts 
   * Be mindful of hands and body parts, as the drill bit goes through hands as well as [aluminum](/index.php/Aluminum "Aluminum" )
 
-[[edit](/index.php?title=Drill&action=edit&section=5 "Edit section: External
-links" )]
 
 ##  External links
 

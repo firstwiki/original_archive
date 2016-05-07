@@ -58,8 +58,6 @@ Team 25 struggled through numerous design changes and even had to deal with a
 broken processor. Eventually, Raider Robotix completed their robot on the last
 day of the build season.
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -74,8 +72,6 @@ Jersey Regional" )]
   * Regional WFFA 
   * Regional Chairmans 
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=5 "Edit section: Las
-Vegas Regional" )]
 
 ### Las Vegas Regional
 
@@ -86,8 +82,6 @@ Vegas Regional" )]
 
   
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=6 "Edit section:
-Championships" )]
 
 ### Championships
 
@@ -96,8 +90,6 @@ Championships" )]
   * World Championship finalists 
   * Championship Delphi "Driving Tomorrow's Technology" Award 
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=7 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -126,8 +118,6 @@ Functions" )]
   * Servo brakes 
   * Compact shooter design 
 
-[[edit](/index.php?title=25_in_2006&action=edit&section=9 "Edit section: Robot
-Strategy" )]
 
 ### Robot Strategy
 

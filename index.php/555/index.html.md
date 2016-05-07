@@ -66,8 +66,6 @@ Team Website: | <http://www.montclairrobotics.com/>
   * 2006 - CCM 
   * 2007 - TPRBDDGP (The Partially Robotic Bulldog of Death, Destruction, and Gracious Professionalism) 
 
-[[edit](/index.php?title=555&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -80,8 +78,6 @@ Accomplishments" )]
   * Montclair Society of Engineers 
   * Montclair Fund For Educational Excellence 
 
-[[edit](/index.php?title=555&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

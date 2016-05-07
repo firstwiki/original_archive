@@ -32,8 +32,6 @@ TBA page](http://www.thebluealliance.net/tbatv/team.php?team=399
     * 6.2 Mentors  
 ---  
   
-[[edit](/index.php?title=399_FTC&action=edit&section=1 "Edit section: History"
-)]
 
 ## History
 
@@ -44,16 +42,12 @@ science, engineering, technology, business, media, and community relations.
 Through trusted, skilled advisors and mentors, the Eagle Robotics team is able
 to produce quality human beings who will forge the future of technology.
 
-[[edit](/index.php?title=399_FTC&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
 Build Robots, Play [Wii](http://wii.nintendo.com/ "http://wii.nintendo.com/"
 ).
 
-[[edit](/index.php?title=399_FTC&action=edit&section=3 "Edit section: Robots"
-)]
 
 ## Robots
 
@@ -76,8 +70,6 @@ Sponsors" )]
 
   * Rene Haro's Wallet 
 
-[[edit](/index.php?title=399_FTC&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

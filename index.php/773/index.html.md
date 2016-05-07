@@ -72,8 +72,6 @@ Accomplishments" )]
   * Siemens VDO 
   * Ford Motor Company 
 
-[[edit](/index.php?title=773&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

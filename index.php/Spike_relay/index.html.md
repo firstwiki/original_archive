@@ -62,8 +62,6 @@ M+ and grounds M-. Likewise when it recieves a REV signal, it applies +12v to
 M- and grounds M+. When both signals are recieved, +12v is applied to M+ and
 M- and nothing is grounded.
 
-[[edit](/index.php?title=Spike&action=edit&section=2 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -84,8 +82,6 @@ simply ground the negative ends of the [solenoid](/index.php/Solenoid
 panel](/index.php/Breaker_panel "Breaker panel" ) and the positive ends to M+
 and M-.
 
-[[edit](/index.php?title=Spike&action=edit&section=5 "Edit section: Air
-Compressor" )]
 
 ### Air Compressor
 
@@ -108,8 +104,6 @@ When the white wire is at +5V and the red wire is at 0V, M+ receives the full
 input voltage. When the red wire is at +5V and the white wire is at 0V, M-
 receives the full input voltage.
 
-[[edit](/index.php?title=Spike&action=edit&section=7 "Edit section: Spike Red"
-)]
 
 #  Spike Red
 

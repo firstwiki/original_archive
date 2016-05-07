@@ -66,8 +66,6 @@ team currently consists of 29 students, 6 engineers, 2 alumni, 4 parents, and
   * 1997 
   * 1996 
 
-[[edit](/index.php?title=33&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

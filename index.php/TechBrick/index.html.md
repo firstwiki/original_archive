@@ -34,8 +34,6 @@ Info](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=TechBrick
     * 5.2 Mentors  
 ---  
   
-[[edit](/index.php?title=TechBrick&action=edit&section=1 "Edit section:
-History" )]
 
 ##  History
 
@@ -58,16 +56,12 @@ clip.png)](/index.php/Image:TechBrick_Robot06.jpg "Enlarge" )
 
   
 
-[[edit](/index.php?title=TechBrick&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
   * 1st place at [Duel on the Delaware](/index.php?title=Duel_on_the_Delaware&action=edit "Duel on the Delaware" )
   * Innovate Award at NJ State Competition 
 
-[[edit](/index.php?title=TechBrick&action=edit&section=4 "Edit section:
-Sponsors" )]
 
 ##  Sponsors
 
@@ -90,8 +84,6 @@ Members List" )]
 
 ##  Members List
 
-[[edit](/index.php?title=TechBrick&action=edit&section=6 "Edit section:
-Students" )]
 
 ###  Students
 

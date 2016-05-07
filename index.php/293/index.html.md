@@ -98,8 +98,6 @@ FIRST Robotics and to create a primarily student-built (and functional) robot.
 [2007](http://293spike.webs.com/2010/index.html
 "http://293spike.webs.com/2010/index.html" )
 
-[[edit](/index.php?title=293&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

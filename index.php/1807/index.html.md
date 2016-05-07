@@ -252,8 +252,6 @@ Frc1807-2011.JPG)](/index.php/Image:Frc1807-2011.JPG "" )
 2012 Rebound Rumble [![](/media/thumb/8/8a/1807_2012_robot.JPG/150px-
 1807_2012_robot.JPG)](/index.php/Image:1807_2012_robot.JPG "" )
 
-[[edit](/index.php?title=1807&action=edit&section=5 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -312,8 +310,6 @@ Xpressions](http://www.laserxpressions.com/ "http://www.laserxpressions.com/"
 
 Thanks to all for enabling us to reach our goals!
 
-[[edit](/index.php?title=1807&action=edit&section=7 "Edit section: Members
-List" )]
 
 ##  Members List
 
@@ -338,8 +334,6 @@ Polytechnic Institute, Rochester Institute of Technology, Rutgers, Stevens
 Institute of Technology, TCNJ, and the US Air Force, and several having been
 recipients of FIRST scholarships ... way to go! You make us very proud!
 
-[[edit](/index.php?title=1807&action=edit&section=10 "Edit section: Mentors"
-)]
 
 ###  Mentors
 

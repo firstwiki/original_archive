@@ -16,8 +16,6 @@ t&section=1 "Edit section: 400s" )]
 
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=465 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=465" )[465](/index.php?title=465&action=edit "465" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=465 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=465" )
 
-[[edit](/index.php?title=User:Astronouth7303/Teams_that_need_a_page&action=edi
-t&section=2 "Edit section: 1500s" )]
 
 ##  1500s
 

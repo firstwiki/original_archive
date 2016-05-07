@@ -80,8 +80,6 @@ a subway in a canister. Only it turns out you can. If you drop by the Demeter
 Fragrance Library in Manhattan East Village, you can buy cologne in the scents
 of Pruning Shears, Laundromat or, indeed, Snow.
 
-[[edit](/index.php?title=User:Hs53vc9z&action=edit&section=2 "Edit section:
-louis vuitton handbags 26017" )]
 
 ##  louis vuitton handbags 26017
 
@@ -146,8 +144,6 @@ getting lost. Another great thing about shopping for the kids sunglasses
 online is that they won't cry for everything they see in the store, thus
 costing you more money..
 
-[[edit](/index.php?title=User:Hs53vc9z&action=edit&section=3 "Edit section:
-ugg boots outlet 24524" )]
 
 ##  ugg boots outlet 24524
 

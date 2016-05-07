@@ -52,8 +52,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # A
 
-[[edit](/index.php?title=Terminology&action=edit&section=2 "Edit section: B"
-)]
 
 # B
 
@@ -62,8 +60,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # C
 
-[[edit](/index.php?title=Terminology&action=edit&section=4 "Edit section: D"
-)]
 
 # D
 
@@ -72,8 +68,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # E
 
-[[edit](/index.php?title=Terminology&action=edit&section=6 "Edit section: F"
-)]
 
 # F
 
@@ -82,8 +76,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # G
 
-[[edit](/index.php?title=Terminology&action=edit&section=8 "Edit section: H"
-)]
 
 # H
 
@@ -92,8 +84,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # I
 
-[[edit](/index.php?title=Terminology&action=edit&section=10 "Edit section: J"
-)]
 
 # J
 
@@ -102,8 +92,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # K
 
-[[edit](/index.php?title=Terminology&action=edit&section=12 "Edit section: L"
-)]
 
 # L
 
@@ -112,8 +100,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # M
 
-[[edit](/index.php?title=Terminology&action=edit&section=14 "Edit section: N"
-)]
 
 # N
 
@@ -122,8 +108,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # O
 
-[[edit](/index.php?title=Terminology&action=edit&section=16 "Edit section: P"
-)]
 
 # P
 
@@ -132,8 +116,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # Q
 
-[[edit](/index.php?title=Terminology&action=edit&section=18 "Edit section: R"
-)]
 
 # R
 
@@ -144,8 +126,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # S
 
-[[edit](/index.php?title=Terminology&action=edit&section=20 "Edit section: T"
-)]
 
 # T
 
@@ -156,8 +136,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # U
 
-[[edit](/index.php?title=Terminology&action=edit&section=22 "Edit section: V"
-)]
 
 # V
 
@@ -166,8 +144,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # W
 
-[[edit](/index.php?title=Terminology&action=edit&section=24 "Edit section: X"
-)]
 
 # X
 
@@ -176,8 +152,6 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # Y
 
-[[edit](/index.php?title=Terminology&action=edit&section=26 "Edit section: Z"
-)]
 
 # Z
 

@@ -46,8 +46,6 @@ Challenge Pages" )]
   * [2000 - Volcanic Panic](/index.php/Volcanic_Panic "Volcanic Panic" )
   * [1999 - FIRST Contact](/index.php/FIRST_Contact "FIRST Contact" )
 
-[[edit](/index.php?title=FLL_Challenge&action=edit&section=2 "Edit section:
-External links" )]
 
 ##  External links
 

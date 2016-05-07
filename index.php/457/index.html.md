@@ -52,8 +52,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc457
 
   * History Example 
 
-[[edit](/index.php?title=457&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -64,8 +62,6 @@ projects" )]
 
   * [2004 - Ronkey Mobot](/index.php?title=Ronkey_Mobot_%28457%29&action=edit "Ronkey Mobot \(457\)" )
 
-[[edit](/index.php?title=457&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -94,8 +90,6 @@ South San Print Shop South San Building Trades South San Welding
   * Lockheed Martin 
   * Valero 
 
-[[edit](/index.php?title=457&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

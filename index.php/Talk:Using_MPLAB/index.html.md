@@ -20,8 +20,6 @@ MPLAB" )._
 _See also:_ [Programming the FRC](/index.php/Programming_the_FRC "Programming
 the FRC" ), [Software](/index.php/Software "Software" )
 
-[[edit](/index.php?title=Talk:Using_MPLAB&action=edit&section=1 "Edit section:
-Resources" )]
 
 ## Resources
 

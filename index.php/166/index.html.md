@@ -160,8 +160,6 @@ Accomplishments" )]
   * BAE 
   * Merrimack HS 
 
-[[edit](/index.php?title=166&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -82,8 +82,6 @@ Each team had one of it's balls start in each of the three positions (each on
 different ladders). Each human player started with 3 balls, and there were 3
 balls for each team on the ground between the ladders.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=2 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -100,8 +98,6 @@ The main tournament was double elimination, in which every team competed. The
 matches were 1v1v1 where the top scoring team was the winner and the other two
 lost. When it got down to the final 16 teams, the game switched to 1v1.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=4 "Edit section: Kit
-Of Parts" )]
 
 ## Kit Of Parts
 
@@ -120,8 +116,6 @@ Detaching parts from your robot and intentionally tipping were made illegal,
 due to the adverse changes in gameplay they made in [Toroid
 Terror](/index.php/Toroid_Terror "Toroid Terror" ).
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -130,8 +124,6 @@ the rest of your balls in the center column. Most teams spent their time
 filling up the center column, and only did anything with the ladders when the
 center column filled up.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -146,8 +138,6 @@ could be left wedged in the ladder, so it was much harder to knock off. Some
 roller configurations had the additional advantage of "sucking" balls out
 through the sides of the central goal to reduce opposing scores.
 
-[[edit](/index.php?title=Ladder_Logic&action=edit&section=8 "Edit section:
-Misc Info" )]
 
 ## Misc Info
 

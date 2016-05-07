@@ -38,8 +38,6 @@ article also discusses two potential placements for the variable
 assignments... Do you feel that this is unclear, or perhaps should be
 emphasized more? [Noah](/index.php/User:Noah "User:Noah" )
 
-[[edit](/index.php?title=Talk:Creating_a_dead_reckoning_algorithm&action=edit&
-section=1 "Edit section: Formatting C Code" )]
 
 ##  Formatting C Code
 

@@ -46,8 +46,6 @@ students involved in and excited about science and technology.
   * 4 External links  
 ---  
   
-[[edit](/index.php?title=FIRST&action=edit&section=1 "Edit section: Mission &
-Vision" )]
 
 ## Mission &amp; Vision
 
@@ -56,8 +54,6 @@ Vision" )]
 
     "To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders." -- [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" ), Founder[[1]](http://usfirst.org/aboutus/content.aspx?id=34 "http://usfirst.org/aboutus/content.aspx?id=34" )
 
-[[edit](/index.php?title=FIRST&action=edit&section=3 "Edit section: Mission"
-)]
 
 ### Mission
 
@@ -82,8 +78,6 @@ difficulty.
   * [Junior FIRST LEGO League](/index.php/JFLL "JFLL" )
   * [FIRST Collegiate Challenge (Pilot Year)](/index.php/FIRST_Collegiate "FIRST Collegiate" )
 
-[[edit](/index.php?title=FIRST&action=edit&section=5 "Edit section:
-International" )]
 
 ## International
 
@@ -98,8 +92,6 @@ United Arab Emirates, the United Kingdom, and the United States.
 However, only Brazil, Canada, Israel, Mexico, the Netherlands, the United
 Kingdom, and the United States have [FRC](/index.php/FRC "FRC" ) teams.
 
-[[edit](/index.php?title=FIRST&action=edit&section=6 "Edit section: External
-links" )]
 
 ## External links
 

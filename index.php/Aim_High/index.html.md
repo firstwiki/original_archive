@@ -54,8 +54,6 @@ Index of FRC Games
   * 7 Sources  
 ---  
   
-[[edit](/index.php?title=Aim_High&action=edit&section=1 "Edit section: Game
-Description" )]
 
 ## Game Description
 
@@ -84,8 +82,6 @@ corner goals; 10 bonus points for scoring the highest in the autonomous round;
 and 25 points for placing all 3 robots on the platform at the end (10 for 2
 and 5 for 1).
 
-[[edit](/index.php?title=Aim_High&action=edit&section=2 "Edit section: Game
-Hint" )]
 
 ### Game Hint
 
@@ -134,8 +130,6 @@ clip.png)](/index.php/Image:ARENA06.jpg "Enlarge" )
 
 ARENA '06
 
-[[edit](/index.php?title=Aim_High&action=edit&section=4 "Edit section:
-Alliance Station" )]
 
 ### Alliance Station
 
@@ -150,8 +144,6 @@ station, there are two rectangular holes (the corner goals) through which
 balls can be scored. In front of each alliance station there is a raised
 platform.
 
-[[edit](/index.php?title=Aim_High&action=edit&section=5 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 

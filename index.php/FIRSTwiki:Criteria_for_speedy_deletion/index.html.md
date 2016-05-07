@@ -72,8 +72,6 @@ People sometimes use abbreviations to refer to these criteria (e.g. "A3"
 meaning _articles, criterion 3_), but for the sake of clarity this is not
 recommended.
 
-[[edit](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=edit&se
-ction=2 "Edit section: General criteria" )]
 
 ###  General criteria
 
@@ -116,8 +114,6 @@ deletion](http://www.wikipedia.org/wiki/Proposed_deletion
 
     
 
-[[edit](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=edit&se
-ction=4 "Edit section: Redirects" )]
 
 ###  Redirects
 
@@ -150,8 +146,6 @@ discussion](http://www.wikipedia.org/wiki/Categories_for_discussion
     5. [Abbreviation expanding for country names](http://www.wikipedia.org/wiki/Naming_conventions_%28categories%29#How_to_name_the_country "wikipedia:Naming_conventions_\(categories\)" ), e.g. changing "U.S." to "United States" 
   3. **Template categories**. If a category is solely populated from a template and the template is deleted per deletion policy, the category can also be deleted without further discussion. 
 
-[[edit](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=edit&se
-ction=6 "Edit section: User pages" )]
 
 ###  User pages
 
@@ -192,8 +186,6 @@ deletion](http://www.wikipedia.org/wiki/Miscellany_for_deletion
   1. Any topic that would be subject to speedy deletion as an Article. 
   2. Any Portal based on a topic for which there is not a non-stub header article, and at least **three** non-stub articles detailing subject matter that would be appropriate to discuss under the title of that Portal. 
 
-[[edit](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=edit&se
-ction=9 "Edit section: Non-criteria" )]
 
 ##  Non-criteria
 

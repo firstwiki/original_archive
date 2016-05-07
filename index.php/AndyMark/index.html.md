@@ -12,8 +12,6 @@ have included [mecanum wheels](/index.php/Mecanum_wheel "Mecanum wheel" ),
 [dongles](/index.php?title=Dongle&action=edit "Dongle" ), battery plugs, and
 gearboxes.
 
-[[edit](/index.php?title=AndyMark&action=edit&section=1 "Edit section:
-External links" )]
 
 ##  External links
 

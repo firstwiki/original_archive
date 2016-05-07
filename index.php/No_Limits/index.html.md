@@ -48,8 +48,6 @@ robot game, a robot designed by the team and built entirely from Lego
 Mindstorms kits and Lego pieces had to autonomously complete the missions on
 the board. Each mission has a specific point value.
 
-[[edit](/index.php?title=No_Limits&action=edit&section=2 "Edit section: The
-Project" )]
 
 ## The Project
 

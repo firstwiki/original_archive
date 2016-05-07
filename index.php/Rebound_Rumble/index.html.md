@@ -72,8 +72,6 @@ Game Overview" )]
 
 ## Game Overview
 
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=2 "Edit section:
-Field" )]
 
 ### Field
 
@@ -82,8 +80,6 @@ Game Play" )]
 
 ### Game Play
 
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=4 "Edit section:
-Scoring" )]
 
 ### Scoring
 
@@ -92,8 +88,6 @@ Competition Schedule" )]
 
 ## Competition Schedule
 
-[[edit](/index.php?title=Rebound_Rumble&action=edit&section=6 "Edit section:
-References" )]
 
 ## References
 

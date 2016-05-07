@@ -30,8 +30,6 @@ of parts" ).
 
   * [Drill motor](/index.php/Drill_motor "Drill motor" ) \- up to 2004 
 
-[[edit](/index.php?title=Obsolete_parts&action=edit&section=1 "Edit section:
-See Also" )]
 
 ## See Also
 

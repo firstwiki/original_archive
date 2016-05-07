@@ -222,8 +222,6 @@ quer](http://businessatworld.co.cc/index.php?p=blogs/viewstory/366150
 1Cx](http://www.sspares.com/qa/mulberry-handbags-13863/#comment-6294
 "http://www.sspares.com/qa/mulberry-handbags-13863/#comment-6294" )
 
-[[edit](/index.php?title=User:YGfGr59&action=edit&section=6 "Edit section:
-7100 6SZ" )]
 
 ##  7100 6SZ
 
@@ -776,8 +774,6 @@ ds_something_big" ), they forget one key factor that I use and helps make me
 very successfull  
   
 
-[[edit](/index.php?title=User:YGfGr59&action=edit&section=9 "Edit section:
-Diamonds which are yellow and offwhite have lower value than" )]
 
 ##  Diamonds which are yellow and offwhite have lower value than
 
@@ -798,8 +794,6 @@ Diamonds which are yellow and offwhite have lower value than" )]
     
     
 
-[[edit](/index.php?title=User:YGfGr59&action=edit&section=10 "Edit section:
-You all have had a fantastic guest star standing She previou" )]
 
 ##  You all have had a fantastic guest star standing She previou
 

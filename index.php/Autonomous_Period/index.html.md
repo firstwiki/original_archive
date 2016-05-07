@@ -32,8 +32,6 @@ included opportunities for [sensors](/index.php/Sensors "Sensors" ) such as a
 camera or IR remote although teams still have the ability to do what they wish
 in autonomous as long as they are not limited by the rules.
 
-[[edit](/index.php?title=Autonomous_mode&action=edit&section=2 "Edit section:
-See Also" )]
 
 ## See Also
 
@@ -42,8 +40,6 @@ See Also" )]
   * [Dead Reckoning](/index.php/Dead_reckoning "Dead reckoning" )
   * [Control System](/index.php/Control_system "Control system" )
 
-[[edit](/index.php?title=Autonomous_mode&action=edit&section=3 "Edit section:
-External Links" )]
 
 ## External Links
 

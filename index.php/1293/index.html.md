@@ -70,8 +70,6 @@ Accomplishments" )]
 
   * [2004](/index.php/1293_in_2004 "1293 in 2004" )
 
-[[edit](/index.php?title=1293&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -86,8 +84,6 @@ Accomplishments" )]
   * [Irmo High School](http://www.lex5.k12.sc.us/ihs/ "http://www.lex5.k12.sc.us/ihs/" )
   * [Dutch Fork High School](http://www.lex5.k12.sc.us/dfhs/ "http://www.lex5.k12.sc.us/dfhs/" )
 
-[[edit](/index.php?title=1293&action=edit&section=6 "Edit section: Mentor
-List" )]
 
 ## Mentor List
 
@@ -100,16 +96,12 @@ List" )]
   * Meyer Moore 
   * Wayne Lamon 
 
-[[edit](/index.php?title=1293&action=edit&section=8 "Edit section: Teachers"
-)]
 
 ### Teachers
 
   * Sandi Orr, Dutch Fork 
   * Stephen Orr, Irmo 
 
-[[edit](/index.php?title=1293&action=edit&section=9 "Edit section: Students"
-)]
 
 ### Students
 

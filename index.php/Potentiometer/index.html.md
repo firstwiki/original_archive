@@ -42,8 +42,6 @@ See also" )]
   * [Electronics and circuitry](/index.php/Electronics_and_circuitry "Electronics and circuitry" )
   * [Electronics rules](/index.php?title=Electronics_rules&action=edit "Electronics rules" )
 
-[[edit](/index.php?title=Potentiometer&action=edit&section=2 "Edit section:
-Resources" )]
 
 ##  Resources
 

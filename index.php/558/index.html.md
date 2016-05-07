@@ -72,8 +72,6 @@ to attend the 2007 Championship Event in Atlanta, GA, where the team finished
 15th out of 87 robots in the Curie Division and was selected as a quarter
 finalist.
 
-[[edit](/index.php?title=558&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -92,8 +90,6 @@ projects" )]
   * [2007 - C.R.A.S.H. VII](/index.php?title=558_in_2007&action=edit "558 in 2007" )
   * [2008 - Phoenix](/index.php/Phoenix_%28558%29 "Phoenix \(558\)" )
 
-[[edit](/index.php?title=558&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -150,8 +146,6 @@ List" )]
   * Mark N. 
   * Patrick P. 
 
-[[edit](/index.php?title=558&action=edit&section=10 "Edit section: Sophomores"
-)]
 
 #### Sophomores
 
@@ -162,8 +156,6 @@ List" )]
   * Rohit G. 
   * Lynette P. 
 
-[[edit](/index.php?title=558&action=edit&section=11 "Edit section: Freshman"
-)]
 
 #### Freshman
 

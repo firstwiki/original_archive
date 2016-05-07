@@ -58,8 +58,6 @@ mat&action=edit&section=3 "Edit section: History" )]
 
 **Suggest a narrative description of history and highlights.**
 
-[[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_local_tournament_page_for
-mat&action=edit&section=4 "Edit section: Results" )]
 
 ## Results
 

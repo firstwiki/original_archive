@@ -66,8 +66,6 @@ sales dropped 4%, fell to $15.1 billion, but overall retail market real growth
 to 4.2%, to $112.3 billion. (0)  
 _
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=2 "Edit section:
-Barneys-boutique-invited-Agyness-cross-border-design" )]
 
 ##  Barneys-boutique-invited-Agyness-cross-border-design
 
@@ -238,8 +236,6 @@ Related articles:
   * [Group is more](http://wiki.classdrive.net/index.php/User:Vivianllib#Group_is_more "http://wiki.classdrive.net/index.php/User:Vivianllib#Group_is_more" )
   * [p away arrived on the scene](http://bluejoe.csdb.cn/index.php/User:Vivianllil#p_away_arrived_on_the_scene "http://bluejoe.csdb.cn/index.php/User:Vivianllil#p_away_arrived_on_the_scene" )
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=5 "Edit section:
-have double very thoroughly" )]
 
 ##  have double very thoroughly
 
@@ -338,8 +334,6 @@ certain places to visit. . Don_t get about the brand value of hesitation, you
 only want to buy the latest Louis vuitton handbags in the concept of the
 Internet. . They to packing has good quality and a better deal. Reference.  
 
-[[edit](/index.php?title=User:Vivianllin&action=edit&section=7 "Edit section:
-people may not need a bag" )]
 
 ##  people may not need a bag
 

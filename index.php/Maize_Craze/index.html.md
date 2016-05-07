@@ -76,8 +76,6 @@ layer of corn kernels. 150 scoring objects (tennis balls) were placed in the
 center of the field. Additionally, two 25 and two 10 point balls were on posts
 (36 inches high) in the corners of the field.
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=2 "Edit section: Game
-Description" )]
 
 ## Game Description
 
@@ -90,16 +88,12 @@ Tournament Structure" )]
 
 ## Tournament Structure
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=4 "Edit section: Kit
-Of Parts" )]
 
 ## Kit Of Parts
 
   * Robots were tethered for control. 
   * A dot matrix printer was included in the Kit of Parts until 1995. 
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -114,8 +108,6 @@ clip.png)](/index.php/Image:Comp1992.jpg "Enlarge" )
 
   * Weight limit was 11kg (22.4 lbs) 
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -124,8 +116,6 @@ Robots" )]
 
 ## Robots
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=8 "Edit section: Misc
-Info" )]
 
 ## Misc Info
 
@@ -136,8 +126,6 @@ the 1992 FIRST Competition and its impacts on students.
 [[1]](http://video.google.com/videoplay?docid=-147783057553890710
 "http://video.google.com/videoplay?docid=-147783057553890710" )
 
-[[edit](/index.php?title=Maize_Craze&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

@@ -18,8 +18,6 @@ Kevin Watson is a programmer who works for NASA Jet Propulsion Laboratories
 and is the one who develops the Default Code for FIRST Robotics. His website
 is <http://kevin.org/frc/>, a code repository for VEX and FRC.
 
-[[edit](/index.php?title=Kevin_Watson&action=edit&section=1 "Edit section:
-Criticisms" )]
 
 ## Criticisms
 
@@ -28,8 +26,6 @@ the generate_pwms function in the default code. His new function has been seen
 not to work in robots, often making dead zones go haywire and forcing pwms to
 go at full blast when placed slightly past their dead zones.
 
-[[edit](/index.php?title=Kevin_Watson&action=edit&section=2 "Edit section:
-Random Facts" )]
 
 ## Random Facts
 

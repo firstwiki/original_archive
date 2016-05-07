@@ -64,8 +64,6 @@ School in San Jose, CA. We are currently mentoring 2 FLL teams composed of
 students from our local middle school, Miller M.S., and a collaboration of
 students from several local elementary schools.
 
-[[edit](/index.php?title=846&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -102,8 +100,6 @@ MG_0490.jpg)"
 
   
 
-[[edit](/index.php?title=846&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -150,8 +146,6 @@ Accomplishments" )]
   * Sun Microsystems 
   * San Jose State University 
 
-[[edit](/index.php?title=846&action=edit&section=9 "Edit section: Honorable
-Mention:" )]
 
 ### Honorable Mention:
 
@@ -160,8 +154,6 @@ Mention:" )]
   * Eagle Tree Systems 
   * BristleCone 
 
-[[edit](/index.php?title=846&action=edit&section=10 "Edit section: Active
-Members List" )]
 
 ## Active Members List
 

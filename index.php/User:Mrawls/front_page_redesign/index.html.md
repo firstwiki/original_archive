@@ -48,8 +48,6 @@ Raising the Bar" ) - [Modifying a servo](/index.php/Modifying_a_servo
   
   
 
-[[edit](/index.php?title=User:Mrawls/front_page_redesign&action=edit&section=2
-"Edit section: What's happening now" )]
 
 ### What's happening now
 

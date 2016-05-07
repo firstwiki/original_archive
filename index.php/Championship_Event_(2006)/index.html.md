@@ -56,8 +56,6 @@ are finalists.
 
 ##  Newton
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=2
-"Edit section: Rankings" )]
 
 ###  Rankings
 
@@ -80,8 +78,6 @@ Captain | Partners
 
 ##  Archimedes
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=5
-"Edit section: Rankings" )]
 
 ###  Rankings
 
@@ -104,8 +100,6 @@ Captain | Partners
 
 ##  Galileo
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=8
-"Edit section: Rankings" )]
 
 ###  Rankings
 
@@ -128,8 +122,6 @@ Captain | Partners
 
 ##  Curie
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=11
-"Edit section: Rankings" )]
 
 ###  Rankings
 
@@ -152,8 +144,6 @@ Captain | Partners
 
 ##  Einstein
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=14
-"Edit section: Alliances" )]
 
 ###  Alliances
 
@@ -164,8 +154,6 @@ Archimedes |  |  |
 Galileo |  |  |  
 Curie |  |  |  
   
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=15
-"Edit section: Awards" )]
 
 ##  Awards
 
@@ -274,8 +262,6 @@ Award" )
 
      [1885](/index.php/1885 "1885" )
 
-[[edit](/index.php?title=Championship_Event_%282006%29&action=edit&section=16
-"Edit section: Sources" )]
 
 ##  Sources
 

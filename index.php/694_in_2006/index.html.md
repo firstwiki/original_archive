@@ -38,8 +38,6 @@ _Aim low and score high._
     * 3.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=694_in_2006&action=edit&section=1 "Edit section:
-Build" )]
 
 ## Build
 
@@ -74,8 +72,6 @@ all of this, we were still incapable of climbing the ramp, and since the
 central two wheels had been inserted for balance and thus were not powered, we
 removed them, leaving us with our truly final design.
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=2 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -94,8 +90,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=694_in_2006&action=edit&section=4 "Edit section: UTC
-Connecticut Regional Competition" )]
 
 ### UTC Connecticut Regional Competition
 

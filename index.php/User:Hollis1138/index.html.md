@@ -22,8 +22,6 @@ I am **Hollis1138**. If I forget to login, I am often seen as [208.29.195.106]
 195.106 "http://www.firstwiki.org/index.php?title=Special:Contributions&target
 =208.29.195.106" ).
 
-[[edit](/index.php?title=User:Hollis1138&action=edit&section=1 "Edit section:
-To do" )]
 
 ###  To do
 
@@ -36,8 +34,6 @@ To do" )]
   * [Templates](/index.php/Category:Templates "Category:Templates" )
   * [Candidates for speedy deletion](/index.php/Category:Candidates_for_speedy_deletion "Category:Candidates for speedy deletion" )
 
-[[edit](/index.php?title=User:Hollis1138&action=edit&section=2 "Edit section:
-See also" )]
 
 ###  See also
 

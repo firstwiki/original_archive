@@ -54,8 +54,6 @@ starts October 1.
 
 **Suggest a narrative description of history and highlights.**
 
-[[edit](/index.php?title=Template:Format/Fllstateevent&action=edit&section=5
-"Edit section: Results" )]
 
 ## Results
 

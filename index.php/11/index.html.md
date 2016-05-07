@@ -328,8 +328,6 @@ Manager" )]
 
   * David Bodmer, Mount Olive High School 
 
-[[edit](/index.php?title=11&action=edit&section=33 "Edit section: Technical
-Manager" )]
 
 ### Technical Manager
 
@@ -342,8 +340,6 @@ Inventor \(Design Team\)" )]
 
   * George H. Ackley 
 
-[[edit](/index.php?title=11&action=edit&section=35 "Edit section: Electrical"
-)]
 
 ### Electrical
 
@@ -356,16 +352,12 @@ Effectors" )]
 
   * Sal Dicola 
 
-[[edit](/index.php?title=11&action=edit&section=37 "Edit section: Drive Train"
-)]
 
 ### Drive Train
 
   * Mike Van Glahn 
   * Lou Okrent 
 
-[[edit](/index.php?title=11&action=edit&section=38 "Edit section: Programming"
-)]
 
 ### Programming
 
@@ -378,8 +370,6 @@ Development" )]
 
   * Sub-group disbanded 
 
-[[edit](/index.php?title=11&action=edit&section=40 "Edit section: 3D Studio
-Max Animation" )]
 
 ### 3D Studio Max Animation
 
@@ -392,8 +382,6 @@ Documentation" )]
 
   * Marie Clark, Mt. Olive High School 
 
-[[edit](/index.php?title=11&action=edit&section=42 "Edit section: Special
-Mention/Past Mentors" )]
 
 ### Special Mention/Past Mentors
 

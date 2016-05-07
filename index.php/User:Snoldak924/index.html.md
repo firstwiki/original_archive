@@ -4,16 +4,12 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=User:Snoldak924&action=edit&section=1 "Edit section:
-Who am I" )]
 
 ## Who am I
 
 I am Sam Oldak, the webmaster/photographer of team [1389](/index.php/1389
 "1389" ). Basically anything where if I mess up, I can delete it.
 
-[[edit](/index.php?title=User:Snoldak924&action=edit&section=2 "Edit section:
-Contact" )]
 
 ## Contact
 

@@ -172,8 +172,6 @@ Deer Park Invitational 2008 semi finals (bottom)
 
   
 
-[[edit](/index.php?title=564&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

@@ -56,8 +56,6 @@ fundraised almost every day for a month and raised the necessary $15,000 to
 get there. The team was in the Archimedes divison and due to robot error
 finished 76 out of 85 in that division.
 
-[[edit](/index.php?title=350&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -68,8 +66,6 @@ projects" )]
 
   * [2004 - ](/index.php?title=%28350%29&action=edit "\(350\)" )
 
-[[edit](/index.php?title=350&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

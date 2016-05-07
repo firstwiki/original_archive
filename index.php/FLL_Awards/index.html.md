@@ -58,8 +58,6 @@ Technical Awards" )]
 
 ## Technical Awards
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=3 "Edit section: Robot
-Design Awards" )]
 
 ### Robot Design Awards
 
@@ -74,8 +72,6 @@ Performance Award" )]
 
 Given to the team with the high score in the Robot Game.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=5 "Edit section: Team
-Performance Awards" )]
 
 ## Team Performance Awards
 
@@ -88,16 +84,12 @@ These awards are given to the teams whose project reflect quality research,
 innovative solutions and creative presentation. Larger tournaments may have
 three categories of awards. Smaller tournaments may just have one.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=7 "Edit section:
-Teamwork Award" )]
 
 ### Teamwork Award
 
 Given to the team that best reflects enthusiasm, partnership, and respect
 within their team.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=8 "Edit section:
-Special Recognition Awards" )]
 
 ## Special Recognition Awards
 
@@ -108,24 +100,18 @@ Outstanding Volunteer Award" )]
 
 To honor outstanding volunteers
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=10 "Edit section:
-Adult Coach/Mentor Award" )]
 
 ### Adult Coach/Mentor Award
 
 To award an adult coach or mentor whose influence was most obvious in the
 judges conversations with the team.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=11 "Edit section:
-Young Adult Coach/Mentor Award" )]
 
 ### Young Adult Coach/Mentor Award
 
 To award a young adult (high school through college) coach or mentor whose
 influence was most obvious in the judges conversations with the team.
 
-[[edit](/index.php?title=FLL_Awards&action=edit&section=12 "Edit section:
-Judges Awards" )]
 
 ## Judges Awards
 

@@ -90,8 +90,6 @@ Previous Challenges" )]
 
 2011 Pilot year
 
-[[edit](/index.php?title=FIRST_Collegiate&action=edit&section=7 "Edit section:
-External Links" )]
 
 ##  External Links
 

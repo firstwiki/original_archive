@@ -118,8 +118,6 @@ the original look of the site.
   * 2007 - E-Wing 
   * 2008 - Reign of Terror 
 
-[[edit](/index.php?title=151&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -202,8 +200,6 @@ Accomplishments" )]
   * [Bawls](http://www.bawls.com "http://www.bawls.com" )
   * [Quantum Research Group](http://www.qprox.com/ "http://www.qprox.com/" )
 
-[[edit](/index.php?title=151&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -276,8 +272,6 @@ Leads" )]
     * Dave Sydow 
     * Christopher Palie 
 
-[[edit](/index.php?title=151&action=edit&section=9 "Edit section: Faculty
-Mentors/Staff" )]
 
 ### Faculty Mentors/Staff
 
@@ -302,8 +296,6 @@ Mentors/Staff" )]
     * Alan Hallee 
     * Victoria Payne 
 
-[[edit](/index.php?title=151&action=edit&section=10 "Edit section: External
-Links" )]
 
 ## External Links
 

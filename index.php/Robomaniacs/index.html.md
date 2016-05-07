@@ -76,8 +76,6 @@ European Championships. There was a total of 52 teams from all over the world
 that competed in this event. The team worked hard and diligently at it and the
 results were firm seventh. They did very well and they showed great team work.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=2 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -92,8 +90,6 @@ Current Year Events Attended" )]
 
 ## Current Year Events Attended
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=4 "Edit section:
-Maryland State qualifier" )]
 
 ### Maryland State qualifier
 
@@ -104,8 +100,6 @@ performance scores on the table, the team was in the top 4 in all other
 judging areas. This performance gave the team 1 of the 10 qualifying spots for
 the state finals in January.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=5 "Edit section:
-Maryland State Finals" )]
 
 ### Maryland State Finals
 
@@ -118,8 +112,6 @@ points that day. The team also received call-backs for both their research and
 technical presentations. At the award ceremony, the team received the
 Director's Award as Maryland state champions.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=6 "Edit section: Boys
-& Girls Clubs of America - FLL National Championship" )]
 
 ### Boys &amp; Girls Clubs of America - FLL National Championship
 
@@ -130,8 +122,6 @@ this event. After a day in the Disney parks, the teams returned to the Rosen
 Center hotel for this event. In addition to the Robot Performance award, the
 team took their second Director's Award of the season.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=7 "Edit section:
-FIRST LEGO League World Festival" )]
 
 ### FIRST LEGO League World Festival
 
@@ -144,8 +134,6 @@ seemed to be well received by the judges. We had resigned ourselves to not
 taking an award when the team was called as the Director's Award winners for
 the event.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=8 "Edit section:
-Lansdale Warm-up Competition" )]
 
 ### Lansdale Warm-up Competition
 
@@ -182,8 +170,6 @@ the RoboManiacs took the Robot Performance award for the tournament.
 With a strong showing in the Technical area, the team also was awarded the top
 ranking in that category.
 
-[[edit](/index.php?title=Robomaniacs&action=edit&section=11 "Edit section:
-European Championship" )]
 
 ### European Championship
 

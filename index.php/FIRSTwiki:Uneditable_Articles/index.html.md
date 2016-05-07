@@ -44,8 +44,6 @@ please add that page to the list below. Also add the **{{FIRSTwiki
 uneditable}}** tag anywhere in the article you are adding (if the page allows
 you to, provided the glitch doesn't disallow it).
 
-[[edit](/index.php?title=FIRSTwiki:Uneditable_Articles&action=edit&section=1
-"Edit section: Non-editable Articles for Some Users" )]
 
 ### Non-editable Articles for Some Users
 

@@ -124,8 +124,6 @@ Accomplishments" )]
   * P&amp;G Gillette 
   * Quincy Public Schools 
 
-[[edit](/index.php?title=69&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 
@@ -194,16 +192,12 @@ Accomplishments" )]
   * A.J. Priscella 
   * Paul Rochetau 
 
-[[edit](/index.php?title=69&action=edit&section=11 "Edit section: Class of
-2006" )]
 
 ##### Class of 2006
 
   * Josh Clancy 
   * Nate Schow 
 
-[[edit](/index.php?title=69&action=edit&section=12 "Edit section: Class of
-2005" )]
 
 ##### Class of 2005
 
@@ -212,8 +206,6 @@ Accomplishments" )]
   * Jean Richard 
   * Fred Smith 
 
-[[edit](/index.php?title=69&action=edit&section=13 "Edit section: Class of
-2004" )]
 
 ##### Class of 2004
 
@@ -222,8 +214,6 @@ Accomplishments" )]
   * Tom Chernicki 
   * Matt Schow 
 
-[[edit](/index.php?title=69&action=edit&section=14 "Edit section: Class of
-2003" )]
 
 ##### Class of 2003
 
@@ -252,8 +242,6 @@ Accomplishments" )]
   * William Chiu-Kit Wong 
   * Kevin Zhang 
 
-[[edit](/index.php?title=69&action=edit&section=16 "Edit section: Class of
-2001" )]
 
 ##### Class of 2001
 
@@ -272,8 +260,6 @@ Accomplishments" )]
   * Tom Slowe 
   * Jessica Sprague 
 
-[[edit](/index.php?title=69&action=edit&section=18 "Edit section: Class of
-1998" )]
 
 ##### Class of 1998
 

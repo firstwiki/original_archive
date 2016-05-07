@@ -86,8 +86,6 @@ n=2 "Edit section: General tips" )]
   * Use the _What links here_ link to make sure all articles linking to your page have in mind the content you provided 
   * Search the wiki to see if there is similar content in other articles already 
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=3 "Edit section: Page formats" )]
 
 ###  Page formats
 
@@ -132,8 +130,6 @@ comprehensive list of the markup and its effects, see [Wikipedia:How to edit a
 page](http://www.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page#The_wiki_mark
 up "wikipedia:Wikipedia:How_to_edit_a_page" ).
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=5 "Edit section: Sections, paragraphs, lists, and lines" )]
 
 ### Sections, paragraphs, lists, and lines
 
@@ -158,8 +154,6 @@ n=5 "Edit section: Sections, paragraphs, lists, and lines" )]
 
 *##*:#**::Something really deep in a list   
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=6 "Edit section: Links, URLs, and images" )]
 
 ### Links, URLs, and images
 
@@ -170,8 +164,6 @@ n=6 "Edit section: Links, URLs, and images" )]
   * To create an external link, use this syntax: [http://somepage.com alternative text] 
   * To add an image, use this syntax: [[Image:Wiki.png|alt text]] 
 
-[[edit](/index.php?title=FIRSTwiki:How_does_one_edit_a_page&action=edit&sectio
-n=7 "Edit section: Character formatting" )]
 
 ### Character formatting
 

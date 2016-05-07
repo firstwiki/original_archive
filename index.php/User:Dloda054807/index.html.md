@@ -896,8 +896,6 @@ identification of rustic residents in the "upper class and "upper-middle
 level"namely higher than is of the urban people; meantime amid the "lower-
 middle level and "lower level"is lower.
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=3 "Edit section:
-Kim Jong Il enjoys Chinese dance drama \(3\) - Peoples Daily O" )]
 
 ##  Kim Jong Il enjoys Chinese dance drama (3) - Peoples Daily O
 
@@ -936,8 +934,6 @@ space.php?uid=76871&do=blog&id=759958
 Source: Xinhua  
 Weekly review
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=4 "Edit section:
-Japan to buy $10 billion Chinese govt bonds  - Peoples Daily" )]
 
 ##  Japan to buy $10 billion Chinese govt bonds - Peoples Daily
 
@@ -1008,8 +1004,6 @@ E3%83%80%E3%83%B3-1-c-1.html "http://www.airjordan11japan.com/%E3%82%A8%E3%82%
 A2%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3-1-c-1.html" ),exceeding
 Japan’s short-lived radioactive criterion.
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=6 "Edit section:
-New Zealand welcomes lifting of Fiji emergency rule - People" )]
 
 ##  New Zealand welcomes lifting of Fiji emergency rule - People
 
@@ -1054,8 +1048,6 @@ Australia,[コーチ](http://www.coachmensjapan.com/specials.html
 "http://www.coachmensjapan.com/specials.html" ), New Zealand and other Pacific
 nations have maintained sanctions against Fijian authorities.
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=7 "Edit section:
-Magnitude-4.7 quake jolts Japans Kanto region -- JMA  - Peop" )]
 
 ##  Magnitude-4.7 quake jolts Japans Kanto region -- JMA - Peop
 
@@ -1094,8 +1086,6 @@ depth of 50 km.
 Strong tremors were likewise felt among Tokyo. There is no immediate reports
 of abuse.
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=8 "Edit section:
-Italy seeks help from Vatican to solve crisis with India ove" )]
 
 ##  Italy seeks help from Vatican to solve crisis with India ove
 
@@ -1146,8 +1136,6 @@ Latore Massimiliano and Salvatore Gironi,[MBT
 サンダル](http://www.mbtshoessalejapan.com/ "http://www.mbtshoessalejapan.com/"
 ),on Monday were sent to police custody for three days by a local determine._
 
-[[edit](/index.php?title=User:Dloda054807&action=edit&section=9 "Edit section:
-News Analysis Doha declaration a breakthrough greeted with d" )]
 
 ##  News Analysis Doha declaration a breakthrough greeted with d
 

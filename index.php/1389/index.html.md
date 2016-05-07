@@ -62,8 +62,6 @@ projects" )]
   * [2005 - Kevin_E_Pope II](/index.php?title=1389_in_2005&action=edit "1389 in 2005" )
   * [2006 - Robit](/index.php?title=1389_in_2006&action=edit "1389 in 2006" )
 
-[[edit](/index.php?title=1389&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -100,8 +98,6 @@ getting [sponsors](/index.php/Organizations_likely_to_sponsor_teams
 manages [community outreach](/index.php?title=Community_outreach&action=edit
 "Community outreach" ) and the team's image in the community
 
-[[edit](/index.php?title=1389&action=edit&section=8 "Edit section:
-Programming/Electrical" )]
 
 ### Programming/Electrical
 
@@ -130,8 +126,6 @@ The [web](/index.php/Designing_a_team_webpage "Designing a team webpage" )
 team creates and maintains our state-of-the-art web page, located at
 <http://www.team1389.com/>.
 
-[[edit](/index.php?title=1389&action=edit&section=10 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -142,8 +136,6 @@ team creates and maintains our state-of-the-art web page, located at
   * Domino's Pizza 
   * University of Maryland 
 
-[[edit](/index.php?title=1389&action=edit&section=11 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -160,8 +152,6 @@ Day High School" )]
   * Patrick Turley '10 
   * Jules Wellinghoff '08 
 
-[[edit](/index.php?title=1389&action=edit&section=13 "Edit section: Walt
-Whitman High School" )]
 
 ### Walt Whitman High School
 
@@ -180,8 +170,6 @@ Whitman High School" )]
 
 ### Alumni
 
-[[edit](/index.php?title=1389&action=edit&section=15 "Edit section: Walt
-Whitman High School" )]
 
 #### Walt Whitman High School
 
@@ -196,8 +184,6 @@ Whitman High School" )]
   * Zack Sklarew '05 
   * Matthew Watson '05 
 
-[[edit](/index.php?title=1389&action=edit&section=16 "Edit section: Mentors"
-)]
 
 ### Mentors
 

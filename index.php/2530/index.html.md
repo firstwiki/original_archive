@@ -50,8 +50,6 @@ three public schools, Century, Mayo, and John Marshall.
 
   * 2007 - As of now unnamed. 
 
-[[edit](/index.php?title=2530&action=edit&section=3 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

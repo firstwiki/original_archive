@@ -24,8 +24,6 @@ professionalism](/index.php/Gracious_professionalism "Gracious
 professionalism" ). FIRST is about the student, -- and an engineer or a writer
 mentoring the team is equally useful to the project.
 
-[[edit](/index.php?title=Mentor&action=edit&section=1 "Edit section: External
-links" )]
 
 ##  External links
 

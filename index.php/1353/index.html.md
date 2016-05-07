@@ -60,8 +60,6 @@ Accomplishments" )]
 
   * Accomplishment Example 
 
-[[edit](/index.php?title=1353&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -76,8 +74,6 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1353&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

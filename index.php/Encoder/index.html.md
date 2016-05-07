@@ -72,8 +72,6 @@ linear [displacement](http://www.wikipedia.org/wiki/displacement
 [velocity](http://www.wikipedia.org/wiki/velocity "wikipedia:velocity" ) are
 easy to calculate.
 
-[[edit](/index.php?title=Encoder&action=edit&section=2 "Edit section:
-Immediate Velocity" )]
 
 ### Immediate Velocity
 
@@ -90,16 +88,12 @@ Encoders" )]
 
 ## Types of Encoders
 
-[[edit](/index.php?title=Encoder&action=edit&section=4 "Edit section: VEX
-Encoders" )]
 
 ### VEX Encoders
 
 The VEX encoder uses a single LED/photodetector set with a radially slit disc
 passing between them.
 
-[[edit](/index.php?title=Encoder&action=edit&section=5 "Edit section:
-Quadrature Encoders" )]
 
 ### Quadrature Encoders
 
@@ -120,8 +114,6 @@ instead) to generate four times the counts per slit ("X4" mode). These
 techniques allow a low resolution encoder to effectively double or quadruple
 its CPR (counts per revolution), which can be valuable in some applications.
 
-[[edit](/index.php?title=Encoder&action=edit&section=6 "Edit section:
-Interfacing Considerations" )]
 
 ## Interfacing Considerations
 

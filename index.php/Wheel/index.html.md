@@ -48,8 +48,6 @@ roller which is coated with a high-friction tape material. They offer much
 more traction than a standard wheel and are often custom-made or order from
 specialty suppliers.
 
-[[edit](/index.php?title=Wheel&action=edit&section=4 "Edit section: Holonomic"
-)]
 
 ##  Holonomic
 
@@ -60,8 +58,6 @@ drive and castor drive. Holonomic wheels are typically rather expensive and
 generally ordered from specialty suppliers rather than fabricated by teams
 themselves.
 
-[[edit](/index.php?title=Wheel&action=edit&section=5 "Edit section: Mecanum"
-)]
 
 ##  [Mecanum](/index.php/Mecanum_wheel "Mecanum wheel" )
 
@@ -76,8 +72,6 @@ mathematical/kinematics model for mechanum wheels is quite complicated, and
 the wheels themselves are usually exceedingly expensive and complex; a set of
 four often approaches the $400 maximum for any single robot part.
 
-[[edit](/index.php?title=Wheel&action=edit&section=6 "Edit section: External
-links" )]
 
 ##  External links
 

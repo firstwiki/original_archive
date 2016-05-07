@@ -38,16 +38,12 @@ _General Description of the year._
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=25_in_1997&action=edit&section=1 "Edit section: Pre-
-build" )]
 
 ## Pre-build
 
 _stuff like getting sponsors and projects that got incorporated into this
 year's robot._
 
-[[edit](/index.php?title=25_in_1997&action=edit&section=2 "Edit section:
-Build" )]
 
 ## Build
 
@@ -56,8 +52,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=25_in_1997&action=edit&section=4 "Edit section:
-Regional name" )]
 
 ### Regional name
 
@@ -74,8 +68,6 @@ Regional name" )]
 
 etc etc etc
 
-[[edit](/index.php?title=25_in_1997&action=edit&section=6 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -100,8 +92,6 @@ Functions" )]
   * list 
   * of functions 
 
-[[edit](/index.php?title=25_in_1997&action=edit&section=8 "Edit section: Robot
-Strategy" )]
 
 ### Robot Strategy
 

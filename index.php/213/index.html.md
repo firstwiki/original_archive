@@ -56,8 +56,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc213
 
   * History Example 
 
-[[edit](/index.php?title=213&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -86,8 +84,6 @@ Accomplishments" )]
 
   * KHS Dirty Birds 
 
-[[edit](/index.php?title=213&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -152,8 +148,6 @@ Animation
   * Brendan Powers - Entrepreneur 
   * Gabriel Giacomo - Geneseo College, Class of 2006 
 
-[[edit](/index.php?title=213&action=edit&section=10 "Edit section: Mentors
-2006" )]
 
 ### Mentors 2006
 

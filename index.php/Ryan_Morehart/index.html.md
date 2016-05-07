@@ -10,8 +10,6 @@ Jump to: navigation, search
 I'm on team [1317](/index.php/1317 "1317" ) (Digital Fusion)  
 My Position on my team is as a programmer. I jointed here on: May 29, 2004  
 
-[[edit](/index.php?title=User:Texan&action=edit&section=1 "Edit section:
-Contact me" )]
 
 # Contact me
 
@@ -26,8 +24,6 @@ CheifDelphi: Texan - [My
 Profile](http://www.chiefdelphi.com/forums/member.php?u=6146
 "http://www.chiefdelphi.com/forums/member.php?u=6146" )  
 
-[[edit](/index.php?title=User:Texan&action=edit&section=2 "Edit section: My
-Resume" )]
 
 # My Resume
 

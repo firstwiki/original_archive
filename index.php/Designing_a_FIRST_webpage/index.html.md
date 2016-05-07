@@ -104,8 +104,6 @@ interprets the game.
 Thank your sponsors. Provide links to them and write something about how they
 are an important part of making what your team does a reality.
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_2&action=edit&section=
-8 "Edit section: About Your Team" )]
 
 ### [About Your Team](/index.php?title=About_Your_Team&action=edit "About Your
 Team" )
@@ -114,8 +112,6 @@ Talk about your team. Tell anything someone might want to know. Tell about
 your awards and what they mean. I use the News portion to expand on info about
 the team.
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_2&action=edit&section=
-9 "Edit section: News" )]
 
 ## [News](/index.php?title=News&action=edit "News" )
 
@@ -128,16 +124,12 @@ we are, and what we really do. There good at give anyone who visits a glimpse
 into your team. Maybe a sponsor wants to check out your site and see whats up.
 Well this lets them know.
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_2&action=edit&section=
-10 "Edit section: Pictures" )]
 
 ## [Pictures](/index.php?title=Pictures&action=edit "Pictures" )
 
 Some kind of gallery. This is where to basically tell the story of your team
 through pictures only.
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_2&action=edit&section=
-11 "Edit section: Communication" )]
 
 # [Communication](/index.php?title=Communication&action=edit "Communication" )
 

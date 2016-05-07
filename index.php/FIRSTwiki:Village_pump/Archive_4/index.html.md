@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_4&action=edit&section=
-1 "Edit section: FLL/Vex pages" )]
 
 ##  FLL/Vex pages
 
@@ -94,8 +92,6 @@ their FRC counterpart, but have " (FLL)" or " (Vex)" appended to them.
   * If an FLL team name conflicts with an FRC or generic FIRST page, the current page takes the name, a notice is placed at the top of it, and the team page is moved to [[Name (FLL)]]. 
      Comments? Questions? Concerns? --[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) 20:35, 17 May 2005 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_4&action=edit&section=
-2 "Edit section: User Support" )]
 
 ## User Support
 

@@ -42,8 +42,6 @@ sponsors](/index.php/FIRST_sponsors "FIRST sponsors" )).
   * 8 Software  
 ---  
   
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=1 "Edit section: By
-Year" )]
 
 ##  By Year
 
@@ -54,8 +52,6 @@ Year" )]
   * [2006](/index.php?title=Kit_of_parts_%282006%29&action=edit "Kit of parts \(2006\)" ) [List of parts PDF](http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf "http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf" )
   * [2005](/index.php?title=Kit_of_parts_%282005%29&action=edit "Kit of parts \(2005\)" ) [List of parts PDF (234 KB)](http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf" )
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=2 "Edit section:
-Motors" )]
 
 ## [Motors](/index.php/Motors "Motors" )
 
@@ -72,8 +68,6 @@ manual](http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf
 "http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf" ) (PDF,
 5.05 MB)
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=4 "Edit section:
-Control system" )]
 
 ## [Control system](/index.php/Control_system "Control system" )
 
@@ -84,8 +78,6 @@ Control system" )]
 
   
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=5 "Edit section:
-Electronics and circuitry" )]
 
 ## [Electronics and circuitry](/index.php/Electronics_and_circuitry
 "Electronics and circuitry" )
@@ -94,8 +86,6 @@ Electronics and circuitry" )]
 
   
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=6 "Edit section:
-Structural" )]
 
 ## [Structural](/index.php/Chassis "Chassis" )
 
@@ -104,8 +94,6 @@ Drive train" )]
 
 ## [Drive train](/index.php/Drive_train "Drive train" )
 
-[[edit](/index.php?title=Kit_of_parts&action=edit&section=8 "Edit section:
-Software" )]
 
 ## [Software](/index.php/Software "Software" )
 

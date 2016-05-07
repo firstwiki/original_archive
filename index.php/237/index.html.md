@@ -46,8 +46,6 @@ Team Website: | <http://www.Team237.com/>
   * H20 = Water - Watertown, CT is where Team 237 is from 
   * Bots = Robots 
 
-[[edit](/index.php?title=237&action=edit&section=2 "Edit section: Team Motto"
-)]
 
 ## Team Motto
 
@@ -76,8 +74,6 @@ communities.
 
 ## History
 
-[[edit](/index.php?title=237&action=edit&section=5 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -88,8 +84,6 @@ projects" )]
 
   * [2004 - P.A.L. (Professionally Automated Landrover)](/index.php/237_in_2004 "237 in 2004" )
 
-[[edit](/index.php?title=237&action=edit&section=7 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -116,8 +110,6 @@ Accomplishments" )]
   * Boomer McLoud 
   * Ramdy Corporation 
 
-[[edit](/index.php?title=237&action=edit&section=9 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -60,8 +60,6 @@ Pennsylvania, which led to the establishment of the Philadelphia Regional
 Competition for FIRST. Bound Brook and Ethicon had their partnership for then
 15 years.
 
-[[edit](/index.php?title=56&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -72,8 +70,6 @@ projects" )]
 
   * [2004 - R.O.B.B.E.](/index.php?title=R.O.B.B.E._%2856%29&action=edit "R.O.B.B.E. \(56\)" )
 
-[[edit](/index.php?title=56&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -84,8 +80,6 @@ Accomplishments" )]
 
   * Ethicon 
 
-[[edit](/index.php?title=56&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

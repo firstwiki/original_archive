@@ -6,8 +6,6 @@ Jump to: navigation, search
 
 **Engineering** is the application of scientific and technical knowledge to solve human problems. [Engineers](/index.php/Engineer "Engineer" ) use imagination, judgment and reasoning to apply science, technology, mathematics, and practical experience. The result is the design, production, and operation of useful objects or processes. 
 
-[[edit](/index.php?title=Engineering&action=edit&section=1 "Edit section:
-Disciplines" )]
 
 ##  Disciplines
 

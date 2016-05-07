@@ -60,8 +60,6 @@ This team has desolved. Many of the original mentors are now working with Team
 Team [488](/index.php/488 "488" ) and is now working with Team
 [980](/index.php/980 "980" )
 
-[[edit](/index.php?title=144&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -92,8 +90,6 @@ Accomplishments" )]
 
   * Proctor &amp; Gamble 
 
-[[edit](/index.php?title=144&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

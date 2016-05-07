@@ -116,8 +116,6 @@ List teams under their geographic location.
   * 2 Teams with Unknown Locations  
 ---  
   
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=1 "Edit section: United States" )]
 
 # United States
 
@@ -126,8 +124,6 @@ n=2 "Edit section: Alabama" )]
 
 ## Alabama
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=3 "Edit section: Alaska" )]
 
 ## Alaska
 
@@ -136,8 +132,6 @@ n=4 "Edit section: Arizona" )]
 
 ## Arizona
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=5 "Edit section: Arkansas" )]
 
 ## Arkansas
 
@@ -150,8 +144,6 @@ n=6 "Edit section: California" )]
   * [399 (FTC)](/index.php/399_%28FTC%29 "399 \(FTC\)" ) \- Apple Pi 
   * [4950](/index.php/4950 "4950" ) \- CHS Robotics 
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=7 "Edit section: Colorado" )]
 
 ## Colorado
 
@@ -160,8 +152,6 @@ n=8 "Edit section: Connecticut" )]
 
 ## Connecticut
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=9 "Edit section: Delaware" )]
 
 ## Delaware
 
@@ -170,8 +160,6 @@ n=10 "Edit section: District of Columbia" )]
 
 ## District of Columbia
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=11 "Edit section: Florida" )]
 
 ## Florida
 
@@ -182,8 +170,6 @@ n=12 "Edit section: Georgia" )]
 
 ## Georgia
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=13 "Edit section: Hawaii" )]
 
 ## Hawaii
 
@@ -192,8 +178,6 @@ n=14 "Edit section: Idaho" )]
 
 ## Idaho
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=15 "Edit section: Illinois" )]
 
 ## Illinois
 
@@ -204,8 +188,6 @@ n=16 "Edit section: Indiana" )]
 
   * [3537 (FTC)](/index.php/3537_%28FTC%29 "3537 \(FTC\)" ) \- Mecha-Hampsters 
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=17 "Edit section: Iowa" )]
 
 ## Iowa
 
@@ -214,8 +196,6 @@ n=18 "Edit section: Kansas" )]
 
 ## Kansas
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=19 "Edit section: Kentucky" )]
 
 ## Kentucky
 
@@ -224,8 +204,6 @@ n=20 "Edit section: Louisiana" )]
 
 ## Louisiana
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=21 "Edit section: Maine" )]
 
 ## Maine
 
@@ -234,8 +212,6 @@ n=22 "Edit section: Maryland" )]
 
 ## Maryland
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=23 "Edit section: Massachusetts" )]
 
 ## Massachusetts
 
@@ -246,8 +222,6 @@ n=24 "Edit section: Michigan" )]
 
 ## Michigan
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=25 "Edit section: Minnesota" )]
 
 ## Minnesota
 
@@ -256,8 +230,6 @@ n=26 "Edit section: Mississippi" )]
 
 ## Mississippi
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=27 "Edit section: Missouri" )]
 
 ## Missouri
 
@@ -266,8 +238,6 @@ n=28 "Edit section: Montana" )]
 
 ## Montana
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=29 "Edit section: Nebraska" )]
 
 ## Nebraska
 
@@ -276,8 +246,6 @@ n=30 "Edit section: Nevada" )]
 
 ## Nevada
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=31 "Edit section: New Hampshire" )]
 
 ## New Hampshire
 
@@ -288,8 +256,6 @@ n=32 "Edit section: New Jersey" )]
 
   * [816 FTC](/index.php/816_FTC "816 FTC" ) \- BCIT Robotics 
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=33 "Edit section: New Mexico" )]
 
 ## New Mexico
 
@@ -298,8 +264,6 @@ n=34 "Edit section: New York" )]
 
 ## New York
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=35 "Edit section: North Carolina" )]
 
 ## North Carolina
 
@@ -308,8 +272,6 @@ n=36 "Edit section: North Dakota" )]
 
 ## North Dakota
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=37 "Edit section: Northern Marianas Islands" )]
 
 ## Northern Marianas Islands
 
@@ -318,8 +280,6 @@ n=38 "Edit section: Ohio" )]
 
 ## Ohio
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=39 "Edit section: Oklahoma" )]
 
 ## Oklahoma
 
@@ -328,8 +288,6 @@ n=40 "Edit section: Oregon" )]
 
 ## Oregon
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=41 "Edit section: Pennsylvania" )]
 
 ## Pennsylvania
 
@@ -338,8 +296,6 @@ n=42 "Edit section: Puerto Rico" )]
 
 ## Puerto Rico
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=43 "Edit section: Rhode Island" )]
 
 ## Rhode Island
 
@@ -348,8 +304,6 @@ n=44 "Edit section: South Carolina" )]
 
 ## South Carolina
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=45 "Edit section: South Dakota" )]
 
 ## South Dakota
 
@@ -358,8 +312,6 @@ n=46 "Edit section: Tennessee" )]
 
 ## Tennessee
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=47 "Edit section: Texas" )]
 
 ## Texas
 
@@ -368,8 +320,6 @@ n=48 "Edit section: Utah" )]
 
 ## Utah
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=49 "Edit section: Vermont" )]
 
 ## Vermont
 
@@ -380,8 +330,6 @@ n=50 "Edit section: Virginia" )]
 
   * [42 FTC](/index.php/42_FTC "42 FTC" ) \- Eta Tau Alpha 
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=51 "Edit section: Washington" )]
 
 ## Washington
 
@@ -396,8 +344,6 @@ n=52 "Edit section: West Virginia" )]
 
 ## West Virginia
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=53 "Edit section: Wisconsin" )]
 
 ## Wisconsin
 
@@ -406,8 +352,6 @@ n=54 "Edit section: Wyoming" )]
 
 ## Wyoming
 
-[[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
-n=55 "Edit section: Teams with Unknown Locations" )]
 
 # Teams with Unknown Locations
 

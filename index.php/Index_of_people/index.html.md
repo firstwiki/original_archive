@@ -40,8 +40,6 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
   
 ---  
   
-[[edit](/index.php?title=Index_of_people&action=edit&section=2 "Edit section:
-A" )]
 
 ## A
 
@@ -64,8 +62,6 @@ B" )]
   * [Bliss, Jamie](/index.php/User:Astronouth7303 "User:Astronouth7303" ) \- [ST](/index.php/Student "Student" )
   * [Budd, Jason](/index.php?title=Jason_Budd&action=edit "Jason Budd" ) \- [TA](/index.php/Team_Advisor "Team Advisor" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=4 "Edit section:
-C" )]
 
 ## C
 
@@ -74,16 +70,12 @@ C" )]
   * [Copioli, Paul](/index.php/Paul_Copioli "Paul Copioli" ) \- [UFH](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )][WFA](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" )
   * [Corsetto, Michael](/index.php/User:Rex114 "User:Rex114" ) \- [ST](/index.php/Student "Student" ) of [114](/index.php/114 "114" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=5 "Edit section:
-D" )]
 
 ## D
 
   * [Denman, Stephen](/index.php/Stephen_Denman "Stephen Denman" ) \- [ST](/index.php/Student "Student" ) of [759](/index.php/759 "759" )
   * [DeSelms, Nathan](/index.php?title=Nathan_DeSelms&action=edit "Nathan DeSelms" ) \- [ST](/index.php/Student "Student" ) of [836](/index.php/836 "836" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=6 "Edit section:
-E" )]
 
 ## E
 
@@ -112,8 +104,6 @@ G" )]
   * [Grady, Andrew](/index.php?title=Andrew_Grady&action=edit "Andrew Grady" ) \- [UFH](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
   * [Gregory, Allen](/index.php/Allen_Gregory "Allen Gregory" ) \- [ST](/index.php/Student "Student" ) of [647](/index.php/647 "647" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=9 "Edit section:
-H" )]
 
 ## H
 
@@ -128,16 +118,12 @@ I" )]
 
 ## I
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=11 "Edit section:
-J" )]
 
 ## J
 
   * [Johnson, Joe](/index.php/Joe_Johnson "Joe Johnson" )
   * [Jagadics, Joe](/index.php?title=User:Philmont629&action=edit "User:Philmont629" ) \- [M](/index.php/Mentor "Mentor" ) of [862](/index.php/862 "862" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=12 "Edit section:
-K" )]
 
 ## K
 
@@ -160,8 +146,6 @@ L" )]
   * [Lobovsky, Maxim](/index.php/User:Max "User:Max" ) \- [ST](/index.php/Student "Student" ) of [1257](/index.php/1257 "1257" )
   * [Love](/index.php?title=User:Kyle&action=edit "User:Kyle" ) \- [ST](/index.php/Student "Student" ) of [45](/index.php/45 "45" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=14 "Edit section:
-M" )]
 
 ## M
 
@@ -182,16 +166,12 @@ N" )]
   * [Nain, Bharat](/index.php/Bharat_Nain "Bharat Nain" )
   * [Nordland, Kate](/index.php/Kate_Nordland "Kate Nordland" ) \- [M](/index.php/Mentor "Mentor" ) of [340](/index.php/340 "340" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=16 "Edit section:
-O" )]
 
 ## O
 
   * [Oldak, Sam](/index.php/User:Snoldak924 "User:Snoldak924" ) \- [ST](/index.php/Student "Student" ) of [1389](/index.php/1389 "1389" )
   * [O'Toole, Kim](/index.php/User:KOtoole "User:KOtoole" ) \- [TA](/index.php/Team_Advisor "Team Advisor" ) of [1511](/index.php/1511 "1511" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=17 "Edit section:
-P" )]
 
 ## P
 
@@ -208,24 +188,18 @@ Q" )]
 
   * [Quinones, Ricky](/index.php?title=Ricky_Quinones&action=edit "Ricky Quinones" ) \- [M](/index.php/Mentor "Mentor" )[V](/index.php/Volunteer "Volunteer" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=19 "Edit section:
-R" )]
 
 ## R
 
   * [Rubenstein, Lauren](/index.php/User:Chocolateluvrlr "User:Chocolateluvrlr" ) \- [ST](/index.php/Student "Student" ) of [1389](/index.php/1389 "1389" )
   * [Ryan, Conor](/index.php/User:Cdr1122334455 "User:Cdr1122334455" ) \- [ST](/index.php/Student "Student" ) of [1403](/index.php/1403 "1403" ), Founding Member of [FIRSTcast](/index.php/FIRSTcast "FIRSTcast" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=20 "Edit section:
-T" )]
 
 ## T
 
 [Trezise, Susan](/index.php?title=Susan_Trezise&action=edit "Susan Trezise" )
 \- [V](/index.php/Volunteer "Volunteer" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=21 "Edit section:
-S" )]
 
 ## S
 
@@ -238,8 +212,6 @@ U" )]
 
 ## U
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=23 "Edit section:
-V" )]
 
 ## V
 
@@ -258,8 +230,6 @@ W" )]
   * [Wilhelm, Thad](/index.php/Thad_Wilhelm "Thad Wilhelm" ) \- [TA](/index.php/Team_Advisor "Team Advisor" ) of [948](/index.php/948 "948" )
   * [Wong, Richard](/index.php?title=Richard_Wong&action=edit "Richard Wong" ) \- [UFH](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=25 "Edit section:
-X" )]
 
 ## X
 
@@ -268,8 +238,6 @@ Y" )]
 
 ## Y
 
-[[edit](/index.php?title=Index_of_people&action=edit&section=27 "Edit section:
-Z" )]
 
 ## Z
 

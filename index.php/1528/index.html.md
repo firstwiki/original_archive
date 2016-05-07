@@ -44,8 +44,6 @@ _The iPirates have been around since 2004, and have participated in both the
 2005, 2006, 2007, and 2008 FRC seasons. We have plans to participate in the
 2009 season, and many more seasons to come._
 
-[[edit](/index.php?title=1528&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -76,8 +74,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=1528&action=edit&section=5 "Edit section:
-Competitions" )]
 
 ##  Competitions
 
@@ -88,8 +84,6 @@ Competitions" )]
   * 2006 Great Lakes Regional (3/9/2006 - 3/11/2006) 
   * 2005 Great Lakes Regional (3/10/2005 - 3/12/2005) 
 
-[[edit](/index.php?title=1528&action=edit&section=6 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
@@ -108,8 +102,6 @@ Competitions" )]
   * Checker Marine Service 
   * Dolce Vita Italian Grille 
 
-[[edit](/index.php?title=1528&action=edit&section=7 "Edit section: Members
-List" )]
 
 ##  Members List
 

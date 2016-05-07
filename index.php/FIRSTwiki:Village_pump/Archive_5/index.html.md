@@ -24,8 +24,6 @@ once you go? Like some interviews with the celebrities? --[SilverStar
 (Advay)](/index.php/User:SilverStar "User:SilverStar" ) 05:41, 31 Dec 2004
 (EST)
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=edit&section=
-2 "Edit section: New FIRST Logo and FIRSTwiki" )]
 
 ## New FIRST Logo and FIRSTwiki
 
@@ -40,8 +38,6 @@ Dec 2004 (EST)
 
     GAH! PAIN! *dies* Point taken. --[Goobergunch](/index.php/User:Goobergunch "User:Goobergunch" ) [[1168](/index.php/1168 "1168" )] 19:12, 20 Dec 2004 (EST) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=edit&section=
-3 "Edit section: Purpose of FIRSTwiki" )]
 
 ## Purpose of FIRSTwiki
 
@@ -78,8 +74,6 @@ post in CD about it reminding everyone what it is?
      I thought I was the only person who ever used "drum up" in conversation. Ah well. Perhaps instead of advertising in posts, we should try advertising in posts. Point to FIRSTwiki articles and such as they're useful. --[Billfred](/index.php/User:Billfred "User:Billfred" ) 10:36, 20 Dec 2004 (EST) 
     I'm thinking that its been a while since the last time we made any announcements about what it is so perhaps people have forgotten about it, but more importantly, lots of new people have not heard of it. --[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257 "1257" )]]] 18:59, 20 Dec 2004 (EST) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=edit&section=
-5 "Edit section: 1.4 Beta5" )]
 
 ## 1.4 Beta5
 

@@ -16,8 +16,6 @@ Championship Event" ).
   * 4 Newton Division Winners  
 ---  
   
-[[edit](/index.php?title=Division_Winner&action=edit&section=1 "Edit section:
-Archimedes Division Winners" )]
 
 ## Archimedes Division Winners
 
@@ -98,8 +96,6 @@ Wheeling HS
 International Academy  
 [144](/index.php/144 "144" ) |  Northwest HS Career Center  
   
-[[edit](/index.php?title=Division_Winner&action=edit&section=2 "Edit section:
-Curie Division Winners" )]
 
 ## Curie Division Winners
 
@@ -178,8 +174,6 @@ District
 [115](/index.php/115 "115" ) |  3Com Tech Development/ Kleiner, Perkins,
 Caufield &amp; Byers/ Hitachi Data Systems &amp; Monta Vista HS  
   
-[[edit](/index.php?title=Division_Winner&action=edit&section=3 "Edit section:
-Galileo Division Winners" )]
 
 ## Galileo Division Winners
 

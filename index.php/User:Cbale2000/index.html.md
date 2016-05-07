@@ -60,8 +60,6 @@ FIRSTwiki Projects" )]
 
 ## FIRSTwiki Projects
 
-[[edit](/index.php?title=User:Cbale2000&action=edit&section=2 "Edit section:
-Projects in Progress" )]
 
 ### Projects in Progress
 
@@ -74,16 +72,12 @@ Finished Projects" )]
 
   * Just got done removing a ton of old, unused images. Wow there's a lot of them! **Cbale2000** 00:07, 28 February 2008 (EST) 
 
-[[edit](/index.php?title=User:Cbale2000&action=edit&section=4 "Edit section:
-Random Stuff" )]
 
 ## Random Stuff
 
 Jeez... what to put in here... on the regular Wikipedia theres all those
 sidebar template things, but here? What to do, what to do.... &lt;_&lt;
 
-[[edit](/index.php?title=User:Cbale2000&action=edit&section=5 "Edit section:
-Comments" )]
 
 ## Comments
 

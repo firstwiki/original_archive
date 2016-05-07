@@ -172,8 +172,6 @@ wood*" )]
 
 ###### *knock wood*
 
-[[edit](/index.php?title=1219&action=edit&section=3 "Edit section: Projects"
-)]
 
 ## Projects
 
@@ -268,8 +266,6 @@ Season" )]
   * Wonderland Off-Season Invitational 
     * Semi-finalists 
 
-[[edit](/index.php?title=1219&action=edit&section=16 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -308,8 +304,6 @@ Team" )]
 
   
 
-[[edit](/index.php?title=1219&action=edit&section=19 "Edit section: Marketing"
-)]
 
 ### Marketing
 
@@ -324,8 +318,6 @@ Programming" )]
 
   
 
-[[edit](/index.php?title=1219&action=edit&section=21 "Edit section:
-Videography" )]
 
 ### Videography
 

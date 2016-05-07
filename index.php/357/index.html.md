@@ -50,8 +50,6 @@ projects" )]
 
 ## Team projects
 
-[[edit](/index.php?title=357&action=edit&section=3 "Edit section: Team 357
-Web-Site" )]
 
 ### Team 357 Web-Site
 
@@ -62,8 +60,6 @@ access to specific things such as Article Publishing, Photo Gallery
 Management, and Calendar Management by a mentor or Student Administrator (Web
 Team Manager).
 
-[[edit](/index.php?title=357&action=edit&section=4 "Edit section: Method of
-Storage" )]
 
 #### Method of Storage
 
@@ -76,8 +72,6 @@ used to store all the information including, but not limited to account
 profiles, media file location, sub-team membership records, articles, and so
 forth.
 
-[[edit](/index.php?title=357&action=edit&section=5 "Edit section: User
-Accounts" )]
 
 #### User Accounts
 
@@ -170,8 +164,6 @@ responsible for checking for syntax and general coding syntax for the website.
 
   * [2004 - Jester](/index.php?title=357_in_2004&action=edit "357 in 2004" )
 
-[[edit](/index.php?title=357&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -186,8 +178,6 @@ Accomplishments" )]
   * PECO 
   * MIT 
 
-[[edit](/index.php?title=357&action=edit&section=13 "Edit section: Members
-List" )]
 
 ## Members List
 

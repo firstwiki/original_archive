@@ -112,8 +112,6 @@ president, Christina Alzona, also worked alongside Fred Breithut in recruiting
 teams and sponsors for this event and insuring that fundraising and planning
 were successful.
 
-[[edit](/index.php?title=SBPLI_Long_Island_Regional&action=edit&section=1
-"Edit section: External Links" )]
 
 ## External Links
 

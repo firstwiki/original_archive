@@ -64,8 +64,6 @@ long promised alpha and then beta version of PBASIC 2.5, which provided more
 advanced features. Most importantly, it provided an _if ... else_ structure,
 and allowed for pre-processor directives.
 
-[[edit](/index.php?title=PBASIC&action=edit&section=2 "Edit section:
-Limitations" )]
 
 ## Limitations
 
@@ -98,8 +96,6 @@ The [BS2sx](/index.php/BS2sx "BS2sx" ) was just an extension to the
 [BS2](/index.php/BS2 "BS2" ). The BS2 was about 4x slower and didn't have any
 scratchpad or seperate code banks (so you were limited to 2k).
 
-[[edit](/index.php?title=PBASIC&action=edit&section=3 "Edit section:
-Resources" )]
 
 ## Resources
 

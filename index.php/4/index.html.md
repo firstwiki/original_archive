@@ -70,8 +70,6 @@ number of other teams prepare for competitions. In the FIRST Robotics League,
 we are friends with our competitors and competitive with our friends, a
 practice embodied in the ideals of “Gracious Professionalism.”
 
-[[edit](/index.php?title=4&action=edit&section=2 "Edit section: Mission
-Statement" )]
 
 ###  Mission Statement
 
@@ -86,8 +84,6 @@ to team designs. Through this, we have sparked an interest throughout all of
 our members whether they prefer to become the main webmaster of the team
 website, to becoming a main machinist for our robot during build season.
 
-[[edit](/index.php?title=4&action=edit&section=3 "Edit section: Recent
-History" )]
 
 ###  Recent History
 
@@ -122,8 +118,6 @@ skills by starting off the lesson teaching them about trebuchets. In the end,
 we had accomplished our goal by helping many experience first hand the FIRST
 message.
 
-[[edit](/index.php?title=4&action=edit&section=4 "Edit section: Team Purpose"
-)]
 
 ###  Team Purpose
 
@@ -158,8 +152,6 @@ volunteering at the local Farmer’s Market, old-age home and child day care. In
 addition, many of our members have volunteered at robotics related events such
 as the VEX Competition, Fall Classic and Las Vegas Regional.
 
-[[edit](/index.php?title=4&action=edit&section=6 "Edit section: Frequently
-Asked Questions" )]
 
 ###  Frequently Asked Questions
 
@@ -184,8 +176,6 @@ Image:P1070257.JPG "2008 Robot" )
 
   
 
-[[edit](/index.php?title=4&action=edit&section=9 "Edit section: Team projects"
-)]
 
 ##  Team projects
 
@@ -246,8 +236,6 @@ Accomplishments" )]
   * The Limbacher Family 
   * The Vaystub Family 
 
-[[edit](/index.php?title=4&action=edit&section=13 "Edit section: Members List"
-)]
 
 ##  Members List
 

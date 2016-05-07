@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=FIRSTwiki_talk:Nominations_for_adminship&action=edit&
-section=1 "Edit section: Anonymos User edits" )]
 
 ## Anonymos User edits
 
@@ -14,8 +12,6 @@ editting of this page to users?
 --[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
 11:55, 10 Jun 2004 (EDT)
 
-[[edit](/index.php?title=FIRSTwiki_talk:Nominations_for_adminship&action=edit&
-section=2 "Edit section: Wikipedia Requirements not FIRSTwiki Requirements" )]
 
 ## Wikipedia Requirements not FIRSTwiki Requirements
 

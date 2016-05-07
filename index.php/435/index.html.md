@@ -40,8 +40,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=435
 
   * History Example 
 
-[[edit](/index.php?title=435&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

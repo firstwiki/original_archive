@@ -128,8 +128,6 @@ their time. We couldn't make it without you!
   * Venkatesh Srinivas 
   * Daniel Ursu 
 
-[[edit](/index.php?title=1719&action=edit&section=7 "Edit section: Non-
-Engineering Mentors" )]
 
 ## Non-Engineering Mentors
 
@@ -150,8 +148,6 @@ Finally, thanks to our Non-Engineering Support Group!
   * Doru Petrisor and Carmen Petrisor 
   * David Schneider and Lynn Roberts 
 
-[[edit](/index.php?title=1719&action=edit&section=9 "Edit section: Students"
-)]
 
 ## Students
 

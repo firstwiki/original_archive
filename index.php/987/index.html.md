@@ -74,8 +74,6 @@ projects" )]
   * 2006 Ace 
   * 2005 Snake Eyes 
 
-[[edit](/index.php?title=987&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

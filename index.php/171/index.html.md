@@ -118,8 +118,6 @@ projects" )]
   * [2007 - "Charles Hands VIII (AKA Charlie)"](/index.php?title=%22Charlie_Handy%22_%28171%29&action=edit ""Charlie Handy" \(171\)" )
   * [2008 - "High Roller"](/index.php?title=%22High_Roller%22_%28171%29&action=edit ""High Roller" \(171\)" )
 
-[[edit](/index.php?title=171&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -60,8 +60,6 @@ Please **[improve](http://www.firstwiki.net/index.php?title=610&action=edit
   * [2001](/index.php/610_in_2001 "610 in 2001" )
   * [2000](/index.php/610_in_2000 "610 in 2000" )
 
-[[edit](/index.php?title=610&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -76,8 +74,6 @@ projects" )]
   * [2001 - Coyobot II](/index.php/610_in_2001 "610 in 2001" )
   * [2000 - Coyobot I](/index.php/610_in_2000 "610 in 2000" )
 
-[[edit](/index.php?title=610&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

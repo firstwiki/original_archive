@@ -38,8 +38,6 @@ Team Website: | <http://www.roboriders9.com/>
 
   * History Example 
 
-[[edit](/index.php?title=9&action=edit&section=2 "Edit section: Team projects"
-)]
 
 ## Team projects
 
@@ -50,8 +48,6 @@ Team Website: | <http://www.roboriders9.com/>
 
   * [2004 - Eleanor](/index.php?title=Eleanor_%289%29&action=edit "Eleanor \(9\)" )
 
-[[edit](/index.php?title=9&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -62,8 +58,6 @@ Accomplishments" )]
 
   * DANA Corp. &amp; RHS 
 
-[[edit](/index.php?title=9&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

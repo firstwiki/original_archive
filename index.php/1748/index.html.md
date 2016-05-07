@@ -40,8 +40,6 @@ Team Website: | <http://www.team1748.org>
 
   * History Example 
 
-[[edit](/index.php?title=1748&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -52,8 +50,6 @@ projects" )]
 
   * Robot Example 
 
-[[edit](/index.php?title=1748&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -70,8 +66,6 @@ Army Research Laboratory
 Northrop Grumman Electronic Systems  
 NASA's MD Space Grant Consortium  
 
-[[edit](/index.php?title=1748&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

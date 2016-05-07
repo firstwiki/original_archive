@@ -56,8 +56,6 @@ know weather or not I'm wasting my time adding anything.
 
     Ok, just checking, it's good to see someone is here. ^_^ [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 16:13, 3 February 2007 (EST) 
 
-[[edit](/index.php?title=FIRSTwiki_talk:Community_portal&action=edit&section=2
-"Edit section: User pages vs. People Pages" )]
 
 ##  User pages vs. People Pages
 

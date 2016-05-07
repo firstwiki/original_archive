@@ -26,8 +26,6 @@ The Man With a Plan" )]
   * Education: Extended Studies Diploma, Irmo High School (note that this was awarded alongside his standard high school diploma, making for a rather annoying dilemma since his diploma cover has room for only one.) 
   * To date, is the only person on 1293 to be tackled by a robot in autonomous operation. 
 
-[[edit](/index.php?title=User:Billfred&action=edit&section=2 "Edit section:
-The Team" )]
 
 ## The Team
 
@@ -70,8 +68,6 @@ Plans over the next four to five years:
   * Continue involvement in FIRST, which oughta be easy because the [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" ) is about four blocks from his dorm room. 
   * Get more FIRST shirts. Sixteen is not enough. 
 
-[[edit](/index.php?title=User:Billfred&action=edit&section=5 "Edit section:
-The Name" )]
 
 ## The Name
 

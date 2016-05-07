@@ -90,8 +90,6 @@ expansion" ).
 ramping.jpg](/media/0/0d/190_ramping.jpg)](/index.php/Image:190_ramping.jpg
 "Image:190 ramping.jpg" )
 
-[[edit](/index.php?title=190&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -140,8 +138,6 @@ formats" ) for more help.
 
   * [WPI](http://www.wpi.edu "http://www.wpi.edu" )
 
-[[edit](/index.php?title=190&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

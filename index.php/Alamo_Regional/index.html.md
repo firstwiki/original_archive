@@ -106,8 +106,6 @@ Regional" )
   
   
 
-[[edit](/index.php?title=Alamo_Regional&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 

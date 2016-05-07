@@ -8,8 +8,6 @@ This was an intial [FVC](/index.php/Vex "Vex" ) (now known as
 [FTC](/index.php/FTC "FTC" )) event that occured at the 2005 [Championship
 Event](/index.php/Championship_Event "Championship Event" ).
 
-[[edit](/index.php?title=Vex_pilot_event&action=edit&section=1 "Edit section:
-Awards" )]
 
 ##  Awards
 

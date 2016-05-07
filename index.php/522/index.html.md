@@ -150,8 +150,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=522&action=edit&section=14 "Edit section: Students"
-)]
 
 ### Students
 

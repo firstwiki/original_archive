@@ -40,8 +40,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=279
 
   * History Example 
 
-[[edit](/index.php?title=279&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -52,8 +50,6 @@ projects" )]
 
 See Accomplishments
 
-[[edit](/index.php?title=279&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -112,8 +108,6 @@ Accomplishments" )]
 
   * Dana &amp; Toledo Public Schools 
 
-[[edit](/index.php?title=279&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

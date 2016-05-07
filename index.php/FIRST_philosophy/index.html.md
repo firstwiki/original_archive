@@ -30,8 +30,6 @@ Award](/index.php/Johnson_%26_Johnson_Sportsmanship_Award "Johnson & Johnson
 Sportsmanship Award" ), is hard to underestimate. The term is thrown about,
 haphazardly at times, quite frequently.
 
-[[edit](/index.php?title=FIRST_philosophy&action=edit&section=2 "Edit section:
-Co-opetition" )]
 
 ## Co-opetition
 
@@ -52,8 +50,6 @@ programs seek to throw down their competition; but in FIRST teams seek to lift
 eachother up. To explain this idea, FIRST has combined the words "competition"
 and "cooperation", coining the term "co-opetition".
 
-[[edit](/index.php?title=FIRST_philosophy&action=edit&section=3 "Edit section:
-Discussion" )]
 
 ## Discussion
 

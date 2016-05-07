@@ -6,8 +6,6 @@ Jump to: navigation, search
 
   
 
-[[edit](/index.php?title=Talk:151&action=edit&section=1 "Edit section: Awards
-in 2001 & 2002" )]
 
 ##  Awards in 2001 &amp; 2002
 

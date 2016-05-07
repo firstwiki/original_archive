@@ -42,8 +42,6 @@ Team Website: | <http://www.eaglerobotics.com/>
 
 ##  History
 
-[[edit](/index.php?title=1388&action=edit&section=2 "Edit section: How We
-Started" )]
 
 ###  How We Started
 
@@ -54,8 +52,6 @@ founded in 2004 with help from Team 973 GRR, under the leadership of Mr.
 [William Findley](/index.php/William_Findley "William Findley" ) who still is
 the team leader.
 
-[[edit](/index.php?title=1388&action=edit&section=3 "Edit section: More About
-Eagle Robotics team 1388" )]
 
 ###  More About Eagle Robotics team 1388
 
@@ -70,8 +66,6 @@ performance at the national event was not nearly as successful as our rookie
 year, but our team was awarded the "Engineering Inspiration" award on behalf
 of our outstanding community outreach events.
 
-[[edit](/index.php?title=1388&action=edit&section=4 "Edit section: Community
-Involvement" )]
 
 ##  Community Involvement
 
@@ -120,8 +114,6 @@ Accomplishments" )]
   * 2006 UC Davis Regional Competition Johnson &amp; Johnson Sportsmanship Award 
   * 2007 LA Regional Xerox Creativity Award 
 
-[[edit](/index.php?title=1388&action=edit&section=7 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 

@@ -82,8 +82,6 @@ Chairman's award at the Boston Regional this year. Won the Boston BU Regional
 
   * NYPRO &amp; Clinton HS 
 
-[[edit](/index.php?title=126&action=edit&section=4 "Edit section: Members
-List" )]
 
 ## Members List
 

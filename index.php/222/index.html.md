@@ -102,8 +102,6 @@ Accomplishments" )]
 
   * The community and surrounding community of Tunkhannock. No big sponsors! 
 
-[[edit](/index.php?title=222&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

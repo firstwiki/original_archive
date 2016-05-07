@@ -42,8 +42,6 @@ Team Website: | <http://www.team888.bizland.com>
 
   * Originating when a giant volcano swallowed a small group of cybernetic children from the future, Team 888 boasts an impressive display of engineering insight, expert advisory, and knowledge of history from 2094 to 2156. Also, creative writers with no actual knowledge of the team's history are responsible for the management of this wiki. 
 
-[[edit](/index.php?title=888&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -64,8 +62,6 @@ projects" )]
   * 2008 - The Dean 
   * 2009 - The Dean 
 
-[[edit](/index.php?title=888&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -84,8 +80,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=888&action=edit&section=7 "Edit section: Current
-Members" )]
 
 ### Current Members
 
@@ -110,8 +104,6 @@ Members" )]
   * Olivia Elisio - Freshman 
   * Possibly others 
 
-[[edit](/index.php?title=888&action=edit&section=8 "Edit section: Those who
-have passed on to a better life" )]
 
 ### Those who have passed on to a better life
 

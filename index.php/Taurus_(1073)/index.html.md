@@ -38,8 +38,6 @@ Taurus stacking a tetra
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=1073_in_2005&action=edit&section=1 "Edit section:
-Pre-build" )]
 
 ## Pre-build
 
@@ -90,8 +88,6 @@ Accomplishments" )]
 
 ## Accomplishments
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=4 "Edit section:
-Manchester Regional 2005" )]
 
 ### Manchester Regional 2005
 
@@ -104,8 +100,6 @@ _general description of how it went_
 
   * [Underwriter's Laboratories Industrial Safety Award](/index.php/Underwriter%27s_Laboratories_Industrial_Safety_Award "Underwriter's Laboratories Industrial Safety Award" )
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=5 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -144,8 +138,6 @@ Robot Functions" )]
   * Pneumatic grabber for grasping tetras 
   * Two drive wheels and two casters for manueverability 
 
-[[edit](/index.php?title=1073_in_2005&action=edit&section=7 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

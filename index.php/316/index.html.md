@@ -44,8 +44,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=316
 
   * History Example 
 
-[[edit](/index.php?title=316&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -108,8 +106,6 @@ Accomplishments" )]
   * Victaulic/Dave Gibbons 
   * Pitman School 
 
-[[edit](/index.php?title=316&action=edit&section=10 "Edit section: Honorable
-Mentions" )]
 
 ### Honorable Mentions
 
@@ -138,8 +134,6 @@ Mentions" )]
   * Thomas and Bobbi Bowers 
   * Sharon and Fred Scioli 
 
-[[edit](/index.php?title=316&action=edit&section=11 "Edit section: Members
-List" )]
 
 ## Members List
 

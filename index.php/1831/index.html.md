@@ -52,8 +52,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1831
 
   * History Example 
 
-[[edit](/index.php?title=1831&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -64,8 +62,6 @@ projects" )]
 
   * 2007 - Screaming Eagle 
 
-[[edit](/index.php?title=1831&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -82,8 +78,6 @@ Accomplishments" )]
   * Northeast Powder Tech 
   * Gilford High School 
 
-[[edit](/index.php?title=1831&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

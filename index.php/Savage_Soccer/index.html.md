@@ -78,8 +78,6 @@ teams and then in 2004 to anyone who had a kit to compete. There were 14 teams
 in 2004 from three states. The competition has grown dramatically in recent
 years, with over 50 teams from around New England in 2006.
 
-[[edit](/index.php?title=Savage_Soccer&action=edit&section=2 "Edit section:
-About" )]
 
 ## About
 

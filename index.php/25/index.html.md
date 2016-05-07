@@ -56,8 +56,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc25
 
 ##  History
 
-[[edit](/index.php?title=25&action=edit&section=2 "Edit section: The
-Beginning" )]
 
 ### The Beginning
 
@@ -114,8 +112,6 @@ losing the Championship Event.
 
 ## Projects
 
-[[edit](/index.php?title=25&action=edit&section=6 "Edit section: Rookies in
-Need of Support" )]
 
 ### Rookies in Need of Support
 
@@ -130,8 +126,6 @@ team, as well as the rookie team. These manuals, as well as other resources,
 can be found [on the FIRST RINOS homepage](http://raiderrobotix.org/rinos/
 "http://raiderrobotix.org/rinos/" ).
 
-[[edit](/index.php?title=25&action=edit&section=7 "Edit section: Brunswick
-Eruption" )]
 
 ### Brunswick Eruption
 
@@ -210,8 +204,6 @@ few days to build an effective robot.
   * 2011: Evil Machine 9.0: La Guillotine v2.0 
   * 2012: Evil Machine 10.0: Rasheed Wallace 
 
-[[edit](/index.php?title=25&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 

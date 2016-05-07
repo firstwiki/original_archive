@@ -46,8 +46,6 @@ featured.
   * 5 Tier 1  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Featured_article_candidates&action=edit&sec
-tion=1 "Edit section: Tier 5" )]
 
 ##  Tier 5
 
@@ -56,8 +54,6 @@ tion=2 "Edit section: Tier 4" )]
 
 ##  Tier 4
 
-[[edit](/index.php?title=FIRSTwiki:Featured_article_candidates&action=edit&sec
-tion=3 "Edit section: Tier 3" )]
 
 ##  Tier 3
 
@@ -78,8 +74,6 @@ tion=4 "Edit section: Tier 2" )]
     Voted for by [Knippschild](/index.php/User:Knippschild "User:Knippschild" ) 21:05, 13 May 2006 (EDT) 
     Object: This Article needs a lot of work before it goes featured. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 13:41, 7 May 2007 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Featured_article_candidates&action=edit&sec
-tion=5 "Edit section: Tier 1" )]
 
 ##  Tier 1
 

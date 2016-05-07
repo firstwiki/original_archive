@@ -22,8 +22,6 @@ Jump to: navigation, search
   * 5 Louis Vuitton Card Deck Set  
 ---  
   
-[[edit](/index.php?title=User:Barnett56&action=edit&section=1 "Edit section:
-First Look-Louis Vuitton Damier Rivington" )]
 
 ##  First Look-Louis Vuitton Damier Rivington
 
@@ -64,8 +62,6 @@ bit of something for everyone. Personally, count me in for the bicolor **Louis
 Vuitton Speedy North South**, please. Check out all of the bags after the
 jump.
 
-[[edit](/index.php?title=User:Barnett56&action=edit&section=3 "Edit section:
-Louis Vuitton Hair Cubes Strass" )]
 
 ##  Louis Vuitton Hair Cubes Strass
 

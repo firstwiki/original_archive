@@ -38,8 +38,6 @@ Team Website: | N/A
 Revolution Robotics was founded in the year 2004 under the name Team
 Lionheart.
 
-[[edit](/index.php?title=1302&action=edit&section=2 "Edit section: Projects"
-)]
 
 ## Projects
 
@@ -74,8 +72,6 @@ of regionals" )**
   
   * 2008 - N/A 
 
-[[edit](/index.php?title=1302&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -84,8 +80,6 @@ Accomplishments" )]
   * 2005 - "Most Unique Handout" (Palmetto, South Carolina Regional) 
   * 2007 - NYC Regional - Winner 
 
-[[edit](/index.php?title=1302&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

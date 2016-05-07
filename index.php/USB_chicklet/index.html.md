@@ -24,8 +24,6 @@ Interface" ).
   * 4 External Links  
 ---  
   
-[[edit](/index.php?title=USB_chicklet&action=edit&section=1 "Edit section:
-Overview" )]
 
 ## Overview
 
@@ -50,8 +48,6 @@ clip.png)](/index.php/Image:USB_Chicklet_Overview.png "Enlarge" )
 
 A top down view of the chicklet allowing important items to be noted.
 
-[[edit](/index.php?title=USB_chicklet&action=edit&section=2 "Edit section:
-Supported Devices" )]
 
 ## Supported Devices
 
@@ -74,8 +70,6 @@ Also" )]
 
   * [Using the USB Chicklet](/index.php/Using_the_USB_chicklet "Using the USB chicklet" )
 
-[[edit](/index.php?title=USB_chicklet&action=edit&section=4 "Edit section:
-External Links" )]
 
 ## External Links
 

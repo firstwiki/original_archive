@@ -56,8 +56,6 @@ and made it into the quarter finals with Team 968 RAWC and Team 599 Robodox.
 At Silicon Valley, the Robotrons were seated #4 and again, made it into
 quarter-finals with the Cheesy Poofs and Fembots.
 
-[[edit](/index.php?title=1070&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -98,8 +96,6 @@ Accomplishments" )]
   * Raytheon [[4]](http://www.raytheon.com "http://www.raytheon.com" )
   * McMaster-Carr [[5]](http://mcmaster.com "http://mcmaster.com" )
 
-[[edit](/index.php?title=1070&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

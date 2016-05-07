@@ -30,8 +30,6 @@ Invitational](/index.php/FLL_World_Festival "FLL World Festival" ) (now known
 as the FLL World Festival) which was held in conjunction with the FIRST
 Championship event in April 2004.
 
-[[edit](/index.php?title=Mission_Mars&action=edit&section=1 "Edit section:
-Robot Game" )]
 
 ## Robot Game
 
@@ -44,8 +42,6 @@ designed by the team and built entirely from Lego Mindstorms kits and Lego
 pieces had to autonomously complete the missions on the board. Each mission
 had a specific point value.
 
-[[edit](/index.php?title=Mission_Mars&action=edit&section=2 "Edit section: The
-Project" )]
 
 ## The Project
 

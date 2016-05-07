@@ -72,8 +72,6 @@ your door, or otherwise assault you online. Someone will simply stroll along
 and fix your mistake, and might even inform you of what you did that was wrong
 (nicely, of course, and so that you will know better next time).
 
-[[edit](/index.php?title=FIRSTwiki:Policies_and_guidelines&action=edit&section
-=3 "Edit section: Other guidelines" )]
 
 ## Other guidelines
 

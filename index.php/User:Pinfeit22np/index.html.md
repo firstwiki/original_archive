@@ -270,8 +270,6 @@ Maribeth graduated with a degree in journalism from Syracuse University and
 has an MBA from The George Washington University. She lives in the Chicago, IL
 area with her husband Rich and 2 children.
 
-[[edit](/index.php?title=User:Pinfeit22np&action=edit&section=2 "Edit section:
-Jordy Nelson Green Jersey-The Top Players in the World" )]
 
 ##  Jordy Nelson Green Jersey-The Top Players in the World
 
@@ -544,8 +542,6 @@ Jerseys-s-110-Tim_Hightower-Red.html "http://www.nfljersyshow.com/NFL-Jerseys
 are you looking forward to? Watch Extremely Bowl 2011 on the web - Seriously
 Bowl reside streaming: watch NFL Adventures online cost-free now!
 
-[[edit](/index.php?title=User:Pinfeit22np&action=edit&section=6 "Edit section:
-Jason Pierre Paul Red Jersey-You Or The Amount Of The Nfl Ha" )]
 
 ##  Jason Pierre Paul Red Jersey-You Or The Amount Of The Nfl Ha
 
@@ -674,8 +670,6 @@ The fact is only rest and ice can heal your bicep pain and tendonitis. The
 smart money is placed on not acquiring it in the first place. Don't over
 train. Push yourself but be smart and you should get all the gains you need
 
-[[edit](/index.php?title=User:Pinfeit22np&action=edit&section=8 "Edit section:
-Albert Pujols Blue Jersey-The history of Copa America" )]
 
 ##  Albert Pujols Blue Jersey-The history of Copa America
 

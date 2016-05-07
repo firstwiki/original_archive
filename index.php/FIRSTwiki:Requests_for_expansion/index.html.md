@@ -36,8 +36,6 @@ Articles not to list here:
 
   
 
-[[edit](/index.php?title=FIRSTwiki:Requests_for_expansion&action=edit&section=
-1 "Edit section: How to add a new listing" )]
 
 ## How to add a new listing
 
@@ -48,8 +46,6 @@ adding, to make the list easier to read.
 
   
 
-[[edit](/index.php?title=FIRSTwiki:Requests_for_expansion&action=edit&section=
-2 "Edit section: 2007" )]
 
 ## 2007
 
@@ -62,8 +58,6 @@ article link **bold**. Please remember to sign with four tildes (~~~~).
   * **[Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award "Kleiner Perkins Caufield & Byers Entrepreneurship Award" )** \- Moved from the Requested articles as the article exists but contains little content. Please Expand. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 14:00, 29 May 2007 (EDT) 
   * **[Website Design Award](/index.php/Website_Design_Award "Website Design Award" )** \- Moved from the Requested articles as the article exists but contains little content. Please Expand. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 14:00, 29 May 2007 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Requests_for_expansion&action=edit&section=
-3 "Edit section: See Also" )]
 
 ## See Also
 

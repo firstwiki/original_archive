@@ -36,8 +36,6 @@ _ Team: _[Team #172](/index.php/Team#172 "Team" )_ _Northern Force_
 Position: _Electrical leader, driver, school representative, general
 mechanical lackey_
 
-[[edit](/index.php?title=User:KPWM&action=edit&section=1 "Edit section: About
-Me" )]
 
 ## About Me
 

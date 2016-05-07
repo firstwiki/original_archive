@@ -14,8 +14,6 @@ Jump to: navigation, search
   * 6 External Resources  
 ---  
   
-[[edit](/index.php?title=OpenFIRST&action=edit&section=1 "Edit section: Brief
-Introduction" )]
 
 ##  Brief Introduction
 
@@ -26,8 +24,6 @@ by a group of students that are members of FIRST teams across the world. See
 the [openFIRST Project site](http://www.openfirst.org
 "http://www.openfirst.org" )
 
-[[edit](/index.php?title=OpenFIRST&action=edit&section=2 "Edit section:
-Mandate" )]
 
 ##  Mandate
 
@@ -50,16 +46,12 @@ openFIRST is compatible with Linux, Windows, and other Operating Systems. It
 is compatible with the Apache, Microsoft IIS, Sambar, and other webservers.
 Both PHP and access to a database are required.
 
-[[edit](/index.php?title=OpenFIRST&action=edit&section=4 "Edit section:
-Founders; History" )]
 
 ##  Founders; History
 
 The openFIRST project was founded by Tim Ginn (team [1006](/index.php/1006
 "1006" )) and David DiBiase (team [1049](/index.php/1049 "1049" )) in 2003.
 
-[[edit](/index.php?title=OpenFIRST&action=edit&section=5 "Edit section:
-Volunteers" )]
 
 ##  Volunteers
 

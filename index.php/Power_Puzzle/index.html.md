@@ -60,8 +60,6 @@ global **Power Puzzle**?
 website](http://www.firstlegoleague.org/default.aspx?pid=70
 "http://www.firstlegoleague.org/default.aspx?pid=70" )._)
 
-[[edit](/index.php?title=Power_Puzzle&action=edit&section=2 "Edit section:
-Challenge Announcement" )]
 
 ##  Challenge Announcement
 

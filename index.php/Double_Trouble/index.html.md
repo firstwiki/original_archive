@@ -62,8 +62,6 @@ Field Layout" )]
 
 ## Field Layout
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=2 "Edit section:
-Game Description" )]
 
 ## Game Description
 
@@ -82,8 +80,6 @@ The puck could hold 2 robots, typically.
 
 There might have been a multiplier if the puck was on your side of the field?
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=3 "Edit section:
-Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -92,8 +88,6 @@ Kit Of Parts" )]
 
 ## Kit Of Parts
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=5 "Edit section:
-Rules" )]
 
 ## Rules
 
@@ -102,8 +96,6 @@ Strategies" )]
 
 ## Strategies
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=7 "Edit section:
-Robots" )]
 
 ## Robots
 
@@ -112,8 +104,6 @@ Misc Info" )]
 
 ## Misc Info
 
-[[edit](/index.php?title=Double_Trouble&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

@@ -32,8 +32,6 @@ at [requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion
   
   
 
-[[edit](/index.php?title=1388_in_2004&action=edit&section=1 "Edit section:
-Sacramento Regional" )]
 
 ## [Sacramento Regional](/index.php?title=Sacramento_Regional&action=edit
 "Sacramento Regional" )

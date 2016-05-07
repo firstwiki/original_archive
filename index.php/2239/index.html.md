@@ -114,8 +114,6 @@ Accomplishments" )]
 
 <http://www.ev3.net>
 
-[[edit](/index.php?title=2239&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

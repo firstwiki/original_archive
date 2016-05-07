@@ -50,8 +50,6 @@ Accomplishments" )]
 
   * 2004 VCU Website Design Award 
 
-[[edit](/index.php?title=1137&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -64,8 +62,6 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1137&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

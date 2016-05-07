@@ -118,8 +118,6 @@ Accomplishments" )]
   * Broke the 2005 high score record in an alliance with 1027 and 225 - 120 points The record lasted one day, until another alliance with 1027 beat it again. 
   * Awarded the Golden Gear Award by Delphi for being the highest ranked Delphi sponsored team 
 
-[[edit](/index.php?title=1507&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -142,8 +140,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1507&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

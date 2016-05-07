@@ -142,8 +142,6 @@ ArtsRelated Theme Articles:
   * &lt;a href="<http://exden.com/singles/index.php?p=blogs/viewstory/613048>" target="_blank"&gt;<http://exden.com/singles/index.php?p=blogs/viewstory/613048>&lt;/a&gt;
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefz9rg#Chinese_opera_face-changing_it.27s_a_kind_of_magic>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=2 "Edit section:
-Madonna's brother to publish book on life with her" )]
 
 ##  Madonna's brother to publish book on life with her
 
@@ -356,8 +354,6 @@ Entertainment Fashion People ArtsRelated Theme Articles:
   * <http://nurugel.org/index.php/User:Etwefr2rg#Architectural_photographer_enjoys_revival_at_97>
   * &lt;a href="<http://www.filedownloadfull.com/porn/showthread.php?p=1994916#post1994916>" target="_blank"&gt;<http://www.filedownloadfull.com/porn/showthread.php?p=1994916#post1994916>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=5 "Edit section:
-Ai Weiwei endured  immense pressure  in detention  source" )]
 
 ##  Ai Weiwei endured immense pressure in detention source
 
@@ -498,8 +494,6 @@ Entertainment Fashion World People Arts GermanyRelated Theme Articles:
   * <http://nurugel.org/index.php/User:Etwefr2rg#Conan_Doyle_estate_approves_new_Holmes_story>
   * &lt;a href="<http://learnmoregolf.com/forum/story.php?title=louis-vuitton-outlet-5138>" target="_blank"&gt;<http://learnmoregolf.com/forum/story.php?title=louis-vuitton-outlet-5138>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=6 "Edit section:
-Barnes wins Booker Prize he once named  posh bingo" )]
 
 ##  Barnes wins Booker Prize he once named posh bingo
 
@@ -762,8 +756,6 @@ Arts EnvironmentRelated Theme Articles:
   * <http://wearticles.com/my_articles/>
   * &lt;a href="<http://sma3kerinci.3owl.com/index.php?p=blogs/viewstory/13201>" target="_blank"&gt;<http://sma3kerinci.3owl.com/index.php?p=blogs/viewstory/13201>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=9 "Edit section:
-Sotheby's to sell modern collection in Amsterdam" )]
 
 ##  Sotheby's to sell modern collection in Amsterdam
 
@@ -822,8 +814,6 @@ ArtsRelated Theme Articles:
   * <http://www.indianmusicguide.com/index.php/User:Etwefy1rg#Counter_Space__exhibit__Seeking_utopia_in_the_kitchen>
   * &lt;a href="<http://www.skillworksforum.com/index.php?p=blogs/viewstory/1027755>" target="_blank"&gt;<http://www.skillworksforum.com/index.php?p=blogs/viewstory/1027755>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=10 "Edit section:
-UOB chairman is Singapore's richest man-Forbes Asia" )]
 
 ##  UOB chairman is Singapore's richest man-Forbes Asia
 
@@ -908,8 +898,6 @@ Theme Articles:
   * <http://frorld.com/blogs/viewstory/67137>
   * <http://realwritersrooms.com/node/5#comment-92>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=11 "Edit section:
-Diet Etiquette for the Holidays" )]
 
 ##  Diet Etiquette for the Holidays
 
@@ -1504,8 +1492,6 @@ Theme Articles:
   * <http://sn.cybermoslem.net//blogs/viewstory/238339>
   * <http://pingq8.com/blogs/posts/etwefh4rg>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=17 "Edit section:
-Egypt uprising art brightens Cairo, tempts buyers" )]
 
 ##  Egypt uprising art brightens Cairo, tempts buyers
 
@@ -1648,8 +1634,6 @@ Business TravelerRelated Theme Articles:
   * <http://tradeforextoday.net/blogs/viewstory/20381>
   * &lt;a href="<http://occupy.gooboome.com//index.php?p=blogs/viewstory/50895>" target="_blank"&gt;<http://occupy.gooboome.com//index.php?p=blogs/viewstory/50895>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=18 "Edit section:
-Four US airports to test expedited screening plan" )]
 
 ##  Four US airports to test expedited screening plan
 
@@ -1812,8 +1796,6 @@ Related NewsRelated Theme Articles:
   * <http://lis490it.sunahsuh.com/node/7#comment-5729>
   * &lt;a href="<http://posizionamento-web.it/immobiliare/story.php?title=louis-vuitton-120>" target="_blank"&gt;<http://posizionamento-web.it/immobiliare/story.php?title=louis-vuitton-120>&lt;/a&gt;
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=20 "Edit section:
-U.S. bidder snags William and Kate Pez for $13,000" )]
 
 ##  U.S. bidder snags William and Kate Pez for $13,000
 
@@ -1852,8 +1834,6 @@ U.S. People Arts LifestyleRelated Theme Articles:
   * <http://www.silverfraction.com/node/254693>
   * <http://batamkomputer.btm.web.id/blogs/viewstory/3520>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=21 "Edit section:
-Air travellers want more self-service, study finds" )]
 
 ##  Air travellers want more self-service, study finds
 
@@ -1918,8 +1898,6 @@ Business Traveler Aerospace &amp; DefenseRelated Theme Articles:
   * &lt;a href="<http://righteousbikers.com/member/blog_post_view.php?postId=68866>" target="_blank"&gt;<http://righteousbikers.com/member/blog_post_view.php?postId=68866>&lt;/a&gt;
   * <http://ranchidirectory.com/blogs/viewstory/65899>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=22 "Edit section:
-Exhibitions  Ancient Egypt's Book of the Dead in London show" )]
 
 ##  Exhibitions Ancient Egypt's Book of the Dead in London show
 
@@ -2012,8 +1990,6 @@ Business TravelerRelated Theme Articles:
   * <http://pluswide.comule.com/index.php?p=blogs/viewstory/19203>
   * <http://share-community.online.gp/index.php?p=blogs/viewstory/49255>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=23 "Edit section:
-Lufthansa cuts 2011 outlook after weak August" )]
 
 ##  Lufthansa cuts 2011 outlook after weak August
 
@@ -2390,8 +2366,6 @@ Theme Articles:
   * <http://fantasticmusical.com.my/blogs/viewstory/11433>
   * <http://freunde.com.br/index.php?p=blogs/viewstory/113297>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=27 "Edit section:
-Carlson, Rezidor to operate hotels under one name" )]
 
 ##  Carlson, Rezidor to operate hotels under one name
 
@@ -2450,8 +2424,6 @@ Theme Articles:
   * <http://atozscan.com/story.php?title=coachoutlet-2>
   * <http://pudgi.com//index.php?p=blogs/viewstory/132117>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=28 "Edit section:
-German firm starts selling space travel insurance" )]
 
 ##  German firm starts selling space travel insurance
 
@@ -2516,8 +2488,6 @@ Theme Articles:
   * <http://bookmarknova.com/story.php?title=polo-ralph-lauren-outlet>
   * <http://sangpelajar.com/blogs/viewstory/250219>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=29 "Edit section:
-Thai Airways says unsure of making 2011 net profit" )]
 
 ##  Thai Airways says unsure of making 2011 net profit
 
@@ -2704,8 +2674,6 @@ Business TravelerRelated Theme Articles:
   * <http://jejaringsosial.lampungtimurkab.go.id/blogs/viewstory/26186>
   * <http://europeanball.com/blogs/viewstory/195040>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=31 "Edit section:
-Jimmy Kimmel goes head-to-head with Leno, Letterman" )]
 
 ##  Jimmy Kimmel goes head-to-head with Leno, Letterman
 
@@ -2826,8 +2794,6 @@ Price Related NewsRelated Theme Articles:
   * <http://totalomics.com/index.php/User:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
   * <http://www.iemu.org/index.php/User:Etwefh5rg#Grammys_go_country_for_nominations_concert>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=33 "Edit section:
-Michael J. Fox to star in TV comedy as dad with Parkinson's" )]
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
 
@@ -3194,8 +3160,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * <http://www.filedownloadfull.com/porn/showthread.php?p=2035111#post2035111>
   * <http://classifiedlaptops.com/ads/san-francisco-flower-power-singer-scott-mckenzie/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=37 "Edit section:
-Michael J. Fox to star in TV comedy as dad with Parkinson's" )]
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
 
@@ -3308,8 +3272,6 @@ Entertainment Fashion Film MusicRelated Theme Articles:
   * <http://www.adsguideonline.com/ads/pioneering-comedian-phyllis-diller-dies-at-age-95/>
   * <http://www.onlineadspost.com/ads/fox-studio-to-distribute-dreamworks-animation-film-2/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=39 "Edit section:
-Pioneering comedian Phyllis Diller dies at age 95" )]
 
 ##  Pioneering comedian Phyllis Diller dies at age 95
 
@@ -3480,8 +3442,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * [http://sourceplicity.com/index.php?option=com_blog&amp;view=comments&amp;pid=17902&amp;Itemid=0&amp;lang=en](http://sourceplicity.com/index.php?option=com_blog&view=comments&pid=17902&Itemid=0&lang=en "http://sourceplicity.com/index.php?option=com_blog&view=comments&pid=17902&Itemid=0&lang=en" )
   * <http://hoodvibe.com/blogs/posts/etwefc7rg>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=41 "Edit section:
-Pioneering comedian Phyllis Diller dies at age 95" )]
 
 ##  Pioneering comedian Phyllis Diller dies at age 95
 
@@ -3666,8 +3626,6 @@ Price Related NewsRelated Theme Articles:
   * <http://www.binkview.com/blogs/entry/Michael-J-Fox-to-star-in-TV-comedy-as-dad-with-Parkinson-s-2012-09-11>
   * <http://europeanball.com/blogs/viewstory/220746>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=43 "Edit section:
-San Francisco  flower power singer Scott McKenzie dead at 7" )]
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
 
@@ -3752,8 +3710,6 @@ Entertainment Fashion TelevisionRelated Theme Articles:
   * [http://www.ebook-galaxy.com/index.php?option=com_blog&amp;view=comments&amp;pid=13917&amp;Itemid=0](http://www.ebook-galaxy.com/index.php?option=com_blog&view=comments&pid=13917&Itemid=0 "http://www.ebook-galaxy.com/index.php?option=com_blog&view=comments&pid=13917&Itemid=0" )
   * <http://yenikelma.com/soru-cevap/?p=130263>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=45 "Edit section:
-Clues sought in suicide of film director Tony Scott" )]
 
 ##  Clues sought in suicide of film director Tony Scott
 
@@ -3946,8 +3902,6 @@ Entertainment Fashion Film MusicRelated Theme Articles:
   * <http://sn.cybermoslem.net//blogs/viewstory/250580>
   * <http://www.petforsalecalifornia.com/ads/grammys-go-country-for-nominations-concert-2/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=47 "Edit section:
-Michael J. Fox to star in TV comedy as dad with Parkinson's" )]
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
 
@@ -4000,8 +3954,6 @@ Entertainment Fashion Television MediaRelated Theme Articles:
   * <http://www.silverfraction.com/node/305452>
   * [http://www.fmsfinancesociety.com/forum/topic.php?id=5306&amp;replies=1#post-7309](http://www.fmsfinancesociety.com/forum/topic.php?id=5306&replies=1#post-7309 "http://www.fmsfinancesociety.com/forum/topic.php?id=5306&replies=1#post-7309" )
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=48 "Edit section:
-Classical Brits to honor U.S. film composer Williams" )]
 
 ##  Classical Brits to honor U.S. film composer Williams
 
@@ -4056,8 +4008,6 @@ Entertainment Fashion Film MusicRelated Theme Articles:
   * <http://friendsgroup.altervista.org/activity/p/92700/>
   * <http://www.iartdesigner.com/activity/p/83232/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=49 "Edit section:
-Pioneering comedian Phyllis Diller dies at age 95" )]
 
 ##  Pioneering comedian Phyllis Diller dies at age 95
 
@@ -4244,8 +4194,6 @@ Price Related NewsRelated Theme Articles:
   * <http://friends.simetri.in/activity/p/38433/>
   * <http://www.cleverli.com/wp/?p=258652>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=51 "Edit section:
-San Francisco  flower power singer Scott McKenzie dead at 7" )]
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
 
@@ -4294,8 +4242,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * <http://www.esohbet.us/blogs/entry/San-Francisco-flower-power-singer-Scott-McKenzie-dead-at-73-2012-09-17>
   * <http://wearelyrics.com/activity/p/24059/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=52 "Edit section:
-San Francisco  flower power singer Scott McKenzie dead at 7" )]
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
 
@@ -4344,8 +4290,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * <http://www.adswr.co.uk/ads/michael-j-fox-to-star-in-tv-comedy-as-dad-with-pa-3/>
   * <http://www.petforsaleillinois.com/ads/grammys-go-country-for-nominations-concert-2/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=53 "Edit section:
-Michael J. Fox to star in TV comedy as dad with Parkinson's" )]
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
 
@@ -4400,8 +4344,6 @@ Entertainment Fashion Television MediaRelated Theme Articles:
   * <http://www.mlmteam.in/ads/pioneering-comedian-phyllis-diller-dies-at-age-95-5/>
   * <http://occupologist.phpfogapp.com/index.php/User:Etweft2rg#Rosie_O.27Donnell_says_lucky_to_be_here_after_heart_attack>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=54 "Edit section:
-San Francisco  flower power singer Scott McKenzie dead at 7" )]
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
 
@@ -4450,8 +4392,6 @@ Entertainment Fashion MusicRelated Theme Articles:
   * <http://classifiedinet.in/ads/michael-j-fox-to-star-in-tv-comedy-as-dad-with-pa-4/>
   * <http://www.iimmmumbai.org/blog/comments/8853>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=55 "Edit section:
-Fox promotes broadcast TV executive Kevin Reilly" )]
 
 ##  Fox promotes broadcast TV executive Kevin Reilly
 
@@ -4516,8 +4456,6 @@ Company Price Related NewsRelated Theme Articles:
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
   * <http://www.openintimacy.com/member/blog_post_view.php?postId=46397>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=56 "Edit section:
-Porn film production on hold after Los Angeles syphilis case" )]
 
 ##  Porn film production on hold after Los Angeles syphilis case
 
@@ -4648,8 +4586,6 @@ Entertainment Fashion Television MediaRelated Theme Articles:
   * <http://www.racedate.com/member/blog_post_view.php?postId=114128>
   * <http://boltondirectory.com/ads/san-francisco-flower-power-singer-scott-mckenzie/>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=58 "Edit section:
-Solange Knowles Follows In Alexa Chungs Footsteps As Face Of" )]
 
 ##  Solange Knowles Follows In Alexa Chungs Footsteps As Face Of
 
@@ -4696,8 +4632,6 @@ Related Theme Articles:
   * <http://www.surfcoastwebservices.com/component/blog/comments.html?pid=23294>
   * <http://blogs.ionis-group.com/iseg/lyon/artytude/2011/10/exposition-portrait-darchitectes-au-palais-de-chaillot.html#comments>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=59 "Edit section:
-LFW AW ’11 Report GILES  Slide Image 7  Shows" )]
 
 ##  LFW AW ’11 Report GILES Slide Image 7 Shows
 
@@ -4714,8 +4648,6 @@ Related Theme Articles:
   * <http://myanmarlists.com/ads/pioneering-comedian-phyllis-diller-dies-at-age-95-2/>
   * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Brace_yourselves.2C_it.E2.80.99s_the_2011_PIRELLI_CALENDAR.21_.21_.21_Graz>
 
-[[edit](/index.php?title=User:Etwefd3rg&action=edit&section=60 "Edit section:
-Greek tourism rebound needs reforms to last" )]
 
 ##  Greek tourism rebound needs reforms to last
 

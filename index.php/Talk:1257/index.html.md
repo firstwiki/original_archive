@@ -48,8 +48,6 @@ Time to start recruiting, eh?
 \--[Phrontist](/index.php/User:Phrontist "User:Phrontist" ) 19:58, 15 Jun 2004
 (EDT)
 
-[[edit](/index.php?title=Talk:1257&action=edit&section=1 "Edit section:
-Question" )]
 
 ##  Question
 

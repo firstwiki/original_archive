@@ -30,8 +30,6 @@ Jump to: navigation, search
 
 ## Requested articles
 
-[[edit](/index.php?title=FIRSTwiki:Requested_articles&action=edit&section=2
-"Edit section: Control System" )]
 
 ### Control System
 
@@ -52,8 +50,6 @@ Jump to: navigation, search
   * [Common materials list](/index.php?title=Common_materials_list&action=edit "Common materials list" )
   * [Fabrication timeline](/index.php?title=Fabrication_timeline&action=edit "Fabrication timeline" )
 
-[[edit](/index.php?title=FIRSTwiki:Requested_articles&action=edit&section=4
-"Edit section: Awards" )]
 
 ### Awards
 
@@ -66,8 +62,6 @@ Jump to: navigation, search
   * [Kirschoff's Law of Current](/index.php?title=Kirschoff%27s_Law_of_Current&action=edit "Kirschoff's Law of Current" )
   * [Circuit](/index.php?title=Circuit&action=edit "Circuit" )
 
-[[edit](/index.php?title=FIRSTwiki:Requested_articles&action=edit&section=6
-"Edit section: Non-technical" )]
 
 ### Non-technical
 

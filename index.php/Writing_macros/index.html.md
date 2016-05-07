@@ -18,8 +18,6 @@ macros wisely in a program can increase code readability and maintainability.
   * 3 External Links  
 ---  
   
-[[edit](/index.php?title=Writing_macros&action=edit&section=1 "Edit section:
-Syntax" )]
 
 ## Syntax
 
@@ -48,8 +46,6 @@ but this shouldn’t be used for the same reasons multi-line macros are not
 recommended. To achieve the same effect without using macros, a function can
 be preceded with the keyword "inline" in any modern compiler.
 
-[[edit](/index.php?title=Writing_macros&action=edit&section=2 "Edit section:
-Uses of Macros" )]
 
 ## Uses of Macros
 
@@ -78,8 +74,6 @@ decide that 254 is too fast later on. It also removes any confusion a future
 programmer might have about what the value means because it is written in
 plain English, rather than an obscure number.
 
-[[edit](/index.php?title=Writing_macros&action=edit&section=4 "Edit section:
-Renaming" )]
 
 ### Renaming
 
@@ -140,8 +134,6 @@ would change to
     #define RIGHT_MOTOR_CONTROL   p1_x
     
 
-[[edit](/index.php?title=Writing_macros&action=edit&section=5 "Edit section:
-External Links" )]
 
 ## External Links
 

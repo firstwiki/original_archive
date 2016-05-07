@@ -40,8 +40,6 @@ on Wikipedia](http://www.wikipedia.org/wiki/physics "wikipedia:physics" ).
     * 3.3 Pneumatics  
 ---  
   
-[[edit](/index.php?title=Physics&action=edit&section=1 "Edit section: Static
-Formulas" )]
 
 # Static Formulas
 
@@ -50,8 +48,6 @@ Formulas" )]
 
 # Dynamic Formulas
 
-[[edit](/index.php?title=Physics&action=edit&section=3 "Edit section: Linear
-Motion" )]
 
 ## Linear Motion
 
@@ -60,8 +56,6 @@ Parabolic Motion" )]
 
 ## Parabolic Motion
 
-[[edit](/index.php?title=Physics&action=edit&section=5 "Edit section:
-Calculations" )]
 
 # Calculations
 
@@ -72,8 +66,6 @@ Calculations" )]
 
   * [Torque](/index.php/Torque "Torque" )
 
-[[edit](/index.php?title=Physics&action=edit&section=7 "Edit section:
-Circuitry" )]
 
 ## Circuitry
 

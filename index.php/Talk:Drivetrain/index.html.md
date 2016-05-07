@@ -22,8 +22,6 @@ just pro/cons of each drivetrain. [Tanner](/index.php/User:TannerLD
 What's Holomonic drive? --[Astronouth7303](/index.php/User:Astronouth7303
 "User:Astronouth7303" )
 
-[[edit](/index.php?title=Talk:Drivetrain&action=edit&section=1 "Edit section:
-Tank Drive" )]
 
 ##  Tank Drive
 

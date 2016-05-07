@@ -46,8 +46,6 @@ High Schools.
   * 2007 - New York City Regional 
   * 2008 - New York City Regional 
 
-[[edit](/index.php?title=806&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -78,8 +76,6 @@ Accomplishments" )]
   * Verizon 
   * Goldman Sachs 
 
-[[edit](/index.php?title=806&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -120,8 +120,6 @@ Regional" )
 
   
 
-[[edit](/index.php?title=Greater_Kansas_City_Regional&action=edit&section=1
-"Edit section: External Links" )]
 
 ## External Links
 

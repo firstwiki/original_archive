@@ -40,8 +40,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1405
 
   * History Example 
 
-[[edit](/index.php?title=1405&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -52,16 +50,12 @@ projects" )]
 
   * [2004 - Robo Charles](/index.php?title=Robo_Charles_%281405%29&action=edit "Robo Charles \(1405\)" )
 
-[[edit](/index.php?title=1405&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
   * 2004 Regional Champion - 2004 [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" )
   * 2004 #2 seed - 2004 [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" )
 
-[[edit](/index.php?title=1405&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -74,8 +68,6 @@ List" )]
 
   * Member Example 
 
-[[edit](/index.php?title=1405&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 

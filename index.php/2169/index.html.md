@@ -232,32 +232,24 @@ Superior" )]
   * Coopertition Award 
   * Excellence in Design Award 
 
-[[edit](/index.php?title=2169&action=edit&section=12 "Edit section: 10,000
-Lakes" )]
 
 #### 10,000 Lakes
 
   * Finalist 
   * Engineering Excellence Award 
 
-[[edit](/index.php?title=2169&action=edit&section=13 "Edit section:
-Championship" )]
 
 #### Championship
 
   * KING TeC wins Championship Imagry Award 
   * Advances to Quarter-Finals on Archemidies 
 
-[[edit](/index.php?title=2169&action=edit&section=14 "Edit section: Accepted
-to IRI 2011" )]
 
 #### Accepted to IRI 2011
 
 
 ### 2010
 
-[[edit](/index.php?title=2169&action=edit&section=16 "Edit section: Milwaukee"
-)]
 
 #### Milwaukee
 
@@ -288,16 +280,12 @@ Star" )]
 
   * KING-TeC wins the Chairman's Award 
 
-[[edit](/index.php?title=2169&action=edit&section=21 "Edit section:
-Championship" )]
 
 #### Championship
 
 
 ### 2008
 
-[[edit](/index.php?title=2169&action=edit&section=23 "Edit section: Wisconsin"
-)]
 
 #### Wisconsin
 
@@ -314,8 +302,6 @@ Championship" )]
 
 ### 2007
 
-[[edit](/index.php?title=2169&action=edit&section=26 "Edit section: Wisconsin"
-)]
 
 #### Wisconsin
 
@@ -330,8 +316,6 @@ Championship" )]
 
   * KING-TEC Competes in the National competition with vigor, earning 16th in their division at Galileo field. 
 
-[[edit](/index.php?title=2169&action=edit&section=28 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

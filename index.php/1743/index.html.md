@@ -144,8 +144,6 @@ City Robotics Alliance" )]
 
 Starting in 2010 Team 1743 joined the Steel City Robotics Alliance(SCRA).
 
-[[edit](/index.php?title=1743&action=edit&section=9 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -166,8 +164,6 @@ Accomplishments" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=1743&action=edit&section=11 "Edit section: Pre 2011
-Sponsors" )]
 
 ### Pre 2011 Sponsors
 
@@ -194,8 +190,6 @@ Sponsors" )]
   * Ice Castle Arena 
   * Mad Momma Designs 
 
-[[edit](/index.php?title=1743&action=edit&section=13 "Edit section: 2012
-Sponsors" )]
 
 ### 2012 Sponsors
 

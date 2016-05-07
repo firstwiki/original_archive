@@ -38,8 +38,6 @@ Banebots motor" )
   * 3 Usage Notes  
 ---  
   
-[[edit](/index.php?title=Banebots_motor&action=edit&section=1 "Edit section:
-Kit of Parts" )]
 
 ##  Kit of Parts
 
@@ -60,8 +58,6 @@ Torque and Efficiency curves" )]
 
     _Graphs needed here._
 
-[[edit](/index.php?title=Banebots_motor&action=edit&section=4 "Edit section:
-Usage Notes" )]
 
 ## Usage Notes
 

@@ -72,8 +72,6 @@ successful. See [Autonomous techniques
 (2004)](/index.php?title=Autonomous_techniques_%282004%29&action=edit
 "Autonomous techniques \(2004\)" ) for more information in this regard.
 
-[[edit](/index.php?title=IR_sensor&action=edit&section=2 "Edit section: Future
-use \(speculation\)" )]
 
 ## Future use (speculation)
 

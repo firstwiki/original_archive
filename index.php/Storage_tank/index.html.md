@@ -14,8 +14,6 @@ Jump to: navigation, search
     * 2.2 Model Number  
 ---  
   
-[[edit](/index.php?title=Storage_tank&action=edit&section=1 "Edit section:
-Connections" )]
 
 ## Connections
 
@@ -26,8 +24,6 @@ Current Product Info" )]
 
 ## Current Product Info
 
-[[edit](/index.php?title=Storage_tank&action=edit&section=3 "Edit section:
-Supplier" )]
 
 ### Supplier
 

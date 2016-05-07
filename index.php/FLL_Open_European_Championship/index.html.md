@@ -12,8 +12,6 @@ Jump to: navigation, search
     * 1.3 External Links  
 ---  
   
-[[edit](/index.php?title=FLL_Open_European_Championship&action=edit&section=1
-"Edit section: Open European Championship" )]
 
 ## Open European Championship
 
@@ -24,8 +22,6 @@ year world event is being run as part of the 50th anniversary celebration of
 Eindhoven University of Technology. It is unclear at this time if this will be
 an ongoing event in the future.
 
-[[edit](/index.php?title=FLL_Open_European_Championship&action=edit&section=2
-"Edit section: Qualification" )]
 
 ### Qualification
 
@@ -38,8 +34,6 @@ In addition to the above, teams from countries outside of Europe will be
 allowed to invite 2 teams each. Special rules will govern how the teams from
 the United States and Canada are selected.
 
-[[edit](/index.php?title=FLL_Open_European_Championship&action=edit&section=3
-"Edit section: Results" )]
 
 ### Results
 

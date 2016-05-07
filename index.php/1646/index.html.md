@@ -68,8 +68,6 @@ semifinals at the Buckeye Regional in Cleveland, Ohio.
   * 2008-Skorpinox 
   * 2009-PBAR Special 
 
-[[edit](/index.php?title=1646&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -88,8 +86,6 @@ Midwest Regional Highest Rookie Seed
 
 Boilermaker Regional Judges Award
 
-[[edit](/index.php?title=1646&action=edit&section=7 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -100,8 +96,6 @@ Boilermaker Regional Judges Award
   * Water Jet Cutting of Indiana 
   * Cici's Pizza 
 
-[[edit](/index.php?title=1646&action=edit&section=8 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -110,8 +104,6 @@ List" )]
 
 ### Students
 
-[[edit](/index.php?title=1646&action=edit&section=10 "Edit section:
-Electronics" )]
 
 #### Electronics
 
@@ -138,8 +130,6 @@ Programming" )]
   * Blake Braddock 
   * Michael Diaz 
 
-[[edit](/index.php?title=1646&action=edit&section=13 "Edit section: Public
-Relations" )]
 
 #### Public Relations
 

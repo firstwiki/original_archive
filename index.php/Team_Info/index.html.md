@@ -48,8 +48,6 @@ time. You can use Google Earth or any other method to find out locations. Also
 this could allow the comparison to regional, sponsor, and off-season event
 locations.
 
-[[edit](/index.php?title=Team_Info&action=edit&section=2 "Edit section:
-Linking" )]
 
 ## Linking
 
@@ -70,8 +68,6 @@ Information" )]
 
 ## Team Information
 
-[[edit](/index.php?title=Team_Info&action=edit&section=4 "Edit section: Table
-Key" )]
 
 #### Table Key
 
@@ -374,8 +370,6 @@ it](http://www.firstwiki.net/index.php?title=Team_Info&action=edit
   
   
 
-[[edit](/index.php?title=Team_Info&action=edit&section=6 "Edit section: No
-Longer Active Teams" )]
 
 ## No Longer Active Teams
 
@@ -494,8 +488,6 @@ it](http://www.firstwiki.net/index.php?title=Team_Info&action=edit
   
   
 
-[[edit](/index.php?title=Team_Info&action=edit&section=8 "Edit section: Off-
-Season Event Information" )]
 
 ## Off-Season Event Information
 

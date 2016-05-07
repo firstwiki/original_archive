@@ -28,8 +28,6 @@ clip.png)](/index.php/Image:Youngdave.jpg "Enlarge" )
   * 6 External Links  
 ---  
   
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=1 "Edit section:
-Synopsis" )]
 
 ##  Synopsis
 
@@ -78,8 +76,6 @@ Random Facts" )]
   * At one point, Dave was within weeks of being put on TLC's "What Not To Wear." His Hawaiian shirt collection was saved only when the producers cancelled. 
   * A Virginia Tech Alumni (B.S. in Computer Science with a minor in Goofiness) 
 
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=3 "Edit section: See
-Dave Live" )]
 
 ##  See Dave Live
 
@@ -94,8 +90,6 @@ The key to Dave's Office:
 see past [sightings of Dave](/index.php/Dave_Lavery/Sightings "Dave
 Lavery/Sightings" )
 
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=4 "Edit section: Dave
-Work Poem- By Dave Lavery" )]
 
 ##  Dave Work Poem- By Dave Lavery
 
@@ -142,8 +136,6 @@ Related \(Literally!\) Links" )]
 
   * [Sean Lavery](/index.php/Sean_Lavery "Sean Lavery" )
 
-[[edit](/index.php?title=Dave_Lavery&action=edit&section=6 "Edit section:
-External Links" )]
 
 ##  External Links
 

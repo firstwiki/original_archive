@@ -62,8 +62,6 @@ Build" )]
 
 ## Build
 
-[[edit](/index.php?title=694_in_2001&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -78,8 +76,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=694_in_2001&action=edit&section=5 "Edit section: next
-Regional name" )]
 
 ### next Regional name
 
@@ -98,8 +94,6 @@ balance both goals on the bridge (and she was sucessful at such in a match
 too). Stuyle (along with he wonderful operators) managed to pull Stuyvesant
 through to a silver-medal win in our rookie year.
 
-[[edit](/index.php?title=694_in_2001&action=edit&section=7 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

@@ -24,8 +24,6 @@ Jump to: navigation, search
   * Number of Teams Supported: 50 
   * Event Type: [State Tournament](/index.php/FLL_State_Tournament "FLL State Tournament" )
 
-[[edit](/index.php?title=Connecticut_FLL_Tournament&action=edit&section=2
-"Edit section: Qualification Criteria" )]
 
 ## Qualification Criteria
 
@@ -34,8 +32,6 @@ Two ways to qualify for this tournament.
   1. Earn one of the top five awards at a Connecticut Qualifying Tournament. There are 5 qualifying tournaments in CT so 25 spots are available this way. 
   2. Lottery for rest of the spots (25). 
 
-[[edit](/index.php?title=Connecticut_FLL_Tournament&action=edit&section=3
-"Edit section: How to Register" )]
 
 ## How to Register
 

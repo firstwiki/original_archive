@@ -66,8 +66,6 @@ team. Liverpool is a suburb of Syracuse, New York. The Arctic Warriors name is
 a combination of the school's mascot (the warriors) and the cold, snowy
 climate experienced in Liverpool during the Robotics season.
 
-[[edit](/index.php?title=174&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 

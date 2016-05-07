@@ -44,16 +44,12 @@ Please **[improve](http://www.firstwiki.net/index.php?title=125&action=edit
   * 6 Sponsors  
 ---  
   
-[[edit](/index.php?title=125&action=edit&section=1 "Edit section: 2007
-Competitions" )]
 
 ## 2007 Competitions
 
   * Boston Regional 
   * National Championship 
 
-[[edit](/index.php?title=125&action=edit&section=2 "Edit section: 2006
-Competitions" )]
 
 ## 2006 Competitions
 

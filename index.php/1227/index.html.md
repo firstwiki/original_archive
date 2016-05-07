@@ -120,16 +120,12 @@ Accomplishments" )]
   * NASA Grant for 2004 and 2005 
   * 2004 winners of [Kettering Kickoff](/index.php/Kettering_Kickoff "Kettering Kickoff" )
 
-[[edit](/index.php?title=1227&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ##  Sponsors
 
   * [Smiths Aerospace](http://www.smiths-aerospace.com/ "http://www.smiths-aerospace.com/" )
   * ITT Tech 
 
-[[edit](/index.php?title=1227&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

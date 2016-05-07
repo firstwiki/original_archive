@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Championship_Event_%281993%29&action=edit&section=1
-"Edit section: Summary" )]
 
 # Summary
 

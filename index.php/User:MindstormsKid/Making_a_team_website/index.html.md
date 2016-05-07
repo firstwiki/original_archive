@@ -28,8 +28,6 @@ Now, let the website building begin!
     * 1.4 Configuring your website  
 ---  
   
-[[edit](/index.php?title=User:MindstormsKid/Making_a_team_website&action=edit&
-section=1 "Edit section: Getting a Website" )]
 
 ## Getting a Website
 
@@ -78,8 +76,6 @@ section=4 "Edit section: Getting your website" )]
   * I don't really remember what it's like when you get your fist website, but I think it just takes you to the Site Manager. 
   * If there are any pages there, delete them. 
 
-[[edit](/index.php?title=User:MindstormsKid/Making_a_team_website&action=edit&
-section=5 "Edit section: Configuring your website" )]
 
 ### Configuring your website
 

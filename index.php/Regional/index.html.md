@@ -122,8 +122,6 @@ Regionals](/index.php/Index_of_Regionals "Index of Regionals" )
   * 3 See also  
 ---  
   
-[[edit](/index.php?title=Regional&action=edit&section=1 "Edit section:
-Overview" )]
 
 ##  Overview
 
@@ -210,8 +208,6 @@ After the alliance pickings go on, the tournament happens.
     7 -- 
     
 
-[[edit](/index.php?title=Regional&action=edit&section=5 "Edit section: See
-also" )]
 
 ##  See also
 

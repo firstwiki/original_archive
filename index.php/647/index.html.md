@@ -60,8 +60,6 @@ the program and are participating in many community outreach programs. While
 participating in these programs the students are able to ensure that a fresh
 crop of young adults will be inspired to reach for the stars.
 
-[[edit](/index.php?title=647&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -84,8 +82,6 @@ projects" )]
   * [2005 - TRImendous](/index.php/TRImendous_%28647%29 "TRImendous \(647\)" )
   * [2006 - Trogdor](/index.php/Trogdor_%28647%29 "Trogdor \(647\)" )
 
-[[edit](/index.php?title=647&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

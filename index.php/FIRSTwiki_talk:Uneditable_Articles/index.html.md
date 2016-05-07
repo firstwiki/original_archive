@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=FIRSTwiki_talk:Uneditable_Articles&action=edit&sectio
-n=1 "Edit section: Index of Regionals and Team Info" )]
 
 ##  Index of Regionals and Team Info
 
@@ -60,8 +58,6 @@ PAGE, _not_ a different page.** [MindstormsKid](/index.php/User:MindstormsKid
   * It seems very odd that it would do this, particularly because it seems to be limited to some pages (as there are many pages with a lot of content which can still be edited). Perhaps that is just part of this glitch, like the wiki software sets some weird text limit to certain pages for no particular reason. Very odd. Hopefully we can get someone to update the software soon to fix all these problems. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 09:45, 19 March 2008 (EDT) 
   * It's not a character limit. [Doshindude](/index.php?title=User:Doshindude&action=edit "User:Doshindude" ) 07:47, 24 March 2008 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki_talk:Uneditable_Articles&action=edit&sectio
-n=3 "Edit section: Can't tag" )]
 
 ## Can't tag
 

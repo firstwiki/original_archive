@@ -28,8 +28,6 @@ My official team portrait as located in my [Team357.org
 Profile](http://team357.org/index.php?page=profile&user=1
 "http://team357.org/index.php?page=profile&user=1" )
 
-[[edit](/index.php?title=User:Knippschild&action=edit&section=1 "Edit section:
-Brief Bio" )]
 
 ##  Brief Bio
 

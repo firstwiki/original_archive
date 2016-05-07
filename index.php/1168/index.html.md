@@ -62,8 +62,6 @@ Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" ).
   * [2005 - Friarbot mkIII](/index.php?title=1168_in_2005&action=edit "1168 in 2005" )
   * [2006 - Friarbot mkIV](/index.php/1168_in_2006 "1168 in 2006" )
 
-[[edit](/index.php?title=1168&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -86,8 +84,6 @@ List" )]
 
 ## Members List
 
-[[edit](/index.php?title=1168&action=edit&section=6 "Edit section: Students"
-)]
 
 ### Students
 

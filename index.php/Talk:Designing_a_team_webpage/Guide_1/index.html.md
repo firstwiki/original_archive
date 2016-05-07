@@ -36,8 +36,6 @@ is.--[Snoldak924](/index.php/User:Snoldak924 "User:Snoldak924" ) 10:24, 30 Jun
 
     You raise a good point. Let's continue the discussion at [FIRSTwiki talk:Policies and guidelines](/index.php/FIRSTwiki_talk:Policies_and_guidelines "FIRSTwiki talk:Policies and guidelines" ). --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 15:36, 30 Jun 2004 (EDT) 
 
-[[edit](/index.php?title=Talk:Designing_a_team_webpage/Guide_1&action=edit&sec
-tion=1 "Edit section: Hosting oppertunies and my website aritce" )]
 
 ##  Hosting oppertunies and my website aritce
 

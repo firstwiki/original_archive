@@ -98,16 +98,12 @@ Parts" )]
 
   * Robots were not tethered this year. 
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=5 "Edit section: Rules"
-)]
 
 ## Rules
 
   * 50 pound weight limit 
   * Robots had to fit in a 3' x 3' x 3' volume 
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=6 "Edit section:
-Strategies" )]
 
 ## Strategies
 
@@ -116,8 +112,6 @@ Strategies" )]
 
 ## Robots
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=8 "Edit section: Misc
-Info" )]
 
 ## Misc Info
 
@@ -126,8 +120,6 @@ Video from 1993(ABCNews): (Thanks Venkatesh for web space)
 [[1]](http://prometheus.acm.jhu.edu/usfirst/1993vids/
 "http://prometheus.acm.jhu.edu/usfirst/1993vids/" )
 
-[[edit](/index.php?title=Rug_Rage&action=edit&section=9 "Edit section:
-Sources" )]
 
 ## Sources
 

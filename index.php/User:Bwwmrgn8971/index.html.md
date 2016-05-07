@@ -70,8 +70,6 @@ Jump to: navigation, search
   * 53 493  
 ---  
   
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=1 "Edit section:
-article11988" )]
 
 ##  article11988
 
@@ -346,8 +344,6 @@ Affirmation the next few paragraphs
   
 &lt;/div&gt;.
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=3 "Edit section:
-article12317" )]
 
 ##  article12317
 
@@ -686,8 +682,6 @@ someone try to take care of the specific patient's problem.
 
 .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=5 "Edit section:
-article3120" )]
 
 ##  article3120
 
@@ -860,8 +854,6 @@ Report this content
 
 .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=6 "Edit section:
-article1832" )]
 
 ##  article1832
 
@@ -982,8 +974,6 @@ Assertion this information
 
 .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=7 "Edit section:
-Gallery  country feather doubles match-fixing a war was the" )]
 
 ##  Gallery country feather doubles match-fixing a war was the
 
@@ -1050,8 +1040,6 @@ great , to reduce stamp duty to be the Ministry of Finance with . SFC just
 make a statement , determine the fundamental forces of the stock market , but
 also in the economy .
 
-[[edit](/index.php?title=User:Bwwmrgn8971&action=edit&section=9 "Edit section:
-Dress enterprise report" )]
 
 ##  Dress enterprise report
 

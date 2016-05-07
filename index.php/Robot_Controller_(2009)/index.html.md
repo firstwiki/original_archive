@@ -106,8 +106,6 @@ Library
 Documentation](http://users.wpi.edu/~bamiller/WPIRoboticsLibrary/index.html
 "http://users.wpi.edu/~bamiller/WPIRoboticsLibrary/index.html" ).
 
-[[edit](/index.php?title=Robot_Controller_%282009%29&action=edit&section=4
-"Edit section: C" )]
 
 ###  C
 
@@ -138,8 +136,6 @@ connector, so PWM or other wiring connections are made available through a
 breakout board that either that screws into the module, or a sidecar that is
 seperate from the module and connected by a cable.
 
-[[edit](/index.php?title=Robot_Controller_%282009%29&action=edit&section=7
-"Edit section: Digital I/O Module \(NI 9403\) and Sidecar" )]
 
 ###  Digital I/O Module (NI 9403) and Sidecar
 
@@ -178,8 +174,6 @@ resolution.
 
   
 
-[[edit](/index.php?title=Robot_Controller_%282009%29&action=edit&section=10
-"Edit section: Key features" )]
 
 ## Key features
 

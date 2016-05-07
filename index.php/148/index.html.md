@@ -112,8 +112,6 @@ sponsor in 2007.
   * [L-3 Communications Integrated Systems](http://www.l-3com.com/is/ "http://www.l-3com.com/is/" )
   * [Greenville ISD](http://www.greenvilleisd.com/ "http://www.greenvilleisd.com/" )
 
-[[edit](/index.php?title=148&action=edit&section=4 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -46,8 +46,6 @@ events" ).
       * 4.2.3 May 24  
 ---  
   
-[[edit](/index.php?title=Past_events&action=edit&section=1 "Edit section:
-2007" )]
 
 #  2007
 
@@ -56,8 +54,6 @@ March 2007" )]
 
 ##  March 2007
 
-[[edit](/index.php?title=Past_events&action=edit&section=3 "Edit section:
-March 16-18" )]
 
 ###  March 16-18
 
@@ -68,8 +64,6 @@ January 2007" )]
 
 ##  January 2007
 
-[[edit](/index.php?title=Past_events&action=edit&section=5 "Edit section:
-January 6" )]
 
 ###  January 6
 
@@ -80,8 +74,6 @@ January 6" )]
 
 #  2006
 
-[[edit](/index.php?title=Past_events&action=edit&section=7 "Edit section:
-December 2006" )]
 
 ##  December 2006
 
@@ -92,8 +84,6 @@ December 2" )]
 
   * GA JFLL/FLL Expo at Wheeler High School 
 
-[[edit](/index.php?title=Past_events&action=edit&section=9 "Edit section:
-March 2006" )]
 
 ##  March 2006
 
@@ -104,8 +94,6 @@ March 13, 5:00 PM \(PST\)" )]
 
   * 2006 Autodesk Inventor Award submissions posted online at Project Point. 
 
-[[edit](/index.php?title=Past_events&action=edit&section=11 "Edit section:
-February 2006" )]
 
 ##  February 2006
 
@@ -116,8 +104,6 @@ February 21" )]
 
   * 2006 Robot ship date. All robots are crated and shipped via FedEx to their first regional event to await competition. 
 
-[[edit](/index.php?title=Past_events&action=edit&section=13 "Edit section:
-February 13, 8:00 AM \(PST\)" )]
 
 ###  February 13, 8:00 AM (PST)
 
@@ -128,8 +114,6 @@ January 2006" )]
 
 ##  January 2006
 
-[[edit](/index.php?title=Past_events&action=edit&section=15 "Edit section:
-January 7" )]
 
 ###  January 7
 
@@ -140,8 +124,6 @@ January 7" )]
 
 #  2005
 
-[[edit](/index.php?title=Past_events&action=edit&section=17 "Edit section:
-December 2005" )]
 
 ##  December 2005
 
@@ -152,8 +134,6 @@ December 12" )]
 
   * Upgraded to MediaWiki 1.5.3 
 
-[[edit](/index.php?title=Past_events&action=edit&section=19 "Edit section:
-January 2005" )]
 
 ##  January 2005
 
@@ -164,8 +144,6 @@ January 8" )]
 
   * The [2005](/index.php/Untitled_2005_game "Untitled 2005 game" ) [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) [challenge](/index.php/Game "Game" ) will be announced on this date at the [Kickoff](/index.php/Kickoff "Kickoff" ). 
 
-[[edit](/index.php?title=Past_events&action=edit&section=21 "Edit section:
-2004" )]
 
 #  2004
 
@@ -174,8 +152,6 @@ December 2004" )]
 
 ##  December 2004
 
-[[edit](/index.php?title=Past_events&action=edit&section=23 "Edit section:
-December 30" )]
 
 ###  December 30
 
@@ -186,8 +162,6 @@ December 30" )]
 
 ##  May 2004
 
-[[edit](/index.php?title=Past_events&action=edit&section=25 "Edit section: May
-29" )]
 
 ###  May 29
 

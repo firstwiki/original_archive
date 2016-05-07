@@ -30,8 +30,6 @@ Jump to: navigation, search
   * 14 Interrupt worthy resources on PIC  
 ---  
   
-[[edit](/index.php?title=Using_interrupts&action=edit&section=1 "Edit section:
-Hardware Events" )]
 
 ## Hardware Events
 
@@ -68,8 +66,6 @@ _Note:_ some architectures support software event generation such as from
 BREAK (breakpoint) or illegal instructions. These software events still are
 rooted in the hardware executing the intstruction stream.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=2 "Edit section:
-Polling vs Interrupts" )]
 
 ##  Polling vs Interrupts
 
@@ -242,8 +238,6 @@ be as few as .1us to as much as several 100us depending on the device
 complexity. The majority of hardware "drivers" have an average code path of
 10-20 instructions or 1-2us.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=5 "Edit section:
-Interrupt Vectors" )]
 
 ## Interrupt Vectors
 
@@ -268,8 +262,6 @@ platform.
 
   
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=6 "Edit section:
-Interrupt Priority Levels" )]
 
 ## Interrupt Priority Levels
 
@@ -292,8 +284,6 @@ Although there is only 1 priority level interrupt available for general team
 use, it is possible to simulate other interrupt levels through the use of
 software.
 
-[[edit](/index.php?title=Using_interrupts&action=edit&section=7 "Edit section:
-Controlling Interrupts" )]
 
 ## Controlling Interrupts
 

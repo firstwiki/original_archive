@@ -28,8 +28,6 @@ tion=1 "Edit section: Page Moving/Deleting/Protecting" )]
   * ns (moved to correct namespace) 
   * redirect (the page was simply a redirect to a better named page) 
 
-[[edit](/index.php?title=User:SilverStar/Edit_summary_notation&action=edit&sec
-tion=2 "Edit section: Normal Edits" )]
 
 ##  Normal Edits
 

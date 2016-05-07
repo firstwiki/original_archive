@@ -46,8 +46,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc708
 
   * History Example 
 
-[[edit](/index.php?title=708&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -58,8 +56,6 @@ projects" )]
 
   * [2004 - Dorothy](/index.php?title=Dorothy_%28708%29&action=edit "Dorothy \(708\)" )
 
-[[edit](/index.php?title=708&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -82,8 +78,6 @@ Involved" )]
   * Upper Moreland High School 
   * Archbishop Wood High School 
 
-[[edit](/index.php?title=708&action=edit&section=7 "Edit section: Members
-List" )]
 
 ## Members List
 

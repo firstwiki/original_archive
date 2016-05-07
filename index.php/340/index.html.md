@@ -60,8 +60,6 @@ projects" )]
   * [2005](/index.php?title=340_in_2005&action=edit "340 in 2005" ) Bertha 
   * [2004 - Roxanne](/index.php?title=340_in_2004&action=edit "340 in 2004" )
 
-[[edit](/index.php?title=340&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -104,8 +102,6 @@ Accomplishments" )]
 
   * Bausch &amp; Lomb 
 
-[[edit](/index.php?title=340&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

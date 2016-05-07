@@ -58,8 +58,6 @@ students restarted team 192 in 05-06.
   * of links to each 
   * [Seasons' Robots](/index.php/FIRSTwiki:Yearly_robot_format "FIRSTwiki:Yearly robot format" )
 
-[[edit](/index.php?title=192&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -82,8 +80,6 @@ Accomplishments" )]
   * SRI International 
   * Roku Labs 
 
-[[edit](/index.php?title=192&action=edit&section=5 "Edit section: Members
-List" )]
 
 ## Members List
 

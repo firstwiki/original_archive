@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Talk:City_Sights&action=edit&section=1 "Edit section:
-Renaming this article" )]
 
 ##  Renaming this article
 

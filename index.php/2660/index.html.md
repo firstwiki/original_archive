@@ -70,8 +70,6 @@ into a "gokart with a forklift". Thats what we try to build.
 
   * [2008 - ?](/index.php?title=2260_in_2008&action=edit "2260 in 2008" )
 
-[[edit](/index.php?title=2660&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

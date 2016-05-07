@@ -22,8 +22,6 @@ Jump to: navigation, search
     * 4.1 I intend on updating this more later  
 ---  
   
-[[edit](/index.php?title=User:DanArgent&action=edit&section=1 "Edit section:
-Team related info" )]
 
 ## Team related info
 
@@ -64,8 +62,6 @@ I would like to contribute to this Wiki a good deal, but I will be leaving for
 Kentucky for the summer and will not have internet access. Oh well, I can go
 on a short burst of writing while I'm here.
 
-[[edit](/index.php?title=User:DanArgent&action=edit&section=4 "Edit section:
-Experiances \(2004\)" )]
 
 ## Experiances (2004)
 

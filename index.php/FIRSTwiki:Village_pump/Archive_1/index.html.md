@@ -44,8 +44,6 @@ Archived from [Village pump](/index.php/FIRSTwiki:Village_pump
     * 2.1 Antivirus software  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-1 "Edit section: FIRSTwiki-related" )]
 
 # FIRSTwiki-related
 
@@ -92,8 +90,6 @@ free to beat me to it ;) --[Mrawls](/index.php/User:Mrawls "User:Mrawls" )
 
   
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-4 "Edit section: Test FIRSTwiki" )]
 
 ## Test FIRSTwiki
 
@@ -108,8 +104,6 @@ be saved** [here](http://afiber.com/FIRSTwiki/ "http://afiber.com/FIRSTwiki/"
 
     "with our DB as of late last night" --[Max](/index.php/User:Max "User:Max" ) 16:14, 1 Jun 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-5 "Edit section: Featured article" )]
 
 ## Featured article
 
@@ -158,8 +152,6 @@ components?--[Astronouth7303](/index.php/User:Astronouth7303
     Look at the control system page. It does include victors, spikes, etc. --[SilverStar](/index.php/User:SilverStar "User:SilverStar" ) 18:28, 29 May 2004 (EDT) 
     Just add the high-tech parts to the Control systems page. --[SilverStar](/index.php/User:SilverStar "User:SilverStar" ) 18:32, 29 May 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-7 "Edit section: "Forum"" )]
 
 ## "Forum"
 
@@ -172,8 +164,6 @@ titling]--[Astronouth7303](/index.php/User:Astronouth7303
 
     So if I have a question like that, I shoulld put it in the Q/A? --[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) 18:53, 29 May 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-8 "Edit section: Death on the CVT page" )]
 
 ## Death on the CVT page
 
@@ -188,8 +178,6 @@ someone who knows what they are doing. --[DanArgent](/index.php/User:DanArgent
 
     I am aware of this problem and it will probably fixed shortly. If you want to get rid of those error messages, do not use thumbnailing for now. --[Max](/index.php/User:Max "User:Max" ) 15:39, 3 Jun 2004 (EDT) 
 
-[[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_1&action=edit&section=
-9 "Edit section: Not FIRSTwiki stuff" )]
 
 # Not FIRSTwiki stuff
 

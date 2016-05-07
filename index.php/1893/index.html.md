@@ -46,8 +46,6 @@ Projects" )]
   * [2006 - ???????](/index.php?title=1893_in_2006&action=edit "1893 in 2006" )
   * [2007 - ???????](/index.php?title=1893_in_2007&action=edit "1893 in 2007" )
 
-[[edit](/index.php?title=1893&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -56,8 +54,6 @@ Accomplishments" )]
 
 ## Sponsors
 
-[[edit](/index.php?title=1893&action=edit&section=6 "Edit section: Engineering
-Mentors" )]
 
 ## Engineering Mentors
 

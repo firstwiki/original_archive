@@ -84,8 +84,6 @@ _(as "Sabres Robotics")_
 
   * **Canadian Regional (Mississauga, ON) - 30th place out of 44 teams**
 
-[[edit](/index.php?title=772&action=edit&section=3 "Edit section: 2003: Stack
-Attack" )]
 
 ###  _2003: Stack Attack_
 
@@ -118,8 +116,6 @@ _(as "Club Sandwich")_
   * **Greater Toronto Regional (Mississauga, ON) - 7th place out of 66 teams, Quarter-Finalists (1241, 772, 1006)**
   * **FIRST Championship (Atlanta, GA) - 68th place out of 85 teams in the Newton division**
 
-[[edit](/index.php?title=772&action=edit&section=6 "Edit section: 2006: Aim
-High" )]
 
 ###  _2006: Aim High_
 
@@ -194,8 +190,6 @@ Accomplishments" )]
   * 2005 Finger Lakes Regional: Finalist (w/ 229, 1507) 
   * 2005 Finger Lakes Regional: Website Award 
 
-[[edit](/index.php?title=772&action=edit&section=10 "Edit section: Main
-Sponsors" )]
 
 ## Main Sponsors
 
@@ -314,8 +308,6 @@ from the University of Windsor
 Rohan Chawla M.D., Class of 2002: Bachelors of Science [Honours] with Thesis
 in Biological Sciences from the University of Windsor
 
-[[edit](/index.php?title=772&action=edit&section=13 "Edit section: Student
-Mentors" )]
 
 ## Student Mentors
 

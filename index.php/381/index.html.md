@@ -86,8 +86,6 @@ Accomplishments" )]
 
   * Brystol Myers Squibb/Trenton 
 
-[[edit](/index.php?title=381&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

@@ -68,8 +68,6 @@ Build" )]
 
 ## Build
 
-[[edit](/index.php?title=612_in_2006&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -86,8 +84,6 @@ article.
   
 ---|---  
   
-[[edit](/index.php?title=612_in_2006&action=edit&section=4 "Edit section:
-Chesapeake Regional" )]
 
 ### [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional"
 )
@@ -102,8 +98,6 @@ NASA/VCU Regional" )]
 
   * [Engineering Inspiration Award](/index.php/Engineering_Inspiration_Award "Engineering Inspiration Award" )
 
-[[edit](/index.php?title=612_in_2006&action=edit&section=6 "Edit section:
-Robot" )]
 
 ## Robot
 
@@ -128,8 +122,6 @@ Robot Functions" )]
   * list 
   * of functions 
 
-[[edit](/index.php?title=612_in_2006&action=edit&section=8 "Edit section:
-Robot Strategy" )]
 
 ### Robot Strategy
 

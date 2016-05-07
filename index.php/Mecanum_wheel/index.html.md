@@ -26,16 +26,12 @@ Inc.](http://www.andymark.com/category-s/53.htm
 kit frame and transmissions. Other teams choose to design there own, or find
 an alternate supplier.
 
-[[edit](/index.php?title=Mecanum_wheel&action=edit&section=2 "Edit section:
-Cost" )]
 
 ## Cost
 
 Mecanum wheels are more complex than a standard wheel or even an omni-wheel
 and are more expensive as a result.
 
-[[edit](/index.php?title=Mecanum_wheel&action=edit&section=3 "Edit section:
-Programming" )]
 
 ## Programming
 

@@ -30,8 +30,6 @@ tion=1 "Edit section: Awards and Recognitions" )]
 Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
-[[edit](/index.php?title=User:MindstormsKid/Team_page_2nd_half&action=edit&sec
-tion=2 "Edit section: Special projects" )]
 
 ## Special projects
 

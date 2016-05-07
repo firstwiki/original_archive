@@ -60,8 +60,6 @@ Accomplishments" )]
   * 2004 Delphi "Driving Tomorrow's Technology" Award, Philadelphia Regional 
   * 2003 Phiadelphia regional winner 
 
-[[edit](/index.php?title=1218&action=edit&section=5 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -70,8 +68,6 @@ Accomplishments" )]
   * The Landreths and Lodges 
   * Fatty's Bar and Grill 
 
-[[edit](/index.php?title=1218&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

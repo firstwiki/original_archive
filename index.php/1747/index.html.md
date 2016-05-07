@@ -94,8 +94,6 @@ able to make it to school to finish the robot in time.
 [![Image:1747teamphoto2007.JPG](/media/9/90/1747teamphoto2007.JPG)](/index.php
 /Image:1747teamphoto2007.JPG "Image:1747teamphoto2007.JPG" )
 
-[[edit](/index.php?title=1747&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ##  Team projects
 
@@ -144,8 +142,6 @@ Accomplishments" )]
   * Caterpillar 
   * Sevaa 
 
-[[edit](/index.php?title=1747&action=edit&section=7 "Edit section: Members
-List" )]
 
 ##  Members List
 

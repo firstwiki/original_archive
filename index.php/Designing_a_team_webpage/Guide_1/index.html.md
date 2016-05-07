@@ -34,8 +34,6 @@ Robotics Team" ).
     * 2.1 CMSs  
 ---  
   
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
-1 "Edit section: Guidelines" )]
 
 ## Guidelines
 
@@ -50,8 +48,6 @@ Some basic guidelines for team webpages:
   * Can go from one page to another, without going through index 
   * Maybe a search box 
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
-3 "Edit section: Compatibility" )]
 
 ### Compatibility
 
@@ -60,8 +56,6 @@ Some basic guidelines for team webpages:
   * Don't use things that will only work on windows computers or require multiple plugin downloads. 
   * Active-X is bad! Its full of holes, try and stay away from it. 
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
-4 "Edit section: Content" )]
 
 ### Content
 
@@ -84,16 +78,12 @@ Some basic guidelines for team webpages:
   * Use contrasting colors to emphasize your message, while making sure to stay within the color scheme. 
   * Be tasteful in your use of graphics by learning important design principles involving typography, layout, and color. 
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
-6 "Edit section: Timeliness" )]
 
 ### Timeliness
 
   * Continuously update your site. 
   * Nothing is worse than having "Just updated: 2002's awards!" in big letters on your homepage, after the end of the 2004 competition. 
 
-[[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
-7 "Edit section: Software" )]
 
 ## Software
 

@@ -48,8 +48,6 @@ Articles not to list here:
     * 2.2 2008  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Pages_that_need_maintainace&action=edit&sec
-tion=1 "Edit section: Catagories" )]
 
 ## Catagories
 
@@ -76,8 +74,6 @@ tion=3 "Edit section: Articals" )]
 
 ## Articals
 
-[[edit](/index.php?title=FIRSTwiki:Pages_that_need_maintainace&action=edit&sec
-tion=4 "Edit section: How to add a new artical listing" )]
 
 ### How to add a new artical listing
 
@@ -88,8 +84,6 @@ adding, to make the list easier to read.
 
   
 
-[[edit](/index.php?title=FIRSTwiki:Pages_that_need_maintainace&action=edit&sec
-tion=5 "Edit section: 2008" )]
 
 ### 2008
 

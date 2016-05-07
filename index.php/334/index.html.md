@@ -114,8 +114,6 @@ between NYC teams. Stay tuned for more info about the Brooklyn Alliance, an
 attempt to unite all of the teams in Brooklyn and create a community for
 mentoring and assistance, on and off the field.
 
-[[edit](/index.php?title=334&action=edit&section=2 "Edit section: Shop Squad"
-)]
 
 ## Shop Squad
 
@@ -144,8 +142,6 @@ See [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page
 formats" ) for more help.  
 ---  
   
-[[edit](/index.php?title=334&action=edit&section=4 "Edit section: 2004 -
-CareTECH" )]
 
 ### 2004 - CareTECH
 
@@ -158,8 +154,6 @@ RosieBot" )]
 bot.jpg](/media/0/04/Rosie_bot.jpg)](/index.php/Image:Rosie_bot.jpg
 "Image:rosie bot.jpg" )
 
-[[edit](/index.php?title=334&action=edit&section=6 "Edit section: 2006 - Wired
-McGuire" )]
 
 ### 2006 - Wired McGuire
 
@@ -168,8 +162,6 @@ McGuire" )]
 "Image:Bot_rendering.jpg " ) [![Image:rendering.jpg](/media/3/3e/Rendering.jpg
 )](/index.php/Image:Rendering.jpg "Image:rendering.jpg" )
 
-[[edit](/index.php?title=334&action=edit&section=7 "Edit section: 2007 -
-Cheesy Harris" )]
 
 ### 2007 - Cheesy Harris
 
@@ -178,8 +170,6 @@ heesy_Harris.jpg "Image:Cheesy_Harris.jpg" ) [![Image:Cheesy_Harris2.jpg](/med
 ia/1/10/Cheesy_Harris2.jpg)](/index.php/Image:Cheesy_Harris2.jpg
 "Image:Cheesy_Harris2.jpg" )
 
-[[edit](/index.php?title=334&action=edit&section=8 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -212,8 +202,6 @@ Accomplishments" )]
   * Brooklyn Tech Alumni Foundation 
   * Consolidated Edison Company of New York 
 
-[[edit](/index.php?title=334&action=edit&section=10 "Edit section: Members
-List" )]
 
 ## Members List
 

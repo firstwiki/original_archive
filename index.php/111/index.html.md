@@ -50,8 +50,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc111
 The team was started in 1996. They are one of the most famous teams in FIRST,
 with multiple World Championships.
 
-[[edit](/index.php?title=111&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -60,8 +58,6 @@ projects" )]
 
 ## Robots
 
-[[edit](/index.php?title=111&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 

@@ -32,8 +32,6 @@ Team Website: | <http://www.moe365.org/>
     * 6.3 Robot Run Sponsors  
 ---  
   
-[[edit](/index.php?title=365&action=edit&section=1 "Edit section: What is
-MOE?" )]
 
 ## What is MOE?
 
@@ -58,8 +56,6 @@ no matter how they ranked in the competitions.
 
   
 
-[[edit](/index.php?title=365&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -270,8 +266,6 @@ Papa John's Pizza
 
 Acme Markets
 
-[[edit](/index.php?title=365&action=edit&section=9 "Edit section: Robot Run
-Sponsors" )]
 
 ### Robot Run Sponsors
 

@@ -38,8 +38,6 @@ Island Regional \(2000\)" )
 
   
 
-[[edit](/index.php?title=SBPLI_Long_Island_Regional-2005&action=edit&section=1
-"Edit section: Awards" )]
 
 ## Awards
 

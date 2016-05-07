@@ -28,8 +28,6 @@ RCs). It should come with either the [Kit of parts](/index.php/Kit_of_parts
         * 2.3.2.1 Project Wizard  
 ---  
   
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=1 "Edit section:
-Installation" )]
 
 ## Installation
 
@@ -38,8 +36,6 @@ onfirst.com/FIRSTRobotics/pdfs/C-BOT_Install_1-29-2004.pdf
 "http://innovationfirst.com/FIRSTRobotics/pdfs/C-BOT_Install_1-29-2004.pdf"
 )._
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=2 "Edit section:
-Getting around in MPLAB" )]
 
 ## Getting around in MPLAB
 
@@ -48,8 +44,6 @@ Toolbar bars" )]
 
 ### Toolbar bars
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=4 "Edit section:
-Standard" )]
 
 #### Standard
 
@@ -86,8 +80,6 @@ Debug" )]
 
 Varies depending on what debugger is selected.
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=7 "Edit section:
-Configuring general MPLAB options" )]
 
 ### Configuring general MPLAB options
 
@@ -114,8 +106,6 @@ File" )]
 
 #### File
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=10 "Edit section:
-Open" )]
 
 ##### Open
 
@@ -132,8 +122,6 @@ _File &gt; Open Workspace..._
 **Purpose:** Allows you to open up a saved workspace.  
 **Use:** This window operates just like a standard Windows open box. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=12 "Edit section:
-Import" )]
 
 ##### Import
 
@@ -150,8 +138,6 @@ _File &gt; Save As..._
 **Purpose:** Allows you to save the currently focused document.  
 **Use:** This window operates just like a standard Windows save box. 
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=14 "Edit section:
-Save Workspace As" )]
 
 ##### Save Workspace As
 
@@ -164,8 +150,6 @@ Project" )]
 
 #### Project
 
-[[edit](/index.php?title=Using_MPLAB&action=edit&section=16 "Edit section:
-Project Wizard" )]
 
 ##### Project Wizard
 

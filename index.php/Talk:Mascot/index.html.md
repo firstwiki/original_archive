@@ -4,8 +4,6 @@
 
 Jump to: navigation, search
 
-[[edit](/index.php?title=Talk:Mascot&action=edit&section=1 "Edit section:
-Images" )]
 
 ##  Images
 

@@ -60,8 +60,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc830
   * 2001: Team Starts 
   * 2008: Wins St. Louis Regional with 217 and 148 
 
-[[edit](/index.php?title=830&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -104,8 +102,6 @@ how one's eyes work to showing how robots work in a pharmaceutical laboratory.
 Team 830 showed children how they can take the FIRST step towards the careers
 in technology with multiple 15-minute robot demonstrations.
 
-[[edit](/index.php?title=830&action=edit&section=7 "Edit section: Mission
-Possible" )]
 
 ### Mission Possible
 
@@ -146,8 +142,6 @@ design, electronics, CAD, programming, and machining.
   * [2007 - JMFJ](/index.php/JMFJ_%28830%29 "JMFJ \(830\)" )
   * [2008 - LMFP](/index.php?title=LMFP_%28830%29&action=edit "LMFP \(830\)" )
 
-[[edit](/index.php?title=830&action=edit&section=11 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -168,8 +162,6 @@ Competition" )]
   * 2007 St. Louis Regional Semi-Finalists 
   * 2007 Waterloo Regional #8 Seed, #6 Alliance Captain, Quarter-Finalists 
 
-[[edit](/index.php?title=830&action=edit&section=14 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -212,8 +204,6 @@ Mentors" )]
   * Alexis Benz, left after 2007 
   * Pat Frost, left after 2006 
 
-[[edit](/index.php?title=830&action=edit&section=18 "Edit section: Students"
-)]
 
 ### Students
 

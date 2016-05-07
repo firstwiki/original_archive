@@ -34,8 +34,6 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1327
   * 6 Sponsors  
 ---  
   
-[[edit](/index.php?title=1327&action=edit&section=1 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -44,8 +42,6 @@ projects" )]
   * Built community spirit by uniting students from all four city high schools and a middle school 
   * Raised awareness in our community through student presentations highlighting first values and public exhibition of our robot and its functions annually at Science Alive at our local downtown library. 
 
-[[edit](/index.php?title=1327&action=edit&section=2 "Edit section: Team Event
-Attendance" )]
 
 ## Team Event Attendance
 
@@ -58,8 +54,6 @@ Attendance" )]
   * 2005 West Michigan Regional (3/31/2005 - 4/2/2005) 
   * 2004 Midwest Regional (3/25/2004 - 3/27/2004) 
 
-[[edit](/index.php?title=1327&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -88,8 +82,6 @@ ody1.jpg "boy hoody" ) [![boy hoody](/media/9/9c/1327sbotz_hoody2.jpg)](/index
 hoody](/media/9/99/1327sbotz_T1.jpg)](/index.php/Image:1327sbotz_T1.jpg "boy
 hoody" ) <http://shop.sbotz.com/>
 
-[[edit](/index.php?title=1327&action=edit&section=5 "Edit section: The Team"
-)]
 
 ## The Team
 

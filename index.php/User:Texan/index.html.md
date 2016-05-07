@@ -30,8 +30,6 @@ Resume" )]
 
 _Ok, so it's not really a resume. So what?!?_
 
-[[edit](/index.php?title=User:Texan&action=edit&section=3 "Edit section:
-Programming" )]
 
 ## Programming
 

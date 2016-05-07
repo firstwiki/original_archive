@@ -18,8 +18,6 @@ Jump to: navigation, search
   * 5 My FIRST History  
 ---  
   
-[[edit](/index.php?title=User:Tckma&action=edit&section=1 "Edit section: About
-Me" )]
 
 ## About Me
 
@@ -34,8 +32,6 @@ in 2002, 2004, and 2005, and on Team [246](/index.php/246 "246" ) in 2003.
 I grew up on Long Island, and moved to New England for my job with Raytheon
 after I graduated from college in 2000.
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=2 "Edit section:
-Academics" )]
 
 ## Academics
 
@@ -60,8 +56,6 @@ with roads, maps, and signs.
 I also play trombone in the [Interboro Band](http://www.interboroband.org
 "http://www.interboroband.org" ).
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=4 "Edit section: FIRST
-and FLL Competitions I've Attended" )]
 
 ## FIRST and FLL Competitions I've Attended
 
@@ -98,8 +92,6 @@ Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) (Georgia Dome) 
   * Southern New Hampshire FLL Regional (volunteer, Referee) 
 
-[[edit](/index.php?title=User:Tckma&action=edit&section=8 "Edit section: 2005
-\(Triple Play\)" )]
 
 ### 2005 ([Triple Play](/index.php/Triple_Play "Triple Play" ))
 

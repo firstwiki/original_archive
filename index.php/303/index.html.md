@@ -96,8 +96,6 @@ Accomplishments" )]
   * [The Midland School](http://www.midlandschool.org/index.asp "http://www.midlandschool.org/index.asp" )
   * [Bridgewater-Raritan High School](http://www.brrsd.k12.nj.us "http://www.brrsd.k12.nj.us" )
 
-[[edit](/index.php?title=303&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

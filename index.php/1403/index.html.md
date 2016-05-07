@@ -112,8 +112,6 @@ Accomplishments" )]
 
   * Engineering Inspiration Award - New Jersey Regional 
 
-[[edit](/index.php?title=1403&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

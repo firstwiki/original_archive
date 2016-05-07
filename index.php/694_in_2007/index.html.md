@@ -50,8 +50,6 @@ _General Description of the year._
     * 4.2 Robot Strategy  
 ---  
   
-[[edit](/index.php?title=694_in_2007&action=edit&section=1 "Edit section:
-Build" )]
 
 ## Build
 
@@ -72,8 +70,6 @@ Build" )]
 
 ## Build
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=4 "Edit section:
-Trenton Regional Competition" )]
 
 ### Trenton Regional Competition
 
@@ -88,8 +84,6 @@ _general description of how it went_
   * elimination round 
   * awards 
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=6 "Edit section:
-Atlanta National Competition" )]
 
 ### Atlanta National Competition
 
@@ -100,8 +94,6 @@ Robot" )]
 
 ## Robot
 
-[[edit](/index.php?title=694_in_2007&action=edit&section=8 "Edit section:
-Robot Functions" )]
 
 ### Robot Functions
 

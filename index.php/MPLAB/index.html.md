@@ -24,8 +24,6 @@ _See also:_ [Programming the Robot
 Controller](/index.php/Programming_the_Robot_Controller "Programming the Robot
 Controller" ), [Software](/index.php/Software "Software" )
 
-[[edit](/index.php?title=MPLAB&action=edit&section=1 "Edit section: Resources"
-)]
 
 ### Resources
 

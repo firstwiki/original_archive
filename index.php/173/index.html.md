@@ -62,16 +62,12 @@ there. In 2002, RAGE was the Championship Event winners, as well as the number
 one seed in the Newton Division. Overall RAGE has had a very successful 11
 years in the FRC Competition, and hopes to do well in the future.
 
-[[edit](/index.php?title=173&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
   * Fundraising 
   * Vex Workshops 
 
-[[edit](/index.php?title=173&action=edit&section=3 "Edit section: 2007
-Competitions Attending" )]
 
 ## 2007 Competitions Attending
 
@@ -142,8 +138,6 @@ Accomplishments" )]
   * CNC Software, inc. 
   * CB Richard Ellis 
 
-[[edit](/index.php?title=173&action=edit&section=7 "Edit section:
-Participating Schools" )]
 
 ## Participating Schools
 

@@ -354,8 +354,6 @@ Screenshots and information on previous season websites are available at
   * 461 in 2009. [[37]](http://www.boilerinvasion.org/index.php?page=websites&id=7 "http://www.boilerinvasion.org/index.php?page=websites&id=7" )
   * 461 in 2010. [[38]](http://www.boilerinvasion.org/index.php?page=websites&id=8 "http://www.boilerinvasion.org/index.php?page=websites&id=8" )
 
-[[edit](/index.php?title=461&action=edit&section=19 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -428,8 +426,6 @@ Championships.
 
   * Rookie All Star Award, Motorola Midwest Regional, 03/25/00 
 
-[[edit](/index.php?title=461&action=edit&section=20 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 
@@ -464,16 +460,12 @@ Other donors are as follow:
   * Purdue University School of Civil Engineering 
   * Sigma Sleep Medicine 
 
-[[edit](/index.php?title=461&action=edit&section=21 "Edit section: Members
-List" )]
 
 ## Members List
 
 Mr. Steve Florence is the team coach. He won the Woodie Flowers award at the
 2006 Buckeye Regional.
 
-[[edit](/index.php?title=461&action=edit&section=22 "Edit section: Students"
-)]
 
 ### Students
 
@@ -488,8 +480,6 @@ list of members.
 WBI 461 is currently in the process of tracking down the status of its alumni.
 Over 90% of team members pursue engineering or science in college.
 
-[[edit](/index.php?title=461&action=edit&section=24 "Edit section: Purdue
-Advisors \(Purdue-sors\)" )]
 
 ### Purdue Advisors (Purdue-sors)
 

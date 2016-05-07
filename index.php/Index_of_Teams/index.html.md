@@ -180,8 +180,6 @@ _**Index of teams**:_
   * [192](/index.php/192 "192" ) (GRT) 
   * [195](/index.php/195 "195" ) (Cyber Knights) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=3 "Edit section:
-201-300" )]
 
 ## 201-300
 
@@ -242,8 +240,6 @@ _**Index of teams**:_
   * [296](/index.php/296 "296" ) (Northern Knights) 
   * [300](/index.php/300 "300" ) (West Philly) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=4 "Edit section:
-301-400" )]
 
 ## 301-400
 
@@ -822,8 +818,6 @@ _**Index of teams**:_
   * [1195](/index.php/1195 "1195" ) (The Diplomats) 
   * [1197](/index.php/1197 "1197" ) (TorBots) 
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=13 "Edit section:
-1201-1300" )]
 
 ## 1201-1300
 
@@ -1154,8 +1148,6 @@ _**Index of teams**:_
   * [1598](/index.php/1598 "1598" ) (Talon) 
   * [1599](/index.php/1599 "1599" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=17 "Edit section:
-1601-1700" )]
 
 ## 1601-1700
 
@@ -1398,8 +1390,6 @@ _**Index of teams**:_
   * [1999](/index.php?title=1999&action=edit "1999" ) (RoboVikings) 
   * [2000](/index.php?title=2000&action=edit "2000" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=21 "Edit section:
-2001-2100" )]
 
 ## 2001-2100
 
@@ -1502,8 +1492,6 @@ _**Index of teams**:_
   * [2099](/index.php?title=2099&action=edit "2099" )
   * [2100](/index.php?title=2100&action=edit "2100" )
 
-[[edit](/index.php?title=Index_of_teams&action=edit&section=22 "Edit section:
-2101-2200" )]
 
 ## 2101-2200
 

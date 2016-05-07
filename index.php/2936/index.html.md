@@ -64,8 +64,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc2936
 
 ##  Robots
 
-[[edit](/index.php?title=2936&action=edit&section=3 "Edit section:
-Accomplishments" )]
 
 ##  Accomplishments
 
@@ -76,8 +74,6 @@ Accomplishments" )]
 
 ##  Sponsors
 
-[[edit](/index.php?title=2936&action=edit&section=5 "Edit section: Members
-List" )]
 
 ##  Members List
 

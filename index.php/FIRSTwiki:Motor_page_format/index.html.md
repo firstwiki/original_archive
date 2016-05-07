@@ -38,8 +38,6 @@ Free speed (rpm) |  number
   * 5 Old versions  
 ---  
   
-[[edit](/index.php?title=FIRSTwiki:Motor_page_format&action=edit&section=1
-"Edit section: Torque curve" )]
 
 ## Torque curve
 
@@ -48,8 +46,6 @@ Free speed (rpm) |  number
 
 ## Efficiency curve
 
-[[edit](/index.php?title=FIRSTwiki:Motor_page_format&action=edit&section=3
-"Edit section: Usage notes" )]
 
 ## Usage notes
 
@@ -58,8 +54,6 @@ Free speed (rpm) |  number
 
 ## How-to pages
 
-[[edit](/index.php?title=FIRSTwiki:Motor_page_format&action=edit&section=5
-"Edit section: Old versions" )]
 
 ## Old versions
 

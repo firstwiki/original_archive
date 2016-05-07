@@ -52,8 +52,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc233
 
   * History Example 
 
-[[edit](/index.php?title=233&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 

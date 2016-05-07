@@ -26,8 +26,6 @@ follow the [FIRST philosophy](/index.php/FIRST_philosophy "FIRST philosophy"
 ), and be [gracious professionals](/index.php/Gracious_professionalism
 "Gracious professionalism" ) in all that they do.
 
-[[edit](/index.php?title=FIRST_Robotics_Competition_Team&action=edit&section=1
-"Edit section: See also" )]
 
 ##  See also
 

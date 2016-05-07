@@ -68,8 +68,6 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc191
   * [2009 Lunacy](/index.php/191-2009 "191-2009" )
   * [2010 Breakaway](/index.php?title=191-2010&action=edit "191-2010" )
 
-[[edit](/index.php?title=191&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -100,8 +98,6 @@ projects" )]
   * [1993 - Wildcat](/index.php?title=Wildcat_%28191%29&action=edit "Wildcat \(191\)" )
   * [1992 - Tech-No-Nerd](/index.php/Tech-No-Nerd_%28191%29 "Tech-No-Nerd \(191\)" )
 
-[[edit](/index.php?title=191&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -156,8 +152,6 @@ HomeWork Hotline
 [![](/media/thumb/8/87/191_Xerox_Logo_rgb.jpg/500px-
 191_Xerox_Logo_rgb.jpg)](/index.php/Image:191_Xerox_Logo_rgb.jpg "" )
 
-[[edit](/index.php?title=191&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

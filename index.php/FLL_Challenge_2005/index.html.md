@@ -38,8 +38,6 @@ A quote from the website...
 resources. Sending out an S.O.S. -- Register your team and help us answer the
 ocean's distress call!"
 
-[[edit](/index.php?title=Ocean_Odyssey&action=edit&section=1 "Edit section:
-Robot Game" )]
 
 ## Robot Game
 
@@ -52,8 +50,6 @@ values, and so forth, go to [the 2005 Robot
 Game](http://www.firstlegoleague.org/default.aspx?pid=15910
 "http://www.firstlegoleague.org/default.aspx?pid=15910" )
 
-[[edit](/index.php?title=Ocean_Odyssey&action=edit&section=2 "Edit section:
-The Project" )]
 
 ## The Project
 

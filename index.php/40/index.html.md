@@ -52,8 +52,6 @@ Team Website: | <http://www.checkmate40.com>
 
 ## History
 
-[[edit](/index.php?title=40&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -118,8 +116,6 @@ Accomplishments" )]
   * intelitek inc. 
   * I.P.Y.M 
 
-[[edit](/index.php?title=40&action=edit&section=6 "Edit section: First Vex
-Challenge" )]
 
 ## First Vex Challenge
 

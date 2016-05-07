@@ -26,8 +26,6 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Solenoid&action=edit&section=2 "Edit section: Input"
-)]
 
 ### Input
 
@@ -44,16 +42,12 @@ Solenoids have two outputs, they go to each end of a
 [cylinder](/index.php/Cylinder "Cylinder" ). Uses either a quick connect (1/4"
 OD) connector or is threaded for a 1/8" NPT brass fitting.
 
-[[edit](/index.php?title=Solenoid&action=edit&section=4 "Edit section:
-Electrical input" )]
 
 ### Electrical input
 
 Solenoids usually have a wire leads or a propietary connector. They are
 connected to a [spike](/index.php/Spike "Spike" ) for contolling.
 
-[[edit](/index.php?title=Solenoid&action=edit&section=5 "Edit section: Types"
-)]
 
 ## Types
 
@@ -66,8 +60,6 @@ Single solenoids apply pressure to one end of the
 [cylinder](/index.php/Cylinder "Cylinder" ) until a voltage is applied to the
 signal input, then the pressure is applied to the other end.
 
-[[edit](/index.php?title=Solenoid&action=edit&section=7 "Edit section: Double
-Solenoid" )]
 
 ### Double Solenoid
 
@@ -76,8 +68,6 @@ applied when a signal is recieved. When a signal is not sent to either end,
 pressure is applied to neither end, and the [cylinder](/index.php/Cylinder
 "Cylinder" ) holds its position.
 
-[[edit](/index.php?title=Solenoid&action=edit&section=8 "Edit section: Current
-Product Info" )]
 
 ## Current Product Info
 
@@ -90,8 +80,6 @@ Suppliers" )]
   * [SMC](http://www.smcusa.com "http://www.smcusa.com" )
   * [Bosch-Rexroth](http://www.boschrexroth-us.com/ "http://www.boschrexroth-us.com/" )
 
-[[edit](/index.php?title=Solenoid&action=edit&section=10 "Edit section: Model
-Numbers" )]
 
 ### Model Numbers
 

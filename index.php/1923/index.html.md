@@ -68,8 +68,6 @@ Accomplishments" )]
   * 2011 CT Regional Coopertition Award 
   * 2011 CT Regional [Gracious Professionalism](/index.php/Gracious_Professionalism "Gracious Professionalism" ) Award 
 
-[[edit](/index.php?title=1923&action=edit&section=4 "Edit section: Sponsors"
-)]
 
 ## Sponsors
 

@@ -126,8 +126,6 @@ Portland, Oregon. The official website for the Pacific Northwest Regional is
 
   
 
-[[edit](/index.php?title=Oregon_Regional&action=edit&section=1 "Edit section:
-External Links" )]
 
 ## External Links
 

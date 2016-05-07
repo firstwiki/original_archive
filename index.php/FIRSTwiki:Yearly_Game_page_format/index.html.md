@@ -52,16 +52,12 @@ Describe how the game was played in. This should have all the scoring
 information, like how much each scoring object was worth and what had to be
 done with it.
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_Game_page_format&action=edit&section
-=2 "Edit section: Field Layout" )]
 
 ## Field Layout
 
 Describe the layout of the field and location of the scoring objects. Include
 a description of the scoring objects. A picture is really nice in this area.
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_Game_page_format&action=edit&section
-=3 "Edit section: Tournament Structure" )]
 
 ## Tournament Structure
 
@@ -70,16 +66,12 @@ of the elimination rounds. Make sure any differences between the elimination
 rounds and the seeding rounds are clear. Touch on any differences between
 regionals and the Championship.
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_Game_page_format&action=edit&section
-=4 "Edit section: Kit Of Parts" )]
 
 ## Kit Of Parts
 
 Describe notable elements of the kit of parts/materials usage rules and
 changes from previous years.
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_Game_page_format&action=edit&section
-=5 "Edit section: Rules" )]
 
 ## Rules
 
@@ -92,8 +84,6 @@ Describe any important or contreversial rules.
 
 Describe the most common ways to play the game (strategically).
 
-[[edit](/index.php?title=FIRSTwiki:Yearly_Game_page_format&action=edit&section
-=7 "Edit section: Robots" )]
 
 ## Robots
 

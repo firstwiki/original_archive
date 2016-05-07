@@ -60,8 +60,6 @@ Instructions on how to request an API Key are in [the documentation
 PDF](http://www.thebluealliance.net/tbatv/api/apidocs.pdf
 "http://www.thebluealliance.net/tbatv/api/apidocs.pdf" ).
 
-[[edit](/index.php?title=TBA_API&action=edit&section=3 "Edit section: API
-Implementations" )]
 
 ##  API Implementations
 

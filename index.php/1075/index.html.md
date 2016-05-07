@@ -48,8 +48,6 @@ break last year, Sinclair Sprockets hope to yet again amaze the crowd in the
 2008 season by possibly winning another medal round award and moving on to the
 nationals.
 
-[[edit](/index.php?title=1075&action=edit&section=2 "Edit section: Team
-projects" )]
 
 ## Team projects
 
@@ -100,8 +98,6 @@ Accomplishments" )]
 
   * For full spnonsor list, check our website 
 
-[[edit](/index.php?title=1075&action=edit&section=6 "Edit section: Members
-List" )]
 
 ## Members List
 

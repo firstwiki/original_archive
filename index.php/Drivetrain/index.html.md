@@ -42,8 +42,6 @@ drivetrain variations.
     * 2.8 Mecanum Drive  
 ---  
   
-[[edit](/index.php?title=Drivetrain&action=edit&section=1 "Edit section:
-Overview" )]
 
 ## Overview
 
@@ -76,8 +74,6 @@ of Drivetrains" )]
 
 ## Types of Drivetrains
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=4 "Edit section: Two
-Wheel Drive" )]
 
 ### Two Wheel Drive
 
@@ -134,8 +130,6 @@ unpowered pair of extra wheels that just act to increase the wheel base for
 stability. When tipped to the unpowered set, some of its weight is diverted to
 unpowered wheels and traction is therefore reduced.
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=7 "Edit section: Car
-Drive" )]
 
 ### Car Drive
 
@@ -176,8 +170,6 @@ drivetrains. Some forms of swerve drive are also known to have less power for
 pushing other robots around on the field. However, increased maneuverability
 is gained to make up for it.
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=9 "Edit section: Crab
-Drive" )]
 
 ### Crab Drive
 
@@ -230,8 +222,6 @@ clip.png)](/index.php/Image:2006iFRC1595.jpg "Enlarge" )
 Example of a [mecanum drive](/index.php/Mecanum_wheel "Mecanum wheel" ) from
 [1595](/index.php?title=1595&action=edit "1595" ).
 
-[[edit](/index.php?title=Drivetrain&action=edit&section=11 "Edit section:
-Mecanum Drive" )]
 
 ### Mecanum Drive
 

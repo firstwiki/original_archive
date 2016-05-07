@@ -30,8 +30,6 @@ actuators](/index.php/Rotary_actuator "Rotary actuator" ).
   * 4 External Resources  
 ---  
   
-[[edit](/index.php?title=Pneumatics&action=edit&section=1 "Edit section:
-Components" )]
 
 ## Components
 
@@ -58,8 +56,6 @@ Advantages" )]
   * Plug-in tubing makes routing, changes, and providing small amounts of work in odd places simple 
   * Very useful for: device deployment/actuation, doors, gates, releases, parking lockup, alternate drive/wheel swapping, vacuum generation, and gearbox switching 
 
-[[edit](/index.php?title=Pneumatics&action=edit&section=3 "Edit section:
-Disadvantages" )]
 
 ## Disadvantages
 
@@ -70,8 +66,6 @@ Disadvantages" )]
   * Total power/energy output is less than that achievable with motors 
   * Frequent use will drop air pressure faster than the compressor can raise it, resulting in a severe performance drop. 
 
-[[edit](/index.php?title=Pneumatics&action=edit&section=4 "Edit section:
-External Resources" )]
 
 ## External Resources
 

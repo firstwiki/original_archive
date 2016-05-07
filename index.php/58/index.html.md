@@ -148,8 +148,6 @@ projects" )]
   * [2004 - Birch Bot](/index.php/Birch_Bot_%2858%29 "Birch Bot \(58\)" )
   * [2005 - Tetra Conductor](/index.php?title=TetraConductor_%2858%29&action=edit "TetraConductor \(58\)" )
 
-[[edit](/index.php?title=58&action=edit&section=4 "Edit section:
-Accomplishments" )]
 
 ## Accomplishments
 
@@ -166,8 +164,6 @@ Accomplishments" )]
 
   * [Fairchild Semiconductor](http://www.fairchildsemi.com/ "http://www.fairchildsemi.com/" )
 
-[[edit](/index.php?title=58&action=edit&section=6 "Edit section: Members List"
-)]
 
 ## Members List
 

@@ -26,8 +26,6 @@ Jump to: navigation, search
   * 4 External links  
 ---  
   
-[[edit](/index.php?title=Programming&action=edit&section=1 "Edit section:
-Programming in FRC" )]
 
 ## Programming in FRC
 
@@ -54,8 +52,6 @@ For information regarding programming resources, see:
   * [Programming the Robot Controller](/index.php/Programming_the_Robot_Controller "Programming the Robot Controller" )
   * [How-to Articles on Programming](/index.php/How-to#Programming "How-to" )
 
-[[edit](/index.php?title=Programming&action=edit&section=2 "Edit section:
-Autonomous Mode" )]
 
 ## Autonomous Mode
 
@@ -80,8 +76,6 @@ also" )]
   * [MPLAB](/index.php/MPLAB "MPLAB" )
   * [Debugging](/index.php/Debugging "Debugging" )
 
-[[edit](/index.php?title=Programming&action=edit&section=4 "Edit section:
-External links" )]
 
 ##  External links
 

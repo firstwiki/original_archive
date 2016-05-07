@@ -90,8 +90,6 @@ system](/index.php/Control_system "Control system" ).
   * 3 Programming  
 ---  
   
-[[edit](/index.php?title=Victor_884&action=edit&section=1 "Edit section:
-Technical" )]
 
 ## Technical
 
@@ -138,8 +136,6 @@ the [breaker panel](/index.php/Breaker_panel "Breaker panel" ) depending on
 the motor being used. Each additional motor on a FIRST Competition Robot needs
 to have a Victor 884 or [Spike relay](/index.php/Spike_relay "Spike relay" ).
 
-[[edit](/index.php?title=Victor_884&action=edit&section=3 "Edit section:
-Coast/Brake" )]
 
 ### Coast/Brake
 
@@ -160,8 +156,6 @@ Connections" )]
 
 ## Connections
 
-[[edit](/index.php?title=Victor_884&action=edit&section=5 "Edit section: Data"
-)]
 
 ### Data
 
@@ -176,8 +170,6 @@ A [relay extension cable](/index.php?title=Relay_extension_cable&action=edit
 or if one wants a single PWM output port on the Controller to control multiple
 Victors.
 
-[[edit](/index.php?title=Victor_884&action=edit&section=6 "Edit section:
-Input" )]
 
 ### Input
 
@@ -196,8 +188,6 @@ function. Sparks, arcing, fire, burning smells, or [magic
 smoke](/index.php/Magic_smoke "Magic smoke" ) may indicate that a Victor 884
 was wired incorrectly, and hence has also been destroyed.
 
-[[edit](/index.php?title=Victor_884&action=edit&section=7 "Edit section:
-Programming" )]
 
 ## Programming
 

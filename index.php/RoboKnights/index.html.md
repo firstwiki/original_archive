@@ -38,8 +38,6 @@ teams" )
     * 4.2 Team Coach  
 ---  
   
-[[edit](/index.php?title=RoboKnights&action=edit&section=1 "Edit section:
-History" )]
 
 ## History
 
@@ -86,8 +84,6 @@ Awards Won" )]
 
 Clayton Regional-2nd Place Technical Presentation
 
-[[edit](/index.php?title=RoboKnights&action=edit&section=5 "Edit section: Team
-Members" )]
 
 ## Team Members
 

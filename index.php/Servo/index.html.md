@@ -30,8 +30,6 @@ are capable of only full forward, stopped, or full reverse motion. Most servos
 of this type are controlled by a [PWM](/index.php/PWM "PWM" ) signal whose
 width controls the rate of turn.
 
-[[edit](/index.php?title=Servo&action=edit&section=2 "Edit section: Standard
-Rotation Servo" )]
 
 ## Standard Rotation Servo
 
@@ -40,8 +38,6 @@ servos are used for accurate angular positioning of a mechanism. Most servos
 of this type are controlled by a [PWM](/index.php/PWM "PWM" ) signal whose
 width controls the angular position of the servo.
 
-[[edit](/index.php?title=Servo&action=edit&section=3 "Edit section: External
-links" )]
 
 ##  External links
 

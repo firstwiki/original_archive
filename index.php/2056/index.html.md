@@ -204,8 +204,6 @@ Accomplishments" )]
 
   
 
-[[edit](/index.php?title=2056&action=edit&section=7 "Edit section: Members
-List" )]
 
 ## Members List
 
@@ -240,8 +238,6 @@ Alumni" )]
 
 ### Returning Alumni
 
-[[edit](/index.php?title=2056&action=edit&section=11 "Edit section: Mentors"
-)]
 
 ### Mentors
 
@@ -252,8 +248,6 @@ Alumni" )]
   * Mr. VanDuzer 
   * Mr. Young 
 
-[[edit](/index.php?title=2056&action=edit&section=12 "Edit section: News
-Clips" )]
 
 ## News Clips
 

@@ -48,8 +48,6 @@ There are many options to consider when making a transmission. Here are a few:
   * Multiple-Motor 
   * Continously Variable 
 
-[[edit](/index.php?title=Transmission&action=edit&section=3 "Edit section:
-Shifting" )]
 
 ### Shifting
 
@@ -94,16 +92,12 @@ motors, or simply to add to the drivetrain's power. Some teams chose to
 achieve the proper reduction through gears, some chose to use the AM-
 planetaries sold by AndyMark.
 
-[[edit](/index.php?title=Transmission&action=edit&section=5 "Edit section:
-Types" )]
 
 ##  Types
 
   * [CVT](/index.php/CVT "CVT" ) \- Experimental, at best 
   * [Four speed transmission](/index.php/Four_speed_transmission "Four speed transmission" ) \- Simple, powerful, light. 
 
-[[edit](/index.php?title=Transmission&action=edit&section=6 "Edit section:
-External links" )]
 
 ##  External links
 

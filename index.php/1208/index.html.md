@@ -182,8 +182,6 @@ List" )]
 
   
 
-[[edit](/index.php?title=1208&action=edit&section=7 "Edit section: Students"
-)]
 
 ### Students
 
