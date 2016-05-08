@@ -24,14 +24,14 @@ e=Special:Whatlinkshere/FIRSTwiki:Requested_articles&limit=250&from=0
 e=Special:Whatlinkshere/FIRSTwiki:Requested_articles&limit=500&from=0
 "Special:Whatlinkshere/FIRSTwiki:Requested articles" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [FIRSTwiki:What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * [Main Page](Main_Page "Main Page" )
+  * [FIRSTwiki:What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
   * [FIRSTwiki:Most Wanted](/index.php?title=FIRSTwiki:Most_Wanted&redirect=no "FIRSTwiki:Most Wanted" ) (redirect page) 
-  * [FIRSTwiki:Community portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
-  * [FIRSTwiki:Feature requests](/index.php/FIRSTwiki:Feature_requests "FIRSTwiki:Feature requests" )
-  * [Template:Get involved](/index.php/Template:Get_involved "Template:Get involved" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
-  * [FIRSTwiki:Requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for expansion" )
+  * [FIRSTwiki:Community portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
+  * [FIRSTwiki:Feature requests](FIRSTwiki:Feature_requests "FIRSTwiki:Feature requests" )
+  * [Template:Get involved](Template:Get_involved "Template:Get involved" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [FIRSTwiki:Requests for expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for expansion" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/FIRS
 Twiki:Requested_articles&limit=20&from=0
 "Special:Whatlinkshere/FIRSTwiki:Requested articles" ) | [50](/index.php?title

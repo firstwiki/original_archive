@@ -22,10 +22,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Recognition&limit=500&from=0
 "Special:Whatlinkshere/Recognition" )).
 
-  * [FIRST](/index.php/FIRST "FIRST" )
-  * [Science](/index.php/Science "Science" )
-  * [Inspiration](/index.php/Inspiration "Inspiration" )
-  * [Technology](/index.php/Technology "Technology" )
+  * [FIRST](FIRST "FIRST" )
+  * [Science](Science "Science" )
+  * [Inspiration](Inspiration "Inspiration" )
+  * [Technology](Technology "Technology" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Recognition&limit=20&from=0
 "Special:Whatlinkshere/Recognition" ) |

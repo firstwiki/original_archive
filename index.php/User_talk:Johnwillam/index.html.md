@@ -39,7 +39,7 @@ customized photo body, custom-made canvas print, customized autograph body
 etc. All of these things are exclusive and can be utilized as the very best
 [**college graduation gifts**](http://www.evidencewarehouse.ocp.dc.gov/index.p
 hp/User_talk:Johnwillam
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Johnwillam" ). A
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Johnwillam" ). A
 customized picture body is a great option to retailer favorite photos. If the
 graduate individual loves to recollect reminiscence, he/she would surely like
 to use a customized picture frame. The personalized autograph frame is also an

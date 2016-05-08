@@ -22,13 +22,13 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Inventor&limit=500&from=0
 "Special:Whatlinkshere/Inventor" )).
 
-  * [Technical](/index.php/Technical "Technical" )
+  * [Technical](Technical "Technical" )
   * [Autodesk Inventor](/index.php?title=Autodesk_Inventor&redirect=no "Autodesk Inventor" ) (redirect page) 
-    * [Autodesk Inventor Award](/index.php/Autodesk_Inventor_Award "Autodesk Inventor Award" )
-    * [3D graphics](/index.php/3D_graphics "3D graphics" )
-    * [Software](/index.php/Software "Software" )
-    * [Computer Assisted Design](/index.php/Computer_Assisted_Design "Computer Assisted Design" )
-  * [FIRSTwiki talk:Block log](/index.php/FIRSTwiki_talk:Block_log "FIRSTwiki talk:Block log" )
+    * [Autodesk Inventor Award](Autodesk_Inventor_Award "Autodesk Inventor Award" )
+    * [3D graphics](3D_graphics "3D graphics" )
+    * [Software](Software "Software" )
+    * [Computer Assisted Design](Computer_Assisted_Design "Computer Assisted Design" )
+  * [FIRSTwiki talk:Block log](FIRSTwiki_talk:Block_log "FIRSTwiki talk:Block log" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Inventor&limit=20&from=0
 "Special:Whatlinkshere/Inventor" ) |

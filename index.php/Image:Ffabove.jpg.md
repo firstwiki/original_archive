@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [22:20, 7 July 2004](/media/b/b0/Ffabove.jpg "/media/b/b0/Ffabove.jpg" ) . . [JosephM](/index.php/User:JosephM "User:JosephM" ) ([Talk](/index.php/User_talk:JosephM "User talk:JosephM" )) . . 681x511 (132786 bytes) (FIRST Frenzy Raising The Bar- Above)
+  * (del) (cur) [22:20, 7 July 2004](/media/b/b0/Ffabove.jpg "/media/b/b0/Ffabove.jpg" ) . . [JosephM](User:JosephM "User:JosephM" ) ([Talk](User_talk:JosephM "User talk:JosephM" )) . . 681x511 (132786 bytes) (FIRST Frenzy Raising The Bar- Above)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Ffabove.jpg&action=edit&externaledit=true&mode=file "Image:Ffabove.jpg" )
@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
+  * [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
 
 ## Metadata
 

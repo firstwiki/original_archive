@@ -12,17 +12,17 @@ There are 4 articles in this category.
 
 ### D
 
-  * [David Kelso](/index.php/David_Kelso "David Kelso" )
+  * [David Kelso](David_Kelso "David Kelso" )
 
 ### K
 
-  * [Kate Nordland](/index.php/Kate_Nordland "Kate Nordland" )
+  * [Kate Nordland](Kate_Nordland "Kate Nordland" )
 
 ### P
 
-  * [Paul Copioli](/index.php/Paul_Copioli "Paul Copioli" )
+  * [Paul Copioli](Paul_Copioli "Paul Copioli" )
 
 ### U
 
-  * [User:Andy Baker](/index.php/User:Andy_Baker "User:Andy Baker" )
+  * [User:Andy Baker](User:Andy_Baker "User:Andy Baker" )
 

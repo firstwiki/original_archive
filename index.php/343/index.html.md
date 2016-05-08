@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Metal-In-Motion  
 ---  
-[![Team logo](/media/b/b0/Bigmim.jpg)](/index.php/Image:Bigmim.jpg "Team logo"
+[![Team logo](/media/b/b0/Bigmim.jpg)](Image:Bigmim.jpg "Team logo"
 )  
 Rookie Year: | 2000  
 Inactive Years: | {{{inactive}}}  
@@ -24,7 +24,7 @@ Team Website: | <http://www.metalinmotion.com>
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=343&action=edit
@@ -32,7 +32,7 @@ section](http://www.firstwiki.net/index.php?title=343&action=edit
 it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:343&action=edit "Talk:343" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   

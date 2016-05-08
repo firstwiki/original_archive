@@ -30,7 +30,7 @@ e-mail: | [admin@bobfrank.org](mailto:admin@bobfrank.org
 ChiefDelphi: |
 [AIBob](http://www.chiefdelphi.com/forums/member.php?userid=9135
 "http://www.chiefdelphi.com/forums/member.php?userid=9135" )  
-Team: | [358](/index.php/358 "358" ) (The Robotic Eagles)  
+Team: | [358](358 "358" ) (The Robotic Eagles)  
 Position: | Alumni, Programmer  
 Home pages: | [bobfrank.org](http://bobfrank.org/ "http://bobfrank.org/" )  
 | [phpmaid.com](http://phpmaid.com/ "http://phpmaid.com/" )  
@@ -39,7 +39,7 @@ Home pages: | [bobfrank.org](http://bobfrank.org/ "http://bobfrank.org/" )
 
 ## Info
 
-The [The Robotic Eagles (358)](/index.php/358 "358" ), I was the only student
+The [The Robotic Eagles (358)](358 "358" ), I was the only student
 programmer on my team for two of the three years I was a student on the team.
 I started programming in sixth grade (1999) in Borland Turbo C++ by looking
 through several books that my mom had from when she went to college. Later on
@@ -65,7 +65,7 @@ after I make it well enough.
 
 ### Old Projects
 
-  * [FIRSTsearch](/index.php/FIRSTsearch "FIRSTsearch" )
+  * [FIRSTsearch](FIRSTsearch "FIRSTsearch" )
   * Various Tutorials 
   * FIRSTsim 
   * Cosix 

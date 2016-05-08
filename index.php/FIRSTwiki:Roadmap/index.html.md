@@ -5,25 +5,25 @@
 
 Jump to: navigation, search
 
-**[Community Portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
+**[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
 
-  * **[Help page](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**
-  * [New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
-  * [User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [How to edit](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
-  * [Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
-  * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * **[Help page](FIRSTwiki:Help "FIRSTwiki:Help" )**
+  * [New users page](FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
+  * [User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [How to edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * [Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+  * [Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
 
 * * *
 
-  * [Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
-  * [Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Administrator Guide](/index.php/FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
-  * [To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
+  * [Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Administrator Guide](FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
+  * [To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
   
 In order to give this project a kick in the right direction, I think it would
@@ -40,7 +40,7 @@ intentional ... to force those more familliar with them to add more content.
 Also, there is some question as to the logical grouping of things, and before
 I add more I'll wait for community input. Where there are sub-sections, it
 tends to indicate that a series of articles (with a TOC, such as on [control
-system](/index.php/Control_system "Control system" )) would be appropriate.
+system](Control_system "Control system" )) would be appropriate.
 
   
 _The tentative outline:_
@@ -73,7 +73,7 @@ _The tentative outline:_
 
 So far as for the Wiki itself, I think we need to seriously work on a page for
 new users. It should refer them to style pages, how to edit, etc. [We've
-started this](/index.php/FIRSTwiki:Page_for_new_users "FIRSTwiki:Page for new
+started this](FIRSTwiki:Page_for_new_users "FIRSTwiki:Page for new
 users" ), but no where near perfected it (see wikipedia for an example). We
 need to include guidelines such as naming conventions (should all the words of
 a title be caipitalized or just the first, e.g., Programming a microcontroller
@@ -84,5 +84,5 @@ should be considered a working suggestion for a guideline ... so please edit
 ruthlessly with your ideas for what should be followed. This is just to get
 everyone thinking about these issues ...
 
-    What we need is a user's guide and a quick start. --[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) 13:34, 12 Jun 2004 (EDT) 
+    What we need is a user's guide and a quick start. --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) 13:34, 12 Jun 2004 (EDT) 
 

@@ -23,10 +23,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Speed_controller&limit=500&from=0
 "Special:Whatlinkshere/Speed controller" )).
 
-  * [PWM](/index.php/PWM "PWM" )
+  * [PWM](PWM "PWM" )
   * [Speed Controller](/index.php?title=Speed_Controller&redirect=no "Speed Controller" ) (redirect page) 
-    * [Victor 884](/index.php/Victor_884 "Victor 884" )
-    * [Kit of parts (FTC)](/index.php/Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
+    * [Victor 884](Victor_884 "Victor 884" )
+    * [Kit of parts (FTC)](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Speed_controller&limit=20&from=0
 "Special:Whatlinkshere/Speed controller" ) |

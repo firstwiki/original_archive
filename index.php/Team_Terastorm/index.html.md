@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Team Terastorm_  
 ---  
 [![Team logo](/media/thumb/2/2a/TeamTerastorm.jpg/314px-
-TeamTerastorm.jpg)](/index.php/Image:TeamTerastorm.jpg "Team logo" )  
+TeamTerastorm.jpg)](Image:TeamTerastorm.jpg "Team logo" )  
 Rookie Year: | 2007  
 US State Or Country: | Tennessee  
 City: | Chattanooga  
@@ -20,10 +20,10 @@ Find other [FLL teams founded in
 "Category:FLL teams founded in 2007" )
 
 Find other [FLL teams from
-Tennessee](/index.php/Category:FLL_teams_from_Tennessee "Category:FLL teams
+Tennessee](Category:FLL_teams_from_Tennessee "Category:FLL teams
 from Tennessee" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -144,7 +144,7 @@ tion=1 "User:MindstormsKid/Team page 2nd half" )]
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 [[edit](/index.php?title=User:MindstormsKid/Team_page_2nd_half&action=edit&sec
@@ -171,7 +171,7 @@ tion=4 "User:MindstormsKid/Team page 2nd half" )]
 
 ### Students
 
-  * [Teddy](http://teamterastorm.googlepages.com/teddy "http://teamterastorm.googlepages.com/teddy" ) ([MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" )) (Team Captain/Coordinator, 6th grade (11 years old), 1 year on team (original member), Homeschooled) 
+  * [Teddy](http://teamterastorm.googlepages.com/teddy "http://teamterastorm.googlepages.com/teddy" ) ([MindstormsKid](User:MindstormsKid "User:MindstormsKid" )) (Team Captain/Coordinator, 6th grade (11 years old), 1 year on team (original member), Homeschooled) 
   * names (role, grade, years on team, etc.) 
   * only (role, grade, years on team, etc.) 
   * please (role, grade, years on team, etc.) 

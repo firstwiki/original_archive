@@ -53,8 +53,8 @@ image blankets even more unique.
 By way of giving photograph blankets as a present, there are numerous
 different reasons and events to present them. One widespread time to supply
 this specific reward is at a wedding. Giving a bride and groom a [personalized
-photo blankets](http://wiki.bodrico.com/index.php/User_talk:Alicametis
-"http://wiki.bodrico.com/index.php/User_talk:Alicametis" ) with their picture
+photo blankets](http://wiki.bodrico.comUser_talk:Alicametis
+"http://wiki.bodrico.comUser_talk:Alicametis" ) with their picture
 and wedding ceremony date on it's one thing that they could cherish for a very
 long time to come. Along with wedding objects, photo blankets are additionally
 good gadgets for anniversaries, birthdays and Christmas. Photo blankets are

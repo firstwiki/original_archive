@@ -10,11 +10,11 @@ AIM: CorsettoP
 e-mail: CorsettoP@aol.com  
 ChiefDelphi: [Rex114](http://www.chiefdelphi.com/forums/member.php?u=7487
 "http://www.chiefdelphi.com/forums/member.php?u=7487" )  
-Team: [Team 114](/index.php/114 "114" ) (Eaglestrike)  
+Team: [Team 114](114 "114" ) (Eaglestrike)  
 Position: Student Engineer  
 It's me!!!!!! (without saftey goggles)
 
-[![Image:Michael.jpg](/media/f/f1/Michael.jpg)](/index.php/Image:Michael.jpg
+[![Image:Michael.jpg](/media/f/f1/Michael.jpg)](Image:Michael.jpg
 "Image:Michael.jpg" )
 
 All though I am not a student at 114's highschool, they have been gracious

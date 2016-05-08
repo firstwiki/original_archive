@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 Archiving is closely related to webcasting. Consider visiting
-[2009_Webcasts](/index.php/2009_Webcasts "2009 Webcasts" ) as well.
+[2009_Webcasts](2009_Webcasts "2009 Webcasts" ) as well.
 
 ## Contents
 

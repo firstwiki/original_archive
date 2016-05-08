@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-For those attending the [Colorado Regional](/index.php/Colorado_Regional
+For those attending the [Colorado Regional](Colorado_Regional
 "Colorado Regional" ).
 
 

@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:Hobo&limit=500&from=0
 "Special:Whatlinkshere/User:Hobo" )).
 
-  * [Talk:Main Page](/index.php/Talk:Main_Page "Talk:Main Page" )
+  * [Talk:Main Page](Talk:Main_Page "Talk:Main Page" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Hobo&limit=20&from=0
 "Special:Whatlinkshere/User:Hobo" ) |

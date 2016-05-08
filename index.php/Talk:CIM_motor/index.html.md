@@ -12,7 +12,7 @@ might be CIM, not chiaphua. See
 "http://www2.usfirst.org/2004comp/Specs/Chiaphua.jpg" ) and
 [[2]](http://www.usfirst.org/robotics/2004/specsheets.htm
 "http://www.usfirst.org/robotics/2004/specsheets.htm" ).
---[Max](/index.php/User:Max "User:Max" ) 15:00, 4 Jul 2004 (EDT)
+--[Max](User:Max "User:Max" ) 15:00, 4 Jul 2004 (EDT)
 
 
 ##  Infobox motor Template

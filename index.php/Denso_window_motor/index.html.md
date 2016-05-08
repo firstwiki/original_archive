@@ -11,7 +11,7 @@ Jump to: navigation, search
 Denso  
 ---  
 [![Denso](/media/thumb/5/58/Denso.png/250px-
-Denso.png)](/index.php/Image:Denso.png "Denso" )  
+Denso.png)](Image:Denso.png "Denso" )  
 Stall current (amps) |  24.8  
 Stall torque (in-lb) |  81.4 (9.2 N-m)  
 Max power output (watts) |  22  
@@ -71,20 +71,20 @@ two couplers in the blue tote in the coupler bag.
 "http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf" )
 
 _**2008 KOP Motors:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) | **Denso Window** |
+[Chiaphua/CIM](CIM_motor "CIM motor" ) | **Denso Window** |
 [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene
 window motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang
-motor" ) | [Fisher Price](/index.php/Fisher_Price_motor "Fisher Price motor" )
-| [Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )
+motor" ) | [Fisher Price](Fisher_Price_motor "Fisher Price motor" )
+| [Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )
 ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
-motor" ), [RS-550](/index.php/RS-550_Banebots_motor "RS-550 Banebots motor" ))  
+motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor" ))  
 ---  
 _**Older KOP Motors:**_  
-[Window](/index.php/Window_motor "Window motor" ) |
+[Window](Window_motor "Window motor" ) |
 [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van
-door](/index.php/Van_door_motor "Van door motor" ) |
-[Drill](/index.php/Drill_motor "Drill motor" ) | [Fisher
-Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" )  
+door](Van_door_motor "Van door motor" ) |
+[Drill](Drill_motor "Drill motor" ) | [Fisher
+Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" )  
   

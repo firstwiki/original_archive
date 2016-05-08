@@ -22,7 +22,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [06:04, 8 March 2012](/media/8/82/3476_2012_pre-season_robot.jpg "/media/8/82/3476 2012 pre-season robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](/index.php/User_talk:Natologic "User talk:Natologic" )) . . 192x204 (17834 bytes)
+  * (del) (cur) [06:04, 8 March 2012](/media/8/82/3476_2012_pre-season_robot.jpg "/media/8/82/3476 2012 pre-season robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](User_talk:Natologic "User talk:Natologic" )) . . 192x204 (17834 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:3476_2012_pre-season_robot.jpg&action=edit&externaledit=true&mode=file "Image:3476 2012 pre-season robot.jpg" )
@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [3476](/index.php/3476 "3476" )
+  * [3476](3476 "3476" )
 
 ## Metadata
 

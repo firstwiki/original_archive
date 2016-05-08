@@ -22,13 +22,13 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/PWM&limit=500&from=0
 "Special:Whatlinkshere/PWM" )).
 
-  * [Error](/index.php/Error "Error" )
-  * [Victor 884](/index.php/Victor_884 "Victor 884" )
-  * [Default code (2004)](/index.php/Default_code_%282004%29 "Default code \(2004\)" )
-  * [PWM cable](/index.php/PWM_cable "PWM cable" )
-  * [Speed controller](/index.php/Speed_controller "Speed controller" )
-  * [Servo](/index.php/Servo "Servo" )
-  * [Kit of parts (FTC)](/index.php/Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
+  * [Error](Error "Error" )
+  * [Victor 884](Victor_884 "Victor 884" )
+  * [Default code (2004)](Default_code_%282004%29 "Default code \(2004\)" )
+  * [PWM cable](PWM_cable "PWM cable" )
+  * [Speed controller](Speed_controller "Speed controller" )
+  * [Servo](Servo "Servo" )
+  * [Kit of parts (FTC)](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/PWM&limit=20&from=0
 "Special:Whatlinkshere/PWM" ) |

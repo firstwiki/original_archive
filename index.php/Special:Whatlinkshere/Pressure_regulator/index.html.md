@@ -22,14 +22,14 @@ Whatlinkshere/Pressure_regulator&limit=250&from=0
 Whatlinkshere/Pressure_regulator&limit=500&from=0
 "Special:Whatlinkshere/Pressure regulator" )).
 
-  * [Pneumatics](/index.php/Pneumatics "Pneumatics" )
-  * [Solenoid](/index.php/Solenoid "Solenoid" )
-  * [Cylinder](/index.php/Cylinder "Cylinder" )
-  * [Compressor](/index.php/Compressor "Compressor" )
-  * [Storage tank](/index.php/Storage_tank "Storage tank" )
-  * [Rotary actuator](/index.php/Rotary_actuator "Rotary actuator" )
-  * [Pressure switch](/index.php/Pressure_switch "Pressure switch" )
-  * [Template:Pneumatics parts](/index.php/Template:Pneumatics_parts "Template:Pneumatics parts" )
+  * [Pneumatics](Pneumatics "Pneumatics" )
+  * [Solenoid](Solenoid "Solenoid" )
+  * [Cylinder](Cylinder "Cylinder" )
+  * [Compressor](Compressor "Compressor" )
+  * [Storage tank](Storage_tank "Storage tank" )
+  * [Rotary actuator](Rotary_actuator "Rotary actuator" )
+  * [Pressure switch](Pressure_switch "Pressure switch" )
+  * [Template:Pneumatics parts](Template:Pneumatics_parts "Template:Pneumatics parts" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Pres
 sure_regulator&limit=20&from=0 "Special:Whatlinkshere/Pressure regulator" ) |
 [50](/index.php?title=Special:Whatlinkshere/Pressure_regulator&limit=50&from=0

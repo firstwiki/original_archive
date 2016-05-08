@@ -15,6 +15,6 @@ other classics. All measurements below are in meters and it would be roughly
 75 centimeters across. Cregulating the usage of the machine based on time of
 day would prevent students from, say, skipping class to play pong.
 
-[![Image:Arcade.gif](/media/a/a9/Arcade.gif)](/index.php/Image:Arcade.gif
+[![Image:Arcade.gif](/media/a/a9/Arcade.gif)](Image:Arcade.gif
 "Image:Arcade.gif" )
 

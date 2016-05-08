@@ -22,9 +22,9 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Team_4500&limit=500&from=0
 "Special:Whatlinkshere/Team 4500" )).
 
-  * [Index of FLL teams](/index.php/Index_of_FLL_teams "Index of FLL teams" )
-  * [Frank Braski](/index.php/Frank_Braski "Frank Braski" )
-  * [FIRSTColumbusLEGO](/index.php/FIRSTColumbusLEGO "FIRSTColumbusLEGO" )
+  * [Index of FLL teams](Index_of_FLL_teams "Index of FLL teams" )
+  * [Frank Braski](Frank_Braski "Frank Braski" )
+  * [FIRSTColumbusLEGO](FIRSTColumbusLEGO "FIRSTColumbusLEGO" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Team_4500&limit=20&from=0
 "Special:Whatlinkshere/Team 4500" ) |

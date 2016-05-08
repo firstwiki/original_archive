@@ -1,6 +1,6 @@
 # Forbidden
 
-You don't have permission to access /index.php/Special:Statistics on this
+You don't have permission to access Special:Statistics on this
 server.
 
 Additionally, a 403 Forbidden error was encountered while trying to use an

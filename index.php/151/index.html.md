@@ -8,7 +8,7 @@ Tough Techs
 ---  
   
 [![The Team 151 Logo](/media/thumb/5/5c/Toughtechs_low.jpg/180px-
-Toughtechs_low.jpg)](/index.php/Image:Toughtechs_low.jpg "The Team 151 Logo" )  
+Toughtechs_low.jpg)](Image:Toughtechs_low.jpg "The Team 151 Logo" )  
   
 Rookie Year: | 1992  
 Inactive Years: | {{{inactive}}}  
@@ -60,7 +60,7 @@ therefore kept the program going. The students continued to gleam knowledge
 from the engineers and, as a result, the team won the 1995 Chairman's Award,
 as well as many technical and animation awards.
 
-In 2001, Team #[166](/index.php/166 "166" ) lost their sponsor and approached
+In 2001, Team #[166](166 "166" ) lost their sponsor and approached
 BAE, resulting in altering the way Nashua High School was used to performing
 their tasks. The team now had to share their sponsor, the working area,
 machine shop, equipment and tools. No longer did they have 100% of each
@@ -132,7 +132,7 @@ the original look of the site.
 
 1995:
 
-  * [Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" ) \- National Championship 
+  * [Chairman's Award](Chairman%27s_Award "Chairman's Award" ) \- National Championship 
 
 1996:
 
@@ -306,5 +306,5 @@ the original look of the site.
 "http://toughtechs151.org/chairmans.htm" )  
 
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

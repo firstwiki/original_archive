@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Autodesk Inventor** is a parametric computer aided design software package. A software license is provided to [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) teams by Autodesk, Inc. for use in developing, prototyping, and testing computer-based models of [robots](/index.php/Robot "Robot" ) and robot assemblies. 
+**Autodesk Inventor** is a parametric computer aided design software package. A software license is provided to [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) teams by Autodesk, Inc. for use in developing, prototyping, and testing computer-based models of [robots](Robot "Robot" ) and robot assemblies. 
 
 The software's parametric nature allows designers excellent flexibility in
 making design changes through a set of constant and derived data. This means
@@ -52,7 +52,7 @@ number of standard three-dimensional model file formats, such as
 [STEP](http://www.wikipedia.org/wiki/STEP_%28ISO_10303%29
 "wikipedia:STEP_\(ISO_10303\)" ) and [IGES](http://www.wikipedia.org/wiki/IGES
 "wikipedia:IGES" ), easily allowing Autodesk Inventor files to be imported
-into [computer aided manufacturing](/index.php/Computer_aided_manufacturing
+into [computer aided manufacturing](Computer_aided_manufacturing
 "Computer aided manufacturing" ) software.
 
 
@@ -71,13 +71,13 @@ into [computer aided manufacturing](/index.php/Computer_aided_manufacturing
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Inventor&action=edit
 "http://www.firstwiki.net/index.php?title=Inventor&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

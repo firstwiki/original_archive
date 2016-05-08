@@ -18,19 +18,19 @@ charge.
 
 ## Programming
 
-  * [MPLAB](/index.php/MPLAB "MPLAB" )
-  * [MCC18](/index.php/MCC18 "MCC18" )
+  * [MPLAB](MPLAB "MPLAB" )
+  * [MCC18](MCC18 "MCC18" )
 
 
 ## Animation
 
-  * [Discreet 3ds Max](/index.php/3ds_max "3ds max" )
-  * [Blender 3d](/index.php/Blender_3d "Blender 3d" )
+  * [Discreet 3ds Max](3ds_max "3ds max" )
+  * [Blender 3d](Blender_3d "Blender 3d" )
 
 
 ## CAD
 
-  * [Autodesk Inventor](/index.php/Autodesk_Inventor "Autodesk Inventor" )
+  * [Autodesk Inventor](Autodesk_Inventor "Autodesk Inventor" )
 
 
 ## Web Design

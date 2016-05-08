@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Miracle Workerz  
 ---  
-[![image:MOEovallogo.gif](/media/d/d7/MOEovallogo.gif)](/index.php/Image:MOEov
+[![image:MOEovallogo.gif](/media/d/d7/MOEovallogo.gif)](Image:MOEov
 allogo.gif "image:MOEovallogo.gif" )  
 Rookie Year: | 2000  
 Inactive Years: | {{{inactive}}}  

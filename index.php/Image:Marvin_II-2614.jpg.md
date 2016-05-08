@@ -22,7 +22,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [02:51, 19 June 2012](/media/0/03/Marvin_II-2614.jpg "/media/0/03/Marvin II-2614.jpg" ) . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](/index.php/User_talk:Robot2614 "User talk:Robot2614" )) . . 1200x1600 (1454637 bytes)
+  * (del) (cur) [02:51, 19 June 2012](/media/0/03/Marvin_II-2614.jpg "/media/0/03/Marvin II-2614.jpg" ) . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](User_talk:Robot2614 "User talk:Robot2614" )) . . 1200x1600 (1454637 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Marvin_II-2614.jpg&action=edit&externaledit=true&mode=file "Image:Marvin II-2614.jpg" )
@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [2614](/index.php/2614 "2614" )
+  * [2614](2614 "2614" )
 
 ## Metadata
 

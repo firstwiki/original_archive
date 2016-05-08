@@ -58,12 +58,12 @@ sites are actual and they don't seem to be biased. These critiques are one of
 the best supplies to decide on which pet clinic fits the perfect for your pet.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/User_talk:Yelenazinnia%2A>"
+"<http://www.firstwiki.netUser_talk:Yelenazinnia%2A>"
 
 ##### Views
 
   * [User page](/index.php?title=User:Yelenazinnia%2A&action=edit)
-  * [Discussion](/index.php/User_talk:Yelenazinnia%2A)
+  * [Discussion](User_talk:Yelenazinnia%2A)
   * [Edit](/index.php?title=User_talk:Yelenazinnia%2A&action=edit)
   * [+](/index.php?title=User_talk:Yelenazinnia%2A&action=edit&section=new)
   * [History](/index.php?title=User_talk:Yelenazinnia%2A&action=history)
@@ -72,17 +72,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=User_talk:Yelenazinnia%2A)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -90,11 +90,11 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/User_talk:Yelenazinnia%2A)
-  * [Related changes](/index.php/Special:Recentchangeslinked/User_talk:Yelenazinnia%2A)
-  * [User contributions](/index.php/Special:Contributions/Yelenazinnia%2A)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/User_talk:Yelenazinnia%2A)
+  * [Related changes](Special:Recentchangeslinked/User_talk:Yelenazinnia%2A)
+  * [User contributions](Special:Contributions/Yelenazinnia%2A)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=User_talk:Yelenazinnia%2A&printable=yes)
   * [Permanent link](/index.php?title=User_talk:Yelenazinnia%2A&oldid=751915)
 
@@ -107,7 +107,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 09:55, 19 September 2012.
   * This page has been accessed 1 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

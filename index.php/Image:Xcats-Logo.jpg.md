@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [191](/index.php/191 "191" )
+  * [191](191 "191" )
 
 ## Metadata
 

@@ -6,25 +6,25 @@
 
 Jump to: navigation, search
 
-**[Community Portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
+**[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
 
-  * **[Help page](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**
-  * [New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
-  * [User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [How to edit](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
-  * [Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
-  * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * **[Help page](FIRSTwiki:Help "FIRSTwiki:Help" )**
+  * [New users page](FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
+  * [User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [How to edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * [Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+  * [Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
 
 * * *
 
-  * [Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
-  * [Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
   * **Administrator Guide**
-  * [To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
+  * [To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
   
   
@@ -82,7 +82,7 @@ page, multiple times. Even then, be cautious about blocking users because it
 is also possible that the new user might not notice the "new messages" at the
 top of the page. This is a serious action which, if carried out poorly, can
 adversely affect the wiki and the common goal we strive for. Please read
-[FIRSTwiki:Dealing with vandalism](/index.php/FIRSTwiki:Dealing_with_vandalism
+[FIRSTwiki:Dealing with vandalism](FIRSTwiki:Dealing_with_vandalism
 "FIRSTwiki:Dealing with vandalism" ) before taking any action.
 
 [[edit](/index.php?title=FIRSTwiki:Guide_for_administrators&action=edit&sectio
@@ -92,55 +92,55 @@ n=5 "Edit section: Correcting style" )]
 
 In striving for open content, we place very little restriction on how people
 choose to edit. We don't require that people even read the [style
-guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" ), -- or even
+guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" ), -- or even
 beg that they adhere to it. This is the job of everyone, and especially of
 administrators. Make sure that articles adhere to the correct naming
 conventions, particularly. If a page is not in compliance, merely fix the
 problem. If a certain user happens to be comitting the same mistake again and
 again, leave a message in his talk page, kindly directing him to the
 appropriate help pages. When moving pages, make sure to follow the guidelines
-at [How to move a page](/index.php/FIRSTwiki:How_to_move_a_page "FIRSTwiki:How
+at [How to move a page](FIRSTwiki:How_to_move_a_page "FIRSTwiki:How
 to move a page" ).
 
 
 ##  Site notice
 
 You can change the site status (the line at the top that appears occasionally)
-by modifying [MediaWiki:sitenotice](/index.php/MediaWiki:Sitenotice
+by modifying [MediaWiki:sitenotice](MediaWiki:Sitenotice
 "MediaWiki:Sitenotice" ). Note that the page is locked, so only sysops can
 change it.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Guide_for_administrators>"
+"<http://www.firstwiki.netFIRSTwiki:Guide_for_administrators>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3AGuide_for_a
 dministrators "Special:Categories" ): [FIRST
-MetaWiki](/index.php/Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
+MetaWiki](Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Guide_for_administrators)
-  * [Discussion](/index.php/FIRSTwiki_talk:Guide_for_administrators)
+  * [Project page](FIRSTwiki:Guide_for_administrators)
+  * [Discussion](FIRSTwiki_talk:Guide_for_administrators)
   * [Edit](/index.php?title=FIRSTwiki:Guide_for_administrators&action=edit)
   * [History](/index.php?title=FIRSTwiki:Guide_for_administrators&action=history)
 
 ##### Personal tools
 
-  * [174.129.228.67](/index.php/User:174.129.228.67)
-  * [Talk for this IP](/index.php/User_talk:174.129.228.67)
+  * [174.129.228.67](User:174.129.228.67)
+  * [Talk for this IP](User_talk:174.129.228.67)
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Guide_for_administrators)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -148,10 +148,10 @@ MetaWiki](/index.php/Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Guide_for_administrators)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Guide_for_administrators)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Guide_for_administrators)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Guide_for_administrators)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Guide_for_administrators&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Guide_for_administrators&oldid=39229)
 
@@ -164,7 +164,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 17:36, 9 June 2005.
   * This page has been accessed 3,387 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

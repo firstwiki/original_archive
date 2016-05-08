@@ -27,7 +27,7 @@ Jump to: navigation, search
 
 ## The Team
 
-2004-2006: Team [1293](/index.php/1293 "1293" ), Irmo High School &amp; Dutch
+2004-2006: Team [1293](1293 "1293" ), Irmo High School &amp; Dutch
 Fork High School &amp; Chapin High School, aka D5 Robotics.
 
 2007-present: Team [1618](/index.php?title=1618&action=edit "1618" ), Columbia
@@ -59,7 +59,7 @@ Plans over the next four to five years:
   * Attend the University of South Carolina 
   * Earn a degree from the Moore School of Business in Marketing 
   * Enjoy himself thoroughly 
-  * Continue involvement in FIRST, which oughta be easy because the [Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" ) is about four blocks from his dorm room. 
+  * Continue involvement in FIRST, which oughta be easy because the [Palmetto Regional](Palmetto_Regional "Palmetto Regional" ) is about four blocks from his dorm room. 
   * Get more FIRST shirts. Sixteen is not enough. 
 
 

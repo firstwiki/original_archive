@@ -13,15 +13,15 @@ wanted to do, it sounds like you're trying to sell the books rather than give
 useful feedback ... almost like it's from the book's publisher?). I do plan to
 come back later, when I have the time or otherwise need to procrastinate ...
 but please feel free to fill in what I left out.
---[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 21:51, 1 Jun 2004 (EDT)
+--[Mrawls](User:Mrawls "User:Mrawls" ) 21:51, 1 Jun 2004 (EDT)
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Talk:Resources_for_C_programming>"
+"<http://www.firstwiki.netTalk:Resources_for_C_programming>"
 
 ##### Views
 
-  * [Article](/index.php/Resources_for_C_programming)
-  * [Discussion](/index.php/Talk:Resources_for_C_programming)
+  * [Article](Resources_for_C_programming)
+  * [Discussion](Talk:Resources_for_C_programming)
   * [Edit](/index.php?title=Talk:Resources_for_C_programming&action=edit)
   * [+](/index.php?title=Talk:Resources_for_C_programming&action=edit&section=new)
   * [History](/index.php?title=Talk:Resources_for_C_programming&action=history)
@@ -30,17 +30,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:Resources_for_C_programming)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -48,10 +48,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Talk:Resources_for_C_programming)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Talk:Resources_for_C_programming)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Talk:Resources_for_C_programming)
+  * [Related changes](Special:Recentchangeslinked/Talk:Resources_for_C_programming)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Talk:Resources_for_C_programming&printable=yes)
   * [Permanent link](/index.php?title=Talk:Resources_for_C_programming&oldid=38017)
 
@@ -64,7 +64,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 01:51, 2 June 2004.
   * This page has been accessed 442 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

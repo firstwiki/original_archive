@@ -23,7 +23,7 @@ hatlinkshere/Royalton_Robotics&limit=250&from=0
 hatlinkshere/Royalton_Robotics&limit=500&from=0
 "Special:Whatlinkshere/Royalton Robotics" )).
 
-  * [Index of FLL teams](/index.php/Index_of_FLL_teams "Index of FLL teams" )
+  * [Index of FLL teams](Index_of_FLL_teams "Index of FLL teams" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Royalton_Robotics&limit=20&from=0
 "Special:Whatlinkshere/Royalton Robotics" ) |

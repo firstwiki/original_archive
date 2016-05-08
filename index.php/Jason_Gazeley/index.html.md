@@ -7,7 +7,7 @@
 
 Jump to: navigation, search
 
-[![](/media/1/1a/Image-JVGazeley759.jpg)](/index.php/Image:Image-
+[![](/media/1/1a/Image-JVGazeley759.jpg)](Image:Image-
 JVGazeley759.jpg "" )
 
 **Name**: Jason Gazeley  
@@ -15,12 +15,12 @@ JVGazeley759.jpg "" )
 **Joined 1st _FIRST_ team**: September 2004 (FRC Team 759)  
 **e-mail**: [burwellian@hotmail.co.uk](mailto:burwellian@hotmail.co.uk "mailto:burwellian@hotmail.co.uk" )  
 **ChiefDelphi**: [JVGazeley](http://www.chiefdelphi.com/forums/member.php?userid=10258 "http://www.chiefdelphi.com/forums/member.php?userid=10258" )  
-**FRC Teams**: [759](/index.php/759 "759" ) (Systemetric) 2004-2006  
+**FRC Teams**: [759](759 "759" ) (Systemetric) 2004-2006  
 **FLL Teams**: Bottisham Barnacles 2005  
 **Location**: Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann (United Kingdom of Great Britain and Northern Ireland) 
 
 **FRC Positions**: Scrutineer (2005 &amp; 2006). Safety Captain (2006)  
-**FLL Positions**: Mentor (2005), Helper at [Cambridge FLL Regional](/index.php/UK_Cambridge_FLL_Tournament "UK Cambridge FLL Tournament" ) (2004 &amp; 2005) 
+**FLL Positions**: Mentor (2005), Helper at [Cambridge FLL Regional](UK_Cambridge_FLL_Tournament "UK Cambridge FLL Tournament" ) (2004 &amp; 2005) 
 
   
 

@@ -8,7 +8,7 @@ Jump to: navigation, search
 Digital Impact  
 ---  
 [![Team
-logo](/media/3/38/564_logo_small.jpg)](/index.php/Image:564_logo_small.jpg
+logo](/media/3/38/564_logo_small.jpg)](Image:564_logo_small.jpg
 "Team logo" )  
 Rookie Year: | 2001  
 Inactive Years: | {{{inactive}}}  

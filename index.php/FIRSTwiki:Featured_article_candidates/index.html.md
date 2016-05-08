@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 _Discussion on this feature is happening on the [Community
-decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community
+decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community
 decisions" ) page._
 
 Below are the articles submitted to be _feature articles._ If you have any
@@ -23,7 +23,7 @@ suggestions. The article with the highest tier will go up as the featured
 article.
 
 You may also want to see the [FIRSTwiki:Featured
-articles](/index.php/FIRSTwiki:Featured_articles "FIRSTwiki:Featured articles"
+articles](FIRSTwiki:Featured_articles "FIRSTwiki:Featured articles"
 ) page so you don't accidentally vote for an article that was already
 featured.
 
@@ -55,39 +55,39 @@ tion=4 "Edit section: Tier 2" )]
 
 ##  Tier 2
 
-  * [Robodevils Team #1018](/index.php/1018 "1018" ) Check This Team Out! --[PurpleMonkeyKing](/index.php/User:PurpleMonkeyKing "User:PurpleMonkeyKing" )
+  * [Robodevils Team #1018](1018 "1018" ) Check This Team Out! --[PurpleMonkeyKing](User:PurpleMonkeyKing "User:PurpleMonkeyKing" )
 
-    Voted for by [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 13:38, 7 May 2007 (EDT) 
+    Voted for by [Cbale2000](User:Cbale2000 "User:Cbale2000" ) 13:38, 7 May 2007 (EDT) 
 
     Reason: Excelent content, probably the best team page I've seen! 
 
-  * [Gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ) \--[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 17:30, 2 Jun 2004 (EDT) 
+  * [Gracious professionalism](Gracious_professionalism "Gracious professionalism" ) \--[Mrawls](User:Mrawls "User:Mrawls" ) 17:30, 2 Jun 2004 (EDT) 
 
-    Voted for by [denman](/index.php/User:Denman "User:Denman" ) 10:55, 5 May 2005 (EDT) 
-    Voted for by [Knippschild](/index.php/User:Knippschild "User:Knippschild" ) 21:05, 13 May 2006 (EDT) 
-    Object: This Article needs a lot of work before it goes featured. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 13:41, 7 May 2007 (EDT) 
+    Voted for by [denman](User:Denman "User:Denman" ) 10:55, 5 May 2005 (EDT) 
+    Voted for by [Knippschild](User:Knippschild "User:Knippschild" ) 21:05, 13 May 2006 (EDT) 
+    Object: This Article needs a lot of work before it goes featured. [Cbale2000](User:Cbale2000 "User:Cbale2000" ) 13:41, 7 May 2007 (EDT) 
 
 
 ##  Tier 1
 
-  * [Multiple autonomous modes](/index.php/Multiple_autonomous_modes "Multiple autonomous modes" ) \--[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 14:33, 5 Jun 2004 (EDT) 
-  * [Programming](/index.php/Programming "Programming" ) \--[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 17:30, 2 Jun 2004 (EDT) 
-  * [Kit of parts](/index.php/Kit_of_parts "Kit of parts" ) \--[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) 17:15, 6 Aug 2004 (EDT) 
-  * [759](/index.php/759 "759" ) \- [Jay](/index.php/User:JVGazeley "User:JVGazeley" ) 05:51, 6 August 2006 (EDT) 
-  * [Rack 'N' Roll](/index.php/Rack_%27N%27_Roll "Rack 'N' Roll" ) \- [BandChick](/index.php?title=User:BandChick&action=edit "User:BandChick" ) 9:35, 20 January 2007 
-  * [461](/index.php/461 "461" ) \- [Nathan Hui](/index.php/User:Nathan_Hui "User:Nathan Hui" ) 08:33, 20 October 2011 (CDT) 
+  * [Multiple autonomous modes](Multiple_autonomous_modes "Multiple autonomous modes" ) \--[Mrawls](User:Mrawls "User:Mrawls" ) 14:33, 5 Jun 2004 (EDT) 
+  * [Programming](Programming "Programming" ) \--[Mrawls](User:Mrawls "User:Mrawls" ) 17:30, 2 Jun 2004 (EDT) 
+  * [Kit of parts](Kit_of_parts "Kit of parts" ) \--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) 17:15, 6 Aug 2004 (EDT) 
+  * [759](759 "759" ) \- [Jay](User:JVGazeley "User:JVGazeley" ) 05:51, 6 August 2006 (EDT) 
+  * [Rack 'N' Roll](Rack_%27N%27_Roll "Rack 'N' Roll" ) \- [BandChick](/index.php?title=User:BandChick&action=edit "User:BandChick" ) 9:35, 20 January 2007 
+  * [461](461 "461" ) \- [Nathan Hui](User:Nathan_Hui "User:Nathan Hui" ) 08:33, 20 October 2011 (CDT) 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Featured_article_candidates>"
+"<http://www.firstwiki.netFIRSTwiki:Featured_article_candidates>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3AFeatured_ar
 ticle_candidates "Special:Categories" ): [Featured
-articles](/index.php/Category:Featured_articles "Category:Featured articles" )
+articles](Category:Featured_articles "Category:Featured articles" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Featured_article_candidates)
-  * [Discussion](/index.php/FIRSTwiki_talk:Featured_article_candidates)
+  * [Project page](FIRSTwiki:Featured_article_candidates)
+  * [Discussion](FIRSTwiki_talk:Featured_article_candidates)
   * [Edit](/index.php?title=FIRSTwiki:Featured_article_candidates&action=edit)
   * [History](/index.php?title=FIRSTwiki:Featured_article_candidates&action=history)
 
@@ -95,17 +95,17 @@ articles](/index.php/Category:Featured_articles "Category:Featured articles" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Featured_article_candidates)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -113,10 +113,10 @@ articles](/index.php/Category:Featured_articles "Category:Featured articles" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Featured_article_candidates)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Featured_article_candidates)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Featured_article_candidates)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Featured_article_candidates)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Featured_article_candidates&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Featured_article_candidates&oldid=82785)
 
@@ -129,7 +129,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 13:33, 20 October 2011.
   * This page has been accessed 10,089 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

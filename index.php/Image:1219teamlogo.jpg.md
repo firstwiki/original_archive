@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1219](/index.php/1219 "1219" )
+  * [1219](1219 "1219" )
 
 ## Metadata
 

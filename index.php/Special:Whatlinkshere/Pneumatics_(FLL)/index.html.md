@@ -22,7 +22,7 @@ Whatlinkshere/Pneumatics_%28FLL%29&limit=250&from=0
 Whatlinkshere/Pneumatics_%28FLL%29&limit=500&from=0
 "Special:Whatlinkshere/Pneumatics \(FLL\)" )).
 
-  * [Pneumatics](/index.php/Pneumatics "Pneumatics" )
+  * [Pneumatics](Pneumatics "Pneumatics" )
   * [Pneumatics FLL](/index.php?title=Pneumatics_FLL&redirect=no "Pneumatics FLL" ) (redirect page) 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Pneu
 matics_%28FLL%29&limit=20&from=0 "Special:Whatlinkshere/Pneumatics \(FLL\)" )

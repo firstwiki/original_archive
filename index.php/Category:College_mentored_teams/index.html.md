@@ -12,57 +12,57 @@ There are 16 articles in this category.
 
 ### 1
 
-  * [1014](/index.php/1014 "1014" )
-  * [1020](/index.php/1020 "1020" )
-  * [1083](/index.php/1083 "1083" )
-  * [1369](/index.php/1369 "1369" )
-  * [1646](/index.php/1646 "1646" )
+  * [1014](1014 "1014" )
+  * [1020](1020 "1020" )
+  * [1083](1083 "1083" )
+  * [1369](1369 "1369" )
+  * [1646](1646 "1646" )
 |
 
 ### 1 cont.
 
-  * [1747](/index.php/1747 "1747" )
-  * [190](/index.php/190 "190" )
+  * [1747](1747 "1747" )
+  * [190](190 "190" )
 
 ### 2
 
-  * [229](/index.php/229 "229" )
+  * [229](229 "229" )
 
 ### 4
 
-  * [45](/index.php/45 "45" )
-  * [461](/index.php/461 "461" )
+  * [45](45 "45" )
+  * [461](461 "461" )
 
 ### 5
 
-  * [53](/index.php/53 "53" )
+  * [53](53 "53" )
 |
 
 ### 5 cont.
 
-  * [599](/index.php/599 "599" )
+  * [599](599 "599" )
 
 ### 6
 
-  * [696](/index.php/696 "696" )
+  * [696](696 "696" )
 
 ### 7
 
-  * [7](/index.php/7 "7" )
-  * [73](/index.php/73 "73" )
-  * [768](/index.php/768 "768" )  
+  * [7](7 "7" )
+  * [73](73 "73" )
+  * [768](768 "768" )  
 ---|---|---  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Category:College_mentored_teams>"
+"<http://www.firstwiki.netCategory:College_mentored_teams>"
 
 [Category](/index.php?title=Special:Categories&article=Category%3ACollege_ment
-ored_teams "Special:Categories" ): [Teams](/index.php/Category:Teams
+ored_teams "Special:Categories" ): [Teams](Category:Teams
 "Category:Teams" )
 
 ##### Views
 
-  * [Category](/index.php/Category:College_mentored_teams)
+  * [Category](Category:College_mentored_teams)
   * [Discussion](/index.php?title=Category_talk:College_mentored_teams&action=edit)
   * [Edit](/index.php?title=Category:College_mentored_teams&action=edit)
   * [History](/index.php?title=Category:College_mentored_teams&action=history)
@@ -71,17 +71,17 @@ ored_teams "Special:Categories" ): [Teams](/index.php/Category:Teams
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Category:College_mentored_teams)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -89,10 +89,10 @@ ored_teams "Special:Categories" ): [Teams](/index.php/Category:Teams
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Category:College_mentored_teams)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Category:College_mentored_teams)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Category:College_mentored_teams)
+  * [Related changes](Special:Recentchangeslinked/Category:College_mentored_teams)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Category:College_mentored_teams&printable=yes)
   * [Permanent link](/index.php?title=Category:College_mentored_teams&oldid=39842)
 
@@ -105,7 +105,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 00:51, 6 September 2004.
   * This page has been accessed 903 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

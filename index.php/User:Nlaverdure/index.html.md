@@ -26,5 +26,5 @@ Knights)](http://www.team122.org/ "http://www.team122.org/" )_
   * [Consolidated index of teams](/index.php?title=User:Nlaverdure/Consolidated_index_of_teams&action=edit "User:Nlaverdure/Consolidated index of teams" )
 
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

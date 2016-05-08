@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-A **pressure switch** is a [pneumatics](/index.php/Pneumatics "Pneumatics" )
+A **pressure switch** is a [pneumatics](Pneumatics "Pneumatics" )
 switch whose state changes depending on the pressure.
 
 [![A pressure
-switch.](/media/6/6f/PressureSwitch.PNG)](/index.php/Image:PressureSwitch.PNG
+switch.](/media/6/6f/PressureSwitch.PNG)](Image:PressureSwitch.PNG
 "A pressure switch." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:PressureSwitch.PNG "Enlarge" )
+clip.png)](Image:PressureSwitch.PNG "Enlarge" )
 
 A pressure switch.
 
@@ -87,11 +87,11 @@ The controller should turn the compressor on when needed, and off when not.
 
 [![The configuration window for the Pressure Switch block in
 easyC.](/media/thumb/e/eb/PressureSwitchConfiguration.PNG/180px-PressureSwitch
-Configuration.PNG)](/index.php/Image:PressureSwitchConfiguration.PNG "The
+Configuration.PNG)](Image:PressureSwitchConfiguration.PNG "The
 configuration window for the Pressure Switch block in easyC." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:PressureSwitchConfiguration.PNG "Enlarge" )
+clip.png)](Image:PressureSwitchConfiguration.PNG "Enlarge" )
 
 The configuration window for the Pressure Switch block in easyC.
 
@@ -129,12 +129,12 @@ where the # signs are replaced with the appropriate channel numbers.
 
 The compressor should then turn on when it is needed, and off when it is not.
 
-_**[Pneumatics](/index.php/Pneumatics "Pneumatics" ) Parts:**_  
-[Cylinder](/index.php/Cylinder "Cylinder" ) | [Solenoid](/index.php/Solenoid
-"Solenoid" ) | [Compressor](/index.php/Compressor "Compressor" ) | [Storage
-tank](/index.php/Storage_tank "Storage tank" ) | [Rotary
-actuator](/index.php/Rotary_actuator "Rotary actuator" ) | [Pressure
-regulator](/index.php/Pressure_regulator "Pressure regulator" ) | **Pressure
+_**[Pneumatics](Pneumatics "Pneumatics" ) Parts:**_  
+[Cylinder](Cylinder "Cylinder" ) | [Solenoid](Solenoid
+"Solenoid" ) | [Compressor](Compressor "Compressor" ) | [Storage
+tank](Storage_tank "Storage tank" ) | [Rotary
+actuator](Rotary_actuator "Rotary actuator" ) | [Pressure
+regulator](Pressure_regulator "Pressure regulator" ) | **Pressure
 switch**  
 ---  
   

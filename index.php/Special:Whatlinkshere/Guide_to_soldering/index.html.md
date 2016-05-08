@@ -21,8 +21,8 @@ ing&limit=250&from=0 "Special:Whatlinkshere/Guide to soldering" ) | [500](/ind
 ex.php?title=Special:Whatlinkshere/Guide_to_soldering&limit=500&from=0
 "Special:Whatlinkshere/Guide to soldering" )).
 
-  * [How-to](/index.php/How-to "How-to" )
-  * [Soldering](/index.php/Soldering "Soldering" )
+  * [How-to](How-to "How-to" )
+  * [Soldering](Soldering "Soldering" )
   * [Soldering How-To](/index.php?title=Soldering_How-To&redirect=no "Soldering How-To" ) (redirect page) 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Guid
 e_to_soldering&limit=20&from=0 "Special:Whatlinkshere/Guide to soldering" ) |

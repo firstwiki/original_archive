@@ -22,9 +22,9 @@ disabled for the match**."
 The current version appears to be redundant and therefor conflicting. I was
 not around during this game so I don't know, but if anyone does, could they
 please make any necessary edits (if any edits are necessary). Thanks!
-[Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 11:39, 24 April 2008
+[Cbale2000](User:Cbale2000 "User:Cbale2000" ) 11:39, 24 April 2008
 (EDT)
 
-  * Good catch I don't know what I was thinking. I remembered some team using the mat to disable their autonomous mode but, I forgot the timing. Oh well apparently I can't read.--[Fizzix](/index.php/User:Fizzix "User:Fizzix" ) 18:35, 24 April 2008 (EDT) 
-  * Alright, just checking. Thanks. ;) [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 18:59, 24 April 2008 (EDT) 
+  * Good catch I don't know what I was thinking. I remembered some team using the mat to disable their autonomous mode but, I forgot the timing. Oh well apparently I can't read.--[Fizzix](User:Fizzix "User:Fizzix" ) 18:35, 24 April 2008 (EDT) 
+  * Alright, just checking. Thanks. ;) [Cbale2000](User:Cbale2000 "User:Cbale2000" ) 18:59, 24 April 2008 (EDT) 
 

@@ -21,9 +21,9 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [00:01, 31 July 2011](/media/a/ad/Bslogo.gif "/media/a/ad/Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](/index.php/User_talk:Mwibbels "User talk:Mwibbels" )) . . 260x231 (7154 bytes) (Reverted to earlier revision)
-  * (del) (rev) [00:01, 31 July 2011](/media/archive/a/ad/20110731000139%21Bslogo.gif "/media/archive/a/ad/20110731000139!Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](/index.php/User_talk:Mwibbels "User talk:Mwibbels" )) . . 260x231 (7154 bytes) (Reverted to earlier revision)
-  * (del) (rev) [00:00, 31 July 2011](/media/archive/a/ad/20110731000124%21Bslogo.gif "/media/archive/a/ad/20110731000124!Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](/index.php/User_talk:Mwibbels "User talk:Mwibbels" )) . . 72x75 (3491 bytes)
+  * (del) (cur) [00:01, 31 July 2011](/media/a/ad/Bslogo.gif "/media/a/ad/Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](User_talk:Mwibbels "User talk:Mwibbels" )) . . 260x231 (7154 bytes) (Reverted to earlier revision)
+  * (del) (rev) [00:01, 31 July 2011](/media/archive/a/ad/20110731000139%21Bslogo.gif "/media/archive/a/ad/20110731000139!Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](User_talk:Mwibbels "User talk:Mwibbels" )) . . 260x231 (7154 bytes) (Reverted to earlier revision)
+  * (del) (rev) [00:00, 31 July 2011](/media/archive/a/ad/20110731000124%21Bslogo.gif "/media/archive/a/ad/20110731000124!Bslogo.gif" ) . . [Mwibbels](/index.php?title=User:Mwibbels&action=edit "User:Mwibbels" ) ([Talk](User_talk:Mwibbels "User talk:Mwibbels" )) . . 72x75 (3491 bytes)
   * (del) (rev) [00:46, 14 January 2007](/media/archive/a/ad/20110731000002%21Bslogo.gif "/media/archive/a/ad/20110731000002!Bslogo.gif" ) . . [Martschr](/index.php?title=User:Martschr&action=edit "User:Martschr" ) ([Talk](/index.php?title=User_talk:Martschr&action=edit "User talk:Martschr" )) . . 260x231 (7154 bytes)
   
 
@@ -37,5 +37,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [16](/index.php/16 "16" )
+  * [16](16 "16" )
 

@@ -9,13 +9,13 @@ a link to a new page for a recruitment article. I was trying to "be bold," so
 please be nice. I hope I put this page in an appropriate location and didn't
 miss something similar elsewhere. I just wrote it now, and it needs to be read
 over and edited, updated, expanded upon, etc.
---[LauraN](/index.php/User:LauraN "User:LauraN" ) 17:07, 13 Jun 2004 (EDT)
+--[LauraN](User:LauraN "User:LauraN" ) 17:07, 13 Jun 2004 (EDT)
 
-    Seems fine. My only concern is that it's a fairly large article w/o any sections. --[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) 17:08, 13 Jun 2004 (EDT) 
+    Seems fine. My only concern is that it's a fairly large article w/o any sections. --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) 17:08, 13 Jun 2004 (EDT) 
 
     
 
-    Yeah, see that's what I mean...I don't really know what you mean by "sections" or what you want in terms of formatting. So someone else get on that. (*is brand-new and still learning*) The content is the important part, right? =) --[LauraN](/index.php/User:LauraN "User:LauraN" ) 17:31, 13 Jun 2004 (EDT) 
+    Yeah, see that's what I mean...I don't really know what you mean by "sections" or what you want in terms of formatting. So someone else get on that. (*is brand-new and still learning*) The content is the important part, right? =) --[LauraN](User:LauraN "User:LauraN" ) 17:31, 13 Jun 2004 (EDT) 
 
 Right.
 
@@ -57,6 +57,6 @@ You can only do this as 6 deep.
 
 ###### a very deep section
 
-\--[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+\--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 17:42, 13 Jun 2004 (EDT)
 

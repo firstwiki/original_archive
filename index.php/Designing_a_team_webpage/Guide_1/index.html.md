@@ -17,9 +17,9 @@ non-team members and team members.
 
   
 One excellent resource all teams should consider is
-[OpenFIRST](/index.php/OpenFIRST "OpenFIRST" ), an open-source project made by
+[OpenFIRST](OpenFIRST "OpenFIRST" ), an open-source project made by
 [FIRSTers](/index.php?title=FIRSTer&action=edit "FIRSTer" ) specifically
-designed for [FIRST Robotics Teams](/index.php/FIRST_Robotics_Team "FIRST
+designed for [FIRST Robotics Teams](FIRST_Robotics_Team "FIRST
 Robotics Team" ).
 
 ## Contents
@@ -64,7 +64,7 @@ Some basic guidelines for team webpages:
   * History of robots and awards won 
   * Links to press coverage 
   * Links to your sponsors 
-  * When possible, link to general FIRST sites (like [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ), or the official FIRST site) instead of trying to explain everything yourself. 
+  * When possible, link to general FIRST sites (like [FIRSTwiki](FIRSTwiki "FIRSTwiki" ), or the official FIRST site) instead of trying to explain everything yourself. 
   * An excellent way to keep your team/mentors/parents/sponsors coordinated is through a forum system. See [Creating a forum](/index.php?title=Creating_a_forum&action=edit "Creating a forum" ). 
 
 [[edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit&section=
@@ -97,28 +97,28 @@ make setting up basic news, discussion board, gallery and other functionality
 a matter of uploading files via FTP and running some install files. Of course,
 if the user chooses, there is plenty of opportunity for expansion.
 
-  * [OpenFIRST](/index.php/OpenFIRST "OpenFIRST" ) \- a set of modules for FIRST teams to make or enhance sites. 
+  * [OpenFIRST](OpenFIRST "OpenFIRST" ) \- a set of modules for FIRST teams to make or enhance sites. 
   * [PHP-Nuke](http://phpnuke.org/ "http://phpnuke.org/" )
   * [PostNuke](http://postnuke.com "http://postnuke.com" )
   * [XOOPS](http://xoops.org "http://xoops.org" )
   * [openCMS](http://opencms.org "http://opencms.org" )
   * [Plone](http://plone.org "http://plone.org" )
-  * [vBulletin](http://www.vbulletin.com/ "http://www.vbulletin.com/" ) \- Software that [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) uses. Not free. 
+  * [vBulletin](http://www.vbulletin.com/ "http://www.vbulletin.com/" ) \- Software that [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) uses. Not free. 
   * [Invision Power Board](http://www.invisionboard.com/ "http://www.invisionboard.com/" )
   * [phpbb](http://phpbb.com "http://phpbb.com" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Designing_a_team_webpage/Guide_1>"
+"<http://www.firstwiki.netDesigning_a_team_webpage/Guide_1>"
 
 [Categories](/index.php?title=Special:Categories&article=Designing_a_team_webp
-age%2FGuide_1 "Special:Categories" ): [How-to](/index.php/Category:How-to
-"Category:How-to" ) | [Webpages](/index.php/Category:Webpages
+age%2FGuide_1 "Special:Categories" ): [How-to](Category:How-to
+"Category:How-to" ) | [Webpages](Category:Webpages
 "Category:Webpages" )
 
 ##### Views
 
-  * [Article](/index.php/Designing_a_team_webpage/Guide_1)
-  * [Discussion](/index.php/Talk:Designing_a_team_webpage/Guide_1)
+  * [Article](Designing_a_team_webpage/Guide_1)
+  * [Discussion](Talk:Designing_a_team_webpage/Guide_1)
   * [Edit](/index.php?title=Designing_a_team_webpage/Guide_1&action=edit)
   * [History](/index.php?title=Designing_a_team_webpage/Guide_1&action=history)
 
@@ -126,17 +126,17 @@ age%2FGuide_1 "Special:Categories" ): [How-to](/index.php/Category:How-to
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Designing_a_team_webpage/Guide_1)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -144,10 +144,10 @@ age%2FGuide_1 "Special:Categories" ): [How-to](/index.php/Category:How-to
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Designing_a_team_webpage/Guide_1)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Designing_a_team_webpage/Guide_1)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Designing_a_team_webpage/Guide_1)
+  * [Related changes](Special:Recentchangeslinked/Designing_a_team_webpage/Guide_1)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Designing_a_team_webpage/Guide_1&printable=yes)
   * [Permanent link](/index.php?title=Designing_a_team_webpage/Guide_1&oldid=60653)
 
@@ -160,7 +160,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 18:25, 27 May 2007.
   * This page has been accessed 2,660 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

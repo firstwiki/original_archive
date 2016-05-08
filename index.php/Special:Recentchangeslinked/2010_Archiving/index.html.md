@@ -35,41 +35,41 @@ inked&target=2010_Archiving&hideminor=0&days=30&limit=50
 
 #### 21 March 2010
 
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75868&oldid=75808 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 23:04 . . [Alex.herreid](/index.php?title=User:Alex.herreid&action=edit "User:Alex.herreid" ) ([Talk](/index.php?title=User_talk:Alex.herreid&action=edit "User talk:Alex.herreid" ) | [contribs](/index.php?title=Special:Contributions&target=Alex.herreid "Special:Contributions" ))
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75868&oldid=75808 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 23:04 . . [Alex.herreid](/index.php?title=User:Alex.herreid&action=edit "User:Alex.herreid" ) ([Talk](/index.php?title=User_talk:Alex.herreid&action=edit "User talk:Alex.herreid" ) | [contribs](/index.php?title=Special:Contributions&target=Alex.herreid "Special:Contributions" ))
 
 #### 19 March 2010
 
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75808&oldid=75807 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 20:21 . . [Team987](/index.php?title=User:Team987&action=edit "User:Team987" ) ([Talk](/index.php?title=User_talk:Team987&action=edit "User talk:Team987" ) | [contribs](/index.php?title=Special:Contributions&target=Team987 "Special:Contributions" )) ([→](/index.php/2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75807&oldid=75804 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 18:52 . . [Francis-190](/index.php?title=User:Francis-190&action=edit "User:Francis-190" ) ([Talk](/index.php?title=User_talk:Francis-190&action=edit "User talk:Francis-190" ) | [contribs](/index.php?title=Special:Contributions&target=Francis-190 "Special:Contributions" )) ([→](/index.php/2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75804&oldid=75798 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 11:49 . . [Rtfgnow](/index.php?title=User:Rtfgnow&action=edit "User:Rtfgnow" ) ([Talk](/index.php?title=User_talk:Rtfgnow&action=edit "User talk:Rtfgnow" ) | [contribs](/index.php?title=Special:Contributions&target=Rtfgnow "Special:Contributions" )) ([→](/index.php/2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75798&oldid=75789 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 03:08 . . [Gneedel](/index.php?title=User:Gneedel&action=edit "User:Gneedel" ) ([Talk](/index.php?title=User_talk:Gneedel&action=edit "User talk:Gneedel" ) | [contribs](/index.php?title=Special:Contributions&target=Gneedel "Special:Contributions" )) ([→](/index.php/2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75808&oldid=75807 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 20:21 . . [Team987](/index.php?title=User:Team987&action=edit "User:Team987" ) ([Talk](/index.php?title=User_talk:Team987&action=edit "User talk:Team987" ) | [contribs](/index.php?title=Special:Contributions&target=Team987 "Special:Contributions" )) ([→](2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75807&oldid=75804 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 18:52 . . [Francis-190](/index.php?title=User:Francis-190&action=edit "User:Francis-190" ) ([Talk](/index.php?title=User_talk:Francis-190&action=edit "User talk:Francis-190" ) | [contribs](/index.php?title=Special:Contributions&target=Francis-190 "Special:Contributions" )) ([→](2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75804&oldid=75798 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 11:49 . . [Rtfgnow](/index.php?title=User:Rtfgnow&action=edit "User:Rtfgnow" ) ([Talk](/index.php?title=User_talk:Rtfgnow&action=edit "User talk:Rtfgnow" ) | [contribs](/index.php?title=Special:Contributions&target=Rtfgnow "Special:Contributions" )) ([→](2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75798&oldid=75789 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 03:08 . . [Gneedel](/index.php?title=User:Gneedel&action=edit "User:Gneedel" ) ([Talk](/index.php?title=User_talk:Gneedel&action=edit "User talk:Gneedel" ) | [contribs](/index.php?title=Special:Contributions&target=Gneedel "Special:Contributions" )) ([→](2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
 
 #### 18 March 2010
 
-  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75789&oldid=75688 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](/index.php/2010_Webcasts "2010 Webcasts" ); 16:11 . . [CJmango](/index.php?title=User:CJmango&action=edit "User:CJmango" ) ([Talk](/index.php?title=User_talk:CJmango&action=edit "User talk:CJmango" ) | [contribs](/index.php?title=Special:Contributions&target=CJmango "Special:Contributions" )) ([→](/index.php/2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
+  * ([diff](/index.php?title=2010_Webcasts&curid=9119&diff=75789&oldid=75688 "2010 Webcasts" )) ([hist](/index.php?title=2010_Webcasts&curid=9119&action=history "2010 Webcasts" )) . . [2010 Webcasts](2010_Webcasts "2010 Webcasts" ); 16:11 . . [CJmango](/index.php?title=User:CJmango&action=edit "User:CJmango" ) ([Talk](/index.php?title=User_talk:CJmango&action=edit "User talk:CJmango" ) | [contribs](/index.php?title=Special:Contributions&target=CJmango "Special:Contributions" )) ([→](2010_Webcasts#Webcast_List "2010 Webcasts" )Webcast List - )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/2010_Archiving)
+  * [Special Page](Special:Recentchangeslinked/2010_Archiving)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -77,8 +77,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -86,7 +86,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

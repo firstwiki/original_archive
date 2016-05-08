@@ -22,11 +22,11 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Science&limit=500&from=0
 "Special:Whatlinkshere/Science" )).
 
-  * [FIRST](/index.php/FIRST "FIRST" )
-  * [Team spirit](/index.php/Team_spirit "Team spirit" )
-  * [Inspiration](/index.php/Inspiration "Inspiration" )
-  * [Recognition](/index.php/Recognition "Recognition" )
-  * [Technology](/index.php/Technology "Technology" )
+  * [FIRST](FIRST "FIRST" )
+  * [Team spirit](Team_spirit "Team spirit" )
+  * [Inspiration](Inspiration "Inspiration" )
+  * [Recognition](Recognition "Recognition" )
+  * [Technology](Technology "Technology" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Science&limit=20&from=0
 "Special:Whatlinkshere/Science" ) |

@@ -5,15 +5,15 @@
 Jump to: navigation, search
 
 [![The USB chicklet](/media/thumb/a/a9/USB_chicklet.gif/200px-
-USB_chicklet.gif)](/index.php/Image:USB_chicklet.gif "The USB chicklet" )
+USB_chicklet.gif)](Image:USB_chicklet.gif "The USB chicklet" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:USB_chicklet.gif "Enlarge" )
+clip.png)](Image:USB_chicklet.gif "Enlarge" )
 
 The **USB chicklet**
 
 Introduced in 2007, the USB Chicklet allows USB control devices to be used on
-pre-2009 [Operator Interfaces](/index.php/Operator_Interface "Operator
+pre-2009 [Operator Interfaces](Operator_Interface "Operator
 Interface" ).
 
 ## Contents
@@ -30,7 +30,7 @@ Interface" ).
 USB-Chicklet is an embedded device that performs USB hosting on USB joysticks
 and gamepads and converts the data from the device into analog and digital
 signals compatible with the 15-pin joystick interface found on the [Operator
-Interface](/index.php/Operator_Interface "Operator Interface" ). This allows
+Interface](Operator_Interface "Operator Interface" ). This allows
 teams to use USB devices to control their robots without a complicated
 solution.
 
@@ -40,11 +40,11 @@ required that a 7.2 volt battery be used during competition.
 
 [![A top down view of the chicklet allowing important items to be
 noted.](/media/thumb/c/c4/USB_Chicklet_Overview.png/200px-
-USB_Chicklet_Overview.png)](/index.php/Image:USB_Chicklet_Overview.png "A top
+USB_Chicklet_Overview.png)](Image:USB_Chicklet_Overview.png "A top
 down view of the chicklet allowing important items to be noted." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:USB_Chicklet_Overview.png "Enlarge" )
+clip.png)](Image:USB_Chicklet_Overview.png "Enlarge" )
 
 A top down view of the chicklet allowing important items to be noted.
 
@@ -66,7 +66,7 @@ A top down view of the chicklet allowing important items to be noted.
 
 ## See Also
 
-  * [Using the USB Chicklet](/index.php/Using_the_USB_chicklet "Using the USB chicklet" )
+  * [Using the USB Chicklet](Using_the_USB_chicklet "Using the USB chicklet" )
 
 
 ## External Links

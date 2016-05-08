@@ -39,7 +39,7 @@ CVT is often seen [in motorcycles](http://www.kawasaki.co.uk/atv/specification
 .asp?RangeFlag=3&DealerRange=Atv&Model=ksv700-a "http://www.kawasaki.co.uk/atv
 /specification.asp?RangeFlag=3&DealerRange=Atv&Model=ksv700-a" ).
 
-[![Image:Cvt2_thumb.jpg](/media/c/cf/Cvt2_thumb.jpg)](/index.php/Image:Cvt2_th
+[![Image:Cvt2_thumb.jpg](/media/c/cf/Cvt2_thumb.jpg)](Image:Cvt2_th
 umb.jpg "Image:Cvt2_thumb.jpg" )
 
 
@@ -50,7 +50,7 @@ from one another, connected to shafts that serve as the input and output of
 the transmission. A secondary frictional wheel rotates within the two toroids
 transferring torque in different ratios depending on its position.
 
-[![Image:Cvt1_thumb.jpg](/media/5/52/Cvt1_thumb.jpg)](/index.php/Image:Cvt1_th
+[![Image:Cvt1_thumb.jpg](/media/5/52/Cvt1_thumb.jpg)](Image:Cvt1_th
 umb.jpg "Image:Cvt1_thumb.jpg" )
 
 [[edit](/index.php?title=Continuously_variable_transmissions&action=edit&secti
@@ -67,13 +67,13 @@ thread](http://www.chiefdelphi.com/forums/showthread.php?threadid=24376
 "http://www.chiefdelphi.com/forums/showthread.php?threadid=24376" ) for more
 information and images.
 
-[![Image:Wheel_cvt.gif](/media/6/68/Wheel_cvt.gif)](/index.php/Image:Wheel_cvt
+[![Image:Wheel_cvt.gif](/media/6/68/Wheel_cvt.gif)](Image:Wheel_cvt
 .gif "Image:Wheel_cvt.gif" )
 
 
 ##  Application in FIRST
 
-As with any [drive train](/index.php/Drive_train "Drive train" ), drive trains
+As with any [drive train](Drive_train "Drive train" ), drive trains
 in FIRST try to maximize the power output of the system. Though CVTs are very
 inefficient compared to more traditional gearing systems, they can be used to
 actually increase the effectiveness of the drive train because they can
@@ -83,7 +83,7 @@ one point (or several points in a system with multiple
 [gears](/index.php?title=Gears&action=edit "Gears" )), it will be less
 effective at other RPMs.
 
-Two teams, [64](/index.php/64 "64" ) and [190](/index.php/190 "190" ), have
+Two teams, [64](64 "64" ) and [190](190 "190" ), have
 used a CVT in a FIRST robot, with mixed results (see [this CD
 thread](http://www.chiefdelphi.com/forums/showthread.php?t=19490&highlight=cvt
 "http://www.chiefdelphi.com/forums/showthread.php?t=19490&highlight=cvt" ) for
@@ -100,12 +100,12 @@ i.com/forums/showpost.php?p=223425&postcount=21
 a one.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Continuously_variable_transmissions>"
+"<http://www.firstwiki.netContinuously_variable_transmissions>"
 
 ##### Views
 
-  * [Article](/index.php/Continuously_variable_transmissions)
-  * [Discussion](/index.php/Talk:Continuously_variable_transmissions)
+  * [Article](Continuously_variable_transmissions)
+  * [Discussion](Talk:Continuously_variable_transmissions)
   * [Edit](/index.php?title=Continuously_variable_transmissions&action=edit)
   * [History](/index.php?title=Continuously_variable_transmissions&action=history)
 
@@ -113,17 +113,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Continuously_variable_transmissions)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -131,10 +131,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Continuously_variable_transmissions)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Continuously_variable_transmissions)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Continuously_variable_transmissions)
+  * [Related changes](Special:Recentchangeslinked/Continuously_variable_transmissions)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Continuously_variable_transmissions&printable=yes)
   * [Permanent link](/index.php?title=Continuously_variable_transmissions&oldid=37763)
 
@@ -147,7 +147,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 00:35, 30 July 2004.
   * This page has been accessed 4,724 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

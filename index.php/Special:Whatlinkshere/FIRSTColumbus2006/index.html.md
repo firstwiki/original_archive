@@ -23,7 +23,7 @@ hatlinkshere/FIRSTColumbus2006&limit=250&from=0
 hatlinkshere/FIRSTColumbus2006&limit=500&from=0
 "Special:Whatlinkshere/FIRSTColumbus2006" )).
 
-  * [Category:FLL teams from Georgia](/index.php/Category:FLL_teams_from_Georgia "Category:FLL teams from Georgia" )
+  * [Category:FLL teams from Georgia](Category:FLL_teams_from_Georgia "Category:FLL teams from Georgia" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/FIRSTColumbus2006&limit=20&from=0
 "Special:Whatlinkshere/FIRSTColumbus2006" ) |

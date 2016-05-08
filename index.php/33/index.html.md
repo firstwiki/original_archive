@@ -9,7 +9,7 @@ Jump to: navigation, search
 Killer Bees  
 ---  
 [![](/media/thumb/f/f9/33_Small.jpg/150px-
-33_Small.jpg)](/index.php/Image:33_Small.jpg "" )  
+33_Small.jpg)](Image:33_Small.jpg "" )  
 Rookie Year: | 1996  
 Inactive Years: | {{{inactive}}}  
 Location: | Auburn Hills, MI, USA  
@@ -165,5 +165,5 @@ team currently consists of 29 students, 6 engineers, 2 alumni, 4 parents, and
   * The Chrysler Foundation, Notre Dame Preparatory 
 
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

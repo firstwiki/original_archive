@@ -4,88 +4,88 @@
 
 Jump to: navigation, search
 
-[Regional Events](/index.php/Index_of_Regionals "Index of Regionals" )  
+[Regional Events](Index_of_Regionals "Index of Regionals" )  
 ---  
   
 **Northeast**  
 
 [BAE Systems Granite State
-Regional](/index.php/BAE_Systems_Granite_State_Regional "BAE Systems Granite
+Regional](BAE_Systems_Granite_State_Regional "BAE Systems Granite
 State Regional" )  
-[New Jersey Regional](/index.php/New_Jersey_Regional "New Jersey Regional" )  
-[Pittsburgh Regional](/index.php/Pittsburgh_Regional "Pittsburgh Regional" )  
-[Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional" )  
-[UTC New England Regional](/index.php/UTC_New_England_Regional "UTC New
+[New Jersey Regional](New_Jersey_Regional "New Jersey Regional" )  
+[Pittsburgh Regional](Pittsburgh_Regional "Pittsburgh Regional" )  
+[Chesapeake Regional](Chesapeake_Regional "Chesapeake Regional" )  
+[UTC New England Regional](UTC_New_England_Regional "UTC New
 England Regional" )  
-[SBPLI Long Island Regional](/index.php/SBPLI_Long_Island_Regional "SBPLI Long
+[SBPLI Long Island Regional](SBPLI_Long_Island_Regional "SBPLI Long
 Island Regional" )  
-[Boston Regional](/index.php/Boston_Regional "Boston Regional" )  
-[New York City Regional](/index.php/New_York_City_Regional "New York City
+[Boston Regional](Boston_Regional "Boston Regional" )  
+[New York City Regional](New_York_City_Regional "New York City
 Regional" )  
-[Philadelphia Regional](/index.php/Philadelphia_Regional "Philadelphia
+[Philadelphia Regional](Philadelphia_Regional "Philadelphia
 Regional" )  
-[Finger Lakes Regional](/index.php/Finger_Lakes_Regional "Finger Lakes
+[Finger Lakes Regional](Finger_Lakes_Regional "Finger Lakes
 Regional" )  
 
 **Southeast**  
 
-[NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )  
-[Florida Regional](/index.php/Florida_Regional "Florida Regional" )  
-[St. Louis Regional](/index.php/St._Louis_Regional "St. Louis Regional" )  
-[Peachtree Regional](/index.php/Peachtree_Regional "Peachtree Regional" )  
-[Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )  
-[Bayou Regional](/index.php/Bayou_Regional "Bayou Regional" )  
+[NASA/VCU Regional](NASA/VCU_Regional "NASA/VCU Regional" )  
+[Florida Regional](Florida_Regional "Florida Regional" )  
+[St. Louis Regional](St._Louis_Regional "St. Louis Regional" )  
+[Peachtree Regional](Peachtree_Regional "Peachtree Regional" )  
+[Palmetto Regional](Palmetto_Regional "Palmetto Regional" )  
+[Bayou Regional](Bayou_Regional "Bayou Regional" )  
 
 **Midwest**  
 
-[Great Lakes Regional](/index.php/Great_Lakes_Regional "Great Lakes Regional"
+[Great Lakes Regional](Great_Lakes_Regional "Great Lakes Regional"
 )  
-[Detroit Regional](/index.php/Detroit_Regional "Detroit Regional" )  
-[Buckeye Regional](/index.php/Buckeye_Regional "Buckeye Regional" )  
-[Midwest Regional](/index.php/Midwest_Regional "Midwest Regional" )  
-[Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )  
-[West Michigan Regional](/index.php/West_Michigan_Regional "West Michigan
+[Detroit Regional](Detroit_Regional "Detroit Regional" )  
+[Buckeye Regional](Buckeye_Regional "Buckeye Regional" )  
+[Midwest Regional](Midwest_Regional "Midwest Regional" )  
+[Wisconsin Regional](Wisconsin_Regional "Wisconsin Regional" )  
+[West Michigan Regional](West_Michigan_Regional "West Michigan
 Regional" )  
-[Boilermaker Regional](/index.php/Boilermaker_Regional "Boilermaker Regional"
+[Boilermaker Regional](Boilermaker_Regional "Boilermaker Regional"
 )  
-[Greater Kansas City Regional](/index.php/Greater_Kansas_City_Regional
+[Greater Kansas City Regional](Greater_Kansas_City_Regional
 "Greater Kansas City Regional" )  
-[Oklahoma Regional](/index.php/Oklahoma_Regional "Oklahoma Regional" )  
-[Minnesota Regional](/index.php/Minnesota_Regional "Minnesota Regional" )  
+[Oklahoma Regional](Oklahoma_Regional "Oklahoma Regional" )  
+[Minnesota Regional](Minnesota_Regional "Minnesota Regional" )  
 
 **West**  
 
-[Pacific Northwest Regional](/index.php/Pacific_Northwest_Regional "Pacific
+[Pacific Northwest Regional](Pacific_Northwest_Regional "Pacific
 Northwest Regional" )  
-[Arizona Regional](/index.php/Arizona_Regional "Arizona Regional" )  
-[Davis Sacramento Regional](/index.php/Davis_Sacramento_Regional "Davis
+[Arizona Regional](Arizona_Regional "Arizona Regional" )  
+[Davis Sacramento Regional](Davis_Sacramento_Regional "Davis
 Sacramento Regional" )  
-[Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" )  
-[Los Angeles Regional](/index.php/Los_Angeles_Regional "Los Angeles Regional"
+[Colorado Regional](Colorado_Regional "Colorado Regional" )  
+[Los Angeles Regional](Los_Angeles_Regional "Los Angeles Regional"
 )  
-[Lone Star Regional](/index.php/Lone_Star_Regional "Lone Star Regional" )  
-[Silicon Valley Regional](/index.php/Silicon_Valley_Regional "Silicon Valley
+[Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )  
+[Silicon Valley Regional](Silicon_Valley_Regional "Silicon Valley
 Regional" )  
-[Las Vegas Regional](/index.php/Las_Vegas_Regional "Las Vegas Regional" )  
-[San Diego Regional](/index.php/San_Diego_Regional "San Diego Regional" )  
-[Seattle Regional](/index.php/Seattle_Regional "Seattle Regional" )  
-[Hawaii Regional](/index.php/Hawaii_Regional "Hawaii Regional" )  
+[Las Vegas Regional](Las_Vegas_Regional "Las Vegas Regional" )  
+[San Diego Regional](San_Diego_Regional "San Diego Regional" )  
+[Seattle Regional](Seattle_Regional "Seattle Regional" )  
+[Hawaii Regional](Hawaii_Regional "Hawaii Regional" )  
 
 **International**  
 
-[Greater Toronto Regional](/index.php/Greater_Toronto_Regional "Greater
+[Greater Toronto Regional](Greater_Toronto_Regional "Greater
 Toronto Regional" )  
-[Waterloo Regional](/index.php/Waterloo_Regional "Waterloo Regional" )  
+[Waterloo Regional](Waterloo_Regional "Waterloo Regional" )  
 [GM/Technion University Israel
-Regional](/index.php/GM/Technion_University_Israel_Regional "GM/Technion
+Regional](GM/Technion_University_Israel_Regional "GM/Technion
 University Israel Regional" )  
-[Brazil Pilot Regional](/index.php/Brazil_Pilot_Regional "Brazil Pilot
+[Brazil Pilot Regional](Brazil_Pilot_Regional "Brazil Pilot
 Regional" )  
   
   
   
 
-[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](/index.php/Ima
+[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](Ima
 ge:Gears_animation.gif "Image:Gears_animation.gif" ) |  **Attention!**  
 
 This article covers an essential topic and is in need of major additions
@@ -104,14 +104,14 @@ into the third days, and the elimination matches are held the third and final
 day. Awards are given out both the second and third days typically.
 
 The events are free of charge and open to the public. The events are often
-[webcast](/index.php/Webcasting_and_Recording "Webcasting and Recording" ) for
+[webcast](Webcasting_and_Recording "Webcasting and Recording" ) for
 other people to watch online.
 
 Competition events are, in the words of certain teams, "full of passion,
 excitement, joy, and sorrow…the thrill of success and the agony of defeat."
 
 A list of regional events is at [Index of
-Regionals](/index.php/Index_of_Regionals "Index of Regionals" )
+Regionals](Index_of_Regionals "Index of Regionals" )
 
 ## Contents
 
@@ -136,10 +136,10 @@ participating.
 
 In 2004, the FIRST Robotics Competition was comprised of twenty-six regional
 competitions. Each regional competition has its own page, linked from the
-[Index of Regionals](/index.php/Index_of_Regionals "Index of Regionals" ).
+[Index of Regionals](Index_of_Regionals "Index of Regionals" ).
 During each, many dozens of qualification matches are held which will
 determine each team's seed. After all qualification matches, teams seeded 1st
-through 8th pick their [alliance](/index.php/Alliance "Alliance" ) partners.
+through 8th pick their [alliance](Alliance "Alliance" ) partners.
 Then, alliances compete against each other in elimination matches in the
 following fashion, where QF is the quarter finals, and SF is the semifinals.
 
@@ -165,7 +165,7 @@ following fashion, where QF is the quarter finals, and SF is the semifinals.
     
 
 Finalists 1 and 2 play against each other for the title of [Regional
-Winner](/index.php/Regional_Winner "Regional Winner" ).
+Winner](Regional_Winner "Regional Winner" ).
 
 
 ## 2004-Present
@@ -205,5 +205,5 @@ After the alliance pickings go on, the tournament happens.
 
 ##  See also
 
-  * [Index of regionals](/index.php/Index_of_regionals "Index of regionals" )
+  * [Index of regionals](Index_of_regionals "Index of regionals" )
 

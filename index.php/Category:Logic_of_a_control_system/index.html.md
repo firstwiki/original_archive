@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 These items are various logical techniques used in [control
-systems](/index.php/Control_system "Control system" ).
+systems](Control_system "Control system" ).
 
   
 
@@ -15,28 +15,28 @@ There are 4 articles in this category.
 
 ### C
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-  * [Creating a PID controller](/index.php/Creating_a_PID_controller "Creating a PID controller" )
+  * [Closed loop](Closed_loop "Closed loop" )
+  * [Creating a PID controller](Creating_a_PID_controller "Creating a PID controller" )
 
 ### O
 
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Open loop](Open_loop "Open loop" )
 
 ### P
 
-  * [PID controller](/index.php/PID_controller "PID controller" )
+  * [PID controller](PID_controller "PID controller" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Category:Logic_of_a_control_system>"
+"<http://www.firstwiki.netCategory:Logic_of_a_control_system>"
 
 [Categories](/index.php?title=Special:Categories&article=Category%3ALogic_of_a
 _control_system "Special:Categories" ): [Control
-system](/index.php/Category:Control_system "Category:Control system" ) |
-[Programming](/index.php/Category:Programming "Category:Programming" )
+system](Category:Control_system "Category:Control system" ) |
+[Programming](Category:Programming "Category:Programming" )
 
 ##### Views
 
-  * [Category](/index.php/Category:Logic_of_a_control_system)
+  * [Category](Category:Logic_of_a_control_system)
   * [Discussion](/index.php?title=Category_talk:Logic_of_a_control_system&action=edit)
   * [Edit](/index.php?title=Category:Logic_of_a_control_system&action=edit)
   * [History](/index.php?title=Category:Logic_of_a_control_system&action=history)
@@ -45,17 +45,17 @@ system](/index.php/Category:Control_system "Category:Control system" ) |
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Category:Logic_of_a_control_system)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -63,10 +63,10 @@ system](/index.php/Category:Control_system "Category:Control system" ) |
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Category:Logic_of_a_control_system)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Category:Logic_of_a_control_system)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Category:Logic_of_a_control_system)
+  * [Related changes](Special:Recentchangeslinked/Category:Logic_of_a_control_system)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Category:Logic_of_a_control_system&printable=yes)
   * [Permanent link](/index.php?title=Category:Logic_of_a_control_system&oldid=39501)
 
@@ -79,7 +79,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 01:48, 16 June 2004.
   * This page has been accessed 936 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-[![Image:FiM_logo.jpg](/media/5/55/FiM_logo.jpg)](/index.php/Image:FiM_logo.jp
+[![Image:FiM_logo.jpg](/media/5/55/FiM_logo.jpg)](Image:FiM_logo.jp
 g "Image:FiM_logo.jpg" )
 
 FIRST in Michigan was a Pilot Program to test FIRST's new Competition

@@ -12,7 +12,7 @@ the CIM, Fisher Price, or Drill), it is still a very useful motor. With it's
 built in worm-gearbox, higher resistance against backdrive, and moderate
 reliability, many teams choose to use the window motors to power their robot's
 mechanisms. There have been two types of window motors included in the FIRST
-kit of parts: the [Denso window motor](/index.php/Denso_window_motor "Denso
+kit of parts: the [Denso window motor](Denso_window_motor "Denso
 window motor" ) (Black) window motor and the [Jideco
 motor](/index.php?title=Jideco_motor&action=edit "Jideco motor" )
 (silver/unpainted) window motor. In 2005 one of each were included in the kit,
@@ -60,16 +60,16 @@ However, inside the gearbox is a plastic gear which has been known to strip.
 
   * **Only backdrive the motor so that the internal axle goes AWAY from the motor.** The other way will wreck it. 
 _**2008 KOP Motors:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) | [Denso
-Window](/index.php/Denso_window_motor "Denso window motor" ) | [Taigene
+[Chiaphua/CIM](CIM_motor "CIM motor" ) | [Denso
+Window](Denso_window_motor "Denso window motor" ) | [Taigene
 Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
 motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor" )
-| [Fisher Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )
+| [Fisher Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )
 ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
-motor" ), [RS-550](/index.php/RS-550_Banebots_motor "RS-550 Banebots motor" ))  
+motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor" ))  
 ---  
 _**Older KOP Motors:**_  
-**Window** | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van door](/index.php/Van_door_motor "Van door motor" ) | [Drill](/index.php/Drill_motor "Drill motor" ) | [Fisher Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) | [Globe](/index.php/Globe_motor "Globe motor" )  
+**Window** | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van door](Van_door_motor "Van door motor" ) | [Drill](Drill_motor "Drill motor" ) | [Fisher Price](Fisher_Price_motor "Fisher Price motor" ) | [Globe](Globe_motor "Globe motor" )  
   

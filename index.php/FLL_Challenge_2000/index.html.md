@@ -23,5 +23,5 @@ Official Site: | [2000 Volcanic
 Panic](http://www.firstlegoleague.org/default.aspx?pid=480
 "http://www.firstlegoleague.org/default.aspx?pid=480" )  
   
-**Volcanic Panic** was the name of the 2000 season [FLL](/index.php/FLL "FLL" ) game. 
+**Volcanic Panic** was the name of the 2000 season [FLL](FLL "FLL" ) game. 
 

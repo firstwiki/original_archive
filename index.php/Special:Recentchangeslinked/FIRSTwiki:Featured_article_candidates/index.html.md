@@ -38,32 +38,32 @@ minor edits
 
 #### 27 November 2008
 
-  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70024&oldid=70022 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ); 03:46 . . [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) ([Talk](/index.php/User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" )) ([→](/index.php/User:Cbale2000#Random_Stuff "User:Cbale2000" )Random Stuff)
-  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70022&oldid=70021 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ); 03:35 . . [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) ([Talk](/index.php/User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" ))
-  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70021&oldid=68032 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ); 03:30 . . [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) ([Talk](/index.php/User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" ))
+  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70024&oldid=70022 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](User:Cbale2000 "User:Cbale2000" ); 03:46 . . [Cbale2000](User:Cbale2000 "User:Cbale2000" ) ([Talk](User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" )) ([→](User:Cbale2000#Random_Stuff "User:Cbale2000" )Random Stuff)
+  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70022&oldid=70021 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](User:Cbale2000 "User:Cbale2000" ); 03:35 . . [Cbale2000](User:Cbale2000 "User:Cbale2000" ) ([Talk](User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" ))
+  * ([diff](/index.php?title=User:Cbale2000&curid=6603&diff=70021&oldid=68032 "User:Cbale2000" )) ([hist](/index.php?title=User:Cbale2000&curid=6603&action=history "User:Cbale2000" )) . . [User:Cbale2000](User:Cbale2000 "User:Cbale2000" ); 03:30 . . [Cbale2000](User:Cbale2000 "User:Cbale2000" ) ([Talk](User_talk:Cbale2000 "User talk:Cbale2000" ) | [contribs](/index.php?title=Special:Contributions&target=Cbale2000 "Special:Contributions" ))
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/FIRSTwiki:Featured_article_candidates)
+  * [Special Page](Special:Recentchangeslinked/FIRSTwiki:Featured_article_candidates)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -71,8 +71,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -80,7 +80,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

@@ -7,7 +7,7 @@
 
 Jump to: navigation, search
 
-[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](/index.php/Ima
+[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](Ima
 ge:Gears_animation.gif "Image:Gears_animation.gif" ) |  **Attention!**  
 
 This article covers an essential topic and is in need of major additions

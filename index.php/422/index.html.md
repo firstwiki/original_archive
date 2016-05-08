@@ -5,10 +5,10 @@
 Jump to: navigation, search
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=422&action=edit
 "http://www.firstwiki.net/index.php?title=422&action=edit" )** this article.  
@@ -19,7 +19,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=422&action=edit
 
 The Mech Techs  
 ---  
-[![Team 422](/media/5/57/Phoenix-logo.jpg)](/index.php/Image:Phoenix-logo.jpg
+[![Team 422](/media/5/57/Phoenix-logo.jpg)](Image:Phoenix-logo.jpg
 "Team 422" )  
 Rookie Year: | 2000  
 Inactive Years: | {{{inactive}}}  
@@ -76,11 +76,11 @@ Team Website: | <http://www.team422.com>
 **This section contains information or images relating to team robots and should be split into separate articles.**   
 This section should be for providing links to the appropriate Team/Year page
 which is where robot information and images belong.  
-See [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page
+See [FIRSTwiki:Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page
 formats" ) for more help.  
 ---  
   
-  * [2007 - Phoenix Phenomenon](/index.php/Phoenix_Phenomenon_%28422%29_2007 "Phoenix Phenomenon \(422\) 2007" )
+  * [2007 - Phoenix Phenomenon](Phoenix_Phenomenon_%28422%29_2007 "Phoenix Phenomenon \(422\) 2007" )
 
 The team was split 50%/50% between the names Phoenix Phenomenon and Phoenix
 Quatro (The Power of Titanium). The Team Leader, Tom Fisher, threw the
@@ -94,9 +94,9 @@ NASA/VCU Regional, and 40th out of 44 at the Philadelphia Regional.
 
 * * *
 
-  * [2006 - Phoenix v3.14](/index.php/Phoenix_v3.14_%28422%29_2006 "Phoenix v3.14 \(422\) 2006" )
+  * [2006 - Phoenix v3.14](Phoenix_v3.14_%28422%29_2006 "Phoenix v3.14 \(422\) 2006" )
 
-[![Image:422-Pi.jpg](/media/e/e5/422-Pi.jpg)](/index.php/Image:422-Pi.jpg
+[![Image:422-Pi.jpg](/media/e/e5/422-Pi.jpg)](Image:422-Pi.jpg
 "Image:422-Pi.jpg" )
 
 Also called Pi-bot. It was designed to only score in the low goals, and has a
@@ -114,9 +114,9 @@ one loss.
 
 * * *
 
-  * [2005 - TryForce](/index.php/TryForce_%28422%29_2005 "TryForce \(422\) 2005" )
+  * [2005 - TryForce](TryForce_%28422%29_2005 "TryForce \(422\) 2005" )
 
-[![Image:422-TryForce.jpg](/media/7/77/422-TryForce.jpg)](/index.php/Image:422
+[![Image:422-TryForce.jpg](/media/7/77/422-TryForce.jpg)](Image:422
 -TryForce.jpg "Image:422-TryForce.jpg" )
 
 The name is a reference to the Legend of Zelda's Triforce. The robot
@@ -129,9 +129,9 @@ functional.
 
 * * *
 
-  * [2004 - Phoenix Rising](/index.php/Phoenix_Rising_%28422%29_2004 "Phoenix Rising \(422\) 2004" )
+  * [2004 - Phoenix Rising](Phoenix_Rising_%28422%29_2004 "Phoenix Rising \(422\) 2004" )
 
-[![Image:422-prising.jpg](/media/2/25/422-prising.jpg)](/index.php/Image:422-p
+[![Image:422-prising.jpg](/media/2/25/422-prising.jpg)](Image:422-p
 rising.jpg "Image:422-prising.jpg" )
 
 This bot moves somewhere around 11 feet per second. It has a large, double-
@@ -142,9 +142,9 @@ today.
 
 * * *
 
-  * [2003 - Phoenix](/index.php/Phoenix_%28422%29_2003 "Phoenix \(422\) 2003" )
+  * [2003 - Phoenix](Phoenix_%28422%29_2003 "Phoenix \(422\) 2003" )
 
-[![Image:422-phoenix.jpg](/media/2/2a/422-phoenix.jpg)](/index.php/Image:422-p
+[![Image:422-phoenix.jpg](/media/2/2a/422-phoenix.jpg)](Image:422-p
 hoenix.jpg "Image:422-phoenix.jpg" )
 
 Never saw a Regional Competition, as it was a replacement bot built after
@@ -152,9 +152,9 @@ build season. It still functions today.
 
 * * *
 
-  * [2003 - Functional Decoration](/index.php/Functional_Decoration_%28422%29 "Functional Decoration \(422\)" )
+  * [2003 - Functional Decoration](Functional_Decoration_%28422%29 "Functional Decoration \(422\)" )
 
-[![Image:422-Funky.jpg](/media/c/c0/422-Funky.jpg)](/index.php/Image:422-Funky
+[![Image:422-Funky.jpg](/media/c/c0/422-Funky.jpg)](Image:422-Funky
 .jpg "Image:422-Funky.jpg" )
 
 Also called Funky, named after the rule that most materials are allowable as
@@ -163,18 +163,18 @@ so the team had to make another robot, Phoenix.
 
 * * *
 
-  * [2002 - IT](/index.php/IT_%28422%29_2002 "IT \(422\) 2002" )
+  * [2002 - IT](IT_%28422%29_2002 "IT \(422\) 2002" )
 
-[![Image:422-IT.jpg](/media/b/b1/422-IT.jpg)](/index.php/Image:422-IT.jpg
+[![Image:422-IT.jpg](/media/b/b1/422-IT.jpg)](Image:422-IT.jpg
 "Image:422-IT.jpg" )
 
 (pronounced eye-tee)
 
 * * *
 
-  * [2001 - Peacemaker](/index.php/Peacemaker_%28422%29_2001 "Peacemaker \(422\) 2001" )
+  * [2001 - Peacemaker](Peacemaker_%28422%29_2001 "Peacemaker \(422\) 2001" )
 
-[![Image:422-Peacie.jpg](/media/f/f3/422-Peacie.jpg)](/index.php/Image:422-Pea
+[![Image:422-Peacie.jpg](/media/f/f3/422-Peacie.jpg)](Image:422-Pea
 cie.jpg "Image:422-Peacie.jpg" )
 
 Also called Peacie. It won the Delphi "Driving Tomorrow's Technology" Award
@@ -184,7 +184,7 @@ other people in the way.
 
 * * *
 
-  * [2000 - Gruntmaster 9000](/index.php/Gruntmaster_9000_%28422%29_2000 "Gruntmaster 9000 \(422\) 2000" )
+  * [2000 - Gruntmaster 9000](Gruntmaster_9000_%28422%29_2000 "Gruntmaster 9000 \(422\) 2000" )
 
 Also called Grunty.
 

@@ -21,12 +21,12 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere
 [500](/index.php?title=Special:Whatlinkshere/John_V-Neun&limit=500&from=0
 "Special:Whatlinkshere/John V-Neun" )).
 
-  * [Index of people](/index.php/Index_of_people "Index of people" )
-  * [Unsung FIRST Heroes](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
-  * [College student](/index.php/College_student "College student" )
-  * [Index of celebrities](/index.php/Index_of_celebrities "Index of celebrities" )
+  * [Index of people](Index_of_people "Index of people" )
+  * [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
+  * [College student](College_student "College student" )
+  * [Index of celebrities](Index_of_celebrities "Index of celebrities" )
   * [John Vielkind-Neun](/index.php?title=John_Vielkind-Neun&redirect=no "John Vielkind-Neun" ) (redirect page) 
-  * [FIRSTwiki:People pages](/index.php/FIRSTwiki:People_pages "FIRSTwiki:People pages" )
+  * [FIRSTwiki:People pages](FIRSTwiki:People_pages "FIRSTwiki:People pages" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere
 /John_V-Neun&limit=20&from=0 "Special:Whatlinkshere/John V-Neun" ) |
 [50](/index.php?title=Special:Whatlinkshere/John_V-Neun&limit=50&from=0

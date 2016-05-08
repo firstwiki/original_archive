@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=2530&action=edit
@@ -13,7 +13,7 @@ section](http://www.firstwiki.net/index.php?title=2530&action=edit
 it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:2530&action=edit "Talk:2530" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
@@ -56,13 +56,13 @@ three public schools, Century, Mayo, and John Marshall.
   * Medtronics 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=2530&action=edit
 "http://www.firstwiki.net/index.php?title=2530&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

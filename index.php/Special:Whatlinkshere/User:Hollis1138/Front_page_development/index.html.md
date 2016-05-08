@@ -24,8 +24,8 @@ Front_page_development&limit=250&from=0
 x.php?title=Special:Whatlinkshere/User:Hollis1138/Front_page_development&limit
 =500&from=0 "Special:Whatlinkshere/User:Hollis1138/Front page development" )).
 
-  * [Talk:Main Page](/index.php/Talk:Main_Page "Talk:Main Page" )
-  * [User:Hollis1138](/index.php/User:Hollis1138 "User:Hollis1138" )
+  * [Talk:Main Page](Talk:Main_Page "Talk:Main Page" )
+  * [User:Hollis1138](User:Hollis1138 "User:Hollis1138" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :Hollis1138/Front_page_development&limit=20&from=0
 "Special:Whatlinkshere/User:Hollis1138/Front page development" ) | [50](/index

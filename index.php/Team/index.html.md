@@ -8,8 +8,8 @@ Jump to: navigation, search
 
 The term **team** can refer to the following items:
 
-  * [FIRST Robotics Team](/index.php/Team "Team" )
-  * [FIRST LEGO League Team](/index.php/FIRST_LEGO_League_Team "FIRST LEGO League Team" )
+  * [FIRST Robotics Team](Team "Team" )
+  * [FIRST LEGO League Team](FIRST_LEGO_League_Team "FIRST LEGO League Team" )
   * [FIRST Tech Challenge Team](/index.php?title=FIRST_Tech_Challenge_Team&action=edit "FIRST Tech Challenge Team" )
 
 _This is a disambiguation page; that is, one that points to other pages that

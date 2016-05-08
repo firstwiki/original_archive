@@ -9,7 +9,7 @@ section: Mao I. Hu" )]
 
 ## Mao I. Hu
 
-Vice President of the Marketing for team [694](/index.php/694 "694" ). Student
+Vice President of the Marketing for team [694](694 "694" ). Student
 of the Stuyvesant Class of 2011. Likes voluptuousness.
 
 [[edit](/index.php?title=User:Firstwikiblahblah&action=edit&section=2 "Edit

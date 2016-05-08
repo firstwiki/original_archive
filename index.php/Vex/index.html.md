@@ -6,11 +6,11 @@
 
 Jump to: navigation, search
 
-Vex is a robotics challenge similar to [FTC](/index.php/FTC "FTC" ).
+Vex is a robotics challenge similar to [FTC](FTC "FTC" ).
 
 Someone please flesh this out a little bit. I know a lot about Vex, but I'm
 not very good at organizing articles. Once there's some structure, I'll be
-able to write more. --[cmh0114](/index.php/User:Cmh0114 "User:Cmh0114" )
+able to write more. --[cmh0114](User:Cmh0114 "User:Cmh0114" )
 
   
 

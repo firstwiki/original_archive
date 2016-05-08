@@ -32,9 +32,9 @@ wear. It was actually uncomfortable to speak with these braces. Nonetheless
 the modern lingual braces are way more advanced than their previous
 counterparts. There are several advantages of utilizing them.
 
-Lingual [invisible braces](http://www.evidencewarehouse.ocp.dc.gov/index.php/U
+Lingual [invisible braces](http://www.evidencewarehouse.ocp.dc.govU
 ser_talk:Childrenbraces
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Childrenbraces" )
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Childrenbraces" )
 are actually positioned in the back of the teeth in contrast to the past metal
 braces that were positioned at the front side of the teeth. Consequently they
 can't be seen by anyone. They're made in response to each individual’s teeth.

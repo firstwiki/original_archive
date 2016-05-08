@@ -10,8 +10,8 @@ Below you will find info about me and such.
 # Info
 
   * Name: Stefan P. 
-  * Alumni of [ Team 1002 The CircuitRunners](/index.php/1002 "1002" )
-  * Team Name: [RoboJackets](/index.php/RoboJackets "RoboJackets" )
+  * Alumni of [ Team 1002 The CircuitRunners](1002 "1002" )
+  * Team Name: [RoboJackets](RoboJackets "RoboJackets" )
   * Position: Public Relations Chair 
   * Locations: Atlanta, Georgia 
 

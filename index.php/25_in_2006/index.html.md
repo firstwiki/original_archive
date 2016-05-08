@@ -4,23 +4,23 @@
 
 Jump to: navigation, search
 
-**[25](/index.php/25 "25" )**
+**[25](25 "25" )**
 
-  * [ 1997](/index.php/25_in_1997 "25 in 1997" )
-  * [ 1998](/index.php/25_in_1998 "25 in 1998" )
-  * [ 1999](/index.php/25_in_1999 "25 in 1999" )
-  * [ 2000](/index.php/25_in_2000 "25 in 2000" )
-  * [ 2001](/index.php/25_in_2001 "25 in 2001" )
-  * [ 2002](/index.php/25_in_2002 "25 in 2002" )
-  * [ 2003](/index.php/25_in_2003 "25 in 2003" )
-  * [ 2004](/index.php/25_in_2004 "25 in 2004" )
-  * [ 2005](/index.php/25_in_2005 "25 in 2005" )
+  * [ 1997](25_in_1997 "25 in 1997" )
+  * [ 1998](25_in_1998 "25 in 1998" )
+  * [ 1999](25_in_1999 "25 in 1999" )
+  * [ 2000](25_in_2000 "25 in 2000" )
+  * [ 2001](25_in_2001 "25 in 2001" )
+  * [ 2002](25_in_2002 "25 in 2002" )
+  * [ 2003](25_in_2003 "25 in 2003" )
+  * [ 2004](25_in_2004 "25 in 2004" )
+  * [ 2005](25_in_2005 "25 in 2005" )
   * ** 2006**
-  * [ 2007](/index.php/25_in_2007 "25 in 2007" )
+  * [ 2007](25_in_2007 "25 in 2007" )
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
@@ -89,11 +89,11 @@ day of the build season.
 
 [![2006 Robot - Evil Machine 4: The
 Enforcer](/media/thumb/9/9b/Evil_machine_4.jpg/180px-
-Evil_machine_4.jpg)](/index.php/Image:Evil_machine_4.jpg "2006 Robot - Evil
+Evil_machine_4.jpg)](Image:Evil_machine_4.jpg "2006 Robot - Evil
 Machine 4: The Enforcer" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Evil_machine_4.jpg "Enlarge" )
+clip.png)](Image:Evil_machine_4.jpg "Enlarge" )
 
 2006 Robot - Evil Machine 4: The Enforcer
 

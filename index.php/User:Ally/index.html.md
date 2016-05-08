@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 ... is the sexiest woman alive
 
-My contributions to team [1257](/index.php/1257 "1257" ) have been my bloodied
+My contributions to team [1257](1257 "1257" ) have been my bloodied
 fingers and ragged fingernails. Jason and I made every single purple button
 that we have given away at competitions. All 1000 of them.
 

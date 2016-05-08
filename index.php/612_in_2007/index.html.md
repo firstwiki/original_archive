@@ -6,21 +6,21 @@
 
 Jump to: navigation, search
 
-**[612](/index.php/612 "612" )**
+**[612](612 "612" )**
 
-  * [2004](/index.php/612_in_2004 "612 in 2004" )
-  * [2005](/index.php/612_in_2005 "612 in 2005" )
-  * [2006](/index.php/612_in_2006 "612 in 2006" )
+  * [2004](612_in_2004 "612 in 2004" )
+  * [2005](612_in_2005 "612 in 2005" )
+  * [2006](612_in_2006 "612 in 2006" )
   * **2007**
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -28,7 +28,7 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=612_in_2007&action=edit
 "http://www.firstwiki.net/index.php?title=612_in_2007&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
@@ -61,10 +61,10 @@ year's robot._
 ## Accomplishments
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please
 **[improve](http://www.firstwiki.net/index.php?title=612_in_2007&action=edit
@@ -74,16 +74,16 @@ article.
 ---|---  
   
 
-### [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional"
+### [Chesapeake Regional](Chesapeake_Regional "Chesapeake Regional"
 )
 
-  * [Finalist](/index.php/Finalist "Finalist" )
-  * [Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award "Kleiner Perkins Caufield & Byers Entrepreneurship Award" )
+  * [Finalist](Finalist "Finalist" )
+  * [Kleiner Perkins Caufield &amp; Byers Entrepreneurship Award](Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award "Kleiner Perkins Caufield & Byers Entrepreneurship Award" )
 
 
-### [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
+### [NASA/VCU Regional](NASA/VCU_Regional "NASA/VCU Regional" )
 
-  * [Regional Chairman's Award](/index.php/Regional_Chairman%27s_Award "Regional Chairman's Award" )
+  * [Regional Chairman's Award](Regional_Chairman%27s_Award "Regional Chairman's Award" )
 
 
 ## Robot
@@ -92,11 +92,11 @@ _General description of the robot"_
 
 [![Note the creative usage of purple and blue blocks as structural
 members.](/media/thumb/b/ba/Notarealrobot.jpg/180px-
-Notarealrobot.jpg)](/index.php/Image:Notarealrobot.jpg "Note the creative
+Notarealrobot.jpg)](Image:Notarealrobot.jpg "Note the creative
 usage of purple and blue blocks as structural members." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Notarealrobot.jpg "Enlarge" )
+clip.png)](Image:Notarealrobot.jpg "Enlarge" )
 
 Note the creative usage of purple and blue blocks as structural members.
 

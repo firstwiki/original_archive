@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](/index.php/Ima
+[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](Ima
 ge:Gears_animation.gif "Image:Gears_animation.gif" ) |  **Attention!**  
 
 This article covers an essential topic and is in need of major additions
@@ -17,9 +17,9 @@ article.
 ---|---  
   
   
-Animations are made using Autodesk's [3ds max](/index.php/3ds_max "3ds max" )
+Animations are made using Autodesk's [3ds max](3ds_max "3ds max" )
 software, and they are entered by teams each year in order to compete for the
-[Autodesk Visualization Award](/index.php/Autodesk_Visualization_Award
+[Autodesk Visualization Award](Autodesk_Visualization_Award
 "Autodesk Visualization Award" ).
 
 For help with creating an animation, some valuable resources are:
@@ -30,13 +30,13 @@ For help with creating an animation, some valuable resources are:
   * [www.cgtalk.com](http://www.cgtalk.com "http://www.cgtalk.com" ) \- professional CG forums. Great place to see some impressive CG and get help with your projects. 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Animation&action=edit
 "http://www.firstwiki.net/index.php?title=Animation&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

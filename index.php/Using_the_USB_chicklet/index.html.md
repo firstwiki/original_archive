@@ -7,15 +7,15 @@
 Jump to: navigation, search
 
 [![The USB chicklet](/media/thumb/a/a9/USB_chicklet.gif/200px-
-USB_chicklet.gif)](/index.php/Image:USB_chicklet.gif "The USB chicklet" )
+USB_chicklet.gif)](Image:USB_chicklet.gif "The USB chicklet" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:USB_chicklet.gif "Enlarge" )
+clip.png)](Image:USB_chicklet.gif "Enlarge" )
 
-The [USB chicklet](/index.php/USB_chicklet "USB chicklet" )
+The [USB chicklet](USB_chicklet "USB chicklet" )
 
 Starting in 2007, USB devices can be used instead of joysticks with the use of
-the [USB chicklet](/index.php/USB_chicklet "USB chicklet" ). Teams may find
+the [USB chicklet](USB_chicklet "USB chicklet" ). Teams may find
 that drivers are more comfortable with a game pad than the joysticks given in
 the kit of parts. Since eight additional button inputs are available, it may
 be possible to have only one driver operating the robot. While the chicklet is
@@ -106,7 +106,7 @@ section: Code" )]
 ## Code
 
 For the most part, the chicklet acts as a normal joystick. Hopefully, you've
-been [using macros](/index.php/Writing_macros "Writing macros" ) to define all
+been [using macros](Writing_macros "Writing macros" ) to define all
 your inputs, so that switching from two joysticks in tank drive to just one
 will require minimal effort. If your code does not use macros, then I would
 recommend using them. I will give examples in this tutorial with and without
@@ -189,7 +189,7 @@ section: Buttons 5-8" )]
 ### Buttons 5-8
 
 Buttons five through twelve are what makes the chicklet a bit tricky. You'll
-need a good understanding of [bitwise operators](/index.php/Bitwise_operators
+need a good understanding of [bitwise operators](Bitwise_operators
 "Bitwise operators" ) to follow this section fully. I'll give the code first,
 and then explain what's happening later on.
 
@@ -206,7 +206,7 @@ button is pressed, then BUTTON_x will be true, if it's not pressed, then
 BUTTON_x will be false.
 
 Since there are only four button variables available, the engineers that made
-the [USB chicklet](/index.php/USB_chicklet "USB chicklet" ) had to be a bit
+the [USB chicklet](USB_chicklet "USB chicklet" ) had to be a bit
 creative to allow for more than four digital inputs. Their solution: use the
 top four bits of the two remaining analog inputs to add eight more digital
 buttons. The wheel axis contains buttons 5-8, and the auxiliary axis contains
@@ -350,6 +350,6 @@ section: External Links" )]
   * [IFI manual](http://www.ifirobotics.com/docs/usbchicklet-usermanual-rev1-2.pdf "http://www.ifirobotics.com/docs/usbchicklet-usermanual-rev1-2.pdf" )
   * [Cross The Road Electronics](http://www.crosstheroadelectronics.com "http://www.crosstheroadelectronics.com" )
 
-[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](/index.php/Image
+[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](Image
 :LinkFA-star.png "Image:LinkFA-star.png" )
 

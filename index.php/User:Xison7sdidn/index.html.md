@@ -85,7 +85,7 @@ government forces its citizens to buy something.
 Hudson seemed skeptical of the idea that everyone in the country participates
 in the commerce of healthcare,Related Theme Articles:
 
-  * <http://whatworkswell.net/index.php/User:Xison8ddidn#Economy_grew_sluggishly_in_recent_weeks__Fed>&lt;li&gt; &lt;/ul&gt;, saying that this could establish the paradox that a form of economic inactivity - not buying insurance - would be considered an economic activity.&lt;/p&gt; &lt;p&gt;Before President Barack Obama signed the radical overhaul of the multibillion dollar health insurance industry into law, Virginia's legislature passed its own law that took effect on Thursday that says no one could be mandated to buy health insurance.&lt;/p&gt; &lt;p&gt;In its argument, the U.S. government said the requirement to buy health insurance falls under the Commerce Clause, the constitutional provision allowing the federal government to regulate commerce between states. Also, the Constitution says that the federal government's power is higher than the states'.&lt;/p&gt; &lt;p&gt;Legal analysts say there is a good possibility one of these cases will reach the highest court in the country,[LV Bags](http://www.louisvuittnubags.com/ "http://www.louisvuittnubags.com/" ), but most say there is only a slim chance that the Supreme Court will rule in the states' favor.&lt;/p&gt; &lt;p&gt;He did not question as much the federal government's other argument that Virginia cannot pass a law opting out of a federal law.&lt;/p&gt; &lt;p&gt;Judge Henry Hudson of the U.S. District Court for the Eastern District of Richmond heard the federal government's arguments to dismiss a lawsuit filed by Virginia that contends the healthcare law's requirement that all Americans have health insurance is unconstitutional.&lt;/p&gt; &lt;p&gt;If the Supreme Court ultimately finds the "individual mandate" unconstitutional, it would undo the mammoth piece of legislation that has served as the cornerstone of Obama's presidency,Related Theme Articles:  &lt;li&gt;<http://nurugel.org/index.php/User:Xison9bdidn>&lt;li&gt; ,[Gucci Outlet Online](http://www.guccioutletoonline.com/ "http://www.guccioutletoonline.com/" ), Cuccinelli told reporters on Thursday.&lt;/p&gt;
+  * <http://whatworkswell.netUser:Xison8ddidn#Economy_grew_sluggishly_in_recent_weeks__Fed>&lt;li&gt; &lt;/ul&gt;, saying that this could establish the paradox that a form of economic inactivity - not buying insurance - would be considered an economic activity.&lt;/p&gt; &lt;p&gt;Before President Barack Obama signed the radical overhaul of the multibillion dollar health insurance industry into law, Virginia's legislature passed its own law that took effect on Thursday that says no one could be mandated to buy health insurance.&lt;/p&gt; &lt;p&gt;In its argument, the U.S. government said the requirement to buy health insurance falls under the Commerce Clause, the constitutional provision allowing the federal government to regulate commerce between states. Also, the Constitution says that the federal government's power is higher than the states'.&lt;/p&gt; &lt;p&gt;Legal analysts say there is a good possibility one of these cases will reach the highest court in the country,[LV Bags](http://www.louisvuittnubags.com/ "http://www.louisvuittnubags.com/" ), but most say there is only a slim chance that the Supreme Court will rule in the states' favor.&lt;/p&gt; &lt;p&gt;He did not question as much the federal government's other argument that Virginia cannot pass a law opting out of a federal law.&lt;/p&gt; &lt;p&gt;Judge Henry Hudson of the U.S. District Court for the Eastern District of Richmond heard the federal government's arguments to dismiss a lawsuit filed by Virginia that contends the healthcare law's requirement that all Americans have health insurance is unconstitutional.&lt;/p&gt; &lt;p&gt;If the Supreme Court ultimately finds the "individual mandate" unconstitutional, it would undo the mammoth piece of legislation that has served as the cornerstone of Obama's presidency,Related Theme Articles:  &lt;li&gt;<http://nurugel.orgUser:Xison9bdidn>&lt;li&gt; ,[Gucci Outlet Online](http://www.guccioutletoonline.com/ "http://www.guccioutletoonline.com/" ), Cuccinelli told reporters on Thursday.&lt;/p&gt;
 
 &lt;p&gt;U.S. Department of Justice attorney Ian Gershengorn argued that the
 lawsuit should be dismissed because Virginia lacks standing to challenge the
@@ -115,7 +115,7 @@ October 18 for a summary judgment. If it is dismissed, Virginia will likely
 appeal and keep the suit in the courts. Regardless, other lawsuits will
 proceed,Related Theme Articles:
 
-&lt;li&gt;<http://testanything.org/wiki/index.php/User:Xison1xdidn>&lt;li&gt;
+&lt;li&gt;<http://testanything.org/wikiUser:Xison1xdidn>&lt;li&gt;
 ,[Gucci Bags](http://www.guccibags-bags.com/ "http://www.guccibags-bags.com/"
 ), including one filed in Florida by more than a dozen states. In July alone,
 the federal government will have to argue in court twice,[Louis Vuitton
@@ -138,12 +138,12 @@ is set to go into effect in 2014.&lt;/p&gt;
 
 ,Related Theme Articles:
 
-&lt;li&gt;<http://totalomics.com/index.php/User:Xison7adidn>&lt;li&gt; ,[Coach
+&lt;li&gt;<http://totalomics.comUser:Xison7adidn>&lt;li&gt; ,[Coach
 Outlet](http://www.coachoutletstoreline2012.com/
 "http://www.coachoutletstoreline2012.com/" )&lt;p&gt;(Reporting by Gene Cherry
 in Salvo,[Louis Vuitton](http://www.louisvuittonlouisvuitton.com/
 "http://www.louisvuittonlouisvuitton.com/" ),Related Theme Articles:  &lt;li&g
-t;<http://nurugel.org/index.php/User:Xison0rdidn#Venus_falls_to_Pironkova_in_l
+t;<http://nurugel.orgUser:Xison0rdidn#Venus_falls_to_Pironkova_in_l
 ast_16_at_Wimbledon>&lt;li&gt; , North Carolina; Editing by Frank
 Pingue)&lt;/p&gt;
 
@@ -184,7 +184,7 @@ contract Rivera signed in December expires.&lt;/p&gt;
 to win the European Tour order of merit. When the Northern Irishman failed to
 win the Dubai World Championship,Related Theme Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison3tdidn#Analysis__Awful_Franc
+&lt;li&gt;<http://nurugel.orgUser:Xison3tdidn#Analysis__Awful_Franc
 e_prove_doubters_right>&lt;li&gt; , it was confirmed Donald would finish
 top.&lt;/p&gt;
 
@@ -198,7 +198,7 @@ bags.com/" ), replacing his compatriot as world number one.&lt;/p&gt;
 the Scottish Open in between the two majors in early July and recorded another
 top-10 finish at the year's final major,Related Theme Articles:
 
-&lt;li&gt;<http://www.3dchessfederation.com/index.php/User:Xison2udidn#Nerve_b
+&lt;li&gt;<http://www.3dchessfederation.comUser:Xison2udidn#Nerve_b
 lock_cuts_hot_flashes_after_breast_cancer>&lt;li&gt; ,[Louis Vuitton Factory
 Outlet](http://www.louisvuittonfactoryoutlet4.com/
 "http://www.louisvuittonfactoryoutlet4.com/" ), the U.S. PGA Championship in
@@ -233,7 +233,7 @@ and practice at Northwestern University in the U.S.&lt;/p&gt;
 Vuitton](http://www.louisvuittonlouisvuitton.com/
 "http://www.louisvuittonlouisvuitton.com/" ),Related Theme Articles:
 
-&lt;li&gt;<http://testanything.org/wiki/index.php/User:Xison1xdidn#Coaching_ic
+&lt;li&gt;<http://testanything.org/wikiUser:Xison1xdidn#Coaching_ic
 on_Paterno_sacked_in_ignominy>&lt;li&gt; , England.&lt;/p&gt;
 
 &lt;p&gt;* Moved into the world top 20 in 2006 and later in the year made the
@@ -302,7 +302,7 @@ second set, I'm in a great position to come through.&lt;/p&gt;
 &lt;p&gt;After five successive U.S. Open titles and 40-straight match
 victories at Flushing Meadows,Related Theme Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison3tdidn#Analysis__Awful_Franc
+&lt;li&gt;<http://nurugel.orgUser:Xison3tdidn#Analysis__Awful_Franc
 e_prove_doubters_right>&lt;li&gt; , few expected the man many consider to be
 the best tennis player ever to look so mortal.&lt;/p&gt;
 
@@ -345,7 +345,7 @@ chances."&lt;/p&gt;
 
 &lt;li&gt;<http://jobfriend.net/blogs/viewstory/39149>&lt;li&gt; , published
 in the medical journal Chest,Related Theme Articles:  &lt;li&gt;<http://nuruge
-l.org/index.php/User:Xison9bdidn#Heart_rehab_underused_by_Medicare_patients>&l
+l.orgUser:Xison9bdidn#Heart_rehab_underused_by_Medicare_patients>&l
 t;li&gt; ,[Louis Vuitton Factory
 Outlet](http://www.louisvuittonfactoryoutlet4.com/
 "http://www.louisvuittonfactoryoutlet4.com/" ), are based on tests of 56
@@ -425,14 +425,14 @@ Bags](http://www.louisvuittnubags.com/ "http://www.louisvuittnubags.com/"
 href="<http://143chat.com/index.php?p=photos/viewstory/325848>" target="_blank
 "&gt;<http://143chat.com/index.php?p=photos/viewstory/325848>&lt;/a&gt;&lt;li&
 gt; ," he added,Related Theme Articles:  &lt;li&gt;<http://www.freeshippingwik
-i.com/index.php/User:Xison0jdidn#Do_kids.2C_men_need_folic_acid_from_a_pill>&l
+i.comUser:Xison0jdidn#Do_kids.2C_men_need_folic_acid_from_a_pill>&l
 t;li&gt; ,[Gucci Bags](http://www.guccibags-bags.com/ "http://www.guccibags-
 bags.com/" ), referring to the WADA data system.&lt;/p&gt;
 
 &lt;p&gt;PARIS (Reuters) - French rider Sebastien Turgot, who finished second
 in the Paris-Roubaix classic last month,Related Theme Articles:
 
-&lt;li&gt;<http://www.openideaswiki.com/index.php/User:Xison8pdidn>&lt;li&gt;
+&lt;li&gt;<http://www.openideaswiki.comUser:Xison8pdidn>&lt;li&gt;
 ,[Louis Vuitton Factory Outlet](http://www.louisvuittonfactoryoutlet4.com/
 "http://www.louisvuittonfactoryoutlet4.com/" ), is likely to face a ban after
 three "no shows" for doping controls over an 18-month period,[Gucci
@@ -677,7 +677,7 @@ online August 3, 2010.&lt;/p&gt;
 invasive treatments have risen sharply in elderly people who've suffered a
 heart attack,Related Theme Articles:
 
-&lt;li&gt;<http://ko.dbpedia.org/wiki/index.php/User:Xison7gdidn
+&lt;li&gt;<http://ko.dbpedia.org/wikiUser:Xison7gdidn
 #Japan_warns_of_influenza-linked_abnormal_behavior>&lt;li&gt; , Canadian
 researchers said Tuesday.&lt;/p&gt;
 
@@ -1069,7 +1069,7 @@ grew older.&lt;/p&gt;
 &lt;p&gt;But even with those factors accounted for, green tea itself was tied
 to a lower disability risk,Related Theme Articles:
 
-&lt;li&gt;<http://www.openideaswiki.com/index.php/User:Xison0sdidn#Exposure_to
+&lt;li&gt;<http://www.openideaswiki.comUser:Xison0sdidn#Exposure_to
 _chemicals_may_harm_young_brains>&lt;li&gt; ,[polo
 outlet](http://www.poloutletsale.com/ "http://www.poloutletsale.com/" ), the
 researchers said.&lt;/p&gt;
@@ -1137,7 +1137,7 @@ took aim at referee Bob Delaney who wore the number 26.&lt;/p&gt;
 
 &lt;p&gt;"I guess they came out to see number 26,Related Theme Articles:
 
-&lt;li&gt;<http://www.shareyourholiday.com/index.php/User:Xison5hdidn#Reyes_re
+&lt;li&gt;<http://www.shareyourholiday.comUser:Xison5hdidn#Reyes_re
 turns_to_Mets_seeking_NL_batting_title>&lt;li&gt; ,[burberry
 outlet](http://www.outletbags2012.com/ "http://www.outletbags2012.com/"
 ),Related Theme Articles:  &lt;li&gt;&lt;a
@@ -1257,7 +1257,7 @@ cells to treat a variety of diseases, including brain cells for Parkinson's
 disease,[polo outlet](http://www.poloutletsale.com/
 "http://www.poloutletsale.com/" ),Related Theme Articles:
 
-&lt;li&gt;<http://www.cybermondaywiki.com/index.php/User:Xison2tdidn#Hepatitis
+&lt;li&gt;<http://www.cybermondaywiki.comUser:Xison2tdidn#Hepatitis
 _C__a_risk_factor_for_lymphoma>&lt;li&gt; , pancreatic cells for diabetes and
 nerve cells for spinal-cord injuries.&lt;/p&gt;
 
@@ -1446,7 +1446,7 @@ euro zone.&lt;/p&gt;
 
 &lt;p&gt;The euro hit a global session low of $1.2955,Related Theme Articles:
 
-&lt;li&gt;<http://www.shareyourholiday.com/index.php/User:Xison5hdidn#Teen_int
+&lt;li&gt;<http://www.shareyourholiday.comUser:Xison5hdidn#Teen_int
 ernet_addicts_more_apt_to_self_harm__study>&lt;li&gt; , breaking the $1.30 to
 $1.35 range it has been trapped in since late January, before recouping losses
 to last trade down 0.2 percent at $1.3052, close to the session peak of
@@ -1536,7 +1536,7 @@ cut.&lt;/p&gt;
 tax breaks for narrow slices of industry to pay for a rate cut,Related Theme
 Articles:
 
-&lt;li&gt;<http://www.openideaswiki.com/index.php/User:Xison8pdidn#U.S._accuse
+&lt;li&gt;<http://www.openideaswiki.comUser:Xison8pdidn#U.S._accuse
 d_of_failing_ill_1991_Gulf_War_veterans>&lt;li&gt; , while Republicans say a
 boost in growth will help offset the cost.&lt;/p&gt;
 
@@ -1724,7 +1724,7 @@ $44.99?&lt;/p&gt;
 &lt;p&gt;"We were so Mac crazy that I co-founded the first commercial Internet
 applications company on the Mac platform,Related Theme Articles:
 
-&lt;li&gt;<http://ko.dbpedia.org/wiki/index.php/User:Xison0cdidn#Parent_health
+&lt;li&gt;<http://ko.dbpedia.org/wikiUser:Xison0cdidn#Parent_health
 _sways_views_of_asthmatic_kids.27_health>&lt;li&gt; , InterCon Systems Corp.
 in 1988," Barry said proudly. She partnered with her ex-husband on that
 project, proving that Apple love transcends the plain old interpersonal
@@ -2150,7 +2150,7 @@ relay title.&lt;/p&gt;
 
 &lt;p&gt;The final is scheduled for Saturday evening,Related Theme Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison3tdidn#Don.27t_dump_Avandia.
+&lt;li&gt;<http://nurugel.orgUser:Xison3tdidn#Don.27t_dump_Avandia.
 2C_diabetes_groups_urge_patients>&lt;li&gt; , the penultimate night of the
 Games. Victory for the Jamaicans would give Bolt six Olympic track
 medals,[gucci outlet](http://www.outletsbags.org/
@@ -2543,7 +2543,7 @@ It resumes on Thursday and concludes on Sunday.&lt;/p&gt;
 &lt;p&gt;"The whole goal was to make London and now I am there I want to get
 on that podium,Related Theme Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison0rdidn#Avalanche.27s_Darcy_T
+&lt;li&gt;<http://nurugel.orgUser:Xison0rdidn#Avalanche.27s_Darcy_T
 ucker_injured_in_win_over_Canes>&lt;li&gt; ," said Williams.&lt;/p&gt;
 
 &lt;p&gt;EUGENE, Oregon (Reuters) - High jump world champion Jesse Williams
@@ -2553,7 +2553,7 @@ a disappointing fourth at the U.S. Olympic trials on Monday.&lt;/p&gt;
 &lt;p&gt;"I want to bring a medal back so badly," said Symmonds,Related Theme
 Articles:
 
-&lt;li&gt;<http://ko.dbpedia.org/wiki/index.php/User:Xison8bdidn#Brazilian_wom
+&lt;li&gt;<http://ko.dbpedia.org/wikiUser:Xison8bdidn#Brazilian_wom
 en_go_one_step_further_than_Pele>&lt;li&gt; , who was eliminated in the semi-
 finals at the 2008 Games.&lt;/p&gt;
 
@@ -2598,7 +2598,7 @@ women's event in 1:59.08 ahead of Geena Gall and Alice Schmidt.&lt;/p&gt;
 &lt;p&gt;Olympian Symmonds brought cheers from the hometown crowd when he sped
 home in one minute,Related Theme Articles:
 
-&lt;li&gt;<http://ko.dbpedia.org/wiki/index.php/User:Xison0cdidn#Study_sharpen
+&lt;li&gt;<http://ko.dbpedia.org/wikiUser:Xison0cdidn#Study_sharpen
 s_focus_on_Glaxo.27s_heart_drug_hope>&lt;li&gt;
 ,[ブランドバッグ](http://www.iburandos.org/ "http://www.iburandos.org/" ), 43.92
 seconds.&lt;/p&gt;
@@ -2710,7 +2710,7 @@ handcuff him.&lt;/p&gt;
 
 &lt;p&gt;"After all of this time,Related Theme Articles:
 
-&lt;li&gt;<http://ko.dbpedia.org/wiki/index.php/User:Xison7gdidn#Wizards_flip_
+&lt;li&gt;<http://ko.dbpedia.org/wikiUser:Xison7gdidn#Wizards_flip_
 for_Saunders_as_new_coach>&lt;li&gt; , Aaron has some finality to what
 happened to him,Related Theme Articles:  &lt;li&gt;<http://nurugel.org/index.p
 hp/User:Xison0rdidn#Risk_of_death_higher_with_Avastin_than_chemo_alone>&lt;li&
@@ -2736,13 +2736,13 @@ game is well-suited to the grass.&lt;/p&gt;
 yet to win a grand slam title,[The North Face](http://www.toinf.com/
 "http://www.toinf.com/" ),Related Theme Articles:
 
-&lt;li&gt;<http://thebiblereincarnate.com/index.php/User:Xison3tdidn#Qualifyin
+&lt;li&gt;<http://thebiblereincarnate.comUser:Xison3tdidn#Qualifyin
 g_worthy_of_a_medal_for_Ekiring>&lt;li&gt; , surprisingly opted to play on
 hardcourts in Denmark instead.&lt;/p&gt;
 
 &lt;p&gt;Sharapova,Related Theme Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison9bdidn#Rowdy_Russians_booted
+&lt;li&gt;<http://nurugel.orgUser:Xison9bdidn#Rowdy_Russians_booted
 _off_plane_after_gold_medal_win>&lt;li&gt; , beaten by Li in the French Open
 semi-finals, also thrives on grass courts with her full-on power
 tennis.&lt;/p&gt;
@@ -2860,7 +2860,7 @@ his most recent major victory at the 2008 U.S. Open,[ブランドバッグ
 激安](http://www.iburans.com/ "http://www.iburans.com/" ),Related Theme
 Articles:
 
-&lt;li&gt;<http://thebiblereincarnate.com/index.php/User:Xison5kdidn#Fed_prepa
+&lt;li&gt;<http://thebiblereincarnate.comUser:Xison5kdidn#Fed_prepa
 res_for_last_spurt_of_easy_money_flood>&lt;li&gt; , Woods made a wobbly start
 to the round.&lt;/p&gt;
 
@@ -2893,7 +2893,7 @@ par.&lt;/p&gt;
 &lt;p&gt;Woods ground out a three-under-par 69 on the South Course,Related
 Theme Articles:
 
-&lt;li&gt;<http://www.indianmusicguide.com/index.php/User:Xison2adidn>&lt;li&g
+&lt;li&gt;<http://www.indianmusicguide.comUser:Xison2adidn>&lt;li&g
 t; , one of two layouts staging the PGA Tour event, for a six-under total of
 138.&lt;/p&gt;
 
@@ -2945,7 +2945,7 @@ section: Westwood romps seven shots clear at Sun City" )]
 just 30 shots to finish with a 16-under-par aggregate of 200.,Related Theme
 Articles:
 
-&lt;li&gt;<http://nurugel.org/index.php/User:Xison0rdidn#Woods_happy_with_soli
+&lt;li&gt;<http://nurugel.orgUser:Xison0rdidn#Woods_happy_with_soli
 d_start_to_Melbourne_defense>&lt;li&gt;
 ,[バーバリーアウトレット](http://www.burberrywebs.org/ "http://www.burberrywebs.org/"
 )&lt;/p&gt;
@@ -2964,7 +2964,7 @@ homme](http://www.thenorthfaceenlignes.com/the-north-face-homme-c-3.html
 "http://www.thenorthfaceenlignes.com/the-north-face-homme-c-3.html" ),Related
 Theme Articles:
 
-&lt;li&gt;<http://www.digitaleconomyact.info/index.php/User:Xison1zdidn>&lt;li
+&lt;li&gt;<http://www.digitaleconomyact.infoUser:Xison1zdidn>&lt;li
 &gt; , one ahead of American Jason Dufner (70) and Martin Kaymer (70) of
 Germany.&lt;/p&gt;
 
@@ -3146,7 +3146,7 @@ injury.&lt;/p&gt;
 &lt;p&gt;Beckham, who missed the World Cup campaign in South Africa through
 injury,Related Theme Articles:
 
-&lt;li&gt;<http://guides.gamescheatdirectory.com/index.php/User:Xison1kdidn#Go
+&lt;li&gt;<http://guides.gamescheatdirectory.comUser:Xison1kdidn#Go
 ffin_prepares_for_Sunday_worship_with_Federer>&lt;li&gt; ,[The North
 Face](http://www.toinf.com/ "http://www.toinf.com/" ), has not played any
 soccer since rupturing his Achilles tendon while on loan at AC Milan in
@@ -3217,7 +3217,7 @@ par 206.&lt;/p&gt;
 &lt;p&gt;"Today was a very difficult day for me," he said. "Actually I had
 probably about five birdie chances today,Related Theme Articles:
 
-&lt;li&gt;<http://unixwiki.net/index.php/User:Xison3bdidn#Court_invader_kisses
+&lt;li&gt;<http://unixwiki.netUser:Xison3bdidn#Court_invader_kisses
 _Nadal_at_U.S._Open>&lt;li&gt; , all within 15 feet, but I couldn't hole a
 single one."&lt;/p&gt;
 
@@ -3428,7 +3428,7 @@ associates found.&lt;/p&gt;
 monitoring and improved control of work-related exposures,Related Theme
 Articles:
 
-&lt;li&gt;<http://www.indianmusicguide.com/index.php/User:Xison4cdidn>&lt;li&g
+&lt;li&gt;<http://www.indianmusicguide.comUser:Xison4cdidn>&lt;li&g
 t; ,[バーバリー](http://www.burberryjp.net/ "http://www.burberryjp.net/" )," the
 researchers conclude, "both for prevention and workers' compensation
 purposes."&lt;/p&gt;

@@ -17,7 +17,7 @@ Jump to: navigation, search
 
 This is event will be run for the first time in May of 2006. It is a special
 tournament to culminate the FLL season similar to the [FLL World
-Festival](/index.php/FLL_World_Festival "FLL World Festival" ). This first
+Festival](FLL_World_Festival "FLL World Festival" ). This first
 year world event is being run as part of the 50th anniversary celebration of
 Eindhoven University of Technology. It is unclear at this time if this will be
 an ongoing event in the future.
@@ -49,15 +49,15 @@ Website](http://www.firstlegoleague.org/default.aspx?pid=23380
   * [FLL Open European Championship](http://www.firstlegoleague.org/nobanner.aspx?pid=21280 "http://www.firstlegoleague.org/nobanner.aspx?pid=21280" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FLL_Open_European_Championship>"
+"<http://www.firstwiki.netFLL_Open_European_Championship>"
 
 [Categories](/index.php?title=Special:Categories&article=FLL_Open_European_Cha
-mpionship "Special:Categories" ): [FLL](/index.php/Category:FLL "Category:FLL"
-) | [FLL Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+mpionship "Special:Categories" ): [FLL](Category:FLL "Category:FLL"
+) | [FLL Events](Category:FLL_Events "Category:FLL Events" )
 
 ##### Views
 
-  * [Article](/index.php/FLL_Open_European_Championship)
+  * [Article](FLL_Open_European_Championship)
   * [Discussion](/index.php?title=Talk:FLL_Open_European_Championship&action=edit)
   * [Edit](/index.php?title=FLL_Open_European_Championship&action=edit)
   * [History](/index.php?title=FLL_Open_European_Championship&action=history)
@@ -66,17 +66,17 @@ mpionship "Special:Categories" ): [FLL](/index.php/Category:FLL "Category:FLL"
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FLL_Open_European_Championship)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -84,10 +84,10 @@ mpionship "Special:Categories" ): [FLL](/index.php/Category:FLL "Category:FLL"
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FLL_Open_European_Championship)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FLL_Open_European_Championship)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FLL_Open_European_Championship)
+  * [Related changes](Special:Recentchangeslinked/FLL_Open_European_Championship)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FLL_Open_European_Championship&printable=yes)
   * [Permanent link](/index.php?title=FLL_Open_European_Championship&oldid=47344)
 
@@ -100,7 +100,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 13:13, 20 May 2006.
   * This page has been accessed 1,704 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

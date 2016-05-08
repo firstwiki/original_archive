@@ -19,5 +19,5 @@ Official Site: | [2006 Nano
 Quest](http://www.firstlegoleague.org/default.aspx?pid=21380
 "http://www.firstlegoleague.org/default.aspx?pid=21380" )  
   
-**Nano Quest** was the challenge for the 2006 season of [FLL](/index.php/FLL "FLL" ). The game is themed around nano-technology. 
+**Nano Quest** was the challenge for the 2006 season of [FLL](FLL "FLL" ). The game is themed around nano-technology. 
 

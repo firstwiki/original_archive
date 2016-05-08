@@ -6,15 +6,15 @@
 Jump to: navigation, search
 
 [![Taurus stacking a tetra](/media/thumb/f/fe/1073_taurus1.jpg/250px-
-1073_taurus1.jpg)](/index.php/Image:1073_taurus1.jpg "Taurus stacking a tetra"
+1073_taurus1.jpg)](Image:1073_taurus1.jpg "Taurus stacking a tetra"
 )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1073_taurus1.jpg "Enlarge" )
+clip.png)](Image:1073_taurus1.jpg "Enlarge" )
 
 Taurus stacking a tetra
 
-**Taurus** was the [robot](/index.php/Robot "Robot" ) built by Team [1073](/index.php/1073 "1073" ) in 2005 for [Triple Play](/index.php/Triple_Play "Triple Play" ). The team developed their most ambitious design yet, all the while sporting their new blue and white tie-dye shirts and under the primary leadership of senior members. 
+**Taurus** was the [robot](Robot "Robot" ) built by Team [1073](1073 "1073" ) in 2005 for [Triple Play](Triple_Play "Triple Play" ). The team developed their most ambitious design yet, all the while sporting their new blue and white tie-dye shirts and under the primary leadership of senior members. 
 
 ## Contents
 
@@ -31,7 +31,7 @@ Taurus stacking a tetra
 ## Pre-build
 
 Before the season began, the previous team coach retired, leaving leadership
-responsibilities to four [mentors](/index.php/Mentor "Mentor" ) known as the
+responsibilities to four [mentors](Mentor "Mentor" ) known as the
 "Three Amigos" (the fourth joined after the term was coined). Even so, without
 a definite leadership role, the team risked collapse as the Amigos all
 represented differing parts of the team. It was through student leadership and
@@ -42,7 +42,7 @@ but prevailed.
 ## Build
 
 Team FORCE learned from its experiences during the [previous
-year](/index.php/Scorpius_%281073%29 "Scorpius \(1073\)" ) about how to go
+year](Scorpius_%281073%29 "Scorpius \(1073\)" ) about how to go
 about designing the robot and the Design team was given full clearance to
 design the robot with only essential input from the Strategy team, which
 proved to be vastly better for everyone involved. Given the challenge of the
@@ -83,17 +83,17 @@ _general description of how it went_
 
 **Awards**
 
-  * [Underwriter's Laboratories Industrial Safety Award](/index.php/Underwriter%27s_Laboratories_Industrial_Safety_Award "Underwriter's Laboratories Industrial Safety Award" )
+  * [Underwriter's Laboratories Industrial Safety Award](Underwriter%27s_Laboratories_Industrial_Safety_Award "Underwriter's Laboratories Industrial Safety Award" )
 
 
 ## Robot
 
 [![Screenshot of Taurus CAD model](/media/thumb/b/b0/1073taurusscreenshot.jpg
-/180px-1073taurusscreenshot.jpg)](/index.php/Image:1073taurusscreenshot.jpg
+/180px-1073taurusscreenshot.jpg)](Image:1073taurusscreenshot.jpg
 "Screenshot of Taurus CAD model" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1073taurusscreenshot.jpg "Enlarge" )
+clip.png)](Image:1073taurusscreenshot.jpg "Enlarge" )
 
 Screenshot of _Taurus_ CAD model
 
@@ -130,6 +130,6 @@ teams.
   * Manueverability 
   * Stability 
 
-[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](/index.php/Image
+[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](Image
 :LinkFA-star.png "Image:LinkFA-star.png" )
 

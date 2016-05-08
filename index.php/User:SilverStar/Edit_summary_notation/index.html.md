@@ -3,7 +3,7 @@
 
 ### From FIRSTwiki
 
-&lt; [User:SilverStar](/index.php/User:SilverStar "User:SilverStar" )
+&lt; [User:SilverStar](User:SilverStar "User:SilverStar" )
 
 Jump to: navigation, search
 
@@ -47,12 +47,12 @@ tion=1 "Edit section: Page Moving/Deleting/Protecting" )]
   * _x_ -> _y_ (_x_ replaced with _y_) 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/User:SilverStar/Edit_summary_notation>"
+"<http://www.firstwiki.netUser:SilverStar/Edit_summary_notation>"
 
 ##### Views
 
-  * [User page](/index.php/User:SilverStar/Edit_summary_notation)
-  * [Discussion](/index.php/User_talk:SilverStar/Edit_summary_notation)
+  * [User page](User:SilverStar/Edit_summary_notation)
+  * [Discussion](User_talk:SilverStar/Edit_summary_notation)
   * [Edit](/index.php?title=User:SilverStar/Edit_summary_notation&action=edit)
   * [History](/index.php?title=User:SilverStar/Edit_summary_notation&action=history)
 
@@ -60,17 +60,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=User:SilverStar/Edit_summary_notation)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -78,10 +78,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/User:SilverStar/Edit_summary_notation)
-  * [Related changes](/index.php/Special:Recentchangeslinked/User:SilverStar/Edit_summary_notation)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/User:SilverStar/Edit_summary_notation)
+  * [Related changes](Special:Recentchangeslinked/User:SilverStar/Edit_summary_notation)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=User:SilverStar/Edit_summary_notation&printable=yes)
   * [Permanent link](/index.php?title=User:SilverStar/Edit_summary_notation&oldid=61691)
 
@@ -94,7 +94,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 03:28, 2 July 2007.
   * This page has been accessed 2,214 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

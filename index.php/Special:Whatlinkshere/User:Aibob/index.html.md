@@ -22,8 +22,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:Aibob&limit=500&from=0
 "Special:Whatlinkshere/User:Aibob" )).
 
-  * [Index of people](/index.php/Index_of_people "Index of people" )
-  * [FIRSTsearch](/index.php/FIRSTsearch "FIRSTsearch" )
+  * [Index of people](Index_of_people "Index of people" )
+  * [FIRSTsearch](FIRSTsearch "FIRSTsearch" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Aibob&limit=20&from=0
 "Special:Whatlinkshere/User:Aibob" ) |

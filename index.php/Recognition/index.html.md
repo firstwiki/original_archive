@@ -4,8 +4,8 @@
 
 Jump to: navigation, search
 
-Recognition! As is [FIRST](/index.php/FIRST "FIRST" ): For
-[Inspiration](/index.php/Inspiration "Inspiration" ) and **Recognition** of
-[Science](/index.php/Science "Science" ) and
-[Technology](/index.php/Technology "Technology" )!
+Recognition! As is [FIRST](FIRST "FIRST" ): For
+[Inspiration](Inspiration "Inspiration" ) and **Recognition** of
+[Science](Science "Science" ) and
+[Technology](Technology "Technology" )!
 

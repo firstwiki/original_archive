@@ -16,8 +16,8 @@ View (previous 50) (next 50)
 | [500](/index.php?title=Special:Listusers&group=Bureaucrat&limit=500&offset=0
 )).
 
-  1. [Johnmarchiony](/index.php/User:Johnmarchiony "User:Johnmarchiony" ) ([Bureaucrat](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ))
-  2. [Max](/index.php/User:Max "User:Max" ) ([Bureaucrat, sysop](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ))
+  1. [Johnmarchiony](User:Johnmarchiony "User:Johnmarchiony" ) ([Bureaucrat](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ))
+  2. [Max](User:Max "User:Max" ) ([Bureaucrat, sysop](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ))
 
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Listusers&group=Bureaucrat&limit=20&offset=0) |

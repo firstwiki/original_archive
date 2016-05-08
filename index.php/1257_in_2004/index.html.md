@@ -20,7 +20,7 @@ Jump to: navigation, search
 ## Build
 
 
-### A night at [Jason Livingston's house](/index.php/User:Jason_Livingston
+### A night at [Jason Livingston's house](User:Jason_Livingston
 "User:Jason Livingston" )
 
 A few days before ship date, Vortex found itself hovering slightly above the
@@ -29,7 +29,7 @@ a bit on the weekend. Work was progressing well. Hacksaws were flying and the
 weight was dropping.
 
 Eventually, we had to respool the winch that lifts the robot off the ground.
-All of a sudden, [Max](/index.php/Maxim_Lobovsky "Maxim Lobovsky" ), Preethi
+All of a sudden, [Max](Maxim_Lobovsky "Maxim Lobovsky" ), Preethi
 Moorthi, and Eric Whitman (Jason was in the basement hacking away at some
 aluminum with his dad) jumped back as a sudden hissing and burning sound
 filled the room. We all turned to whitness a strange blue-green flame coming
@@ -62,7 +62,7 @@ something was wrong with the robot. We packed up, a rug was put back
 conveniently over the spot, and all was forgotten.
 
 
-## [New Jersey Regional](/index.php/New_Jersey_Regional "New Jersey Regional"
+## [New Jersey Regional](New_Jersey_Regional "New Jersey Regional"
 )
 
 This was the first FIRST regional that 1257 attended. Vortex arrived in less
@@ -72,11 +72,11 @@ only did as well as it did by being paired with teams that were comfortable
 with the controls of their robot, and had a robot that could perform all of
 its functions reasonably well.
 
-  * [DaimlerChrysler Team Spirit Award](/index.php/DaimlerChrysler_Team_Spirit_Award "DaimlerChrysler Team Spirit Award" )
+  * [DaimlerChrysler Team Spirit Award](DaimlerChrysler_Team_Spirit_Award "DaimlerChrysler Team Spirit Award" )
   * Seeded 27 of 47 
 
 
-## [Chesapeake Regional](/index.php/Chesapeake_Regional "Chesapeake Regional"
+## [Chesapeake Regional](Chesapeake_Regional "Chesapeake Regional"
 )
 
 
@@ -100,7 +100,7 @@ from the bar another.
 
 As anyone who attended the Chesapeake Regional in 2004 surely remembers, 1257
 ended up being 8th alliance captain. What followed was potentially one of the
-most embarrasing momments in the life of [Maxim Lobovsky](/index.php/User:Max
+most embarrasing momments in the life of [Maxim Lobovsky](User:Max
 "User:Max" ), the team representative at alliance selections. When it came
 time to select partners, Max realized that the list he had been handed of
 teams to choose consisted of about the top 10 or so teams. Because we were 8th
@@ -114,7 +114,7 @@ echoed over the whole crowd. The already loud audience erupted in to a roaring
 laughter. As Max saw the team scout approaching, he attempted to delay a bit
 and the emcee's provocations only egged the crowd to higher levels of
 amusement. Finally, the scout was about 25 feet away. He began shouting the
-number [1391](/index.php/1391 "1391" ), Max could not hear clearly because it
+number [1391](1391 "1391" ), Max could not hear clearly because it
 was so loud in the stadium. Max subsequently began naming team numbers that he
 had thought he heard, but all turned out to be teams that were not attending
 the regional. That was when the phrase that came to define the episode for
@@ -138,8 +138,8 @@ of him.
 
 ### Elimination rounds
 
-  * [Rookie Inspiration Award](/index.php/Rookie_Inspiration_Award "Rookie Inspiration Award" )
+  * [Rookie Inspiration Award](Rookie_Inspiration_Award "Rookie Inspiration Award" )
   * Seeded 13 of 53 
   * 8th Alliance Captain 
-  * Lost in quarterfinals of [elimination round](/index.php/Elimination_round "Elimination round" )
+  * Lost in quarterfinals of [elimination round](Elimination_round "Elimination round" )
 

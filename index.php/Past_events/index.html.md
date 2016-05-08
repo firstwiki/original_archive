@@ -8,7 +8,7 @@ Jump to: navigation, search
 This page contains events that are no longer current events. They are kept
 here for historical and archival purposes.
 
-To see the current events, [click here](/index.php/Current_events "Current
+To see the current events, [click here](Current_events "Current
 events" ).
 
 ## Contents
@@ -118,7 +118,7 @@ events" ).
 
 ###  January 8
 
-  * The [2005](/index.php/Untitled_2005_game "Untitled 2005 game" ) [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) [challenge](/index.php/Game "Game" ) will be announced on this date at the [Kickoff](/index.php/Kickoff "Kickoff" ). 
+  * The [2005](Untitled_2005_game "Untitled 2005 game" ) [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) [challenge](Game "Game" ) will be announced on this date at the [Kickoff](Kickoff "Kickoff" ). 
 
 
 #  2004
@@ -129,7 +129,7 @@ events" ).
 
 ###  December 30
 
-  * [FIRST](/index.php/FIRST "FIRST" ) releases the [Official 2005 Game Hint](/index.php/Official_2005_Game_Hint "Official 2005 Game Hint" ). 
+  * [FIRST](FIRST "FIRST" ) releases the [Official 2005 Game Hint](Official_2005_Game_Hint "Official 2005 Game Hint" ). 
 
 
 ##  May 2004
@@ -137,16 +137,16 @@ events" ).
 
 ###  May 29
 
-  * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) contains [100](/index.php/Special:Statistics "Special:Statistics" ) true articles! 
+  * [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) contains [100](Special:Statistics "Special:Statistics" ) true articles! 
 
 
 ###  May 28
 
-  * [FIRST](/index.php/FIRST "FIRST" ) announces competition entry fee increases for 2005. ([FIRST memo](http://www.usfirst.org/robotics/2005/regfeememo.htm "http://www.usfirst.org/robotics/2005/regfeememo.htm" )) ([CD](/index.php/Chief_Delphi "Chief Delphi" ) threads: [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28820 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28820" ) and [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28828 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28828" )) 
-  * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) moves to [Chief Delphi](/index.php/Chief_Delphi "Chief Delphi" ). 
+  * [FIRST](FIRST "FIRST" ) announces competition entry fee increases for 2005. ([FIRST memo](http://www.usfirst.org/robotics/2005/regfeememo.htm "http://www.usfirst.org/robotics/2005/regfeememo.htm" )) ([CD](Chief_Delphi "Chief Delphi" ) threads: [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28820 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28820" ) and [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28828 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28828" )) 
+  * [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) moves to [Chief Delphi](Chief_Delphi "Chief Delphi" ). 
 
 
 ### May 24
 
-  * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) created 
+  * [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) created 
 

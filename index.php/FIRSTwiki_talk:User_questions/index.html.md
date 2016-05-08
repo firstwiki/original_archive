@@ -16,7 +16,7 @@ org/index.php?title=FIRSTwiki:User_questions&oldid=5721
 ). It'll be a lot of work, but many of the questions we can take from
 wikipedia--although we'll have to tailor the answers to us, of course. I'll
 try to start, but we'll definatley need more input.
---[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 19:24, 30 Jun 2004 (EDT)
+--[Mrawls](User:Mrawls "User:Mrawls" ) 19:24, 30 Jun 2004 (EDT)
 
 * * *
 
@@ -27,31 +27,31 @@ stimulating. Not to say questions shouldn't be bolded, but I think we might
 take a page from
 [wikipedia:wikipedia:FAQ](http://www.wikipedia.org/wiki/wikipedia:FAQ
 "wikipedia:wikipedia:FAQ" ) and totally revamp this page.
---[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 13:53, 9 Jun 2004 (EDT)
+--[Mrawls](User:Mrawls "User:Mrawls" ) 13:53, 9 Jun 2004 (EDT)
 
 * * *
 
 Then why does Brandon have two pages: [user:Brandon
-Martus](/index.php/User:Brandon_Martus "User:Brandon Martus" ) and [Brandon
-Martus](/index.php/Brandon_Martus "Brandon Martus" ) that are both being
-updated? --[Max](/index.php/User:Max "User:Max" ) 20:32, 29 May 2004 (EDT)
+Martus](User:Brandon_Martus "User:Brandon Martus" ) and [Brandon
+Martus](Brandon_Martus "Brandon Martus" ) that are both being
+updated? --[Max](User:Max "User:Max" ) 20:32, 29 May 2004 (EDT)
 
-    Fixed. I think they had the same content. --[SilverStar](/index.php/User:SilverStar "User:SilverStar" ) 20:38, 29 May 2004 (EDT) 
+    Fixed. I think they had the same content. --[SilverStar](User:SilverStar "User:SilverStar" ) 20:38, 29 May 2004 (EDT) 
 
 * * *
 
 I'm thinking we remove citations from the user questions page altogether. Just
 needless assaulting the new user's eyes with too much information and we don't
-really need to take credit... Doing so now. --[Max](/index.php/User:Max
+really need to take credit... Doing so now. --[Max](User:Max
 "User:Max" ) 22:31, 2 Jun 2004 (EDT)
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki_talk:User_questions>"
+"<http://www.firstwiki.netFIRSTwiki_talk:User_questions>"
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:User_questions)
-  * [Discussion](/index.php/FIRSTwiki_talk:User_questions)
+  * [Project page](FIRSTwiki:User_questions)
+  * [Discussion](FIRSTwiki_talk:User_questions)
   * [Edit](/index.php?title=FIRSTwiki_talk:User_questions&action=edit)
   * [+](/index.php?title=FIRSTwiki_talk:User_questions&action=edit&section=new)
   * [History](/index.php?title=FIRSTwiki_talk:User_questions&action=history)
@@ -60,17 +60,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki_talk:User_questions)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -78,10 +78,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki_talk:User_questions)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki_talk:User_questions)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki_talk:User_questions)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki_talk:User_questions)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki_talk:User_questions&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki_talk:User_questions&oldid=37920)
 
@@ -94,7 +94,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 23:24, 30 June 2004.
   * This page has been accessed 949 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

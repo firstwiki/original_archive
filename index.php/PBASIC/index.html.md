@@ -5,20 +5,20 @@
 Jump to: navigation, search
 
 [![BASIC Stamp manual](/media/thumb/d/d0/Basic_stamp_manual_small.png/180px-
-Basic_stamp_manual_small.png)](/index.php/Image:Basic_stamp_manual_small.png
+Basic_stamp_manual_small.png)](Image:Basic_stamp_manual_small.png
 "BASIC Stamp manual" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Basic_stamp_manual_small.png "Enlarge" )
+clip.png)](Image:Basic_stamp_manual_small.png "Enlarge" )
 
 BASIC Stamp manual
 
-**PBASIC** is the language that was used to [program](/index.php/Programming "Programming" ) the [Robot Controller](/index.php/Robot_Controller "Robot Controller" ) for the 2003 season and before. The 2004 season marked a significant switch to the much more sophisticated [C programming language](/index.php/PIC_C "PIC C" ). While PBASIC is a more simple language, with its limitations, complex robots could still be created. The simple language proved easier for [rookie](/index.php?title=Rookie&action=edit "Rookie" ) teams to learn, and also provided a challenge for [veteran](/index.php?title=Veteran&action=edit "Veteran" ) teams because of the limitations. PBASIC is [Parallax's](/index.php/Parallax "Parallax" ) version of the Basic programming language, designed for the [BASIC stamp](/index.php/BASIC_stamp "BASIC stamp" ) (specifically the [BS2sx](/index.php/BS2sx "BS2sx" ) was used in 2000 and after, while the [BS2](/index.php/BS2 "BS2" ) was used prior to that). 
+**PBASIC** is the language that was used to [program](Programming "Programming" ) the [Robot Controller](Robot_Controller "Robot Controller" ) for the 2003 season and before. The 2004 season marked a significant switch to the much more sophisticated [C programming language](PIC_C "PIC C" ). While PBASIC is a more simple language, with its limitations, complex robots could still be created. The simple language proved easier for [rookie](/index.php?title=Rookie&action=edit "Rookie" ) teams to learn, and also provided a challenge for [veteran](/index.php?title=Veteran&action=edit "Veteran" ) teams because of the limitations. PBASIC is [Parallax's](Parallax "Parallax" ) version of the Basic programming language, designed for the [BASIC stamp](BASIC_stamp "BASIC stamp" ) (specifically the [BS2sx](BS2sx "BS2sx" ) was used in 2000 and after, while the [BS2](BS2 "BS2" ) was used prior to that). 
 
 
 ## Code Structure
 
-The code structure is markedly different from the [PIC C](/index.php/PIC_C
+The code structure is markedly different from the [PIC C](PIC_C
 "PIC C" ) language. Most important is that the program is a single file, and
 only rudimentary functions are possible. Also, basic control structures
 produce what is known as _spaghetti code_, due largely to the required use of
@@ -36,7 +36,7 @@ statement to meet the specifics of the program.
 Also available to the Stamp was 64 bytes of scratchpad memory.
 
 Below is a code sample from the Programming Reference Guide from
-[InnovationFIRST](/index.php/InnovationFIRST "InnovationFIRST" ). It
+[InnovationFIRST](InnovationFIRST "InnovationFIRST" ). It
 demonstrates how code typically had to be written.
 
     
@@ -82,16 +82,16 @@ necessary, overload certain bytes to have different uses at different places
 in the code, and swap variable values without a temporary variable. However,
 it was not for the faint of heart -- and these limitations, though
 challenging, caused the switch to the [C programming
-language](/index.php/PIC_C "PIC C" ) for the [2004 Robot
-Controller](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)"
+language](PIC_C "PIC C" ) for the [2004 Robot
+Controller](Robot_Controller_%282004%29 "Robot Controller \(2004\)"
 ). It was simply too primitive to easily handle advanced [autonomous
-modes](/index.php/Autonomous_mode "Autonomous mode" ), which were introduced
+modes](Autonomous_mode "Autonomous mode" ), which were introduced
 during the 2003 season. Though some teams created quite effective autonomous
 modes, they almost always used a secondary processor.
 
   
-The [BS2sx](/index.php/BS2sx "BS2sx" ) was just an extension to the
-[BS2](/index.php/BS2 "BS2" ). The BS2 was about 4x slower and didn't have any
+The [BS2sx](BS2sx "BS2sx" ) was just an extension to the
+[BS2](BS2 "BS2" ). The BS2 was about 4x slower and didn't have any
 scratchpad or seperate code banks (so you were limited to 2k).
 
 
@@ -100,6 +100,6 @@ scratchpad or seperate code banks (so you were limited to 2k).
   * [IFI Legacy documentation](http://innovationfirst.com/FIRSTRobotics/documentation-legacy.htm "http://innovationfirst.com/FIRSTRobotics/documentation-legacy.htm" )
   * [RoboEmu](http://www.robbayer.com/software.htm "http://www.robbayer.com/software.htm" ) and other software by [Rob Bayer](/index.php?title=Rob_Bayer&action=edit "Rob Bayer" )
 
-[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](/index.php/Image
+[![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](Image
 :LinkFA-star.png "Image:LinkFA-star.png" )
 

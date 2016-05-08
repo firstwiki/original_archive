@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Team Name_  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | 1998  
 US State Or Country: | Indiana  
 City: | Kokomo  
@@ -15,18 +15,18 @@ School: | Kokomo-Center Schools Central Middle School
 [Team website](http://www.cmslegoleague.com "http://www.cmslegoleague.com" )  
   
 Find other [FLL teams founded in
-1998](/index.php/Category:FLL_teams_founded_in_1998 "Category:FLL teams
+1998](Category:FLL_teams_founded_in_1998 "Category:FLL teams
 founded in 1998" )
 
-Find other [FLL teams from Indiana](/index.php/Category:FLL_teams_from_Indiana
+Find other [FLL teams from Indiana](Category:FLL_teams_from_Indiana
 "Category:FLL teams from Indiana" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
 
-**Central SpaceLab** is a FLL team from Central Middle School in Kokomo, IN. The Central SpaceLab team has participated in [FLL](/index.php/FLL "FLL" ) since the first pilot competition in 1998. The team is led by James McCarter. 
+**Central SpaceLab** is a FLL team from Central Middle School in Kokomo, IN. The Central SpaceLab team has participated in [FLL](FLL "FLL" ) since the first pilot competition in 1998. The team is led by James McCarter. 
 
 ## Contents
 

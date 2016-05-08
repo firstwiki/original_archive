@@ -25,17 +25,17 @@ imit=250&from=0 "Special:Whatlinkshere/FIRSTwiki:Nominations for adminship" )
 ship&limit=500&from=0 "Special:Whatlinkshere/FIRSTwiki:Nominations for
 adminship" )).
 
-  * [FIRSTwiki:Administrators](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
-  * [FIRSTwiki:Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [User talk:Astronouth7303](/index.php/User_talk:Astronouth7303 "User talk:Astronouth7303" )
-  * [FIRSTwiki talk:Administrators](/index.php/FIRSTwiki_talk:Administrators "FIRSTwiki talk:Administrators" )
-  * [Template:Nominated](/index.php/Template:Nominated "Template:Nominated" )
-  * [FIRSTwiki:Community decisions/Archive 1](/index.php/FIRSTwiki:Community_decisions/Archive_1 "FIRSTwiki:Community decisions/Archive 1" )
-  * [User:Mrawls/front page redesign](/index.php/User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
-  * [Template:What's happening now](/index.php/Template:What%27s_happening_now "Template:What's happening now" )
-  * [FIRSTwiki:Community portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
-  * [User talk:PeterFll](/index.php/User_talk:PeterFll "User talk:PeterFll" )
-  * [User:MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" )
+  * [FIRSTwiki:Administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
+  * [FIRSTwiki:Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [User talk:Astronouth7303](User_talk:Astronouth7303 "User talk:Astronouth7303" )
+  * [FIRSTwiki talk:Administrators](FIRSTwiki_talk:Administrators "FIRSTwiki talk:Administrators" )
+  * [Template:Nominated](Template:Nominated "Template:Nominated" )
+  * [FIRSTwiki:Community decisions/Archive 1](FIRSTwiki:Community_decisions/Archive_1 "FIRSTwiki:Community decisions/Archive 1" )
+  * [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
+  * [Template:What's happening now](Template:What%27s_happening_now "Template:What's happening now" )
+  * [FIRSTwiki:Community portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
+  * [User talk:PeterFll](User_talk:PeterFll "User talk:PeterFll" )
+  * [User:MindstormsKid](User:MindstormsKid "User:MindstormsKid" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/FIRS
 Twiki:Nominations_for_adminship&limit=20&from=0
 "Special:Whatlinkshere/FIRSTwiki:Nominations for adminship" ) | [50](/index.ph

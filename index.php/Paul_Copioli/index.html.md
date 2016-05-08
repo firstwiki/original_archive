@@ -7,7 +7,7 @@ Jump to: navigation, search
 **Name:** Paul Copioli  
 **WFA Year:** 2005  
 **Years involved with FIRST:** 7  
-**FIRST Team(s):** [ThunderChickens](/index.php/217 "217" ) (0217)  
+**FIRST Team(s):** [ThunderChickens](217 "217" ) (0217)  
 **Role:** Engineer/Mentor  
 **Quote:** "Without inspiration … we would perish.” - Walt Disney  
 **Bio:** Paul Copioli has been selected as the third Unsung FIRST Hero because of his unwavering passion and energy for FIRST and his dedication to his team. A native of Sterling Heights, Michigan, Paul attended Henry Ford II High School, and after graduation, he entered the U.S. Air Force Academy. While in the Air Force, he earned his Bachelor’s degree in aeronautical engineering, then spending three years working at Wright-Patterson Air Force Base as a Test Engineer. 
@@ -55,12 +55,12 @@ Paul also knows to fear the bear hugs of "Big Mike"
   
 
 |  **[![](/media/thumb/9/96/Ufhimage.jpg/43px-
-Ufhimage.jpg)](/index.php/Image:Ufhimage.jpg "" )** | This user is an
-**[Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
-[Honoree](/index.php/Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
+Ufhimage.jpg)](Image:Ufhimage.jpg "" )** | This user is an
+**[Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
+[Honoree](Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
 Heroes" )**. |  
 ---|---|---  
   
-**[![](/media/thumb/e/e1/Wfaimage.jpg/43px-Wfaimage.jpg)](/index.php/Image:Wfaimage.jpg "" )** | This user is a Championship **[Woodie Flowers Award](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" ) [Winner](/index.php/Category:Woodie_Flowers_Award_recipients "Category:Woodie Flowers Award recipients" )**. |   
+**[![](/media/thumb/e/e1/Wfaimage.jpg/43px-Wfaimage.jpg)](Image:Wfaimage.jpg "" )** | This user is a Championship **[Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award" ) [Winner](Category:Woodie_Flowers_Award_recipients "Category:Woodie Flowers Award recipients" )**. |   
 ---|---|---  
   

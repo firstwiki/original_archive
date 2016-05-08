@@ -23,15 +23,15 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Pressure_switch&limit=500&from=0
 "Special:Whatlinkshere/Pressure switch" )).
 
-  * [Pneumatics](/index.php/Pneumatics "Pneumatics" )
-  * [Sensor](/index.php/Sensor "Sensor" )
-  * [Solenoid](/index.php/Solenoid "Solenoid" )
-  * [Cylinder](/index.php/Cylinder "Cylinder" )
-  * [Compressor](/index.php/Compressor "Compressor" )
-  * [Storage tank](/index.php/Storage_tank "Storage tank" )
-  * [Rotary actuator](/index.php/Rotary_actuator "Rotary actuator" )
-  * [Pressure regulator](/index.php/Pressure_regulator "Pressure regulator" )
-  * [Template:Pneumatics parts](/index.php/Template:Pneumatics_parts "Template:Pneumatics parts" )
+  * [Pneumatics](Pneumatics "Pneumatics" )
+  * [Sensor](Sensor "Sensor" )
+  * [Solenoid](Solenoid "Solenoid" )
+  * [Cylinder](Cylinder "Cylinder" )
+  * [Compressor](Compressor "Compressor" )
+  * [Storage tank](Storage_tank "Storage tank" )
+  * [Rotary actuator](Rotary_actuator "Rotary actuator" )
+  * [Pressure regulator](Pressure_regulator "Pressure regulator" )
+  * [Template:Pneumatics parts](Template:Pneumatics_parts "Template:Pneumatics parts" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Pressure_switch&limit=20&from=0
 "Special:Whatlinkshere/Pressure switch" ) |

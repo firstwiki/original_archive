@@ -183,8 +183,8 @@ _
 
 Related articles:
 
-  * ["love is a chronic poison](http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison" )
-  * [nervous reply big S message](http://www.indianmusicguide.com/index.php/User:Vivianllik#nervous_reply_big_S_message "http://www.indianmusicguide.com/index.php/User:Vivianllik#nervous_reply_big_S_message" )
+  * ["love is a chronic poison](http://wiki.classdrive.netUser:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.netUser:Vivianllib#.22love_is_a_chronic_poison" )
+  * [nervous reply big S message](http://www.indianmusicguide.comUser:Vivianllik#nervous_reply_big_S_message "http://www.indianmusicguide.comUser:Vivianllik#nervous_reply_big_S_message" )
 
 
 ##  her light said
@@ -220,8 +220,8 @@ _
 
 Related articles:
 
-  * [Group is more](http://wiki.classdrive.net/index.php/User:Vivianllib#Group_is_more "http://wiki.classdrive.net/index.php/User:Vivianllib#Group_is_more" )
-  * [p away arrived on the scene](http://bluejoe.csdb.cn/index.php/User:Vivianllil#p_away_arrived_on_the_scene "http://bluejoe.csdb.cn/index.php/User:Vivianllil#p_away_arrived_on_the_scene" )
+  * [Group is more](http://wiki.classdrive.netUser:Vivianllib#Group_is_more "http://wiki.classdrive.netUser:Vivianllib#Group_is_more" )
+  * [p away arrived on the scene](http://bluejoe.csdb.cnUser:Vivianllil#p_away_arrived_on_the_scene "http://bluejoe.csdb.cnUser:Vivianllil#p_away_arrived_on_the_scene" )
 
 
 ##  have double very thoroughly
@@ -271,8 +271,8 @@ atmosphere.
 
 Related articles:
 
-  * ["love is a chronic poison](http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.net/index.php/User:Vivianllib#.22love_is_a_chronic_poison" )
-  * [must still go out what mistake.](http://dpp.doctorpundit.com/index.php/User:Vivianllid#must_still_go_out_what_mistake. "http://dpp.doctorpundit.com/index.php/User:Vivianllid#must_still_go_out_what_mistake." )
+  * ["love is a chronic poison](http://wiki.classdrive.netUser:Vivianllib#.22love_is_a_chronic_poison "http://wiki.classdrive.netUser:Vivianllib#.22love_is_a_chronic_poison" )
+  * [must still go out what mistake.](http://dpp.doctorpundit.comUser:Vivianllid#must_still_go_out_what_mistake. "http://dpp.doctorpundit.comUser:Vivianllid#must_still_go_out_what_mistake." )
 
 
 ##  prada Internet has a huge online store. . However

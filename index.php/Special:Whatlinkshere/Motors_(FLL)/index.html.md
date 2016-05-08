@@ -23,8 +23,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Motors_%28FLL%29&limit=500&from=0
 "Special:Whatlinkshere/Motors \(FLL\)" )).
 
-  * [Motors](/index.php/Motors "Motors" )
-  * [User talk:PeterFll](/index.php/User_talk:PeterFll "User talk:PeterFll" )
+  * [Motors](Motors "Motors" )
+  * [User talk:PeterFll](User_talk:PeterFll "User talk:PeterFll" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Motors_%28FLL%29&limit=20&from=0
 "Special:Whatlinkshere/Motors \(FLL\)" ) |

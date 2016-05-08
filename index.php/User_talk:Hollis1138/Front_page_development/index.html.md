@@ -2,7 +2,7 @@
 
 ### From FIRSTwiki
 
-&lt; [User talk:Hollis1138](/index.php/User_talk:Hollis1138 "User
+&lt; [User talk:Hollis1138](User_talk:Hollis1138 "User
 talk:Hollis1138" )
 
 Jump to: navigation, search
@@ -22,6 +22,6 @@ Things to do:
   * Images? 
   * Fix box around Announcements 
 
-\- [Hollis1138](/index.php/User:Hollis1138 "User:Hollis1138" ) 10:57, 7 July
+\- [Hollis1138](User:Hollis1138 "User:Hollis1138" ) 10:57, 7 July
 2006 (EDT)
 

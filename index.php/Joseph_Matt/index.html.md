@@ -19,7 +19,7 @@ e-mail: _[josephmatt at gmail.com](mailto:josephmatt@gmail.com
 ChiefDelphi:
 '[JosephM](http://www.chiefdelphi.com/forums/member.php?userid=682
 "http://www.chiefdelphi.com/forums/member.php?userid=682" )_  
-_ Team: _[384](/index.php/384 "384" )_ _(Sparky 384)_  
+_ Team: _[384](384 "384" )_ _(Sparky 384)_  
 Position: Student Team Lead  
   
 

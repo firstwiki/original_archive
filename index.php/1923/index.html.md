@@ -9,7 +9,7 @@ Jump to: navigation, search
 The MidKnight Inventors  
 ---  
 [![](/media/thumb/7/70/1923logo.jpg/200px-
-1923logo.jpg)](/index.php/Image:1923logo.jpg "" )  
+1923logo.jpg)](Image:1923logo.jpg "" )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  
 Location: | Plainsboro, NJ, USA  
@@ -55,9 +55,9 @@ pics](http://www.chiefdelphi.com/media/photos/tags/frc1923
 
   * 2009 NJ Regional Champions (with [2753](/index.php?title=2753&action=edit "2753" ) &amp; [2344](/index.php?title=2344&action=edit "2344" )) 
   * 2010 Boston Regional Engineering Inspiration Award 
-  * 2011 CT Regional Champions (with [195](/index.php/195 "195" ) &amp; [155](/index.php/155 "155" )) 
+  * 2011 CT Regional Champions (with [195](195 "195" ) &amp; [155](155 "155" )) 
   * 2011 CT Regional Coopertition Award 
-  * 2011 CT Regional [Gracious Professionalism](/index.php/Gracious_Professionalism "Gracious Professionalism" ) Award 
+  * 2011 CT Regional [Gracious Professionalism](Gracious_Professionalism "Gracious Professionalism" ) Award 
 
 
 ## Sponsors
@@ -76,7 +76,7 @@ this to include our 2010 and 2011 season rosters soon.
   * Mike Siegel (Build Mentor) 
   * David Kohn (Programming Mentor) 
   * Katie Stevens (Alum) 
-  * Luke Seale (CAD Jedi; [1717](/index.php/1717 "1717" ) Alum) 
+  * Luke Seale (CAD Jedi; [1717](1717 "1717" ) Alum) 
 
 And of course, all of the parents of the team members who contribute to the
 team.

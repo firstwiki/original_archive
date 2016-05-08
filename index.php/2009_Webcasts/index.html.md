@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 Webcasting is related to archiving. Consider visiting [2009
-Archiving](/index.php/2009_Archiving "2009 Archiving" ) as well.
+Archiving](2009_Archiving "2009 Archiving" ) as well.
 
 
 ##  Webcast List
@@ -142,6 +142,6 @@ Robotics](http://www.coderedrobotics.com/ "http://www.coderedrobotics.com/" )
 
 ##  How to Webcast
 
-See [2009 Archiving](/index.php/2009_Archiving "2009 Archiving" ) for related
+See [2009 Archiving](2009_Archiving "2009 Archiving" ) for related
 information on video capture.
 

@@ -24,10 +24,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Libby_Kamen&limit=500&from=0
 "Special:Whatlinkshere/Libby Kamen" )).
 
-  * [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" )
-  * [Index of celebrities](/index.php/Index_of_celebrities "Index of celebrities" )
-  * [User:LibsterK1923](/index.php/User:LibsterK1923 "User:LibsterK1923" )
-  * [Bart Kamen](/index.php/Bart_Kamen "Bart Kamen" )
+  * [Dean Kamen](Dean_Kamen "Dean Kamen" )
+  * [Index of celebrities](Index_of_celebrities "Index of celebrities" )
+  * [User:LibsterK1923](User:LibsterK1923 "User:LibsterK1923" )
+  * [Bart Kamen](Bart_Kamen "Bart Kamen" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Libby_Kamen&limit=20&from=0
 "Special:Whatlinkshere/Libby Kamen" ) |

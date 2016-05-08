@@ -8,20 +8,20 @@ Mindstorms](/index.php?title=Lego_Mindstorms&redirect=no "Lego Mindstorms" ))
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=LEGO_Mindstorms&action=edit
 "http://www.firstwiki.net/index.php?title=LEGO_Mindstorms&action=edit" ) to
 make a significant article. If you'd like to add to more stubs, look at the
-list of [short articles](/index.php/Special:Shortpages "Special:Shortpages"
+list of [short articles](Special:Shortpages "Special:Shortpages"
 )._  
 ---|---  
   
   
 
-[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](/index.php/Ima
+[![Image:Gears_animation.gif](/media/1/14/Gears_animation.gif)](Ima
 ge:Gears_animation.gif "Image:Gears_animation.gif" ) |  **Attention!**  
 
 This article covers an essential topic and is in need of major additions
@@ -45,7 +45,7 @@ this article.
 ## Introduction
 
 LEGO Mindstorms is a product of LEGO. It is the only platform used in the
-[FLL](/index.php/FLL "FLL" ) program. It uses standard LEGO parts, and
+[FLL](FLL "FLL" ) program. It uses standard LEGO parts, and
 contains several motors and sensors to control a fully autonomous robot, such
 as used in FLL competition. Although there are several sets released by LEGO,
 only two are legal or practical for FLL use. These are the Robotics Invention
@@ -72,7 +72,7 @@ motors, depending on the rules of the game.
 
 ## NXT
 
-The [NXT](/index.php/NXT "NXT" ) set uses an improved microcontroller which
+The [NXT](NXT "NXT" ) set uses an improved microcontroller which
 incorporates USB and bluetooth technology, a new programming environment, and
 larger LCD screen. The RCX kit comes with stepper motors, a new touch sensor,
 a light sensor capable of detecting color as well as light intensity, a sound

@@ -107,8 +107,8 @@ uændret. &lt;p&gt; For komplet redegørelse om tips til, hvordan man komme i
 gang fortjenstgivende sammen med Yahoo Adwords, hoved til <http://www>.
 worldofebooks / introduction_to_adwords. htm &lt;p&gt; &lt;/ Div&gt;links:
 
-  * [at for at være sikker på](http://barcampmumbai.org/index.php/User:Ahiujnoy#at_for_at_v.C3.A6re_sikker_p.C3.A5 "http://barcampmumbai.org/index.php/User:Ahiujnoy#at_for_at_v.C3.A6re_sikker_p.C3.A5" )
-  * [hvad der nogensinde hvilken bevægelse kan være](http://gewehrhistory.com/index.php/User:Ahiujein "http://gewehrhistory.com/index.php/User:Ahiujein" )
+  * [at for at være sikker på](http://barcampmumbai.orgUser:Ahiujnoy#at_for_at_v.C3.A6re_sikker_p.C3.A5 "http://barcampmumbai.orgUser:Ahiujnoy#at_for_at_v.C3.A6re_sikker_p.C3.A5" )
+  * [hvad der nogensinde hvilken bevægelse kan være](http://gewehrhistory.comUser:Ahiujein "http://gewehrhistory.comUser:Ahiujein" )
 
 
 ##  Virkelige verden
@@ -164,8 +164,8 @@ det turnwhat anderledes er det muligt at gennemføre for at øge målrettet
 trafik? Virkelige verden? På internettet? &lt;p&gt; Copyright 2005 Donna Payne
 &lt;p&gt; &lt;/ Div&gt;links:
 
-  * [I virkeligheden](http://smtp.ekonbilisim.net/wiki/index.php/User:Ahiubyxd "http://smtp.ekonbilisim.net/wiki/index.php/User:Ahiubyxd" )
-  * [som du er reklame.](http://gewehrhistory.com/index.php/User:Ahiujein#som_du_er_reklame. "http://gewehrhistory.com/index.php/User:Ahiujein#som_du_er_reklame." )
+  * [I virkeligheden](http://smtp.ekonbilisim.net/wikiUser:Ahiubyxd "http://smtp.ekonbilisim.net/wikiUser:Ahiubyxd" )
+  * [som du er reklame.](http://gewehrhistory.comUser:Ahiujein#som_du_er_reklame. "http://gewehrhistory.comUser:Ahiujein#som_du_er_reklame." )
 
 
 ##  nike free 3.0 blå www.nikefreelilla.com
@@ -296,7 +296,7 @@ besøgende:
   
 &lt;p&gt; &lt;/ Div&gt;links:
 
-  * <http://bluejoe.csdb.cn/index.php/User:Ahiuktxh#billige_nike_air_max_www.nikefreelilla.com>
+  * <http://bluejoe.csdb.cnUser:Ahiuktxh#billige_nike_air_max_www.nikefreelilla.com>
   * &lt;a href="<http://www.thediary.org/ahiuwlfp/65282/clubmaster+ray+ban+solbriller+www.nikefreelilla.com.html>" target="_blank"&gt;<http://www.thediary.org/ahiuwlfp/65282/clubmaster+ray+ban+solbriller+www.nikefreelilla.com.html>&lt;/a&gt;
 
 
@@ -357,8 +357,8 @@ regnskaber, og så videre. &lt;p&gt; Når du modtager de faktiske pause er
 forbundet med at udnytte en autoresponder, youll spørgsmålstegn ved den måde
 du har håndteret din virksomhed uden at have 1. &lt;p&gt; &lt;/ Div&gt;links:
 
-  * <http://barcampmumbai.org/index.php/User:Ahiujnoy#ostyler_nike_free_sko_trov.C3.A6rdighed_www.nikefreelilla.com>
-  * <http://hepaticcancer.org/index.php/User:Ahiujaya#nike_free_billig_www.nikefreelilla.com>
+  * <http://barcampmumbai.orgUser:Ahiujnoy#ostyler_nike_free_sko_trov.C3.A6rdighed_www.nikefreelilla.com>
+  * <http://hepaticcancer.orgUser:Ahiujaya#nike_free_billig_www.nikefreelilla.com>
 
 
 ##  køb nike free run www.nikefreelilla.com
@@ -423,6 +423,6 @@ Grennell @ <http://www>. mypowermall/BizHome/73391
   
 &lt;p&gt; &lt;/ Div&gt;links:
 
-  * <http://hepaticcancer.org/index.php/User:Ahiujaya#nike_free__sort_lilla_www.nikefreelilla.com>
-  * <http://barcampmumbai.org/index.php/User:Ahiujnoy#nike_free_run_str_46_www.nikefreelilla.com>
+  * <http://hepaticcancer.orgUser:Ahiujaya#nike_free__sort_lilla_www.nikefreelilla.com>
+  * <http://barcampmumbai.orgUser:Ahiujnoy#nike_free_run_str_46_www.nikefreelilla.com>
 

@@ -24,7 +24,7 @@ team webpage/Guide 1" ) | [500](/index.php?title=Special:Whatlinkshere/Designi
 ng_a_team_webpage/Guide_1&limit=500&from=0 "Special:Whatlinkshere/Designing a
 team webpage/Guide 1" )).
 
-  * [Designing a team webpage](/index.php/Designing_a_team_webpage "Designing a team webpage" )
+  * [Designing a team webpage](Designing_a_team_webpage "Designing a team webpage" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Desi
 gning_a_team_webpage/Guide_1&limit=20&from=0 "Special:Whatlinkshere/Designing
 a team webpage/Guide 1" ) | [50](/index.php?title=Special:Whatlinkshere/Design

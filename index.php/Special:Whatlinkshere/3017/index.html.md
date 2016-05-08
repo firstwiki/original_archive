@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/3017&limit=500&from=0
 "Special:Whatlinkshere/3017" )).
 
-  * [Index of teams](/index.php/Index_of_teams "Index of teams" )
+  * [Index of teams](Index_of_teams "Index of teams" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/3017&limit=20&from=0
 "Special:Whatlinkshere/3017" ) |

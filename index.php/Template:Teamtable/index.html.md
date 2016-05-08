@@ -77,7 +77,7 @@ section: Example" )]
 Name  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | 2004  
 Inactive Years: | {{{inactive}}}  
 Location: | Earth, Milky Way  
@@ -110,5 +110,5 @@ Info](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=Teamtable
 
 _Note: You must include the image brackets as shown in the example above_
 
-For an example, see [1227](/index.php/1227 "1227" ).
+For an example, see [1227](1227 "1227" ).
 

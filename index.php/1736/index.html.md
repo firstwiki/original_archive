@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Robot Casserole  
 ---  
-[![Team logo](/media/1/10/Team1736Logo.jpg)](/index.php/Image:Team1736Logo.jpg
+[![Team logo](/media/1/10/Team1736Logo.jpg)](Image:Team1736Logo.jpg
 "Team logo" )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  
@@ -48,9 +48,9 @@ by Caterpillar.
 
 ### Events
 
-  * 2008 - [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )
-  * 2007 - [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )
-  * 2006 - [Midwest Regional](/index.php/Midwest_Regional "Midwest Regional" )
+  * 2008 - [Wisconsin Regional](Wisconsin_Regional "Wisconsin Regional" )
+  * 2007 - [Wisconsin Regional](Wisconsin_Regional "Wisconsin Regional" )
+  * 2006 - [Midwest Regional](Midwest_Regional "Midwest Regional" )
 
 
 ### The Name
@@ -68,7 +68,7 @@ Coming Soon!
 
 ## Accomplishments
 
-  * 2007 Wisconsin regional- [General Motors Industrial Design Award](/index.php/General_Motors_Industrial_Design_Award "General Motors Industrial Design Award" )
+  * 2007 Wisconsin regional- [General Motors Industrial Design Award](General_Motors_Industrial_Design_Award "General Motors Industrial Design Award" )
   * 2006 Midwest regional- [Xerox creativity award](/index.php?title=Xerox_creativity_award&action=edit "Xerox creativity award" )
 
 

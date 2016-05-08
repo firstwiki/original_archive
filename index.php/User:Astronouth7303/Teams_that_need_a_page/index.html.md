@@ -2,7 +2,7 @@
 
 ### From FIRSTwiki
 
-&lt; [User:Astronouth7303](/index.php/User:Astronouth7303
+&lt; [User:Astronouth7303](User:Astronouth7303
 "User:Astronouth7303" )
 
 Jump to: navigation, search
@@ -30,7 +30,7 @@ t&section=1 "Edit section: 400s" )]
 
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1546 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1546" )[1546](/index.php?title=1546&action=edit "1546" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1546 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1546" )
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1551 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1551" )[1551](/index.php?title=1551&action=edit "1551" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1551 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1551" )
-  * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574" )[1574](/index.php/1574 "1574" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574" )
+  * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574" )[1574](1574 "1574" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1574" )
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1590 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1590" )[1590](/index.php?title=1590&action=edit "1590" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1590 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1590" )
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1593 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1593" )[1593](/index.php?title=1593&action=edit "1593" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1593 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1593" )
   * [FIRST's page on ](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1595 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1595" )[1595](/index.php?title=1595&action=edit "1595" )[](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1595 "https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=1595" )

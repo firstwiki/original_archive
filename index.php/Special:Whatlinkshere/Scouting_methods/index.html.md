@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Scouting_methods&limit=500&from=0
 "Special:Whatlinkshere/Scouting methods" )).
 
-  * [Scouting](/index.php/Scouting "Scouting" )
+  * [Scouting](Scouting "Scouting" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Scouting_methods&limit=20&from=0
 "Special:Whatlinkshere/Scouting methods" ) |

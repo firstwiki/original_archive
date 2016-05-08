@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This person is an [Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung
+This person is an [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung
 FIRST Hero" ).
 
 AKA: Joe Ross  
@@ -17,15 +17,15 @@ Team: no curent team affiliation
 Position: College student
 
 I don't like to talk about myself, so I'll make someone else make a page for
-me, if they so desire. I'm Joe Ross on [ChiefDelphi](/index.php/ChiefDelphi
+me, if they so desire. I'm Joe Ross on [ChiefDelphi](ChiefDelphi
 "ChiefDelphi" ) \--**Sciencewhiz** 18:34, 11 Jun 2004 (EDT)
 
-    Well, gee, I love talking about people ... typically behind their backs, though. :P --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 20:23, 11 Jun 2004 (EDT) 
+    Well, gee, I love talking about people ... typically behind their backs, though. :P --[Mrawls](User:Mrawls "User:Mrawls" ) 20:23, 11 Jun 2004 (EDT) 
 
 |  **[![](/media/thumb/9/96/Ufhimage.jpg/43px-
-Ufhimage.jpg)](/index.php/Image:Ufhimage.jpg "" )** | This user is an
-**[Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
-[Honoree](/index.php/Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
+Ufhimage.jpg)](Image:Ufhimage.jpg "" )** | This user is an
+**[Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
+[Honoree](Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
 Heroes" )**. |  
 ---|---|---  
   

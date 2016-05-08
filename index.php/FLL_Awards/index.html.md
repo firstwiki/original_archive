@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-Awards are presented at [FLL Events](/index.php/Category:FLL_Events
+Awards are presented at [FLL Events](Category:FLL_Events
 "Category:FLL Events" ) to recognize the success of FLL teams in various areas
 such as robot design, performance in the robot game, quality of research
 project, etc. These awards can vary slightly from tournament to tournament as

@@ -21,22 +21,22 @@ Jump to: navigation, search
 Are any of you FIRSTwiki contributors going to be at the Founder's Kickoff
 (the Manchester, NH one)? Maybe you could write articles about the kickoff
 once you go? Like some interviews with the celebrities? --[SilverStar
-(Advay)](/index.php/User:SilverStar "User:SilverStar" ) 05:41, 31 Dec 2004
+(Advay)](User:SilverStar "User:SilverStar" ) 05:41, 31 Dec 2004
 (EST)
 
 
 ## New FIRST Logo and FIRSTwiki
 
 With FIRST's new logo (and accompanying usage guidelines), is FIRSTwiki stuck
-for a logo? --[Billfred](/index.php/User:Billfred "User:Billfred" ) 23:22, 18
+for a logo? --[Billfred](User:Billfred "User:Billfred" ) 23:22, 18
 Dec 2004 (EST)
 
-    Well the current logo was approved by FIRST, and I don't think it really is a huge deal, so until someone says something, or until I or someone else has some time to update the logo, it will stay. --[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257 "1257" )]]] 00:39, 19 Dec 2004 (EST) 
-    Given that I think the new FIRST logo is uglier than the old FIRST logo, I support keeping the current FIRSTwiki logo FWIW. --[Goobergunch](/index.php/User:Goobergunch "User:Goobergunch" ) [[1168](/index.php/1168 "1168" )] 12:32, 19 Dec 2004 (EST) 
+    Well the current logo was approved by FIRST, and I don't think it really is a huge deal, so until someone says something, or until I or someone else has some time to update the logo, it will stay. --[[User:Max|[Max](User:Max "User:Max" ) [[1257](1257 "1257" )]]] 00:39, 19 Dec 2004 (EST) 
+    Given that I think the new FIRST logo is uglier than the old FIRST logo, I support keeping the current FIRSTwiki logo FWIW. --[Goobergunch](User:Goobergunch "User:Goobergunch" ) [[1168](1168 "1168" )] 12:32, 19 Dec 2004 (EST) 
 
-    Beauty is in the eye of the beholder. Perhaps we should just revert to the seizure logo. (kidding, kidding) --[Billfred](/index.php/User:Billfred "User:Billfred" ) 14:50, 19 Dec 2004 (EST) 
+    Beauty is in the eye of the beholder. Perhaps we should just revert to the seizure logo. (kidding, kidding) --[Billfred](User:Billfred "User:Billfred" ) 14:50, 19 Dec 2004 (EST) 
 
-    GAH! PAIN! *dies* Point taken. --[Goobergunch](/index.php/User:Goobergunch "User:Goobergunch" ) [[1168](/index.php/1168 "1168" )] 19:12, 20 Dec 2004 (EST) 
+    GAH! PAIN! *dies* Point taken. --[Goobergunch](User:Goobergunch "User:Goobergunch" ) [[1168](1168 "1168" )] 19:12, 20 Dec 2004 (EST) 
 
 
 ## Purpose of FIRSTwiki
@@ -51,11 +51,11 @@ not already served by other websites? If yes, then what are these services (we
 should then promote these services)? If no, then FIRSTwiki should be providing
 these services with better quality and/or organization than other websites. If
 we do neither of these, then FIRSTwiki has become/should be obsolete.
---[SilverStar (Advay)](/index.php/User:SilverStar "User:SilverStar" ) 01:38,
+--[SilverStar (Advay)](User:SilverStar "User:SilverStar" ) 01:38,
 31 Dec 2004 (EST)
 
-    I think first and foremost, FIRSTwiki is designed to make the information that is already available elsewhere organized and more easily found. Indirectly, because of the ease of contributing, I think FIRSTwiki will/can eventually become a source of original content. --[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257 "1257" )]]] 02:08, 31 Dec 2004 (EST) 
-    I agree here, so we need to promote it as such. We need to get more people involved in both organizing and creating content. It seems that most of the original content will be both in history and how-tos. So how do we entice FIRSTers to visit, and more importantly contribute? Some celebrity FIRSTers entering their knowledge seems good... --[SilverStar (Advay)](/index.php/User:SilverStar "User:SilverStar" ) 05:12, 31 Dec 2004 (EST) 
+    I think first and foremost, FIRSTwiki is designed to make the information that is already available elsewhere organized and more easily found. Indirectly, because of the ease of contributing, I think FIRSTwiki will/can eventually become a source of original content. --[[User:Max|[Max](User:Max "User:Max" ) [[1257](1257 "1257" )]]] 02:08, 31 Dec 2004 (EST) 
+    I agree here, so we need to promote it as such. We need to get more people involved in both organizing and creating content. It seems that most of the original content will be both in history and how-tos. So how do we entice FIRSTers to visit, and more importantly contribute? Some celebrity FIRSTers entering their knowledge seems good... --[SilverStar (Advay)](User:SilverStar "User:SilverStar" ) 05:12, 31 Dec 2004 (EST) 
 
 [[edit](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=edit&section=
 4 "Edit section: How to renew activity?" )]
@@ -68,25 +68,25 @@ think I would have the time to get people involved. With Christmas break
 coming soon, I, and others, will probably have some time to drum up some
 interest in FW again. How does everyone think we should do this? Just a random
 post in CD about it reminding everyone what it is?
---[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257
+--[[User:Max|[Max](User:Max "User:Max" ) [[1257](1257
 "1257" )]]] 16:11, 19 Dec 2004 (EST)
 
-     I thought I was the only person who ever used "drum up" in conversation. Ah well. Perhaps instead of advertising in posts, we should try advertising in posts. Point to FIRSTwiki articles and such as they're useful. --[Billfred](/index.php/User:Billfred "User:Billfred" ) 10:36, 20 Dec 2004 (EST) 
-    I'm thinking that its been a while since the last time we made any announcements about what it is so perhaps people have forgotten about it, but more importantly, lots of new people have not heard of it. --[[User:Max|[Max](/index.php/User:Max "User:Max" ) [[1257](/index.php/1257 "1257" )]]] 18:59, 20 Dec 2004 (EST) 
+     I thought I was the only person who ever used "drum up" in conversation. Ah well. Perhaps instead of advertising in posts, we should try advertising in posts. Point to FIRSTwiki articles and such as they're useful. --[Billfred](User:Billfred "User:Billfred" ) 10:36, 20 Dec 2004 (EST) 
+    I'm thinking that its been a while since the last time we made any announcements about what it is so perhaps people have forgotten about it, but more importantly, lots of new people have not heard of it. --[[User:Max|[Max](User:Max "User:Max" ) [[1257](1257 "1257" )]]] 18:59, 20 Dec 2004 (EST) 
 
 
 ## 1.4 Beta5
 
 Hmm... Anyone notice the new version? (Here I am a sysop, and I just noticed
-that Max upgraded!) --[Astronouth7303](/index.php/User:Astronouth7303
+that Max upgraded!) --[Astronouth7303](User:Astronouth7303
 "User:Astronouth7303" ) 19:59, 27 Jan 2005 (EST)
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Village_pump/Archive_5>"
+"<http://www.firstwiki.netFIRSTwiki:Village_pump/Archive_5>"
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Village_pump/Archive_5)
+  * [Project page](FIRSTwiki:Village_pump/Archive_5)
   * [Discussion](/index.php?title=FIRSTwiki_talk:Village_pump/Archive_5&action=edit)
   * [Edit](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=edit)
   * [History](/index.php?title=FIRSTwiki:Village_pump/Archive_5&action=history)
@@ -95,17 +95,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Village_pump/Archive_5)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -113,10 +113,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Village_pump/Archive_5)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Village_pump/Archive_5)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Village_pump/Archive_5)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Village_pump/Archive_5)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Village_pump/Archive_5&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Village_pump/Archive_5&oldid=40434)
 
@@ -129,7 +129,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 00:04, 8 November 2005.
   * This page has been accessed 424 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

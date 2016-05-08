@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-These are pages about the [Vex](/index.php/Vex "Vex" ) competition.
+These are pages about the [Vex](Vex "Vex" ) competition.
 
   
 

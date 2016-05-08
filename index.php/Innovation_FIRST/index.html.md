@@ -10,7 +10,7 @@ FIRST](/index.php?title=Innovation_FIRST&redirect=no "Innovation FIRST" ))
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -18,12 +18,12 @@ _
 [Please add more content](http://www.firstwiki.net/index.php?title=Innovation_
 First%2C_Inc.&action=edit "http://www.firstwiki.net/index.php?title=Innovation
 _First%2C_Inc.&action=edit" ) to make a significant article. _See more
-[stubs](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[stubs](Special:Shortpages "Special:Shortpages" )._  
   
 ---|---  
   
   
-**Innovation First, Inc.**, or **IFI**, is was an official supplier of custom [electronics](/index.php/Electronics_and_circuitry "Electronics and circuitry" ) for the [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ). 
+**Innovation First, Inc.**, or **IFI**, is was an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry" ) for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ). 
 
 ## Contents
 
@@ -39,7 +39,7 @@ section: History" )]
 ## History
 
 Before 2009, IFI used to provide the main parts of the [control
-system](/index.php/Control_system "Control system" ) for the robot. Since then
+system](Control_system "Control system" ) for the robot. Since then
 it has been replaced by [National
 Instruments](/index.php?title=National_Instruments&action=edit "National
 Instruments" ).
@@ -49,13 +49,13 @@ section: Products" )]
 
 ## Products
 
-  * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-  * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-  * [Spike Relay](/index.php/Spike_relay "Spike relay" )
-  * [Victor 884](/index.php/Victor_884 "Victor 884" )
-  * [Radio Modem](/index.php/Radio_modem "Radio modem" )
-  * [Robovation](/index.php/Robovation "Robovation" )
-  * [Vex](/index.php/Vex "Vex" )
+  * [Robot Controller](Robot_Controller "Robot Controller" )
+  * [Operator Interface](Operator_Interface "Operator Interface" )
+  * [Spike Relay](Spike_relay "Spike relay" )
+  * [Victor 884](Victor_884 "Victor 884" )
+  * [Radio Modem](Radio_modem "Radio modem" )
+  * [Robovation](Robovation "Robovation" )
+  * [Vex](Vex "Vex" )
   * And other accessories... 
 
 [[edit](/index.php?title=Innovation_First%2C_Inc.&action=edit&section=3 "Edit
@@ -65,7 +65,7 @@ section: Rack Solutions" )]
 
 Rack Solutions is a division of Innovation First. They specialize in racks for
 rack-mount computers. They provided the racks for the field computers in the
-[2004 game](/index.php/Game_%282004%29 "Game \(2004\)" ).
+[2004 game](Game_%282004%29 "Game \(2004\)" ).
 
 [[edit](/index.php?title=Innovation_First%2C_Inc.&action=edit&section=4 "Edit
 section: External Links" )]

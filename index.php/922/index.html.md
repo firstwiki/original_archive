@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 ULTIMATE: United Longhorn Team Inspiring Mental Attitude Towards Engineering  
 ---  
-[![](/media/6/6a/%28922%29_logo.gif)](/index.php/Image:%28922%29_logo.gif "" )  
+[![](/media/6/6a/%28922%29_logo.gif)](Image:%28922%29_logo.gif "" )  
 Rookie Year: | 2002  
 Inactive Years: | {{{inactive}}}  
 Location: | Laredo, TX, USA  

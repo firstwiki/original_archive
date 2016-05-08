@@ -36,5 +36,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [48](/index.php/48 "48" )
+  * [48](48 "48" )
 

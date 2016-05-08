@@ -11,7 +11,7 @@ Jump to: navigation, search
 RS-550 Banebots motor (M2-RS550-120)  
 ---  
 [![RS-550 Banebots motor
-\(M2-RS550-120\)](/media/c/c0/RS-550.png)](/index.php/Image:RS-550.png "RS-550
+\(M2-RS550-120\)](/media/c/c0/RS-550.png)](Image:RS-550.png "RS-550
 Banebots motor \(M2-RS550-120\)" )  
 Stall current (amps) |  85  
 Stall torque (in-lb) |  4.409 (0.4982 N-m)  
@@ -39,23 +39,23 @@ This motor along with the RS-540 was supplied separately from the packages of
 parts at pickup.
 
 _**2008 KOP Motors:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) | [Denso
-Window](/index.php/Denso_window_motor "Denso window motor" ) | [Taigene
+[Chiaphua/CIM](CIM_motor "CIM motor" ) | [Denso
+Window](Denso_window_motor "Denso window motor" ) | [Taigene
 Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
 motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor" )
-| [Fisher Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )
+| [Fisher Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )
 ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
 motor" ), **RS-550**)  
 ---  
 _**Older KOP Motors:**_  
-[Window](/index.php/Window_motor "Window motor" ) |
+[Window](Window_motor "Window motor" ) |
 [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van
-door](/index.php/Van_door_motor "Van door motor" ) |
-[Drill](/index.php/Drill_motor "Drill motor" ) | [Fisher
-Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" )  
+door](Van_door_motor "Van door motor" ) |
+[Drill](Drill_motor "Drill motor" ) | [Fisher
+Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" )  
   
   
 

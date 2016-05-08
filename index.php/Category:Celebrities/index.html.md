@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-Celebrities are people within [FIRST](/index.php/FIRST "FIRST" ) who are quite
+Celebrities are people within [FIRST](FIRST "FIRST" ) who are quite
 popular for any number of reasons and are usually looked up to by a lot of
 people.
 
@@ -18,18 +18,18 @@ There are 5 articles in this category.
 
 ### A
 
-  * [Aaron Studham](/index.php/Aaron_Studham "Aaron Studham" )
+  * [Aaron Studham](Aaron_Studham "Aaron Studham" )
 
 ### D
 
-  * [Dave Lavery](/index.php/Dave_Lavery "Dave Lavery" )
-  * [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" )
+  * [Dave Lavery](Dave_Lavery "Dave Lavery" )
+  * [Dean Kamen](Dean_Kamen "Dean Kamen" )
 
 ### I
 
-  * [Index of celebrities](/index.php/Index_of_celebrities "Index of celebrities" )
+  * [Index of celebrities](Index_of_celebrities "Index of celebrities" )
 
 ### W
 
-  * [Woodie Flowers](/index.php/Woodie_Flowers "Woodie Flowers" )
+  * [Woodie Flowers](Woodie_Flowers "Woodie Flowers" )
 

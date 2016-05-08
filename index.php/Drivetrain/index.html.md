@@ -8,11 +8,11 @@ Jump to: navigation, search
 
 A **drivetrain** consists of all of the components used to make the robot move
 around the field and is a crucial part of a robot. Most drivetrains use
-[motors](/index.php/Motor "Motor" ) to spin [wheels](/index.php/Wheel "Wheel"
-) or drive [treads](/index.php/Tread "Tread" ) (belts). Some innovative teams
-also incoporate [pneumatics](/index.php/Pneumatics "Pneumatics" ) and
-[servos](/index.php/Servo "Servo" ) to allow shifting of
-[gears](/index.php/Gear "Gear" ) or changing which wheels are in contact with
+[motors](Motor "Motor" ) to spin [wheels](Wheel "Wheel"
+) or drive [treads](Tread "Tread" ) (belts). Some innovative teams
+also incoporate [pneumatics](Pneumatics "Pneumatics" ) and
+[servos](Servo "Servo" ) to allow shifting of
+[gears](Gear "Gear" ) or changing which wheels are in contact with
 the ground.
 
 Drivetrains can come in many different forms, each one having its own
@@ -57,8 +57,8 @@ can be just as much a curse as it is a blessing if not correctly understood. A
 robot that is both extremely fast and extremely maneuverable would be almost
 impossible to control without a certain level of sophistication within its
 controls which can take the form of either a closed loop software control
-(e.g. [PID feedback loop](/index.php/PID_feedback_loop "PID feedback loop" )),
-or an extensive [open loop](/index.php/Open_loop "Open loop" ) control system.
+(e.g. [PID feedback loop](PID_feedback_loop "PID feedback loop" )),
+or an extensive [open loop](Open_loop "Open loop" ) control system.
 
 
 ## Types of Drivetrains
@@ -78,8 +78,8 @@ turning can be a nightmare - with no friction regulating the bot's speed of
 turning, its inertia will always want to continue turning even after the
 motors have stopped. This results in a robot that is extremely difficult to
 control using basic control methods - it is a rare casterbot that can drive in
-a straight line without the use of internal [sensors](/index.php/Sensor
-"Sensor" ) or [gyros](/index.php/Gyro "Gyro" ). Furthermore, the unpowered
+a straight line without the use of internal [sensors](Sensor
+"Sensor" ) or [gyros](Gyro "Gyro" ). Furthermore, the unpowered
 surfaces in contact with the floor detract from available pushing power, and
 significantly lower a robot's ability to maintain its position when hit.
 
@@ -94,7 +94,7 @@ its rate of turn, making it more controllable (helpful, but not necessary).
 ### Four Wheel Drive
 
 The _four wheel drive_ system is probably the most common drivetrain used in
-[FIRST](/index.php/FIRST "FIRST" ). It offers a number of advantages and
+[FIRST](FIRST "FIRST" ). It offers a number of advantages and
 disadvantages over the more basic two wheel drive. With the addition of two
 extra driven wheels, a four wheel drive robot has more traction and control
 over a two wheel drive robot. The trade-off is the increased wheel base can
@@ -186,27 +186,27 @@ bot](/media/0/09/2047_holonomic.jpg "2047 holonomic.jpg" ).
 
 [Here](http://www.youtube.com/watch?v=CTlAf0c9KfA
 "http://www.youtube.com/watch?v=CTlAf0c9KfA" ) is a video of team
-[1418's](/index.php/1418 "1418" ) 2007 holonomic drive in action. Note the
+[1418's](1418 "1418" ) 2007 holonomic drive in action. Note the
 slight listing when the chassis is supposed to be driving straight; this was
 caused by asymmetries in the power outputs of the [Victor speed
-controllers](/index.php/Victor_884 "Victor 884" ). This problem was
+controllers](Victor_884 "Victor 884" ). This problem was
 successfully fixed by using a lookup table to force individual joystick
 positions to map to a linear set of power outputs.
 
 [![Example of a mecanum drive from 1595.](/media/thumb/7/71/2006iFRC1595.jpg
-/150px-2006iFRC1595.jpg)](/index.php/Image:2006iFRC1595.jpg "Example of a
+/150px-2006iFRC1595.jpg)](Image:2006iFRC1595.jpg "Example of a
 mecanum drive from 1595." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:2006iFRC1595.jpg "Enlarge" )
+clip.png)](Image:2006iFRC1595.jpg "Enlarge" )
 
-Example of a [mecanum drive](/index.php/Mecanum_wheel "Mecanum wheel" ) from
+Example of a [mecanum drive](Mecanum_wheel "Mecanum wheel" ) from
 [1595](/index.php?title=1595&action=edit "1595" ).
 
 
 ### Mecanum Drive
 
-A [mecanum drive](/index.php/Mecanum_wheel "Mecanum wheel" ) is another
+A [mecanum drive](Mecanum_wheel "Mecanum wheel" ) is another
 omnidirectional drive system. It consist of wheels with their rollers angled
 in a conventional four wheel drive layout. With an independent
 motor/transmission on each wheel, omni driving can be achieved by varying

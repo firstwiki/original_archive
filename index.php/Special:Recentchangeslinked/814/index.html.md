@@ -34,35 +34,35 @@ days
 
 #### 11 March 2012
 
-  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93599&oldid=93598 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" ); 21:43 . . [Dgprier](/index.php?title=User:Dgprier&action=edit "User:Dgprier" ) ([Talk](/index.php/User_talk:Dgprier "User talk:Dgprier" ) | [contribs](/index.php?title=Special:Contributions&target=Dgprier "Special:Contributions" )) ([→](/index.php/Index_of_teams_by_region#Washington "Index of teams by region" )Washington - )
-  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93598&oldid=93481 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" ); 21:40 . . [Dgprier](/index.php?title=User:Dgprier&action=edit "User:Dgprier" ) ([Talk](/index.php/User_talk:Dgprier "User talk:Dgprier" ) | [contribs](/index.php?title=Special:Contributions&target=Dgprier "Special:Contributions" )) ([→](/index.php/Index_of_teams_by_region#Washington "Index of teams by region" )Washington - )
+  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93599&oldid=93598 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](Index_of_teams_by_region "Index of teams by region" ); 21:43 . . [Dgprier](/index.php?title=User:Dgprier&action=edit "User:Dgprier" ) ([Talk](User_talk:Dgprier "User talk:Dgprier" ) | [contribs](/index.php?title=Special:Contributions&target=Dgprier "Special:Contributions" )) ([→](Index_of_teams_by_region#Washington "Index of teams by region" )Washington - )
+  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93598&oldid=93481 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](Index_of_teams_by_region "Index of teams by region" ); 21:40 . . [Dgprier](/index.php?title=User:Dgprier&action=edit "User:Dgprier" ) ([Talk](User_talk:Dgprier "User talk:Dgprier" ) | [contribs](/index.php?title=Special:Contributions&target=Dgprier "Special:Contributions" )) ([→](Index_of_teams_by_region#Washington "Index of teams by region" )Washington - )
 
 #### 10 March 2012
 
-  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93481&oldid=90450 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" ); 20:53 . . [Gracie](/index.php/User:Gracie "User:Gracie" ) ([Talk](/index.php/User_talk:Gracie "User talk:Gracie" ) | [contribs](/index.php?title=Special:Contributions&target=Gracie "Special:Contributions" )) ([→](/index.php/Index_of_teams_by_region#Ohio "Index of teams by region" )Ohio - )
+  * ([diff](/index.php?title=Index_of_teams_by_region&curid=945&diff=93481&oldid=90450 "Index of teams by region" )) ([hist](/index.php?title=Index_of_teams_by_region&curid=945&action=history "Index of teams by region" )) . . [Index of teams by region](Index_of_teams_by_region "Index of teams by region" ); 20:53 . . [Gracie](User:Gracie "User:Gracie" ) ([Talk](User_talk:Gracie "User talk:Gracie" ) | [contribs](/index.php?title=Special:Contributions&target=Gracie "Special:Contributions" )) ([→](Index_of_teams_by_region#Ohio "Index of teams by region" )Ohio - )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/814)
+  * [Special Page](Special:Recentchangeslinked/814)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -70,8 +70,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -79,7 +79,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

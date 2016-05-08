@@ -336,7 +336,7 @@ case is still under further investigation in.
 
   * [Lida Qiong](http://www.buzixin.com/bbs/home.php?mod=space&uid=112&do=blog&quickforward=1&id=1334 "http://www.buzixin.com/bbs/home.php?mod=space&uid=112&do=blog&quickforward=1&id=1334" )
   * &lt;a href="<http://d62730.b49.bmedia.it/forum/index.php?topic=140204.msg227674#msg227674>" target="_blank"&gt;involving a total value of $ 65 million. Now seven suspects were arrested&lt;/a&gt;
-  * [seeks compensation over 120](http://www.shareyourholiday.com/index.php/User:Wangweit95#seeks_compensation_over_120 "http://www.shareyourholiday.com/index.php/User:Wangweit95#seeks_compensation_over_120" )
+  * [seeks compensation over 120](http://www.shareyourholiday.comUser:Wangweit95#seeks_compensation_over_120 "http://www.shareyourholiday.comUser:Wangweit95#seeks_compensation_over_120" )
 maoyi gongsi ,kuaile zhuang da
 
 
@@ -1074,7 +1074,7 @@ started in the deposit will be returned.
 
 相关的主题文章：
 
-  * ['s license Xiao Ming panic](http://www.cliquenote.org/index.php/members/home "http://www.cliquenote.org/index.php/members/home" )
+  * ['s license Xiao Ming panic](http://www.cliquenote.orgmembers/home "http://www.cliquenote.orgmembers/home" )
   * [And leaving Mr Chow angry](http://www.daguotuan.com/bbs/forum.php?mod=viewthread&tid=661 "http://www.daguotuan.com/bbs/forum.php?mod=viewthread&tid=661" )
   * [and sentenced them to three years in prison.](http://www.gmyt8.com/bbs/forum.php?mod=viewthread&tid=573 "http://www.gmyt8.com/bbs/forum.php?mod=viewthread&tid=573" )
 maoyi gongsi ,kuaile zhuang da
@@ -3613,7 +3613,7 @@ relative decline of U.S. power blank, we need more partners. "
 
 Related to the theme articles：
 
-  * [According to Swedish law](http://bestidol.org/en/index.php/User:Sophie2qto#According_to_Swedish_law "http://bestidol.org/en/index.php/User:Sophie2qto#According_to_Swedish_law" )
+  * [According to Swedish law](http://bestidol.org/enUser:Sophie2qto#According_to_Swedish_law "http://bestidol.org/enUser:Sophie2qto#According_to_Swedish_law" )
   * [they are not very clear.](http://www.jizemh.com/bbs/forum.php?mod=viewthread&tid=2870 "http://www.jizemh.com/bbs/forum.php?mod=viewthread&tid=2870" )
   * [was accused of "vulgar in the vulgar".](http://www.fudan.de/home//space.php?uid=27915&do=blog&id=536795 "http://www.fudan.de/home//space.php?uid=27915&do=blog&id=536795" )
 

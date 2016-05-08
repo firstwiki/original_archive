@@ -141,8 +141,8 @@ theory*political parties*political systemsnet/static/css/goarticles550x250
   
 相关的主题文章：
 
-  * [NFL4](http://pulmogenomics.org/index.php/User:Wang496647#NFL4 "http://pulmogenomics.org/index.php/User:Wang496647#NFL4" )
-  * [NFL6](http://wiki.ngopulse.net/index.php/User:Wang500588#NFL6 "http://wiki.ngopulse.net/index.php/User:Wang500588#NFL6" )
+  * [NFL4](http://pulmogenomics.orgUser:Wang496647#NFL4 "http://pulmogenomics.orgUser:Wang496647#NFL4" )
+  * [NFL6](http://wiki.ngopulse.netUser:Wang500588#NFL6 "http://wiki.ngopulse.netUser:Wang500588#NFL6" )
 
 
 ##  NFL5
@@ -187,7 +187,7 @@ Russian, she will be good to you also
   
 相关的主题文章：
 
-  * [NFL8](http://wiki.marway.org/index.php/User:Wang510251#NFL8 "http://wiki.marway.org/index.php/User:Wang510251#NFL8" )
+  * [NFL8](http://wiki.marway.orgUser:Wang510251#NFL8 "http://wiki.marway.orgUser:Wang510251#NFL8" )
   * [NFL0](http://dwxyzh.com/forum.php?mod=viewthread&tid=559232&extra= "http://dwxyzh.com/forum.php?mod=viewthread&tid=559232&extra=" )
 
 
@@ -214,6 +214,6 @@ Russian, she will be good to you also
 
 相关的主题文章：
 
-  * [nfl6](http://wiki.savage-central.com/index.php/User:Wang478926#nfl6 "http://wiki.savage-central.com/index.php/User:Wang478926#nfl6" )
-  * [nfl7](http://www.shareyourholiday.com/index.php/User:Wang496614#nfl7 "http://www.shareyourholiday.com/index.php/User:Wang496614#nfl7" )
+  * [nfl6](http://wiki.savage-central.comUser:Wang478926#nfl6 "http://wiki.savage-central.comUser:Wang478926#nfl6" )
+  * [nfl7](http://www.shareyourholiday.comUser:Wang496614#nfl7 "http://www.shareyourholiday.comUser:Wang496614#nfl7" )
 

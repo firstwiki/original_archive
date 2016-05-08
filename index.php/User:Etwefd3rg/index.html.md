@@ -131,7 +131,7 @@ ArtsRelated Theme Articles:
 
   * &lt;a href="<http://learnmoregolf.com/forum/story.php?title=gucci-outlet-65>" target="_blank"&gt;<http://learnmoregolf.com/forum/story.php?title=gucci-outlet-65>&lt;/a&gt;
   * &lt;a href="<http://exden.com/singles/index.php?p=blogs/viewstory/613048>" target="_blank"&gt;<http://exden.com/singles/index.php?p=blogs/viewstory/613048>&lt;/a&gt;
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefz9rg#Chinese_opera_face-changing_it.27s_a_kind_of_magic>
+  * <http://ko.dbpedia.org/wikiUser:Etwefz9rg#Chinese_opera_face-changing_it.27s_a_kind_of_magic>
 
 
 ##  Madonna's brother to publish book on life with her
@@ -172,9 +172,9 @@ Reuters/Nielsen
 
 Entertainment Fashion People ArtsRelated Theme Articles:
 
-  * <http://nurugel.org/index.php/User:Etwefs6rg>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg>
-  * <http://whatworkswell.net/index.php/User:Etwefj5rg#11_22_63___tops_best-sellers_list_for_second_week>
+  * <http://nurugel.orgUser:Etwefs6rg>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg>
+  * <http://whatworkswell.netUser:Etwefj5rg#11_22_63___tops_best-sellers_list_for_second_week>
 
 
 ##  Gosh! Famous Five get 21st Century makeover
@@ -244,9 +244,9 @@ The new 26-part series starts in May.
 
 ArtsRelated Theme Articles:
 
-  * <http://www.indianmusicguide.com/index.php/User:Etwefb1rg>
-  * <http://totalomics.com/index.php/User:Etwefe5rg#Broadway_talks_go_all_night.3B_strike_continues>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefz9rg#Billy_Idol_promises_drugs.2C_booze_and_women_in_his_memoir>
+  * <http://www.indianmusicguide.comUser:Etwefb1rg>
+  * <http://totalomics.comUser:Etwefe5rg#Broadway_talks_go_all_night.3B_strike_continues>
+  * <http://ko.dbpedia.org/wikiUser:Etwefz9rg#Billy_Idol_promises_drugs.2C_booze_and_women_in_his_memoir>
 
 
 ##  Charlie Sheen bombs in Detroit debacle
@@ -338,7 +338,7 @@ indulgent showcase merely reveals someone far more sad and delusional.
 Entertainment Fashion People ArtsRelated Theme Articles:
 
   * &lt;a href="<http://posizionamento-web.it/immobiliare/story.php?title=coach-outlet-10>" target="_blank"&gt;<http://posizionamento-web.it/immobiliare/story.php?title=coach-outlet-10>&lt;/a&gt;
-  * <http://nurugel.org/index.php/User:Etwefr2rg#Architectural_photographer_enjoys_revival_at_97>
+  * <http://nurugel.orgUser:Etwefr2rg#Architectural_photographer_enjoys_revival_at_97>
   * &lt;a href="<http://www.filedownloadfull.com/porn/showthread.php?p=1994916#post1994916>" target="_blank"&gt;<http://www.filedownloadfull.com/porn/showthread.php?p=1994916#post1994916>&lt;/a&gt;
 
 
@@ -478,7 +478,7 @@ immense mental devastation and physical torment."
 Entertainment Fashion World People Arts GermanyRelated Theme Articles:
 
   * <http://www.eritreaconnect.com/blogs/abc322>
-  * <http://nurugel.org/index.php/User:Etwefr2rg#Conan_Doyle_estate_approves_new_Holmes_story>
+  * <http://nurugel.orgUser:Etwefr2rg#Conan_Doyle_estate_approves_new_Holmes_story>
   * &lt;a href="<http://learnmoregolf.com/forum/story.php?title=louis-vuitton-outlet-5138>" target="_blank"&gt;<http://learnmoregolf.com/forum/story.php?title=louis-vuitton-outlet-5138>&lt;/a&gt;
 
 
@@ -584,9 +584,9 @@ Canadian authors Patrick deWitt and Esi Edugyan for "The Sisters Brothers" and
 
 Entertainment Fashion People ArtsRelated Theme Articles:
 
-  * <http://nurugel.org/index.php/User:Etwefr2rg#Forgotten_Mark_Twain_play_makes_Broadway_debut>
+  * <http://nurugel.orgUser:Etwefr2rg#Forgotten_Mark_Twain_play_makes_Broadway_debut>
   * &lt;a href="<http://atozscan.com/story.php?title=gucci-outlet-9>" target="_blank"&gt;<http://atozscan.com/story.php?title=gucci-outlet-9>&lt;/a&gt;
-  * <http://testanything.org/wiki/index.php/User:Etwefy5rg#Broadway.27s_Spidey_turns_two.2C_breaks_house_record>
+  * <http://testanything.org/wikiUser:Etwefy5rg#Broadway.27s_Spidey_turns_two.2C_breaks_house_record>
 
 
 ##  Matisse bronze could fetch $35 million at auction
@@ -659,7 +659,7 @@ Center in Paris.
 ArtsRelated Theme Articles:
 
   * &lt;a href="<http://www.christopherpatrickdesigns.com/story.php?title=louis-vuitton-factory-outlet-1>" target="_blank"&gt;<http://www.christopherpatrickdesigns.com/story.php?title=louis-vuitton-factory-outlet-1>&lt;/a&gt;
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Nazi_looted_relics_returned_to_former_owner.27s_heirs>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg#Nazi_looted_relics_returned_to_former_owner.27s_heirs>
   * &lt;a href="<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37243>" target="_blank"&gt;<http://hoihoi.netne.net/index.php?p=blogs/viewstory/37243>&lt;/a&gt;
 
 
@@ -793,8 +793,8 @@ Vuitton](http://www.louisvuittonlouisvuitton.com/
 
 ArtsRelated Theme Articles:
 
-  * <http://totalomics.com/index.php/User:Etwefe5rg#Bruce_Lee.2C_Nelson_Mandela_coming_to_Broadway>
-  * <http://www.indianmusicguide.com/index.php/User:Etwefy1rg#Counter_Space__exhibit__Seeking_utopia_in_the_kitchen>
+  * <http://totalomics.comUser:Etwefe5rg#Bruce_Lee.2C_Nelson_Mandela_coming_to_Broadway>
+  * <http://www.indianmusicguide.comUser:Etwefy1rg#Counter_Space__exhibit__Seeking_utopia_in_the_kitchen>
   * &lt;a href="<http://www.skillworksforum.com/index.php?p=blogs/viewstory/1027755>" target="_blank"&gt;<http://www.skillworksforum.com/index.php?p=blogs/viewstory/1027755>&lt;/a&gt;
 
 
@@ -1010,7 +1010,7 @@ with the website www.themitchell.org. The opinions expressed are her own.)
 
 Business TravelerRelated Theme Articles:
 
-  * <http://www.openideaswiki.com/index.php/User:Etwefm8rg#Mary_Poppins__top_nominee_for_NY_theater_awards>
+  * <http://www.openideaswiki.comUser:Etwefm8rg#Mary_Poppins__top_nominee_for_NY_theater_awards>
   * &lt;a href="<http://thatshowimakeit.com/index.php?p=blogs/viewstory/1399483>" target="_blank"&gt;<http://thatshowimakeit.com/index.php?p=blogs/viewstory/1399483>&lt;/a&gt;
   * &lt;a href="<http://freunde.com.br/index.php?p=blogs/viewstory/108564>" target="_blank"&gt;<http://freunde.com.br/index.php?p=blogs/viewstory/108564>&lt;/a&gt;
 
@@ -1372,8 +1372,8 @@ By Shanghai Newsroom, editing by Elaine Lies)
 
 Business TravelerRelated Theme Articles:
 
-  * <http://testanything.org/wiki/index.php/User:Etwefy5rg>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Warhol_painting_among_.242.8_million_Irish_bad_bank_auction>
+  * <http://testanything.org/wikiUser:Etwefy5rg>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa3rg#Warhol_painting_among_.242.8_million_Irish_bad_bank_auction>
   * <http://jejaringsosial.lampungtimurkab.go.id/blogs/viewstory/25328>
 
 
@@ -1665,7 +1665,7 @@ Business Traveler Related Quotes and News Company Price Related NewsRelated
 Theme Articles:
 
   * &lt;a href="<http://makarondu.nazuka.net/index.php?p=blogs/viewstory/23004>" target="_blank"&gt;<http://makarondu.nazuka.net/index.php?p=blogs/viewstory/23004>&lt;/a&gt;
-  * <http://testanything.org/wiki/index.php/User:Etwefy5rg#China_slams_art_magazine_for_honoring_Ai_Weiwei>
+  * <http://testanything.org/wikiUser:Etwefy5rg#China_slams_art_magazine_for_honoring_Ai_Weiwei>
   * <http://sabahpinoy.com/blogs/posts/etwefy3rg>
 
 
@@ -2019,7 +2019,7 @@ Business Traveler Aerospace &amp; Defense Related Quotes and News Company
 Price Related NewsRelated Theme Articles:
 
   * <http://sabahpinoy.com/blogs/posts/etwefy3rg>
-  * <http://www.openideaswiki.com/index.php/User:Etwefc0rg#Radioactive_iodine_from_Japan_found_in_Russia>
+  * <http://www.openideaswiki.comUser:Etwefc0rg#Radioactive_iodine_from_Japan_found_in_Russia>
   * <http://hoihoi.netne.net/index.php?p=blogs/viewstory/38259>
 
 
@@ -2162,9 +2162,9 @@ school and spurred dog sharks -- off of Australia's coast.
 
 Business TravelerRelated Theme Articles:
 
-  * <http://www.openideaswiki.com/index.php/User:Etwefc0rg#Indian_artist_has_brush_with_his_fakes>
+  * <http://www.openideaswiki.comUser:Etwefc0rg#Indian_artist_has_brush_with_his_fakes>
   * <http://www.german-fishing-network.com/blogs/posts/etwefo3rg>
-  * <http://www.iemu.org/index.php/User:Etwefh5rg#Contemporary_artist_Mike_Kelley_found_dead>
+  * <http://www.iemu.orgUser:Etwefh5rg#Contemporary_artist_Mike_Kelley_found_dead>
 
 
 ##  Accor says targeted buys may boost Indian expansion
@@ -2692,9 +2692,9 @@ vuitton](http://www.ssacslouisvuittonparis.com/
 Entertainment Fashion Television People Media Related Quotes and News Company
 Price Related NewsRelated Theme Articles:
 
-  * <http://www.openideaswiki.com/index.php/User:Etwefc0rg#Classical_Brits_to_honor_U.S._film_composer_Williams>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#La_Scala_opens_rehearsals_to_publicize_cuts>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
+  * <http://www.openideaswiki.comUser:Etwefc0rg#Classical_Brits_to_honor_U.S._film_composer_Williams>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg#La_Scala_opens_rehearsals_to_publicize_cuts>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
 
 
 ##  Jimmy Kimmel goes head-to-head with Leno, Letterman
@@ -2751,9 +2751,9 @@ Borse](http://www.louisvuittonborseoutleti.org/
 Entertainment Fashion Television People Media Related Quotes and News Company
 Price Related NewsRelated Theme Articles:
 
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Classical_Brits_to_honor_U.S._film_composer_Williams>
-  * <http://totalomics.com/index.php/User:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
-  * <http://www.iemu.org/index.php/User:Etwefh5rg#Grammys_go_country_for_nominations_concert>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg#Classical_Brits_to_honor_U.S._film_composer_Williams>
+  * <http://totalomics.comUser:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
+  * <http://www.iemu.orgUser:Etwefh5rg#Grammys_go_country_for_nominations_concert>
 
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
@@ -2806,8 +2806,8 @@ Bishopric)
 
 Entertainment Fashion Television MediaRelated Theme Articles:
 
-  * <http://www.firstwiki.net/index.php/User:Etwefd3rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
-  * <http://totalomics.com/index.php/User:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
+  * <http://www.firstwiki.netUser:Etwefd3rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
+  * <http://totalomics.comUser:Etwefe5rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
   * <http://posizionamento-web.it/immobiliare/story.php?title=louis-vuitton-borse-2>
 
 
@@ -3063,7 +3063,7 @@ Angeles; Editing by Vicki Allen and Doina Chiacu)
 Entertainment Fashion FilmRelated Theme Articles:
 
   * <http://thatshowimakeit.com/index.php?p=blogs/viewstory/1521709>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa3rg#Radioactive_particle_traces_from_Japan_reach_Iceland>
   * <http://gatherup.org/blogs/2858/74821/china-to-start-work-on-world-s-h>
 
 
@@ -3221,7 +3221,7 @@ Hay)
 
 Entertainment Fashion Film MusicRelated Theme Articles:
 
-  * <http://www.indianmusicguide.com/index.php/User:Etwefy1rg#Pioneering_comedian_Phyllis_Diller_dies_at_age_95>
+  * <http://www.indianmusicguide.comUser:Etwefy1rg#Pioneering_comedian_Phyllis_Diller_dies_at_age_95>
   * <http://www.adsguideonline.com/ads/pioneering-comedian-phyllis-diller-dies-at-age-95/>
   * <http://www.onlineadspost.com/ads/fox-studio-to-distribute-dreamworks-animation-film-2/>
 
@@ -3344,7 +3344,7 @@ Entertainment Fashion PeopleRelated Theme Articles:
 
   * <http://socialaftermarket.com/blogs/viewstory/62476>
   * <http://www.tradeshowcorner.com/answers/?p=153245>
-  * <http://www.iemu.org/index.php/User:Etwefh5rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
+  * <http://www.iemu.orgUser:Etwefh5rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
 
 
 ##  Grammys go country for nominations concert
@@ -3506,8 +3506,8 @@ Sinha-Roy; Editing by Will Dunham and Bill Trott)
 
 Entertainment Fashion Politics PeopleRelated Theme Articles:
 
-  * <http://testanything.org/wiki/index.php/User:Etwefy5rg#Clues_sought_in_suicide_of_film_director_Tony_Scott>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
+  * <http://testanything.org/wikiUser:Etwefy5rg#Clues_sought_in_suicide_of_film_director_Tony_Scott>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg#Michael_J._Fox_to_star_in_TV_comedy_as_dad_with_Parkinson.27s>
   * <http://william4mary.com/ads/the-office-to-end-run-on-u-s-tv-in-2013/>
 
 
@@ -4285,7 +4285,7 @@ Entertainment Fashion Television MediaRelated Theme Articles:
 
   * <http://www.nusantaraportal.co.de/blogs/viewstory/253453>
   * <http://www.mlmteam.in/ads/pioneering-comedian-phyllis-diller-dies-at-age-95-5/>
-  * <http://occupologist.phpfogapp.com/index.php/User:Etweft2rg#Rosie_O.27Donnell_says_lucky_to_be_here_after_heart_attack>
+  * <http://occupologist.phpfogapp.comUser:Etweft2rg#Rosie_O.27Donnell_says_lucky_to_be_here_after_heart_attack>
 
 
 ##  San Francisco flower power singer Scott McKenzie dead at 7
@@ -4396,7 +4396,7 @@ Entertainment Fashion Television Media Rupert Murdoch Related Quotes and News
 Company Price Related NewsRelated Theme Articles:
 
   * <http://galas.club.lc/index.php?p=blogs/viewstory/12938>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa3rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa3rg#Jimmy_Kimmel_goes_head-to-head_with_Leno.2C_Letterman>
   * <http://www.openintimacy.com/member/blog_post_view.php?postId=46397>
 
 
@@ -4474,7 +4474,7 @@ Entertainment Fashion HealthRelated Theme Articles:
 
   * <http://socialtruther.fightingtyrannyforsalvation.com/activity/p/19983/>
   * <http://mind2tests.tmaze.net/blogs/posts/etwefz0rg>
-  * <http://totalomics.com/index.php/User:Etwefe4rg#Fox_promotes_broadcast_TV_executive_Kevin_Reilly>
+  * <http://totalomics.comUser:Etwefe4rg#Fox_promotes_broadcast_TV_executive_Kevin_Reilly>
 
 
 ##  Michael J. Fox to star in TV comedy as dad with Parkinson's
@@ -4587,7 +4587,7 @@ Related Theme Articles:
 
   * <http://deaf-tv.eu/blogs/posts/etwefs4rg>
   * <http://myanmarlists.com/ads/pioneering-comedian-phyllis-diller-dies-at-age-95-2/>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Etwefa4rg#Brace_yourselves.2C_it.E2.80.99s_the_2011_PIRELLI_CALENDAR.21_.21_.21_Graz>
+  * <http://ko.dbpedia.org/wikiUser:Etwefa4rg#Brace_yourselves.2C_it.E2.80.99s_the_2011_PIRELLI_CALENDAR.21_.21_.21_Graz>
 
 
 ##  Greek tourism rebound needs reforms to last

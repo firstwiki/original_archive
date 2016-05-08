@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 KING-TEC  
 ---  
-[![Team logo](/media/e/e9/2169_logo.png)](/index.php/Image:2169_logo.png "Team
+[![Team logo](/media/e/e9/2169_logo.png)](Image:2169_logo.png "Team
 logo" )  
 Rookie Year: | 2007  
 Inactive Years: | {{{inactive}}}  
@@ -184,7 +184,7 @@ it in 2009.
 
 ### 2008
 
-[![Image:2008_robot.jpg](/media/9/9b/2008_robot.jpg)](/index.php/Image:2008_ro
+[![Image:2008_robot.jpg](/media/9/9b/2008_robot.jpg)](Image:2008_ro
 bot.jpg "Image:2008_robot.jpg" )
 
   * _Incredibly _ strong arm and claw made of TIG-welded Chrome Moly Steel 
@@ -199,7 +199,7 @@ bot.jpg "Image:2008_robot.jpg" )
 
 ### 2007
 
-[![Image:regionals08.jpg](/media/9/99/Regionals08.jpg)](/index.php/Image:Regio
+[![Image:regionals08.jpg](/media/9/99/Regionals08.jpg)](Image:Regio
 nals08.jpg "Image:regionals08.jpg" )
 
   * very simple design 

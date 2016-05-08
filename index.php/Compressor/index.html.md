@@ -6,15 +6,15 @@ Jump to: navigation, search
 
 [![The compressor supplied in the 2008 Kit of
 Parts.](/media/thumb/a/a9/Compressor.PNG/180px-
-Compressor.PNG)](/index.php/Image:Compressor.PNG "The compressor supplied in
+Compressor.PNG)](Image:Compressor.PNG "The compressor supplied in
 the 2008 Kit of Parts." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Compressor.PNG "Enlarge" )
+clip.png)](Image:Compressor.PNG "Enlarge" )
 
 The compressor supplied in the 2008 Kit of Parts.
 
-An **air compressor** is a [pneumatics](/index.php/Pneumatics "Pneumatics" )
+An **air compressor** is a [pneumatics](Pneumatics "Pneumatics" )
 component used to compress air for powering pneumatics systems.
 
 ## Contents
@@ -39,10 +39,10 @@ Air is outputted through a quick connector.
 
 A voltage of +12v is nessecary to run the compressor. Damage to the compressor
 will result if the polarity is reversed. The compressor should be connected to
-a [spike relay](/index.php/Spike_relay "Spike relay" ) to allow the [robot
-controller](/index.php/Robot_controller "Robot controller" ) to automatically
+a [spike relay](Spike_relay "Spike relay" ) to allow the [robot
+controller](Robot_controller "Robot controller" ) to automatically
 control the compressor with the help of a [pressure
-switch](/index.php/Pressure_switch "Pressure switch" ).
+switch](Pressure_switch "Pressure switch" ).
 
 
 ## Current Product Info
@@ -54,12 +54,12 @@ switch](/index.php/Pressure_switch "Pressure switch" ).
 
   
 
-_**[Pneumatics](/index.php/Pneumatics "Pneumatics" ) Parts:**_  
-[Cylinder](/index.php/Cylinder "Cylinder" ) | [Solenoid](/index.php/Solenoid
-"Solenoid" ) | **Compressor** | [Storage tank](/index.php/Storage_tank
-"Storage tank" ) | [Rotary actuator](/index.php/Rotary_actuator "Rotary
-actuator" ) | [Pressure regulator](/index.php/Pressure_regulator "Pressure
-regulator" ) | [Pressure switch](/index.php/Pressure_switch "Pressure switch"
+_**[Pneumatics](Pneumatics "Pneumatics" ) Parts:**_  
+[Cylinder](Cylinder "Cylinder" ) | [Solenoid](Solenoid
+"Solenoid" ) | **Compressor** | [Storage tank](Storage_tank
+"Storage tank" ) | [Rotary actuator](Rotary_actuator "Rotary
+actuator" ) | [Pressure regulator](Pressure_regulator "Pressure
+regulator" ) | [Pressure switch](Pressure_switch "Pressure switch"
 )  
 ---  
   

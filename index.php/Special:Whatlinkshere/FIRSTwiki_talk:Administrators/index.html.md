@@ -23,8 +23,8 @@ talk:Administrators" ) | [500](/index.php?title=Special:Whatlinkshere/FIRSTwik
 i_talk:Administrators&limit=500&from=0 "Special:Whatlinkshere/FIRSTwiki
 talk:Administrators" )).
 
-  * [FIRSTwiki:Community decisions/Archive 1](/index.php/FIRSTwiki:Community_decisions/Archive_1 "FIRSTwiki:Community decisions/Archive 1" )
-  * [User talk:Max/Archive 1](/index.php/User_talk:Max/Archive_1 "User talk:Max/Archive 1" )
+  * [FIRSTwiki:Community decisions/Archive 1](FIRSTwiki:Community_decisions/Archive_1 "FIRSTwiki:Community decisions/Archive 1" )
+  * [User talk:Max/Archive 1](User_talk:Max/Archive_1 "User talk:Max/Archive 1" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/FIRS
 Twiki_talk:Administrators&limit=20&from=0 "Special:Whatlinkshere/FIRSTwiki
 talk:Administrators" ) | [50](/index.php?title=Special:Whatlinkshere/FIRSTwiki

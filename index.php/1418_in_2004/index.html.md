@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 
-## [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
+## [NASA/VCU Regional](NASA/VCU_Regional "NASA/VCU Regional" )
 
-  * [Rookie All-Star Award](/index.php/Rookie_All-Star_Award "Rookie All-Star Award" )
+  * [Rookie All-Star Award](Rookie_All-Star_Award "Rookie All-Star Award" )
 

@@ -12,12 +12,12 @@ Victor 884
 ---  
   
 [![](/media/thumb/a/a2/Victor-884.gif/180px-
-Victor-884.gif)](/index.php/Image:Victor-884.gif "" )
+Victor-884.gif)](Image:Victor-884.gif "" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Victor-884.gif "Enlarge" )  
+clip.png)](Image:Victor-884.gif "Enlarge" )  
   
-Manufacturer: | [Innovation FIRST](/index.php/Innovation_FIRST "Innovation
+Manufacturer: | [Innovation FIRST](Innovation_FIRST "Innovation
 FIRST" )  
 Product Page: | [Victor Speed
 Controller](http://www.vexrobotics.com/products/vexpro/victor-speed-
@@ -26,53 +26,53 @@ controller.html" )
 Data Sheet: | [884 Users' Manual](http://content.vexrobotics.com/docs/ifi-v884
 -users-manual-9-25-06.pdf "http://content.vexrobotics.com/docs/ifi-v884-users-
 manual-9-25-06.pdf" )  
-The [Control System](/index.php/Control_system "Control system" )
+The [Control System](Control_system "Control system" )
 
-**[Logic of a Control System](/index.php/Logic_of_a_control_system "Logic of a control system" )**
+**[Logic of a Control System](Logic_of_a_control_system "Logic of a control system" )**
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-    * [PID controller](/index.php/PID_controller "PID controller" )
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Closed loop](Closed_loop "Closed loop" )
+    * [PID controller](PID_controller "PID controller" )
+  * [Open loop](Open_loop "Open loop" )
 
-**[Parts of a Control System](/index.php/Parts_of_a_control_system "Parts of a control system" )**
+**[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
-  * [Computer](/index.php/Computer "Computer" )
-    * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-      * [2010 RC](/index.php/Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
-      * [2009 RC](/index.php/Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
-      * [2006 RC](/index.php/Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
-      * [2004 RC](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
-      * [2003 RC](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
-      * [2000 RC](/index.php/Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
+  * [Computer](Computer "Computer" )
+    * [Robot Controller](Robot_Controller "Robot Controller" )
+      * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
+      * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
+      * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
+      * [2004 RC](Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
+      * [2003 RC](Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
+      * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](/index.php/Robovation "Robovation" )
-  * [Input](/index.php/Input "Input" )
-    * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-    * [Joystick](/index.php/Joystick "Joystick" )
-  * [Output](/index.php/Output "Output" )
+    * [Robovation](Robovation "Robovation" )
+  * [Input](Input "Input" )
+    * [Operator Interface](Operator_Interface "Operator Interface" )
+    * [Joystick](Joystick "Joystick" )
+  * [Output](Output "Output" )
     * **Victor 884**
-    * [Spike](/index.php/Spike "Spike" )
-    * [Jaguar](/index.php/Jaguar "Jaguar" )
-  * [Sensors](/index.php/Sensor "Sensor" )
-    * [Encoder](/index.php/Encoder "Encoder" )
-    * [Accelerometer](/index.php/Accelerometer "Accelerometer" )
+    * [Spike](Spike "Spike" )
+    * [Jaguar](Jaguar "Jaguar" )
+  * [Sensors](Sensor "Sensor" )
+    * [Encoder](Encoder "Encoder" )
+    * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
-    * [IR sensor](/index.php/IR_sensor "IR sensor" )
-    * [Gyro](/index.php/Gyro "Gyro" )
-    * [CMUcam2](/index.php/CMUcam2 "CMUcam2" )  
+    * [IR sensor](IR_sensor "IR sensor" )
+    * [Gyro](Gyro "Gyro" )
+    * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
-The **Victor 884** is a [speed controller](/index.php/Speed_Controller "Speed
-Controller" ) developed by [Innovation FIRST](/index.php/Innovation_FIRST
+The **Victor 884** is a [speed controller](Speed_Controller "Speed
+Controller" ) developed by [Innovation FIRST](Innovation_FIRST
 "Innovation FIRST" ) as an improved version of the [Victor
-883](/index.php/Victor_883 "Victor 883" ). The Victor 884 works by reading a
-[PWM](/index.php/PWM "PWM" ) signal from a [robot
-controller](/index.php/Robot_controller "Robot controller" ), and adjusting
+883](Victor_883 "Victor 883" ). The Victor 884 works by reading a
+[PWM](PWM "PWM" ) signal from a [robot
+controller](Robot_controller "Robot controller" ), and adjusting
 the effective voltage supplied to the motors accordingly. The Victor 884 was
 the only FIRST legal speed controller allowed in the
-[2005](/index.php/Triple_Play "Triple Play" ) [control
-system](/index.php/Control_system "Control system" ).
+[2005](Triple_Play "Triple Play" ) [control
+system](Control_system "Control system" ).
 
 ## Contents
 
@@ -90,26 +90,26 @@ system](/index.php/Control_system "Control system" ).
 
 [![The Victor 884 Speed Controller. Image source: Innovation
 FIRST](/media/thumb/a/a2/Victor-884.gif/180px-
-Victor-884.gif)](/index.php/Image:Victor-884.gif "The Victor 884 Speed
+Victor-884.gif)](Image:Victor-884.gif "The Victor 884 Speed
 Controller. Image source: Innovation FIRST" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Victor-884.gif "Enlarge" )
+clip.png)](Image:Victor-884.gif "Enlarge" )
 
 The Victor 884 Speed Controller. Image source: [Innovation
-FIRST](/index.php/Innovation_FIRST "Innovation FIRST" )
+FIRST](Innovation_FIRST "Innovation FIRST" )
 
-The Victor 884 is part of the FIRST [control system](/index.php/Control_system
+The Victor 884 is part of the FIRST [control system](Control_system
 "Control system" ). The Victor 884 works by recieving a [PWM
-signal](/index.php/PWM_signal "PWM signal" ) input from a [robot
-controller](/index.php/Robot_controller "Robot controller" ), which may
-include the (full) [Robot Controller](/index.php/Robot_Controller "Robot
-Controller" ), the [Robovation](/index.php/Robovation "Robovation" )
-controller or a [Vex](/index.php/Vex "Vex" ) Controller. Depending on the
-range of the [PWM](/index.php/PWM "PWM" ) signal - with 0 being full reverse,
+signal](PWM_signal "PWM signal" ) input from a [robot
+controller](Robot_controller "Robot controller" ), which may
+include the (full) [Robot Controller](Robot_Controller "Robot
+Controller" ), the [Robovation](Robovation "Robovation" )
+controller or a [Vex](Vex "Vex" ) Controller. Depending on the
+range of the [PWM](PWM "PWM" ) signal - with 0 being full reverse,
 127 being neutral, and 254 being full forward - the Victor 884 adjusts the
 output of the motor accordingly. This achieves a variable speed control for
-such applications as [drivetrains](/index.php/Drive_trains "Drive trains" ),
+such applications as [drivetrains](Drive_trains "Drive trains" ),
 arms, or elevators.
 
 The operating voltage of the Victor 884 ranges from 6V to 15V DC, with a
@@ -121,13 +121,13 @@ cooled.
 
 ### Use
 
-Although some motors may be run on a [Spike](/index.php/Spike "Spike" ) if
-desired, the [CIM motors](/index.php/CIM_motor "CIM motor" ) must use a Victor
+Although some motors may be run on a [Spike](Spike "Spike" ) if
+desired, the [CIM motors](CIM_motor "CIM motor" ) must use a Victor
 884 speed controller. The Victor 884 Speed Controllers may be wired into
 either a 30 Amp or 40 Amp [fuse](/index.php?title=Fuse&action=edit "Fuse" ) on
-the [breaker panel](/index.php/Breaker_panel "Breaker panel" ) depending on
+the [breaker panel](Breaker_panel "Breaker panel" ) depending on
 the motor being used. Each additional motor on a FIRST Competition Robot needs
-to have a Victor 884 or [Spike relay](/index.php/Spike_relay "Spike relay" ).
+to have a Victor 884 or [Spike relay](Spike_relay "Spike relay" ).
 
 
 ### Coast/Brake
@@ -150,8 +150,8 @@ in controllability.
 
 ### Data
 
-A 3-pin [PWM cable](/index.php/PWM_cable "PWM cable" ) connects the Victor 884
-to the [robot controller](/index.php/Robot_controller "Robot controller" ). On
+A 3-pin [PWM cable](PWM_cable "PWM cable" ) connects the Victor 884
+to the [robot controller](Robot_controller "Robot controller" ). On
 the Robot Controller, the PWM cable destined for the Victor 884 speed
 controller should be connected to the "[PWM
 output](/index.php?title=PWM_output&action=edit "PWM output" )" set of ports.
@@ -164,26 +164,26 @@ Victors.
 
 ### Input
 
-The two [input](/index.php/Input "Input" ) terminals on the Victor supply the
+The two [input](Input "Input" ) terminals on the Victor supply the
 power needed to run the speed controller, the cooling fan, and the motor
 output. The cooling fan on the Victor 884 should be wired into the two input
 terminals. This insures that the speed controller stays cool whenever the
 Victor is on. If wired incorrectly to the output terminals, the cooling fan
 will only work when the output motor is being driven, which will lead to over
-heating and the possible release of [magic smoke](/index.php/Magic_smoke
+heating and the possible release of [magic smoke](Magic_smoke
 "Magic smoke" ).
 
 The two input wires must be correctly wired to match their polarity. If the
 polarity of the input wires is switched, the speed controller may cease to
 function. Sparks, arcing, fire, burning smells, or [magic
-smoke](/index.php/Magic_smoke "Magic smoke" ) may indicate that a Victor 884
+smoke](Magic_smoke "Magic smoke" ) may indicate that a Victor 884
 was wired incorrectly, and hence has also been destroyed.
 
 
 ## Programming
 
 The [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs" ) on
-the [Robot Controller](/index.php/Robot_Controller "Robot Controller" ) can be
+the [Robot Controller](Robot_Controller "Robot Controller" ) can be
 set across the normal hobby servo range, 1 to 2 ms. The 8-bit PWM channels
 used on the PIC microprocessor of the Robot Controller (and Vex controller)
 has a resolution of 256 values, which fit in an `unsigned char`. Zero commands

@@ -501,7 +501,7 @@ Related articles:
   * [Excessive Diarrhea Precautions](http://www.wisdomoftheland.net/activity/p/151554/ "http://www.wisdomoftheland.net/activity/p/151554/" )
   * [Jordan Retro 7 Hyundai Beverton OR Reviews in Beav](http://funtimefederation.com/read_blog/125562/jordan-retro-7-hyundai-beverton-or-reviews-in-beav "http://funtimefederation.com/read_blog/125562/jordan-retro-7-hyundai-beverton-or-reviews-in-beav" )
   * &lt;a href="<http://prfestival.com/forums/index.php?topic=62998.msg63016#msg63016>" target="_blank"&gt;Asics Sale All about acute bronchitis( part one)&lt;/a&gt;
-  * [Jordan 7 Charcoal Prostate Cancer Diagnosis - Why You SHOULD](http://thebiblereincarnate.com/index.php/User:Dichit237c#Jordan_7_Charcoal_Prostate_Cancer_Diagnosis_-_Why_You_SHOULD "http://thebiblereincarnate.com/index.php/User:Dichit237c#Jordan_7_Charcoal_Prostate_Cancer_Diagnosis_-_Why_You_SHOULD" )
+  * [Jordan 7 Charcoal Prostate Cancer Diagnosis - Why You SHOULD](http://thebiblereincarnate.comUser:Dichit237c#Jordan_7_Charcoal_Prostate_Cancer_Diagnosis_-_Why_You_SHOULD "http://thebiblereincarnate.comUser:Dichit237c#Jordan_7_Charcoal_Prostate_Cancer_Diagnosis_-_Why_You_SHOULD" )
 
 
 ##  Louboutin Auction
@@ -742,7 +742,7 @@ any major hospitalization or serious complications
 
 Related articles:
 
-  * [Jordan 67 gold pack Tips for Overcoming Anxiety](http://www.qmail-ldap.org/wiki/index.php/User:Kbast230o#Jordan_67_gold_pack_Tips_for_Overcoming_Anxiety "http://www.qmail-ldap.org/wiki/index.php/User:Kbast230o#Jordan_67_gold_pack_Tips_for_Overcoming_Anxiety" )
+  * [Jordan 67 gold pack Tips for Overcoming Anxiety](http://www.qmail-ldap.org/wikiUser:Kbast230o#Jordan_67_gold_pack_Tips_for_Overcoming_Anxiety "http://www.qmail-ldap.org/wikiUser:Kbast230o#Jordan_67_gold_pack_Tips_for_Overcoming_Anxiety" )
   * [Asics Sale The Most Effective Acid Reflux Remedy A](http://webefriendz.com/friends2/index.php?p=blogs/viewstory/272575 "http://webefriendz.com/friends2/index.php?p=blogs/viewstory/272575" )
   * [Asics Sale Make Today What You Think It Should Be!](http://www.vietmotion.com/read_blog/74230/asics-sale-make-today-what-you-think-it-should-be! "http://www.vietmotion.com/read_blog/74230/asics-sale-make-today-what-you-think-it-should-be!" )
   * [6 Ways To Avoid Traffic Offences](http://www.jo4host.com/vb/showthread.php?p=399827#post399827 "http://www.jo4host.com/vb/showthread.php?p=399827#post399827" )
@@ -1223,6 +1223,6 @@ Related articles:
   * [Jordan 7 Retro Keep an Open Mind](http://www.aquahuh.com/index.php?title=User:Creger52p#Jordan_7_Retro_Keep_an_Open_Mind "http://www.aquahuh.com/index.php?title=User:Creger52p#Jordan_7_Retro_Keep_an_Open_Mind" )
   * [cheap nfl shop Activity Tables Fоr Versatile](http://video.hell-house.org/members/trecenggm72 "http://video.hell-house.org/members/trecenggm72" )
   * [How to Create Your List of Positive Affirmations](http://circleofthought.org/activity/p/62403/ "http://circleofthought.org/activity/p/62403/" )
-  * [Jordan 7 The Prettiest Addiction You Might Have](http://the-witcher.demi-gods.co.uk/smf/index.php/topic,143809.msg272222.html#msg272222 "http://the-witcher.demi-gods.co.uk/smf/index.php/topic,143809.msg272222.html#msg272222" )  
+  * [Jordan 7 The Prettiest Addiction You Might Have](http://the-witcher.demi-gods.co.uk/smftopic,143809.msg272222.html#msg272222 "http://the-witcher.demi-gods.co.uk/smftopic,143809.msg272222.html#msg272222" )  
 ---|---  
   

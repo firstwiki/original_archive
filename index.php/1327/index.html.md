@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 SBOTZ TEAM 1327  
 ---  
-[![Team logo](/media/b/b2/Sbotz_logo.gif)](/index.php/Image:Sbotz_logo.gif
+[![Team logo](/media/b/b2/Sbotz_logo.gif)](Image:Sbotz_logo.gif
 "Team logo" )  
 Rookie Year: | 2004  
 Inactive Years: | {{{inactive}}}  
@@ -74,10 +74,10 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=1327
 
 ## *NEW* Please Come See Our Online Store!
 
-[![boy hoody](/media/5/5a/1327sbotz_hoody1.jpg)](/index.php/Image:1327sbotz_ho
+[![boy hoody](/media/5/5a/1327sbotz_hoody1.jpg)](Image:1327sbotz_ho
 ody1.jpg "boy hoody" ) [![boy hoody](/media/9/9c/1327sbotz_hoody2.jpg)](/index
 .php/Image:1327sbotz_hoody2.jpg "boy hoody" ) [![boy
-hoody](/media/9/99/1327sbotz_T1.jpg)](/index.php/Image:1327sbotz_T1.jpg "boy
+hoody](/media/9/99/1327sbotz_T1.jpg)](Image:1327sbotz_T1.jpg "boy
 hoody" ) <http://shop.sbotz.com/>
 
 

@@ -22,8 +22,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Using_CSS&limit=500&from=0
 "Special:Whatlinkshere/Using CSS" )).
 
-  * [How-to](/index.php/How-to "How-to" )
-  * [FIRSTwiki:Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [How-to](How-to "How-to" )
+  * [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Using_CSS&limit=20&from=0
 "Special:Whatlinkshere/Using CSS" ) |

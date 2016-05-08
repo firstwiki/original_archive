@@ -19,11 +19,11 @@ This file needs a better name
 ---  
 Please, try to give this file a better name so it can be easily recognized
 throughout FIRSTwiki. Refer to the [Image Use
-Policy](/index.php/FIRSTwiki:Image_use_policy "FIRSTwiki:Image use policy" )
+Policy](FIRSTwiki:Image_use_policy "FIRSTwiki:Image use policy" )
 for suggestions on how to give it a better name.
 
 If this files name is not fixed it may be subject to
-[deletion](/index.php/Category:Candidates_for_speedy_deletion
+[deletion](Category:Candidates_for_speedy_deletion
 "Category:Candidates for speedy deletion" ).  
   
 ## File history
@@ -47,5 +47,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [334](/index.php/334 "334" )
+  * [334](334 "334" )
 

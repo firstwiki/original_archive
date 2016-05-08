@@ -29,9 +29,9 @@ section: Robotics" )]
 
 ##  Robotics
 
-  * Member and Captain of [1403](/index.php/1403 "1403" )
+  * Member and Captain of [1403](1403 "1403" )
   * Has experience in just about every field (except programing) 
   * Rookie Season: Late 04-Early 05 
   * Also 11 Time Science Olympiad Medalist at New Jersey State Level 
-  * Founder of [FIRSTCast](/index.php?title=FIRSTCast&action=edit "FIRSTCast" ) Former Co-Host With [Adam Richards](/index.php/Adam_Richards "Adam Richards" ) and [Matt Krass](/index.php/Matt_Krass "Matt Krass" )
+  * Founder of [FIRSTCast](/index.php?title=FIRSTCast&action=edit "FIRSTCast" ) Former Co-Host With [Adam Richards](Adam_Richards "Adam Richards" ) and [Matt Krass](Matt_Krass "Matt Krass" )
 

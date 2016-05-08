@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 There are two kit sets that are currently allowed for FLL - the older Lego
 Mindstorms Kit, and the new Mindstorms NXT kit. See [FLL Robot
-Set](/index.php/FLL_Robot_Set "FLL Robot Set" ) for details on this. Both are
+Set](FLL_Robot_Set "FLL Robot Set" ) for details on this. Both are
 electric motors driven by power from either the older Mindstorms or newer NXT
 "brick".
 
@@ -38,7 +38,7 @@ version](http://peeron.com/inv/parts/43362c01
 # Parts limitations
 
 A maximum of three of these electric motors can be used on an FLL competition
-robot. See [FLL Allowable Parts](/index.php/FLL_Allowable_Parts "FLL Allowable
+robot. See [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable
 Parts" ) for more information on what your competition robot can contain.
 
 A wealth of detail on other electric technic motors, as well as weight,
@@ -60,14 +60,14 @@ robot can have.
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Motors_%28FLL%29&action=edit
 "http://www.firstwiki.net/index.php?title=Motors_%28FLL%29&action=edit" ) to
 make a significant article. If you'd like to add to more stubs, look at the
-list of [short articles](/index.php/Special:Shortpages "Special:Shortpages"
+list of [short articles](Special:Shortpages "Special:Shortpages"
 )._  
 ---|---  
   

@@ -4,14 +4,14 @@
 
 Jump to: navigation, search
 
-Welcome to **[FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" )**, the
-[FIRST](/index.php/FIRST "FIRST" ) Wiki! You don't have to [log
-in](/index.php/Special:Userlogin "Special:Userlogin" ) to read or edit
+Welcome to **[FIRSTwiki](FIRSTwiki "FIRSTwiki" )**, the
+[FIRST](FIRST "FIRST" ) Wiki! You don't have to [log
+in](Special:Userlogin "Special:Userlogin" ) to read or edit
 articles on FIRSTwiki, but creating an account is quick, free and non-
 intrusive, requires no personal information, and gives you many benefits,
 including:
 
-[![](/media/1/10/FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+[![](/media/1/10/FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
   * The use of a [username](http://www.wikipedia.org/wiki/Wikipedia:Username "wikipedia:Wikipedia:Username" ) of your choice 
   * Your own [user page](http://www.wikipedia.org/wiki/Wikipedia:user_page "wikipedia:Wikipedia:user_page" )
@@ -19,16 +19,16 @@ including:
   * The ability to view all your contributions via a "My contributions" link 
   * The use of your own personal [watchlist](http://www.wikipedia.org/wiki/Wikipedia:Watchlist "wikipedia:Wikipedia:Watchlist" ) to which you can add articles that interest you 
   * The ability to [rename pages](http://www.wikipedia.org/wiki/Wikipedia:How_to_rename_a_page "wikipedia:Wikipedia:How_to_rename_a_page" )
-  * The ability to [upload images](/index.php/Special:Upload "Special:Upload" )
+  * The ability to [upload images](Special:Upload "Special:Upload" )
   * The ability to customize the appearance and behavior of the website 
-  * The eligibility to become an [administrator](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
+  * The eligibility to become an [administrator](FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
   * The right to be heard in votes and elections 
   * Your IP address will no longer be visible to other users. 
 
 If you wish to continue to contribute without registering, please take note of
-our [style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+our [style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
 to ensure your contributions fit in with the rest of this wiki.
 
 We hope that you choose to become member and  **[create an
-account](/index.php/Special:Userlogin "Special:Userlogin" )**.
+account](Special:Userlogin "Special:Userlogin" )**.
 

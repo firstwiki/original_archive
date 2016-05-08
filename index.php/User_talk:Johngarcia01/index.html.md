@@ -54,8 +54,8 @@ can be proven at the backside of the left aspect of your cover page. You
 profile picture can be proven with every update that you will make. That is
 why it's best to select a professionally looking image in your profile in
 order to create impression in [social networking marketing](http://www.evidenc
-ewarehouse.ocp.dc.gov/index.php/User_talk:Johngarcia01
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Johngarcia01" ).
+ewarehouse.ocp.dc.govUser_talk:Johngarcia01
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Johngarcia01" ).
 You can use a brand as your profile picture. However, any image that
 represents your brand can be a good choice
 

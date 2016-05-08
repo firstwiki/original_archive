@@ -7,7 +7,7 @@ Jump to: navigation, search
 Digital Fusion  
 ---  
 [![](/media/thumb/4/45/1317_logo.gif/150px-
-1317_logo.gif)](/index.php/Image:1317_logo.gif "" )  
+1317_logo.gif)](Image:1317_logo.gif "" )  
 Rookie Year: | 2004  
 Inactive Years: | {{{inactive}}}  
 Location: | Bexley, Ohio  
@@ -81,18 +81,18 @@ families, and lifelong friendships between team members.
 
 ## Robots
 
-  * [Centurion](/index.php/Centurion_%281317%29 "Centurion \(1317\)" )
-  * [Smelborp](/index.php/Smelborp_%281317%29 "Smelborp \(1317\)" )
-  * [Wabash](/index.php/Wabash_%281317%29 "Wabash \(1317\)" )
+  * [Centurion](Centurion_%281317%29 "Centurion \(1317\)" )
+  * [Smelborp](Smelborp_%281317%29 "Smelborp \(1317\)" )
+  * [Wabash](Wabash_%281317%29 "Wabash \(1317\)" )
   * [Shpiffy](/index.php?title=Shpiffy_%281317%29&action=edit "Shpiffy \(1317\)" )
 
 
 ## Accomplishments
 
-  * [2004](/index.php/1317_in_2004 "1317 in 2004" )
-  * [2005](/index.php/1317_in_2005 "1317 in 2005" )
+  * [2004](1317_in_2004 "1317 in 2004" )
+  * [2005](1317_in_2005 "1317 in 2005" )
   * [2006](/index.php?title=1317_in_2006&action=edit "1317 in 2006" )
-  * [2007](/index.php/1317_in_2007 "1317 in 2007" )
+  * [2007](1317_in_2007 "1317 in 2007" )
 
 
 ## Sponsors
@@ -132,7 +132,7 @@ name on list._ _Year is based on year when on team._
   * **David B.** (Programming, Sophomore) 
   * **Laura S.** (Creative, Sophomore) 
   * **Rosa N.** (Drive Train, Sophomore) 
-  * **[Katie Baier](/index.php/Katie_Baier "Katie Baier" )** (Game Specific, Sophomore) 
+  * **[Katie Baier](Katie_Baier "Katie Baier" )** (Game Specific, Sophomore) 
   * **Tim W.** (Game Specific, Freshman) 
   * **Stephen S.** (Game Specific, Freshman) 
   * **Henry K.** (Arm, Freshman) 
@@ -167,18 +167,18 @@ name on list._ _Year is based on year when on team._
     * Tim W. - CDT Mentor, Game Specific 
     * Kyle J. - CDT Leader, Drivetrain 
   * **Professional Mentors**
-    * Retrieved from "<http://www.firstwiki.net/index.php/1317>"
+    * Retrieved from "<http://www.firstwiki.net1317>"
 
 [Categories](/index.php?title=Special:Categories&article=1317
 "Special:Categories" ): [1317](/index.php?title=Category:1317&action=edit
-"Category:1317" ) | [Rookie 2004](/index.php/Category:Rookie_2004
-"Category:Rookie 2004" ) | [Teams](/index.php/Category:Teams "Category:Teams"
+"Category:1317" ) | [Rookie 2004](Category:Rookie_2004
+"Category:Rookie 2004" ) | [Teams](Category:Teams "Category:Teams"
 )
 
 ##### Views
 
-  * [Article](/index.php/1317)
-  * [Discussion](/index.php/Talk:1317)
+  * [Article](1317)
+  * [Discussion](Talk:1317)
   * [Edit](/index.php?title=1317&action=edit)
   * [History](/index.php?title=1317&action=history)
 
@@ -186,17 +186,17 @@ name on list._ _Year is based on year when on team._
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=1317)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -204,10 +204,10 @@ name on list._ _Year is based on year when on team._
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/1317)
-  * [Related changes](/index.php/Special:Recentchangeslinked/1317)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/1317)
+  * [Related changes](Special:Recentchangeslinked/1317)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=1317&printable=yes)
   * [Permanent link](/index.php?title=1317&oldid=69361)
 
@@ -220,7 +220,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 10:46, 28 September 2008.
   * This page has been accessed 6,608 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

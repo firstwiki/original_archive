@@ -8,13 +8,13 @@ Source: [[1]](http://web.archive.org/web/19990508220924/www.usfirst.org/1998co
 mp/fl_winners.html "http://web.archive.org/web/19990508220924/www.usfirst.org/
 1998comp/fl_winners.html" )
 
-**[The Championship Event](/index.php/The_Championship_Event "The Championship Event" )**
+**[The Championship Event](The_Championship_Event "The Championship Event" )**
 
   * [2009](/index.php?title=Championship_Event_%282009%29&action=edit "Championship Event \(2009\)" )
   * [2008](/index.php?title=Championship_Event_%282008%29&action=edit "Championship Event \(2008\)" )
-  * [2007](/index.php/Championship_Event_%282007%29 "Championship Event \(2007\)" )
-  * [2006](/index.php/Championship_Event_%282006%29 "Championship Event \(2006\)" )
-  * [2005](/index.php/Championship_Event_%282005%29 "Championship Event \(2005\)" )
+  * [2007](Championship_Event_%282007%29 "Championship Event \(2007\)" )
+  * [2006](Championship_Event_%282006%29 "Championship Event \(2006\)" )
+  * [2005](Championship_Event_%282005%29 "Championship Event \(2005\)" )
   * [2004](/index.php?title=Championship_Event_%282004%29&action=edit "Championship Event \(2004\)" )
   * [2003](/index.php?title=Championship_Event_%282003%29&action=edit "Championship Event \(2003\)" )
   * [2002](/index.php?title=Championship_Event_%282002%29&action=edit "Championship Event \(2002\)" )
@@ -23,11 +23,11 @@ mp/fl_winners.html "http://web.archive.org/web/19990508220924/www.usfirst.org/
   * [1999](/index.php?title=Championship_Event_%281999%29&action=edit "Championship Event \(1999\)" )
   * **1998**
   * [1997](/index.php?title=Championship_Event_%281997%29&action=edit "Championship Event \(1997\)" )
-  * [1996](/index.php/Championship_Event_%281996%29 "Championship Event \(1996\)" )
+  * [1996](Championship_Event_%281996%29 "Championship Event \(1996\)" )
   * [1995](/index.php?title=Championship_Event_%281995%29&action=edit "Championship Event \(1995\)" )
   * [1994](/index.php?title=Championship_Event_%281994%29&action=edit "Championship Event \(1994\)" )
-  * [1993](/index.php/Championship_Event_%281993%29 "Championship Event \(1993\)" )
-  * [1992](/index.php/Championship_Event_%281992%29 "Championship Event \(1992\)" )  
+  * [1993](Championship_Event_%281993%29 "Championship Event \(1993\)" )
+  * [1992](Championship_Event_%281992%29 "Championship Event \(1992\)" )  
 ---  
   
   
@@ -35,109 +35,109 @@ mp/fl_winners.html "http://web.archive.org/web/19990508220924/www.usfirst.org/
 
 ##  Top 10 Teams
 
-  1. Team [45](/index.php/45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
-  2. Team [121](/index.php/121 "121" ) \- Naval Undersea Warfare Center &amp; Middletown High School (Newport/Middletown, RI) 
-  3. Team [65](/index.php/65 "65" ) \- General Motors Powertrain &amp; Pontiac Northern High School (Pontiac, MI) 
-  4. Team [67](/index.php/67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
+  1. Team [45](45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
+  2. Team [121](121 "121" ) \- Naval Undersea Warfare Center &amp; Middletown High School (Newport/Middletown, RI) 
+  3. Team [65](65 "65" ) \- General Motors Powertrain &amp; Pontiac Northern High School (Pontiac, MI) 
+  4. Team [67](67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
   5. Team [132](/index.php?title=132&action=edit "132" ) \- Panzer Aluminum Products, Inc. &amp; Ely High School/Crystal Lake Middle School (Wilton Manors/Pompano Beach, FL) 
-  6. Team [14](/index.php/14 "14" ) \- Baxter Healthcare Corporation &amp; Lakewood High School Center for Advanced Technologies (St. Petersburg, FL) 
-  7. Team [19](/index.php/19 "19" ) \- Bell Atlantic &amp; Greenwich High School (White Plains, NY/Greenwich, CT) 
-  8. Team [148](/index.php/148 "148" ) \- Raytheon Systems Company &amp; Greenville High School (Greenville, TX) 
-  9. Team [1](/index.php/1 "1" ) \- 3-Dimensional Services &amp; Oakland Technical Center, Northeast Campus (OTC-NE) (Rochester Hills/Oakland, MI) 
-  10. Team [111](/index.php/111 "111" ) \- Motorola, Inc. &amp; Rolling Meadows High School/Wheeling High School (Schaumburg/Rolling Meadows/Wheeling, IL) 
+  6. Team [14](14 "14" ) \- Baxter Healthcare Corporation &amp; Lakewood High School Center for Advanced Technologies (St. Petersburg, FL) 
+  7. Team [19](19 "19" ) \- Bell Atlantic &amp; Greenwich High School (White Plains, NY/Greenwich, CT) 
+  8. Team [148](148 "148" ) \- Raytheon Systems Company &amp; Greenville High School (Greenville, TX) 
+  9. Team [1](1 "1" ) \- 3-Dimensional Services &amp; Oakland Technical Center, Northeast Campus (OTC-NE) (Rochester Hills/Oakland, MI) 
+  10. Team [111](111 "111" ) \- Motorola, Inc. &amp; Rolling Meadows High School/Wheeling High School (Schaumburg/Rolling Meadows/Wheeling, IL) 
 
 
 ##  Award Winners
 
 #1 Seed Award
 
-     Team [177](/index.php/177 "177" ) \- UTC/International Fuel Cells &amp; South Windsor High School (South Windsor, CT) 
+     Team [177](177 "177" ) \- UTC/International Fuel Cells &amp; South Windsor High School (South Windsor, CT) 
 Most Photogenic Award
 
-     Team [73](/index.php/73 "73" ) \- Harris RF Communications/Rochester Institute of Technology &amp; Edison Technical School (Rochester, NY) 
+     Team [73](73 "73" ) \- Harris RF Communications/Rochester Institute of Technology &amp; Edison Technical School (Rochester, NY) 
 Best Play of the Competition Award
 
-     Team [1](/index.php/1 "1" ) \- 3-Dimensional Services &amp; Oakland Technical Center, Northeast Campus (OTC-NE) (Rochester Hills/Oakland, MI) 
+     Team [1](1 "1" ) \- 3-Dimensional Services &amp; Oakland Technical Center, Northeast Campus (OTC-NE) (Rochester Hills/Oakland, MI) 
 Rookie All Star Award #1
 
-     Team [38](/index.php/38 "38" ) \- 9th Wave, Inc. &amp; Nonnewaug High School/Woodbury Middle School/Connecticut Junior Republic School (Southbury/Woodbury, CT) 
+     Team [38](38 "38" ) \- 9th Wave, Inc. &amp; Nonnewaug High School/Woodbury Middle School/Connecticut Junior Republic School (Southbury/Woodbury, CT) 
 Rookie All Star Award #2
 
      Team [46](/index.php?title=46&action=edit "46" ) \- Delphi Energy &amp; Engine Management Systems &amp; Northwestern High School (Flint, MI) 
 Xerox Creativity Award
 
-     Team [71](/index.php/71 "71" ) \- Beatty Machines &amp; Manufacturing &amp; School City of Hammond (Hammond, IN) 
+     Team [71](71 "71" ) \- Beatty Machines &amp; Manufacturing &amp; School City of Hammond (Hammond, IN) 
 Motorola Quality Award
 
-     Team [177](/index.php/177 "177" ) \- UTC/International Fuel Cells &amp; South Windsor High School (South Windsor, CT) 
+     Team [177](177 "177" ) \- UTC/International Fuel Cells &amp; South Windsor High School (South Windsor, CT) 
 Honeywell Leadership in Control Award
 
-     Team [67](/index.php/67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
+     Team [67](67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
 Chrysler Team Spirit Award
 
-     Team [123](/index.php/123 "123" ) \- New Venture Gear, Inc. &amp; Hamtramck High School (Troy/Hamtramck, MI) 
+     Team [123](123 "123" ) \- New Venture Gear, Inc. &amp; Hamtramck High School (Troy/Hamtramck, MI) 
 Featherweight in the Finals Award
 
      Team [132](/index.php?title=132&action=edit "132" ) \- Panzer Aluminum Products, Inc. &amp; Ely High School/Crystal Lake Middle School (Wilton Manors/Pompano Beach, FL) 
 Outstanding Defense Award
 
-     Team [95](/index.php/95 "95" ) \- Lebanon Robotics Team (Hanover/Lebanon, NH) 
+     Team [95](95 "95" ) \- Lebanon Robotics Team (Hanover/Lebanon, NH) 
 Best Offensive Round Award
 
-     Team [111](/index.php/111 "111" ) \- Motorola, Inc. &amp; Rolling Meadows High School/Wheeling High School (Schaumburg/Rolling Meadows/Wheeling, IL) 
+     Team [111](111 "111" ) \- Motorola, Inc. &amp; Rolling Meadows High School/Wheeling High School (Schaumburg/Rolling Meadows/Wheeling, IL) 
 Special Judges Award for All Around Technical Excellance
 
-     Team [45](/index.php/45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
+     Team [45](45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
 Special Judges Award for Spectacular Supporting Player
 
-     Team [188](/index.php/188 "188" ) \- SciCan &amp; Woburn Collegiate Institute (Scarborough, Ontario, Canada) 
+     Team [188](188 "188" ) \- SciCan &amp; Woburn Collegiate Institute (Scarborough, Ontario, Canada) 
 Johnson and Johnson Best Sportsmanship Award
 
-     Team [175](/index.php/175 "175" ) \- UTC/Hamilton Standard Space Systems International/Techni Products &amp; Enrico Fermi High School (Windsor Locks/Enfield, CT/East Longmeadow, MA) 
+     Team [175](175 "175" ) \- UTC/Hamilton Standard Space Systems International/Techni Products &amp; Enrico Fermi High School (Windsor Locks/Enfield, CT/East Longmeadow, MA) 
 Finalist Award
 
-     Team [121](/index.php/121 "121" ) \- Naval Undersea Warfare Center &amp; Middletown High School (Newport/Middletown, RI) 
+     Team [121](121 "121" ) \- Naval Undersea Warfare Center &amp; Middletown High School (Newport/Middletown, RI) 
 National Champion Award
 
-     Team [45](/index.php/45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
+     Team [45](45 "45" ) \- Delphi Delco Electronics Systems &amp; Kokomo High School (Kokomo, IN) 
 Chairman's Award Finalist #1
 
-     Team [16](/index.php/16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
+     Team [16](16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
 Chairman's Award Finalist #2
 
-     Team [67](/index.php/67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
+     Team [67](67 "67" ) \- General Motors Proving Ground &amp; Milford High School/Lakeland High School/Harbor High School (Milford/Highland/White Lake, MI) 
 Chairman's Award Finalist #3
 
-     Team [108](/index.php/108 "108" ) \- Motorola, Inc. &amp; Dillard High School (Plantation/Ft. Lauderdale, FL) 
+     Team [108](108 "108" ) \- Motorola, Inc. &amp; Dillard High School (Plantation/Ft. Lauderdale, FL) 
 Chairman's Award Finalist #4
 
-     Team [120](/index.php/120 "120" ) \- NASA Lewis Research Center/TRW, Inc./Battelle Memorial Institute/The Illuminating Co. &amp; East Technical High School (Cleveland, OH) 
+     Team [120](120 "120" ) \- NASA Lewis Research Center/TRW, Inc./Battelle Memorial Institute/The Illuminating Co. &amp; East Technical High School (Cleveland, OH) 
 Chairman's Award Winner
 
-     Team [23](/index.php/23 "23" ) \- Boston Edison Company &amp; Plymouth North High School (Plymouth, MA) 
+     Team [23](23 "23" ) \- Boston Edison Company &amp; Plymouth North High School (Plymouth, MA) 
 Founder's Award Winner
 
      Johnson &amp; Johnson 
 Autodesk Excellence in Engineering Creativity and Communications Award
 
-     Team [151](/index.php/151 "151" ) \- Sanders, Lockheed Martin/Nashua High School (Nashua, NH) 
+     Team [151](151 "151" ) \- Sanders, Lockheed Martin/Nashua High School (Nashua, NH) 
 Woodie Flowers Award
 
      Michael Bastoni, Plymouth North High School (Plymouth, MA) 
 Daniel Webster College Scholarship
 
-     Team [16](/index.php/16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
+     Team [16](16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
 WPI Design Innovation Scholarship
 
-     Team [201](/index.php/201 "201" ) \- Rochester High School (Rochester Hills, MI) 
-    Team [16](/index.php/16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
+     Team [201](201 "201" ) \- Rochester High School (Rochester Hills, MI) 
+    Team [16](16 "16" ) \- Baxter Healthcare Corporation &amp; Mountain Home High School (Mountain Home, AR) 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Championship_Event_%281998%29>"
+"<http://www.firstwiki.netChampionship_Event_%281998%29>"
 
 ##### Views
 
-  * [Article](/index.php/Championship_Event_%281998%29)
+  * [Article](Championship_Event_%281998%29)
   * [Discussion](/index.php?title=Talk:Championship_Event_%281998%29&action=edit)
   * [Edit](/index.php?title=Championship_Event_%281998%29&action=edit)
   * [History](/index.php?title=Championship_Event_%281998%29&action=history)
@@ -146,17 +146,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Championship_Event_\(1998\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -164,10 +164,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Championship_Event_%281998%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Championship_Event_%281998%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Championship_Event_%281998%29)
+  * [Related changes](Special:Recentchangeslinked/Championship_Event_%281998%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Championship_Event_%281998%29&printable=yes)
   * [Permanent link](/index.php?title=Championship_Event_%281998%29&oldid=59335)
 
@@ -180,7 +180,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:29, 16 April 2007.
   * This page has been accessed 1,376 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

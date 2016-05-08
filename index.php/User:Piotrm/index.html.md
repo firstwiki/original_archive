@@ -7,7 +7,7 @@ Jump to: navigation, search
 
 ## Who am I
 
-I am Piotr Mardziel, a college student on team [190](/index.php/190 "190" ).
+I am Piotr Mardziel, a college student on team [190](190 "190" ).
 
 
 ## Contact

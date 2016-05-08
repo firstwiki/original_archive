@@ -24,7 +24,7 @@ al:Whatlinkshere/User:PurpleMonkeyKing&limit=250&from=0
 al:Whatlinkshere/User:PurpleMonkeyKing&limit=500&from=0
 "Special:Whatlinkshere/User:PurpleMonkeyKing" )).
 
-  * [FIRSTwiki:Featured article candidates](/index.php/FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates" )
+  * [FIRSTwiki:Featured article candidates](FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :PurpleMonkeyKing&limit=20&from=0
 "Special:Whatlinkshere/User:PurpleMonkeyKing" ) | [50](/index.php?title=Specia

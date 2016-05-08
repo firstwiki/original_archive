@@ -22,7 +22,7 @@ Whatlinkshere/User:213.228.84.66&limit=250&from=0
 Whatlinkshere/User:213.228.84.66&limit=500&from=0
 "Special:Whatlinkshere/User:213.228.84.66" )).
 
-  * [Talk:Main Page](/index.php/Talk:Main_Page "Talk:Main Page" )
+  * [Talk:Main Page](Talk:Main_Page "Talk:Main Page" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :213.228.84.66&limit=20&from=0 "Special:Whatlinkshere/User:213.228.84.66" ) |
 [50](/index.php?title=Special:Whatlinkshere/User:213.228.84.66&limit=50&from=0

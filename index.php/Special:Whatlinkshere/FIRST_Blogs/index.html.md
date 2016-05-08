@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/FIRST_Blogs&limit=500&from=0
 "Special:Whatlinkshere/FIRST Blogs" )).
 
-  * [FIRSTwiki:Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [FIRSTwiki:Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/FIRST_Blogs&limit=20&from=0
 "Special:Whatlinkshere/FIRST Blogs" ) |

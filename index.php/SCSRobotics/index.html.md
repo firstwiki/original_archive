@@ -7,7 +7,7 @@ Jump to: navigation, search
 _SCSRobotics_  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | 2002  
 US State Or Country: | Ontario  
 City: | Toronto  
@@ -15,13 +15,13 @@ School: | St. Clement's School
 <http://www.scsrobotics.com>  
   
 Find other [FLL teams founded in
-2002](/index.php/Category:FLL_teams_founded_in_2002 "Category:FLL teams
+2002](Category:FLL_teams_founded_in_2002 "Category:FLL teams
 founded in 2002" )
 
-Find other [FLL teams from Ontario](/index.php/Category:FLL_teams_from_Ontario
+Find other [FLL teams from Ontario](Category:FLL_teams_from_Ontario
 "Category:FLL teams from Ontario" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   

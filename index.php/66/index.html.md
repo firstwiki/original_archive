@@ -5,10 +5,10 @@
 Jump to: navigation, search
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=66&action=edit
 "http://www.firstwiki.net/index.php?title=66&action=edit" )** this article.  
@@ -16,7 +16,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=66&action=edit
 ---|---  
 _The Willow Run Flyers_  
 ---  
-[![Team logo](/media/0/0b/66_logo.jpg)](/index.php/Image:66_logo.jpg "Team
+[![Team logo](/media/0/0b/66_logo.jpg)](Image:66_logo.jpg "Team
 logo" )  
 Rookie Year: | 1998  
 Location: | Ypsilanti MI USA  

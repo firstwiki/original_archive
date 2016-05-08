@@ -23,9 +23,9 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Short_circuit&limit=500&from=0
 "Special:Whatlinkshere/Short circuit" )).
 
-  * [Modifying a servo](/index.php/Modifying_a_servo "Modifying a servo" )
-  * [Talk:Modifying a servo](/index.php/Talk:Modifying_a_servo "Talk:Modifying a servo" )
-  * [Magic smoke](/index.php/Magic_smoke "Magic smoke" )
+  * [Modifying a servo](Modifying_a_servo "Modifying a servo" )
+  * [Talk:Modifying a servo](Talk:Modifying_a_servo "Talk:Modifying a servo" )
+  * [Magic smoke](Magic_smoke "Magic smoke" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Short_circuit&limit=20&from=0
 "Special:Whatlinkshere/Short circuit" ) |

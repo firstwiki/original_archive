@@ -4,6 +4,6 @@
 
 Jump to: navigation, search
 
-[![Image:341team07.jpg](/media/4/46/341team07.jpg)](/index.php/Image:341team07
+[![Image:341team07.jpg](/media/4/46/341team07.jpg)](Image:341team07
 .jpg "Image:341team07.jpg" )
 

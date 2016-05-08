@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 _RoboKnights_  
 ---  
-[![Image:Bg_cb8v.jpg](/media/c/ce/Bg_cb8v.jpg)](/index.php/Image:Bg_cb8v.jpg
+[![Image:Bg_cb8v.jpg](/media/c/ce/Bg_cb8v.jpg)](Image:Bg_cb8v.jpg
 "Image:Bg_cb8v.jpg" )  
 Rookie Year: | 2005  
 US State Or Country: | Georgia  
@@ -15,13 +15,13 @@ School: | Pace Academy
 [[1]](http://www.roboknights.us "http://www.roboknights.us" )  
   
 Find other [FLL teams founded in
-2005](/index.php/Category:FLL_teams_founded_in_2005 "Category:FLL teams
+2005](Category:FLL_teams_founded_in_2005 "Category:FLL teams
 founded in 2005" )
 
-Find other [FLL teams from Georgia](/index.php/Category:FLL_teams_from_Georgia
+Find other [FLL teams from Georgia](Category:FLL_teams_from_Georgia
 "Category:FLL teams from Georgia" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   

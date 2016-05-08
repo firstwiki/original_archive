@@ -54,7 +54,7 @@ by the programming environment.
 ## Key Features
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -62,20 +62,20 @@ _
 [Please add more content](http://www.firstwiki.net/index.php?title=Robot_Contr
 oller_%282010%29&action=edit "http://www.firstwiki.net/index.php?title=Robot_C
 ontroller_%282010%29&action=edit" ) to make a significant article. _See more
-[stubs](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[stubs](Special:Shortpages "Special:Shortpages" )._  
   
 ---|---  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Robot_Controller_%282010%29>"
+"<http://www.firstwiki.netRobot_Controller_%282010%29>"
 
 [Category](/index.php?title=Special:Categories&article=Robot_Controller_%28201
-0%29 "Special:Categories" ): [Stubs](/index.php/Category:Stubs
+0%29 "Special:Categories" ): [Stubs](Category:Stubs
 "Category:Stubs" )
 
 ##### Views
 
-  * [Article](/index.php/Robot_Controller_%282010%29)
+  * [Article](Robot_Controller_%282010%29)
   * [Discussion](/index.php?title=Talk:Robot_Controller_%282010%29&action=edit)
   * [Edit](/index.php?title=Robot_Controller_%282010%29&action=edit)
   * [History](/index.php?title=Robot_Controller_%282010%29&action=history)
@@ -84,17 +84,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Robot_Controller_\(2010\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -102,10 +102,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Robot_Controller_%282010%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Robot_Controller_%282010%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Robot_Controller_%282010%29)
+  * [Related changes](Special:Recentchangeslinked/Robot_Controller_%282010%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Robot_Controller_%282010%29&printable=yes)
   * [Permanent link](/index.php?title=Robot_Controller_%282010%29&oldid=75213)
 
@@ -118,7 +118,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 13:05, 3 March 2010.
   * This page has been accessed 345 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

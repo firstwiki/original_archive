@@ -4,13 +4,13 @@
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
 The title should be "[Common Name Here] Motor." You should also provide a
 REDIRECT from "[Technical Product Name] Motor" to the correct page. Make sure
 to add a link to your motor page from
-[Template:FIRSTwiki_motorindex](/index.php/Template:FIRSTwiki_motorindex
+[Template:FIRSTwiki_motorindex](Template:FIRSTwiki_motorindex
 "Template:FIRSTwiki motorindex" ).
 
 * * *
@@ -19,7 +19,7 @@ to add a link to your motor page from
 
 Motor page format  
 ---  
-[![Image:motorpic.jpg](/media/c/ca/Motorpic.jpg)](/index.php/Image:Motorpic.jp
+[![Image:motorpic.jpg](/media/c/ca/Motorpic.jpg)](Image:Motorpic.jp
 g "Image:motorpic.jpg" )  
 Stall current (amps) |  number  
 Stall torque (in-lb) |  number  
@@ -65,27 +65,27 @@ Free speed (rpm) |  number
   * and be named 
   * "[motorname] (old)" 
 _**FIRSTwiki Motor Index:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) |
-[Window](/index.php/Window_motor "Window motor" ) |
+[Chiaphua/CIM](CIM_motor "CIM motor" ) |
+[Window](Window_motor "Window motor" ) |
 [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van
-door](/index.php/Van_door_motor "Van door motor" ) |
-[Drill](/index.php/Drill_motor "Drill motor" ) | [Fisher
-Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )  
+door](Van_door_motor "Van door motor" ) |
+[Drill](Drill_motor "Drill motor" ) | [Fisher
+Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )  
 ---  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Motor_page_format>"
+"<http://www.firstwiki.netFIRSTwiki:Motor_page_format>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3AMotor_page_
 format "Special:Categories" ): [Official Page
-Formats](/index.php/Category:Official_Page_Formats "Category:Official Page
+Formats](Category:Official_Page_Formats "Category:Official Page
 Formats" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Motor_page_format)
+  * [Project page](FIRSTwiki:Motor_page_format)
   * [Discussion](/index.php?title=FIRSTwiki_talk:Motor_page_format&action=edit)
   * [Edit](/index.php?title=FIRSTwiki:Motor_page_format&action=edit)
   * [History](/index.php?title=FIRSTwiki:Motor_page_format&action=history)
@@ -94,17 +94,17 @@ Formats" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Motor_page_format)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -112,10 +112,10 @@ Formats" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Motor_page_format)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Motor_page_format)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Motor_page_format)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Motor_page_format)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Motor_page_format&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Motor_page_format&oldid=67893)
 
@@ -128,7 +128,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 06:21, 6 May 2008.
   * This page has been accessed 1,049 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

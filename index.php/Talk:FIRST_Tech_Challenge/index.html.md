@@ -12,26 +12,26 @@ section: FTC" )]
 Why the hell is this still FVC? It is now officially FTC. Move this article,
 because people said my article was improperly formatted, because it doesnt
 have Vex next to the team, but this whole website is improperly updated.
-[Czarbender](/index.php/User:Czarbender "User:Czarbender" ) 23:17, 6 September
+[Czarbender](User:Czarbender "User:Czarbender" ) 23:17, 6 September
 2007 (EDT)
 
-  * Well, partly because not much information has been available regarding FTC. That, and there aren't a whole lot of people around here to make the nessesary changes. I could change the name (or move it or whatever) if someone else wants to rewrite it. [Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ) 15:24, 7 September 2007 (EDT) 
+  * Well, partly because not much information has been available regarding FTC. That, and there aren't a whole lot of people around here to make the nessesary changes. I could change the name (or move it or whatever) if someone else wants to rewrite it. [Cbale2000](User:Cbale2000 "User:Cbale2000" ) 15:24, 7 September 2007 (EDT) 
 
     
 
-    Let's wait until September 19th to make that page [Czarbender](/index.php/User:Czarbender "User:Czarbender" ) 04:12, 8 September 2007 (EDT) 
+    Let's wait until September 19th to make that page [Czarbender](User:Czarbender "User:Czarbender" ) 04:12, 8 September 2007 (EDT) 
 
 There's an official FTC article on wikipedia, i think that article should just
-be copied over and archive this old article \--[Lyncas](/index.php/User:Lyncas
+be copied over and archive this old article \--[Lyncas](User:Lyncas
 "User:Lyncas" ) 23:16, 30 May 2008 (EDT)
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Talk:FIRST_Tech_Challenge>"
+"<http://www.firstwiki.netTalk:FIRST_Tech_Challenge>"
 
 ##### Views
 
-  * [Article](/index.php/FIRST_Tech_Challenge)
-  * [Discussion](/index.php/Talk:FIRST_Tech_Challenge)
+  * [Article](FIRST_Tech_Challenge)
+  * [Discussion](Talk:FIRST_Tech_Challenge)
   * [Edit](/index.php?title=Talk:FIRST_Tech_Challenge&action=edit)
   * [+](/index.php?title=Talk:FIRST_Tech_Challenge&action=edit&section=new)
   * [History](/index.php?title=Talk:FIRST_Tech_Challenge&action=history)
@@ -40,17 +40,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:FIRST_Tech_Challenge)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -58,10 +58,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Talk:FIRST_Tech_Challenge)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Talk:FIRST_Tech_Challenge)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Talk:FIRST_Tech_Challenge)
+  * [Related changes](Special:Recentchangeslinked/Talk:FIRST_Tech_Challenge)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Talk:FIRST_Tech_Challenge&printable=yes)
   * [Permanent link](/index.php?title=Talk:FIRST_Tech_Challenge&oldid=68205)
 
@@ -74,7 +74,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:53, 4 June 2008.
   * This page has been accessed 346 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

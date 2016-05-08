@@ -23,7 +23,7 @@ le=Special:Whatlinkshere/The_Proffessor_%281110%29&limit=250&from=0
 cial:Whatlinkshere/The_Proffessor_%281110%29&limit=500&from=0
 "Special:Whatlinkshere/The Proffessor \(1110\)" )).
 
-  * [1110](/index.php/1110 "1110" )
+  * [1110](1110 "1110" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/The_
 Proffessor_%281110%29&limit=20&from=0 "Special:Whatlinkshere/The Proffessor
 \(1110\)" ) | [50](/index.php?title=Special:Whatlinkshere/The_Proffessor_%2811

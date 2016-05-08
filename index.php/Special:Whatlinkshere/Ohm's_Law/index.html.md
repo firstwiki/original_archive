@@ -22,11 +22,11 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Ohm%27s_Law&limit=500&from=0
 "Special:Whatlinkshere/Ohm's Law" )).
 
-  * [Physics](/index.php/Physics "Physics" )
-  * [FIRSTwiki:Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Resistance](/index.php/Resistance "Resistance" )
-  * [Electric current](/index.php/Electric_current "Electric current" )
-  * [Voltage](/index.php/Voltage "Voltage" )
+  * [Physics](Physics "Physics" )
+  * [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Resistance](Resistance "Resistance" )
+  * [Electric current](Electric_current "Electric current" )
+  * [Voltage](Voltage "Voltage" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Ohm%27s_Law&limit=20&from=0
 "Special:Whatlinkshere/Ohm's Law" ) |

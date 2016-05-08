@@ -4,5 +4,5 @@
 
 Jump to: navigation, search
 
-**This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) [bureaucrat](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
+**This user is a [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) [bureaucrat](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
 

@@ -47,8 +47,8 @@ Both PHP and access to a database are required.
 
 ##  Founders; History
 
-The openFIRST project was founded by Tim Ginn (team [1006](/index.php/1006
-"1006" )) and David DiBiase (team [1049](/index.php/1049 "1049" )) in 2003.
+The openFIRST project was founded by Tim Ginn (team [1006](1006
+"1006" )) and David DiBiase (team [1049](1049 "1049" )) in 2003.
 
 
 ##  Volunteers
@@ -72,13 +72,13 @@ HOWTO](http://openfirst.org/doc/tut/howto/
   * [IRC channel](irc://irc.freenode.net#openfirst "irc://irc.freenode.net#openfirst" )on irc.freenode.net (rarely used) 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=OpenFIRST&action=edit
 "http://www.firstwiki.net/index.php?title=OpenFIRST&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

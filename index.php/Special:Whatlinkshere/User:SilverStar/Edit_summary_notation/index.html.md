@@ -25,10 +25,10 @@ t_summary_notation&limit=250&from=0
 .php?title=Special:Whatlinkshere/User:SilverStar/Edit_summary_notation&limit=5
 00&from=0 "Special:Whatlinkshere/User:SilverStar/Edit summary notation" )).
 
-  * [MediaWiki:Histlegend](/index.php/MediaWiki:Histlegend "MediaWiki:Histlegend" )
-  * [MediaWiki:Recentchangestext](/index.php/MediaWiki:Recentchangestext "MediaWiki:Recentchangestext" )
-  * [User:SilverStar](/index.php/User:SilverStar "User:SilverStar" )
-  * [FIRSTwiki:Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [MediaWiki:Histlegend](MediaWiki:Histlegend "MediaWiki:Histlegend" )
+  * [MediaWiki:Recentchangestext](MediaWiki:Recentchangestext "MediaWiki:Recentchangestext" )
+  * [User:SilverStar](User:SilverStar "User:SilverStar" )
+  * [FIRSTwiki:Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :SilverStar/Edit_summary_notation&limit=20&from=0
 "Special:Whatlinkshere/User:SilverStar/Edit summary notation" ) | [50](/index.

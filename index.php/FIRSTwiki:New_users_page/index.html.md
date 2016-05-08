@@ -6,28 +6,28 @@
 
 Jump to: navigation, search
 
-**[Community Portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
+**[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
 
-  * **[Help page](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**
+  * **[Help page](FIRSTwiki:Help "FIRSTwiki:Help" )**
   * **New users page**
-  * [User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [How to edit](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
-  * [Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
-  * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * [User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [How to edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * [Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+  * [Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
 
 * * *
 
-  * [Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
-  * [Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Administrator Guide](/index.php/FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
-  * [To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
+  * [Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Administrator Guide](FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
+  * [To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
   
-**Welcome** to the [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ), a collaborative project of the [FIRST community](/index.php/FIRST_community "FIRST community" ) to provide an historical record and other resources for the [FIRST Robotics Program](/index.php/FIRST "FIRST" ). 
+**Welcome** to the [FIRSTwiki](FIRSTwiki "FIRSTwiki" ), a collaborative project of the [FIRST community](FIRST_community "FIRST community" ) to provide an historical record and other resources for the [FIRST Robotics Program](FIRST "FIRST" ). 
 
 [[edit](/index.php?title=FIRSTwiki:New_users_page&action=edit&section=1 "Edit
 section: What we are" )]
@@ -36,8 +36,8 @@ section: What we are" )]
 
 We are a **wiki**, meaning anybody can edit any of our pages (including this
 one). We believe that by providing open content we can better serve the FIRST
-community. To learn more about [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ),
-read our [mission statement](/index.php/FIRSTwiki:Mission_statement
+community. To learn more about [FIRSTwiki](FIRSTwiki "FIRSTwiki" ),
+read our [mission statement](FIRSTwiki:Mission_statement
 "FIRSTwiki:Mission statement" ).
 
 [[edit](/index.php?title=FIRSTwiki:New_users_page&action=edit&section=2 "Edit
@@ -45,7 +45,7 @@ section: Where to start" )]
 
 ## Where to start
 
-The [Main page](/index.php/Main_page "Main page" ) provides a useful resource
+The [Main page](Main_page "Main page" ) provides a useful resource
 to start browsing our content. We hope to have what you are looking for, but
 if not, you can help try to provide the content yourself (see below for tips
 on editing). We appreciate your feedback, so whether you have a recommendation
@@ -61,7 +61,7 @@ section: Getting more information" )]
 To edit a page, all you have to do is click on the _Edit this page_ link and
 start typing away. However, to understand the slew of special editing marks
 and formats and style guidelines, please visit our **[help
-pages](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**. These pages are
+pages](FIRSTwiki:Help "FIRSTwiki:Help" )**. These pages are
 designed to give you an overview of everything you need to know to start
 editing quickly. Please note that your contribution is more important to us
 than the specific formatting you use -- so [be bold in updating

@@ -12,5 +12,5 @@ Also, a lot of this information should be moved to a how-to guide on
 soldering, and this article should be confined to explain what soldering is,
 its usefulness and then refer to other resources. The how-to guide is,
 undoubtedly, good and useful ... but it belongs elsewhere IMO.
---[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 17:04, 29 Jun 2004 (EDT)
+--[Mrawls](User:Mrawls "User:Mrawls" ) 17:04, 29 Jun 2004 (EDT)
 

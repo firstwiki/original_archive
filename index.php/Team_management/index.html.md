@@ -12,7 +12,7 @@ a support group to help mentors with the non-technical aspects of the team.
 For more information contact KathieK on Chief Delphi.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -20,7 +20,7 @@ _
 [Please add more
 content](http://firstwiki.net/index.php?title=Team_management&action=edit
 "http://firstwiki.net/index.php?title=Team_management&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  

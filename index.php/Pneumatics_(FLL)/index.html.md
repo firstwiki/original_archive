@@ -5,23 +5,23 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more content](http://www.firstwiki.net/index.php?title=Pneumatics_
 %28FLL%29&action=edit
 "http://www.firstwiki.net/index.php?title=Pneumatics_%28FLL%29&action=edit" )
 to make a significant article. If you'd like to add to more stubs, look at the
-list of [short articles](/index.php/Special:Shortpages "Special:Shortpages"
+list of [short articles](Special:Shortpages "Special:Shortpages"
 )._  
 ---|---  
   
   
 
 Pneumatics are a legal (but advanced) component of [FLL
-robots](/index.php/FLL_robot "FLL robot" ) and can provide an alternative to
+robots](FLL_robot "FLL robot" ) and can provide an alternative to
 motor action. This can allow a team to increase robot functionality without
-exceeding the 3 electric [motor](/index.php/Motor_%28FLL%29 "Motor \(FLL\)" )
+exceeding the 3 electric [motor](Motor_%28FLL%29 "Motor \(FLL\)" )
 limitation.
 
 LEGO Pneumatics consist of:

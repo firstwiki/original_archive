@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:85.99.29.44&limit=500&from=0
 "Special:Whatlinkshere/User:85.99.29.44" )).
 
-  * [Talk:Main Page](/index.php/Talk:Main_Page "Talk:Main Page" )
+  * [Talk:Main Page](Talk:Main_Page "Talk:Main Page" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:85.99.29.44&limit=20&from=0
 "Special:Whatlinkshere/User:85.99.29.44" ) |

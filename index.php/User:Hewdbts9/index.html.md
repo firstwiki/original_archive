@@ -1222,7 +1222,7 @@ ridiculous-with China's market currently swamped with sham Louis Vuitton and
 imitations, even though your Louis Vuitton bag is actually authentic [Amazines
 Louis Vuitton Handbags The Actual Which m](http://www.openideaswiki.com/index.
 php/User:Hewdbts9#Amazines_Louis_Vuitton_Handbags_The_Actual_Which_m "http://w
-ww.openideaswiki.com/index.php/User:Hewdbts9#Amazines_Louis_Vuitton_Handbags_T
+ww.openideaswiki.comUser:Hewdbts9#Amazines_Louis_Vuitton_Handbags_T
 he_Actual_Which_m" ), nice people out of ten will take it being a replica
 designer.  
   

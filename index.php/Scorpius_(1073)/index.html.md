@@ -4,14 +4,14 @@
 
 Jump to: navigation, search
 
-**Scorpius** was the robot built by Team [1073](/index.php/1073 "1073" ) in 2004 for [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" ). 
+**Scorpius** was the robot built by Team [1073](1073 "1073" ) in 2004 for [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" ). 
 
 [![Scorpius in action](/media/thumb/5/50/1073_Scorpius2.jpg/180px-
-1073_Scorpius2.jpg)](/index.php/Image:1073_Scorpius2.jpg "Scorpius in action"
+1073_Scorpius2.jpg)](Image:1073_Scorpius2.jpg "Scorpius in action"
 )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1073_Scorpius2.jpg "Enlarge" )
+clip.png)](Image:1073_Scorpius2.jpg "Enlarge" )
 
 Scorpius in action
 
@@ -79,11 +79,11 @@ section: Robot" )]
 ## Robot
 
 [![Scorpius during gameplay](/media/thumb/1/15/1073_Scorpius1.jpg/180px-
-1073_Scorpius1.jpg)](/index.php/Image:1073_Scorpius1.jpg "Scorpius during
+1073_Scorpius1.jpg)](Image:1073_Scorpius1.jpg "Scorpius during
 gameplay" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1073_Scorpius1.jpg "Enlarge" )
+clip.png)](Image:1073_Scorpius1.jpg "Enlarge" )
 
 Scorpius during gameplay
 

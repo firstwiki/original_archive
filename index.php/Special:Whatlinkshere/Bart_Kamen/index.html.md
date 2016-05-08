@@ -24,8 +24,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Bart_Kamen&limit=500&from=0
 "Special:Whatlinkshere/Bart Kamen" )).
 
-  * [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" )
-  * [Libby Kamen](/index.php/Libby_Kamen "Libby Kamen" )
+  * [Dean Kamen](Dean_Kamen "Dean Kamen" )
+  * [Libby Kamen](Libby_Kamen "Libby Kamen" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Bart_Kamen&limit=20&from=0
 "Special:Whatlinkshere/Bart Kamen" ) |

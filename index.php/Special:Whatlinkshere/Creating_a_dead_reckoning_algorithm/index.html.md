@@ -25,7 +25,7 @@ imit=250&from=0 "Special:Whatlinkshere/Creating a dead reckoning algorithm" )
 ithm&limit=500&from=0 "Special:Whatlinkshere/Creating a dead reckoning
 algorithm" )).
 
-  * [Sample Code](/index.php/Sample_Code "Sample Code" )
+  * [Sample Code](Sample_Code "Sample Code" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Crea
 ting_a_dead_reckoning_algorithm&limit=20&from=0
 "Special:Whatlinkshere/Creating a dead reckoning algorithm" ) | [50](/index.ph

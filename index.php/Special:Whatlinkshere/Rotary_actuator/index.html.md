@@ -23,14 +23,14 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=500&from=0
 "Special:Whatlinkshere/Rotary actuator" )).
 
-  * [Pneumatics](/index.php/Pneumatics "Pneumatics" )
-  * [Solenoid](/index.php/Solenoid "Solenoid" )
-  * [Cylinder](/index.php/Cylinder "Cylinder" )
-  * [Compressor](/index.php/Compressor "Compressor" )
-  * [Storage tank](/index.php/Storage_tank "Storage tank" )
-  * [Pressure regulator](/index.php/Pressure_regulator "Pressure regulator" )
-  * [Pressure switch](/index.php/Pressure_switch "Pressure switch" )
-  * [Template:Pneumatics parts](/index.php/Template:Pneumatics_parts "Template:Pneumatics parts" )
+  * [Pneumatics](Pneumatics "Pneumatics" )
+  * [Solenoid](Solenoid "Solenoid" )
+  * [Cylinder](Cylinder "Cylinder" )
+  * [Compressor](Compressor "Compressor" )
+  * [Storage tank](Storage_tank "Storage tank" )
+  * [Pressure regulator](Pressure_regulator "Pressure regulator" )
+  * [Pressure switch](Pressure_switch "Pressure switch" )
+  * [Template:Pneumatics parts](Template:Pneumatics_parts "Template:Pneumatics parts" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=20&from=0
 "Special:Whatlinkshere/Rotary actuator" ) |

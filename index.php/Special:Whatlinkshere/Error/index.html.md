@@ -22,8 +22,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Error&limit=500&from=0
 "Special:Whatlinkshere/Error" )).
 
-  * [PID controller](/index.php/PID_controller "PID controller" )
-  * [596](/index.php/596 "596" )
+  * [PID controller](PID_controller "PID controller" )
+  * [596](596 "596" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Error&limit=20&from=0
 "Special:Whatlinkshere/Error" ) |

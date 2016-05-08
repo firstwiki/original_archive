@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-There are several mailing lists related to [FIRST](/index.php/FIRST "FIRST" ).
+There are several mailing lists related to [FIRST](FIRST "FIRST" ).
 
   
 

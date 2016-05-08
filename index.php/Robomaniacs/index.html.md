@@ -7,7 +7,7 @@ Jump to: navigation, search
 _RoboManiacs_  
 ---  
 [![Team logo](/media/thumb/5/54/Champion_logo_copy.jpg/200px-
-Champion_logo_copy.jpg)](/index.php/Image:Champion_logo_copy.jpg "Team logo" )  
+Champion_logo_copy.jpg)](Image:Champion_logo_copy.jpg "Team logo" )  
 Rookie Year: | 2003  
 US State Or Country: | Maryland  
 City: | Aberdeen  
@@ -16,14 +16,14 @@ of Harford County
 <http://www.bgcharford.org/robomaniacs>  
   
 Find other [FLL teams founded in
-2003](/index.php/Category:FLL_teams_founded_in_2003 "Category:FLL teams
+2003](Category:FLL_teams_founded_in_2003 "Category:FLL teams
 founded in 2003" )
 
 Find other [FLL teams from
-Maryland](/index.php/Category:FLL_teams_from_Maryland "Category:FLL teams from
+Maryland](Category:FLL_teams_from_Maryland "Category:FLL teams from
 Maryland" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -188,7 +188,7 @@ competition.
   * **Maryland State Tournament (2006)** Robot Performance Champion, 1st place - Technical 
   * **European Championship (2006)** 9th place- Performance ; 3rd place tie - Teamwork; 7th place Overall 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 

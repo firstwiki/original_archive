@@ -16,7 +16,7 @@ very similar to the retail LEGO Mindstorms kit that can be purchased in toy
 stores with the addition of some specific parts and generally more plastic
 parts to support the needs of an FLL team.
 
-**Important Note:** You are allowed to use LEGO pieces from almost all LEGO product lines so any LEGO your team already owns can most likely be used. There are some restrictions - see [FLL Allowable Parts](/index.php/FLL_Allowable_Parts "FLL Allowable Parts" ) for details. 
+**Important Note:** You are allowed to use LEGO pieces from almost all LEGO product lines so any LEGO your team already owns can most likely be used. There are some restrictions - see [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts" ) for details. 
 
 ## Contents
 
@@ -68,12 +68,12 @@ The kit contains all items in the [3804-1](http://peeron.com/inv/sets/3804-1
   * 1 additional light sensor (total of 2) 
   * 1 Rotation Sensor 
   * Wires to go with above additional items 
-  * [RoboLab](/index.php/RoboLab "RoboLab" ) software (in addition to the [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) software) 
+  * [RoboLab](RoboLab "RoboLab" ) software (in addition to the [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) software) 
   * A few extra plastic parts not normally in the retail kit 
 
 
 # See Also:
 
-  * [FLL Allowable Parts](/index.php/FLL_Allowable_Parts "FLL Allowable Parts" )
-  * [Programming (FLL)](/index.php/Programming_%28FLL%29 "Programming \(FLL\)" )
+  * [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts" )
+  * [Programming (FLL)](Programming_%28FLL%29 "Programming \(FLL\)" )
 

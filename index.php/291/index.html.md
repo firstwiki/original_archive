@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 CIA  
 ---  
-[![Image:CIA_old_logo.gif](/media/9/94/CIA_old_logo.gif)](/index.php/Image:CIA
+[![Image:CIA_old_logo.gif](/media/9/94/CIA_old_logo.gif)](Image:CIA
 _old_logo.gif "Image:CIA_old_logo.gif" )  
 Rookie Year: | 1999  
 Inactive Years: | {{{inactive}}}  

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A [dead reckoning](/index.php/Dead_reckoning "Dead reckoning" ) algorithm is
+A [dead reckoning](Dead_reckoning "Dead reckoning" ) algorithm is
 the simplest and quickest to implement type of autonomous control for a robot
 to implement. The robot does not use any sensory input and simply follows a
 predefined set of "directions" stored as hardcoded (or in
@@ -64,7 +64,7 @@ on=3 "Edit section: Mechanical systems" )]
 
 FIRST Robots are very diverse, meaning that control algorithms are never
 universal. The most common drive train system, however, is what is known as
-the [skid steer](/index.php/Skid_steer "Skid steer" ). Essentially, this means
+the [skid steer](Skid_steer "Skid steer" ). Essentially, this means
 that each side of the robot (left and right) are independently controlled. You
 have one or more motors driving the left side, and a mirror system driving the
 right side.
@@ -75,9 +75,9 @@ motor per side.
 
 ### Controller quirks
 
-The [Victor 884](/index.php/Victor_884 "Victor 884" ) receive signals from the
-[Robot Controller](/index.php/Robot_Controller "Robot Controller" ) via [PWM
-signals](/index.php/PWM_signal "PWM signal" ). These allow the Robot
+The [Victor 884](Victor_884 "Victor 884" ) receive signals from the
+[Robot Controller](Robot_Controller "Robot Controller" ) via [PWM
+signals](PWM_signal "PWM signal" ). These allow the Robot
 controller to pass values between 0 and 254 to the speed controller. PWM
 values are stored in 8-bit `unsigned char` so they are limited to values from
 0-255, but note that using value of 255
@@ -141,7 +141,7 @@ like this:
 Things to notice:
 
   * Don't change the name of the autonomous code function itself unless you plan to change it in main.c also. This is _not_ recommended. 
-  * Autonomous mode occurs inside it's own while loop. The input and output has to be run inside this loop, or you will stay in autonomous mode forever. If GetData(&amp;rxdata) is never called, the autonomous_mode flag will never be unset! By the same token, one can adjust PWM values, but if Putdata(&amp;txdata) is never called, then updated PWM values will not be sent to the [master processor](/index.php/Master_processor "Master processor" ) and consequently not be outputted on the PWM pins. Make sure you don't remove those two statements! 
+  * Autonomous mode occurs inside it's own while loop. The input and output has to be run inside this loop, or you will stay in autonomous mode forever. If GetData(&amp;rxdata) is never called, the autonomous_mode flag will never be unset! By the same token, one can adjust PWM values, but if Putdata(&amp;txdata) is never called, then updated PWM values will not be sent to the [master processor](Master_processor "Master processor" ) and consequently not be outputted on the PWM pins. Make sure you don't remove those two statements! 
 
 Now on to the really interesting part!
 
@@ -236,7 +236,7 @@ on=9 "Edit section: Moving Forward" )]
 
 So, on the first run through of this code, the _step_ variable is zero, so it
 will execute commands in case zero. We want it to go forward, so, according to
-the [skid steer](/index.php/Skid_steer "Skid steer" ) model, we need to set
+the [skid steer](Skid_steer "Skid steer" ) model, we need to set
 both the left motor and right motor to full forwards. In C code, that is...
 
     
@@ -371,7 +371,7 @@ It's time for an application of the classic problem solving technique of
 _Guess &amp; Check_. Put any values that you think are reasonable into place
 instead of those 400s. Download the code into your robot, set it into
 autonomous mode with a [Competition port
-dongle](/index.php/Competition_port_dongle "Competition port dongle" ), and
+dongle](Competition_port_dongle "Competition port dongle" ), and
 see what it does. If it goes too far, take some cycles off the appropriate
 timer. If it doesn't spin enough, on that spin timer add a few extra cycles.
 The idea here is to just play with it until you get it right!
@@ -411,16 +411,16 @@ tracker](/index.php?title=Line_tracker&action=edit "Line tracker" ) or
 [infrared](/index.php?title=Infrared&action=edit "Infrared" ) following robot
 instead. A [copycat](/index.php?title=Copycat&action=edit "Copycat" ) system
 is an improvement on this design, while a guidance system involving
-[accelerometers](/index.php/Accelerometer "Accelerometer" ) would be a true
+[accelerometers](Accelerometer "Accelerometer" ) would be a true
 boon to those teams who are capable of implementing it.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Creating_a_dead_reckoning_algorithm>"
+"<http://www.firstwiki.netCreating_a_dead_reckoning_algorithm>"
 
 ##### Views
 
-  * [Article](/index.php/Creating_a_dead_reckoning_algorithm)
-  * [Discussion](/index.php/Talk:Creating_a_dead_reckoning_algorithm)
+  * [Article](Creating_a_dead_reckoning_algorithm)
+  * [Discussion](Talk:Creating_a_dead_reckoning_algorithm)
   * [Edit](/index.php?title=Creating_a_dead_reckoning_algorithm&action=edit)
   * [History](/index.php?title=Creating_a_dead_reckoning_algorithm&action=history)
 
@@ -428,17 +428,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Creating_a_dead_reckoning_algorithm)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -446,10 +446,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Creating_a_dead_reckoning_algorithm)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Creating_a_dead_reckoning_algorithm)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Creating_a_dead_reckoning_algorithm)
+  * [Related changes](Special:Recentchangeslinked/Creating_a_dead_reckoning_algorithm)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Creating_a_dead_reckoning_algorithm&printable=yes)
   * [Permanent link](/index.php?title=Creating_a_dead_reckoning_algorithm&oldid=42416)
 
@@ -462,7 +462,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 03:59, 14 January 2006.
   * This page has been accessed 3,390 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

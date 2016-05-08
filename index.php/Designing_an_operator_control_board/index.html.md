@@ -57,11 +57,11 @@ well.
   * I realize i have bad grammer and spelling, but i was rushed and more worried about people getting good info than a good experiance. please edit/format it if you have the time, it owuld really be apreciated 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Designing_an_operator_control_board>"
+"<http://www.firstwiki.netDesigning_an_operator_control_board>"
 
 ##### Views
 
-  * [Article](/index.php/Designing_an_operator_control_board)
+  * [Article](Designing_an_operator_control_board)
   * [Discussion](/index.php?title=Talk:Designing_an_operator_control_board&action=edit)
   * [Edit](/index.php?title=Designing_an_operator_control_board&action=edit)
   * [History](/index.php?title=Designing_an_operator_control_board&action=history)
@@ -70,17 +70,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Designing_an_operator_control_board)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -88,10 +88,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Designing_an_operator_control_board)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Designing_an_operator_control_board)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Designing_an_operator_control_board)
+  * [Related changes](Special:Recentchangeslinked/Designing_an_operator_control_board)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Designing_an_operator_control_board&printable=yes)
   * [Permanent link](/index.php?title=Designing_an_operator_control_board&oldid=46277)
 
@@ -104,7 +104,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 19:03, 14 April 2006.
   * This page has been accessed 350 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

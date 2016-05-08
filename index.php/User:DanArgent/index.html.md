@@ -18,7 +18,7 @@ Jump to: navigation, search
 
 ## Team related info
 
-  * Team:[1418](/index.php/1418 "1418" )
+  * Team:[1418](1418 "1418" )
   * Joined FIRST wiki: 2 June 2004 
   * Year: Junior 
   * Team Jobs: 
@@ -38,8 +38,8 @@ Jump to: navigation, search
 ## Background
 
 I got involved with first this year (2004). I was one of the founding memers
-of [1418](/index.php/1418 "1418" ), the same team as
-[Phrontist](/index.php/User:Phrontist "User:Phrontist" ). I wandered about for
+of [1418](1418 "1418" ), the same team as
+[Phrontist](User:Phrontist "User:Phrontist" ). I wandered about for
 a while doing whatever needed to be done because we were terribly unorganized
 at first. I found my position though as the 'tool master' of my team. I am
 responsible for knowing where ever tool is and keeping the shop organized.

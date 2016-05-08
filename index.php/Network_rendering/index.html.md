@@ -10,13 +10,13 @@ _Note: This article is written assuming that the rendering is taking place on
 a network of Windows 2000 computers with restricted user privileges, and that
 the user has a network drive with a large storage capacity available._
 
-**Network rendering** is the process of getting multiple computers to render the individual frames of an [animation](/index.php/Animation "Animation" ) in order to decrease the amount of time needed before the animation is complete. The animation for the [Autodesk Visualization Competition](/index.php/Autodesk_Visualization_Award "Autodesk Visualization Award" ) is limited to being thirty seconds long. 30 seconds of animation at about 30 frames per second is 900 rendered frames. In some cases, one frame rendered relatively photo realistically can take two hours to render. If one computer were to render a 900 frame animation, taking two hours to render each frame, it would take seventy-five days to render. By using a lab of twenty computers, it would take less than four days. This makes it possible to complete an animation during the period of the competition, and be able to render it at nights when the computer lab is not being used for teaching. 
+**Network rendering** is the process of getting multiple computers to render the individual frames of an [animation](Animation "Animation" ) in order to decrease the amount of time needed before the animation is complete. The animation for the [Autodesk Visualization Competition](Autodesk_Visualization_Award "Autodesk Visualization Award" ) is limited to being thirty seconds long. 30 seconds of animation at about 30 frames per second is 900 rendered frames. In some cases, one frame rendered relatively photo realistically can take two hours to render. If one computer were to render a 900 frame animation, taking two hours to render each frame, it would take seventy-five days to render. By using a lab of twenty computers, it would take less than four days. This makes it possible to complete an animation during the period of the competition, and be able to render it at nights when the computer lab is not being used for teaching. 
 
 In order to network render, a team must have access to a group of computers on
 a network. This is the first step, find a group of relatively fast computers
 on the same network (preferably in the same room, but it isn’t required) that
 won't be needed overnight at any time during the competition. Each computer
-must have a copy of [3D Studio Max](/index.php/3D_Studio_Max "3D Studio Max" )
+must have a copy of [3D Studio Max](3D_Studio_Max "3D Studio Max" )
 on it for the rendering to work. In the case of this competition, if a school
 doesn't have a lab of computers with 3DS Max on it that can be used by a team,
 an alternative is to install an unregistered trial version of 3DS Max onto
@@ -32,11 +32,11 @@ and even the manager computer can run a server at the same time. The monitor
 is just a program that allows the user to interface with the manager.
 
 [![Rendering Window](/media/thumb/7/75/Render_scene_net_render.jpg/180px-
-Render_scene_net_render.jpg)](/index.php/Image:Render_scene_net_render.jpg
+Render_scene_net_render.jpg)](Image:Render_scene_net_render.jpg
 "Rendering Window" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Render_scene_net_render.jpg "Enlarge" )
+clip.png)](Image:Render_scene_net_render.jpg "Enlarge" )
 
 Rendering Window
 
@@ -59,11 +59,11 @@ folder that was created on the network drive. Then start the rendering.
 
 [![Network Job Assignment dialog
 box](/media/thumb/4/41/Network_job_assignment.jpg/180px-
-Network_job_assignment.jpg)](/index.php/Image:Network_job_assignment.jpg
+Network_job_assignment.jpg)](Image:Network_job_assignment.jpg
 "Network Job Assignment dialog box" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Network_job_assignment.jpg "Enlarge" )
+clip.png)](Image:Network_job_assignment.jpg "Enlarge" )
 
 Network Job Assignment dialog box
 

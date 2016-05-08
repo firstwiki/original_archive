@@ -25,7 +25,7 @@ Although a few LEGO gurus have created their own programming languages, the
 only ones permitted at the competitions are:
 
   * [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) \- The programming language that comes with the retail LEGO Mindstorms Kit. 
-  * [RoboLab](/index.php/RoboLab "RoboLab" ) \- The programming language that comes with the LEGO Education versions of Mindstorms. 
+  * [RoboLab](RoboLab "RoboLab" ) \- The programming language that comes with the LEGO Education versions of Mindstorms. 
   * With the release of the new NXT, its programming software is permitted as well. 
 
 If you order the FLL Education + Competition set as part of your team

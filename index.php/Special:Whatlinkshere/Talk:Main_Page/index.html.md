@@ -25,8 +25,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Talk:Main_Page&limit=500&from=0
 "Special:Whatlinkshere/Talk:Main Page" )).
 
-  * [User talk:Cbale2000](/index.php/User_talk:Cbale2000 "User talk:Cbale2000" )
-  * [Talk:Main Page/Archive 1](/index.php/Talk:Main_Page/Archive_1 "Talk:Main Page/Archive 1" )
+  * [User talk:Cbale2000](User_talk:Cbale2000 "User talk:Cbale2000" )
+  * [Talk:Main Page/Archive 1](Talk:Main_Page/Archive_1 "Talk:Main Page/Archive 1" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Talk:Main_Page&limit=20&from=0
 "Special:Whatlinkshere/Talk:Main Page" ) |

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
 Use this page format to create a page for an official qualifying Tournament.
@@ -19,7 +19,7 @@ is your state (ex [[Category:FLL New York Tournaments]] if you were creating a
 New York tournament.
 
 A working example can be found at
-[CT_Enfield_Tournament](/index.php/CT_Enfield_Tournament "CT Enfield
+[CT_Enfield_Tournament](CT_Enfield_Tournament "CT Enfield
 Tournament" ).
 
 * * *
@@ -39,7 +39,7 @@ Tournament" ).
   * **Current Location: **
   * **Primary Sponsors:**
   * **Number of Teams Supported:**
-  * **Event Type:** [Qualifying Tournament](/index.php/FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
+  * **Event Type:** [Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
   * **Official web site for tournament:**
   * **Contact:**
   * **FIRST Team Sponsors/Hosts:**
@@ -67,9 +67,9 @@ e_format&action=edit&section=4 "Edit section: Results" )]
 
 See Also:
 
-  * [FIRST LEGO State Tournaments](/index.php/Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
-  * [FIRST LEGO Local Tournaments](/index.php/Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
-  * [FIRST LEGO Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO State Tournaments](Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
+  * [FIRST LEGO Local Tournaments](Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
+  * [FIRST LEGO Events](Category:FLL_Events "Category:FLL Events" )
 
   
 

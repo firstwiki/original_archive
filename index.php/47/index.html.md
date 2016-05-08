@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Chief Delphi  
 ---  
-[![47's logo](/media/2/2f/Chiefdelphi.gif)](/index.php/Image:Chiefdelphi.gif
+[![47's logo](/media/2/2f/Chiefdelphi.gif)](Image:Chiefdelphi.gif
 "47's logo" )  
 Rookie Year: | 1996  
 Inactive Years: | {{{inactive}}}  
@@ -25,13 +25,13 @@ Team Website: | [Official Team Website](http://www.chiefdelphi.com
   
 
 [![ ](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif " " ) |  **This article or
+FIRST_logo.gif)](Image:FIRST_logo.gif " " ) |  **This article or
 section needs to be updated.**  
 Parts of this article or section have been identified as no longer being up to
 date.  
 Please update the article to reflect recent events, and remove this template
 when finished. |  [![ ](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png
-/50px-600px-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+/50px-600px-Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png " " )  
 ---|---|---  
   
@@ -106,13 +106,13 @@ The Championship Event, Atlanta, Georgia
   * [Chief Delphi Website](http://www.chiefdelphi.com "http://www.chiefdelphi.com" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=47&action=edit
 "http://www.firstwiki.net/index.php?title=47&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

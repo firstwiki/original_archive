@@ -9,30 +9,30 @@ Jump to: navigation, search
 Index of FRC Games  
 ---  
   
-  * 2011 [Rebound Rumble](/index.php/Rebound_Rumble "Rebound Rumble" )
-  * 2011 [Logo Motion](/index.php/Logo_Motion "Logo Motion" )
-  * 2010 [Breakaway](/index.php/Breakaway "Breakaway" )
-  * 2009 [Lunacy](/index.php/Lunacy "Lunacy" )
-  * 2008 [FIRST Overdrive](/index.php/FIRST_Overdrive "FIRST Overdrive" )
-  * 2007 [Rack 'n' Roll](/index.php/Rack_%27n%27_Roll "Rack 'n' Roll" )
+  * 2011 [Rebound Rumble](Rebound_Rumble "Rebound Rumble" )
+  * 2011 [Logo Motion](Logo_Motion "Logo Motion" )
+  * 2010 [Breakaway](Breakaway "Breakaway" )
+  * 2009 [Lunacy](Lunacy "Lunacy" )
+  * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
+  * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
   * 2006 **Aim High**
-  * 2005 [Triple Play](/index.php/Triple_Play "Triple Play" )
-  * 2004 [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
-  * 2003 [Stack Attack](/index.php/Stack_Attack "Stack Attack" )
-  * 2002 [Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" )
-  * 2001 [Diabolical Dynamics](/index.php/Diabolical_Dynamics "Diabolical Dynamics" )
-  * 2000 [Co-Opertition FIRST](/index.php/Co-Opertition_FIRST "Co-Opertition FIRST" )
-  * 1999 [Double Trouble](/index.php/Double_Trouble "Double Trouble" )
-  * 1998 [Ladder Logic](/index.php/Ladder_Logic "Ladder Logic" )
-  * 1997 [Toroid Terror](/index.php/Toroid_Terror "Toroid Terror" )
-  * 1996 [Hexagon Havoc](/index.php/Hexagon_Havoc "Hexagon Havoc" )
-  * 1995 [Ramp n' Roll](/index.php/Ramp_n%27_Roll "Ramp n' Roll" )
-  * 1994 [Tower Power](/index.php/Tower_Power "Tower Power" )
-  * 1993 [Rug Rage](/index.php/Rug_Rage "Rug Rage" )
-  * 1992 [Maize Craze](/index.php/Maize_Craze "Maize Craze" )  
+  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
+  * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
+  * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
+  * 2001 [Diabolical Dynamics](Diabolical_Dynamics "Diabolical Dynamics" )
+  * 2000 [Co-Opertition FIRST](Co-Opertition_FIRST "Co-Opertition FIRST" )
+  * 1999 [Double Trouble](Double_Trouble "Double Trouble" )
+  * 1998 [Ladder Logic](Ladder_Logic "Ladder Logic" )
+  * 1997 [Toroid Terror](Toroid_Terror "Toroid Terror" )
+  * 1996 [Hexagon Havoc](Hexagon_Havoc "Hexagon Havoc" )
+  * 1995 [Ramp n' Roll](Ramp_n%27_Roll "Ramp n' Roll" )
+  * 1994 [Tower Power](Tower_Power "Tower Power" )
+  * 1993 [Rug Rage](Rug_Rage "Rug Rage" )
+  * 1992 [Maize Craze](Maize_Craze "Maize Craze" )  
   
   
-**Aim High** was the name of the 2006 season [FIRST](/index.php/FIRST "FIRST" ) [game](/index.php/FRC_Games "FRC Games" ). 
+**Aim High** was the name of the 2006 season [FIRST](FIRST "FIRST" ) [game](FRC_Games "FRC Games" ). 
 
 ## Contents
 
@@ -51,9 +51,9 @@ Index of FRC Games
 ## Game Description
 
 [![Aim High](/media/thumb/0/02/250px-Aim_High_Logo.png/200px-250px-
-Aim_High_Logo.png)](/index.php/Image:250px-Aim_High_Logo.png "Aim High" )
+Aim_High_Logo.png)](Image:250px-Aim_High_Logo.png "Aim High" )
 
-[![Enlarge](/skins/common/images/magnify-clip.png)](/index.php/Image:250px-
+[![Enlarge](/skins/common/images/magnify-clip.png)](Image:250px-
 Aim_High_Logo.png "Enlarge" )
 
 Aim High
@@ -114,10 +114,10 @@ alliance's goals are on the far side of the field. The field is flat,
 measuring 54 feet long by 26 feet wide.
 
 [![ARENA '06](/media/thumb/c/c5/ARENA06.jpg/200px-
-ARENA06.jpg)](/index.php/Image:ARENA06.jpg "ARENA '06" )
+ARENA06.jpg)](Image:ARENA06.jpg "ARENA '06" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:ARENA06.jpg "Enlarge" )
+clip.png)](Image:ARENA06.jpg "Enlarge" )
 
 ARENA '06
 
@@ -163,11 +163,11 @@ attend the national competition.
 
 ## Kit of Parts
 
-There were several changes in the [kit of parts](/index.php/Kit_of_parts "Kit
+There were several changes in the [kit of parts](Kit_of_parts "Kit
 of parts" ) this year,
 
-  * The inclusion of the [National Instruments](/index.php?title=National_Instruments&action=edit "National Instruments" ) [LabVIEW](/index.php/LabVIEW "LabVIEW" ) program 
-  * CMUCam II, including a pan/tilt assembly with [servos](/index.php/Servo "Servo" ), designed to follow an illuminated target 
+  * The inclusion of the [National Instruments](/index.php?title=National_Instruments&action=edit "National Instruments" ) [LabVIEW](LabVIEW "LabVIEW" ) program 
+  * CMUCam II, including a pan/tilt assembly with [servos](Servo "Servo" ), designed to follow an illuminated target 
   * A new robot controller, based on the PIC18F8722, instead of the PIC18F8520 
   * New EasyC programming tool 
   * New, wider CIM motors with drive belts 

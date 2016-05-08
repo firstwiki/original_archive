@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [22:19, 24 June 2009](/media/a/a3/ChairmansClock.jpg "/media/a/a3/ChairmansClock.jpg" ) . . [Boydean](/index.php/User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" )) . . 537x600 (124977 bytes) (Chairman's Award Championship Clock.)
+  * (del) (cur) [22:19, 24 June 2009](/media/a/a3/ChairmansClock.jpg "/media/a/a3/ChairmansClock.jpg" ) . . [Boydean](User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" )) . . 537x600 (124977 bytes) (Chairman's Award Championship Clock.)
   
 
   * [Edit this file using an external application](/index.php?title=Image:ChairmansClock.jpg&action=edit&externaledit=true&mode=file "Image:ChairmansClock.jpg" )
@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" )
+  * [Chairman's Award](Chairman%27s_Award "Chairman's Award" )
 
 ## Metadata
 

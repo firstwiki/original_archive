@@ -6,47 +6,47 @@
 
 Jump to: navigation, search
 
-The [Control System](/index.php/Control_system "Control system" )
+The [Control System](Control_system "Control system" )
 
-**[Logic of a Control System](/index.php/Logic_of_a_control_system "Logic of a control system" )**
+**[Logic of a Control System](Logic_of_a_control_system "Logic of a control system" )**
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-    * [PID controller](/index.php/PID_controller "PID controller" )
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Closed loop](Closed_loop "Closed loop" )
+    * [PID controller](PID_controller "PID controller" )
+  * [Open loop](Open_loop "Open loop" )
 
-**[Parts of a Control System](/index.php/Parts_of_a_control_system "Parts of a control system" )**
+**[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
-  * [Computer](/index.php/Computer "Computer" )
-    * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-      * [2010 RC](/index.php/Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
-      * [2009 RC](/index.php/Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
-      * [2006 RC](/index.php/Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
-      * [2004 RC](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
-      * [2003 RC](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
-      * [2000 RC](/index.php/Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
+  * [Computer](Computer "Computer" )
+    * [Robot Controller](Robot_Controller "Robot Controller" )
+      * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
+      * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
+      * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
+      * [2004 RC](Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
+      * [2003 RC](Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
+      * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
     * **Robovation**
-  * [Input](/index.php/Input "Input" )
-    * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-    * [Joystick](/index.php/Joystick "Joystick" )
-  * [Output](/index.php/Output "Output" )
-    * [Victor 884](/index.php/Victor_884 "Victor 884" )
-    * [Spike](/index.php/Spike "Spike" )
-    * [Jaguar](/index.php/Jaguar "Jaguar" )
-  * [Sensors](/index.php/Sensor "Sensor" )
-    * [Encoder](/index.php/Encoder "Encoder" )
-    * [Accelerometer](/index.php/Accelerometer "Accelerometer" )
+  * [Input](Input "Input" )
+    * [Operator Interface](Operator_Interface "Operator Interface" )
+    * [Joystick](Joystick "Joystick" )
+  * [Output](Output "Output" )
+    * [Victor 884](Victor_884 "Victor 884" )
+    * [Spike](Spike "Spike" )
+    * [Jaguar](Jaguar "Jaguar" )
+  * [Sensors](Sensor "Sensor" )
+    * [Encoder](Encoder "Encoder" )
+    * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
-    * [IR sensor](/index.php/IR_sensor "IR sensor" )
-    * [Gyro](/index.php/Gyro "Gyro" )
-    * [CMUcam2](/index.php/CMUcam2 "CMUcam2" )  
+    * [IR sensor](IR_sensor "IR sensor" )
+    * [Gyro](Gyro "Gyro" )
+    * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
-**Robovation** refers to the educational, mini-robot platform sponsored by [FIRST](/index.php/FIRST "FIRST" ). It was first released during the 2003 season as a new idea to give teams a task to do during the Fall, which would also be a big help to [rookie teams](/index.php?title=Rookie_team&action=edit "Rookie team" ) and new members of [veteran teams](/index.php?title=Veteran_team&action=edit "Veteran team" ). The idea is that Robovation provides teams a small, simulated experience of the real [build season](/index.php/Build_season "Build season" ). [Fabrication](/index.php/Fabrication "Fabrication" ) and [programming](/index.php/Programming "Programming" ) are both part of the platform, and so its use greatly facilitates understanding the [Full-size Controller](/index.php/Robot_Controller "Robot Controller" ). Since the [embedded platform](/index.php?title=Embedded_platform&action=edit "Embedded platform" ) was changed for the 2004 season to use [PIC C](/index.php/PIC_C "PIC C" ) (from [PBASIC](/index.php/PBASIC "PBASIC" )), there are two versions of Robovation: 
+**Robovation** refers to the educational, mini-robot platform sponsored by [FIRST](FIRST "FIRST" ). It was first released during the 2003 season as a new idea to give teams a task to do during the Fall, which would also be a big help to [rookie teams](/index.php?title=Rookie_team&action=edit "Rookie team" ) and new members of [veteran teams](/index.php?title=Veteran_team&action=edit "Veteran team" ). The idea is that Robovation provides teams a small, simulated experience of the real [build season](Build_season "Build season" ). [Fabrication](Fabrication "Fabrication" ) and [programming](Programming "Programming" ) are both part of the platform, and so its use greatly facilitates understanding the [Full-size Controller](Robot_Controller "Robot Controller" ). Since the [embedded platform](/index.php?title=Embedded_platform&action=edit "Embedded platform" ) was changed for the 2004 season to use [PIC C](PIC_C "PIC C" ) (from [PBASIC](PBASIC "PBASIC" )), there are two versions of Robovation: 
 
-  * [Robovation (2004)](/index.php/Robovation_%282004%29 "Robovation \(2004\)" )
-  * [Robovation (2003)](/index.php/Robovation_%282003%29 "Robovation \(2003\)" )
+  * [Robovation (2004)](Robovation_%282004%29 "Robovation \(2004\)" )
+  * [Robovation (2003)](Robovation_%282003%29 "Robovation \(2003\)" )
 
 
 ### A note on nomenclature

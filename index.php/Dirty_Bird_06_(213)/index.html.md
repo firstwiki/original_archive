@@ -5,10 +5,10 @@
 Jump to: navigation, search
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=Dirty_Bird_06_%282
 13%29&action=edit
@@ -18,7 +18,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=Dirty_Bird_06_%282
 ---|---  
   
 [![40px}}](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png/30px-600px-
-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png "40px}}" )
 
 | It is requested that an **image** or **images** be
@@ -74,5 +74,5 @@ section: Operation Team" )]
 The Dirty Bird drive team was distinguished at the regionals by rather large
 motorcycle helmets.  
   
-Back to Team [213](/index.php/213 "213" )
+Back to Team [213](213 "213" )
 

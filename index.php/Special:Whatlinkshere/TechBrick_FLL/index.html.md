@@ -24,8 +24,8 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/TechBrick FLL" )).
 
   * [Techbrick](/index.php?title=Techbrick&redirect=no "Techbrick" ) (redirect page) 
-    * [TechBrick](/index.php/TechBrick "TechBrick" )
-    * [TechBrick - 2004](/index.php/TechBrick_-_2004 "TechBrick - 2004" )
+    * [TechBrick](TechBrick "TechBrick" )
+    * [TechBrick - 2004](TechBrick_-_2004 "TechBrick - 2004" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/TechBrick_FLL&limit=20&from=0
 "Special:Whatlinkshere/TechBrick FLL" ) |

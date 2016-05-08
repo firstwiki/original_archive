@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [293](/index.php/293 "293" )
+  * [293](293 "293" )
 
 ## Metadata
 

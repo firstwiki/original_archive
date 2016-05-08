@@ -43,7 +43,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [07:43, 5 March 2012](/media/b/b8/2012_Smoky_Mountain_Regional_Finals_Breaktime.jpg "/media/b/b8/2012 Smoky Mountain Regional Finals Breaktime.jpg" ) . . [Nathan Hui](/index.php/User:Nathan_Hui "User:Nathan Hui" ) ([Talk](/index.php/User_talk:Nathan_Hui "User talk:Nathan Hui" )) . . 960x720 (326983 bytes) (From ChiefDelphi (http://www.chiefdelphi.com/media/photos/37611): This is a Quick picture I took right before our Finals match (Finals 1 during the Timeout ). Alliance Consisting of 772 Sabre Bytes, 234 Cyber Blue, and 3259 Thoroughbots. (Sorry our bot )
+  * (del) (cur) [07:43, 5 March 2012](/media/b/b8/2012_Smoky_Mountain_Regional_Finals_Breaktime.jpg "/media/b/b8/2012 Smoky Mountain Regional Finals Breaktime.jpg" ) . . [Nathan Hui](User:Nathan_Hui "User:Nathan Hui" ) ([Talk](User_talk:Nathan_Hui "User talk:Nathan Hui" )) . . 960x720 (326983 bytes) (From ChiefDelphi (http://www.chiefdelphi.com/media/photos/37611): This is a Quick picture I took right before our Finals match (Finals 1 during the Timeout ). Alliance Consisting of 772 Sabre Bytes, 234 Cyber Blue, and 3259 Thoroughbots. (Sorry our bot )
   
 
   * [Edit this file using an external application](/index.php?title=Image:2012_Smoky_Mountain_Regional_Finals_Breaktime.jpg&action=edit&externaledit=true&mode=file "Image:2012 Smoky Mountain Regional Finals Breaktime.jpg" )
@@ -56,12 +56,12 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [Template:Announcements](/index.php/Template:Announcements "Template:Announcements" )
-  * [Current events](/index.php/Current_events "Current events" )
-  * [FIRSTwiki:Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
-  * [User:MindstormsKid/Main Page](/index.php/User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
+  * [Main Page](Main_Page "Main Page" )
+  * [Template:Announcements](Template:Announcements "Template:Announcements" )
+  * [Current events](Current_events "Current events" )
+  * [FIRSTwiki:Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [User:MindstormsKid/Main Page](User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
 
 ## Metadata
 

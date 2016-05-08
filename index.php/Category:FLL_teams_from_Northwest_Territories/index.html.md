@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 This is a listing of FLL teams from Northwest Territories, Canada.
 
-_see also..._ [FLL Teams by Location](/index.php/FLL_Teams_by_Location "FLL
+_see also..._ [FLL Teams by Location](FLL_Teams_by_Location "FLL
 Teams by Location" )
 
   

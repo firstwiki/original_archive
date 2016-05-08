@@ -5,31 +5,31 @@
 
 Jump to: navigation, search
 
-**[Community Portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
+**[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
 
-  * **[Help page](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**
-  * [New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
-  * [User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [How to edit](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
-  * [Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
-  * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * **[Help page](FIRSTwiki:Help "FIRSTwiki:Help" )**
+  * [New users page](FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
+  * [User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [How to edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * [Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+  * [Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
 
 * * *
 
-  * [Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
-  * [Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Administrator Guide](/index.php/FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
-  * [To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
+  * [Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Administrator Guide](FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
+  * [To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
 [Nominations for adminship/Archive
-1](/index.php/FIRSTwiki:Nominations_for_adminship/Archive_1
+1](FIRSTwiki:Nominations_for_adminship/Archive_1
 "FIRSTwiki:Nominations for adminship/Archive 1" )
 
-_See existing [administrators](/index.php/FIRSTwiki:Administrators
+_See existing [administrators](FIRSTwiki:Administrators
 "FIRSTwiki:Administrators" )._
 
 Please use [wikipedia:Requests for
@@ -63,13 +63,13 @@ nominate him/her as a "bureaucrat."
 
 _**Sysop nominations are no longer being taken. If you want to become an
 admin, please contact an existing administrator
-**_([list](http://firstwiki.net/index.php/Special:Listusers/sysop/
-"http://firstwiki.net/index.php/Special:Listusers/sysop/" )).
+**_([list](http://firstwiki.netSpecial:Listusers/sysop/
+"http://firstwiki.netSpecial:Listusers/sysop/" )).
 
-###  [Boydean](/index.php/User:Boydean "User:Boydean" )
+###  [Boydean](User:Boydean "User:Boydean" )
 
 Adding myself as the first nomination for adminship for this here revival.
-[Boydean](/index.php/User:Boydean "User:Boydean" ) 22:05, 25 May 2011 (EDT)
+[Boydean](User:Boydean "User:Boydean" ) 22:05, 25 May 2011 (EDT)
 
 **Support**
 
@@ -79,14 +79,14 @@ Adding myself as the first nomination for adminship for this here revival.
 
 **Comments**
 
-###  [Member](/index.php/User:Member "User:Member" )
+###  [Member](User:Member "User:Member" )
 
 I have six years of experience on Wikipedia, and nearly 5,000 edits on
 Wikipedia. I am very skilled with MediaWiki syntax, and I have run MediaWiki
 on websites before, so I know how the software works. With a few other
 editors, I helped revamp many of the Wikipedia articles about FIRST. Please
 consider me for a sysop position. I am a proud FRC alumnus.
-[Member](/index.php/User:Member "User:Member" ) 20:52, 28 May 2011 (EDT)
+[Member](User:Member "User:Member" ) 20:52, 28 May 2011 (EDT)
 
 **Support**
 
@@ -96,7 +96,7 @@ consider me for a sysop position. I am a proud FRC alumnus.
 
 **Comments**
 
-###  [Keatonic](/index.php/User:Keatonic "User:Keatonic" )
+###  [Keatonic](User:Keatonic "User:Keatonic" )
 
 I'm Keaton Mantz, I'm a senior on Team 27 (RUSH from Clarkston, Michigan) and
 on the media and management subteam, as well as the presentations and
@@ -110,7 +110,7 @@ teams, old and new. As a Freshman, I think I went on it almost every other day
 during build season to find out more about FIRST. I'm a strong leader who will
 never leave a project once committed, and I'm currently not involved in any
 online projects. Again, I'd love to help bring FIRSTWiki back up to par doing
-whatever we need to do. -[Keatonic](/index.php/User:Keatonic "User:Keatonic" )
+whatever we need to do. -[Keatonic](User:Keatonic "User:Keatonic" )
 13:40 June 25th 2011 (EDT)
 
 **Support**
@@ -123,7 +123,7 @@ whatever we need to do. -[Keatonic](/index.php/User:Keatonic "User:Keatonic" )
 
 ## 2011 FIRSTwiki Revival Bureaucrat Nominations
 
-###  [Hallry](/index.php/User:Hallry "User:Hallry" )
+###  [Hallry](User:Hallry "User:Hallry" )
 
 Hello all, I am Ryan and the one who originally posted the thread on Chief
 Delphi about reviving the wiki. I feel like it would be a good idea for me to
@@ -135,16 +135,16 @@ getting this wiki cleaned up, and would make sure that needed work gets done
 in a timely manner. I would love to become a bureaucrat, and it seems like the
 only current one, Max, is not that involved anymore. For examples of my
 contributions, I have been a large part of fixing up my team's wiki page
-([1676](/index.php/1676 "1676" )), and have created pages for each of our
+([1676](1676 "1676" )), and have created pages for each of our
 seasons so far, as well as this template for them (found
-[here](/index.php/Template:Toc/1676 "Template:Toc/1676" )). I became an admin
+[here](Template:Toc/1676 "Template:Toc/1676" )). I became an admin
 on May 25th, 2011, and within an hour had deleted all of the pages marked for
 deletion, updated the "Featured Article" and "What's happening now" sections
 on the Main Page, and also updated the 'sitenotice' template to show that the
 wiki is currently being revived. I hope everyone understands why I see myself
 as qualified for this job.
 
-\--[Hallry](/index.php/User:Hallry "User:Hallry" ) 23:54, 25 May 2011 (EDT)
+\--[Hallry](User:Hallry "User:Hallry" ) 23:54, 25 May 2011 (EDT)
 
 **Support**
 
@@ -155,16 +155,16 @@ as qualified for this job.
 **Comments**
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Nominations_for_adminship>"
+"<http://www.firstwiki.netFIRSTwiki:Nominations_for_adminship>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3ANominations
 _for_adminship "Special:Categories" ): [FIRST
-MetaWiki](/index.php/Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
+MetaWiki](Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Nominations_for_adminship)
-  * [Discussion](/index.php/FIRSTwiki_talk:Nominations_for_adminship)
+  * [Project page](FIRSTwiki:Nominations_for_adminship)
+  * [Discussion](FIRSTwiki_talk:Nominations_for_adminship)
   * [View source](/index.php?title=FIRSTwiki:Nominations_for_adminship&action=edit)
   * [History](/index.php?title=FIRSTwiki:Nominations_for_adminship&action=history)
 
@@ -172,17 +172,17 @@ MetaWiki](/index.php/Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Nominations_for_adminship)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -190,10 +190,10 @@ MetaWiki](/index.php/Category:FIRST_MetaWiki "Category:FIRST MetaWiki" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Nominations_for_adminship)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Nominations_for_adminship)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Nominations_for_adminship)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Nominations_for_adminship)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Nominations_for_adminship&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Nominations_for_adminship&oldid=80723)
 
@@ -206,7 +206,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 18:04, 2 July 2011.
   * This page has been accessed 7,078 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

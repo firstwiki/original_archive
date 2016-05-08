@@ -8,7 +8,7 @@ Jump to: navigation, search
 StuyPulse  
 ---  
 [![694 Logo](/media/thumb/5/57/Logo_694.jpg/200px-
-Logo_694.jpg)](/index.php/Image:Logo_694.jpg "694 Logo" )  
+Logo_694.jpg)](Image:Logo_694.jpg "694 Logo" )  
 Rookie Year: | 2001  
 Inactive Years: | {{{inactive}}}  
 Location: | New York NY USA  
@@ -94,15 +94,15 @@ corporate communities.
 
 ## Robots
 
-  * [2001 - Stuyle](/index.php/694_in_2001 "694 in 2001" )
-  * [2002 - Jack](/index.php/694_in_2002 "694 in 2002" )
-  * [2003 - Lola](/index.php/694_in_2003 "694 in 2003" )
-  * [2004 - Larry](/index.php/694_in_2004 "694 in 2004" )
-  * [2005 - Yvette](/index.php/694_in_2005 "694 in 2005" )
-  * [2006 - Joshua](/index.php/694_in_2006 "694 in 2006" )
-  * [2007 - Tom](/index.php/694_in_2007 "694 in 2007" )
-  * [2008 - Desbot](/index.php/694_in_2008 "694 in 2008" )
-  * [2009 - Michael1](/index.php/694_in_2009 "694 in 2009" )
+  * [2001 - Stuyle](694_in_2001 "694 in 2001" )
+  * [2002 - Jack](694_in_2002 "694 in 2002" )
+  * [2003 - Lola](694_in_2003 "694 in 2003" )
+  * [2004 - Larry](694_in_2004 "694 in 2004" )
+  * [2005 - Yvette](694_in_2005 "694 in 2005" )
+  * [2006 - Joshua](694_in_2006 "694 in 2006" )
+  * [2007 - Tom](694_in_2007 "694 in 2007" )
+  * [2008 - Desbot](694_in_2008 "694 in 2008" )
+  * [2009 - Michael1](694_in_2009 "694 in 2009" )
 
 
 ## Accomplishments
@@ -176,9 +176,9 @@ corporate communities.
 
   * Officers '09-'10 
     * Seth Berg - President of Engineering 
-    * [Betsy Soukup](/index.php/User:BetsyS "User:BetsyS" ) \- President of Marketing 
+    * [Betsy Soukup](User:BetsyS "User:BetsyS" ) \- President of Marketing 
     * Jonathan Lambert - VP of Engineering 
-    * [Mao Hu](/index.php/User:Firstwikiblahblah "User:Firstwikiblahblah" ) \- VP of Marketing 
+    * [Mao Hu](User:Firstwikiblahblah "User:Firstwikiblahblah" ) \- VP of Marketing 
     * Emily Matteson - Director of Programming 
     * David Sugarman - Director of Engineering, Director of Procurement 
     * Elliot Cohen - Director of Outreach, Director of Animation 
@@ -195,9 +195,9 @@ corporate communities.
     * Tommy Su/Alex Carrillo- Assistant Director of Programming 
   * Officers '08-'09 
     * Seth Berg - President of Engineering 
-    * [Daryl Vulis](/index.php/User:Darylvulis "User:Darylvulis" ) \- President of Marketing 
+    * [Daryl Vulis](User:Darylvulis "User:Darylvulis" ) \- President of Marketing 
     * Betsy Soukup - VP of Engineering 
-    * [Mao Hu](/index.php/User:Firstwikiblahblah "User:Firstwikiblahblah" ) \- VP of Marketing 
+    * [Mao Hu](User:Firstwikiblahblah "User:Firstwikiblahblah" ) \- VP of Marketing 
     * Susan Zheng - Director of Engineering 
     * Hans Zhou - Director of Outreach 
     * Lunie Wong - Secretary 
@@ -212,12 +212,12 @@ corporate communities.
     * Sarah Ketani - Tournament Coordinator 
     * Jonathan Meed - Treasurer 
   * Officers '07-'08 
-    * [Steven Lam](/index.php/User:Genesvmalt "User:Genesvmalt" ) -President of Engineering 
+    * [Steven Lam](User:Genesvmalt "User:Genesvmalt" ) -President of Engineering 
     * Jonathan Meed -President of Marketing 
     * Seth Berg -VP of Engineering 
-    * [Daryl Vulis](/index.php/User:Darylvulis "User:Darylvulis" ) -VP of Marketing 
-    * [Danny Zhu](/index.php/User:Blueyoshi321 "User:Blueyoshi321" ) -Director of Programming 
-    * [Andrew Mandelbaum](/index.php/User:Atamand "User:Atamand" ) -Director of Engineering 
+    * [Daryl Vulis](User:Darylvulis "User:Darylvulis" ) -VP of Marketing 
+    * [Danny Zhu](User:Blueyoshi321 "User:Blueyoshi321" ) -Director of Programming 
+    * [Andrew Mandelbaum](User:Atamand "User:Atamand" ) -Director of Engineering 
     * Tiffany Tsai - Director of Outreach 
     * Sarah Ketani - Secretary 
     * Betsy Soukup -Primary Machinist 
@@ -232,18 +232,18 @@ corporate communities.
   * Officers '06-'07 
     * Polina Danilyuk – President of Engineering 
     * Nathan Keyes – President of Marketing 
-    * [Steven Lam](/index.php/User:Genesvmalt "User:Genesvmalt" ) – Vice President of Engineering 
+    * [Steven Lam](User:Genesvmalt "User:Genesvmalt" ) – Vice President of Engineering 
     * Katie Banks – Vice President of Marketing 
-    * [Theo Kunicki](/index.php/User:Molybdenum "User:Molybdenum" ) – Director of Engineering 
+    * [Theo Kunicki](User:Molybdenum "User:Molybdenum" ) – Director of Engineering 
     * Yon Zloof – Director of Outreach 
     * Sami Yabroudi – Primary Machinist 
     * Manav Nanda – Secretary 
     * Sakif Noor – Director of Strategy and Design 
-    * [Edward Kaplan](/index.php/User:Tmbg37 "User:Tmbg37" ) – Director of Programming 
+    * [Edward Kaplan](User:Tmbg37 "User:Tmbg37" ) – Director of Programming 
     * Jesse Weiman – Director of Procurement 
-    * [Andrew Mandelbaum](/index.php/User:Atamand "User:Atamand" ) – Director of Field Construction 
-    * [Samuel Crisanto](/index.php/User:Crisanto777 "User:Crisanto777" ) – Director of Safety 
-    * [Daryl Vulis](/index.php/User:Darylvulis "User:Darylvulis" ) – Webmaster 
+    * [Andrew Mandelbaum](User:Atamand "User:Atamand" ) – Director of Field Construction 
+    * [Samuel Crisanto](User:Crisanto777 "User:Crisanto777" ) – Director of Safety 
+    * [Daryl Vulis](User:Darylvulis "User:Darylvulis" ) – Webmaster 
     * Nathan Bixler – FVC Liaison 
     * Jay Walker – Director of Lego League 
   * Other Members 

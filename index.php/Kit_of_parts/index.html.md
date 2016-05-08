@@ -20,8 +20,8 @@ article.
   
 The Kit of parts is the set of parts, tools, documents, and software given to
 each team every year. Many of the parts are donated to
-[FIRST](/index.php/FIRST "FIRST" ) by manufacturers (see [FIRST
-sponsors](/index.php/FIRST_sponsors "FIRST sponsors" )).
+[FIRST](FIRST "FIRST" ) by manufacturers (see [FIRST
+sponsors](FIRST_sponsors "FIRST sponsors" )).
 
 ## Contents
 
@@ -38,7 +38,7 @@ sponsors](/index.php/FIRST_sponsors "FIRST sponsors" )).
 
 ##  By Year
 
-  * [2012](/index.php/Kit_of_Parts_%282012%29 "Kit of Parts \(2012\)" ) [List of Parts PDF](http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KOP%20Checklist.pdf "http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KOP%20Checklist.pdf" )
+  * [2012](Kit_of_Parts_%282012%29 "Kit of Parts \(2012\)" ) [List of Parts PDF](http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KOP%20Checklist.pdf "http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/KOP%20Checklist.pdf" )
   * [2009](/index.php?title=Kit_of_parts_%282009%29&action=edit "Kit of parts \(2009\)" )
   * [2008](/index.php?title=Kit_of_parts_%282008%29&action=edit "Kit of parts \(2008\)" ) [List of parts PDF](http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/10%20-The%20Kit%20of%20Parts-RevB.pdf "http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/10%20-The%20Kit%20of%20Parts-RevB.pdf" ) [Informational chapter](http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/10%20-The%20Kit%20of%20Parts-RevB.pdf "http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/10%20-The%20Kit%20of%20Parts-RevB.pdf" )
   * [2007](/index.php?title=Kit_of_parts_%282007%29&action=edit "Kit of parts \(2007\)" ) [List of parts PDF](http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/KOP_Checklist_RevE.pdf "http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/KOP_Checklist_RevE.pdf" ) [Informational chapter](http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/10%20-%20The_Kit_of_Parts.pdf "http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2007_assets/Manual/10%20-%20The_Kit_of_Parts.pdf" )
@@ -46,12 +46,12 @@ sponsors](/index.php/FIRST_sponsors "FIRST sponsors" )).
   * [2005](/index.php?title=Kit_of_parts_%282005%29&action=edit "Kit of parts \(2005\)" ) [List of parts PDF (234 KB)](http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf" )
 
 
-## [Motors](/index.php/Motors "Motors" )
+## [Motors](Motors "Motors" )
 
-  * See the [Index of Motors](/index.php/Motors "Motors" )
+  * See the [Index of Motors](Motors "Motors" )
 
 
-## [Pneumatics](/index.php/Pneumatics "Pneumatics" )
+## [Pneumatics](Pneumatics "Pneumatics" )
 
 The pneumatics manual is available from FIRST in .pdf format. The list of
 pneumatic equipment is on page 17 of the [pneumatics
@@ -60,34 +60,34 @@ manual](http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf
 5.05 MB)
 
 
-## [Control system](/index.php/Control_system "Control system" )
+## [Control system](Control_system "Control system" )
 
-  * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-  * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-  * [Victor](/index.php/Victor "Victor" )
-  * [Spike](/index.php/Spike "Spike" )
+  * [Robot Controller](Robot_Controller "Robot Controller" )
+  * [Operator Interface](Operator_Interface "Operator Interface" )
+  * [Victor](Victor "Victor" )
+  * [Spike](Spike "Spike" )
 
   
 
 
-## [Electronics and circuitry](/index.php/Electronics_and_circuitry
+## [Electronics and circuitry](Electronics_and_circuitry
 "Electronics and circuitry" )
 
-  * [Sensors](/index.php/Sensors "Sensors" )
+  * [Sensors](Sensors "Sensors" )
 
   
 
 
-## [Structural](/index.php/Chassis "Chassis" )
+## [Structural](Chassis "Chassis" )
 
 
-## [Drive train](/index.php/Drive_train "Drive train" )
+## [Drive train](Drive_train "Drive train" )
 
 
-## [Software](/index.php/Software "Software" )
+## [Software](Software "Software" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -95,7 +95,7 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Kit_of_parts&action=edit
 "http://www.firstwiki.net/index.php?title=Kit_of_parts&action=edit" ) to make
-a significant article. _See more [stubs](/index.php/Special:Shortpages
+a significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  

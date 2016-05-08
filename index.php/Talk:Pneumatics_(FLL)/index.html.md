@@ -11,12 +11,12 @@ Suggestions for edits...
   * Maybe some pictures of ways pnuematics can be used 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Talk:Pneumatics_%28FLL%29>"
+"<http://www.firstwiki.netTalk:Pneumatics_%28FLL%29>"
 
 ##### Views
 
-  * [Article](/index.php/Pneumatics_%28FLL%29)
-  * [Discussion](/index.php/Talk:Pneumatics_%28FLL%29)
+  * [Article](Pneumatics_%28FLL%29)
+  * [Discussion](Talk:Pneumatics_%28FLL%29)
   * [Edit](/index.php?title=Talk:Pneumatics_%28FLL%29&action=edit)
   * [+](/index.php?title=Talk:Pneumatics_%28FLL%29&action=edit&section=new)
   * [History](/index.php?title=Talk:Pneumatics_%28FLL%29&action=history)
@@ -25,17 +25,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:Pneumatics_\(FLL\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -43,10 +43,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Talk:Pneumatics_%28FLL%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Talk:Pneumatics_%28FLL%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Talk:Pneumatics_%28FLL%29)
+  * [Related changes](Special:Recentchangeslinked/Talk:Pneumatics_%28FLL%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Talk:Pneumatics_%28FLL%29&printable=yes)
   * [Permanent link](/index.php?title=Talk:Pneumatics_%28FLL%29&oldid=40438)
 
@@ -59,7 +59,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 17:06, 27 May 2005.
   * This page has been accessed 447 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

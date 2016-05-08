@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-Need [help](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )? These pages are the
+Need [help](FIRSTwiki:Help "FIRSTwiki:Help" )? These pages are the
 place to find it.
 
   
@@ -17,22 +17,22 @@ There are 9 articles in this category.
 
 ### F
 
-  * [FIRSTwiki:Help](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )
-  * [FIRSTwiki:How does one edit a page](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
-  * [FIRSTwiki:New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
+  * [FIRSTwiki:Help](FIRSTwiki:Help "FIRSTwiki:Help" )
+  * [FIRSTwiki:How does one edit a page](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * [FIRSTwiki:New users page](FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
 |
 
 ### F cont.
 
-  * [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [FIRSTwiki:Policies and guidelines](/index.php/FIRSTwiki:Policies_and_guidelines "FIRSTwiki:Policies and guidelines" )
-  * [FIRSTwiki:Style guide](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
-  * [FIRSTwiki:Uneditable Articles](/index.php/FIRSTwiki:Uneditable_Articles "FIRSTwiki:Uneditable Articles" )
+  * [FIRSTwiki:Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [FIRSTwiki:Policies and guidelines](FIRSTwiki:Policies_and_guidelines "FIRSTwiki:Policies and guidelines" )
+  * [FIRSTwiki:Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide" )
+  * [FIRSTwiki:Uneditable Articles](FIRSTwiki:Uneditable_Articles "FIRSTwiki:Uneditable Articles" )
 |
 
 ### F cont.
 
-  * [FIRSTwiki:User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [FIRSTwiki:What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )  
+  * [FIRSTwiki:User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [FIRSTwiki:What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )  
 ---|---|---  
   

@@ -25,11 +25,11 @@ ial:Whatlinkshere/Template:Announcements&limit=250&from=0
 ial:Whatlinkshere/Template:Announcements&limit=500&from=0
 "Special:Whatlinkshere/Template:Announcements" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" ) (inclusion) 
-  * [Current events](/index.php/Current_events "Current events" ) (inclusion) 
-  * [FIRSTwiki:Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" ) (inclusion) 
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" ) (inclusion) 
-  * [User:MindstormsKid/Main Page](/index.php/User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" ) (inclusion) 
+  * [Main Page](Main_Page "Main Page" ) (inclusion) 
+  * [Current events](Current_events "Current events" ) (inclusion) 
+  * [FIRSTwiki:Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" ) (inclusion) 
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" ) (inclusion) 
+  * [User:MindstormsKid/Main Page](User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" ) (inclusion) 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Temp
 late:Announcements&limit=20&from=0
 "Special:Whatlinkshere/Template:Announcements" ) | [50](/index.php?title=Speci

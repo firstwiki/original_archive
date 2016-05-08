@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **solenoid** is a [pneumatics](/index.php/Pneumatics "Pneumatics" )
+A **solenoid** is a [pneumatics](Pneumatics "Pneumatics" )
 component that allows elctronic control of air pressure flow.
 
 ## Contents
@@ -28,21 +28,21 @@ component that allows elctronic control of air pressure flow.
 ### Input
 
 All solenoids have one input. This should come directly from a [pressure
-regulator](/index.php/Pressure_regulator "Pressure regulator" ). Uses either a
+regulator](Pressure_regulator "Pressure regulator" ). Uses either a
 quick connect connector or is threaded for a 1/8" brass fitting.
 
 
 ### Output
 
 Solenoids have two outputs, they go to each end of a
-[cylinder](/index.php/Cylinder "Cylinder" ). Uses either a quick connect (1/4"
+[cylinder](Cylinder "Cylinder" ). Uses either a quick connect (1/4"
 OD) connector or is threaded for a 1/8" NPT brass fitting.
 
 
 ### Electrical input
 
 Solenoids usually have a wire leads or a propietary connector. They are
-connected to a [spike](/index.php/Spike "Spike" ) for contolling.
+connected to a [spike](Spike "Spike" ) for contolling.
 
 
 ## Types
@@ -51,7 +51,7 @@ connected to a [spike](/index.php/Spike "Spike" ) for contolling.
 ### Single Solenoid
 
 Single solenoids apply pressure to one end of the
-[cylinder](/index.php/Cylinder "Cylinder" ) until a voltage is applied to the
+[cylinder](Cylinder "Cylinder" ) until a voltage is applied to the
 signal input, then the pressure is applied to the other end.
 
 
@@ -59,7 +59,7 @@ signal input, then the pressure is applied to the other end.
 
 Double solenoids are similar to a single solenoid except pressure is only
 applied when a signal is recieved. When a signal is not sent to either end,
-pressure is applied to neither end, and the [cylinder](/index.php/Cylinder
+pressure is applied to neither end, and the [cylinder](Cylinder
 "Cylinder" ) holds its position.
 
 
@@ -82,12 +82,12 @@ pressure is applied to neither end, and the [cylinder](/index.php/Cylinder
     * NVF3130 
   * Bosch-Roxroth 
     * P-026641-00004 
-_**[Pneumatics](/index.php/Pneumatics "Pneumatics" ) Parts:**_  
-[Cylinder](/index.php/Cylinder "Cylinder" ) | **Solenoid** |
-[Compressor](/index.php/Compressor "Compressor" ) | [Storage
-tank](/index.php/Storage_tank "Storage tank" ) | [Rotary
-actuator](/index.php/Rotary_actuator "Rotary actuator" ) | [Pressure
-regulator](/index.php/Pressure_regulator "Pressure regulator" ) | [Pressure
-switch](/index.php/Pressure_switch "Pressure switch" )  
+_**[Pneumatics](Pneumatics "Pneumatics" ) Parts:**_  
+[Cylinder](Cylinder "Cylinder" ) | **Solenoid** |
+[Compressor](Compressor "Compressor" ) | [Storage
+tank](Storage_tank "Storage tank" ) | [Rotary
+actuator](Rotary_actuator "Rotary actuator" ) | [Pressure
+regulator](Pressure_regulator "Pressure regulator" ) | [Pressure
+switch](Pressure_switch "Pressure switch" )  
 ---  
   

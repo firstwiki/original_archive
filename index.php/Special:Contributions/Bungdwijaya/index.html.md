@@ -4,7 +4,7 @@
 
 ### From FIRSTwiki
 
-For [Bungdwijaya](/index.php/User:Bungdwijaya "User:Bungdwijaya" )
+For [Bungdwijaya](User:Bungdwijaya "User:Bungdwijaya" )
 ([Talk](/index.php?title=User_talk:Bungdwijaya&action=edit "User
 talk:Bungdwijaya" ) | [Block
 log](/index.php?title=Special:Log&type=block&page=User:Bungdwijaya
@@ -25,7 +25,7 @@ ndex.php?title=Special:Contributions&target=Bungdwijaya&offset=0&limit=250) |
 [500](/index.php?title=Special:Contributions&target=Bungdwijaya&offset=0&limit
 =500)).
 
-  * 02:20, 11 September 2012 ([hist](/index.php?title=User:Bungdwijaya&action=history "User:Bungdwijaya" )) ([diff](/index.php?title=User:Bungdwijaya&diff=prev&oldid=661850 "User:Bungdwijaya" )) [User:Bungdwijaya](/index.php/User:Bungdwijaya "User:Bungdwijaya" ) ** (top)**
+  * 02:20, 11 September 2012 ([hist](/index.php?title=User:Bungdwijaya&action=history "User:Bungdwijaya" )) ([diff](/index.php?title=User:Bungdwijaya&diff=prev&oldid=661850 "User:Bungdwijaya" )) [User:Bungdwijaya](User:Bungdwijaya "User:Bungdwijaya" ) ** (top)**
 
 (Latest | Earliest) View (previous 50) (next 50) ([20](/index.php?title=Specia
 l:Contributions&target=Bungdwijaya&offset=0&limit=20) | [50](/index.php?title=

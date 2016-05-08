@@ -19,7 +19,7 @@ Official Site: | [2002 City
 Sights](http://www.firstlegoleague.org/default.aspx?pid=7520
 "http://www.firstlegoleague.org/default.aspx?pid=7520" )  
   
-See also...[FLL Challenges](/index.php/FLL_Challenges "FLL Challenges" )
+See also...[FLL Challenges](FLL_Challenges "FLL Challenges" )
 
 The FLL Challenge theme for 2002 was City Sights. FLL teams were tasked to
 compete in the Robot Game, as well complete a Research Assignment to design a
@@ -28,7 +28,7 @@ choice.
 
 The challenge was released in September, 2002 with the bulk of Official State
 tournaments occuring in December. The season was concluded by the [FLL
-Invitational](/index.php/FLL_World_Festival "FLL World Festival" ) (now known
+Invitational](FLL_World_Festival "FLL World Festival" ) (now known
 as the FLL World Festival) which was held in conjunction with the FIRST
 Championship event in April 2003.
 

@@ -14,5 +14,5 @@ There is 1 article in this category.
 
 ### U
 
-  * [User:Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+  * [User:Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 

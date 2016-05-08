@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Team 1893  
 ---  
-[![Team logo](/media/b/b2/Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg
+[![Team logo](/media/b/b2/Theteamlogo.jpg)](Image:Theteamlogo.jpg
 "Team logo" )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  

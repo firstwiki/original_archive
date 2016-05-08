@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Royal Robotrons  
 ---  
-[![Team logo](/media/0/07/1110159885Team_1070.gif)](/index.php/Image:111015988
+[![Team logo](/media/0/07/1110159885Team_1070.gif)](Image:111015988
 5Team_1070.gif "Team logo" )  
 Rookie Year: | 2001  
 Inactive Years: | {{{inactive}}}  
@@ -41,7 +41,7 @@ Team Website: |
 
 Louisville High School's FIRST Robotics Team, the Royal Robotrons, began in
 2001. They had worked very closely with and were mentored by Team
-[599](/index.php/599 "599" ), the Robodox. The team has participated in the
+[599](599 "599" ), the Robodox. The team has participated in the
 Southern California Regionals since then. In 2005, the Robotrons placed in the
 quarter-finals at the Arizona FRC regional and in the semi-finals at the Los
 Angeles FRC regional. In 2006, the Royal Robotrons participated in the
@@ -66,9 +66,9 @@ quarter-finals with the Cheesy Poofs and Fembots.
 ## Robots
 
   * [2008 - The Spark](/index.php?title=The_Spark_%281070%29&action=edit "The Spark \(1070\)" ) \- FRC 
-  * [2007 - Lady Dragon](/index.php/Lady_Dragon_%281070%29 "Lady Dragon \(1070\)" ) \- FRC 
-  * [2006 - Prunella](/index.php/Prunella_%281070%29 "Prunella \(1070\)" ) \- FVC 
-  * [2006 - Buckbot II](/index.php/Buckbot_II_%281070%29 "Buckbot II \(1070\)" ) \- FRC 
+  * [2007 - Lady Dragon](Lady_Dragon_%281070%29 "Lady Dragon \(1070\)" ) \- FRC 
+  * [2006 - Prunella](Prunella_%281070%29 "Prunella \(1070\)" ) \- FVC 
+  * [2006 - Buckbot II](Buckbot_II_%281070%29 "Buckbot II \(1070\)" ) \- FRC 
   * [2005 - Buckbot](/index.php?title=Buckbot_%281070%29&action=edit "Buckbot \(1070\)" ) \- FRC 
   * [2004 - King Louis I](/index.php?title=King_Louis_I_%281070%29&action=edit "King Louis I \(1070\)" ) \- FRC 
   * [2003 - Marvin](/index.php?title=Marvin_%281070%29&action=edit "Marvin \(1070\)" ) \- FRC 

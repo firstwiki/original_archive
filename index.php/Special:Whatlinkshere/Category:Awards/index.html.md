@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Category:Awards&limit=500&from=0
 "Special:Whatlinkshere/Category:Awards" )).
 
-  * [Template talk:FIRSTwiki awardindex](/index.php/Template_talk:FIRSTwiki_awardindex "Template talk:FIRSTwiki awardindex" )
+  * [Template talk:FIRSTwiki awardindex](Template_talk:FIRSTwiki_awardindex "Template talk:FIRSTwiki awardindex" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Category:Awards&limit=20&from=0
 "Special:Whatlinkshere/Category:Awards" ) |

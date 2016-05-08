@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 [![60px}}](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png/50px-600px-
-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png "60px}}" )
 
 | **This page contains one or more externally hosted images.**  
@@ -13,33 +13,33 @@ Some organizations block image hosting websites and may therefore prevent some
 users from seeing images on this page. To allow everyone to view these images,
 please [Upload](http://www.wikipedia.org/wiki/Uploading_images
 "wikipedia:Uploading_images" ) them to FIRSTwiki and add them to this article
-to [improve its quality](/index.php/FIRSTwiki:Style_guide "FIRSTwiki:Style
+to [improve its quality](FIRSTwiki:Style_guide "FIRSTwiki:Style
 guide" ).  
 ---|---  
 [![ ](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif " " ) |  **There are very few
+FIRST_logo.gif)](Image:FIRST_logo.gif " " ) |  **There are very few
 or no other articles that [link to this
-one](/index.php/Special:Whatlinkshere/Mascot "Special:Whatlinkshere/Mascot"
+one](Special:Whatlinkshere/Mascot "Special:Whatlinkshere/Mascot"
 ).**  
 Please help introduce links in articles on related topics. After links have
 been created, remove this message. In some cases, if no links are added, this
 artical/file may be subject to
-[deletion](/index.php/Category:Candidates_for_speedy_deletion
+[deletion](Category:Candidates_for_speedy_deletion
 "Category:Candidates for speedy deletion" ).  
 ---|---  
   
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=Mascot&action=edit
 "http://www.firstwiki.net/index.php?title=Mascot&action=edit" ) by expanding
 it.**  
-Further information might be found on the [talk page](/index.php/Talk:Mascot
+Further information might be found on the [talk page](Talk:Mascot
 "Talk:Mascot" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   

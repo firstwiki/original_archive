@@ -22,12 +22,12 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/NXT&limit=500&from=0
 "Special:Whatlinkshere/NXT" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [LEGO Mindstorms](/index.php/LEGO_Mindstorms "LEGO Mindstorms" )
-  * [FIRSTwiki:Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Template:Announcements](/index.php/Template:Announcements "Template:Announcements" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
-  * [User:MindstormsKid/Main Page](/index.php/User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
+  * [Main Page](Main_Page "Main Page" )
+  * [LEGO Mindstorms](LEGO_Mindstorms "LEGO Mindstorms" )
+  * [FIRSTwiki:Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Template:Announcements](Template:Announcements "Template:Announcements" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [User:MindstormsKid/Main Page](User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/NXT&limit=20&from=0
 "Special:Whatlinkshere/NXT" ) |

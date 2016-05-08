@@ -4,27 +4,27 @@
 
 Jump to: navigation, search
 
-**[25](/index.php/25 "25" )**
+**[25](25 "25" )**
 
-  * [ 1997](/index.php/25_in_1997 "25 in 1997" )
-  * [ 1998](/index.php/25_in_1998 "25 in 1998" )
-  * [ 1999](/index.php/25_in_1999 "25 in 1999" )
-  * [ 2000](/index.php/25_in_2000 "25 in 2000" )
-  * [ 2001](/index.php/25_in_2001 "25 in 2001" )
-  * [ 2002](/index.php/25_in_2002 "25 in 2002" )
-  * [ 2003](/index.php/25_in_2003 "25 in 2003" )
-  * [ 2004](/index.php/25_in_2004 "25 in 2004" )
-  * [ 2005](/index.php/25_in_2005 "25 in 2005" )
-  * [ 2006](/index.php/25_in_2006 "25 in 2006" )
-  * [ 2007](/index.php/25_in_2007 "25 in 2007" )
+  * [ 1997](25_in_1997 "25 in 1997" )
+  * [ 1998](25_in_1998 "25 in 1998" )
+  * [ 1999](25_in_1999 "25 in 1999" )
+  * [ 2000](25_in_2000 "25 in 2000" )
+  * [ 2001](25_in_2001 "25 in 2001" )
+  * [ 2002](25_in_2002 "25 in 2002" )
+  * [ 2003](25_in_2003 "25 in 2003" )
+  * [ 2004](25_in_2004 "25 in 2004" )
+  * [ 2005](25_in_2005 "25 in 2005" )
+  * [ 2006](25_in_2006 "25 in 2006" )
+  * [ 2007](25_in_2007 "25 in 2007" )
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
-These are pages about [25](/index.php/25 "25" ).
+These are pages about [25](25 "25" ).
 
   
 
@@ -34,7 +34,7 @@ There is 1 subcategory to this category.
 
 ### 2
 
-  * [25](/index.php/Category:25 "Category:25" )
+  * [25](Category:25 "Category:25" )
 
 ## Articles in category "25"
 
@@ -42,29 +42,29 @@ There are 13 articles in this category.
 
 ### 2
 
-  * [25](/index.php/25 "25" )
-  * [25 in 1997](/index.php/25_in_1997 "25 in 1997" )
-  * [25 in 1998](/index.php/25_in_1998 "25 in 1998" )
-  * [25 in 1999](/index.php/25_in_1999 "25 in 1999" )
+  * [25](25 "25" )
+  * [25 in 1997](25_in_1997 "25 in 1997" )
+  * [25 in 1998](25_in_1998 "25 in 1998" )
+  * [25 in 1999](25_in_1999 "25 in 1999" )
 |
 
 ### 2 cont.
 
-  * [25 in 2000](/index.php/25_in_2000 "25 in 2000" )
-  * [25 in 2001](/index.php/25_in_2001 "25 in 2001" )
-  * [25 in 2002](/index.php/25_in_2002 "25 in 2002" )
-  * [25 in 2003](/index.php/25_in_2003 "25 in 2003" )
-  * [25 in 2004](/index.php/25_in_2004 "25 in 2004" )
+  * [25 in 2000](25_in_2000 "25 in 2000" )
+  * [25 in 2001](25_in_2001 "25 in 2001" )
+  * [25 in 2002](25_in_2002 "25 in 2002" )
+  * [25 in 2003](25_in_2003 "25 in 2003" )
+  * [25 in 2004](25_in_2004 "25 in 2004" )
 |
 
 ### 2 cont.
 
-  * [25 in 2005](/index.php/25_in_2005 "25 in 2005" )
-  * [25 in 2006](/index.php/25_in_2006 "25 in 2006" )
-  * [25 in 2007](/index.php/25_in_2007 "25 in 2007" )
+  * [25 in 2005](25_in_2005 "25 in 2005" )
+  * [25 in 2006](25_in_2006 "25 in 2006" )
+  * [25 in 2007](25_in_2007 "25 in 2007" )
 
 ### T
 
-  * [Template:Toc/25](/index.php/Template:Toc/25 "Template:Toc/25" )  
+  * [Template:Toc/25](Template:Toc/25 "Template:Toc/25" )  
 ---|---|---  
   

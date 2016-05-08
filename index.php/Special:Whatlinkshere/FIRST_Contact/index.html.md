@@ -23,9 +23,9 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/FIRST_Contact&limit=500&from=0
 "Special:Whatlinkshere/FIRST Contact" )).
 
-  * [FLL Challenge](/index.php/FLL_Challenge "FLL Challenge" )
+  * [FLL Challenge](FLL_Challenge "FLL Challenge" )
   * [FLL Challenge 1999](/index.php?title=FLL_Challenge_1999&redirect=no "FLL Challenge 1999" ) (redirect page) 
-    * [FIRST LEGO League](/index.php/FIRST_LEGO_League "FIRST LEGO League" )
+    * [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/FIRST_Contact&limit=20&from=0
 "Special:Whatlinkshere/FIRST Contact" ) |

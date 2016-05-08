@@ -22,8 +22,8 @@ hatlinkshere/Scorpius_%281073%29&limit=250&from=0
 hatlinkshere/Scorpius_%281073%29&limit=500&from=0
 "Special:Whatlinkshere/Scorpius \(1073\)" )).
 
-  * [Taurus (1073)](/index.php/Taurus_%281073%29 "Taurus \(1073\)" )
-  * [1073](/index.php/1073 "1073" )
+  * [Taurus (1073)](Taurus_%281073%29 "Taurus \(1073\)" )
+  * [1073](1073 "1073" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Scor
 pius_%281073%29&limit=20&from=0 "Special:Whatlinkshere/Scorpius \(1073\)" ) | 
 [50](/index.php?title=Special:Whatlinkshere/Scorpius_%281073%29&limit=50&from=

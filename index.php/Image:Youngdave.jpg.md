@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [02:50, 11 July 2004](/media/7/7a/Youngdave.jpg "/media/7/7a/Youngdave.jpg" ) . . [Phrontist](/index.php/User:Phrontist "User:Phrontist" ) ([Talk](/index.php/User_talk:Phrontist "User talk:Phrontist" )) . . 640x480 (80191 bytes) (A Young Dave)
+  * (del) (cur) [02:50, 11 July 2004](/media/7/7a/Youngdave.jpg "/media/7/7a/Youngdave.jpg" ) . . [Phrontist](User:Phrontist "User:Phrontist" ) ([Talk](User_talk:Phrontist "User talk:Phrontist" )) . . 640x480 (80191 bytes) (A Young Dave)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Youngdave.jpg&action=edit&externaledit=true&mode=file "Image:Youngdave.jpg" )
@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Dave Lavery](/index.php/Dave_Lavery "Dave Lavery" )
+  * [Dave Lavery](Dave_Lavery "Dave Lavery" )
 
 ## Metadata
 

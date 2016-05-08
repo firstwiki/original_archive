@@ -37,5 +37,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [922](/index.php/922 "922" )
+  * [922](922 "922" )
 

@@ -6,16 +6,16 @@
 
 Jump to: navigation, search
 
-**[1227](/index.php/1227 "1227" )**
+**[1227](1227 "1227" )**
 
-  * [2006](/index.php/1227_in_2006 "1227 in 2006" )
-  * [2005](/index.php/1227_in_2005 "1227 in 2005" )
+  * [2006](1227_in_2006 "1227 in 2006" )
+  * [2005](1227_in_2005 "1227 in 2005" )
   * **2004**
-  * [2003](/index.php/1227_in_2003 "1227 in 2003" )
+  * [2003](1227_in_2003 "1227 in 2003" )
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
@@ -66,11 +66,11 @@ _General description of the robot"_
 
 [![Note the creative usage of purple and blue blocks as structural
 members.](/media/thumb/b/ba/Notarealrobot.jpg/200px-
-Notarealrobot.jpg)](/index.php/Image:Notarealrobot.jpg "Note the creative
+Notarealrobot.jpg)](Image:Notarealrobot.jpg "Note the creative
 usage of purple and blue blocks as structural members." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Notarealrobot.jpg "Enlarge" )
+clip.png)](Image:Notarealrobot.jpg "Enlarge" )
 
 Note the creative usage of purple and blue blocks as structural members.
 

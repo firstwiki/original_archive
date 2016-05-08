@@ -801,7 +801,7 @@ Army Command College and additional Chinese naval schools as well as
 spectators and administrators of airborne brigades and armored brigades from
 the United Kingdom,[シャネル 2012](http://www.chanel2012japan.com/
 "http://www.chanel2012japan.com/" ),
-France,<http://www.mood.mrbutterfly.fr/index.php/members/home>,[プラダ メンズ
+France,<http://www.mood.mrbutterfly.frmembers/home>,[プラダ メンズ
 財布](http://www.pradapursejapan.com/ "http://www.pradapursejapan.com/" ),
 Germany, Russia and other countries.  
   
@@ -953,7 +953,7 @@ daky.com/home.php?mod=space&uid=67840&do=blog&quickforward=1&id=204205"
 )&lt;/a&gt;, this namely one of the measures adopted to deepen the strategic
 and mutually profitable relationship between China and Japan.  
   
-At a click conference,<http://dpp.doctorpundit.com/index.php/User:Dloda241371
+At a click conference,<http://dpp.doctorpundit.comUser:Dloda241371
 #Joe_Bidens_visit_more_than_a_courtesy_call_-_Peoples_Daily_O>,[coach
 バック](http://www.coachmensjapan.com/ "http://www.coachmensjapan.com/" ), Azumi
 denied that the intention of this measure namely to lessen the proportion of
@@ -985,7 +985,7 @@ March.
   
 A recent inspection bottom 603 Becquerel radioactive cesium amid every
 kilogram of rice planted within
-Fukushima,<http://www.mood.mrbutterfly.fr/index.php/members/home>,[エアジョーダン 1](
+Fukushima,<http://www.mood.mrbutterfly.frmembers/home>,[エアジョーダン 1](
 http://www.airjordan11japan.com/%E3%82%A8%E3%82%A2%E3%82%B8%E3%83%A7%E3%83%BC%
 E3%83%80%E3%83%B3-1-c-1.html "http://www.airjordan11japan.com/%E3%82%A8%E3%82%
 A2%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3-1-c-1.html" ),exceeding
@@ -1015,7 +1015,7 @@ statement.
 fair elections can be
 held,[アシックス靴](http://www.asicsshoesstorejp.com/products_all.html
 "http://www.asicsshoesstorejp.com/products_all.html"
-),<http://wiki.simyard.com/index.php/User:Dloda639445>, these are important
+),<http://wiki.simyard.comUser:Dloda639445>, these are important
 pushes in the right direction,[シャネル 長財布](http://www.chanelbag2012japan.com/%E3
 %82%B7%E3%83%A3%E3%83%8D%E3%83%AB-%E9%95%B7%E8%B2%A1%E5%B8%83-c-11.html "http:
 //www.chanelbag2012japan.com/%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB-%E9%95%B7%E8
@@ -1100,7 +1100,7 @@ subject to Italian decree mentioned the report.
   
 However,[通販 アバクロ](http://www.abercrombiesalejapan.com/
 "http://www.abercrombiesalejapan.com/"
-),<http://fliwi.philippkraemer.de/index.php/User:Dloda100160
+),<http://fliwi.philippkraemer.deUser:Dloda100160
 #Maternity_care_business_booms_in_China_-_Peoples_Daily_Onlin>, Indian
 officials insist any crime committed against one Indian alternatively on one
 Indian receptacle"wherever it may be_ can be tried within India.  
@@ -1477,7 +1477,7 @@ the beginning of a current relationship between the two nations.
 "We comprehend it is deep in the Chinese civilization to think long term and
 to think strategically, so this visit is never an opportunity It's been
 planned for a long period I'm absolutely
-certain,<http://inspectipedia.com/index.php/User:Dloda486794
+certain,<http://inspectipedia.comUser:Dloda486794
 #Let_more_lawyers_defend_criminal_cases_political_advisor_-_P>," he said.  
   
 "I think that the strategic intent after it from the Chinese side is probably
@@ -1486,7 +1486,7 @@ have, inside the European Union,[air jordan 11](http://www.jordanshoesjp.com/
 "http://www.jordanshoesjp.com/" ), a partner whom they can believe a partner
 who trusts them,[ティンバーランドブーツ](http://www.timberlandjapanstore.com/
 "http://www.timberlandjapanstore.com/"
-),<http://spreadshub.com/index.php/User:Dloda804319
+),<http://spreadshub.comUser:Dloda804319
 #Migrant_workers_prefer_growing_roots_in_cities_-_Peoples_Dai>, a relationship
 is works to the prevalent advantage of both with neither side trying to take
 advantage of the other"
@@ -1633,7 +1633,7 @@ Kabul, police said (Xinhua/Rahmat)
 A provincial intelligence allowable was killed aboard Thursday and two people
 were injured meantime a roadside bombard went off in Kunduz metropolis
 provincial chief of Kunduz province 250 km northwardly of chief Kabul,<http://
-www.workreduction.com/wiki/index.php/User:Dloda805835#M.C3.A1ximo_legislador_c
+www.workreduction.com/wikiUser:Dloda805835#M.C3.A1ximo_legislador_c
 hino_insta_a_mejorar_sistema_de_asamblea>, police mentioned.  
   
 "A bomb placed along a road amid Bandar -e- Khanabad district of Kunduz
@@ -1840,7 +1840,7 @@ mercury ? Then improper disposal of these new lamps can lead to soil and layer
 water contamination. Is there a proper system for collection and recycling of
 these modish bukbs ?Canada at 2011-11-0670.36.49.*If China replaces normal
 light bulbs with LED light bulbs that might be an
-adjustment,<http://fliwi.philippkraemer.de/index.php/User:Dloda100160#Let_calm
+adjustment,<http://fliwi.philippkraemer.deUser:Dloda100160#Let_calm
 .2C_peace_return_to_South_China_Sea__-_Peoples_Daily_O>,[timberland
 chukka](http://www.timberlandjapanboots.com/
 "http://www.timberlandjapanboots.com/" ),though here the regular cost is
@@ -2036,7 +2036,7 @@ BEIJING, March nine (Xinhua) -- The gross creation value of China's marine
 sector surged to four.557 trillion yuan almost
 711,[ティンバーランド靴](http://www.timberlandjapanstore.com/
 "http://www.timberlandjapanstore.com/"
-),<http://www.evidencewarehouse.ocp.dc.gov/index.php/User:Dloda954489
+),<http://www.evidencewarehouse.ocp.dc.govUser:Dloda954489
 #No_casualty_reported_after_Xinjiang_quake__-_Peoples_Daily_O>,153 million
 U.S.dollars last anniversary marking a 10.four percent bound year-on-
 year,current diagrams from the State Oceanic Administration (SOA) show.  
@@ -2161,7 +2161,7 @@ The current policy has been accepted to assistance folk alive
 within"vulnerable conditions,mainly homes affected by natural
 disasters,[ルブタン](http://www.japanlouboutinshoes.com/products_new.html
 "http://www.japanlouboutinshoes.com/products_new.html" ), such as hurricanes,<
-http://thepornpedia.com/index.php/User:Dloda575423#News_analysis_European_defe
+http://thepornpedia.comUser:Dloda575423#News_analysis_European_defe
 nse_giant_suffers_major_setback_i>,[ティンバーランド
 フィールドブーツ](http://www.timberlandjapanstore.com/
 "http://www.timberlandjapanstore.com/" ),torrents landslides or fires.
@@ -2651,7 +2651,7 @@ section: Museum in honor of 1911 Revolution reopens - Peoples Daily O" )]
 WUHAN - A repository that honors the 1911 Revolution,also known because the
 Xinhai Revolution,[ポールスミス 財布 レディース](http://www.paulsmithesalejapan.com/
 "http://www.paulsmithesalejapan.com/" ),<http://forschung.medienhaus.udk-
-berlin.de/index.php/User:Dloda507455#Micron_CEO_dies_in_plane_crash_-
+berlin.deUser:Dloda507455#Micron_CEO_dies_in_plane_crash_-
 _Peoples_Daily_Online>, reopened Saturday subsequently renovation to
 commemorate the century of the uprising at Wuchang surrounded central Hubei
 province.  
@@ -2884,7 +2884,7 @@ forum.php?mod=viewthread&tid=147742
 "http://cflove8848.32.xindns.org/forum.php?mod=viewthread&tid=147742"
 )&lt;/a&gt;,[ティンバーランド ブラック](http://www.timberlandjapanstore.com/
 "http://www.timberlandjapanstore.com/" ), the Meteorology,<http://dpp.doctorpu
-ndit.com/index.php/User:Dloda241371#No_substantial_changes_in_domestic.2C_fore
+ndit.comUser:Dloda241371#No_substantial_changes_in_domestic.2C_fore
 ign_policies_expecte>,[ティンバーランド デッキシューズ](http://www.timberlandjapanboots.com/
 "http://www.timberlandjapanboots.com/"
 ),<http://yoko14145.com/blogs/2010/04/post-264.html#comments>, Climatology
@@ -3253,7 +3253,7 @@ and a aspiration to amend he added.
 "What we did last season is never merit anything swiftly we must go to confirm
 our status each season,[ルブタン スニーカー](http://www.japanlouboutinshoes.com/
 "http://www.japanlouboutinshoes.com/"
-),<http://labotim.inf.ufes.br/index.php/User:Dloda454939
+),<http://labotim.inf.ufes.brUser:Dloda454939
 #Its_migrant_payback_time_govt_-_Peoples_Daily_Online>," added
 Garcia,[ティンバーランド イエローブーツ](http://www.timberlandjapanboots.com/
 "http://www.timberlandjapanboots.com/" ), who likewise said that he was hoping
@@ -3549,7 +3549,7 @@ section: Nepali capital opens 84 spaces for emergency accommodation -" )]
 
 ##  Nepali capital opens 84 spaces for emergency accommodation -
 
-KATHMANDU,<http://www.bitchinrecipes.com/index.php/User:Dloda157051#NASA_probe
+KATHMANDU,<http://www.bitchinrecipes.comUser:Dloda157051#NASA_probe
 _data_show_evidence_of_liquid_water_on_Jupiters_ic>, Dec. 27 (Xinhua) --
 Eighty-four spaces have been opened in Kathmandu that could be used for
 humanitarian support in the accident of a emergency such as
@@ -3585,7 +3585,7 @@ aboard the Richter scale would crash almost 60 percentage of these mansions.
   
 The report recommends that schools be accustom as reception hearts where IDPs
 may assemble for registration ahead their snuggle program could start For
-this,<http://wiki.ispros.com.bd/index.php/User:Dloda244017
+this,<http://wiki.ispros.com.bdUser:Dloda244017
 #Israeli_govt_okays_new_West_Bank_housing_-_Peoples_Daily_Onl>, the
 administration has to nail retrofitted schools in the ravine as soon as
 feasible the report suggests, adding that a three.15-million-square measure
@@ -3837,7 +3837,7 @@ Fifty-two tourists within 15 vehicles have stranded aboard the Maytas section
 of Provincial Highway 201 since noon Tuesday,[ティンバーランド ブーツ
 激安](http://www.timberlandjapanstore.com/specials.html
 "http://www.timberlandjapanstore.com/specials.html" ),<http://www.indianmusicg
-uide.com/index.php/User:Dloda399107#Libyan_parties_should_move_towards_negotia
+uide.comUser:Dloda399107#Libyan_parties_should_move_towards_negotia
 tions_to_solve_cri>, with a snowstorm reducing visibility to naught said Li
 Jie,&lt;a href="[http://www.abc5a.com/bbs/forum.php?mod=viewthread&amp;tid=346
 01](http://www.abc5a.com/bbs/forum.php?mod=viewthread&tid=34601
@@ -3905,7 +3905,7 @@ China's sex ratio emerge from was 118.08 males for each 100 females among
 2010, higher than demographic norm of 103 to 107 boys per 100 girls.  
   
 All provincial-level regions among
-China,<http://wikidust.sbols.org/index.php/User:Dloda721732
+China,<http://wikidust.sbols.orgUser:Dloda721732
 #MOR_to_issue_10_trillion_yuan_railway_construction_bonds_-_P>,except Tibet,
 have reported gender imbalances,said Yuan Xin,[ティンバーランド
 ６インチ](http://www.timberlandjapanboots.com/
@@ -4017,7 +4017,7 @@ YAGNON,[クリスチャンルブタン](http://www.japanlouboutinshoes.com/produ
 -- Myanmar ambition introduce a unified and float diplomatic commute rate
 beginning April 1, the begin of the financial annual 2012-13, aimed at totally
 eliminating the informal currency mall regional medium reported Friday,<http:/
-/www.bisericaonline.ro/forum/index.php/topic,210393.msg234593.html#msg234593>,
+/www.bisericaonline.ro/forumtopic,210393.msg234593.html#msg234593>,
 [ティンバーランド ピンク](http://www.timberlandjapanboots.com/
 "http://www.timberlandjapanboots.com/" ), quoting the Central Bank of Myanmar.  
   
@@ -4232,7 +4232,7 @@ au-dessus du niveau du space dont 198 au niveau de la préfecture et six au
 niveau provincial ou ministériel, a précisé M. Cao dans un rapport d'activité
 du Parquet populaire suprême présenté lors de la conference annuelle de
 l'Assemblée populaire nationale
-(APN,<http://www.workreduction.com/wiki/index.php/User:Dloda805835
+(APN,<http://www.workreduction.com/wikiUser:Dloda805835
 #Nanluoguxiang_to_get_a_fakeover_-_Peoples_Daily_Online>, parlement chinois).  
   
 Les procureurs ont été particulièrement intransigeants avec les fonctionnaires
@@ -4796,7 +4796,7 @@ emergency directing median can help other directing sections control the
 situation by providing medical resources and preventing the health security
 emergencies from happening In addition, with the health security crisis
 handling space because the elite chapter,<http://wiki.rational-
-skepticism.org/index.php/User:Dloda723063
+skepticism.orgUser:Dloda723063
 #Ministry_enhances_railway_safety_against_earthquakes_-_Peopl>,through the
 daily practice and preparation of the crisis directing center systems such for
 environmental protection, safety in production,&lt;a href="[http://www.chin-
@@ -5104,7 +5104,7 @@ to an investigation carried out by a non-governmental organization.
 The International Food Packaging Association visited 46 supermarkets among the
 past six months in Beijing,[ルブタン 値段](http://www.japanlouboutinshoes.com/
 "http://www.japanlouboutinshoes.com/"
-),<http://wiki.censormon.net/index.php/User:Dloda948470#Modern_Mooncakes_-
+),<http://wiki.censormon.netUser:Dloda948470#Modern_Mooncakes_-
 _Peoples_Daily_Online>, Shanghai and Shenzhen, and pedestal around one among
 five of them were still using plastic wrapping made of polyvinyl chloride
 (PVC) for fresh meat and cooked edible.  
@@ -5116,7 +5116,7 @@ president of the association.
   
 The country's height quality watchdog banned the use of PVC to overcoat meat,
 cooked edible and fatty foods within 2005, because DEHP, which experts deem is
-adverse to humans,<http://dpp.doctorpundit.com/index.php/User:Dloda241371#Man-
+adverse to humans,<http://dpp.doctorpundit.comUser:Dloda241371#Man-
 made_rain_program_to_secure_grain_targets_-_Peoples_Dail>,[timberland
 earthkeepers](http://www.timberlandjapanboots.com/
 "http://www.timberlandjapanboots.com/" ),is adapt as the plasticizer to
@@ -5180,7 +5180,7 @@ er=dloda261937&blogentry_id=70984
 "http://365friendz.com/blog.php?user=dloda261937&blogentry_id=70984"
 )&lt;/a&gt;, said the report.  
   
-The participants included Kim Yong Nam,<http://wiki.open-pc.com/index.php/User
+The participants included Kim Yong Nam,<http://wiki.open-pc.comUser
 :Dloda827138#Mining_firm_held_responsible_for_contamination_of_south_Chin>,mem
 ber of the Presidium of the Political Bureau of Central Committee of the WPK
 and chancellor of the Presidium of the DPRK Supreme People's
@@ -5453,7 +5453,7 @@ circuit"for him.
 "The Toronto Zoo is chapter of a strategic plan, (and) has been attempting to
 earn a couple of giant pandas for a long-term breeding agenda as twelve years.
 The truth namely it has come to fruition is very
-exciting,<http://wikicrime.org/index.php/User:Dloda745360
+exciting,<http://wikicrime.orgUser:Dloda745360
 #More_precaution_urged_for_ocean_disasters_in_China_-_Peoples>,[バーバリー
 シャツ](http://www.burberryjapanonline.com/products_new.html
 "http://www.burberryjapanonline.com/products_new.html" ),quite important as
@@ -5507,7 +5507,7 @@ said.,[ルブタン](http://www.japanlouboutinshoes.com/products_all.html
   
 The 127-metre-long (415-feet-long) Gelso M was braining for the Sicilian wharf
 of
-Augusta,<http://latemar.science.unitn.it/wiki_WA07/index.php/User:Dloda971281
+Augusta,<http://latemar.science.unitn.it/wiki_WA07User:Dloda971281
 #NATO_faces_catastrophic_success_in_Libya_-_Peoples_Daily_Onl>,[paul smith
 women](http://www.paulsmithesalejapan.com/
 "http://www.paulsmithesalejapan.com/" ),kin of one fuel refinery and chemical
@@ -5648,7 +5648,7 @@ section: Manage pressure ahead of gaokao - Peoples Daily Online" )]
 src='<http://english.peopledaily.com.cn/90001/90783/91300/6976452.html'>&gt;  
 Students exercise because they suffer the intensive preparation as the
 national academy entrance examination by a lofty school among Jinan,<http://fr
-ontpage.cbs.dk/bibliotek/index.php/User:Dloda852038#Little_New_Year_.28I.29_-_
+ontpage.cbs.dk/bibliotekUser:Dloda852038#Little_New_Year_.28I.29_-_
 Peoples_Daily_Online>,[トリーバーチ](http://www.toryburchjapanonline.com/products_ne
 w.html "http://www.toryburchjapanonline.com/products_new.html" ), East China's
 Shandong province,[paul smith バッグ](http://www.paulsmithesalejapan.com/
@@ -6807,7 +6807,7 @@ she got the question she was seeing for: "Why work home? My associate is gone"
 Related articles：
 
   * <http://www.vir2all.com.br/book/members/home>
-  * <http://bestidol.org/en/index.php/User:Dloda160864#New_school_buses_put_into_use_in_Tianchang.2C_Chinas_Anhui_-_P>
+  * <http://bestidol.org/enUser:Dloda160864#New_school_buses_put_into_use_in_Tianchang.2C_Chinas_Anhui_-_P>
   * &lt;a href="[http://www.zzmhw.net/bbs/forum.php?mod=viewthread&amp;tid=79286](http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=79286 "http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=79286" )" target="_blank"&gt;[http://www.zzmhw.net/bbs/forum.php?mod=viewthread&amp;tid=79286](http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=79286 "http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=79286" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=96 "Edit
@@ -7100,7 +7100,7 @@ to 17,[Louboutin Homme](http://www.chaussurelouboutinhomme.com/
 
   * &lt;a href="[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&amp;diary_date=20120725&amp;postid=400013](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&diary_date=20120725&postid=400013 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&diary_date=20120725&postid=400013" )" target="_blank"&gt;[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&amp;diary_date=20120725&amp;postid=400013](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&diary_date=20120725&postid=400013 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164267&diary_date=20120725&postid=400013" )&lt;/a&gt;
   * <http://bbs.workercn.cn/forum-8-1.html>
-  * <http://www.cliquenote.org/index.php/members/home>
+  * <http://www.cliquenote.orgmembers/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=102 "Edit
 section: Kashmiri avalanches leave 16 Indian troops dead, 3 missing -" )]
@@ -7146,7 +7146,7 @@ along with two avalanche emancipate dogs has approached the blot" Related
 articles：
 
   * <http://kenta.toyone.org/2012/07/post-492.html#comments>
-  * <http://www.phpug.org.nz/index.php/User:Dloda846032#National_flag_raising_ceremony_held_in_Beijing__-_Peoples_Da>
+  * <http://www.phpug.org.nzUser:Dloda846032#National_flag_raising_ceremony_held_in_Beijing__-_Peoples_Da>
   * <http://bbs.jj.cn/index.php>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=103 "Edit
@@ -7495,9 +7495,9 @@ Online](http://www.paulsmithaustraliasale.com/
 "http://www.paulsmithaustraliasale.com/" ),along to the region's 12th Five-
 Year Plan (2011-2015). Related articles：
 
-  * <http://wiki.censormon.net/index.php/User:Dloda948470#More_than_300_detained_for_railway_theft__-_Peoples_Daily_On>
+  * <http://wiki.censormon.netUser:Dloda948470#More_than_300_detained_for_railway_theft__-_Peoples_Daily_On>
   * &lt;a href="[http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=132860](http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&tid=132860 "http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&tid=132860" )" target="_blank"&gt;[http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=132860](http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&tid=132860 "http://apexfol.host1.0929.net.cn/bbs/forum.php?mod=viewthread&tid=132860" )&lt;/a&gt;
-  * <http://www.workreduction.com/wiki/index.php/User:Dloda805835#Italian_Parliament_passed_austerity_measures_-_Peoples_Daily>
+  * <http://www.workreduction.com/wikiUser:Dloda805835#Italian_Parliament_passed_austerity_measures_-_Peoples_Daily>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=110 "Edit
 section: Li Na, Sun Yang win 2011 CCTV Sports Personality of Year - P" )]
@@ -7954,7 +7954,7 @@ international commute centers Jin said. Related articles：
 
   * &lt;a href="[http://shaohong.youdns1.com/forum.php?mod=viewthread&amp;tid=232970](http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=232970 "http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=232970" )" target="_blank"&gt;[http://shaohong.youdns1.com/forum.php?mod=viewthread&amp;tid=232970](http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=232970 "http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=232970" )&lt;/a&gt;
   * &lt;a href="<http://learning-webs.org/index.php?title=User:Dloda217880#Legislators_seek_changes_for_migrants_-_Peoples_Daily_Online>" target="_blank"&gt;<http://learning-webs.org/index.php?title=User:Dloda217880#Legislators_seek_changes_for_migrants_-_Peoples_Daily_Online>&lt;/a&gt;
-  * <http://www.workreduction.com/wiki/index.php/User:Dloda805835#Japan_detains_Chinese_fishing_boat_captain_-_Peoples_Daily_O>
+  * <http://www.workreduction.com/wikiUser:Dloda805835#Japan_detains_Chinese_fishing_boat_captain_-_Peoples_Daily_O>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=122 "Edit
 section: No easy answers in Greek debt crisis - Peoples Daily Online" )]
@@ -8661,7 +8661,7 @@ memorial service on Sunday. The earthquake plus ensuing tsunami left more than
 alternatively missing and triggered a nuclear contingency the world had never
 seen since 1986. (Xinhua/Kenichiro Seki) Related articles：
 
-  * <http://wiki.amakha.org/index.php/User:Dloda135334#Miss_Hong_Kong_ladies_visit_USS_Ronald_Reagan_Aircraft_Carri>
+  * <http://wiki.amakha.orgUser:Dloda135334#Miss_Hong_Kong_ladies_visit_USS_Ronald_Reagan_Aircraft_Carri>
   * &lt;a href="<http://www.zj11.com.cn/Review.asp?NewsID=674>" target="_blank"&gt;<http://www.zj11.com.cn/Review.asp?NewsID=674>&lt;/a&gt;
   * <http://www.r101ck.mx/002soc2011/user_blog.php>
 
@@ -8738,7 +8738,7 @@ Yunnan,[Nike Air](http://www.airmax2012canada.com/
 articles：
 
   * <http://www.whjxsx.com/blog/user1/dloda244767/archives/2012/108725.html>
-  * <http://www.indianmusicguide.com/index.php/User:Dloda399107#Kindergarten_shutdown_spotlights_migrants_woes_-_Peoples_Dai>
+  * <http://www.indianmusicguide.comUser:Dloda399107#Kindergarten_shutdown_spotlights_migrants_woes_-_Peoples_Dai>
   * <http://www.myeroticmasseuse.com/members-datingsite/blogs/posts/dloda342926>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=134 "Edit
@@ -8842,7 +8842,7 @@ devrions essayer de créer une atmosphère où les gens apprécient la
 connaissance, pas seulement les compétences marchandes." Related articles：
 
   * &lt;a href="[http://www.jidaky.com/home.php?mod=space&amp;uid=67840&amp;do=blog&amp;quickforward=1&amp;id=233408](http://www.jidaky.com/home.php?mod=space&uid=67840&do=blog&quickforward=1&id=233408 "http://www.jidaky.com/home.php?mod=space&uid=67840&do=blog&quickforward=1&id=233408" )" target="_blank"&gt;[http://www.jidaky.com/home.php?mod=space&amp;uid=67840&amp;do=blog&amp;quickforward=1&amp;id=233408](http://www.jidaky.com/home.php?mod=space&uid=67840&do=blog&quickforward=1&id=233408 "http://www.jidaky.com/home.php?mod=space&uid=67840&do=blog&quickforward=1&id=233408" )&lt;/a&gt;
-  * <http://watcheswithnolimits.com/forum/index.php/topic,664216.msg838996.html#msg838996>
+  * <http://watcheswithnolimits.com/forumtopic,664216.msg838996.html#msg838996>
   * &lt;a href="[http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&amp;extra=](http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&extra= "http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&extra=" )" target="_blank"&gt;[http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&amp;extra=](http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&extra= "http://www.mindevents.com.hk/twl/discuz/viewthread.php?tid=2232083&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=136 "Edit
@@ -9016,7 +9016,7 @@ the paper
   
 Source: Xinhua Related articles：
 
-  * <http://thepornpedia.com/index.php/User:Dloda575423#Miss_Hong_Kong_ladies_visit_USS_Ronald_Reagan_Aircraft_Carri>
+  * <http://thepornpedia.comUser:Dloda575423#Miss_Hong_Kong_ladies_visit_USS_Ronald_Reagan_Aircraft_Carri>
   * <http://se4.vinataydemo.com/templates/tbasegreen/members/home>
   * &lt;a href="[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&extra=" )" target="_blank"&gt;[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3378675&extra=" )&lt;/a&gt;
 
@@ -9039,7 +9039,7 @@ The police namely investigating the occasion of the eruption.
   
 Source: Xinhua Related articles：
 
-  * <http://wiki.amakha.org/index.php/User:Dloda135334#Most_Beijing_residents_think_consumer_prices_too_high_-_Peop>
+  * <http://wiki.amakha.orgUser:Dloda135334#Most_Beijing_residents_think_consumer_prices_too_high_-_Peop>
   * &lt;a href="[http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&amp;tid=22909](http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=22909 "http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=22909" )" target="_blank"&gt;[http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&amp;tid=22909](http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=22909 "http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=22909" )&lt;/a&gt;
   * &lt;a href="[http://www.ige8.com/171736home/forum.php?mod=viewthread&amp;tid=2371323&amp;extra=](http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2371323&extra= "http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2371323&extra=" )" target="_blank"&gt;[http://www.ige8.com/171736home/forum.php?mod=viewthread&amp;tid=2371323&amp;extra=](http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2371323&extra= "http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2371323&extra=" )&lt;/a&gt;
 
@@ -9262,7 +9262,7 @@ Related articles：
 
   * &lt;a href="<http://nvraiders.org/nvtek/index.php?title=User:Dloda255417#Judicial_decision_to_protect_intellectual_property_-_Peoples>" target="_blank"&gt;<http://nvraiders.org/nvtek/index.php?title=User:Dloda255417#Judicial_decision_to_protect_intellectual_property_-_Peoples>&lt;/a&gt;
   * <http://andorejapan.com/weblog/2010/04/post-96.html#comments>
-  * <http://www.cliquenote.org/index.php/members/home>
+  * <http://www.cliquenote.orgmembers/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=144 "Edit
 section: Museum in honor of 1911 Revolution reopens - Peoples Daily O" )]
@@ -9384,7 +9384,7 @@ against us among the same way he said. Related articles：
 
   * &lt;a href="[http://www.shmed.org/bbs/forum.php?mod=viewthread&amp;tid=61865](http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=61865 "http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=61865" )" target="_blank"&gt;[http://www.shmed.org/bbs/forum.php?mod=viewthread&amp;tid=61865](http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=61865 "http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=61865" )&lt;/a&gt;
   * <http://se4.vinataydemo.com/templates/tbasegreen/members/home>
-  * <http://watcheswithnolimits.com/forum/index.php/topic,665778.msg841024.html#msg841024>
+  * <http://watcheswithnolimits.com/forumtopic,665778.msg841024.html#msg841024>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=146 "Edit
 section: New changes in Chinas social class structure  - Peoples Dail" )]
@@ -9526,7 +9526,7 @@ Related articles：
 
   * &lt;a href="[http://hotdot5168.com/forum.php?mod=viewthread&amp;tid=96874](http://hotdot5168.com/forum.php?mod=viewthread&tid=96874 "http://hotdot5168.com/forum.php?mod=viewthread&tid=96874" )" target="_blank"&gt;[http://hotdot5168.com/forum.php?mod=viewthread&amp;tid=96874](http://hotdot5168.com/forum.php?mod=viewthread&tid=96874 "http://hotdot5168.com/forum.php?mod=viewthread&tid=96874" )&lt;/a&gt;
   * <http://touchnokia.ru/blagodarya-prodazham-smartfonov-galaxy-s3-pribyl-samsung-b-et-rekordy.html#comments>
-  * <http://wikiareas.org/index.php/User:Dloda118008#Man_arrested_as_infant_found_abandoned_in_airport_-_Peoples>
+  * <http://wikiareas.orgUser:Dloda118008#Man_arrested_as_infant_found_abandoned_in_airport_-_Peoples>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=149 "Edit
 section: Moutai distributor fined for price hike - Peoples Daily Onli" )]
@@ -9619,7 +9619,7 @@ forward the cave-in and lived surrounded difficulty (Xinhua/Long Hongtao)
 Related articles：
 
   * &lt;a href="[http://www.pzbabaishou.com/bbs/home.php?mod=space&amp;uid=22431&amp;do=blog&amp;quickforward=1&amp;id=82041](http://www.pzbabaishou.com/bbs/home.php?mod=space&uid=22431&do=blog&quickforward=1&id=82041 "http://www.pzbabaishou.com/bbs/home.php?mod=space&uid=22431&do=blog&quickforward=1&id=82041" )" target="_blank"&gt;[http://www.pzbabaishou.com/bbs/home.php?mod=space&amp;uid=22431&amp;do=blog&amp;quickforward=1&amp;id=82041](http://www.pzbabaishou.com/bbs/home.php?mod=space&uid=22431&do=blog&quickforward=1&id=82041 "http://www.pzbabaishou.com/bbs/home.php?mod=space&uid=22431&do=blog&quickforward=1&id=82041" )&lt;/a&gt;
-  * <http://wiki.fsairlines.net/index.php/User:Dloda212066#Nodas_trip_provides_new_opportunity_to_enhance_China-Japan_m>
+  * <http://wiki.fsairlines.netUser:Dloda212066#Nodas_trip_provides_new_opportunity_to_enhance_China-Japan_m>
   * &lt;a href="[http://www.xyy120.cn/bbs/home.php?mod=space&amp;uid=31184&amp;do=blog&amp;quickforward=1&amp;id=136083](http://www.xyy120.cn/bbs/home.php?mod=space&uid=31184&do=blog&quickforward=1&id=136083 "http://www.xyy120.cn/bbs/home.php?mod=space&uid=31184&do=blog&quickforward=1&id=136083" )" target="_blank"&gt;[http://www.xyy120.cn/bbs/home.php?mod=space&amp;uid=31184&amp;do=blog&amp;quickforward=1&amp;id=136083](http://www.xyy120.cn/bbs/home.php?mod=space&uid=31184&do=blog&quickforward=1&id=136083 "http://www.xyy120.cn/bbs/home.php?mod=space&uid=31184&do=blog&quickforward=1&id=136083" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=151 "Edit
@@ -9766,7 +9766,7 @@ years Lions XII lost the match 1-2. (Xinhua/Then Chih Wey) Related articles：
 
   * &lt;a href="[http://bbs.086hn.com/forum.php?mod=viewthread&amp;tid=240363](http://bbs.086hn.com/forum.php?mod=viewthread&tid=240363 "http://bbs.086hn.com/forum.php?mod=viewthread&tid=240363" )" target="_blank"&gt;[http://bbs.086hn.com/forum.php?mod=viewthread&amp;tid=240363](http://bbs.086hn.com/forum.php?mod=viewthread&tid=240363 "http://bbs.086hn.com/forum.php?mod=viewthread&tid=240363" )&lt;/a&gt;
   * &lt;a href="[http://www.yxrmw.com/bbs/forum.php?mod=viewthread&amp;tid=48856](http://www.yxrmw.com/bbs/forum.php?mod=viewthread&tid=48856 "http://www.yxrmw.com/bbs/forum.php?mod=viewthread&tid=48856" )" target="_blank"&gt;[http://www.yxrmw.com/bbs/forum.php?mod=viewthread&amp;tid=48856](http://www.yxrmw.com/bbs/forum.php?mod=viewthread&tid=48856 "http://www.yxrmw.com/bbs/forum.php?mod=viewthread&tid=48856" )&lt;/a&gt;
-  * <http://www.millerworld.net/index.php/User:Dloda696167#La_Chine_rapporte_un_d.C3.A9ficit_commercial_en_f.C3.A9vrier_suite>
+  * <http://www.millerworld.netUser:Dloda696167#La_Chine_rapporte_un_d.C3.A9ficit_commercial_en_f.C3.A9vrier_suite>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=155 "Edit
 section: Job fairs held across China after Spring Festival - Peoples" )]
@@ -9887,7 +9887,7 @@ Dress](http://www.karenmillenirelandonline.com/
 "http://www.karenmillenirelandonline.com/" )," he said. "But the latter namely
 much accessory important as a company" Related articles：
 
-  * <http://wiki.resteasyexpense.com/index.php/User:Dloda678371#Israeli_researcher_finds_connection_between_backache_and_gen>
+  * <http://wiki.resteasyexpense.comUser:Dloda678371#Israeli_researcher_finds_connection_between_backache_and_gen>
   * &lt;a href="[http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&amp;tid=85288](http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=85288 "http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=85288" )" target="_blank"&gt;[http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&amp;tid=85288](http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=85288 "http://gm972027.vip715.mianbeian.info/bbs/forum.php?mod=viewthread&tid=85288" )&lt;/a&gt;
   * &lt;a href="<http://encyclopedia.kristianthalai.com/index.php?title=User:Dloda477658#No_need_to_sweat_over_minor_unrest_-_Peoples_Daily_Online>" target="_blank"&gt;<http://encyclopedia.kristianthalai.com/index.php?title=User:Dloda477658#No_need_to_sweat_over_minor_unrest_-_Peoples_Daily_Online>&lt;/a&gt;
 
@@ -10260,7 +10260,7 @@ be: 1 Defects in America's own economic structure; two America's limitations
 aboard high-tech exports to China. (Li Zhenyu)  
 �� We Recommend �� �� Related articles：
 
-  * <http://wiki.amakha.org/index.php/User:Dloda135334#Japans_case_of_flawed_priority_-_Peoples_Daily_Online>
+  * <http://wiki.amakha.orgUser:Dloda135334#Japans_case_of_flawed_priority_-_Peoples_Daily_Online>
   * &lt;a href="[http://iggg.org/x/forum.php?mod=viewthread&amp;tid=1044206&amp;extra=](http://iggg.org/x/forum.php?mod=viewthread&tid=1044206&extra= "http://iggg.org/x/forum.php?mod=viewthread&tid=1044206&extra=" )" target="_blank"&gt;[http://iggg.org/x/forum.php?mod=viewthread&amp;tid=1044206&amp;extra=](http://iggg.org/x/forum.php?mod=viewthread&tid=1044206&extra= "http://iggg.org/x/forum.php?mod=viewthread&tid=1044206&extra=" )&lt;/a&gt;
   * &lt;a href="[http://gcqcn.com/bbs/forum.php?mod=viewthread&amp;tid=24710](http://gcqcn.com/bbs/forum.php?mod=viewthread&tid=24710 "http://gcqcn.com/bbs/forum.php?mod=viewthread&tid=24710" )" target="_blank"&gt;[http://gcqcn.com/bbs/forum.php?mod=viewthread&amp;tid=24710](http://gcqcn.com/bbs/forum.php?mod=viewthread&tid=24710 "http://gcqcn.com/bbs/forum.php?mod=viewthread&tid=24710" )&lt;/a&gt;
 
@@ -10294,7 +10294,7 @@ Wednesday. (Xinhua/Zeng Yi)
 Weekly review Related articles：
 
   * &lt;a href="<http://jimblackler.net/android/index.php?title=User:Dloda936728#Kim_Jong_Il_awarded_title_of_DPRK_hero_-_Peoples_Daily_Onlin>" target="_blank"&gt;<http://jimblackler.net/android/index.php?title=User:Dloda936728#Kim_Jong_Il_awarded_title_of_DPRK_hero_-_Peoples_Daily_Onlin>&lt;/a&gt;
-  * <http://wikicrime.org/index.php/User:Dloda745360#NATO_responsible_for_civilian_deaths_in_Libya_U.S._congressm>
+  * <http://wikicrime.orgUser:Dloda745360#NATO_responsible_for_civilian_deaths_in_Libya_U.S._congressm>
   * &lt;a href="<http://www.tyyoushi.com/jyzx/review.asp?NewsID=130>" target="_blank"&gt;<http://www.tyyoushi.com/jyzx/review.asp?NewsID=130>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=164 "Edit
@@ -10384,7 +10384,7 @@ Bags](http://www.paulsmithcanada.com/ "http://www.paulsmithcanada.com/" ),
 well ......And time also will pass them along Maybe they ought emigrate to the
 lands where they think the grass is greener ... Related articles：
 
-  * <http://foodshed.codeforamerica.org/index.php/User:Dloda375720#Nepali_govt_agrees_to_36_mln_USD_climate_change_loan___-_Peo>
+  * <http://foodshed.codeforamerica.orgUser:Dloda375720#Nepali_govt_agrees_to_36_mln_USD_climate_change_loan___-_Peo>
   * &lt;a href="<http://plastic-surgery-wiki.com/index.php?title=User:Dloda820944#Low-income_workers_make_container_house_-_Peoples_Daily_Onli>" target="_blank"&gt;<http://plastic-surgery-wiki.com/index.php?title=User:Dloda820944#Low-income_workers_make_container_house_-_Peoples_Daily_Onli>&lt;/a&gt;
   * &lt;a href="[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&amp;diary_date=20120729&amp;postid=403011](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120729&postid=403011 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120729&postid=403011" )" target="_blank"&gt;[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&amp;diary_date=20120729&amp;postid=403011](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120729&postid=403011 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120729&postid=403011" )&lt;/a&gt;
 
@@ -10467,7 +10467,7 @@ articles：
 
   * &lt;a href="[http://gctech.gotoip3.com/bbs/home.php?mod=space&amp;uid=5051&amp;do=blog&amp;quickforward=1&amp;id=212008](http://gctech.gotoip3.com/bbs/home.php?mod=space&uid=5051&do=blog&quickforward=1&id=212008 "http://gctech.gotoip3.com/bbs/home.php?mod=space&uid=5051&do=blog&quickforward=1&id=212008" )" target="_blank"&gt;[http://gctech.gotoip3.com/bbs/home.php?mod=space&amp;uid=5051&amp;do=blog&amp;quickforward=1&amp;id=212008](http://gctech.gotoip3.com/bbs/home.php?mod=space&uid=5051&do=blog&quickforward=1&id=212008 "http://gctech.gotoip3.com/bbs/home.php?mod=space&uid=5051&do=blog&quickforward=1&id=212008" )&lt;/a&gt;
   * &lt;a href="<http://legions.archetypestudios.net/index.php?title=User:Dloda756250#New_rules_to_combat_pollution_-_Peoples_Daily_Online>" target="_blank"&gt;<http://legions.archetypestudios.net/index.php?title=User:Dloda756250#New_rules_to_combat_pollution_-_Peoples_Daily_Online>&lt;/a&gt;
-  * <http://optogenomics.org/index.php/User:Dloda376707#Metro_teams_up_with_Foxconn_in_electronics_retailing_-_Peopl>
+  * <http://optogenomics.orgUser:Dloda376707#Metro_teams_up_with_Foxconn_in_electronics_retailing_-_Peopl>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=169 "Edit
 section: New Years Day parade held in London - Peoples Daily Online" )]
@@ -10714,7 +10714,7 @@ among the Nordic region. Related articles：
 
   * &lt;a href="[http://www.love-lena.com/bbs/viewthread.php?tid=3105148&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=3105148&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=3105148&extra=" )" target="_blank"&gt;[http://www.love-lena.com/bbs/viewthread.php?tid=3105148&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=3105148&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=3105148&extra=" )&lt;/a&gt;
   * &lt;a href="<http://fakeopedia.org/index.php?title=User:Dloda601064#Multinationals_flourish_in_Tianjin_after_Chinas_WTO_entry_->" target="_blank"&gt;<http://fakeopedia.org/index.php?title=User:Dloda601064#Multinationals_flourish_in_Tianjin_after_Chinas_WTO_entry_->&lt;/a&gt;
-  * <http://wiki.bdatechsolutions.com/index.php/User:Dloda125331#Kansas_awarded_.246-mln_grant_to_train_workers_in_green_indust>
+  * <http://wiki.bdatechsolutions.comUser:Dloda125331#Kansas_awarded_.246-mln_grant_to_train_workers_in_green_indust>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=174 "Edit
 section: More focus on intellectual property needed Officials - Peopl" )]
@@ -10760,7 +10760,7 @@ articles：
 
   * &lt;a href="[http://www.net-wedding.com/viewthread.php?tid=1249032&amp;extra=](http://www.net-wedding.com/viewthread.php?tid=1249032&extra= "http://www.net-wedding.com/viewthread.php?tid=1249032&extra=" )" target="_blank"&gt;[http://www.net-wedding.com/viewthread.php?tid=1249032&amp;extra=](http://www.net-wedding.com/viewthread.php?tid=1249032&extra= "http://www.net-wedding.com/viewthread.php?tid=1249032&extra=" )&lt;/a&gt;
   * &lt;a href="[http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&amp;extra=](http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&extra= "http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&extra=" )" target="_blank"&gt;[http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&amp;extra=](http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&extra= "http://202.205.91.88/sy/bbs/viewthread.php?tid=2428642&extra=" )&lt;/a&gt;
-  * <http://loekepedia.org/index.php/User:Dloda040699#More_investment_to_go_to_Sino-Singaporean_Eco-City_in_Tianji>
+  * <http://loekepedia.orgUser:Dloda040699#More_investment_to_go_to_Sino-Singaporean_Eco-City_in_Tianji>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=175 "Edit
 section: Modern Mooncakes - Peoples Daily Online" )]
@@ -10817,7 +10817,7 @@ Canada](http://www.ralphlaurencanada.com/ "http://www.ralphlaurencanada.com/"
 ), medicated edible and other things is are good as health. Related articles：
 
   * <http://www.commoncurrent.com/notes/2008/12/a-way-forward-for-us-auto-blue.html#comments>
-  * <http://lavidalibre.net/fleetwiki/index.php/User:Dloda746797#Market_closes_down_on_gloomy_economic_outlook_-_Peoples_Dail>
+  * <http://lavidalibre.net/fleetwikiUser:Dloda746797#Market_closes_down_on_gloomy_economic_outlook_-_Peoples_Dail>
   * &lt;a href="[http://ddd.115.at/forum.php?mod=viewthread&amp;tid=79348](http://ddd.115.at/forum.php?mod=viewthread&tid=79348 "http://ddd.115.at/forum.php?mod=viewthread&tid=79348" )" target="_blank"&gt;[http://ddd.115.at/forum.php?mod=viewthread&amp;tid=79348](http://ddd.115.at/forum.php?mod=viewthread&tid=79348 "http://ddd.115.at/forum.php?mod=viewthread&tid=79348" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=176 "Edit
@@ -10970,7 +10970,7 @@ alternatively missing and triggered a nuclear opportunity the world had never
 penetrated since 1986. (Xinhua/Kenichiro Seki) Related articles：
 
   * <http://knowledge.cpclearningnetwork.org/User:Dloda607714#Lawmakers_mull_separate_law_to_protect_domestic-violence_vic>
-  * <http://pulmogenomics.org/index.php/User:Dloda309805#Minivans_rev_up_sales_for_GM_-_Peoples_Daily_Online>
+  * <http://pulmogenomics.orgUser:Dloda309805#Minivans_rev_up_sales_for_GM_-_Peoples_Daily_Online>
   * &lt;a href="<http://kingdomofhanover.com/info/index.php?title=User:Dloda276577#Last-four_berths_fixed.2C_China_finish_15th_-_Peoples_Daily_On>" target="_blank"&gt;<http://kingdomofhanover.com/info/index.php?title=User:Dloda276577#Last-four_berths_fixed.2C_China_finish_15th_-_Peoples_Daily_On>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=180 "Edit
@@ -11206,7 +11206,7 @@ region,[Paul Smith Suits](http://www.paulsmithcanada.com/
 "http://www.paulsmithcanada.com/" ), making tensions surrounded the region
 exasperate. Related articles：
 
-  * <http://nanog.cluepon.net/index.php/User:Dloda922637#New_media_outlook_in_2012_-_Peoples_Daily_Online>
+  * <http://nanog.cluepon.netUser:Dloda922637#New_media_outlook_in_2012_-_Peoples_Daily_Online>
   * &lt;a href="[http://www.heleek.com/bbs/home.php?mod=space&amp;uid=2692&amp;do=blog&amp;quickforward=1&amp;id=123671](http://www.heleek.com/bbs/home.php?mod=space&uid=2692&do=blog&quickforward=1&id=123671 "http://www.heleek.com/bbs/home.php?mod=space&uid=2692&do=blog&quickforward=1&id=123671" )" target="_blank"&gt;[http://www.heleek.com/bbs/home.php?mod=space&amp;uid=2692&amp;do=blog&amp;quickforward=1&amp;id=123671](http://www.heleek.com/bbs/home.php?mod=space&uid=2692&do=blog&quickforward=1&id=123671 "http://www.heleek.com/bbs/home.php?mod=space&uid=2692&do=blog&quickforward=1&id=123671" )&lt;/a&gt;
   * &lt;a href="[http://ww.zhuanqian.biz/forum.php?mod=viewthread&amp;tid=753914](http://ww.zhuanqian.biz/forum.php?mod=viewthread&tid=753914 "http://ww.zhuanqian.biz/forum.php?mod=viewthread&tid=753914" )" target="_blank"&gt;[http://ww.zhuanqian.biz/forum.php?mod=viewthread&amp;tid=753914](http://ww.zhuanqian.biz/forum.php?mod=viewthread&tid=753914 "http://ww.zhuanqian.biz/forum.php?mod=viewthread&tid=753914" )&lt;/a&gt;
 
@@ -11330,8 +11330,8 @@ folk deities. The Kitchen God seemed soon afterward the invention of the brick
 furnace The Kitchen God was originally believed to linger among the furnace
 and only after took on human form. Related articles：
 
-  * <http://wiki.censormon.net/index.php/User:Dloda948470#Nigerian_minister_says_subsidy_withdrawal_not_dictated_by_IM>
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#Ministry_replies_to_disabled_mens_letter_-_Peoples_Daily_Onl>
+  * <http://wiki.censormon.netUser:Dloda948470#Nigerian_minister_says_subsidy_withdrawal_not_dictated_by_IM>
+  * <http://wikidust.sbols.orgUser:Dloda721732#Ministry_replies_to_disabled_mens_letter_-_Peoples_Daily_Onl>
   * <http://bbs.workercn.cn/forum-8-1.html>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=185 "Edit
@@ -11451,7 +11451,7 @@ officials a heavy buffet they deserve. Related articles：
 
   * <http://bbs.99ul.net/thread-85686-1-1.html>
   * &lt;a href="[http://lingangbbs.com/viewthread.php?tid=1391173&amp;extra=](http://lingangbbs.com/viewthread.php?tid=1391173&extra= "http://lingangbbs.com/viewthread.php?tid=1391173&extra=" )" target="_blank"&gt;[http://lingangbbs.com/viewthread.php?tid=1391173&amp;extra=](http://lingangbbs.com/viewthread.php?tid=1391173&extra= "http://lingangbbs.com/viewthread.php?tid=1391173&extra=" )&lt;/a&gt;
-  * <http://thepornpedia.com/index.php/User:Dloda575423#Nepali_govt_agrees_to_36_mln_USD_climate_change_loan___-_Peo>
+  * <http://thepornpedia.comUser:Dloda575423#Nepali_govt_agrees_to_36_mln_USD_climate_change_loan___-_Peo>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=187 "Edit
 section: Memorial ceremony held on 74th anniversary of Nanjing Massac" )]
@@ -11478,9 +11478,9 @@ Cher](http://www.chaussurelouboutinhomme.com/products_all.html
 unarmed soldiers and civilians were annihilated (Xinhua/Han Hua) Related
 articles：
 
-  * <http://thepornpedia.com/index.php/User:Dloda575423#Japanese_PM_calls_for_parliamentary_cooperation_on_fiscal_re>
+  * <http://thepornpedia.comUser:Dloda575423#Japanese_PM_calls_for_parliamentary_cooperation_on_fiscal_re>
   * &lt;a href="[http://new.dxzn.cn/bbs/forum.php?mod=viewthread&amp;tid=57573](http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=57573 "http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=57573" )" target="_blank"&gt;[http://new.dxzn.cn/bbs/forum.php?mod=viewthread&amp;tid=57573](http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=57573 "http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=57573" )&lt;/a&gt;
-  * <http://wiki.rational-skepticism.org/index.php/User:Dloda723063#Netizens_show_mixed_feelings_as_Beijing_strives_to_rein_in_t>
+  * <http://wiki.rational-skepticism.orgUser:Dloda723063#Netizens_show_mixed_feelings_as_Beijing_strives_to_rein_in_t>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=188 "Edit
 section: Make a New Years wish \(7\) - Peoples Daily Online" )]
@@ -11502,7 +11502,7 @@ Lauren](http://www.ralphlaurenaustraliaonline.com/
 
   * &lt;a href="[http://zhuanqian.biz/forum.php?mod=viewthread&amp;tid=758763](http://zhuanqian.biz/forum.php?mod=viewthread&tid=758763 "http://zhuanqian.biz/forum.php?mod=viewthread&tid=758763" )" target="_blank"&gt;[http://zhuanqian.biz/forum.php?mod=viewthread&amp;tid=758763](http://zhuanqian.biz/forum.php?mod=viewthread&tid=758763 "http://zhuanqian.biz/forum.php?mod=viewthread&tid=758763" )&lt;/a&gt;
   * <http://ideas.ausg.org/submit/upcoming.php>
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#Knocking_the_door_open_-_Nixons_China_trip_and_its_legacy_->
+  * <http://wikidust.sbols.orgUser:Dloda721732#Knocking_the_door_open_-_Nixons_China_trip_and_its_legacy_->
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=189 "Edit
 section: Migrant workers may return to work at home  - Peoples Daily" )]
@@ -11553,7 +11553,7 @@ to workers. The year profit of the successful happening approaches accessory
 than six million yuan. Related articles：
 
   * &lt;a href="<http://hwhsyj.uueasy.com/read.php?tid=363972>" target="_blank"&gt;<http://hwhsyj.uueasy.com/read.php?tid=363972>&lt;/a&gt;
-  * <http://inspectipedia.com/index.php/User:Dloda486794#Mexican_official_hails_Chinas_role_in_containing_global_cris>
+  * <http://inspectipedia.comUser:Dloda486794#Mexican_official_hails_Chinas_role_in_containing_global_cris>
   * &lt;a href="<http://bbs.mmwedding.net/forumdisplay.php?fid=28>" target="_blank"&gt;<http://bbs.mmwedding.net/forumdisplay.php?fid=28>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=190 "Edit
@@ -11655,7 +11655,7 @@ Source:Xinhua Related articles：
 
   * &lt;a href="<http://alumni.esaunggul.ac.id/forum/index.php?topic=922935.msg1808680#msg1808680>" target="_blank"&gt;<http://alumni.esaunggul.ac.id/forum/index.php?topic=922935.msg1808680#msg1808680>&lt;/a&gt;
   * &lt;a href="[http://discuz.jp/forum.php?mod=viewthread&amp;tid=788917&amp;extra=](http://discuz.jp/forum.php?mod=viewthread&tid=788917&extra= "http://discuz.jp/forum.php?mod=viewthread&tid=788917&extra=" )" target="_blank"&gt;[http://discuz.jp/forum.php?mod=viewthread&amp;tid=788917&amp;extra=](http://discuz.jp/forum.php?mod=viewthread&tid=788917&extra= "http://discuz.jp/forum.php?mod=viewthread&tid=788917&extra=" )&lt;/a&gt;
-  * <http://www.openideaswiki.com/index.php/User:Dloda196436#More_non-political_newspapers_switch_to_market-oriented_mode>
+  * <http://www.openideaswiki.comUser:Dloda196436#More_non-political_newspapers_switch_to_market-oriented_mode>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=192 "Edit
 section: Medvedev, Putin meet supporters in Moscow - Peoples Daily On" )]
@@ -11673,7 +11673,7 @@ Bags](http://www.paulsmithaustraliasale.com/
 "http://www.paulsmithaustraliasale.com/" )! Related articles：
 
   * &lt;a href="<http://bbs.mmwedding.net/forumdisplay.php?fid=28>" target="_blank"&gt;<http://bbs.mmwedding.net/forumdisplay.php?fid=28>&lt;/a&gt;
-  * <http://wiki.open-pc.com/index.php/User:Dloda827138#Launch_delays_will_not_affect_Shenzhou_-_Peoples_Daily_Onlin>
+  * <http://wiki.open-pc.comUser:Dloda827138#Launch_delays_will_not_affect_Shenzhou_-_Peoples_Daily_Onlin>
   * <http://www.whjxsx.com/blog/user1/dloda244767/archives/2012/112468.html>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=193 "Edit
@@ -12035,7 +12035,7 @@ missing plus triggered a nuclear become the earth had never watched since
 1986. (Xinhua/Kenichiro Seki) Related articles：
 
   * &lt;a href="<http://infernalnexus.com/mousehunt/index.php?title=User:Dloda973719#Magnitude_5.8_earthquake_hits_U.S._east_coast__-_Peoples_Dai>" target="_blank"&gt;<http://infernalnexus.com/mousehunt/index.php?title=User:Dloda973719#Magnitude_5.8_earthquake_hits_U.S._east_coast__-_Peoples_Dai>&lt;/a&gt;
-  * <http://inspectipedia.com/index.php/User:Dloda486794#Mobile_industry_remains_stagnant_without_Apple_data_-_People>
+  * <http://inspectipedia.comUser:Dloda486794#Mobile_industry_remains_stagnant_without_Apple_data_-_People>
   * &lt;a href="[http://9697h.ggyy.tw/viewthread.php?tid=737382&amp;extra=](http://9697h.ggyy.tw/viewthread.php?tid=737382&extra= "http://9697h.ggyy.tw/viewthread.php?tid=737382&extra=" )" target="_blank"&gt;[http://9697h.ggyy.tw/viewthread.php?tid=737382&amp;extra=](http://9697h.ggyy.tw/viewthread.php?tid=737382&extra= "http://9697h.ggyy.tw/viewthread.php?tid=737382&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=199 "Edit
@@ -12118,7 +12118,7 @@ was painted according the Yuan Dynasty (1206-1368) painter Huang Gongwang.
 (Xinhua/Zhang Wenkui) Related articles：
 
   * &lt;a href="[http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&amp;tid=941548](http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&tid=941548 "http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&tid=941548" )" target="_blank"&gt;[http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&amp;tid=941548](http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&tid=941548 "http://www.oulipo.hk/discuz/upload/forum.php?mod=viewthread&tid=941548" )&lt;/a&gt;
-  * <http://jiminy.medialab.sciences-po.fr/hci/index.php/User:Dloda738134#Landmark_power_line_ends_Tibet_plateaus_blackouts_-_Peoples>
+  * <http://jiminy.medialab.sciences-po.fr/hciUser:Dloda738134#Landmark_power_line_ends_Tibet_plateaus_blackouts_-_Peoples>
   * &lt;a href="<http://alumni.esaunggul.ac.id/forum/index.php?topic=922946.msg1808695#msg1808695>" target="_blank"&gt;<http://alumni.esaunggul.ac.id/forum/index.php?topic=922946.msg1808695#msg1808695>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=201 "Edit
@@ -12239,7 +12239,7 @@ celebrate Related articles：
 
   * &lt;a href="[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&extra=" )" target="_blank"&gt;[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3447399&extra=" )&lt;/a&gt;
   * &lt;a href="[http://www.youtal.net/bbs/viewthread.php?tid=2327920&amp;extra=](http://www.youtal.net/bbs/viewthread.php?tid=2327920&extra= "http://www.youtal.net/bbs/viewthread.php?tid=2327920&extra=" )" target="_blank"&gt;[http://www.youtal.net/bbs/viewthread.php?tid=2327920&amp;extra=](http://www.youtal.net/bbs/viewthread.php?tid=2327920&extra= "http://www.youtal.net/bbs/viewthread.php?tid=2327920&extra=" )&lt;/a&gt;
-  * <http://watcheswithnolimits.com/forum/index.php/topic,672666.msg851521.html#msg851521>
+  * <http://watcheswithnolimits.com/forumtopic,672666.msg851521.html#msg851521>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=205 "Edit
 section: Lawmakers concerned with use of arable land - Peoples Daily" )]
@@ -12356,7 +12356,7 @@ L’Oreal, Volkswagen,[Gucci Australia](http://www.gucciaustraliasydney.com/
 Moment Systems solutions to optimize their online investment. Related
 articles：
 
-  * <http://www.indianmusicguide.com/index.php/User:Dloda399107#Nagasaki-Shanghai_ferry_service_launched_-_Peoples_Daily_Onl>
+  * <http://www.indianmusicguide.comUser:Dloda399107#Nagasaki-Shanghai_ferry_service_launched_-_Peoples_Daily_Onl>
   * &lt;a href="[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1139275](http://www.when.com.tw/forum.php?mod=viewthread&tid=1139275 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1139275" )" target="_blank"&gt;[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1139275](http://www.when.com.tw/forum.php?mod=viewthread&tid=1139275 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1139275" )&lt;/a&gt;
   * <http://www.buddinet.com/SYB/2010/12/houston-red-light-cameras.html#comments>
 
@@ -12383,7 +12383,7 @@ Nike](http://www.airmaxaustraliamall.com/
 and triggered a nuclear opportunity the world had never seen since 1986.
 (Xinhua/Kenichiro Seki) Related articles：
 
-  * <http://wiki.fsairlines.net/index.php/User:Dloda212066#Left-behind_women_keep_homes_running_-_Peoples_Daily_Online>
+  * <http://wiki.fsairlines.netUser:Dloda212066#Left-behind_women_keep_homes_running_-_Peoples_Daily_Online>
   * &lt;a href="[http://5199.com.tw/forum.php?mod=viewthread&amp;tid=132603](http://5199.com.tw/forum.php?mod=viewthread&tid=132603 "http://5199.com.tw/forum.php?mod=viewthread&tid=132603" )" target="_blank"&gt;[http://5199.com.tw/forum.php?mod=viewthread&amp;tid=132603](http://5199.com.tw/forum.php?mod=viewthread&tid=132603 "http://5199.com.tw/forum.php?mod=viewthread&tid=132603" )&lt;/a&gt;
   * <http://blog.kristyandrick.com/2008/11/special-date-known.html#comments>
 
@@ -12558,7 +12558,7 @@ to a sustainable and healthy mutation alley
 �� �� �� �� �� �� �� �� �� �� �� �� �� We Recommend �� �� �� �� �� �� �� ��
 Related articles：
 
-  * <http://www.phpug.org.nz/index.php/User:Dloda846032#Liquor_brand_unsure_if_it_wants_a_taste_of_luxury_-_Peoples>
+  * <http://www.phpug.org.nzUser:Dloda846032#Liquor_brand_unsure_if_it_wants_a_taste_of_luxury_-_Peoples>
   * &lt;a href="[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1139399](http://www.when.com.tw/forum.php?mod=viewthread&tid=1139399 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1139399" )" target="_blank"&gt;[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1139399](http://www.when.com.tw/forum.php?mod=viewthread&tid=1139399 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1139399" )&lt;/a&gt;
   * &lt;a href="[http://365friendz.com/blog.php?user=dloda261937&amp;blogentry_id=66475](http://365friendz.com/blog.php?user=dloda261937&blogentry_id=66475 "http://365friendz.com/blog.php?user=dloda261937&blogentry_id=66475" )" target="_blank"&gt;[http://365friendz.com/blog.php?user=dloda261937&amp;blogentry_id=66475](http://365friendz.com/blog.php?user=dloda261937&blogentry_id=66475 "http://365friendz.com/blog.php?user=dloda261937&blogentry_id=66475" )&lt;/a&gt;
 
@@ -12609,9 +12609,9 @@ attention from the public plus authorities," Wang said,adding that
 compensation violations are particularly emphatic in the construction
 industry. Related articles：
 
-  * <http://www.bisericaonline.ro/forum/index.php/topic,253010.msg282679.html#msg282679>
+  * <http://www.bisericaonline.ro/forumtopic,253010.msg282679.html#msg282679>
   * &lt;a href="[http://new.dxzn.cn/bbs/forum.php?mod=viewthread&amp;tid=58797](http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=58797 "http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=58797" )" target="_blank"&gt;[http://new.dxzn.cn/bbs/forum.php?mod=viewthread&amp;tid=58797](http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=58797 "http://new.dxzn.cn/bbs/forum.php?mod=viewthread&tid=58797" )&lt;/a&gt;
-  * <http://inspectipedia.com/index.php/User:Dloda486794#More_bachelor_girls_than_boys_in_Shanghai_-_Peoples_Daily_On>
+  * <http://inspectipedia.comUser:Dloda486794#More_bachelor_girls_than_boys_in_Shanghai_-_Peoples_Daily_On>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=212 "Edit
 section: Medvedevs seat in new Duma to go to member of United Russia" )]
@@ -13104,7 +13104,7 @@ Chonqing and the Chengdu panda base and Calgary Zoo." Related articles：
 
   * <http://www.sanbo-n.info/2012/07/16211024.php#comments>
   * &lt;a href="[http://www.ige8.com/171736home/forum.php?mod=viewthread&amp;tid=2422065&amp;extra=](http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2422065&extra= "http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2422065&extra=" )" target="_blank"&gt;[http://www.ige8.com/171736home/forum.php?mod=viewthread&amp;tid=2422065&amp;extra=](http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2422065&extra= "http://www.ige8.com/171736home/forum.php?mod=viewthread&tid=2422065&extra=" )&lt;/a&gt;
-  * <http://wiki.simyard.com/index.php/User:Dloda639445#Lenovo_worlds_No._2_PC_maker_-_Peoples_Daily_Online>
+  * <http://wiki.simyard.comUser:Dloda639445#Lenovo_worlds_No._2_PC_maker_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=222 "Edit
 section: Next Nepali prime ministerial election likely to be deferred" )]
@@ -13141,7 +13141,7 @@ Source: Xinhua Related articles：
 
   * &lt;a href="[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1144985](http://www.when.com.tw/forum.php?mod=viewthread&tid=1144985 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1144985" )" target="_blank"&gt;[http://www.when.com.tw/forum.php?mod=viewthread&amp;tid=1144985](http://www.when.com.tw/forum.php?mod=viewthread&tid=1144985 "http://www.when.com.tw/forum.php?mod=viewthread&tid=1144985" )&lt;/a&gt;
   * <http://87noki.com/log3/2011/11/post-216.html#comments>
-  * <http://www.firstwiki.net/index.php/User:Dloda054807#Japans_KEPCO_to_shutdown_its_last_nuclear_reactor_-_Peoples>
+  * <http://www.firstwiki.netUser:Dloda054807#Japans_KEPCO_to_shutdown_its_last_nuclear_reactor_-_Peoples>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=223 "Edit
 section: More than 2,000 Australians gather for Lionel Roses funeral" )]
@@ -13275,7 +13275,7 @@ Canada](http://www.louboutincanadashoesoutlet.com/
 "http://www.louboutincanadashoesoutlet.com/" ),an imported French wine that
 namely even surplus priceless. Related articles：
 
-  * <http://thepornpedia.com/index.php/User:Dloda575423#Most_popular_majors_for_overseas_students_in_US__-_Peoples_D>
+  * <http://thepornpedia.comUser:Dloda575423#Most_popular_majors_for_overseas_students_in_US__-_Peoples_D>
   * &lt;a href="[http://www.wineuchat.com/viewthread.php?tid=621564&amp;extra=](http://www.wineuchat.com/viewthread.php?tid=621564&extra= "http://www.wineuchat.com/viewthread.php?tid=621564&extra=" )" target="_blank"&gt;[http://www.wineuchat.com/viewthread.php?tid=621564&amp;extra=](http://www.wineuchat.com/viewthread.php?tid=621564&extra= "http://www.wineuchat.com/viewthread.php?tid=621564&extra=" )&lt;/a&gt;
   * &lt;a href="[http://imarrychina.com/forum/forum.php?mod=viewthread&amp;tid=82740](http://imarrychina.com/forum/forum.php?mod=viewthread&tid=82740 "http://imarrychina.com/forum/forum.php?mod=viewthread&tid=82740" )" target="_blank"&gt;[http://imarrychina.com/forum/forum.php?mod=viewthread&amp;tid=82740](http://imarrychina.com/forum/forum.php?mod=viewthread&tid=82740 "http://imarrychina.com/forum/forum.php?mod=viewthread&tid=82740" )&lt;/a&gt;
 
@@ -13339,7 +13339,7 @@ their sports aptitude
 Source: Xinhua Related articles：
 
   * &lt;a href="[http://home.km-airnet.net/space.php?uid=135850&amp;do=blog&amp;id=1775322](http://home.km-airnet.net/space.php?uid=135850&do=blog&id=1775322 "http://home.km-airnet.net/space.php?uid=135850&do=blog&id=1775322" )" target="_blank"&gt;[http://home.km-airnet.net/space.php?uid=135850&amp;do=blog&amp;id=1775322](http://home.km-airnet.net/space.php?uid=135850&do=blog&id=1775322 "http://home.km-airnet.net/space.php?uid=135850&do=blog&id=1775322" )&lt;/a&gt;
-  * <http://watcheswithnolimits.com/forum/index.php/topic,675210.msg855074.html#msg855074>
+  * <http://watcheswithnolimits.com/forumtopic,675210.msg855074.html#msg855074>
   * &lt;a href="[http://www.heleek.com/bbs/forum.php?mod=viewthread&amp;tid=1792](http://www.heleek.com/bbs/forum.php?mod=viewthread&tid=1792 "http://www.heleek.com/bbs/forum.php?mod=viewthread&tid=1792" )" target="_blank"&gt;[http://www.heleek.com/bbs/forum.php?mod=viewthread&amp;tid=1792](http://www.heleek.com/bbs/forum.php?mod=viewthread&tid=1792 "http://www.heleek.com/bbs/forum.php?mod=viewthread&tid=1792" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=226 "Edit
@@ -13504,7 +13504,7 @@ By Chen Rui,[Asics Running](http://www.asicsaustraliamall.com/
 
   * <http://www.yutiefeng.com/blog/2011/10/2012.html#comments>
   * &lt;a href="<http://madmenwiki.com/index.php?title=User:Dloda828095#Largest_Apple_store_in_Chinese_mainland_to_open__-_Peoples_D>" target="_blank"&gt;<http://madmenwiki.com/index.php?title=User:Dloda828095#Largest_Apple_store_in_Chinese_mainland_to_open__-_Peoples_D>&lt;/a&gt;
-  * <http://bestidol.org/en/index.php/User:Dloda160864#Journalists_arrive_to_cover_CPPCC_annual_session_.283.29_-_Peopl>
+  * <http://bestidol.org/enUser:Dloda160864#Journalists_arrive_to_cover_CPPCC_annual_session_.283.29_-_Peopl>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=229 "Edit
 section: Minister explains why fiscal revenue grows faster than GDP -" )]
@@ -13883,7 +13883,7 @@ York, with employment there falling to virtually 7,000 from more than
 days. Related articles：
 
   * <http://chiropracticmonopoly.com/chiro-interact/user_blog.php>
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="<http://www.mxqyy.com/review.asp?NewsID=640>" target="_blank"&gt;<http://www.mxqyy.com/review.asp?NewsID=640>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=237 "Edit
@@ -14200,9 +14200,9 @@ Max](http://www.airmax2012canada.com/ "http://www.airmax2012canada.com/"
 The court determined that the marriage was unlawful and invalid because Li
 concealed the sickness. Related articles：
 
-  * <http://www.collegegrid.com/grid/index.php/User:Dloda916525#Lawyers_in_central_China_to_provide_free_legal_advice_for_mi>
+  * <http://www.collegegrid.com/gridUser:Dloda916525#Lawyers_in_central_China_to_provide_free_legal_advice_for_mi>
   * &lt;a href="<http://fakeopedia.org/index.php?title=User:Dloda601064#Moscow.2C_Beijing_vow_to_strengthen_mutual_trust_-_Peoples_Dai>" target="_blank"&gt;<http://fakeopedia.org/index.php?title=User:Dloda601064#Moscow.2C_Beijing_vow_to_strengthen_mutual_trust_-_Peoples_Dai>&lt;/a&gt;
-  * <http://cdr.chicagobynight.org/CDR/index.php/User:Dloda199808#Matchmaker_lines_up_right_catch_for_seniors_-_Peoples_Daily>
+  * <http://cdr.chicagobynight.org/CDRUser:Dloda199808#Matchmaker_lines_up_right_catch_for_seniors_-_Peoples_Daily>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=244 "Edit
 section: Massive wage hike for Foxconn workers - Peoples Daily Online" )]
@@ -14244,7 +14244,7 @@ to be released in March. Related articles：
 
   * &lt;a href="[http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&amp;tid=46392](http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=46392 "http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=46392" )" target="_blank"&gt;[http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&amp;tid=46392](http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=46392 "http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=46392" )&lt;/a&gt;
   * &lt;a href="[http://www.zzmhw.net/bbs/forum.php?mod=viewthread&amp;tid=101558](http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=101558 "http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=101558" )" target="_blank"&gt;[http://www.zzmhw.net/bbs/forum.php?mod=viewthread&amp;tid=101558](http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=101558 "http://www.zzmhw.net/bbs/forum.php?mod=viewthread&tid=101558" )&lt;/a&gt;
-  * <http://wiki.open-pc.com/index.php/User:Dloda827138#No_mercy_for_terrorist_acts_in_Xinjiang_-_Peoples_Daily_Onli>
+  * <http://wiki.open-pc.comUser:Dloda827138#No_mercy_for_terrorist_acts_in_Xinjiang_-_Peoples_Daily_Onli>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=245 "Edit
 section: Létablissement dun mécanisme de sécurité pour le systèm" )]
@@ -14455,7 +14455,7 @@ progress on the issues namely concern China most.
 
   * <http://www.boy168.tw/thread-254824-1-1.html>
   * &lt;a href="[http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&amp;tid=25262&amp;extra=](http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=25262&extra= "http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=25262&extra=" )" target="_blank"&gt;[http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&amp;tid=25262&amp;extra=](http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=25262&extra= "http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=25262&extra=" )&lt;/a&gt;
-  * <http://nnos.us/ms/index.php/User:Dloda335552#Les_d.C3.A9boires_de_DSK_auront-ils_une_fin_-Le_Quotidien_du_Peu>
+  * <http://nnos.us/msUser:Dloda335552#Les_d.C3.A9boires_de_DSK_auront-ils_une_fin_-Le_Quotidien_du_Peu>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=249 "Edit
 section: Long road to rehabilitation for Wenchuan quake survivors - P" )]
@@ -14623,7 +14623,7 @@ Australia](http://www.asicsaustraliamall.com/
 "http://www.asicsaustraliamall.com/" ),by to armed police authorities
 surrounded Guangxi. (Xinhua/Huang Xiaobang) Related articles：
 
-  * <http://wiki.simyard.com/index.php/User:Dloda639445#KFC_raises_prices_again_-_Peoples_Daily_Online>
+  * <http://wiki.simyard.comUser:Dloda639445#KFC_raises_prices_again_-_Peoples_Daily_Online>
   * &lt;a href="<http://miss-smile.com/new2/index.php?do=/dloda451302/blog/muslims-get-prepared-for-ramadan-peoples-daily-online/>" target="_blank"&gt;<http://miss-smile.com/new2/index.php?do=/dloda451302/blog/muslims-get-prepared-for-ramadan-peoples-daily-online/>&lt;/a&gt;
   * <http://yoko14145.com/blogs/2010/10/-vol4.html#comments>
 
@@ -14660,7 +14660,7 @@ pumps-c-9.html" ), July 27,[MBT Footwear](http://www.mbtaustraliaonline.com/
 Weekly review Related articles：
 
   * &lt;a href="[http://365friendz.com/blog.php?user=dloda261937&amp;blogentry_id=80412](http://365friendz.com/blog.php?user=dloda261937&blogentry_id=80412 "http://365friendz.com/blog.php?user=dloda261937&blogentry_id=80412" )" target="_blank"&gt;[http://365friendz.com/blog.php?user=dloda261937&amp;blogentry_id=80412](http://365friendz.com/blog.php?user=dloda261937&blogentry_id=80412 "http://365friendz.com/blog.php?user=dloda261937&blogentry_id=80412" )&lt;/a&gt;
-  * <http://oppenn.org/index.php/User:Dloda536911#NBA_China_program_draws_96m_viewers_-_Peoples_Daily_Online>
+  * <http://oppenn.orgUser:Dloda536911#NBA_China_program_draws_96m_viewers_-_Peoples_Daily_Online>
   * &lt;a href="[http://go-go-gou.com/bbs/forum.php?mod=viewthread&amp;tid=6636](http://go-go-gou.com/bbs/forum.php?mod=viewthread&tid=6636 "http://go-go-gou.com/bbs/forum.php?mod=viewthread&tid=6636" )" target="_blank"&gt;[http://go-go-gou.com/bbs/forum.php?mod=viewthread&amp;tid=6636](http://go-go-gou.com/bbs/forum.php?mod=viewthread&tid=6636 "http://go-go-gou.com/bbs/forum.php?mod=viewthread&tid=6636" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=254 "Edit
@@ -14829,7 +14829,7 @@ He Mengying and Xinhua contributed to this story. Related articles：
 
   * &lt;a href="[http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&amp;tid=96464](http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=96464 "http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=96464" )" target="_blank"&gt;[http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&amp;tid=96464](http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=96464 "http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=96464" )&lt;/a&gt;
   * &lt;a href="<http://alumni.esaunggul.ac.id/forum/index.php?topic=933599.msg1821455#msg1821455>" target="_blank"&gt;<http://alumni.esaunggul.ac.id/forum/index.php?topic=933599.msg1821455#msg1821455>&lt;/a&gt;
-  * <http://wikicrime.org/index.php/User:Dloda745360#National_Gallery_of_Victoria_Australias_oldest_public_art_ga>
+  * <http://wikicrime.orgUser:Dloda745360#National_Gallery_of_Victoria_Australias_oldest_public_art_ga>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=257 "Edit
 section: Life & Culture--English--Peoples Daily Online" )]
@@ -15255,8 +15255,8 @@ The Chinese embassy and companies have mowed the digit of their personnel
 since Syria has been grasped with domestic violence since last March. Related
 articles：
 
-  * <http://watcheswithnolimits.com/forum/index.php/topic,680067.msg861652.html#msg861652>
-  * <http://spreadshub.com/index.php/User:Dloda804319#Liu_Xiang_settles_for_silver_at_2012_world_indoors_.283.29_-_Peo>
+  * <http://watcheswithnolimits.com/forumtopic,680067.msg861652.html#msg861652>
+  * <http://spreadshub.comUser:Dloda804319#Liu_Xiang_settles_for_silver_at_2012_world_indoors_.283.29_-_Peo>
   * &lt;a href="[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=112973](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=112973 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=112973" )" target="_blank"&gt;[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=112973](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=112973 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=112973" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=267 "Edit
@@ -15565,7 +15565,7 @@ limitations aboard high-tech exports to China. (Li Zhenyu)
 
   * <http://www.elisas-bastelecke.de/2006/08/vorbereitungen-furs-sockenstricken.html#comments>
   * &lt;a href="[http://home.che168.com/space.php?uid=1059113&amp;do=blog&amp;id=10188226](http://home.che168.com/space.php?uid=1059113&do=blog&id=10188226 "http://home.che168.com/space.php?uid=1059113&do=blog&id=10188226" )" target="_blank"&gt;[http://home.che168.com/space.php?uid=1059113&amp;do=blog&amp;id=10188226](http://home.che168.com/space.php?uid=1059113&do=blog&id=10188226 "http://home.che168.com/space.php?uid=1059113&do=blog&id=10188226" )&lt;/a&gt;
-  * <http://www.ericsadoun.com/index.php/members/home>
+  * <http://www.ericsadoun.commembers/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=274 "Edit
 section: New Zealand consumer confidence edges up in August - Peoples" )]
@@ -15692,7 +15692,7 @@ toe-c-7.html" ),merely postponed the announcement deserving to protests.
 Related articles：
 
   * &lt;a href="[http://fcuif.com/viewthread.php?tid=838027&amp;extra=](http://fcuif.com/viewthread.php?tid=838027&extra= "http://fcuif.com/viewthread.php?tid=838027&extra=" )" target="_blank"&gt;[http://fcuif.com/viewthread.php?tid=838027&amp;extra=](http://fcuif.com/viewthread.php?tid=838027&extra= "http://fcuif.com/viewthread.php?tid=838027&extra=" )&lt;/a&gt;
-  * <http://hepatogenomics.com/index.php/User:Dloda319869#Messi_edges_off_Reals_Ronaldo_to_win_third_straight_Ballon_d>
+  * <http://hepatogenomics.comUser:Dloda319869#Messi_edges_off_Reals_Ronaldo_to_win_third_straight_Ballon_d>
   * &lt;a href="[http://www.deinekollegen.de/profile.php?user=hestermandersche&amp;v=comments](http://www.deinekollegen.de/profile.php?user=hestermandersche&v=comments "http://www.deinekollegen.de/profile.php?user=hestermandersche&v=comments" )" target="_blank"&gt;[http://www.deinekollegen.de/profile.php?user=hestermandersche&amp;v=comments](http://www.deinekollegen.de/profile.php?user=hestermandersche&v=comments "http://www.deinekollegen.de/profile.php?user=hestermandersche&v=comments" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=277 "Edit
@@ -15969,7 +15969,7 @@ guarantees repayment. Related articles：
 
   * <http://gsmokingforum.intimex.hk/showtopic-531455.aspx>
   * &lt;a href="[http://no9no.com/bbs/viewthread.php?tid=663819&amp;extra=](http://no9no.com/bbs/viewthread.php?tid=663819&extra= "http://no9no.com/bbs/viewthread.php?tid=663819&extra=" )" target="_blank"&gt;[http://no9no.com/bbs/viewthread.php?tid=663819&amp;extra=](http://no9no.com/bbs/viewthread.php?tid=663819&extra= "http://no9no.com/bbs/viewthread.php?tid=663819&extra=" )&lt;/a&gt;
-  * <http://issue.ongenie.org/mediawiki/en/index.php/User:Dloda211666#More_fuel_price_reforms_in_pipeline_-_Peoples_Daily_Online>
+  * <http://issue.ongenie.org/mediawiki/enUser:Dloda211666#More_fuel_price_reforms_in_pipeline_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=283 "Edit
 section: Luxury shoppers ring alarm bells - Peoples Daily Online" )]
@@ -16087,8 +16087,8 @@ The Syrian government said Monday that it greeted Annan and sanctioned a visit
 of UN emergency relief coordinator Valerie Amos as one evaluation of the
 country's humanitarian situation. Related articles：
 
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
-  * <http://jamms.pdswiki.com/mediawiki/index.php/User:Dloda545587#MOF_abolishes_value-added_tax_on_fresh_vegetables_to_ease_in>
+  * <http://www.mood.mrbutterfly.frmembers/home>
+  * <http://jamms.pdswiki.com/mediawikiUser:Dloda545587#MOF_abolishes_value-added_tax_on_fresh_vegetables_to_ease_in>
   * &lt;a href="[http://yysq.yyjy.hk/forum.php?mod=viewthread&amp;tid=2059529](http://yysq.yyjy.hk/forum.php?mod=viewthread&tid=2059529 "http://yysq.yyjy.hk/forum.php?mod=viewthread&tid=2059529" )" target="_blank"&gt;[http://yysq.yyjy.hk/forum.php?mod=viewthread&amp;tid=2059529](http://yysq.yyjy.hk/forum.php?mod=viewthread&tid=2059529 "http://yysq.yyjy.hk/forum.php?mod=viewthread&tid=2059529" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=285 "Edit
@@ -16625,7 +16625,7 @@ Miyagi,[Gucci Bags](http://www.guccicanadaoutletsale.com/products_new.html
 et sa famille honorent la mémoire de leur grand-mère et arrière-grand-mère
 décédées. Related articles：
 
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
   * &lt;a href="[http://www.thelolos.com/forum.php?mod=viewthread&amp;tid=199928](http://www.thelolos.com/forum.php?mod=viewthread&tid=199928 "http://www.thelolos.com/forum.php?mod=viewthread&tid=199928" )" target="_blank"&gt;[http://www.thelolos.com/forum.php?mod=viewthread&amp;tid=199928](http://www.thelolos.com/forum.php?mod=viewthread&tid=199928 "http://www.thelolos.com/forum.php?mod=viewthread&tid=199928" )&lt;/a&gt;
   * &lt;a href="[http://www.qeefly.com/bbs/viewthread.php?tid=1312355&amp;extra=page%3D1](http://www.qeefly.com/bbs/viewthread.php?tid=1312355&extra=page%3D1 "http://www.qeefly.com/bbs/viewthread.php?tid=1312355&extra=page%3D1" )" target="_blank"&gt;[http://www.qeefly.com/bbs/viewthread.php?tid=1312355&amp;extra=page%3D1](http://www.qeefly.com/bbs/viewthread.php?tid=1312355&extra=page%3D1 "http://www.qeefly.com/bbs/viewthread.php?tid=1312355&extra=page%3D1" )&lt;/a&gt;
 
@@ -16880,7 +16880,7 @@ intends to abandon Syria, it would officially broadcast it."
 According to Sawaf, Meshaal was only thankful by the security situation to be
 away from Damascus temporarily. Related articles：
 
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=968325](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=968325 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=968325" )" target="_blank"&gt;[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=968325](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=968325 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=968325" )&lt;/a&gt;
   * &lt;a href="[http://zbdigg.com/viewthread.php?tid=337274&amp;extra=](http://zbdigg.com/viewthread.php?tid=337274&extra= "http://zbdigg.com/viewthread.php?tid=337274&extra=" )" target="_blank"&gt;[http://zbdigg.com/viewthread.php?tid=337274&amp;extra=](http://zbdigg.com/viewthread.php?tid=337274&extra= "http://zbdigg.com/viewthread.php?tid=337274&extra=" )&lt;/a&gt;
 
@@ -16992,7 +16992,7 @@ Related articles：
 
   * &lt;a href="[http://www.mytiandu.com/viewthread.php?tid=207971&amp;extra=](http://www.mytiandu.com/viewthread.php?tid=207971&extra= "http://www.mytiandu.com/viewthread.php?tid=207971&extra=" )" target="_blank"&gt;[http://www.mytiandu.com/viewthread.php?tid=207971&amp;extra=](http://www.mytiandu.com/viewthread.php?tid=207971&extra= "http://www.mytiandu.com/viewthread.php?tid=207971&extra=" )&lt;/a&gt;
   * &lt;a href="[http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&amp;tid=100596](http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&tid=100596 "http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&tid=100596" )" target="_blank"&gt;[http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&amp;tid=100596](http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&tid=100596 "http://xawanjiang.gotoip4.com/bbs/forum.php?mod=viewthread&tid=100596" )&lt;/a&gt;
-  * <http://inspectipedia.com/index.php/User:Dloda486794#Nepali_teachers_go_on_strike_-_Peoples_Daily_Online>
+  * <http://inspectipedia.comUser:Dloda486794#Nepali_teachers_go_on_strike_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=303 "Edit
 section: Neighborly partners rather than rivals - Peoples Daily Onlin" )]
@@ -17312,7 +17312,7 @@ Zhu said. Related articles：
 
   * &lt;a href="[http://www.chinafpga.com/bbs/forum.php?mod=viewthread&amp;tid=54848](http://www.chinafpga.com/bbs/forum.php?mod=viewthread&tid=54848 "http://www.chinafpga.com/bbs/forum.php?mod=viewthread&tid=54848" )" target="_blank"&gt;[http://www.chinafpga.com/bbs/forum.php?mod=viewthread&amp;tid=54848](http://www.chinafpga.com/bbs/forum.php?mod=viewthread&tid=54848 "http://www.chinafpga.com/bbs/forum.php?mod=viewthread&tid=54848" )&lt;/a&gt;
   * <http://www.kansasfreepress.com/2012/07/health-care-fiscal-responsibility.html#comments>
-  * <http://guides.gamescheatdirectory.com/index.php/User:Dloda971389#Mainland_willing_to_settle_cross-Straits_disputes_-_Peoples>
+  * <http://guides.gamescheatdirectory.comUser:Dloda971389#Mainland_willing_to_settle_cross-Straits_disputes_-_Peoples>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=309 "Edit
 section: Metro teams up with Foxconn in electronics retailing - Peopl" )]
@@ -17407,7 +17407,7 @@ which gears the occupational malady coverage to international standards.
 Related articles：
 
   * &lt;a href="[http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&amp;tid=70069](http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&tid=70069 "http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&tid=70069" )" target="_blank"&gt;[http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&amp;tid=70069](http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&tid=70069 "http://lufuqiang.gotoip55.com/bbs/forum.php?mod=viewthread&tid=70069" )&lt;/a&gt;
-  * <http://watcheswithnolimits.com/forum/index.php/topic,685071.msg868231.html#msg868231>
+  * <http://watcheswithnolimits.com/forumtopic,685071.msg868231.html#msg868231>
   * &lt;a href="[http://bdxiangshan.com/bbs/forum.php?mod=viewthread&amp;tid=53726](http://bdxiangshan.com/bbs/forum.php?mod=viewthread&tid=53726 "http://bdxiangshan.com/bbs/forum.php?mod=viewthread&tid=53726" )" target="_blank"&gt;[http://bdxiangshan.com/bbs/forum.php?mod=viewthread&amp;tid=53726](http://bdxiangshan.com/bbs/forum.php?mod=viewthread&tid=53726 "http://bdxiangshan.com/bbs/forum.php?mod=viewthread&tid=53726" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=311 "Edit
@@ -17600,9 +17600,9 @@ with police.
   
 A sniper shot him die and salvaged the woman. Related articles：
 
-  * <http://ltrmenuplus.bilardi.net/ltrmenuplus/index.php/User:Dloda652200#Lins_trademark_bounce_set_to_net_top_score_-_Peoples_Daily_O>
+  * <http://ltrmenuplus.bilardi.net/ltrmenuplusUser:Dloda652200#Lins_trademark_bounce_set_to_net_top_score_-_Peoples_Daily_O>
   * <http://ezlive.org/thread-224684-1-1.html>
-  * <http://www.indianmusicguide.com/index.php/User:Dloda399107#Letting_the_GM_genie_out_of_the_bottle_-_Peoples_Daily_Onlin>
+  * <http://www.indianmusicguide.comUser:Dloda399107#Letting_the_GM_genie_out_of_the_bottle_-_Peoples_Daily_Onlin>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=315 "Edit
 section: Mastermind of armed robbers gang caught - Peoples Daily Onli" )]
@@ -17737,8 +17737,8 @@ certain easing of the tightening policies along regional levels because real
 estate developers have felt increasing central oppression. Related articles：
 
   * &lt;a href="[http://www.buzixin.com/bbs/forum.php?mod=viewthread&amp;tid=21303](http://www.buzixin.com/bbs/forum.php?mod=viewthread&tid=21303 "http://www.buzixin.com/bbs/forum.php?mod=viewthread&tid=21303" )" target="_blank"&gt;[http://www.buzixin.com/bbs/forum.php?mod=viewthread&amp;tid=21303](http://www.buzixin.com/bbs/forum.php?mod=viewthread&tid=21303 "http://www.buzixin.com/bbs/forum.php?mod=viewthread&tid=21303" )&lt;/a&gt;
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#Nepali_House_begins_second_round_election_to_elect_new_PM_->
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#Luxury_goods_to_buy_or_sell_-_Peoples_Daily_Online>
+  * <http://wikidust.sbols.orgUser:Dloda721732#Nepali_House_begins_second_round_election_to_elect_new_PM_->
+  * <http://wikidust.sbols.orgUser:Dloda721732#Luxury_goods_to_buy_or_sell_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=318 "Edit
 section: New round of promotions in FM reshuffle - Peoples Daily Onli" )]
@@ -17886,7 +17886,7 @@ analyst with the CIC Industry Research Center. "Worse still,most sports brand
 made a wrong evaluation of the market which reasoned lofty growth in reserves"
 Related articles：
 
-  * <http://nurugel.org/index.php/User:Dloda772960#Members_arrive_for_CPPCC_annual_session_.282.29_-_Peoples_Daily>
+  * <http://nurugel.orgUser:Dloda772960#Members_arrive_for_CPPCC_annual_session_.282.29_-_Peoples_Daily>
   * &lt;a href="[http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&amp;tid=166520](http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&tid=166520 "http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&tid=166520" )" target="_blank"&gt;[http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&amp;tid=166520](http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&tid=166520 "http://chenyan168.gotoip55.com/discuz/forum.php?mod=viewthread&tid=166520" )&lt;/a&gt;
   * <http://www.kansasfreepress.com/2012/07/money-in-our-electoral-system.html#comments>
 
@@ -17955,7 +17955,7 @@ education system among today's Tibet that has brought down the region's
 illiteracy. Related articles：
 
   * &lt;a href="<http://kakali.org/qualipedia/index.php?title=User:Dloda825925#Many_young_billionaires_work_to_build_fortunes.2C_do_not_inher>" target="_blank"&gt;<http://kakali.org/qualipedia/index.php?title=User:Dloda825925#Many_young_billionaires_work_to_build_fortunes.2C_do_not_inher>&lt;/a&gt;
-  * <http://www.ericsadoun.com/index.php/members/home>
+  * <http://www.ericsadoun.commembers/home>
   * &lt;a href="[http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&amp;extra=](http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&extra= "http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&extra=" )" target="_blank"&gt;[http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&amp;extra=](http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&extra= "http://www.worldlinshi.com/bbs/viewthread.php?tid=713777&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=322 "Edit
@@ -18344,7 +18344,7 @@ d'appliquer effectivement les droits de l'homme en tant que ? loi juridique ?.
 Related articles：
 
   * &lt;a href="<http://data-q1.com/schools2/index.php?do=/dloda874697/blog/kindergarten-in-nw-chinas-ningxia-marks-world-hello-day-pe/>" target="_blank"&gt;<http://data-q1.com/schools2/index.php?do=/dloda874697/blog/kindergarten-in-nw-chinas-ningxia-marks-world-hello-day-pe/>&lt;/a&gt;
-  * <http://www.collegegrid.com/grid/index.php/User:Dloda916525#La_tormenta_solar_pas.C3.B3_sin_afectar_las_redes>
+  * <http://www.collegegrid.com/gridUser:Dloda916525#La_tormenta_solar_pas.C3.B3_sin_afectar_las_redes>
   * &lt;a href="<http://www.juece.com.cn/news/review.asp?NewsID=79>" target="_blank"&gt;<http://www.juece.com.cn/news/review.asp?NewsID=79>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=328 "Edit
@@ -18508,7 +18508,7 @@ numeral of emigrant workers among the nation has distended quickly among
 recent annuals At around 250 million, they are a momentous compel among
 China's economic evolution. Related articles：
 
-  * <http://www.ericsadoun.com/index.php/members/home>
+  * <http://www.ericsadoun.commembers/home>
   * &lt;a href="[http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&amp;tid=111886](http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&tid=111886 "http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&tid=111886" )" target="_blank"&gt;[http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&amp;tid=111886](http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&tid=111886 "http://www.shspa.cn/phpbbs/forum.php?mod=viewthread&tid=111886" )&lt;/a&gt;
   * &lt;a href="<http://flds.biz/minstandards/index.php?title=User:Dloda605037#Lunar_New_Years_Eve_.28I.29_-_Peoples_Daily_Online>" target="_blank"&gt;<http://flds.biz/minstandards/index.php?title=User:Dloda605037#Lunar_New_Years_Eve_.28I.29_-_Peoples_Daily_Online>&lt;/a&gt;
 
@@ -18687,7 +18687,7 @@ amplified advertisement engines.
 The developer of the engine, AVIC Commercial Aircraft Engine, said the engine
 is anticipated to be approved because airworthy at 2020. Related articles：
 
-  * <http://frontpage.cbs.dk/bibliotek/index.php/User:Dloda852038#Liu_Xiang.2C_Robles_set_for_Birmingham_showdown_-_Peoples_Dail>
+  * <http://frontpage.cbs.dk/bibliotekUser:Dloda852038#Liu_Xiang.2C_Robles_set_for_Birmingham_showdown_-_Peoples_Dail>
   * &lt;a href="[http://99hr.net/bbs/viewthread.php?tid=3166664&amp;extra=](http://99hr.net/bbs/viewthread.php?tid=3166664&extra= "http://99hr.net/bbs/viewthread.php?tid=3166664&extra=" )" target="_blank"&gt;[http://99hr.net/bbs/viewthread.php?tid=3166664&amp;extra=](http://99hr.net/bbs/viewthread.php?tid=3166664&extra= "http://99hr.net/bbs/viewthread.php?tid=3166664&extra=" )&lt;/a&gt;
   * &lt;a href="[http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&amp;tid=89120](http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&tid=89120 "http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&tid=89120" )" target="_blank"&gt;[http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&amp;tid=89120](http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&tid=89120 "http://www.hanfugirl.com/bbs/forum.php?mod=viewthread&tid=89120" )&lt;/a&gt;
 
@@ -18810,9 +18810,9 @@ U.S.dollars.
   
 Source: Xinhua Related articles：
 
-  * <http://watcheswithnolimits.com/forum/index.php/topic,691518.msg876777.html#msg876777>
+  * <http://watcheswithnolimits.com/forumtopic,691518.msg876777.html#msg876777>
   * &lt;a href="<http://vipsouthflorida.com/index.php?do=/user/login/>" target="_blank"&gt;<http://vipsouthflorida.com/index.php?do=/user/login/>&lt;/a&gt;
-  * <http://nurugel.org/index.php/User:Dloda772960#Lost_in_simulated_space_-_Peoples_Daily_Online>
+  * <http://nurugel.orgUser:Dloda772960#Lost_in_simulated_space_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=339 "Edit
 section: Israeli firm develops scanning system to tackle into brain d" )]
@@ -18860,7 +18860,7 @@ Shoes](http://www.louboutinaustraliaoutlet.com/specials.html
 "http://www.louboutinaustraliaoutlet.com/specials.html" ), and start sale it
 to hospitals onward 2013. Related articles：
 
-  * <http://www.phpug.org.nz/index.php/User:Dloda846032#Japan_must_learn_from_history_-_Peoples_Daily_Online>
+  * <http://www.phpug.org.nzUser:Dloda846032#Japan_must_learn_from_history_-_Peoples_Daily_Online>
   * &lt;a href="[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=979397](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=979397 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=979397" )" target="_blank"&gt;[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=979397](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=979397 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=979397" )&lt;/a&gt;
   * &lt;a href="<http://www.beautifulthaibride.com/events_view.php?eid=0>" target="_blank"&gt;<http://www.beautifulthaibride.com/events_view.php?eid=0>&lt;/a&gt;
 
@@ -18969,7 +18969,7 @@ Jordan Canada](http://www.michaeljordancanada.com/products_new.html
 threaten to fall beyond said chief fiscal officer Fergus Welsh within a
 statement from the Treasury. Related articles：
 
-  * <http://wiki.simyard.com/index.php/User:Dloda639445#Israeli_PM_answers_questions_from_Arab_Internet_surfers_-_Pe>
+  * <http://wiki.simyard.comUser:Dloda639445#Israeli_PM_answers_questions_from_Arab_Internet_surfers_-_Pe>
   * <http://www.belsky-weinberg-horowitz.com/blog/2011/08/consumer-bankruptcy.html#comments>
   * &lt;a href="[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=277271](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277271 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277271" )" target="_blank"&gt;[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=277271](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277271 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277271" )&lt;/a&gt;
 
@@ -19038,7 +19038,7 @@ impose hikes
 �� �� �� �� �� �� �� �� �� �� �� �� �� We Recommend �� �� �� �� �� �� �� ��
 Related articles：
 
-  * <http://nurugel.org/index.php/User:Dloda772960#Lost_in_simulated_space_-_Peoples_Daily_Online>
+  * <http://nurugel.orgUser:Dloda772960#Lost_in_simulated_space_-_Peoples_Daily_Online>
   * <http://blog.kristyandrick.com/2008/11/ultrasound-3d.html#comments>
   * &lt;a href="<http://www.beautifulthaibride.com/events_view.php?eid=0>" target="_blank"&gt;<http://www.beautifulthaibride.com/events_view.php?eid=0>&lt;/a&gt;
 
@@ -19190,7 +19190,7 @@ snowfield. (PLA Daily/Yang Zaixin and Zhu Xiaohu) Related articles：
 
   * <http://www.drinkersdigest.net/user/login/>
   * <http://touchnokia.ru/v-nokia-opcioni-budut-menjat--na-talant.html#comments>
-  * <http://www.bisericaonline.ro/forum/index.php/topic,279671.msg312018.html#msg312018>
+  * <http://www.bisericaonline.ro/forumtopic,279671.msg312018.html#msg312018>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=347 "Edit
 section: Navy looks at offer from Seychelles - Peoples Daily Online" )]
@@ -19251,8 +19251,8 @@ Shoes](http://www.asicsaustraliamall.com/products_new.html
   
 �� We Recommend �� �� Related articles：
 
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
-  * <http://thepornpedia.com/index.php/User:Dloda575423#Kolkata_becomes_base_for_arms_supply_to_ultra-Left_Naxals_In>
+  * <http://www.mood.mrbutterfly.frmembers/home>
+  * <http://thepornpedia.comUser:Dloda575423#Kolkata_becomes_base_for_arms_supply_to_ultra-Left_Naxals_In>
   * <http://so-go.info/blog/2012/07/post-12.html#comments>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=348 "Edit
@@ -19452,7 +19452,7 @@ Wallets](http://www.paulsmithaustraliasale.com/
 that are appealing for health. Related articles：
 
   * <http://voidnow.org/archives/2011/12/the-first-steps-are-hope-and-courage.php#comments>
-  * <http://wiki.censormon.net/index.php/User:Dloda948470#Low-income_housing_called_key_to_unfastening_home_price_dead>
+  * <http://wiki.censormon.netUser:Dloda948470#Low-income_housing_called_key_to_unfastening_home_price_dead>
   * &lt;a href="[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=277322](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277322 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277322" )" target="_blank"&gt;[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=277322](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277322 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=277322" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=351 "Edit
@@ -19546,9 +19546,9 @@ report among The Wall Street Journal.
   
 Source: China Daily Related articles：
 
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
   * <http://www.yukiyasai.com/blog/2011/08/3-1.html#comments>
-  * <http://www.cliquenote.org/index.php/members/home>
+  * <http://www.cliquenote.orgmembers/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=352 "Edit
 section: Japans central bank keeps key rate unchanged at 0.1%  - Peop" )]
@@ -19640,7 +19640,7 @@ articles：
 
   * &lt;a href="<http://ladygig.com/user_blog_comments.php?blogentry_id=690299>" target="_blank"&gt;<http://ladygig.com/user_blog_comments.php?blogentry_id=690299>&lt;/a&gt;
   * &lt;a href="[http://devmsn.com/forum.php?mod=viewthread&amp;tid=2189665](http://devmsn.com/forum.php?mod=viewthread&tid=2189665 "http://devmsn.com/forum.php?mod=viewthread&tid=2189665" )" target="_blank"&gt;[http://devmsn.com/forum.php?mod=viewthread&amp;tid=2189665](http://devmsn.com/forum.php?mod=viewthread&tid=2189665 "http://devmsn.com/forum.php?mod=viewthread&tid=2189665" )&lt;/a&gt;
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=354 "Edit
 section: New rule to fine taxi drivers for refusals - Peoples Daily O" )]
@@ -19961,7 +19961,7 @@ among the cell
 Source: Xinhua Related articles：
 
   * &lt;a href="<http://www.amistadsincera.com/events_view.php?eid=474609>" target="_blank"&gt;<http://www.amistadsincera.com/events_view.php?eid=474609>&lt;/a&gt;
-  * <http://spreadshub.com/index.php/User:Dloda804319#Magnitude_5.8_earthquake_hits_U.S._east_coast__-_Peoples_Dai>
+  * <http://spreadshub.comUser:Dloda804319#Magnitude_5.8_earthquake_hits_U.S._east_coast__-_Peoples_Dai>
   * &lt;a href="[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=124208](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=124208 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=124208" )" target="_blank"&gt;[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=124208](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=124208 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=124208" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=358 "Edit
@@ -20637,7 +20637,7 @@ mentioned.
 Source:Xinhua  
 Weekly review Related articles：
 
-  * <http://fbdev.babytel.ca/developer_wiki/index.php/User:Dloda046348#Myanmar_to_grant_foreign_companies_to_build_overpass.2C_subway>
+  * <http://fbdev.babytel.ca/developer_wikiUser:Dloda046348#Myanmar_to_grant_foreign_companies_to_build_overpass.2C_subway>
   * &lt;a href="<http://earthswiki.com/index.php?title=User:Dloda670070#More_low-income_housing_urged_-_Peoples_Daily_Online>" target="_blank"&gt;<http://earthswiki.com/index.php?title=User:Dloda670070#More_low-income_housing_urged_-_Peoples_Daily_Online>&lt;/a&gt;
   * &lt;a href="[http://fb.game.tw/forum.php?mod=viewthread&amp;tid=146986&amp;extra=](http://fb.game.tw/forum.php?mod=viewthread&tid=146986&extra= "http://fb.game.tw/forum.php?mod=viewthread&tid=146986&extra=" )" target="_blank"&gt;[http://fb.game.tw/forum.php?mod=viewthread&amp;tid=146986&amp;extra=](http://fb.game.tw/forum.php?mod=viewthread&tid=146986&extra= "http://fb.game.tw/forum.php?mod=viewthread&tid=146986&extra=" )&lt;/a&gt;
 
@@ -20725,9 +20725,9 @@ Union, the Arab League,plus the Organization of the Islamic Conference to
 activity a leading symbol amid reconstructing Libya as soon as possible.
 Related articles：
 
-  * <http://oppenn.org/index.php/User:Dloda536911#Markets_still_use_banned_plastic_packages_-_Peoples_Daily_On>
+  * <http://oppenn.orgUser:Dloda536911#Markets_still_use_banned_plastic_packages_-_Peoples_Daily_On>
   * &lt;a href="[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&amp;diary_date=20120803&amp;postid=437329](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120803&postid=437329 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120803&postid=437329" )" target="_blank"&gt;[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&amp;diary_date=20120803&amp;postid=437329](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120803&postid=437329 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014164269&diary_date=20120803&postid=437329" )&lt;/a&gt;
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=368 "Edit
 section: Japan to cut oil imports from Iran - Peoples Daily Online" )]
@@ -20808,7 +20808,7 @@ the region exasperate. Related articles：
 
   * &lt;a href="[http://www.home.playyeah.com/space.php?uid=76871&amp;do=blog&amp;id=922055](http://www.home.playyeah.com/space.php?uid=76871&do=blog&id=922055 "http://www.home.playyeah.com/space.php?uid=76871&do=blog&id=922055" )" target="_blank"&gt;[http://www.home.playyeah.com/space.php?uid=76871&amp;do=blog&amp;id=922055](http://www.home.playyeah.com/space.php?uid=76871&do=blog&id=922055 "http://www.home.playyeah.com/space.php?uid=76871&do=blog&id=922055" )&lt;/a&gt;
   * &lt;a href="[http://www.kakyclub.com/home/space.php?uid=48825&amp;do=blog&amp;id=531673](http://www.kakyclub.com/home/space.php?uid=48825&do=blog&id=531673 "http://www.kakyclub.com/home/space.php?uid=48825&do=blog&id=531673" )" target="_blank"&gt;[http://www.kakyclub.com/home/space.php?uid=48825&amp;do=blog&amp;id=531673](http://www.kakyclub.com/home/space.php?uid=48825&do=blog&id=531673 "http://www.kakyclub.com/home/space.php?uid=48825&do=blog&id=531673" )&lt;/a&gt;
-  * <http://anses.net.in/index.php/User:Dloda866078#Nokia_denies_bankruptcy_rumors_-_Peoples_Daily_Online>
+  * <http://anses.net.inUser:Dloda866078#Nokia_denies_bankruptcy_rumors_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=369 "Edit
 section: New Dwelling in the Fuchun Mountains created by artists from" )]
@@ -20878,7 +20878,7 @@ articles：
 
   * <http://inlife.tk/SE415/members/home>
   * &lt;a href="<http://www.jordansnewshoes.com/show.php?tid=285432>" target="_blank"&gt;<http://www.jordansnewshoes.com/show.php?tid=285432>&lt;/a&gt;
-  * <http://wikiareas.org/index.php/User:Dloda118008#No_cover_to_be_allowed_for_dirty_deals_-_Peoples_Daily_Onlin>
+  * <http://wikiareas.orgUser:Dloda118008#No_cover_to_be_allowed_for_dirty_deals_-_Peoples_Daily_Onlin>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=371 "Edit
 section: Japanese govt behind enshrining of top war criminals in Yasu" )]
@@ -20916,8 +20916,8 @@ The Japanese authority has been stressing namely the enshrining of the combat
 criminals was the decision of the Yasukuni Shrine plus the administration
 would never intervene in the religious affairs. Related articles：
 
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#Kobe_Bryant_in_Manila_-_Peoples_Daily_Online>
-  * <http://euve10195.vserver.de/mediawiki/index.php/User:Dloda276841#Land_subsidence_Is_doomsday_coming_-_Peoples_Daily_Online>
+  * <http://wikidust.sbols.orgUser:Dloda721732#Kobe_Bryant_in_Manila_-_Peoples_Daily_Online>
+  * <http://euve10195.vserver.de/mediawikiUser:Dloda276841#Land_subsidence_Is_doomsday_coming_-_Peoples_Daily_Online>
   * &lt;a href="[http://huahun.org/forum.php?mod=viewthread&amp;tid=67079](http://huahun.org/forum.php?mod=viewthread&tid=67079 "http://huahun.org/forum.php?mod=viewthread&tid=67079" )" target="_blank"&gt;[http://huahun.org/forum.php?mod=viewthread&amp;tid=67079](http://huahun.org/forum.php?mod=viewthread&tid=67079 "http://huahun.org/forum.php?mod=viewthread&tid=67079" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=372 "Edit
@@ -20955,7 +20955,7 @@ Online](http://www.dresseskarenmillenaustralia.com/specials.html
 of the Republic of China was located. Related articles：
 
   * <http://andorejapan.com/weblog/2010/04/post-97.html#comments>
-  * <http://www.phpug.org.nz/index.php/User:Dloda846032#Mobile_phone_subscriptions_quadruple_in_North_Korea_-_People>
+  * <http://www.phpug.org.nzUser:Dloda846032#Mobile_phone_subscriptions_quadruple_in_North_Korea_-_People>
   * &lt;a href="[http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&amp;tid=99653](http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=99653 "http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=99653" )" target="_blank"&gt;[http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&amp;tid=99653](http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=99653 "http://www.workitoutstudio.com/forum/forum.php?mod=viewthread&tid=99653" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=373 "Edit
@@ -21052,7 +21052,7 @@ civilization Lu said
   
 Source:Xinhua Related articles：
 
-  * <http://euve10195.vserver.de/mediawiki/index.php/User:Dloda276841#National_Museum_says_I_do__-_Peoples_Daily_Online>
+  * <http://euve10195.vserver.de/mediawikiUser:Dloda276841#National_Museum_says_I_do__-_Peoples_Daily_Online>
   * &lt;a href="<http://olivesandbeer.com/wiki/index.php?title=User:Dloda553934#Missing_geologists_in_Kekexili_still_unfound_.282.29_-_Peoples_D>" target="_blank"&gt;<http://olivesandbeer.com/wiki/index.php?title=User:Dloda553934#Missing_geologists_in_Kekexili_still_unfound_.282.29_-_Peoples_D>&lt;/a&gt;
   * <http://www.freemi.danielgranados.net/social/user_blog.php>
 
@@ -21089,7 +21089,7 @@ reports said it was constructed within the city's Gaolan County.
 Qiao said the shipyard wrongly calculated the water class on the blaze day.
 Related articles：
 
-  * <http://www.phpug.org.nz/index.php/User:Dloda846032#Mainland_official_extends_Lunar_New_Year_greetings_to_Taiwan>
+  * <http://www.phpug.org.nzUser:Dloda846032#Mainland_official_extends_Lunar_New_Year_greetings_to_Taiwan>
   * &lt;a href="<http://www.fishactually.com/forum/read.php?tid=130993>" target="_blank"&gt;<http://www.fishactually.com/forum/read.php?tid=130993>&lt;/a&gt;
   * &lt;a href="<http://www.abazone.com/social/index.php?do=/dloda776221/blog/media-members-visit-fukushima-nuclear-plant-ahead-of-quake-a-2/>" target="_blank"&gt;<http://www.abazone.com/social/index.php?do=/dloda776221/blog/media-members-visit-fukushima-nuclear-plant-ahead-of-quake-a-2/>&lt;/a&gt;
 
@@ -21474,8 +21474,8 @@ Sydney](http://www.paulsmithaustraliasale.com/
 Economics at Guangdong University of Business Studies, told the Global Times
 yesterday. Related articles：
 
-  * <http://wiki.open-pc.com/index.php/User:Dloda827138#Nigerian_hunters_in_search_of_killer_lion_-_Peoples_Daily_On>
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#No_hard_landing_for_China_-_Peoples_Daily_Online>
+  * <http://wiki.open-pc.comUser:Dloda827138#Nigerian_hunters_in_search_of_killer_lion_-_Peoples_Daily_On>
+  * <http://wikidust.sbols.orgUser:Dloda721732#No_hard_landing_for_China_-_Peoples_Daily_Online>
   * &lt;a href="<http://www.mqlinchang.cn/review.asp?NewsID=490>" target="_blank"&gt;<http://www.mqlinchang.cn/review.asp?NewsID=490>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=383 "Edit
@@ -21715,7 +21715,7 @@ companies to counter the voices of opposition, said Zhao. Related articles：
 
   * &lt;a href="[http://bbs.biansao.com/forum.php?mod=viewthread&amp;tid=310998](http://bbs.biansao.com/forum.php?mod=viewthread&tid=310998 "http://bbs.biansao.com/forum.php?mod=viewthread&tid=310998" )" target="_blank"&gt;[http://bbs.biansao.com/forum.php?mod=viewthread&amp;tid=310998](http://bbs.biansao.com/forum.php?mod=viewthread&tid=310998 "http://bbs.biansao.com/forum.php?mod=viewthread&tid=310998" )&lt;/a&gt;
   * &lt;a href="<http://hostmyrss.com/forum/index.php?topic=703052.msg911120#msg911120>" target="_blank"&gt;<http://hostmyrss.com/forum/index.php?topic=703052.msg911120#msg911120>&lt;/a&gt;
-  * <http://bluejoe.csdb.cn/index.php/User:Dloda500943#NATO_soldier_dies_in_Afghanistan_-_Peoples_Daily_Online>
+  * <http://bluejoe.csdb.cnUser:Dloda500943#NATO_soldier_dies_in_Afghanistan_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=388 "Edit
 section: Mainlands top Taiwan affairs official stresses new chances f" )]
@@ -21979,7 +21979,7 @@ the 1st American sports delegation to set foot aboard Chinese taint since
 1949. Related articles：
 
   * &lt;a href="<http://kakali.org/qualipedia/index.php?title=User:Dloda825925#Launch_delays_will_not_affect_Shenzhou_-_Peoples_Daily_Onlin>" target="_blank"&gt;<http://kakali.org/qualipedia/index.php?title=User:Dloda825925#Launch_delays_will_not_affect_Shenzhou_-_Peoples_Daily_Onlin>&lt;/a&gt;
-  * <http://bluejoe.csdb.cn/index.php/User:Dloda500943#Mass_events.2C_major_projects_should_be_restrained_political_a>
+  * <http://bluejoe.csdb.cnUser:Dloda500943#Mass_events.2C_major_projects_should_be_restrained_political_a>
   * &lt;a href="[http://ibabamama.hk/forum.php?mod=viewthread&amp;tid=842774](http://ibabamama.hk/forum.php?mod=viewthread&tid=842774 "http://ibabamama.hk/forum.php?mod=viewthread&tid=842774" )" target="_blank"&gt;[http://ibabamama.hk/forum.php?mod=viewthread&amp;tid=842774](http://ibabamama.hk/forum.php?mod=viewthread&tid=842774 "http://ibabamama.hk/forum.php?mod=viewthread&tid=842774" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=395 "Edit
@@ -22165,7 +22165,7 @@ Weekly review Related articles：
 
   * &lt;a href="<http://encyclopedia.kristianthalai.com/index.php?title=User:Dloda477658#Mexicans_protest_against_voluntary_abortion__-_Peoples_Daily>" target="_blank"&gt;<http://encyclopedia.kristianthalai.com/index.php?title=User:Dloda477658#Mexicans_protest_against_voluntary_abortion__-_Peoples_Daily>&lt;/a&gt;
   * &lt;a href="<http://abledating.abk-soft.com/blogs_full.php?id=1023549>" target="_blank"&gt;<http://abledating.abk-soft.com/blogs_full.php?id=1023549>&lt;/a&gt;
-  * <http://watcheswithnolimits.com/forum/index.php/topic,695412.msg882099.html#msg882099>
+  * <http://watcheswithnolimits.com/forumtopic,695412.msg882099.html#msg882099>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=398 "Edit
 section: New carrier rocket proven most precise ever, top commander -" )]
@@ -22304,7 +22304,7 @@ surrounded the 1st place ought be included among the current legislation.
 �� �� �� �� �� �� �� �� �� �� �� �� �� We Recommend �� �� �� �� �� �� �� ��
 Related articles：
 
-  * <http://pirotess.co.uk/buildabetterworld/index.php/User:Dloda145329#Jeremy_Lin_takes_up_Yaos_mantle_-_Peoples_Daily_Online>
+  * <http://pirotess.co.uk/buildabetterworldUser:Dloda145329#Jeremy_Lin_takes_up_Yaos_mantle_-_Peoples_Daily_Online>
   * &lt;a href="[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=148291&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=148291&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=148291&extra=" )" target="_blank"&gt;[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=148291&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=148291&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=148291&extra=" )&lt;/a&gt;
   * &lt;a href="<http://fantapedia.com/index.php?title=User:Dloda399598#Italian_Parliament_passed_austerity_measures_-_Peoples_Daily>" target="_blank"&gt;<http://fantapedia.com/index.php?title=User:Dloda399598#Italian_Parliament_passed_austerity_measures_-_Peoples_Daily>&lt;/a&gt;
 
@@ -22538,7 +22538,7 @@ a report on China's military. Related articles：
 
   * &lt;a href="<http://nexttt.org/index.php?title=User:Dloda101594#Jobs_legacy_for_Chinese_IT_companies_.282.29_-_Peoples_Daily_Onl>" target="_blank"&gt;<http://nexttt.org/index.php?title=User:Dloda101594#Jobs_legacy_for_Chinese_IT_companies_.282.29_-_Peoples_Daily_Onl>&lt;/a&gt;
   * &lt;a href="[http://tg-design.hk/forum.php?mod=viewthread&amp;tid=295573](http://tg-design.hk/forum.php?mod=viewthread&tid=295573 "http://tg-design.hk/forum.php?mod=viewthread&tid=295573" )" target="_blank"&gt;[http://tg-design.hk/forum.php?mod=viewthread&amp;tid=295573](http://tg-design.hk/forum.php?mod=viewthread&tid=295573 "http://tg-design.hk/forum.php?mod=viewthread&tid=295573" )&lt;/a&gt;
-  * <http://homegrownwiki.com/index.php/User:Dloda133789#McDonalds_sued_for_Happy_Meal_toys__-_Peoples_Daily_Online>
+  * <http://homegrownwiki.comUser:Dloda133789#McDonalds_sued_for_Happy_Meal_toys__-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=403 "Edit
 section: Italy tanker runs aground off Sicily \(3\) - Peoples Daily Onl" )]
@@ -22623,7 +22623,7 @@ We Recommend Related articles：
 
   * &lt;a href="[http://theneswhk.com/forum.php?mod=viewthread&amp;tid=111569](http://theneswhk.com/forum.php?mod=viewthread&tid=111569 "http://theneswhk.com/forum.php?mod=viewthread&tid=111569" )" target="_blank"&gt;[http://theneswhk.com/forum.php?mod=viewthread&amp;tid=111569](http://theneswhk.com/forum.php?mod=viewthread&tid=111569 "http://theneswhk.com/forum.php?mod=viewthread&tid=111569" )&lt;/a&gt;
   * &lt;a href="<http://elearning.medicine.swu.ac.th/hafboard/read.php?tid=1456393>" target="_blank"&gt;<http://elearning.medicine.swu.ac.th/hafboard/read.php?tid=1456393>&lt;/a&gt;
-  * <http://www.bisericaonline.ro/forum/index.php/topic,288847.msg321817.html#msg321817>
+  * <http://www.bisericaonline.ro/forumtopic,288847.msg321817.html#msg321817>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=405 "Edit
 section: Local govt brags of poverty - Peoples Daily Online" )]
@@ -23136,7 +23136,7 @@ Source:CRIENGLISH.com Related articles：
 
   * <http://www.pokercise.com/members/home>
   * &lt;a href="[http://imarrychina.com/forum/forum.php?mod=viewthread&amp;tid=100543](http://imarrychina.com/forum/forum.php?mod=viewthread&tid=100543 "http://imarrychina.com/forum/forum.php?mod=viewthread&tid=100543" )" target="_blank"&gt;[http://imarrychina.com/forum/forum.php?mod=viewthread&amp;tid=100543](http://imarrychina.com/forum/forum.php?mod=viewthread&tid=100543 "http://imarrychina.com/forum/forum.php?mod=viewthread&tid=100543" )&lt;/a&gt;
-  * <http://bestidol.org/en/index.php/User:Dloda160864#Man_of_steel_offers_China_solid_advice_-_Peoples_Daily_Onlin>
+  * <http://bestidol.org/enUser:Dloda160864#Man_of_steel_offers_China_solid_advice_-_Peoples_Daily_Onlin>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=415 "Edit
 section: Nepali teachers unions suspend strike - Peoples Daily Online" )]
@@ -23471,7 +23471,7 @@ were injured.
 We Recommend Related articles：
 
   * &lt;a href="[http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&amp;tid=251888](http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=251888 "http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=251888" )" target="_blank"&gt;[http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&amp;tid=251888](http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=251888 "http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=251888" )&lt;/a&gt;
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="[http://u.hxqpc.com/bbs/viewthread.php?tid=884120&amp;extra=page%3D1](http://u.hxqpc.com/bbs/viewthread.php?tid=884120&extra=page%3D1 "http://u.hxqpc.com/bbs/viewthread.php?tid=884120&extra=page%3D1" )" target="_blank"&gt;[http://u.hxqpc.com/bbs/viewthread.php?tid=884120&amp;extra=page%3D1](http://u.hxqpc.com/bbs/viewthread.php?tid=884120&extra=page%3D1 "http://u.hxqpc.com/bbs/viewthread.php?tid=884120&extra=page%3D1" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=422 "Edit
@@ -23558,7 +23558,7 @@ Syrian regime.
 "I don't think always these sanctions aspiration adviser to one annihilate to
 the Syrian crisis Noha said. Related articles：
 
-  * <http://thebiblereincarnate.com/index.php/User:Dloda551327#Macao_banks_lending_to_SMEs_up_55.1_pct_in_H2_of_2011_-_Peop>
+  * <http://thebiblereincarnate.comUser:Dloda551327#Macao_banks_lending_to_SMEs_up_55.1_pct_in_H2_of_2011_-_Peop>
   * <http://flowerwind.sakura.ne.jp/website/skywalk/2009/07/19-223240.php#comments>
   * <http://www.r101ck.mx/002soc2011/user_blog.php>
 
@@ -23805,7 +23805,7 @@ Hanas New Energy Group ought expenditure care to means of exporting the
 energy. Related articles：
 
   * <http://flowerwind.sakura.ne.jp/website/skywalk/2009/07/30-184015.php#comments>
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="[http://hotdot5168.com/forum.php?mod=viewthread&amp;tid=134936](http://hotdot5168.com/forum.php?mod=viewthread&tid=134936 "http://hotdot5168.com/forum.php?mod=viewthread&tid=134936" )" target="_blank"&gt;[http://hotdot5168.com/forum.php?mod=viewthread&amp;tid=134936](http://hotdot5168.com/forum.php?mod=viewthread&tid=134936 "http://hotdot5168.com/forum.php?mod=viewthread&tid=134936" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=428 "Edit
@@ -24264,7 +24264,7 @@ Africa 2010 World Cup. Related articles：
 
   * &lt;a href="<http://mysouthpalmbeach.com/forum/index.php?topic=244536.msg322186#msg322186>" target="_blank"&gt;<http://mysouthpalmbeach.com/forum/index.php?topic=244536.msg322186#msg322186>&lt;/a&gt;
   * &lt;a href="[http://www.c776024.166169.com/viewthread.php?tid=635986&amp;extra=](http://www.c776024.166169.com/viewthread.php?tid=635986&extra= "http://www.c776024.166169.com/viewthread.php?tid=635986&extra=" )" target="_blank"&gt;[http://www.c776024.166169.com/viewthread.php?tid=635986&amp;extra=](http://www.c776024.166169.com/viewthread.php?tid=635986&extra= "http://www.c776024.166169.com/viewthread.php?tid=635986&extra=" )&lt;/a&gt;
-  * <http://wiki.taptica.com/index.php/User:Dloda036676#Massive_wage_hike_for_Foxconn_workers_-_Peoples_Daily_Online>
+  * <http://wiki.taptica.comUser:Dloda036676#Massive_wage_hike_for_Foxconn_workers_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=437 "Edit
 section: Lhasa decorated to greet Spring Festival - Peoples Daily Onl" )]
@@ -24609,7 +24609,7 @@ l'Irak lors de l'opération d'exclusion aérienne. Celle d'après c'est lorsque
 nous avons libéré l'Irak." Related articles：
 
   * &lt;a href="<http://ladygig.com/user_blog_comments.php?blogentry_id=710947>" target="_blank"&gt;<http://ladygig.com/user_blog_comments.php?blogentry_id=710947>&lt;/a&gt;
-  * <http://wikidust.sbols.org/index.php/User:Dloda721732#New_Yangtze_River_Bridge_opens_in_Chinas_Wuhan__-_Peoples_Da>
+  * <http://wikidust.sbols.orgUser:Dloda721732#New_Yangtze_River_Bridge_opens_in_Chinas_Wuhan__-_Peoples_Da>
   * &lt;a href="[http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&amp;tid=257150](http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=257150 "http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=257150" )" target="_blank"&gt;[http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&amp;tid=257150](http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=257150 "http://demo.hosteasy.com.hk/discuz/forum.php?mod=viewthread&tid=257150" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=443 "Edit
@@ -24911,7 +24911,7 @@ Source:Xinhua Related articles：
 
   * &lt;a href="[http://www.elaine.tayamoll.com/forum.php?mod=viewthread&amp;tid=286025&amp;extra=](http://www.elaine.tayamoll.com/forum.php?mod=viewthread&tid=286025&extra= "http://www.elaine.tayamoll.com/forum.php?mod=viewthread&tid=286025&extra=" )" target="_blank"&gt;[http://www.elaine.tayamoll.com/forum.php?mod=viewthread&amp;tid=286025&amp;extra=](http://www.elaine.tayamoll.com/forum.php?mod=viewthread&tid=286025&extra= "http://www.elaine.tayamoll.com/forum.php?mod=viewthread&tid=286025&extra=" )&lt;/a&gt;
   * <http://touchnokia.ru/nokia-sobiraetsja-prodavat--aktivi-qt.html#comments>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Dloda868386#New_order_-_Peoples_Daily_Online>
+  * <http://ko.dbpedia.org/wikiUser:Dloda868386#New_order_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=448 "Edit
 section: Jiang Dingzhi elected governor of Hainan  - Peoples Daily On" )]
@@ -25381,7 +25381,7 @@ Related articles：
 
   * &lt;a href="[http://forum.3g.com.hk/viewthread.php?tid=1582781&amp;extra=](http://forum.3g.com.hk/viewthread.php?tid=1582781&extra= "http://forum.3g.com.hk/viewthread.php?tid=1582781&extra=" )" target="_blank"&gt;[http://forum.3g.com.hk/viewthread.php?tid=1582781&amp;extra=](http://forum.3g.com.hk/viewthread.php?tid=1582781&extra= "http://forum.3g.com.hk/viewthread.php?tid=1582781&extra=" )&lt;/a&gt;
   * &lt;a href="[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=301520](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=301520 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=301520" )" target="_blank"&gt;[http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&amp;tid=301520](http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=301520 "http://qhdshorg.host2.0929.net.cn/bbs/forum.php?mod=viewthread&tid=301520" )&lt;/a&gt;
-  * <http://bestidol.org/en/index.php/User:Dloda160864#Launch_of_Tiangong-1_space_lab_module_successful__-_Peoples>
+  * <http://bestidol.org/enUser:Dloda160864#Launch_of_Tiangong-1_space_lab_module_successful__-_Peoples>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=458 "Edit
 section: News conference held on Chinas first space-docking procedure" )]
@@ -25403,7 +25403,7 @@ zone late Thursday to act the nation's first space-docking program
 (Xinhua/Wang Jianmin) Related articles：
 
   * &lt;a href="<http://www.ahqh.net.cn/review.asp?NewsID=506>" target="_blank"&gt;<http://www.ahqh.net.cn/review.asp?NewsID=506>&lt;/a&gt;
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="[http://www.chinagid.com/forum.php?mod=viewthread&amp;tid=657608](http://www.chinagid.com/forum.php?mod=viewthread&tid=657608 "http://www.chinagid.com/forum.php?mod=viewthread&tid=657608" )" target="_blank"&gt;[http://www.chinagid.com/forum.php?mod=viewthread&amp;tid=657608](http://www.chinagid.com/forum.php?mod=viewthread&tid=657608 "http://www.chinagid.com/forum.php?mod=viewthread&tid=657608" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=459 "Edit
@@ -25727,7 +25727,7 @@ people resources and social security authorities aboard Thursday. Related
 articles：
 
   * <http://www.cotton-club1980.com/blog4/2010/09/post-249.html#comments>
-  * <http://www.firstwiki.net/index.php/User:Dloda054807#Lost_phones_call_for_plan_-_Peoples_Daily_Online>
+  * <http://www.firstwiki.netUser:Dloda054807#Lost_phones_call_for_plan_-_Peoples_Daily_Online>
   * &lt;a href="[http://my.on.lc/forum.php?mod=viewthread&amp;tid=82111](http://my.on.lc/forum.php?mod=viewthread&tid=82111 "http://my.on.lc/forum.php?mod=viewthread&tid=82111" )" target="_blank"&gt;[http://my.on.lc/forum.php?mod=viewthread&amp;tid=82111](http://my.on.lc/forum.php?mod=viewthread&tid=82111 "http://my.on.lc/forum.php?mod=viewthread&tid=82111" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=467 "Edit
@@ -25897,7 +25897,7 @@ practical,[Asics Onitsuka Tiger](http://www.asicsaustraliamall.com/
 ministry should find ways to deter family members from covering up officials'
 faults. Related articles：
 
-  * <http://bestidol.org/en/index.php/User:Dloda160864#NASA_probe_data_show_evidence_of_liquid_water_on_Jupiters_ic>
+  * <http://bestidol.org/enUser:Dloda160864#NASA_probe_data_show_evidence_of_liquid_water_on_Jupiters_ic>
   * &lt;a href="[http://52zucaish.b5.365on.com/forum.php?mod=viewthread&amp;tid=185472](http://52zucaish.b5.365on.com/forum.php?mod=viewthread&tid=185472 "http://52zucaish.b5.365on.com/forum.php?mod=viewthread&tid=185472" )" target="_blank"&gt;[http://52zucaish.b5.365on.com/forum.php?mod=viewthread&amp;tid=185472](http://52zucaish.b5.365on.com/forum.php?mod=viewthread&tid=185472 "http://52zucaish.b5.365on.com/forum.php?mod=viewthread&tid=185472" )&lt;/a&gt;
   * &lt;a href="[http://www.5ilab.cn/bbs/forum.php?mod=viewthread&amp;tid=185839](http://www.5ilab.cn/bbs/forum.php?mod=viewthread&tid=185839 "http://www.5ilab.cn/bbs/forum.php?mod=viewthread&tid=185839" )" target="_blank"&gt;[http://www.5ilab.cn/bbs/forum.php?mod=viewthread&amp;tid=185839](http://www.5ilab.cn/bbs/forum.php?mod=viewthread&tid=185839 "http://www.5ilab.cn/bbs/forum.php?mod=viewthread&tid=185839" )&lt;/a&gt;
 
@@ -27028,7 +27028,7 @@ this daily (Xinhua/Han Yuqing) Related articles：
 
   * <http://www.yotsuba-dream.com/youtuba/2009/05/1101.html#comments>
   * <http://ws.yzgs.gov.cn/Admin_login.asp>
-  * <http://bestidol.org/en/index.php/User:Dloda074297#Kuwait_withdraws_diplomatic_mission_from_Yemen___-_Peoples_D>
+  * <http://bestidol.org/enUser:Dloda074297#Kuwait_withdraws_diplomatic_mission_from_Yemen___-_Peoples_D>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=489 "Edit
 section: More Internet retailers add twists to define social commerce" )]
@@ -27429,7 +27429,7 @@ acquisitions between them"meanwhile"cracking down aboard forgery plus fake
 seeds among the market the file said. Related articles：
 
   * <http://www.buddinet.com/SYB/2010/12/houston-red-light-cameras.html#comments>
-  * <http://www.ipalmdigitalquran.com/index.php/members/home>
+  * <http://www.ipalmdigitalquran.commembers/home>
   * &lt;a href="[http://www.jialilichurch.org/viewthread.php?tid=363212&amp;extra=](http://www.jialilichurch.org/viewthread.php?tid=363212&extra= "http://www.jialilichurch.org/viewthread.php?tid=363212&extra=" )" target="_blank"&gt;[http://www.jialilichurch.org/viewthread.php?tid=363212&amp;extra=](http://www.jialilichurch.org/viewthread.php?tid=363212&extra= "http://www.jialilichurch.org/viewthread.php?tid=363212&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=495 "Edit
@@ -27456,7 +27456,7 @@ Peiliang) Related articles：
 
   * <http://tsujimasato.com/blog/2008/12/roomba.html#comments>
   * &lt;a href="<http://earthssports.com/index.php?title=User:Loda863099#Knicks_fall_to_first_loss_in_Lin_era_-_Peoples_Daily_Online>" target="_blank"&gt;<http://earthssports.com/index.php?title=User:Loda863099#Knicks_fall_to_first_loss_in_Lin_era_-_Peoples_Daily_Online>&lt;/a&gt;
-  * <http://www.firstwiki.net/index.php/User:Dloda054807#Kinship_blossoms_in_devotion_.282.29_-_Peoples_Daily_Online>
+  * <http://www.firstwiki.netUser:Dloda054807#Kinship_blossoms_in_devotion_.282.29_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=496 "Edit
 section: Members arrive for CPPCC annual session \(3\) - Peoples Daily" )]
@@ -27958,7 +27958,7 @@ Outlet](http://www.louboutinaustraliaoutlet.com/products_all.html
 "http://www.louboutinaustraliaoutlet.com/products_all.html" ),plus Jinan.
 Related articles：
 
-  * <http://www.bisericaonline.ro/forum/index.php/topic,328304.msg365177.html#msg365177>
+  * <http://www.bisericaonline.ro/forumtopic,328304.msg365177.html#msg365177>
   * <http://onegoodmove.org/forum/2011/04/obama-and-the-2012-presidential-run.html#comments>
   * &lt;a href="<http://www.kitic.net/plus/view.php?aid=109206>" target="_blank"&gt;<http://www.kitic.net/plus/view.php?aid=109206>&lt;/a&gt;
 
@@ -28982,7 +28982,7 @@ Shoes](http://www.asicsaustraliamall.com/products_all.html
 persistence she got the question she was looking for: "Why work home? My
 partner is worked" Related articles：
 
-  * <http://pirotess.co.uk/buildabetterworld/index.php/User:Loda983240#Myanmar.2C_New_Zealand_to_promote_bilateral_ties.2C_cooperation>
+  * <http://pirotess.co.uk/buildabetterworldUser:Loda983240#Myanmar.2C_New_Zealand_to_promote_bilateral_ties.2C_cooperation>
   * &lt;a href="[http://e-learninc.com/bbs/viewthread.php?tid=96416&amp;extra=](http://e-learninc.com/bbs/viewthread.php?tid=96416&extra= "http://e-learninc.com/bbs/viewthread.php?tid=96416&extra=" )" target="_blank"&gt;[http://e-learninc.com/bbs/viewthread.php?tid=96416&amp;extra=](http://e-learninc.com/bbs/viewthread.php?tid=96416&extra= "http://e-learninc.com/bbs/viewthread.php?tid=96416&extra=" )&lt;/a&gt;
   * &lt;a href="<http://mysouthpalmbeach.com/forum/index.php?topic=256128.msg336940#msg336940>" target="_blank"&gt;<http://mysouthpalmbeach.com/forum/index.php?topic=256128.msg336940#msg336940>&lt;/a&gt;
 
@@ -29196,7 +29196,7 @@ articles：
 
   * <http://www.allesgelingt.de/forum/universitat/uni-siegen/auslandsangebote-fur-studierende-im-bereich-wirtschaft-praktika-in-den-usa.php#comments>
   * &lt;a href="[http://xizanglu.com/forum.php?mod=viewthread&amp;tid=2116](http://xizanglu.com/forum.php?mod=viewthread&tid=2116 "http://xizanglu.com/forum.php?mod=viewthread&tid=2116" )" target="_blank"&gt;[http://xizanglu.com/forum.php?mod=viewthread&amp;tid=2116](http://xizanglu.com/forum.php?mod=viewthread&tid=2116 "http://xizanglu.com/forum.php?mod=viewthread&tid=2116" )&lt;/a&gt;
-  * <http://cdr.chicagobynight.org/CDR/index.php/User:Loda942886#Legends_of_Mid-Autumn_Festival_-_Peoples_Daily_Online>
+  * <http://cdr.chicagobynight.org/CDRUser:Loda942886#Legends_of_Mid-Autumn_Festival_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=533 "Edit
 section: Mystery over saltwater crocodile found in river - Peoples Da" )]
@@ -29295,8 +29295,8 @@ Outlet](http://www.guccicanadaoutletsale.com/
 Related articles：
 
   * <http://www.yourgrievance.com/members/home>
-  * <http://www.nikvid.com/index.php/members/home>
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://www.nikvid.commembers/home>
+  * <http://radio-latic.net/v2members/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=535 "Edit
 section: New ship to boost Arctic expeditions - Peoples Daily Online" )]
@@ -29343,7 +29343,7 @@ expedition. Related articles：
 
   * <http://www.grand-hirafu.jp/blog/ekoru/2012/06/post-5.html#comments>
   * &lt;a href="<http://fakeopedia.org/index.php?title=User:Loda386994#Libyas_NTC_announces_new_electoral_law_-_Peoples_Daily_Onlin>" target="_blank"&gt;<http://fakeopedia.org/index.php?title=User:Loda386994#Libyas_NTC_announces_new_electoral_law_-_Peoples_Daily_Onlin>&lt;/a&gt;
-  * <http://leapingcat.org/blender2crystal/index.php/User:Loda507388#Japans_ex-Farm_Minister_may_seek_to_have_pro-TPP_Noda_replac>
+  * <http://leapingcat.org/blender2crystalUser:Loda507388#Japans_ex-Farm_Minister_may_seek_to_have_pro-TPP_Noda_replac>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=536 "Edit
 section: London protesters demand closure of Guantanamo Bay detention" )]
@@ -30554,7 +30554,7 @@ Ma's house was targeted because his younger sibling Ma Wen'ge,is the capital
 of a regional police station among Luhuo. They went deep into the residential
 compound to damage Ma's house. Other houses were spared. Related articles：
 
-  * <http://www.sudopedia.org/index.php/User:Loda816410#New_system_marks_start_of_data_reform_in_China_-_Peoples_Dai>
+  * <http://www.sudopedia.orgUser:Loda816410#New_system_marks_start_of_data_reform_in_China_-_Peoples_Dai>
   * &lt;a href="[http://www.thinkpad-tablet.com/forum.php?mod=viewthread&amp;tid=189585](http://www.thinkpad-tablet.com/forum.php?mod=viewthread&tid=189585 "http://www.thinkpad-tablet.com/forum.php?mod=viewthread&tid=189585" )" target="_blank"&gt;[http://www.thinkpad-tablet.com/forum.php?mod=viewthread&amp;tid=189585](http://www.thinkpad-tablet.com/forum.php?mod=viewthread&tid=189585 "http://www.thinkpad-tablet.com/forum.php?mod=viewthread&tid=189585" )&lt;/a&gt;
   * &lt;a href="[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=1057857](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1057857 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1057857" )" target="_blank"&gt;[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=1057857](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1057857 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1057857" )&lt;/a&gt;
 
@@ -30838,7 +30838,7 @@ We Recommend Related articles：
 
   * &lt;a href="[http://www.hkeday.com/bbs/viewthread.php?tid=2986166&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2986166&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2986166&extra=" )" target="_blank"&gt;[http://www.hkeday.com/bbs/viewthread.php?tid=2986166&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2986166&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2986166&extra=" )&lt;/a&gt;
   * &lt;a href="[http://www.sycil.net:81/luntan/forum.php?mod=viewthread&amp;tid=214378](http://www.sycil.net:81/luntan/forum.php?mod=viewthread&tid=214378 "http://www.sycil.net:81/luntan/forum.php?mod=viewthread&tid=214378" )" target="_blank"&gt;[http://www.sycil.net:81/luntan/forum.php?mod=viewthread&amp;tid=214378](http://www.sycil.net:81/luntan/forum.php?mod=viewthread&tid=214378 "http://www.sycil.net:81/luntan/forum.php?mod=viewthread&tid=214378" )&lt;/a&gt;
-  * <http://oppenn.org/index.php/User:Loda601262#Japan_holds_memorial_service_to_commemorate_quake_victims_.283>
+  * <http://oppenn.orgUser:Loda601262#Japan_holds_memorial_service_to_commemorate_quake_victims_.283>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=569 "Edit
 section: Japan posts 1st annual trade deficit in 31 years in 2011 - P" )]
@@ -32170,7 +32170,7 @@ alternatively penalized,and involved medical institutions longing likewise be
 given coarse punishments,mentioned Liu Qian, vice minister of the Ministry of
 Health. Related articles：
 
-  * <http://nnos.us/ms/index.php/User:Loda259243#National_advisory_body_prepares_for_session_-_Peoples_Daily>
+  * <http://nnos.us/msUser:Loda259243#National_advisory_body_prepares_for_session_-_Peoples_Daily>
   * &lt;a href="[http://cslrhw.com/forum.php?mod=viewthread&amp;tid=52161](http://cslrhw.com/forum.php?mod=viewthread&tid=52161 "http://cslrhw.com/forum.php?mod=viewthread&tid=52161" )" target="_blank"&gt;[http://cslrhw.com/forum.php?mod=viewthread&amp;tid=52161](http://cslrhw.com/forum.php?mod=viewthread&tid=52161 "http://cslrhw.com/forum.php?mod=viewthread&tid=52161" )&lt;/a&gt;
   * &lt;a href="[http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&amp;p=417574](http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&p=417574 "http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&p=417574" )" target="_blank"&gt;[http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&amp;p=417574](http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&p=417574 "http://www.globalservices.com.tn/membres/showthread.php?300140-Japan-must-learn-from-history-Peoples-Daily-Onli&p=417574" )&lt;/a&gt;
 
@@ -32563,7 +32563,7 @@ poorer migrants may be precluded.
 a inexpensive zone to live," Chen said. Related articles：
 
   * &lt;a href="[http://likebook.hk/forum.php?mod=viewthread&amp;tid=1174416](http://likebook.hk/forum.php?mod=viewthread&tid=1174416 "http://likebook.hk/forum.php?mod=viewthread&tid=1174416" )" target="_blank"&gt;[http://likebook.hk/forum.php?mod=viewthread&amp;tid=1174416](http://likebook.hk/forum.php?mod=viewthread&tid=1174416 "http://likebook.hk/forum.php?mod=viewthread&tid=1174416" )&lt;/a&gt;
-  * <http://oryx.digimech.com/wikitest/index.php/User:Loda266042#Jiangsus_special_New_Year_traditions_-_Peoples_Daily_Online>
+  * <http://oryx.digimech.com/wikitestUser:Loda266042#Jiangsus_special_New_Year_traditions_-_Peoples_Daily_Online>
   * &lt;a href="[http://www.qingbei.com.cn/forum.php?mod=viewthread&amp;tid=362499&amp;extra=](http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=362499&extra= "http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=362499&extra=" )" target="_blank"&gt;[http://www.qingbei.com.cn/forum.php?mod=viewthread&amp;tid=362499&amp;extra=](http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=362499&extra= "http://www.qingbei.com.cn/forum.php?mod=viewthread&tid=362499&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=606 "Edit
@@ -32595,9 +32595,9 @@ Smith](http://www.paulsmithoutletjp.com/ "http://www.paulsmithoutletjp.com/"
 The government has fulfilled relief teams to drought-stricken districts to
 oversee disaster relief operations he added. Related articles：
 
-  * <http://www.palscastle.com/index.php/blogs/15292/140954/kim-jong-il-enjoys-chinese-dance-drama-3-peopl>
+  * <http://www.palscastle.comblogs/15292/140954/kim-jong-il-enjoys-chinese-dance-drama-3-peopl>
   * <http://jagodinapublic.info/upcoming.php>
-  * <http://nanog.cluepon.net/index.php/User:Loda705639#Kansas_awarded_.246-mln_grant_to_train_workers_in_green_indust>
+  * <http://nanog.cluepon.netUser:Loda705639#Kansas_awarded_.246-mln_grant_to_train_workers_in_green_indust>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=607 "Edit
 section: Mission to enhance image of S. Africa - Peoples Daily Online" )]
@@ -33288,7 +33288,7 @@ tener un impacto negativo en la salud física y thinking de la próxima
 generación. Related articles：
 
   * &lt;a href="[http://www.romantik.ro/blogs.php?action=show_member_post&amp;ownerID=92632&amp;post_id=666871](http://www.romantik.ro/blogs.php?action=show_member_post&ownerID=92632&post_id=666871 "http://www.romantik.ro/blogs.php?action=show_member_post&ownerID=92632&post_id=666871" )" target="_blank"&gt;[http://www.romantik.ro/blogs.php?action=show_member_post&amp;ownerID=92632&amp;post_id=666871](http://www.romantik.ro/blogs.php?action=show_member_post&ownerID=92632&post_id=666871 "http://www.romantik.ro/blogs.php?action=show_member_post&ownerID=92632&post_id=666871" )&lt;/a&gt;
-  * <http://www.indianmusicguide.com/index.php/User:Loda524249#Most_people_working_for_Chinese_projects_in_Syria_back_home>
+  * <http://www.indianmusicguide.comUser:Loda524249#Most_people_working_for_Chinese_projects_in_Syria_back_home>
   * &lt;a href="[http://devmsn.com/forum.php?mod=viewthread&amp;tid=2502445](http://devmsn.com/forum.php?mod=viewthread&tid=2502445 "http://devmsn.com/forum.php?mod=viewthread&tid=2502445" )" target="_blank"&gt;[http://devmsn.com/forum.php?mod=viewthread&amp;tid=2502445](http://devmsn.com/forum.php?mod=viewthread&tid=2502445 "http://devmsn.com/forum.php?mod=viewthread&tid=2502445" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=621 "Edit
@@ -33360,7 +33360,7 @@ to 17 plus the digit of injured to
 "http://www.louboutinpumpsrakuten.com/" ),much survivors and relatives are
 struggling to face the aftermath. Related articles：
 
-  * <http://www.sfeditorwatch.com/index.php/User:Loda972009#Misguided_foundation_-_Peoples_Daily_Online>
+  * <http://www.sfeditorwatch.comUser:Loda972009#Misguided_foundation_-_Peoples_Daily_Online>
   * <http://www.kamadatakuma.com/weblog/archives/2006/09/post-107.html#comments>
   * <http://mocoloco.com/archives/027625.php>
 
@@ -34546,7 +34546,7 @@ such mammoth events and projects. Related articles：
 
   * &lt;a href="[http://zgjms.cn/bbs/forum.php?mod=viewthread&amp;tid=152073](http://zgjms.cn/bbs/forum.php?mod=viewthread&tid=152073 "http://zgjms.cn/bbs/forum.php?mod=viewthread&tid=152073" )" target="_blank"&gt;[http://zgjms.cn/bbs/forum.php?mod=viewthread&amp;tid=152073](http://zgjms.cn/bbs/forum.php?mod=viewthread&tid=152073 "http://zgjms.cn/bbs/forum.php?mod=viewthread&tid=152073" )&lt;/a&gt;
   * &lt;a href="[http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&amp;tid=80706&amp;extra=](http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=80706&extra= "http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=80706&extra=" )" target="_blank"&gt;[http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&amp;tid=80706&amp;extra=](http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=80706&extra= "http://jiabao.yoohouse.com/bbs/forum.php?mod=viewthread&tid=80706&extra=" )&lt;/a&gt;
-  * <http://www.bisericaonline.ro/forum/index.php/topic,391892.msg435790.html#msg435790>
+  * <http://www.bisericaonline.ro/forumtopic,391892.msg435790.html#msg435790>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=644 "Edit
 section: Italian president signs govt austerity decree - Peoples Dail" )]
@@ -34893,7 +34893,7 @@ Related articles：
 
   * <http://blog.6999.jp/archives/2012/0819124243.php#comments>
   * <http://www.allesgelingt.de/forum/universitat/uni-siegen/klausur-privatrecht-bwl-eine-frage-fehlte.php#comments>
-  * <http://nurugel.org/index.php/User:Loda192202#Ministry_urges_more_efforts_in_construction_of_affordable_ho>
+  * <http://nurugel.orgUser:Loda192202#Ministry_urges_more_efforts_in_construction_of_affordable_ho>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=653 "Edit
 section: NATO general hopes Pakistan reopen supply route soon - Peopl" )]
@@ -35089,7 +35089,7 @@ night along one blank expressway to the Kuwaiti adjacent.
 
   * &lt;a href="<http://classkhallas.com/?p=72748>" target="_blank"&gt;<http://classkhallas.com/?p=72748>&lt;/a&gt;
   * &lt;a href="<http://encyclopediaimaginaria.org/index.php?title=User:Loda482146#La_renaissance_de_lespoir.2C_un_an_apr.C3.A8s_la_catastrophe_de_Fu>" target="_blank"&gt;<http://encyclopediaimaginaria.org/index.php?title=User:Loda482146#La_renaissance_de_lespoir.2C_un_an_apr.C3.A8s_la_catastrophe_de_Fu>&lt;/a&gt;
-  * <http://www.indianmusicguide.com/index.php/User:Loda524249#No_safe_havens_in_global_financial_storm__-_Peoples_Daily_On>
+  * <http://www.indianmusicguide.comUser:Loda524249#No_safe_havens_in_global_financial_storm__-_Peoples_Daily_On>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=659 "Edit
 section: Kazan foil queen Universiade closely connects Shenzhen and K" )]
@@ -35374,7 +35374,7 @@ study traditional religious doctrines,[シャネル
 Ipad to enjoy a modern life here. (Xinhua/Chogo) Related articles：
 
   * <http://www.elisas-bastelecke.de/2006/10/endlich-kapiert.html#comments>
-  * <http://wiki.simyard.com/index.php/User:Loda707504#Le_Quotidien_du_Peuple_en_ligne>
+  * <http://wiki.simyard.comUser:Loda707504#Le_Quotidien_du_Peuple_en_ligne>
   * <http://www.meiousei.com/2011/10/1.html#comments>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=664 "Edit
@@ -35766,7 +35766,7 @@ commercial happenings along the US embassy. Related articles：
 
   * &lt;a href="[http://bbs.haosc.net/forum.php?mod=viewthread&amp;tid=250283&amp;extra=](http://bbs.haosc.net/forum.php?mod=viewthread&tid=250283&extra= "http://bbs.haosc.net/forum.php?mod=viewthread&tid=250283&extra=" )" target="_blank"&gt;[http://bbs.haosc.net/forum.php?mod=viewthread&amp;tid=250283&amp;extra=](http://bbs.haosc.net/forum.php?mod=viewthread&tid=250283&extra= "http://bbs.haosc.net/forum.php?mod=viewthread&tid=250283&extra=" )&lt;/a&gt;
   * &lt;a href="[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=1095901](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1095901 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1095901" )" target="_blank"&gt;[http://old.noahedu.com/blog/space.php?uid=1215729&amp;do=blog&amp;id=1095901](http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1095901 "http://old.noahedu.com/blog/space.php?uid=1215729&do=blog&id=1095901" )&lt;/a&gt;
-  * <http://wiki.censormon.net/index.php/User:Loda858934#Kenya_trois_morts_et_40_bless.C3.A9s_dans_une_attaque_.C3.A0_la_gren>
+  * <http://wiki.censormon.netUser:Loda858934#Kenya_trois_morts_et_40_bless.C3.A9s_dans_une_attaque_.C3.A0_la_gren>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=672 "Edit
 section: London rioting ignited by what - Peoples Daily Online" )]
@@ -35908,7 +35908,7 @@ Source: Xinhua
 Weekly review Related articles：
 
   * &lt;a href="<http://www.lereseaurencontre.com/events_view.php?eid=250925>" target="_blank"&gt;<http://www.lereseaurencontre.com/events_view.php?eid=250925>&lt;/a&gt;
-  * <http://www.indianmusicguide.com/index.php/User:Loda524249#Military_operations_against_Iran.2C_Syria_violate_intl_laws_Ru>
+  * <http://www.indianmusicguide.comUser:Loda524249#Military_operations_against_Iran.2C_Syria_violate_intl_laws_Ru>
   * <http://www.tatsuoinagaki.com/E/blog/2010/09/the-1st-doi-saket-international-film-festival-2010.html#comments>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=675 "Edit
@@ -36285,7 +36285,7 @@ repots said.
 �� We Recommend �� �� Related articles：
 
   * <http://www.dayuanmachang.com/bbs/showtopic-124708.aspx>
-  * <http://whatworkswell.net/index.php/User:Loda071105#Lama_students_start_school_in_Tibet_College_of_Buddhism_-_Pe>
+  * <http://whatworkswell.netUser:Loda071105#Lama_students_start_school_in_Tibet_College_of_Buddhism_-_Pe>
   * &lt;a href="[http://bbs.6608.net/forum.php?mod=viewthread&amp;tid=322633](http://bbs.6608.net/forum.php?mod=viewthread&tid=322633 "http://bbs.6608.net/forum.php?mod=viewthread&tid=322633" )" target="_blank"&gt;[http://bbs.6608.net/forum.php?mod=viewthread&amp;tid=322633](http://bbs.6608.net/forum.php?mod=viewthread&tid=322633 "http://bbs.6608.net/forum.php?mod=viewthread&tid=322633" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=682 "Edit
@@ -36530,7 +36530,7 @@ panicked to ascend because extra reports were coming from the front line.
 Source: Xinhua  
 Weekly review Related articles：
 
-  * <http://www.firstwiki.net/index.php/User:Dloda054807#Kosovo_Serb_arrested_on_charges_of_war_crimes_-_Peoples_Dail>
+  * <http://www.firstwiki.netUser:Dloda054807#Kosovo_Serb_arrested_on_charges_of_war_crimes_-_Peoples_Dail>
   * &lt;a href="[http://heidou.1.vg/forum.php?mod=viewthread&amp;tid=297007](http://heidou.1.vg/forum.php?mod=viewthread&tid=297007 "http://heidou.1.vg/forum.php?mod=viewthread&tid=297007" )" target="_blank"&gt;[http://heidou.1.vg/forum.php?mod=viewthread&amp;tid=297007](http://heidou.1.vg/forum.php?mod=viewthread&tid=297007 "http://heidou.1.vg/forum.php?mod=viewthread&tid=297007" )&lt;/a&gt;
   * <http://bbs.tlxry.com/showtopic-120760.aspx>
 
@@ -36566,7 +36566,7 @@ articles：
 
   * &lt;a href="[http://shaohong.youdns1.com/forum.php?mod=viewthread&amp;tid=410149](http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=410149 "http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=410149" )" target="_blank"&gt;[http://shaohong.youdns1.com/forum.php?mod=viewthread&amp;tid=410149](http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=410149 "http://shaohong.youdns1.com/forum.php?mod=viewthread&tid=410149" )&lt;/a&gt;
   * &lt;a href="[http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&amp;tid=40202](http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&tid=40202 "http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&tid=40202" )" target="_blank"&gt;[http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&amp;tid=40202](http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&tid=40202 "http://clsyzx.hrbeu.edu.cn/bbs/forum.php?mod=viewthread&tid=40202" )&lt;/a&gt;
-  * <http://oppenn.org/index.php/User:Loda601262#New_teaching_building_of_Confucius_Institute_inaugurated_in>
+  * <http://oppenn.orgUser:Loda601262#New_teaching_building_of_Confucius_Institute_inaugurated_in>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=688 "Edit
 section: Miniature creations exhibited in Hong Kong  - Peoples Daily" )]
@@ -37146,7 +37146,7 @@ idea.,[ロンシャンアウトレット](http://www.longchampbagjapan.com/produ
 "http://www.longchampbagjapan.com/products_new.html" ) Related articles：
 
   * &lt;a href="<http://lorneolfman.com/sl2/index.php?title=User:Loda215669#Miss_University_2012_in_Algeria_crowned_-_Peoples_Daily_Onli>" target="_blank"&gt;<http://lorneolfman.com/sl2/index.php?title=User:Loda215669#Miss_University_2012_in_Algeria_crowned_-_Peoples_Daily_Onli>&lt;/a&gt;
-  * <http://www.nikvid.com/index.php/members/home>
+  * <http://www.nikvid.commembers/home>
   * <http://www.lluxi.com/members/home>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=696 "Edit
@@ -38520,7 +38520,7 @@ Source:Xinhua
 Weekly review Related articles：
 
   * &lt;a href="[http://pet.nj-idc.com/forum.php?mod=viewthread&amp;tid=186793](http://pet.nj-idc.com/forum.php?mod=viewthread&tid=186793 "http://pet.nj-idc.com/forum.php?mod=viewthread&tid=186793" )" target="_blank"&gt;[http://pet.nj-idc.com/forum.php?mod=viewthread&amp;tid=186793](http://pet.nj-idc.com/forum.php?mod=viewthread&tid=186793 "http://pet.nj-idc.com/forum.php?mod=viewthread&tid=186793" )&lt;/a&gt;
-  * <http://oppenn.org/index.php/User:Loda601262#New_yuan_loans_fall_for_a_2nd_straight_month_-_Peoples_Daily>
+  * <http://oppenn.orgUser:Loda601262#New_yuan_loans_fall_for_a_2nd_straight_month_-_Peoples_Daily>
   * &lt;a href="[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&amp;diary_date=20120824&amp;postid=672337](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&diary_date=20120824&postid=672337 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&diary_date=20120824&postid=672337" )" target="_blank"&gt;[http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&amp;diary_date=20120824&amp;postid=672337](http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&diary_date=20120824&postid=672337 "http://cyworld.ifensi.com/ps2/diary/diary_view.php?mh_id=2014291851&diary_date=20120824&postid=672337" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=721 "Edit
@@ -39531,7 +39531,7 @@ headquarters among Llantrisant, South Wales.
 Weekly review Related articles：
 
   * &lt;a href="[http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&amp;forumpage=1](http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&forumpage=1 "http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&forumpage=1" )" target="_blank"&gt;[http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&amp;forumpage=1](http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&forumpage=1 "http://www.51csa.com/bbs/showtopic.aspx?topicid=51358&forumpage=1" )&lt;/a&gt;
-  * <http://www.sfeditorwatch.com/index.php/User:Loda972009#Jeremy_Lin_takes_up_Yaos_mantle_-_Peoples_Daily_Online>
+  * <http://www.sfeditorwatch.comUser:Loda972009#Jeremy_Lin_takes_up_Yaos_mantle_-_Peoples_Daily_Online>
   * &lt;a href="<http://faceria.com/index.php?do=/user/login/>" target="_blank"&gt;<http://faceria.com/index.php?do=/user/login/>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=743 "Edit
@@ -40284,7 +40284,7 @@ We Recommend Related articles：
 
   * &lt;a href="[http://social.irshadkamil.com/profile.php?user=RicardoAvi55&amp;v=comments](http://social.irshadkamil.com/profile.php?user=RicardoAvi55&v=comments "http://social.irshadkamil.com/profile.php?user=RicardoAvi55&v=comments" )" target="_blank"&gt;[http://social.irshadkamil.com/profile.php?user=RicardoAvi55&amp;v=comments](http://social.irshadkamil.com/profile.php?user=RicardoAvi55&v=comments "http://social.irshadkamil.com/profile.php?user=RicardoAvi55&v=comments" )&lt;/a&gt;
   * &lt;a href="[http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&amp;tid=107125](http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=107125 "http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=107125" )" target="_blank"&gt;[http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&amp;tid=107125](http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=107125 "http://www.pk3guo.com/pk_bbs/forum.php?mod=viewthread&tid=107125" )&lt;/a&gt;
-  * <http://nurugel.org/index.php/User:Loda192202#Lunar_New_Years_Eve_.28II.29_-_Peoples_Daily_Online>
+  * <http://nurugel.orgUser:Loda192202#Lunar_New_Years_Eve_.28II.29_-_Peoples_Daily_Online>
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=762 "Edit
 section: NATO, Russia to continue talks on missile defense - Peoples" )]
@@ -40653,7 +40653,7 @@ screen by Times Square surrounded New York aboard Oct. 28,[ディオール
 "http://www.diorjapan.com/products_new.html" ), 2011. Related articles：
 
   * &lt;a href="[http://0455tg.com/forum.php?mod=viewthread&amp;tid=181478](http://0455tg.com/forum.php?mod=viewthread&tid=181478 "http://0455tg.com/forum.php?mod=viewthread&tid=181478" )" target="_blank"&gt;[http://0455tg.com/forum.php?mod=viewthread&amp;tid=181478](http://0455tg.com/forum.php?mod=viewthread&tid=181478 "http://0455tg.com/forum.php?mod=viewthread&tid=181478" )&lt;/a&gt;
-  * <http://frontpage.cbs.dk/bibliotek/index.php/User:Loda300446#Israeli_researchers_develop_Malaria-fighting_tobacco__-_Peop>
+  * <http://frontpage.cbs.dk/bibliotekUser:Loda300446#Israeli_researchers_develop_Malaria-fighting_tobacco__-_Peop>
   * &lt;a href="<http://www.yourdatingsite.nl/events_view.php?eid=329112>" target="_blank"&gt;<http://www.yourdatingsite.nl/events_view.php?eid=329112>&lt;/a&gt;
 
 [[edit](/index.php?title=User:Dloda054807&action=edit&section=770 "Edit

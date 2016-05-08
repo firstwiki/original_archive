@@ -14,8 +14,8 @@ Plane Refueling is an important a part of the air transport system.
 Additionally it is necessary as the security of the plane is involved with
 this. Aircraft refueling is a posh half and it must be performed in a proper
 manner. It may be finished manually however [wireless
-remote](http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Josefjones
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Josefjones" )
+remote](http://www.evidencewarehouse.ocp.dc.govUser_talk:Josefjones
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Josefjones" )
 control is the best choice when minute action is needed. In addition to, the
 entire thing could be done more precisely and completely when it is performed
 by an [**industrial wireless**](http://www.baseng.com/

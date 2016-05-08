@@ -19,14 +19,14 @@ Official Site: | [2003 Mission
 Mars](http://www.firstlegoleague.org/default.aspx?pid=11240
 "http://www.firstlegoleague.org/default.aspx?pid=11240" )  
   
-The [FLL Challenge](/index.php/FLL_Challenge "FLL Challenge" ) theme for 2003
+The [FLL Challenge](FLL_Challenge "FLL Challenge" ) theme for 2003
 was Mission Mars. FLL teams were tasked to compete in the Robot Game, as well
 complete a Project to design a robotic expedition to answer a key question
 about Mars exploration.
 
 The challenge was released in September, 2003 with the bulk of Official State
 tournaments occuring in December. The season was concluded by the [FLL
-Invitational](/index.php/FLL_World_Festival "FLL World Festival" ) (now known
+Invitational](FLL_World_Festival "FLL World Festival" ) (now known
 as the FLL World Festival) which was held in conjunction with the FIRST
 Championship event in April 2004.
 

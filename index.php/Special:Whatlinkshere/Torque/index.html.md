@@ -22,10 +22,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Torque&limit=500&from=0
 "Special:Whatlinkshere/Torque" )).
 
-  * [Motors](/index.php/Motors "Motors" )
-  * [Physics](/index.php/Physics "Physics" )
-  * [FIRSTwiki:Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Drill](/index.php/Drill "Drill" )
+  * [Motors](Motors "Motors" )
+  * [Physics](Physics "Physics" )
+  * [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Drill](Drill "Drill" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Torque&limit=20&from=0
 "Special:Whatlinkshere/Torque" ) |

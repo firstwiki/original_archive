@@ -8,6 +8,6 @@ Games" ))
 Jump to: navigation, search
 
 ![#REDIRECT](/skins/common/images/redirectltr.png)[Game
-(disambiguation)](/index.php/Game_%28disambiguation%29 "Game
+(disambiguation)](Game_%28disambiguation%29 "Game
 \(disambiguation\)" )
 

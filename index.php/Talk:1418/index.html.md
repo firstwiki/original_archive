@@ -14,10 +14,10 @@ talking about in the CD
 thread](http://www.chiefdelphi.com/forums/showpost.php?p=266280&postcount=2
 "http://www.chiefdelphi.com/forums/showpost.php?p=266280&postcount=2" ).
 Thanks Phrontist and Mr. Ballou! (unless of course you are one and the
-same....) --[Max](/index.php/User:Max "User:Max" )
+same....) --[Max](User:Max "User:Max" )
 
 Ha! No, I'm not Mr.Ballou. I'm not nearly cool enough
-----[Phrontist](/index.php/User:Phrontist "User:Phrontist" )
+----[Phrontist](User:Phrontist "User:Phrontist" )
 
 
 ##  wow

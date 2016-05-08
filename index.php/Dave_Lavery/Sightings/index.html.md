@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-[Dave Lavery](/index.php/Dave_Lavery "Dave Lavery" ) is rarely in his office,
+[Dave Lavery](Dave_Lavery "Dave Lavery" ) is rarely in his office,
 if you spot him on the webcam, report it here. Eventually Dave will find this
 and be thoroughly unnerved. :-)
 
@@ -40,7 +40,7 @@ and be thoroughly unnerved. :-)
   * 02:21 PM 03 September 2004: Dave must be perky, since he's got a bright yellow shirt on today. And he's typing with two hands. I'm yet to see that before. 
   * 12:13 PM 07 September 2004: Bent over his desk, looking at either a magazine or a catalog, stroking his chin. Kit ordering again, Dave? 
   * 03:37 PM 07 September 2004: Facing his computer, holding some spherical object. Can't tell what. (Perhaps we should buy Dave a higher-res DaveCam for Kickoff?) 
-    * Ha! Ha! Ha! Yeah, Dave in streaming HD! --[Phrontist](/index.php/User:Phrontist "User:Phrontist" ) 08:58, 9 Sep 2004 (EDT) 
+    * Ha! Ha! Ha! Yeah, Dave in streaming HD! --[Phrontist](User:Phrontist "User:Phrontist" ) 08:58, 9 Sep 2004 (EDT) 
   * 10:37 AM 14 September 2004: Dave's hunched over his desk's corner, looks like he's either looking at a CD case or leering at the camera. 
   * 12:29 PM 20 September 2004: Wearing a blue checked shirt, on the computer. (Is this a continuation of the rebellion against his co-workers for the What Not to Wear plot?) 
   * 09:33 AM 22 September 2004: Back to the normal white shirts, head tilted down a bit while scratching his right ear with his left arm. Or something like that. 

@@ -23,8 +23,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Veteran_teams&limit=500&from=0
 "Special:Whatlinkshere/Veteran teams" )).
 
-  * [Game](/index.php/Game "Game" )
-  * [Scouting](/index.php/Scouting "Scouting" )
+  * [Game](Game "Game" )
+  * [Scouting](Scouting "Scouting" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Veteran_teams&limit=20&from=0
 "Special:Whatlinkshere/Veteran teams" ) |

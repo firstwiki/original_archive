@@ -4,26 +4,26 @@
 
 Jump to: navigation, search
 
-**[The Championship Event](/index.php/The_Championship_Event "The Championship Event" )**
+**[The Championship Event](The_Championship_Event "The Championship Event" )**
 
   * [2009](/index.php?title=Championship_Event_%282009%29&action=edit "Championship Event \(2009\)" )
   * [2008](/index.php?title=Championship_Event_%282008%29&action=edit "Championship Event \(2008\)" )
-  * [2007](/index.php/Championship_Event_%282007%29 "Championship Event \(2007\)" )
-  * [2006](/index.php/Championship_Event_%282006%29 "Championship Event \(2006\)" )
-  * [2005](/index.php/Championship_Event_%282005%29 "Championship Event \(2005\)" )
+  * [2007](Championship_Event_%282007%29 "Championship Event \(2007\)" )
+  * [2006](Championship_Event_%282006%29 "Championship Event \(2006\)" )
+  * [2005](Championship_Event_%282005%29 "Championship Event \(2005\)" )
   * [2004](/index.php?title=Championship_Event_%282004%29&action=edit "Championship Event \(2004\)" )
   * [2003](/index.php?title=Championship_Event_%282003%29&action=edit "Championship Event \(2003\)" )
   * [2002](/index.php?title=Championship_Event_%282002%29&action=edit "Championship Event \(2002\)" )
   * [2001](/index.php?title=Championship_Event_%282001%29&action=edit "Championship Event \(2001\)" )
   * [2000](/index.php?title=Championship_Event_%282000%29&action=edit "Championship Event \(2000\)" )
   * [1999](/index.php?title=Championship_Event_%281999%29&action=edit "Championship Event \(1999\)" )
-  * [1998](/index.php/Championship_Event_%281998%29 "Championship Event \(1998\)" )
+  * [1998](Championship_Event_%281998%29 "Championship Event \(1998\)" )
   * [1997](/index.php?title=Championship_Event_%281997%29&action=edit "Championship Event \(1997\)" )
   * **1996**
   * [1995](/index.php?title=Championship_Event_%281995%29&action=edit "Championship Event \(1995\)" )
   * [1994](/index.php?title=Championship_Event_%281994%29&action=edit "Championship Event \(1994\)" )
-  * [1993](/index.php/Championship_Event_%281993%29 "Championship Event \(1993\)" )
-  * [1992](/index.php/Championship_Event_%281992%29 "Championship Event \(1992\)" )  
+  * [1993](Championship_Event_%281993%29 "Championship Event \(1993\)" )
+  * [1992](Championship_Event_%281992%29 "Championship Event \(1992\)" )  
 ---  
   
 74 Teams competed in the 1996 FIRST National Championship, which was held on
@@ -106,11 +106,11 @@ Woodie Flowers Award presented by Small Parts, Inc.
     Dr. Woodie Flowers 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Championship_Event_%281996%29>"
+"<http://www.firstwiki.netChampionship_Event_%281996%29>"
 
 ##### Views
 
-  * [Article](/index.php/Championship_Event_%281996%29)
+  * [Article](Championship_Event_%281996%29)
   * [Discussion](/index.php?title=Talk:Championship_Event_%281996%29&action=edit)
   * [Edit](/index.php?title=Championship_Event_%281996%29&action=edit)
   * [History](/index.php?title=Championship_Event_%281996%29&action=history)
@@ -119,17 +119,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Championship_Event_\(1996\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -137,10 +137,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Championship_Event_%281996%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Championship_Event_%281996%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Championship_Event_%281996%29)
+  * [Related changes](Special:Recentchangeslinked/Championship_Event_%281996%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Championship_Event_%281996%29&printable=yes)
   * [Permanent link](/index.php?title=Championship_Event_%281996%29&oldid=59336)
 
@@ -153,7 +153,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:29, 16 April 2007.
   * This page has been accessed 412 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

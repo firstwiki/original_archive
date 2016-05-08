@@ -21,7 +21,7 @@ this article.
 *****Needs major attention with advent of NXT*****
 
 Almost all LEGO parts are allowed to be used on [FLL
-Robots](/index.php/Robot_%28FLL%29 "Robot \(FLL\)" ). The primary restrictions
+Robots](Robot_%28FLL%29 "Robot \(FLL\)" ). The primary restrictions
 are on the type and quantity of electrical parts.
 
 [[edit](/index.php?title=FLL_Allowable_Parts&action=edit&section=1 "Edit
@@ -34,7 +34,7 @@ Mindstorms, Bionicle, etc. There is no quantity limit of any sort. You may use
 as much Lego as you have access to.
 
 A standard set of parts is available. The [FLL Robot
-Set](/index.php/FLL_Robot_Set "FLL Robot Set" ) or basic NXT kit (educational
+Set](FLL_Robot_Set "FLL Robot Set" ) or basic NXT kit (educational
 of retail can be used) can be purchased as part of registration (in whatever
 desired quantity). This is similar to the standard [Lego Mindstorms
 Kit](/index.php?title=Lego_Mindstorms_Kit&action=edit "Lego Mindstorms Kit" ).

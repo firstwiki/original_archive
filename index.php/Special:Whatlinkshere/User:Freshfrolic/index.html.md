@@ -24,7 +24,7 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/User:Freshfrolic" )).
 
   * [Eugenia Gabrielov](/index.php?title=Eugenia_Gabrielov&redirect=no "Eugenia Gabrielov" ) (redirect page) 
-    * [Index of people](/index.php/Index_of_people "Index of people" )
+    * [Index of people](Index_of_people "Index of people" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Freshfrolic&limit=20&from=0
 "Special:Whatlinkshere/User:Freshfrolic" ) |

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Wire is an [electronics](/index.php/Electronics_and_circuitry "Electronics and
+Wire is an [electronics](Electronics_and_circuitry "Electronics and
 circuitry" ) component used to transfer electrical energy.
 
 ## Contents
@@ -26,27 +26,27 @@ The standard used in FIRST is the [AWG](/index.php?title=AWG&action=edit "AWG"
 
 ### 6 AWG
 
-Used to connect from the [12V battery](/index.php/12V_battery "12V battery" )
+Used to connect from the [12V battery](12V_battery "12V battery" )
 to any other circuit breakers and distrobution blocks.
 
 
 ### 10 AWG
 
 Used in connecting Drill, CIM, Fisher-Price, Globe or Van Door
-[motors](/index.php/Motors "Motors" ) to [Victor 884](/index.php/Victor
+[motors](Motors "Motors" ) to [Victor 884](Victor
 "Victor" ) and circit breakers.
 
 
 ### 16 AWG
 
 Used in connecting seat or window motors to Speed controllers and [circuit
-breakers](/index.php/Circuit_breaker "Circuit breaker" ).
+breakers](Circuit_breaker "Circuit breaker" ).
 
 
 ### 24 AWG
 
-Used for connecting [Sensors](/index.php/Sensors "Sensors" ), PWM cables, or
-[Muffin fans](/index.php/Muffin_fan "Muffin fan" ).
+Used for connecting [Sensors](Sensors "Sensors" ), PWM cables, or
+[Muffin fans](Muffin_fan "Muffin fan" ).
 
 
 ### NOTE

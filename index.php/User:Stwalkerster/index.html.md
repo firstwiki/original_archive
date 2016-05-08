@@ -7,7 +7,7 @@ Jump to: navigation, search
 Hi! I'm [wikipedia:en:User:Stwalkerster](http://www.wikipedia.org/wiki/en:User
 :Stwalkerster "wikipedia:en:User:Stwalkerster" ) \- if something is urgent,
 and you need me, feel free to email me -
-[Special:Emailuser/Stwalkerster](/index.php/Special:Emailuser/Stwalkerster
+[Special:Emailuser/Stwalkerster](Special:Emailuser/Stwalkerster
 "Special:Emailuser/Stwalkerster" )
 
     

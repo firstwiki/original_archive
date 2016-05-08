@@ -7,8 +7,8 @@
 Jump to: navigation, search
 
 This is the story of Tooth, a little robot that collects cups, as told by
-[Dave Lavery](/index.php/Dave_Lavery "Dave Lavery" ) at the
-[2004](/index.php/Game_%282004%29 "Game \(2004\)" ) [Kick-off](/index.php
+[Dave Lavery](Dave_Lavery "Dave Lavery" ) at the
+[2004](Game_%282004%29 "Game \(2004\)" ) [Kick-off](/index.php
 /Kick-off "Kick-off" ). It is a fairly lengthy story, so it is broken up into
 sections.
 
@@ -286,7 +286,7 @@ and cost effective. One person can make a difference.
 
 > A couple of years ago a few of you met Lauren lions. She came to work for
 the summer working on some of the display panels that are used on the Mars
-rover mission. Mark, who worked with team [117](/index.php/117 "117" ) got
+rover mission. Mark, who worked with team [117](117 "117" ) got
 hired by the jet propulsion lab and wrote the navigation software being used
 by the rovers.
 

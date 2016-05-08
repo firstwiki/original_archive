@@ -5,14 +5,14 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://firstwiki.net/index.php?title=1&action=edit
 "http://firstwiki.net/index.php?title=1&action=edit" ) by expanding it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:1&action=edit "Talk:1" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
@@ -21,7 +21,7 @@ expansion" ).
 Juggernauts  
 ---  
 [![503's logo](/media/thumb/a/af/Team1.gif/150px-
-Team1.gif)](/index.php/Image:Team1.gif "503's logo" )  
+Team1.gif)](Image:Team1.gif "503's logo" )  
 Rookie Year: | 1997  
 Inactive Years: | {{{inactive}}}  
 Location: | Pontiac, MI  
@@ -91,14 +91,14 @@ The team was started in 1997.
   * Daimler Chrysler 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
 
 [Please add more content](http://firstwiki.net/index.php?title=1&action=edit
 "http://firstwiki.net/index.php?title=1&action=edit" ) to make a significant
-article. _See more [stubs](/index.php/Special:Shortpages "Special:Shortpages"
+article. _See more [stubs](Special:Shortpages "Special:Shortpages"
 )._  
   
 ---|---  

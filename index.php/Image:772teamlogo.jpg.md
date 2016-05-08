@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [772](/index.php/772 "772" )
+  * [772](772 "772" )
 
 ## Metadata
 

@@ -22,7 +22,7 @@ Jump to: navigation, search
   * Current Location: [Central Connecticut State University](http://www.ccsu.edu/ "http://www.ccsu.edu/" ) (New Britain, CT) 
   * Primary Sponsors: ([CCSU](http://www.ccsu.edu/ "http://www.ccsu.edu/" ), FIRST, LEGO, [CT IEEE](http://www.ewh.ieee.org/r1/ct/ "http://www.ewh.ieee.org/r1/ct/" ), Others??) 
   * Number of Teams Supported: 50 
-  * Event Type: [State Tournament](/index.php/FLL_State_Tournament "FLL State Tournament" )
+  * Event Type: [State Tournament](FLL_State_Tournament "FLL State Tournament" )
 
 
 ## Qualification Criteria
@@ -66,18 +66,18 @@ Connecticut does not post official tournament results from its state
 tournament.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Connecticut_FLL_Tournament>"
+"<http://www.firstwiki.netConnecticut_FLL_Tournament>"
 
 [Categories](/index.php?title=Special:Categories&article=Connecticut_FLL_Tourn
 ament "Special:Categories" ): [FLL Official
-Tournaments](/index.php/Category:FLL_Official_Tournaments "Category:FLL
+Tournaments](Category:FLL_Official_Tournaments "Category:FLL
 Official Tournaments" ) | [FLL Connecticut
-Tournaments](/index.php/Category:FLL_Connecticut_Tournaments "Category:FLL
+Tournaments](Category:FLL_Connecticut_Tournaments "Category:FLL
 Connecticut Tournaments" )
 
 ##### Views
 
-  * [Article](/index.php/Connecticut_FLL_Tournament)
+  * [Article](Connecticut_FLL_Tournament)
   * [Discussion](/index.php?title=Talk:Connecticut_FLL_Tournament&action=edit)
   * [Edit](/index.php?title=Connecticut_FLL_Tournament&action=edit)
   * [History](/index.php?title=Connecticut_FLL_Tournament&action=history)
@@ -86,17 +86,17 @@ Connecticut Tournaments" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Connecticut_FLL_Tournament)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -104,10 +104,10 @@ Connecticut Tournaments" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Connecticut_FLL_Tournament)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Connecticut_FLL_Tournament)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Connecticut_FLL_Tournament)
+  * [Related changes](Special:Recentchangeslinked/Connecticut_FLL_Tournament)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Connecticut_FLL_Tournament&printable=yes)
   * [Permanent link](/index.php?title=Connecticut_FLL_Tournament&oldid=48949)
 
@@ -120,7 +120,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 13:54, 17 July 2006.
   * This page has been accessed 858 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

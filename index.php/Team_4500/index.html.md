@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Team Name_  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | xxxx  
 US State Or Country: | State Or Country  
 City: | City  
@@ -22,7 +22,7 @@ Find other [FLL teams from State Or
 Country](/index.php?title=Category:FLL_teams_from_State_Or_Country&action=edit
 "Category:FLL teams from State Or Country" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -87,7 +87,7 @@ _Short narrative of your team's experience at this event_
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 

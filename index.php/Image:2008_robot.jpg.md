@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [2169](/index.php/2169 "2169" )
+  * [2169](2169 "2169" )
 
 ## Metadata
 

@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1592](/index.php/1592 "1592" )
+  * [1592](1592 "1592" )
 
 ## Metadata
 

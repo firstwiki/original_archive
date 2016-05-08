@@ -29,7 +29,7 @@ task that many give up before they even start.
 There are 2 important facts to consider. These will work in the favor of teams
 looking to recruit new members, as long as they advertise them properly.
 
-  1. FIRST is about learning. The goal of the FIRST organization is to introduce and encourage the study of science and technology, especially to students who would have otherwise not had such opportunities. Part of [gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ) is a willingness to spread knowledge and experience to others. It is important for teams to make it clear that absolutely no previous experience is necessary- the least informed rookie can quickly and easily become a knowledgeable veteran through dedication and hard work. 
+  1. FIRST is about learning. The goal of the FIRST organization is to introduce and encourage the study of science and technology, especially to students who would have otherwise not had such opportunities. Part of [gracious professionalism](Gracious_professionalism "Gracious professionalism" ) is a willingness to spread knowledge and experience to others. It is important for teams to make it clear that absolutely no previous experience is necessary- the least informed rookie can quickly and easily become a knowledgeable veteran through dedication and hard work. 
   2. There is something for everyone in FIRST. Students who are unwilling to "get their hands dirty" may be perfect candidates for the Autodesk Inventor team. Students who have no interest in engineering may be interested in making the team animation, creating the team webpage, or designing team logos with photo editing software. The same rule applies- no previous experience is necessary. Even students with no interest in technology can be a vital part of the team by creating poster for the Spirit team, writing letters requestion sponsorship for the fundraising team, or helping the PR team write the Chairman's Award submission. 
 
 
@@ -57,5 +57,5 @@ are some specific ideas for recruitment:
 
 ## Outside Sources for Ideas
 
-  * As always, [the ChiefDelphi forum](/index.php/ChiefDelphi "ChiefDelphi" ) is an excellent place to look for ideas. 
+  * As always, [the ChiefDelphi forum](ChiefDelphi "ChiefDelphi" ) is an excellent place to look for ideas. 
 

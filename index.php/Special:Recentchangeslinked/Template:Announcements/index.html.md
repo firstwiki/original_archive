@@ -37,31 +37,31 @@ nts&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
 
 #### 20 July 2011
 
-  * ([diff](/index.php?title=254&curid=1226&diff=80835&oldid=80820 "254" )) ([hist](/index.php?title=254&curid=1226&action=history "254" )) . . m [254](/index.php/254 "254" ); 23:38 . . [Hallry](/index.php/User:Hallry "User:Hallry" ) ([Talk](/index.php/User_talk:Hallry "User talk:Hallry" ) | [contribs](/index.php?title=Special:Contributions&target=Hallry "Special:Contributions" )) (Reverted edits by [Robertsoncallista](/index.php/Special:Contributions/Robertsoncallista "Special:Contributions/Robertsoncallista" ) ([Robertsoncallista](/index.php?title=User_talk:Robertsoncallista&action=edit "User talk:Robertsoncallista" )); changed back to last version by [Member](/index.php/User:Member "User:Member" ))
-  * ([diff](/index.php?title=254&curid=1226&diff=80820&oldid=80301 "254" )) ([hist](/index.php?title=254&curid=1226&action=history "254" )) . . [254](/index.php/254 "254" ); 07:36 . . [Robertsoncallista](/index.php?title=User:Robertsoncallista&action=edit "User:Robertsoncallista" ) ([Talk](/index.php?title=User_talk:Robertsoncallista&action=edit "User talk:Robertsoncallista" ) | [contribs](/index.php?title=Special:Contributions&target=Robertsoncallista "Special:Contributions" ))
+  * ([diff](/index.php?title=254&curid=1226&diff=80835&oldid=80820 "254" )) ([hist](/index.php?title=254&curid=1226&action=history "254" )) . . m [254](254 "254" ); 23:38 . . [Hallry](User:Hallry "User:Hallry" ) ([Talk](User_talk:Hallry "User talk:Hallry" ) | [contribs](/index.php?title=Special:Contributions&target=Hallry "Special:Contributions" )) (Reverted edits by [Robertsoncallista](Special:Contributions/Robertsoncallista "Special:Contributions/Robertsoncallista" ) ([Robertsoncallista](/index.php?title=User_talk:Robertsoncallista&action=edit "User talk:Robertsoncallista" )); changed back to last version by [Member](User:Member "User:Member" ))
+  * ([diff](/index.php?title=254&curid=1226&diff=80820&oldid=80301 "254" )) ([hist](/index.php?title=254&curid=1226&action=history "254" )) . . [254](254 "254" ); 07:36 . . [Robertsoncallista](/index.php?title=User:Robertsoncallista&action=edit "User:Robertsoncallista" ) ([Talk](/index.php?title=User_talk:Robertsoncallista&action=edit "User talk:Robertsoncallista" ) | [contribs](/index.php?title=Special:Contributions&target=Robertsoncallista "Special:Contributions" ))
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/Template:Announcements)
+  * [Special Page](Special:Recentchangeslinked/Template:Announcements)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -69,8 +69,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -78,7 +78,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

@@ -7,7 +7,7 @@
 
 Jump to: navigation, search
 
-I'm on team [1317](/index.php/1317 "1317" ) (Digital Fusion)  
+I'm on team [1317](1317 "1317" ) (Digital Fusion)  
 My Position on my team is as a programmer. I jointed here on: May 29, 2004  
 
 

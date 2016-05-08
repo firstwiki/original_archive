@@ -9,18 +9,18 @@ _**KPWM**_
   
 [![...For lack of a better picture: our team mascot,
 Falgor](/media/thumb/2/22/Falgor.jpg/150px-
-Falgor.jpg)](/index.php/Image:Falgor.jpg "...For lack of a better picture: our
+Falgor.jpg)](Image:Falgor.jpg "...For lack of a better picture: our
 team mascot, Falgor" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Falgor.jpg "Enlarge" )
+clip.png)](Image:Falgor.jpg "Enlarge" )
 
 ...For lack of a better picture: our team mascot, Falgor  
   
-Team: | [172](/index.php/172 "172" )  
-Status: | [Student](/index.php/Students "Students" )  
-Positions: | [Electrical](/index.php/Control_system "Control system" ), [Robot
-Driver](/index.php/Robot_Drivers "Robot Drivers" ), Team Leader  
+Team: | [172](172 "172" )  
+Status: | [Student](Students "Students" )  
+Positions: | [Electrical](Control_system "Control system" ), [Robot
+Driver](Robot_Drivers "Robot Drivers" ), Team Leader  
 School: | Gorham High School  
   
   
@@ -32,7 +32,7 @@ e-mail: _[mailto:TupolevTU144@Gmail.com](mailto:TupolevTU144@Gmail.com
 ChiefDelphi: [User
 Profile](http://www.chiefdelphi.com/forums/member.php?u=17586
 "http://www.chiefdelphi.com/forums/member.php?u=17586" )_  
-_ Team: _[Team #172](/index.php/Team#172 "Team" )_ _Northern Force_  
+_ Team: _[Team #172](Team#172 "Team" )_ _Northern Force_  
 Position: _Electrical leader, driver, school representative, general
 mechanical lackey_
 
@@ -40,9 +40,9 @@ mechanical lackey_
 ## About Me
 
 My name is Kevin Porter, currently a senior at Gorham High School in Maine. I
-have participated on [Team #172](/index.php/Team#172 "Team" ) since the
-2004/2005 season ([Triple Play](/index.php/Triple_Play "Triple Play" ))
-leading the Electrical/[Controls](/index.php/Control_system "Control system" )
+have participated on [Team #172](Team#172 "Team" ) since the
+2004/2005 season ([Triple Play](Triple_Play "Triple Play" ))
+leading the Electrical/[Controls](Control_system "Control system" )
 team. More recently I have taken on a leadership role, representing the team
 at the High School, as well as dabbling in robot driving, mechanical and
 machining work, and other aspects of the team. While this is my last season
@@ -64,6 +64,6 @@ English Language wikipedia as
   
 
 _*note: this user page features a template blatantly stolen from
-[user:Cbale2000](/index.php/User:Cbale2000 "User:Cbale2000" ). My
+[user:Cbale2000](User:Cbale2000 "User:Cbale2000" ). My
 thanks/apologies!_
 

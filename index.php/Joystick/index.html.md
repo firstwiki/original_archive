@@ -4,44 +4,44 @@
 
 Jump to: navigation, search
 
-The [Control System](/index.php/Control_system "Control system" )
+The [Control System](Control_system "Control system" )
 
-**[Logic of a Control System](/index.php/Logic_of_a_control_system "Logic of a control system" )**
+**[Logic of a Control System](Logic_of_a_control_system "Logic of a control system" )**
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-    * [PID controller](/index.php/PID_controller "PID controller" )
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Closed loop](Closed_loop "Closed loop" )
+    * [PID controller](PID_controller "PID controller" )
+  * [Open loop](Open_loop "Open loop" )
 
-**[Parts of a Control System](/index.php/Parts_of_a_control_system "Parts of a control system" )**
+**[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
-  * [Computer](/index.php/Computer "Computer" )
-    * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-      * [2010 RC](/index.php/Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
-      * [2009 RC](/index.php/Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
-      * [2006 RC](/index.php/Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
-      * [2004 RC](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
-      * [2003 RC](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
-      * [2000 RC](/index.php/Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
+  * [Computer](Computer "Computer" )
+    * [Robot Controller](Robot_Controller "Robot Controller" )
+      * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
+      * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
+      * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
+      * [2004 RC](Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
+      * [2003 RC](Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
+      * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](/index.php/Robovation "Robovation" )
-  * [Input](/index.php/Input "Input" )
-    * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
+    * [Robovation](Robovation "Robovation" )
+  * [Input](Input "Input" )
+    * [Operator Interface](Operator_Interface "Operator Interface" )
     * **Joystick**
-  * [Output](/index.php/Output "Output" )
-    * [Victor 884](/index.php/Victor_884 "Victor 884" )
-    * [Spike](/index.php/Spike "Spike" )
-  * [Sensors](/index.php/Sensor "Sensor" )
-    * [Encoder](/index.php/Encoder "Encoder" )
-    * [Accelerometer](/index.php/Accelerometer "Accelerometer" )
+  * [Output](Output "Output" )
+    * [Victor 884](Victor_884 "Victor 884" )
+    * [Spike](Spike "Spike" )
+  * [Sensors](Sensor "Sensor" )
+    * [Encoder](Encoder "Encoder" )
+    * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
-    * [IR sensor](/index.php/IR_sensor "IR sensor" )
-    * [Gyro](/index.php/Gyro "Gyro" )
-    * [CMUcam2](/index.php/CMUcam2 "CMUcam2" )  
+    * [IR sensor](IR_sensor "IR sensor" )
+    * [Gyro](Gyro "Gyro" )
+    * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
 A joystick is the standard human input device for the [FIRST Robotics
-Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics
+Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ). It consists of a stick mounted to a base that can be tilted
 left and right and occasionally twisted (varies per model). These movements
 are sensed by potentiometers. Joysticks occasionally have buttons or other
@@ -60,20 +60,20 @@ potentiometers for the user to use and manipulate.
 ## Connection to Operator Interface
 
 Over the years, there have been many different methods of connecting a
-joystick to the [operator interface](/index.php/Operator_Interface "Operator
+joystick to the [operator interface](Operator_Interface "Operator
 Interface" ).
 
 
 ### USB Connector
 
 After 2009 with the introduction of the National Instruments [robot
-controller](/index.php/Robot_Controller "Robot Controller" ), a joystick's USB
+controller](Robot_Controller "Robot Controller" ), a joystick's USB
 cable connects a joystick to the [operator
-interface](/index.php/Operator_Interface "Operator Interface" ) through any of
+interface](Operator_Interface "Operator Interface" ) through any of
 several USB ports. Many joysticks and game controllers are available to use
 because of the new operator interface released in 2009 and 2010.
 
-Before 2009, the [USB Chicklet](/index.php/USB_chicklet "USB chicklet" ) was
+Before 2009, the [USB Chicklet](USB_chicklet "USB chicklet" ) was
 introduced in 2007 to allow teams to use most USB game controllers, especially
 the XBox 360 controller.
 
@@ -82,7 +82,7 @@ the XBox 360 controller.
 
 Before 2008, a 15-pin cable connected a joystick to any one of the ports
 labeled "PORT 1" through "PORT 4" on the [operator
-interface](/index.php/Operator_Interface "Operator Interface" ). Up to four
+interface](Operator_Interface "Operator Interface" ). Up to four
 joysticks could be connected to the operator interface. Today, very few
 joysticks are still being manufactured with the 15-pin connector, and even
 less of those still support the gameport standard which is required for its

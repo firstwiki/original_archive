@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 The **FIRST LEGO League World Festival** is the culminating event of the
-[FLL](/index.php/FLL "FLL" ) season.
+[FLL](FLL "FLL" ) season.
 
 ## Contents
 
@@ -29,7 +29,7 @@ their state (or region outside the United States). In 2005 (still part of the
 countries attended the event.
 
 The event is held at the same time and location as the [FIRST Robotics
-Championship event](/index.php/Championship_Event "Championship Event" ) (in
+Championship event](Championship_Event "Championship Event" ) (in
 2004 at the Georgia Dome in Atlanta, GA). It is a 2 1/2 day event designed to
 celebrate the achievements of the Directors Award winners from around the
 world.

@@ -8,5 +8,5 @@ Regional" ))
 Jump to: navigation, search
 
 ![#REDIRECT](/skins/common/images/redirectltr.png)[Connecticut
-Regional](/index.php/Connecticut_Regional "Connecticut Regional" )
+Regional](Connecticut_Regional "Connecticut Regional" )
 

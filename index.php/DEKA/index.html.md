@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 DEKA Research &amp; Development Corporation is the company started by [Dean
-Kamen](/index.php/Dean_Kamen "Dean Kamen" ). The name comes from the first two
+Kamen](Dean_Kamen "Dean Kamen" ). The name comes from the first two
 letters of **DE**an **KA**men's first and last names.
 
 Some of their notable inventions and products are
@@ -21,13 +21,13 @@ Some of their notable inventions and products are
 [DEKA](http://www.dekaresearch.com "http://www.dekaresearch.com" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=DEKA&action=edit
 "http://www.firstwiki.net/index.php?title=DEKA&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Sample_fll_team&limit=500&from=0
 "Special:Whatlinkshere/Sample fll team" )).
 
-  * [Sample fll team-little engine-2004](/index.php/Sample_fll_team-little_engine-2004 "Sample fll team-little engine-2004" )
+  * [Sample fll team-little engine-2004](Sample_fll_team-little_engine-2004 "Sample fll team-little engine-2004" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Sample_fll_team&limit=20&from=0
 "Special:Whatlinkshere/Sample fll team" ) |

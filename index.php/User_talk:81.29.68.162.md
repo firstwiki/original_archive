@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 This is not a linkbin. Please don't use it as such.
---[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 20:07, 30 Nov 2005 (EST)
 
 * * *
@@ -15,6 +15,6 @@ account yet or who does not use it. We therefore have to use the numerical [IP
 address](http://www.wikipedia.org/wiki/IP_address "wikipedia:IP_address" ) to
 identify him/her. Such an IP address can be shared by several users. If you
 are an anonymous user and feel that irrelevant comments have been directed at
-you, please [create an account or log in](/index.php/Special:Userlogin
+you, please [create an account or log in](Special:Userlogin
 "Special:Userlogin" ) to avoid future confusion with other anonymous users._
 

@@ -23,8 +23,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User_talk:Max&limit=500&from=0
 "Special:Whatlinkshere/User talk:Max" )).
 
-  * [FIRSTwiki talk:Administrators](/index.php/FIRSTwiki_talk:Administrators "FIRSTwiki talk:Administrators" )
-  * [User talk:SilverStar/Archives2](/index.php/User_talk:SilverStar/Archives2 "User talk:SilverStar/Archives2" )
+  * [FIRSTwiki talk:Administrators](FIRSTwiki_talk:Administrators "FIRSTwiki talk:Administrators" )
+  * [User talk:SilverStar/Archives2](User_talk:SilverStar/Archives2 "User talk:SilverStar/Archives2" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User_talk:Max&limit=20&from=0
 "Special:Whatlinkshere/User talk:Max" ) |

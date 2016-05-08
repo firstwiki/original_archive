@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Mindstorms Mayhem_  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | 2002  
 US State Or Country: | New Hampshire  
 City: | Milford  
@@ -16,14 +16,14 @@ School: | Milford Area Youth Homeschoolers Enriching Minds (MAYHEM)
 "http://www.mindstormsmayhem.org" )  
   
 Find other [FLL teams founded in
-2002](/index.php/Category:FLL_teams_founded_in_2002 "Category:FLL teams
+2002](Category:FLL_teams_founded_in_2002 "Category:FLL teams
 founded in 2002" )
 
 Find other [FLL teams from New
-Hampshire](/index.php/Category:FLL_teams_from_New_Hampshire "Category:FLL
+Hampshire](Category:FLL_teams_from_New_Hampshire "Category:FLL
 teams from New Hampshire" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -129,7 +129,7 @@ section: Awards and Recognitions" )]
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 [[edit](/index.php?title=Mindstorms_Mayhem&action=edit&section=7 "Edit

@@ -23,10 +23,10 @@ hatlinkshere/FIRSTwiki:Roadmap&limit=250&from=0
 hatlinkshere/FIRSTwiki:Roadmap&limit=500&from=0
 "Special:Whatlinkshere/FIRSTwiki:Roadmap" )).
 
-  * [FIRSTwiki:To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [MediaWiki talk:FIRSTwiki meta toc](/index.php/MediaWiki_talk:FIRSTwiki_meta_toc "MediaWiki talk:FIRSTwiki meta toc" )
-  * [FIRSTwiki:Community portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
-  * [FIRSTwiki:Village pump/Archive 2](/index.php/FIRSTwiki:Village_pump/Archive_2 "FIRSTwiki:Village pump/Archive 2" )
+  * [FIRSTwiki:To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [MediaWiki talk:FIRSTwiki meta toc](MediaWiki_talk:FIRSTwiki_meta_toc "MediaWiki talk:FIRSTwiki meta toc" )
+  * [FIRSTwiki:Community portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )
+  * [FIRSTwiki:Village pump/Archive 2](FIRSTwiki:Village_pump/Archive_2 "FIRSTwiki:Village pump/Archive 2" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/FIRSTwiki:Roadmap&limit=20&from=0
 "Special:Whatlinkshere/FIRSTwiki:Roadmap" ) |

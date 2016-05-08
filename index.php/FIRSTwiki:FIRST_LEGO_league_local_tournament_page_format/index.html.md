@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
 Use this page format to create a page for a purely local tournament. This
@@ -38,7 +38,7 @@ mat&action=edit&section=1 "Edit section: Details" )]
   * **Current Location: **
   * **Primary Sponsors:**
   * **Number of Teams Supported:**
-  * **Event Type:** [Local Tournament](/index.php/FLL_Local_Tournament "FLL Local Tournament" )
+  * **Event Type:** [Local Tournament](FLL_Local_Tournament "FLL Local Tournament" )
   * **Official web site for tournament:**
   * **Contact:**
   * **FIRST Team Sponsors/Hosts:**
@@ -68,9 +68,9 @@ mat&action=edit&section=3 "Edit section: History" )]
 
 See Also:
 
-  * [FIRST LEGO State Tournaments](/index.php/Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
-  * [FIRST LEGO Qualifying Tournaments](/index.php/Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
-  * [FIRST LEGO Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO State Tournaments](Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
+  * [FIRST LEGO Qualifying Tournaments](Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
+  * [FIRST LEGO Events](Category:FLL_Events "Category:FLL Events" )
 
   
 

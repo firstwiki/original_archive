@@ -10,7 +10,7 @@ Jump to: navigation, search
 
 Fisher Price  
 ---  
-[![Fisher Price](/media/7/74/MotorpicFP.jpg)](/index.php/Image:MotorpicFP.jpg
+[![Fisher Price](/media/7/74/MotorpicFP.jpg)](Image:MotorpicFP.jpg
 "Fisher Price" )  
 Stall current (amps) |  64  
 Stall torque (in-lb) |  5.72  
@@ -19,7 +19,7 @@ Free speed (rpm) |  16000
   
   
 Two Fisher Price (FP) motors and gearboxes are included with every [kit of
-parts](/index.php/Kit_of_parts "Kit of parts" ). The FP is the second most
+parts](Kit_of_parts "Kit of parts" ). The FP is the second most
 powerful motor in the kit of parts. The FP is taken from a Powerwheels (tm)
 car where it powers one of the wheels.
 
@@ -88,19 +88,19 @@ mechanism using a Fisher Price so that the motor never approaches the stall
 torque. A good rule of thumb is to design for 1/4 the stall torque.
 
 _**2008 KOP Motors:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) | [Denso
-Window](/index.php/Denso_window_motor "Denso window motor" ) | [Taigene
+[Chiaphua/CIM](CIM_motor "CIM motor" ) | [Denso
+Window](Denso_window_motor "Denso window motor" ) | [Taigene
 Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
 motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor" )
-| **Fisher Price** | [Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )
+| **Fisher Price** | [Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )
 ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
-motor" ), [RS-550](/index.php/RS-550_Banebots_motor "RS-550 Banebots motor" ))  
+motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor" ))  
 ---  
 _**Older KOP Motors:**_  
-[Window](/index.php/Window_motor "Window motor" ) |
+[Window](Window_motor "Window motor" ) |
 [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | [Van
-door](/index.php/Van_door_motor "Van door motor" ) |
-[Drill](/index.php/Drill_motor "Drill motor" ) | **Fisher Price** |
-[Globe](/index.php/Globe_motor "Globe motor" )  
+door](Van_door_motor "Van door motor" ) |
+[Drill](Drill_motor "Drill motor" ) | **Fisher Price** |
+[Globe](Globe_motor "Globe motor" )  
   

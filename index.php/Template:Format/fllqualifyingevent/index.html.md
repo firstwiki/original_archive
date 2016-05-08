@@ -19,7 +19,7 @@ Jump to: navigation, search
   * **Current Location: **
   * **Primary Sponsors:**
   * **Number of Teams Supported:**
-  * **Event Type:** [Qualifying Tournament](/index.php/FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
+  * **Event Type:** [Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
   * **Official web site for tournament:**
   * **Contact:**
   * **FIRST Team Sponsors/Hosts:**
@@ -47,19 +47,19 @@ n=4 "Edit section: Results" )]
 
 See Also:
 
-  * [FIRST LEGO State Tournaments](/index.php/Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
-  * [FIRST LEGO Qualifying Tournaments](/index.php/Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
-  * [FIRST LEGO Local Tournaments](/index.php/Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
-  * [FIRST LEGO Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO State Tournaments](Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
+  * [FIRST LEGO Qualifying Tournaments](Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
+  * [FIRST LEGO Local Tournaments](Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
+  * [FIRST LEGO Events](Category:FLL_Events "Category:FLL Events" )
 
   
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Template:Format/fllqualifyingevent>"
+"<http://www.firstwiki.netTemplate:Format/fllqualifyingevent>"
 
 ##### Views
 
-  * [Template](/index.php/Template:Format/fllqualifyingevent)
+  * [Template](Template:Format/fllqualifyingevent)
   * [Discussion](/index.php?title=Template_talk:Format/fllqualifyingevent&action=edit)
   * [Edit](/index.php?title=Template:Format/fllqualifyingevent&action=edit)
   * [History](/index.php?title=Template:Format/fllqualifyingevent&action=history)
@@ -68,17 +68,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Template:Format/fllqualifyingevent)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -86,10 +86,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Template:Format/fllqualifyingevent)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Template:Format/fllqualifyingevent)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Template:Format/fllqualifyingevent)
+  * [Related changes](Special:Recentchangeslinked/Template:Format/fllqualifyingevent)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Template:Format/fllqualifyingevent&printable=yes)
   * [Permanent link](/index.php?title=Template:Format/fllqualifyingevent&oldid=45899)
 
@@ -102,7 +102,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 02:30, 4 April 2006.
   * This page has been accessed 321 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

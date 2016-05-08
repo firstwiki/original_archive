@@ -21,10 +21,10 @@ section: Details" )]
   * **Current Location: Bridgeport University**
   * **Primary Sponsors: Bridgeport University and FIRST Teams**
   * **Number of Teams Supported: 24**
-  * **Event Type:** [Qualifying Tournament](/index.php/FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
+  * **Event Type:** [Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament" )
   * **Official web site for tournament: [Bridgeport Local(qualifier)](http://www.localct-fll.org/BridgeportLocal/BridgeportLocalHome.htm "http://www.localct-fll.org/BridgeportLocal/BridgeportLocalHome.htm" ), [All Connecticut Locals (qualifiers)](http://www.localct-fll.org/ "http://www.localct-fll.org/" )**
   * **Contact: See [Contacts](http://www.localct-fll.org/BridgeportLocal/BridgeportContacts.htm "http://www.localct-fll.org/BridgeportLocal/BridgeportContacts.htm" )**
-  * **FIRST Team Sponsors/Hosts: [Team 230 - GaelHawks](/index.php/230 "230" ), [Team 1099 - Lions](/index.php/1099 "1099" )**
+  * **FIRST Team Sponsors/Hosts: [Team 230 - GaelHawks](230 "230" ), [Team 1099 - Lions](1099 "1099" )**
 
 [[edit](/index.php?title=CT_Bridgeport_Tournament&action=edit&section=2 "Edit
 section: How to Register" )]
@@ -54,8 +54,8 @@ section: Results" )]
 
 See Also:
 
-  * [FIRST LEGO State Tournaments](/index.php/Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
-  * [FIRST LEGO Qualifying Tournaments](/index.php/Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
-  * [FIRST LEGO Local Tournaments](/index.php/Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
-  * [FIRST LEGO Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO State Tournaments](Category:FLL_State_Tournaments "Category:FLL State Tournaments" )
+  * [FIRST LEGO Qualifying Tournaments](Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
+  * [FIRST LEGO Local Tournaments](Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
+  * [FIRST LEGO Events](Category:FLL_Events "Category:FLL Events" )
 

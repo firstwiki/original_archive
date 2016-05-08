@@ -24,17 +24,17 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/2169&limit=500&from=0
 "Special:Whatlinkshere/2169" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [Index of teams](/index.php/Index_of_teams "Index of teams" )
-  * [Current events](/index.php/Current_events "Current events" )
-  * [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" )
-  * [FIRSTwiki:Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Template:Announcements](/index.php/Template:Announcements "Template:Announcements" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
-  * [Index of teams by home regional](/index.php/Index_of_teams_by_home_regional "Index of teams by home regional" )
-  * [User:MindstormsKid/Main Page](/index.php/User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
-  * [Mini Minne Regional](/index.php/Mini_Minne_Regional "Mini Minne Regional" )
-  * [Championship Event (2011)](/index.php/Championship_Event_%282011%29 "Championship Event \(2011\)" )
+  * [Main Page](Main_Page "Main Page" )
+  * [Index of teams](Index_of_teams "Index of teams" )
+  * [Current events](Current_events "Current events" )
+  * [Index of teams by region](Index_of_teams_by_region "Index of teams by region" )
+  * [FIRSTwiki:Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Template:Announcements](Template:Announcements "Template:Announcements" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [Index of teams by home regional](Index_of_teams_by_home_regional "Index of teams by home regional" )
+  * [User:MindstormsKid/Main Page](User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
+  * [Mini Minne Regional](Mini_Minne_Regional "Mini Minne Regional" )
+  * [Championship Event (2011)](Championship_Event_%282011%29 "Championship Event \(2011\)" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/2169&limit=20&from=0
 "Special:Whatlinkshere/2169" ) |

@@ -17,8 +17,8 @@ mentor the team in programming, basic building/engineering, teamwork, or that
 year's research project theme.
 
 There are some obvious differences between [FIRST
-teams](/index.php/FIRST_Robotics_Team "FIRST Robotics Team" ) and FLL teams.
-For example, on [FIRST team](/index.php/FIRST_Robotics_Team "FIRST Robotics
+teams](FIRST_Robotics_Team "FIRST Robotics Team" ) and FLL teams.
+For example, on [FIRST team](FIRST_Robotics_Team "FIRST Robotics
 Team" )'s mentors are often active participants in building the robot. In FLL,
 this is strongly discouraged. "Direct adult involvement or intervention during
 the problem solving process is strongly discouraged." (see [Starting a
@@ -27,7 +27,7 @@ Team](http://www.firstlegoleague.org/default.aspx?pid=3590
 
 Coaches of FLL teams are often teachers or parents. Mentors can be teachers,
 parents, professionals, etc. One strong trend is encouraging [FIRST Robotics
-Team](/index.php/FIRST_Robotics_Team "FIRST Robotics Team" ) members to be
+Team](FIRST_Robotics_Team "FIRST Robotics Team" ) members to be
 mentors to FLL teams or in some cases even coach teams.
 
 In First Lego League **FLL Values** and **Gracious Professionalism** are the

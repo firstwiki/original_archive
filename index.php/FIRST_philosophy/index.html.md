@@ -6,18 +6,18 @@
 
 Jump to: navigation, search
 
-**FIRST philosophy** is an oft-heard idea, whether or not it goes by that name all the time. FIRST philosophy has nearly become synonymous with [gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ); an important idea, for sure, but not inclusive of all the ideas that the [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) is about. FIRST has grown into a very diverse and large group through the years, and a distinctive [FIRST sub-culture](/index.php/FIRST_culture "FIRST culture" ) has developed, -- but it would be a mistake to assume that FIRST means the same to everyone involved, or that the ideas of FIRST philosophy, while agreed upon in a general sense, are static and well-defined. Therefore, tread cautiously through this article, as the main tenets and some of the divergent issues are explained. 
+**FIRST philosophy** is an oft-heard idea, whether or not it goes by that name all the time. FIRST philosophy has nearly become synonymous with [gracious professionalism](Gracious_professionalism "Gracious professionalism" ); an important idea, for sure, but not inclusive of all the ideas that the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) is about. FIRST has grown into a very diverse and large group through the years, and a distinctive [FIRST sub-culture](FIRST_culture "FIRST culture" ) has developed, -- but it would be a mistake to assume that FIRST means the same to everyone involved, or that the ideas of FIRST philosophy, while agreed upon in a general sense, are static and well-defined. Therefore, tread cautiously through this article, as the main tenets and some of the divergent issues are explained. 
 
 
 ## Gracious professionalism
 
-[Gracious professionalism](/index.php/Gracious_professionalism "Gracious
+[Gracious professionalism](Gracious_professionalism "Gracious
 professionalism" ) is ubiquitous in the FIRST world. The 2004 manual declares,
 _In FIRST, one of the most straightforward interpretations of gracious
 professionalism is that we learn and compete like crazy, but treat one another
 with respect and kindness in the process._ The importance of this, as
 evidenced by the [Johnson &amp; Johnson Sportsmanship
-Award](/index.php/Johnson_%26_Johnson_Sportsmanship_Award "Johnson & Johnson
+Award](Johnson_%26_Johnson_Sportsmanship_Award "Johnson & Johnson
 Sportsmanship Award" ), is hard to underestimate. The term is thrown about,
 haphazardly at times, quite frequently.
 
@@ -46,7 +46,7 @@ and "cooperation", coining the term "co-opetition".
 
 So important and at times controversial are the ideas collected under the term
 FIRST philosophy, that frequent discussion takes place on the
-[ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) web forum. Here is a
+[ChiefDelphi](ChiefDelphi "ChiefDelphi" ) web forum. Here is a
 sampling of some discussion.
 
     FIRST is unique compared to other programs. FIRST doesn't just help a person in one specific area, but rather in a plethora of areas, [[1]](http://www.chiefdelphi.com/forums/showpost.php?p=273972&postcount=5 "http://www.chiefdelphi.com/forums/showpost.php?p=273972&postcount=5" ). 
@@ -65,6 +65,6 @@ And see these threads,
 [[7]](http://www.chiefdelphi.com/forums/showthread.php?t=29251
 "http://www.chiefdelphi.com/forums/showthread.php?t=29251" ).
 
-_Also see other elements of [FIRST culture](/index.php/FIRST_culture "FIRST
+_Also see other elements of [FIRST culture](FIRST_culture "FIRST
 culture" )._
 

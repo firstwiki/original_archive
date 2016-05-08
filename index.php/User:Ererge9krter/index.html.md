@@ -233,8 +233,8 @@ World Related Quotes and News Company Price Related NewsRelated Theme
 Articles:
 
   * &lt;a href="<http://www.chatmessageboard.com/showthread.php?p=661873#post661873>" target="_blank"&gt;<http://www.chatmessageboard.com/showthread.php?p=661873#post661873>&lt;/a&gt;
-  * <http://wiki.biomama.com/index.php/User:Ererge7arter#Possible_data_breach_by_Wells_Fargo_investigated>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge6srter#Fed.27s_Dudley_warns_of_over-optimism.2C_counters_hawks>
+  * <http://wiki.biomama.comUser:Ererge7arter#Possible_data_breach_by_Wells_Fargo_investigated>
+  * <http://ko.dbpedia.org/wikiUser:Ererge6srter#Fed.27s_Dudley_warns_of_over-optimism.2C_counters_hawks>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=2 "Edit
 section: Futures point to Europe shares rising for 5th day" )]
@@ -260,9 +260,9 @@ Online](http://www.guccioutletoonline.com/
 
 Related Theme Articles:
 
-  * <http://www.firstwiki.net/index.php/User:Ererge9krter>
+  * <http://www.firstwiki.netUser:Ererge9krter>
   * &lt;a href="<http://www.chatmessageboard.com/showthread.php?p=661873#post661873>" target="_blank"&gt;<http://www.chatmessageboard.com/showthread.php?p=661873#post661873>&lt;/a&gt;
-  * <http://testanything.org/wiki/index.php/User:Ererge5nrter#Top_Swedish_thinktank_backs_lower_rates.2C_sees_high_growth>
+  * <http://testanything.org/wikiUser:Ererge5nrter#Top_Swedish_thinktank_backs_lower_rates.2C_sees_high_growth>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=3 "Edit
 section: Factbox  Options on the table to address euro zone crisis" )]
@@ -430,8 +430,8 @@ This week's summit may reiterate or expand on these steps.
 Italy GreeceRelated Theme Articles:
 
   * &lt;a href="[http://mylosttrails.com/blogs.php?action=show_member_post&amp;ownerID=25266&amp;post_id=166079](http://mylosttrails.com/blogs.php?action=show_member_post&ownerID=25266&post_id=166079 "http://mylosttrails.com/blogs.php?action=show_member_post&ownerID=25266&post_id=166079" )" target="_blank"&gt;[http://mylosttrails.com/blogs.php?action=show_member_post&amp;ownerID=25266&amp;post_id=166079](http://mylosttrails.com/blogs.php?action=show_member_post&ownerID=25266&post_id=166079 "http://mylosttrails.com/blogs.php?action=show_member_post&ownerID=25266&post_id=166079" )&lt;/a&gt;
-  * <http://wiki.biomama.com/index.php/User:Ererge7arter>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge6srter#Manchester_United_sets_IPO_terms>
+  * <http://wiki.biomama.comUser:Ererge7arter>
+  * <http://ko.dbpedia.org/wikiUser:Ererge6srter#Manchester_United_sets_IPO_terms>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=4 "Edit
 section: Oil slumps, yen jumps as economy fears prevail" )]
@@ -541,8 +541,8 @@ Aleksandra Michalska; Editing by Dan Grebler)
 Related Theme Articles:
 
   * &lt;a href="<http://learnmoregolf.com/forum/story.php?title=gucci-outlet-online-9>" target="_blank"&gt;<http://learnmoregolf.com/forum/story.php?title=gucci-outlet-online-9>&lt;/a&gt;
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge8krter>
-  * <http://www.shareyourholiday.com/index.php/User:Ererge4arter#Pakistan_never_backed_Haqqani_network-spy_chief>
+  * <http://ko.dbpedia.org/wikiUser:Ererge8krter>
+  * <http://www.shareyourholiday.comUser:Ererge4arter#Pakistan_never_backed_Haqqani_network-spy_chief>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=5 "Edit
 section: Chile volcano erupts, spits towering ash column" )]
@@ -603,7 +603,7 @@ World Environment Natural DisastersRelated Theme Articles:
 
   * <http://sn.cybermoslem.net//blogs/viewstory/233346>
   * &lt;a href="<http://www.filedownloadfull.com/porn/showthread.php?p=1994907#post1994907>" target="_blank"&gt;<http://www.filedownloadfull.com/porn/showthread.php?p=1994907#post1994907>&lt;/a&gt;
-  * <http://wiki.biomama.com/index.php/User:Ererge7arter#Syrian_forces_shell_Old_Deraa.2C_storm_mosque-residents>
+  * <http://wiki.biomama.comUser:Ererge7arter#Syrian_forces_shell_Old_Deraa.2C_storm_mosque-residents>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=6 "Edit
 section: Senators press CFTC to curb oil speculation" )]
@@ -714,7 +714,7 @@ Related Theme Articles:
 
   * &lt;a href="<http://bookmarknova.com/story.php?title=coach-outlet>" target="_blank"&gt;<http://bookmarknova.com/story.php?title=coach-outlet>&lt;/a&gt;
   * &lt;a href="[http://mylosttrails.com/blogs.php?action=show_member_blog&amp;ownerID=25266](http://mylosttrails.com/blogs.php?action=show_member_blog&ownerID=25266 "http://mylosttrails.com/blogs.php?action=show_member_blog&ownerID=25266" )" target="_blank"&gt;[http://mylosttrails.com/blogs.php?action=show_member_blog&amp;ownerID=25266](http://mylosttrails.com/blogs.php?action=show_member_blog&ownerID=25266 "http://mylosttrails.com/blogs.php?action=show_member_blog&ownerID=25266" )&lt;/a&gt;
-  * <http://www.openideaswiki.com/index.php/User:Ererge2urter#U.S._warships_and_planes_move_from_Japan.27s_nuclear-crisis_co>
+  * <http://www.openideaswiki.comUser:Ererge2urter#U.S._warships_and_planes_move_from_Japan.27s_nuclear-crisis_co>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=7 "Edit
 section: Factbox  Egypt's Hosni Mubarak" )]
@@ -868,7 +868,7 @@ Articles:
 
   * &lt;a href="<http://chatsokagi.hourb.com/index.php?p=blogs/viewstory/892>" target="_blank"&gt;<http://chatsokagi.hourb.com/index.php?p=blogs/viewstory/892>&lt;/a&gt;
   * <http://www.dubabado.com/dbbd/blogs/posts/ererge0urter>
-  * <http://wikicrime.org/index.php/User:Ererge6grter#Hackers_target_UK_government_websites_over_Assange_case>
+  * <http://wikicrime.orgUser:Ererge6grter#Hackers_target_UK_government_websites_over_Assange_case>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=9 "Edit
 section: Trapped tsunami victims ate yogurt to stay alive" )]
@@ -920,7 +920,7 @@ had been in an evacuation centre beforehand and just returned to his home.
 
 World Natural DisastersRelated Theme Articles:
 
-  * <http://wikicrime.org/index.php/User:Ererge6grter#Iran_nuclear_talks_enter_second_day>
+  * <http://wikicrime.orgUser:Ererge6grter#Iran_nuclear_talks_enter_second_day>
   * &lt;a href="<http://www.christopherpatrickdesigns.com/story.php?title=coach-outlet-32>" target="_blank"&gt;<http://www.christopherpatrickdesigns.com/story.php?title=coach-outlet-32>&lt;/a&gt;
   * &lt;a href="<http://www.gaulz.com/index.php?p=blogs/viewstory/179091>" target="_blank"&gt;<http://www.gaulz.com/index.php?p=blogs/viewstory/179091>&lt;/a&gt;
 
@@ -1010,7 +1010,7 @@ Review Inflows OutflowsRelated Theme Articles:
 
   * <http://www.waysone.com/blogs/posts/ererge3drter>
   * &lt;a href="<http://bookworm.comoj.com/index.php?p=blogs/viewstory/25345>" target="_blank"&gt;<http://bookworm.comoj.com/index.php?p=blogs/viewstory/25345>&lt;/a&gt;
-  * <http://nurugel.org/index.php/User:Ererge6vrter#Syria_foreign_minister_says_250_U.N._observers__reasonable>
+  * <http://nurugel.orgUser:Ererge6vrter#Syria_foreign_minister_says_250_U.N._observers__reasonable>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=11 "Edit
 section: Suspected U.S. drone kills 3 militants in Pakistan  official" )]
@@ -1081,9 +1081,9 @@ Zargham)
 
 WorldRelated Theme Articles:
 
-  * <http://whatworkswell.net/index.php/User:Ererge4nrter#Greece_needs_EU_IMF_aid_beyond_2013__Fitch>
+  * <http://whatworkswell.netUser:Ererge4nrter#Greece_needs_EU_IMF_aid_beyond_2013__Fitch>
   * <http://www.esohbet.us/blogs/entry/Distressed-home-sales-fall-in-Q1-RealtyTrac>
-  * <http://www.firstwiki.net/index.php/User:Ererge9krter#Oil_slumps.2C_yen_jumps_as_economy_fears_prevail>
+  * <http://www.firstwiki.netUser:Ererge9krter#Oil_slumps.2C_yen_jumps_as_economy_fears_prevail>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=12 "Edit
 section: Debt restructuring won't help Greece  ECB's Stark" )]
@@ -1372,7 +1372,7 @@ World United Nations SyriaRelated Theme Articles:
 
   * &lt;a href="<http://www.pushtop.com/story.php?title=louis-vuitton-outlet-online-2>" target="_blank"&gt;<http://www.pushtop.com/story.php?title=louis-vuitton-outlet-online-2>&lt;/a&gt;
   * &lt;a href="<http://www.gaulz.com/index.php?p=blogs/viewstory/182616>" target="_blank"&gt;<http://www.gaulz.com/index.php?p=blogs/viewstory/182616>&lt;/a&gt;
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge6srter#Car_makers_go_local_to_tap_China_growth>
+  * <http://ko.dbpedia.org/wikiUser:Ererge6srter#Car_makers_go_local_to_tap_China_growth>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=15 "Edit
 section: Attacks on Romney for offshore assets, taxes heat up" )]
@@ -1521,7 +1521,7 @@ presidential salary of $395,000 and the rest from book sales.
 
 Politics Barack Obama Election 2012Related Theme Articles:
 
-  * <http://www.qmail-ldap.org/wiki/index.php/User:Ererge3qrter#MF_Global_was_confident_it_could_survive>
+  * <http://www.qmail-ldap.org/wikiUser:Ererge3qrter#MF_Global_was_confident_it_could_survive>
   * &lt;a href="<http://sma3kerinci.3owl.com/index.php?p=blogs/viewstory/13205>" target="_blank"&gt;<http://sma3kerinci.3owl.com/index.php?p=blogs/viewstory/13205>&lt;/a&gt;
   * <http://slackercomics.com/blogs/entry/Cyprus-Spain-EFSF-bids-accepted-Cypriot-Finance-Minister>
 
@@ -1714,7 +1714,7 @@ peace process in Northern Ireland.
 World IrelandRelated Theme Articles:
 
   * <http://friendcycle.co.cc/blogs/viewstory/34031>
-  * <http://cdr.chicagobynight.org/CDR/index.php/User:Ererge4mrter#Insight__Somalia.27s_old_problems_litter_path_to_new_future>
+  * <http://cdr.chicagobynight.org/CDRUser:Ererge4mrter#Insight__Somalia.27s_old_problems_litter_path_to_new_future>
   * <http://www.careultimate.com/node/43717>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=18 "Edit
@@ -1839,7 +1839,7 @@ NewsRelated Theme Articles:
 
   * <http://www.dubabado.com/dbbd/blogs/posts/ererge0urter>
   * &lt;a href="<http://bluebook.hu/index.php?p=blogs/viewstory/33803>" target="_blank"&gt;<http://bluebook.hu/index.php?p=blogs/viewstory/33803>&lt;/a&gt;
-  * <http://thebiblereincarnate.com/index.php/User:Ererge1hrter#Factbox_What.27s_at_stake_for_the_United_Nations_in_Syria>
+  * <http://thebiblereincarnate.comUser:Ererge1hrter#Factbox_What.27s_at_stake_for_the_United_Nations_in_Syria>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=20 "Edit
 section: Fed releases template for rate forecasts" )]
@@ -2086,7 +2086,7 @@ Articles:
 
   * <http://sareddy.com/index.php?p=blogs/viewstory/1363766>
   * <http://www.flywheelsoft.com/node/7#comment-5472>
-  * <http://www.qmail-ldap.org/wiki/index.php/User:Ererge0frter#Israel_moves_430_Palestinians_near_prisoner_swap_venue>
+  * <http://www.qmail-ldap.org/wikiUser:Ererge0frter#Israel_moves_430_Palestinians_near_prisoner_swap_venue>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=23 "Edit
 section: Eleven killed in Syria on eve of Arab deadline" )]
@@ -2250,7 +2250,7 @@ World Related Quotes and News Company Price Related NewsRelated Theme
 Articles:
 
   * <http://willsocial.com/index.php?p=blogs/viewstory/1221854>
-  * <http://www.qmail-ldap.org/wiki/index.php/User:Ererge0frter#World_lacks_enough_food.2C_fuel_as_population_soars__U.N.>
+  * <http://www.qmail-ldap.org/wikiUser:Ererge0frter#World_lacks_enough_food.2C_fuel_as_population_soars__U.N.>
   * <http://www.rollandgregg.com/node/4#comment-2875>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=24 "Edit
@@ -2408,7 +2408,7 @@ activist Abdallah Mahmoud.
 World Syria Related Quotes and News Company Price Related NewsRelated Theme
 Articles:
 
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge0erter#China.27s_Hu_lauds_military_promotion_for_young_Kim>
+  * <http://ko.dbpedia.org/wikiUser:Ererge0erter#China.27s_Hu_lauds_military_promotion_for_young_Kim>
   * <http://www.jfb.hu/node/52683>
   * <http://loveacougarforwildlife.com/blogs/entry/IMF-s-Lagarde-says-ECB-has-room-to-cut-rates-paper>
 
@@ -2731,7 +2731,7 @@ outlet](http://www.authenticoutletbags.com/
 Related Quotes and News Company Price Related NewsRelated Theme Articles:
 
   * <http://lis490it.sunahsuh.com/node/3#comment-5355>
-  * <http://www.iemu.org/index.php/User:Ererge6mrter#Insight__ECB_preparing_to_close_liquidity_floodgates>
+  * <http://www.iemu.orgUser:Ererge6mrter#Insight__ECB_preparing_to_close_liquidity_floodgates>
   * <http://peerconduit.com/blogs/entry/Instant-View-Japan-Q4-GDP-revised-up-to-0-2-percent-quarter-quarter>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=31 "Edit
@@ -2830,9 +2830,9 @@ in Sydney and Jon Herskovitz in Seoul; Editing by Alan Raybould)
 
 China Russia Australia Japan South Korea North KoreaRelated Theme Articles:
 
-  * <http://www.iemu.org/index.php/User:Ererge0qrter#Japan_exports_disappoint.2C_could_weaken_further>
+  * <http://www.iemu.orgUser:Ererge0qrter#Japan_exports_disappoint.2C_could_weaken_further>
   * <http://www.chatmessageboard.com/showthread.php?p=664621#post664621>
-  * <http://www.openideaswiki.com/index.php/User:Ererge2urter#Eastern_Japan_hit_with_magnitude_5.2_earthquake>
+  * <http://www.openideaswiki.comUser:Ererge2urter#Eastern_Japan_hit_with_magnitude_5.2_earthquake>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=32 "Edit
 section: Judge denies AIG motion in BofA $8.5 billion settlement" )]
@@ -2926,8 +2926,8 @@ New York state Supreme Court (New York County."
 
 Related Quotes and News Company Price Related NewsRelated Theme Articles:
 
-  * <http://nurugel.org/index.php/User:Ererge6vrter#Sri_Lanka_lifts_tsunami_warning>
-  * <http://www.3dchessfederation.com/index.php/User:Ererge6prter#Ruling_casts_doubt_on_expanding_healthcare_for_the_poor>
+  * <http://nurugel.orgUser:Ererge6vrter#Sri_Lanka_lifts_tsunami_warning>
+  * <http://www.3dchessfederation.comUser:Ererge6prter#Ruling_casts_doubt_on_expanding_healthcare_for_the_poor>
   * <http://tagpostings.com/story.php?title=hogan-scarpe-3>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=33 "Edit
@@ -2946,9 +2946,9 @@ There were no immediate reports of damage.
 World Japan Related Quotes and News Company Price Related NewsRelated Theme
 Articles:
 
-  * <http://nurugel.org/index.php/User:Ererge6vrter#World_Bank_chief__Citizens_need_voice_in_Arab_world>
-  * <http://ko.dbpedia.org/wiki/index.php/User:Ererge0erter#Lower_trade_gap_boosts_growth.2C_but_jobs_weak>
-  * <http://www.iemu.org/index.php/User:Ererge6mrter#U.S._asked_France_to_join_it_for_possible_oil_release>
+  * <http://nurugel.orgUser:Ererge6vrter#World_Bank_chief__Citizens_need_voice_in_Arab_world>
+  * <http://ko.dbpedia.org/wikiUser:Ererge0erter#Lower_trade_gap_boosts_growth.2C_but_jobs_weak>
+  * <http://www.iemu.orgUser:Ererge6mrter#U.S._asked_France_to_join_it_for_possible_oil_release>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=34 "Edit
 section: Wal-Mart, Casino advance in Matahari unit sale  sources" )]
@@ -3186,7 +3186,7 @@ WorldRelated Theme Articles:
 
   * <http://rimsology.com/activity/p/15733/>
   * <http://www.yeznet.com/blogs/posts/ererge8arter>
-  * <http://wikiwhy.com/index.php/User:Ererge0hrter#Dollar_jumps.2C_oil_rebounds_on_big_U.S._jobs_gain>
+  * <http://wikiwhy.comUser:Ererge0hrter#Dollar_jumps.2C_oil_rebounds_on_big_U.S._jobs_gain>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=38 "Edit
 section: Geithner  Europe can absorb debt crisis costs" )]
@@ -3587,7 +3587,7 @@ charges in March.
 
 World TechRelated Theme Articles:
 
-  * <http://wiki.visionsuite.co.uk/index.php/User:Ererge5orter#IMF.27s_Lipsky_says_U.S._housing.2C_job_market_still_slow>
+  * <http://wiki.visionsuite.co.ukUser:Ererge5orter#IMF.27s_Lipsky_says_U.S._housing.2C_job_market_still_slow>
   * [http://www.ncsnowremoval.com/forum/topic.php?id=33819&amp;replies=1#post-61002](http://www.ncsnowremoval.com/forum/topic.php?id=33819&replies=1#post-61002 "http://www.ncsnowremoval.com/forum/topic.php?id=33819&replies=1#post-61002" )
   * <http://www.oskn007.com/index.php?p=blogs/viewstory/196187>
 
@@ -3669,7 +3669,7 @@ SportsRelated Theme Articles:
 
   * <http://ifishivote.org/activity/p/312950/>
   * <http://iweed.info/blogs/viewstory/61512>
-  * <http://wikiadvocacy.org/index.php/User:Ererge6urter#Treasury_financing_goals_unchanged_by_Fed_move>
+  * <http://wikiadvocacy.orgUser:Ererge6urter#Treasury_financing_goals_unchanged_by_Fed_move>
 
 [[edit](/index.php?title=User:Ererge9krter&action=edit&section=44 "Edit
 section: Gold ends mixed as market awaits payrolls data" )]
@@ -3773,7 +3773,7 @@ David Gregorio)
 
 Related Theme Articles:
 
-  * <http://wiki.sacredlabyrinth.net/index.php/User:Ererge8drter#Wall_St._rises_on_U.S._economy.2C_progress_in_Italy>
+  * <http://wiki.sacredlabyrinth.netUser:Ererge8drter#Wall_St._rises_on_U.S._economy.2C_progress_in_Italy>
   * <http://funraizin.com/activity/p/194110/>
   * [http://www.primariamedias.ro/forum/topic.php?id=27776&amp;replies=1#post-30958](http://www.primariamedias.ro/forum/topic.php?id=27776&replies=1#post-30958 "http://www.primariamedias.ro/forum/topic.php?id=27776&replies=1#post-30958" )
 

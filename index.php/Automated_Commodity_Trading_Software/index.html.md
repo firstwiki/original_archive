@@ -67,11 +67,11 @@ in beta mode there have been 14 or so licenses provided for trusted close
 friends and colleges and everyone of these is showing a profit.
 
 Retrieved from
-"<http://firstwiki.net/index.php/Automated_Commodity_Trading_Software>"
+"<http://firstwiki.netAutomated_Commodity_Trading_Software>"
 
 ##### Views
 
-  * [Article](/index.php/Automated_Commodity_Trading_Software)
+  * [Article](Automated_Commodity_Trading_Software)
   * [Discussion](/index.php?title=Talk:Automated_Commodity_Trading_Software&action=edit)
   * [Edit](/index.php?title=Automated_Commodity_Trading_Software&action=edit)
   * [History](/index.php?title=Automated_Commodity_Trading_Software&action=history)
@@ -80,17 +80,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Automated_Commodity_Trading_Software)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -98,10 +98,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Automated_Commodity_Trading_Software)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Automated_Commodity_Trading_Software)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Automated_Commodity_Trading_Software)
+  * [Related changes](Special:Recentchangeslinked/Automated_Commodity_Trading_Software)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Automated_Commodity_Trading_Software&printable=yes)
   * [Permanent link](/index.php?title=Automated_Commodity_Trading_Software&oldid=489414)
 
@@ -114,7 +114,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 19:00, 21 August 2012.
   * This page has been accessed 154 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

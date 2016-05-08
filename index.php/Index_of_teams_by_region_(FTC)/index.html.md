@@ -17,7 +17,7 @@ f_teams_by_region_%28FTC%29&action=edit" )** this article.
 ---|---  
   
 [![50px}}](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png/50px-600px-
-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png "50px}}" )
 
 |  **This article contains one or more incomplete lists.**  
@@ -26,15 +26,15 @@ y_region_%28FTC%29&action=edit "http://www.firstwiki.net/index.php?title=Index
 _of_teams_by_region_%28FTC%29&action=edit" ) this article by adding to lists
 to make them more complete  
 See [FIRSTwiki:How does one edit a
-page](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one
-edit a page" ) and [Category:Help Pages](/index.php/Category:Help_Pages
+page](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one
+edit a page" ) and [Category:Help Pages](Category:Help_Pages
 "Category:Help Pages" ) for help, or this article's [talk
 page](/index.php?title=Talk:Index_of_teams_by_region_%28FTC%29&action=edit
 "Talk:Index of teams by region \(FTC\)" ).  
 ---|---  
   
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or section](http://www.firstwiki.net/ind
 ex.php?title=Index_of_teams_by_region_%28FTC%29&action=edit "http://www.firstw
@@ -43,7 +43,7 @@ expanding it.**
 Further information might be found on the [talk
 page](/index.php?title=Talk:Index_of_teams_by_region_%28FTC%29&action=edit
 "Talk:Index of teams by region \(FTC\)" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
@@ -133,9 +133,9 @@ n=6 "Edit section: California" )]
 
 ## California
 
-  * [25 (FTC)](/index.php/25_%28FTC%29 "25 \(FTC\)" ) \- Rock 'n' Roll Robots 
-  * [399 (FTC)](/index.php/399_%28FTC%29 "399 \(FTC\)" ) \- Apple Pi 
-  * [4950](/index.php/4950 "4950" ) \- CHS Robotics 
+  * [25 (FTC)](25_%28FTC%29 "25 \(FTC\)" ) \- Rock 'n' Roll Robots 
+  * [399 (FTC)](399_%28FTC%29 "399 \(FTC\)" ) \- Apple Pi 
+  * [4950](4950 "4950" ) \- CHS Robotics 
 
 
 ## Colorado
@@ -156,7 +156,7 @@ n=10 "Edit section: District of Columbia" )]
 
 ## Florida
 
-  * [5012](/index.php/5012 "5012" ) \- 12VoltBolt 
+  * [5012](5012 "5012" ) \- 12VoltBolt 
 
 [[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
 n=12 "Edit section: Georgia" )]
@@ -179,7 +179,7 @@ n=16 "Edit section: Indiana" )]
 
 ## Indiana
 
-  * [3537 (FTC)](/index.php/3537_%28FTC%29 "3537 \(FTC\)" ) \- Mecha-Hampsters 
+  * [3537 (FTC)](3537_%28FTC%29 "3537 \(FTC\)" ) \- Mecha-Hampsters 
 
 
 ## Iowa
@@ -208,7 +208,7 @@ n=22 "Edit section: Maryland" )]
 
 ## Massachusetts
 
-  * [549C FTC](/index.php/549C_FTC "549C FTC" ) \- Team Pwnage 
+  * [549C FTC](549C_FTC "549C FTC" ) \- Team Pwnage 
 
 [[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
 n=24 "Edit section: Michigan" )]
@@ -247,7 +247,7 @@ n=32 "Edit section: New Jersey" )]
 
 ## New Jersey
 
-  * [816 FTC](/index.php/816_FTC "816 FTC" ) \- BCIT Robotics 
+  * [816 FTC](816_FTC "816 FTC" ) \- BCIT Robotics 
 
 
 ## New Mexico
@@ -321,16 +321,16 @@ n=50 "Edit section: Virginia" )]
 
 ## Virginia
 
-  * [42 FTC](/index.php/42_FTC "42 FTC" ) \- Eta Tau Alpha 
+  * [42 FTC](42_FTC "42 FTC" ) \- Eta Tau Alpha 
 
 
 ## Washington
 
-  * [3039 (FTC)](/index.php/3039_%28FTC%29 "3039 \(FTC\)" ) \- Sotabots 
-  * [4043](/index.php/3213 "3213" ) \- Thunder Tech 
-  * [4044](/index.php/3213 "3213" ) \- Thunder Tech 
-  * [4045](/index.php/3213 "3213" ) \- Thunder Tech 
-  * [4046](/index.php/3213 "3213" ) \- Thunder Tech 
+  * [3039 (FTC)](3039_%28FTC%29 "3039 \(FTC\)" ) \- Sotabots 
+  * [4043](3213 "3213" ) \- Thunder Tech 
+  * [4044](3213 "3213" ) \- Thunder Tech 
+  * [4045](3213 "3213" ) \- Thunder Tech 
+  * [4046](3213 "3213" ) \- Thunder Tech 
 
 [[edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit&sectio
 n=52 "Edit section: West Virginia" )]
@@ -349,24 +349,24 @@ n=54 "Edit section: Wyoming" )]
 # Teams with Unknown Locations
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Index_of_teams_by_region_%28FTC%29>"
+"<http://www.firstwiki.netIndex_of_teams_by_region_%28FTC%29>"
 
 [Categories](/index.php?title=Special:Categories&article=Index_of_teams_by_reg
 ion_%28FTC%29 "Special:Categories" ): [Articles that need major
-attention](/index.php/Category:Articles_that_need_major_attention
+attention](Category:Articles_that_need_major_attention
 "Category:Articles that need major attention" ) | [Articles with Incomplete
-lists](/index.php/Category:Articles_with_Incomplete_lists "Category:Articles
+lists](Category:Articles_with_Incomplete_lists "Category:Articles
 with Incomplete lists" ) | [Articles to be
-expanded](/index.php/Category:Articles_to_be_expanded "Category:Articles to be
+expanded](Category:Articles_to_be_expanded "Category:Articles to be
 expanded" ) | [FIRST Robotics
-Competition](/index.php/Category:FIRST_Robotics_Competition "Category:FIRST
+Competition](Category:FIRST_Robotics_Competition "Category:FIRST
 Robotics Competition" ) | [FIRST Tech
-Challenge](/index.php/Category:FIRST_Tech_Challenge "Category:FIRST Tech
+Challenge](Category:FIRST_Tech_Challenge "Category:FIRST Tech
 Challenge" )
 
 ##### Views
 
-  * [Article](/index.php/Index_of_teams_by_region_%28FTC%29)
+  * [Article](Index_of_teams_by_region_%28FTC%29)
   * [Discussion](/index.php?title=Talk:Index_of_teams_by_region_%28FTC%29&action=edit)
   * [Edit](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=edit)
   * [History](/index.php?title=Index_of_teams_by_region_%28FTC%29&action=history)
@@ -375,17 +375,17 @@ Challenge" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Index_of_teams_by_region_\(FTC\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -393,10 +393,10 @@ Challenge" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Index_of_teams_by_region_%28FTC%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Index_of_teams_by_region_%28FTC%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Index_of_teams_by_region_%28FTC%29)
+  * [Related changes](Special:Recentchangeslinked/Index_of_teams_by_region_%28FTC%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Index_of_teams_by_region_%28FTC%29&printable=yes)
   * [Permanent link](/index.php?title=Index_of_teams_by_region_%28FTC%29&oldid=86330)
 
@@ -409,7 +409,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:27, 4 December 2011.
   * This page has been accessed 6,055 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

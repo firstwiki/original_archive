@@ -33,7 +33,7 @@ Jump to: navigation, search
   * [Martin Sprocket &amp; Gear](http://www.martinsprocket.com/ "http://www.martinsprocket.com/" )
   * [AndyMark](http://www.andymark.biz/ "http://www.andymark.biz/" ) \- FIRST-specific gearboxes and omniwheels 
   * [Pic Design](http://www.pic-design.com/ "http://www.pic-design.com/" )\- For those hard to find 0.7M metric gears to mesh with the drill motor pinion 
-  * [Skyway Wheels](http://www.skywaywheels.com/ "http://www.skywaywheels.com/" ) \- Supplier of wheels for [KOP](/index.php/Kit_of_parts "Kit of parts" )
+  * [Skyway Wheels](http://www.skywaywheels.com/ "http://www.skywaywheels.com/" ) \- Supplier of wheels for [KOP](Kit_of_parts "Kit of parts" )
   * [Azusa Engineering](http://www.azusaeng.com/ "http://www.azusaeng.com/" ) \- Large aluminum plate sprockets 
   * [Capitol USA Minimoto](http://www.dcminimoto.com/pinionsandsprockets.htm "http://www.dcminimoto.com/pinionsandsprockets.htm" ) \- #25 Aluminum sprockets 
   * [Rush Gears Inc](http://www.rushgears.com/ "http://www.rushgears.com/" )
@@ -42,7 +42,7 @@ Jump to: navigation, search
 ## Electronics
 
   * **[Digi-Key](http://www.digikey.com "http://www.digikey.com" )** \- Extremely large selection of electronics including ICs, sensors, prototyping equipment, etc 
-  * **[Innovation FIRST](http://www.innovationfirst.com "http://www.innovationfirst.com" )** \- Suppliers of [Victors](/index.php/Victor "Victor" )
+  * **[Innovation FIRST](http://www.innovationfirst.com "http://www.innovationfirst.com" )** \- Suppliers of [Victors](Victor "Victor" )
   * [Newark In One](http://www.newarkinone.com "http://www.newarkinone.com" )
   * [Connector Concepts, Inc.](http://www.connectorconcepts.com/ "http://www.connectorconcepts.com/" ) \- Supplier of the breakers and fuse panels for KOP 
   * [Tyco Electronics](http://www.tycoelectronics.com/ "http://www.tycoelectronics.com/" ) \- Supplier of connectors 

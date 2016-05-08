@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [15:02, 11 July 2006](/media/f/fe/1073_taurus1.jpg "/media/f/fe/1073 taurus1.jpg" ) . . [Hollis1138](/index.php/User:Hollis1138 "User:Hollis1138" ) ([Talk](/index.php/User_talk:Hollis1138 "User talk:Hollis1138" )) . . 453x604 (100205 bytes) (Property of Team 1073)
+  * (del) (cur) [15:02, 11 July 2006](/media/f/fe/1073_taurus1.jpg "/media/f/fe/1073 taurus1.jpg" ) . . [Hollis1138](User:Hollis1138 "User:Hollis1138" ) ([Talk](User_talk:Hollis1138 "User talk:Hollis1138" )) . . 453x604 (100205 bytes) (Property of Team 1073)
   
 
   * [Edit this file using an external application](/index.php?title=Image:1073_taurus1.jpg&action=edit&externaledit=true&mode=file "Image:1073 taurus1.jpg" )
@@ -37,8 +37,8 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1073 in 2005](/index.php/1073_in_2005 "1073 in 2005" )
-  * [Tetra](/index.php/Tetra "Tetra" )
+  * [1073 in 2005](1073_in_2005 "1073 in 2005" )
+  * [Tetra](Tetra "Tetra" )
 
 ## Metadata
 

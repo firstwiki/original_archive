@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**Scouting**, is the process of collecting information about the various [robots](/index.php/Robot "Robot" ) that are competing at a particular [regional](/index.php/Regional "Regional" ) or the [Championship Event](/index.php/Championship_Event "Championship Event" ), and turning that information into something useful that can be used later for picking partners in finals. It can also be thought of as "Intelligence and Strategy". Scouting is a very important aspect of competition, and is vital both for game strategy. 
+**Scouting**, is the process of collecting information about the various [robots](Robot "Robot" ) that are competing at a particular [regional](Regional "Regional" ) or the [Championship Event](Championship_Event "Championship Event" ), and turning that information into something useful that can be used later for picking partners in finals. It can also be thought of as "Intelligence and Strategy". Scouting is a very important aspect of competition, and is vital both for game strategy. 
 
 ## Contents
 
@@ -25,8 +25,8 @@ Jump to: navigation, search
 ## Overview
 
 While, at first glance, scouting appears to be easy, and is often overlooked
-by [rookie teams](/index.php/Rookie_teams "Rookie teams" ) (and a few [veteran
-teams](/index.php/Veteran_teams "Veteran teams" ) too), it is actually a quite
+by [rookie teams](Rookie_teams "Rookie teams" ) (and a few [veteran
+teams](Veteran_teams "Veteran teams" ) too), it is actually a quite
 a challenge in terms of information management. The organization required for
 mounting a scouting effort can be enormous. Collecting information on 40 or
 more robots, including their performance during practice and qualification
@@ -41,10 +41,10 @@ as possible _before_ the competition.
 
 ## Methods of Scouting
 
-There are many different [scouting methods](/index.php/Scouting_methods
+There are many different [scouting methods](Scouting_methods
 "Scouting methods" ) of scouting, all of which have their pros and cons. It's
 important to choose one of the many [scouting
-methods](/index.php/Scouting_methods "Scouting methods" ) so that there will
+methods](Scouting_methods "Scouting methods" ) so that there will
 be enough time for the team to prepare the information for competition. With
 proper preparation, scouting can be an incredibly useful tool that can give a
 team the edge it needs to win a competion, and picking the method or methods
@@ -85,8 +85,8 @@ them placed in an electronic format. You never know when something might fail.
 
 It's also very helpful to other teams scouting if a team does such things as
 preparing a robot info sheet, updating their team's [FIRST Wiki
-profile](/index.php/Index_of_teams "Index of teams" ), updating their team's
-[website](/index.php/Website "Website" ) frequently, or having someone
+profile](Index_of_teams "Index of teams" ), updating their team's
+[website](Website "Website" ) frequently, or having someone
 qualified on the team regularly available to answer questions about the team's
 robot at competition. Some teams have created databases that can generate
 basic information of this sort automatically, and prepare it in a printable
@@ -110,9 +110,9 @@ must be installed. Here are some tips to creating a successful hierarchy:
 
   * There should be somebody making sure all scouts are on task. Some teams refer to this position as the "The Knuckle Breaker" or the "Scout Captain". This person should have a great temperament, be a focused individual, as well as be able to watch a match and all of his scouts at the same time. 
   * There should somebody in charge of making sure all nessecary data gets collected. _Example: _ If he wants to know about [human players](/index.php?title=Human_players&action=edit "Human players" ), the enforcer makes sure it happens. It's his responsibility to make sure everything thats needed to collected for alliance selection is collected. This person should be calm and informed. 
-  * It may be a good idea to have one person in charge of making sure the teams that will be picked for the alliance are the right picks. He should have a lighter workload during the day to focus intently on all robots performance. He should stay in contact with the [Drive Team](/index.php/Drive_Team "Drive Team" ) to take notes on how well teams worked with their own. This person should be calm, focused, and unbiased. 
+  * It may be a good idea to have one person in charge of making sure the teams that will be picked for the alliance are the right picks. He should have a lighter workload during the day to focus intently on all robots performance. He should stay in contact with the [Drive Team](Drive_Team "Drive Team" ) to take notes on how well teams worked with their own. This person should be calm, focused, and unbiased. 
   * The should be "Collectors" whose primary job is to take data on robots and keep mental and physical notes of their performance. There should be enough of these to rotate them out for break often, as this job gets very tedious, very fast. 
-  * There should be a runner between the [pits](/index.php?title=Pits&action=edit "Pits" ) and the [stands](/index.php?title=Stands&action=edit "Stands" ) to pass information back and forth between the [Drive Team](/index.php/Drive_Team "Drive Team" ), [Pit crew](/index.php?title=Pit_crew&action=edit "Pit crew" ), and scouts. 
+  * There should be a runner between the [pits](/index.php?title=Pits&action=edit "Pits" ) and the [stands](/index.php?title=Stands&action=edit "Stands" ) to pass information back and forth between the [Drive Team](Drive_Team "Drive Team" ), [Pit crew](/index.php?title=Pit_crew&action=edit "Pit crew" ), and scouts. 
 
 
 ###  Morale
@@ -135,6 +135,6 @@ to try and keep people happy:
 ## See Also
 
   * [FIRST Scouting Network](/index.php?title=FIRST_Scouting_Network&action=edit "FIRST Scouting Network" )
-  * [FIRST NEMO](/index.php/NEMO "NEMO" )
-  * [Scouting Methods](/index.php/Scouting_methods "Scouting methods" )
+  * [FIRST NEMO](NEMO "NEMO" )
+  * [Scouting Methods](Scouting_methods "Scouting methods" )
 

@@ -27,8 +27,8 @@ seem lovely and distinctive and provide you warm in addition to comfortable
 feelings. You may take delight to share your greatest recollections with
 people. They are additionally nice to make use of presents in any varieties of
 occasions. They're broadly used as [wedding anniversary presents](http://www.e
-videncewarehouse.ocp.dc.gov/index.php/User_talk:Johnwillam03
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Johnwillam03" ),
+videncewarehouse.ocp.dc.govUser_talk:Johnwillam03
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Johnwillam03" ),
 birthday presents, Christmas items and plenty of more.
 
 The picture is mostly woven and knitted on the blanket and they by no means

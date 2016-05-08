@@ -7,10 +7,10 @@ Jump to: navigation, search
 _Note: This article is seriously tounge-in-cheek, for the humor challenged out
 there._
 
-Gather round children, and old man [Phrontist](/index.php/Phrontist
+Gather round children, and old man [Phrontist](Phrontist
 "Phrontist" ) will tell you a story.
 
-Ah, the exubrance of a [rookie team](/index.php/1418 "1418" ) that just got
+Ah, the exubrance of a [rookie team](1418 "1418" ) that just got
 their drivetrain working. The only issue was, it handled like a parkinsonian
 patient with a serious amphetamine abuse problem. So off we went, cooking up
 new schemes to make our driving more smooth. I had just banged out some new
@@ -40,15 +40,15 @@ section: Credits" )]
 
 ##  Credits
 
-Produced by Team [1418](/index.php/1418 "1418" ), totally on accident, but at
+Produced by Team [1418](1418 "1418" ), totally on accident, but at
 the same time with no regrets.
 
   * Cameraman - John Tyson 
   * Guy In Red Pants - Mr.Ballou 
-  * Guy In Green Sweatshirt, Laughing instead of helping - [Phrontist](/index.php/Phrontist "Phrontist" )
+  * Guy In Green Sweatshirt, Laughing instead of helping - [Phrontist](Phrontist "Phrontist" )
   * Guy Rolling on Floor - Kevin Zhou 
   * Screaming, Flailing, Guy w/laptop- *Deleted To Protect the Innocent* 
-  * Guy who actually does something useful- [Alex Douglas](/index.php/User:Alex_Douglas "User:Alex Douglas" )
+  * Guy who actually does something useful- [Alex Douglas](User:Alex_Douglas "User:Alex Douglas" )
 
 Yes, I should mention that Alex was the guy who saved the day. Or, if you look
 at it like I do, cut a fantastic gag short in its prime. :-)

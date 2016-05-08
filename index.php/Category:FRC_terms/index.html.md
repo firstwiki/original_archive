@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 This category is for terms associated with the [FIRST Robotics
-Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics
+Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" )
 
   
@@ -16,22 +16,22 @@ There are 6 articles in this category.
 
 ### C
 
-  * [Competition port](/index.php/Competition_port "Competition port" )
-  * [Competition port dongle](/index.php/Competition_port_dongle "Competition port dongle" )
+  * [Competition port](Competition_port "Competition port" )
+  * [Competition port dongle](Competition_port_dongle "Competition port dongle" )
 
 ### D
 
-  * [Disabled](/index.php/Disabled "Disabled" )
+  * [Disabled](Disabled "Disabled" )
 
 ### E
 
-  * [Elimination match](/index.php/Elimination_match "Elimination match" )
+  * [Elimination match](Elimination_match "Elimination match" )
 
 ### M
 
-  * [Match alliance](/index.php/Match_alliance "Match alliance" )
+  * [Match alliance](Match_alliance "Match alliance" )
 
 ### T
 
-  * [Tournament alliance](/index.php/Tournament_alliance "Tournament alliance" )
+  * [Tournament alliance](Tournament_alliance "Tournament alliance" )
 

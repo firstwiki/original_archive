@@ -19,14 +19,14 @@ Official Site: | [2004 No
 Limits](http://www.firstlegoleague.org/default.aspx?pid=13420
 "http://www.firstlegoleague.org/default.aspx?pid=13420" )  
   
-The [FLL Challenge](/index.php/FLL_Challenge "FLL Challenge" ) theme for 2004
+The [FLL Challenge](FLL_Challenge "FLL Challenge" ) theme for 2004
 was No Limits. FLL teams were tasked to compete in the Robot Game, as well
 complete a Project to research how science and technology can make our world a
 world of NO Limits to those with disabilities.
 
 The challenge was released in September, 2004 with the bulk of Official State
 tournaments occuring in December. The season was concluded by the [FLL World
-Festival](/index.php/FLL_World_Festival "FLL World Festival" ) which was held
+Festival](FLL_World_Festival "FLL World Festival" ) which was held
 in conjunction with the FIRST Championship event in April 2005. Over 45,000
 kids from 20 countries participated in this FLL season.
 

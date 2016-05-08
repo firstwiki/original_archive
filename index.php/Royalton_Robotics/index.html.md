@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Royalton Robotics_  
 ---  
 [![Team logo](/media/thumb/c/c8/4233_logo.jpg/150px-
-4233_logo.jpg)](/index.php/Image:4233_logo.jpg "Team logo" )  
+4233_logo.jpg)](Image:4233_logo.jpg "Team logo" )  
 Rookie Year: | 2004  
 US State Or Country: | Ohio  
 City: | North Royalton  
@@ -16,13 +16,13 @@ School: | North Royalton Middle School :: Problem Solvers Club
 "http://www.northroyaltonsd.org/external/nrms/legorobot/" )  
   
 Find other [FLL teams founded in
-2004](/index.php/Category:FLL_teams_founded_in_2004 "Category:FLL teams
+2004](Category:FLL_teams_founded_in_2004 "Category:FLL teams
 founded in 2004" )
 
-Find other [FLL teams from Ohio](/index.php/Category:FLL_teams_from_Ohio
+Find other [FLL teams from Ohio](Category:FLL_teams_from_Ohio
 "Category:FLL teams from Ohio" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -97,7 +97,7 @@ section: Awards and Recognitions" )]
   * No awards this year 
   * But we made it to states! 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 [[edit](/index.php?title=Royalton_Robotics&action=edit&section=7 "Edit

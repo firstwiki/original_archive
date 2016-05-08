@@ -1015,7 +1015,7 @@ WINESSOUTH AMERICAN Automatically quest sub categories,[asics gel kayano
 16](http://www.asicsgelkayanoau.com/ "http://www.asicsgelkayanoau.com/" )
 Related articles：
 
-  * <http://mgawow.co.uk/w/index.php/User:Gtlubi88865#Playboy.com__Kim_Hiott_-_Mistaken_Identity>
+  * <http://mgawow.co.uk/wUser:Gtlubi88865#Playboy.com__Kim_Hiott_-_Mistaken_Identity>
   * <http://www.maltafootballnurseries.com/community/members/home>
   * <http://zhjptsc.com/bbs/showtopic-206496.aspx>
 
@@ -1304,7 +1304,7 @@ ranging,[asics](http://www.asicsgelkayanoau.com/
 "http://www.asicsgelkayanoau.com/" ), entertaining chat. You can discern the
 entire thing here; it’s well worth your 30 minutes: Related articles：
 
-  * <http://digifuns.com/index.php/User:Eoojoo11063#OnMilwaukee.com_Bars_.26_Clubs_North_Avenue_bar_guide>
+  * <http://digifuns.comUser:Eoojoo11063#OnMilwaukee.com_Bars_.26_Clubs_North_Avenue_bar_guide>
   * <http://www.easyto.do/dolphin/blogs/posts/gtlubi94857>
   * <http://www.yutiefeng.com/read/2011/12/post-20.html#comments>
 
@@ -1574,7 +1574,7 @@ _____________________________________________
 Remix forward Beurk !! Related articles：
 
   * <http://www.520shoushen.com/thread-102803-1-1.html>
-  * <http://nxtpp.clustur.com/index.php/User:Gtlubi61048#obeyahs_sounds_on_SoundCloud_-_Create.2C_record_and_share_your>
+  * <http://nxtpp.clustur.comUser:Gtlubi61048#obeyahs_sounds_on_SoundCloud_-_Create.2C_record_and_share_your>
   * &lt;a href="[http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&amp;tid=26421](http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&tid=26421 "http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&tid=26421" )" target="_blank"&gt;[http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&amp;tid=26421](http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&tid=26421 "http://www.sanlijiaoyu.com/from/forum.php?mod=viewthread&tid=26421" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=29 "Edit
@@ -2222,7 +2222,7 @@ Comments made by one officer"did not and do not reflect the service for a all
 said spokeswoman Constable Wendy Drummond. Related articles：
 
   * <http://bbs.qlpjw.com/showtopic-25656.aspx>
-  * <http://wiki.censormon.net/index.php/User:Gtlubi30104#Shares_fall_on_sluggish_U.S._jobs.2C_focus_on_more_data_Reuter>
+  * <http://wiki.censormon.netUser:Gtlubi30104#Shares_fall_on_sluggish_U.S._jobs.2C_focus_on_more_data_Reuter>
   * &lt;a href="[http://yuemeiit.com/bbs/forum.php?mod=viewthread&amp;tid=53398](http://yuemeiit.com/bbs/forum.php?mod=viewthread&tid=53398 "http://yuemeiit.com/bbs/forum.php?mod=viewthread&tid=53398" )" target="_blank"&gt;[http://yuemeiit.com/bbs/forum.php?mod=viewthread&amp;tid=53398](http://yuemeiit.com/bbs/forum.php?mod=viewthread&tid=53398 "http://yuemeiit.com/bbs/forum.php?mod=viewthread&tid=53398" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=35 "Edit
@@ -2518,7 +2518,7 @@ Luke Baker; Editing according Mark Heinrich) Related articles：
 
   * <http://www.yyjun.net/thread-200005-1-1.html>
   * <http://changzhi.in/thread-49391-1-1.html>
-  * <http://offcampusfellow.com/index.php/User:Eoojoo09532#Britons_trust_in_leaders_economic_policy_hits_low_Reuters>
+  * <http://offcampusfellow.comUser:Eoojoo09532#Britons_trust_in_leaders_economic_policy_hits_low_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=38 "Edit
 section: Boeing basks in glow of tanker win, but risks loom Reuters" )]
@@ -2732,7 +2732,7 @@ articles：
 
   * &lt;a href="[http://bbs.ts.djyou.cn/home.php?mod=space&amp;uid=584&amp;do=blog&amp;quickforward=1&amp;id=24862](http://bbs.ts.djyou.cn/home.php?mod=space&uid=584&do=blog&quickforward=1&id=24862 "http://bbs.ts.djyou.cn/home.php?mod=space&uid=584&do=blog&quickforward=1&id=24862" )" target="_blank"&gt;[http://bbs.ts.djyou.cn/home.php?mod=space&amp;uid=584&amp;do=blog&amp;quickforward=1&amp;id=24862](http://bbs.ts.djyou.cn/home.php?mod=space&uid=584&do=blog&quickforward=1&id=24862 "http://bbs.ts.djyou.cn/home.php?mod=space&uid=584&do=blog&quickforward=1&id=24862" )&lt;/a&gt;
   * &lt;a href="[http://bbs.51mofang.com/home.php?mod=space&amp;uid=1610&amp;do=blog&amp;quickforward=1&amp;id=91353](http://bbs.51mofang.com/home.php?mod=space&uid=1610&do=blog&quickforward=1&id=91353 "http://bbs.51mofang.com/home.php?mod=space&uid=1610&do=blog&quickforward=1&id=91353" )" target="_blank"&gt;[http://bbs.51mofang.com/home.php?mod=space&amp;uid=1610&amp;do=blog&amp;quickforward=1&amp;id=91353](http://bbs.51mofang.com/home.php?mod=space&uid=1610&do=blog&quickforward=1&id=91353 "http://bbs.51mofang.com/home.php?mod=space&uid=1610&do=blog&quickforward=1&id=91353" )&lt;/a&gt;
-  * <http://wikiareas.org/index.php/User:Eoojoo01179#Oprahs_next_mission_Win_advertisers_with_OWN_vision_Reuters>
+  * <http://wikiareas.orgUser:Eoojoo01179#Oprahs_next_mission_Win_advertisers_with_OWN_vision_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=40 "Edit
 section: Apple, Foxconn set new standard for Chinese workers Reuters" )]
@@ -2910,7 +2910,7 @@ Editing onward Gary Hill,[asics kayano](http://www.asicsgelkayanoau.com/
 
   * &lt;a href="[http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&amp;tid=28475](http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=28475 "http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=28475" )" target="_blank"&gt;[http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&amp;tid=28475](http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=28475 "http://www.e-shades.com.cn/bbs/forum.php?mod=viewthread&tid=28475" )&lt;/a&gt;
   * &lt;a href="[http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&amp;tid=48967](http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&tid=48967 "http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&tid=48967" )" target="_blank"&gt;[http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&amp;tid=48967](http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&tid=48967 "http://www.ite.mcu.edu.tw/upload/forum.php?mod=viewthread&tid=48967" )&lt;/a&gt;
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=41 "Edit
 section: Closure of migrant  schools in China sparks anguish Reuters" )]
@@ -3843,7 +3843,7 @@ deficits and current models for providing jobless benefits.
   
 (Reporting along ; Editing onward) Related articles：
 
-  * <http://www.bisericaonline.ro/forum/index.php/topic,169781.msg187753.html#msg187753>
+  * <http://www.bisericaonline.ro/forumtopic,169781.msg187753.html#msg187753>
   * &lt;a href="[http://discuss.ptygs.com/sc/home.php?mod=space&amp;uid=1027&amp;do=blog&amp;quickforward=1&amp;id=86978](http://discuss.ptygs.com/sc/home.php?mod=space&uid=1027&do=blog&quickforward=1&id=86978 "http://discuss.ptygs.com/sc/home.php?mod=space&uid=1027&do=blog&quickforward=1&id=86978" )" target="_blank"&gt;[http://discuss.ptygs.com/sc/home.php?mod=space&amp;uid=1027&amp;do=blog&amp;quickforward=1&amp;id=86978](http://discuss.ptygs.com/sc/home.php?mod=space&uid=1027&do=blog&quickforward=1&id=86978 "http://discuss.ptygs.com/sc/home.php?mod=space&uid=1027&do=blog&quickforward=1&id=86978" )&lt;/a&gt;
   * &lt;a href="<http://bbs.mmwedding.net/forumdisplay.php?fid=28>" target="_blank"&gt;<http://bbs.mmwedding.net/forumdisplay.php?fid=28>&lt;/a&gt;
 
@@ -5556,7 +5556,7 @@ The author namely a Reuters columnist. The opinions expressed are his own.
 (Editing according and Beth Gladstone) Related articles：
 
   * &lt;a href="[http://www.jkzy120.com/bbs/forum.php?mod=viewthread&amp;tid=42888](http://www.jkzy120.com/bbs/forum.php?mod=viewthread&tid=42888 "http://www.jkzy120.com/bbs/forum.php?mod=viewthread&tid=42888" )" target="_blank"&gt;[http://www.jkzy120.com/bbs/forum.php?mod=viewthread&amp;tid=42888](http://www.jkzy120.com/bbs/forum.php?mod=viewthread&tid=42888 "http://www.jkzy120.com/bbs/forum.php?mod=viewthread&tid=42888" )&lt;/a&gt;
-  * <http://hepatogenomics.org/index.php/User:Oorrr80854#Google.2C_Microsoft_sued_over_map_technology_Reuters>
+  * <http://hepatogenomics.orgUser:Oorrr80854#Google.2C_Microsoft_sued_over_map_technology_Reuters>
   * <http://www.kfqfw.com.cn/index.asp>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=63 "Edit
@@ -5678,7 +5678,7 @@ researchers said.
 
   * <http://browserbackgrounds.com/blogs/entry/Analysis-Are-you-going-to-have-to-fight-your-insurer-Reuters>
   * &lt;a href="[http://www.qeefly.com/bbs/viewthread.php?tid=1143326&amp;extra=page%3D1](http://www.qeefly.com/bbs/viewthread.php?tid=1143326&extra=page%3D1 "http://www.qeefly.com/bbs/viewthread.php?tid=1143326&extra=page%3D1" )" target="_blank"&gt;[http://www.qeefly.com/bbs/viewthread.php?tid=1143326&amp;extra=page%3D1](http://www.qeefly.com/bbs/viewthread.php?tid=1143326&extra=page%3D1 "http://www.qeefly.com/bbs/viewthread.php?tid=1143326&extra=page%3D1" )&lt;/a&gt;
-  * <http://cdr.chicagobynight.org/CDR/index.php/User:Gtlubi68388#American_Air_pension_battle_may_spread_Reuters>
+  * <http://cdr.chicagobynight.org/CDRUser:Gtlubi68388#American_Air_pension_battle_may_spread_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=64 "Edit
 section: BreakingViews So whats Apple really going to do with its cas" )]
@@ -5888,7 +5888,7 @@ The author namely a Reuters columnist. The opinions expressedare his own.
 Related articles：
 
   * &lt;a href="[http://www.jiuyuanxiang.com/bbs/home.php?mod=space&amp;uid=10296&amp;do=blog&amp;quickforward=1&amp;id=125338](http://www.jiuyuanxiang.com/bbs/home.php?mod=space&uid=10296&do=blog&quickforward=1&id=125338 "http://www.jiuyuanxiang.com/bbs/home.php?mod=space&uid=10296&do=blog&quickforward=1&id=125338" )" target="_blank"&gt;[http://www.jiuyuanxiang.com/bbs/home.php?mod=space&amp;uid=10296&amp;do=blog&amp;quickforward=1&amp;id=125338](http://www.jiuyuanxiang.com/bbs/home.php?mod=space&uid=10296&do=blog&quickforward=1&id=125338 "http://www.jiuyuanxiang.com/bbs/home.php?mod=space&uid=10296&do=blog&quickforward=1&id=125338" )&lt;/a&gt;
-  * <http://wiki.glis.ntnu.edu.tw/index.php/User:Ddwddd393359#As_Republican_campaigns_spend_millions.2C_PACs_rise_in_importa>
+  * <http://wiki.glis.ntnu.edu.twUser:Ddwddd393359#As_Republican_campaigns_spend_millions.2C_PACs_rise_in_importa>
   * &lt;a href="[http://bbs.at.st/forum.php?mod=viewthread&amp;tid=36751](http://bbs.at.st/forum.php?mod=viewthread&tid=36751 "http://bbs.at.st/forum.php?mod=viewthread&tid=36751" )" target="_blank"&gt;[http://bbs.at.st/forum.php?mod=viewthread&amp;tid=36751](http://bbs.at.st/forum.php?mod=viewthread&tid=36751 "http://bbs.at.st/forum.php?mod=viewthread&tid=36751" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=66 "Edit
@@ -6917,7 +6917,7 @@ recent fundraiser, saying it showed that he cared. (Editing according) Related
 articles：
 
   * &lt;a href="[http://bbs.at.st/forum.php?mod=viewthread&amp;tid=39741](http://bbs.at.st/forum.php?mod=viewthread&tid=39741 "http://bbs.at.st/forum.php?mod=viewthread&tid=39741" )" target="_blank"&gt;[http://bbs.at.st/forum.php?mod=viewthread&amp;tid=39741](http://bbs.at.st/forum.php?mod=viewthread&tid=39741 "http://bbs.at.st/forum.php?mod=viewthread&tid=39741" )&lt;/a&gt;
-  * <http://www.reality-movement.net/index.php/User:Eoojoo00348#Apples_gains_make_some_mutual_funds_riskier_Reuters>
+  * <http://www.reality-movement.netUser:Eoojoo00348#Apples_gains_make_some_mutual_funds_riskier_Reuters>
   * &lt;a href="[http://centralyp.info/viewthread.php?tid=403622&amp;extra=](http://centralyp.info/viewthread.php?tid=403622&extra= "http://centralyp.info/viewthread.php?tid=403622&extra=" )" target="_blank"&gt;[http://centralyp.info/viewthread.php?tid=403622&amp;extra=](http://centralyp.info/viewthread.php?tid=403622&extra= "http://centralyp.info/viewthread.php?tid=403622&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=75 "Edit
@@ -7470,7 +7470,7 @@ articles：
 
   * <http://www.sheekotime.com/members/home>
   * &lt;a href="[http://www.lmschinabbs.com/post.php?action=newthread&amp;fid=20](http://www.lmschinabbs.com/post.php?action=newthread&fid=20 "http://www.lmschinabbs.com/post.php?action=newthread&fid=20" )" target="_blank"&gt;[http://www.lmschinabbs.com/post.php?action=newthread&amp;fid=20](http://www.lmschinabbs.com/post.php?action=newthread&fid=20 "http://www.lmschinabbs.com/post.php?action=newthread&fid=20" )&lt;/a&gt;
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=80 "Edit
 section: Insight Obamas North Korean leap of faith falls short Reuter" )]
@@ -13165,7 +13165,7 @@ articles：
 
   * &lt;a href="<http://www.misdemos.com.mx/smf/index.php?topic=1574172.msg1937308#msg1937308>" target="_blank"&gt;<http://www.misdemos.com.mx/smf/index.php?topic=1574172.msg1937308#msg1937308>&lt;/a&gt;
   * <http://touchnokia.ru/5-sentjabrja-budut-anonsirovani-smartfoni-nokia-na-wp-8.html#comments>
-  * <http://thepornpedia.com/index.php/User:Eoojoo18827#Analysis_Californias_Brown_sidelines_budget.2C_eyes_pensions_R>
+  * <http://thepornpedia.comUser:Eoojoo18827#Analysis_Californias_Brown_sidelines_budget.2C_eyes_pensions_R>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=123 "Edit
 section: Chinese sculptor moulds memory of Mao Reuters" )]
@@ -13475,7 +13475,7 @@ and that's never going apt happen"
 (Additional reporting by ; editing by Todd Easthm) Related articles：
 
   * &lt;a href="[http://thelolos.com/forum.php?mod=viewthread&amp;tid=202582](http://thelolos.com/forum.php?mod=viewthread&tid=202582 "http://thelolos.com/forum.php?mod=viewthread&tid=202582" )" target="_blank"&gt;[http://thelolos.com/forum.php?mod=viewthread&amp;tid=202582](http://thelolos.com/forum.php?mod=viewthread&tid=202582 "http://thelolos.com/forum.php?mod=viewthread&tid=202582" )&lt;/a&gt;
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * &lt;a href="[http://www.thecuvee.net/bbs/forum.php?mod=viewthread&amp;tid=135306&amp;extra=](http://www.thecuvee.net/bbs/forum.php?mod=viewthread&tid=135306&extra= "http://www.thecuvee.net/bbs/forum.php?mod=viewthread&tid=135306&extra=" )" target="_blank"&gt;[http://www.thecuvee.net/bbs/forum.php?mod=viewthread&amp;tid=135306&amp;extra=](http://www.thecuvee.net/bbs/forum.php?mod=viewthread&tid=135306&extra= "http://www.thecuvee.net/bbs/forum.php?mod=viewthread&tid=135306&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=126 "Edit
@@ -14288,7 +14288,7 @@ Related articles：
 
   * &lt;a href="[http://www.shmed.org/bbs/forum.php?mod=viewthread&amp;tid=79667](http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=79667 "http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=79667" )" target="_blank"&gt;[http://www.shmed.org/bbs/forum.php?mod=viewthread&amp;tid=79667](http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=79667 "http://www.shmed.org/bbs/forum.php?mod=viewthread&tid=79667" )&lt;/a&gt;
   * &lt;a href="[http://www.jk766.com/bbs/forum.php?mod=viewthread&amp;tid=11272&amp;extra=](http://www.jk766.com/bbs/forum.php?mod=viewthread&tid=11272&extra= "http://www.jk766.com/bbs/forum.php?mod=viewthread&tid=11272&extra=" )" target="_blank"&gt;[http://www.jk766.com/bbs/forum.php?mod=viewthread&amp;tid=11272&amp;extra=](http://www.jk766.com/bbs/forum.php?mod=viewthread&tid=11272&extra= "http://www.jk766.com/bbs/forum.php?mod=viewthread&tid=11272&extra=" )&lt;/a&gt;
-  * <http://www.firstwiki.net/index.php/User:Gtlubi53534#COLUMN-Bailing_on_stocks_Learn_this_lesson_from_2008_Reuters>
+  * <http://www.firstwiki.netUser:Gtlubi53534#COLUMN-Bailing_on_stocks_Learn_this_lesson_from_2008_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=133 "Edit
 section: Bloomberg says Barclays would feel at home in New York Reute" )]
@@ -14999,7 +14999,7 @@ whether Congress doesn't doing.
 and Cynthia Osterman) Related articles：
 
   * &lt;a href="[http://bbs.atfuso.com/forum.php?mod=viewthread&amp;tid=78020](http://bbs.atfuso.com/forum.php?mod=viewthread&tid=78020 "http://bbs.atfuso.com/forum.php?mod=viewthread&tid=78020" )" target="_blank"&gt;[http://bbs.atfuso.com/forum.php?mod=viewthread&amp;tid=78020](http://bbs.atfuso.com/forum.php?mod=viewthread&tid=78020 "http://bbs.atfuso.com/forum.php?mod=viewthread&tid=78020" )&lt;/a&gt;
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
   * &lt;a href="[http://toulang88.com/bbs/forum.php?mod=viewthread&amp;tid=150787](http://toulang88.com/bbs/forum.php?mod=viewthread&tid=150787 "http://toulang88.com/bbs/forum.php?mod=viewthread&tid=150787" )" target="_blank"&gt;[http://toulang88.com/bbs/forum.php?mod=viewthread&amp;tid=150787](http://toulang88.com/bbs/forum.php?mod=viewthread&tid=150787 "http://toulang88.com/bbs/forum.php?mod=viewthread&tid=150787" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=139 "Edit
@@ -16098,7 +16098,7 @@ Useless, you understand."
 (Additional reporting according and Gerard Bon in Paris and Saud Mehsud and
 Hafiz Wazier in Pakistan; Editing by) Related articles：
 
-  * <http://inspectipedia.com/index.php/User:Eoojoo98858#Sprint_seeks_hit_with_advanced-camera_EVO_phone_Reuters>
+  * <http://inspectipedia.comUser:Eoojoo98858#Sprint_seeks_hit_with_advanced-camera_EVO_phone_Reuters>
   * <http://www.currybet.net/cbet_blog/2012/08/olympic-ticket-system.php#comments>
   * <http://blog.odem.org/2011/08/fefe-ein-toller-hecht.html#comments>
 
@@ -16791,7 +16791,7 @@ flaming creating"
 and in Washington and David Henry amid New York; Editing by Gerald E.
 McCormick, , ) Related articles：
 
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
   * &lt;a href="[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=143633&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=143633&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=143633&extra=" )" target="_blank"&gt;[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=143633&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=143633&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=143633&extra=" )&lt;/a&gt;
   * &lt;a href="[http://u.fish-soso.com/space.php?uid=25448&amp;do=blog&amp;id=522023](http://u.fish-soso.com/space.php?uid=25448&do=blog&id=522023 "http://u.fish-soso.com/space.php?uid=25448&do=blog&id=522023" )" target="_blank"&gt;[http://u.fish-soso.com/space.php?uid=25448&amp;do=blog&amp;id=522023](http://u.fish-soso.com/space.php?uid=25448&do=blog&id=522023 "http://u.fish-soso.com/space.php?uid=25448&do=blog&id=522023" )&lt;/a&gt;
 
@@ -16868,7 +16868,7 @@ lived abroad many annuals merely returned apt Egypt after the protests began.
   
 (Editing along Bill Trott) Related articles：
 
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * <http://blikler.com/blogs/entry/Analysis-South-Koreas-unloved-chaebol-Reuters-2012-08-03>
   * <http://www.xtepkids.com.cn/bbs/showtopic-81345.aspx>
 
@@ -17720,7 +17720,7 @@ hands," he said.
 articles：
 
   * &lt;a href="<http://www.selahsocial.com/index.php?do=/lubi0150364/blog/french-woman-may-file-strauss-kahn-sex-complaint-reuters/>" target="_blank"&gt;<http://www.selahsocial.com/index.php?do=/lubi0150364/blog/french-woman-may-file-strauss-kahn-sex-complaint-reuters/>&lt;/a&gt;
-  * <http://wikiareas.org/index.php/User:Eoojoo01179#Retirees_move.2C_but_not_very_far_Reuters>
+  * <http://wikiareas.orgUser:Eoojoo01179#Retirees_move.2C_but_not_very_far_Reuters>
   * <http://ezlive.org/thread-229027-1-1.html>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=161 "Edit
@@ -19103,7 +19103,7 @@ construction.
   
 (Additional reporting onward John Crawley; amending onward) Related articles：
 
-  * <http://radio-latic.net/v2/index.php/members/home>
+  * <http://radio-latic.net/v2members/home>
   * <http://bbs.9ckeji.com/showtopic-43982.aspx>
   * &lt;a href="[http://forum.emacao.net/viewthread.php?tid=340211&amp;extra=](http://forum.emacao.net/viewthread.php?tid=340211&extra= "http://forum.emacao.net/viewthread.php?tid=340211&extra=" )" target="_blank"&gt;[http://forum.emacao.net/viewthread.php?tid=340211&amp;extra=](http://forum.emacao.net/viewthread.php?tid=340211&extra= "http://forum.emacao.net/viewthread.php?tid=340211&extra=" )&lt;/a&gt;
 
@@ -20302,7 +20302,7 @@ referee"
   
 (Reporting along David Adams; Editing by) Related articles：
 
-  * <http://wikiareas.org/index.php/User:Eoojoo01179#Google_wins_antitrust_approval_to_buy_Admeld_Reuters>
+  * <http://wikiareas.orgUser:Eoojoo01179#Google_wins_antitrust_approval_to_buy_Admeld_Reuters>
   * &lt;a href="[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=150776&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=150776&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=150776&extra=" )" target="_blank"&gt;[http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&amp;tid=150776&amp;extra=](http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=150776&extra= "http://www.hbhwhj.cn/bbs/forum.php?mod=viewthread&tid=150776&extra=" )&lt;/a&gt;
   * <http://iyc.in/sns/pg/file/oorrr74627/read/3978000/factbox-reactions-to-journalist-mike-wallaces-deat>
 
@@ -20443,7 +20443,7 @@ paperback"Taliban")
 
   * <http://www.plus-care.info/waiwai/2010/06/post-94.html#comments>
   * <http://blog.6999.jp/archives/2012/0730220807.php#comments>
-  * <http://www.sudopedia.org/index.php/User:Gtlubi66054#Obama_current_climate_not_good_for_arms_control.2C_eyes_2013_R>
+  * <http://www.sudopedia.orgUser:Gtlubi66054#Obama_current_climate_not_good_for_arms_control.2C_eyes_2013_R>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=184 "Edit
 section: Of two minds about Roth conversions Reuters" )]
@@ -20837,7 +20837,7 @@ Churches (WCC),[chanel 台灣](http://www.chanelbagstw.com/specials.html
 (Edited along Sara Ledwith) Related articles：
 
   * &lt;a href="[http://www.you2yuan.net/bbs/forum.php?mod=viewthread&amp;tid=134095](http://www.you2yuan.net/bbs/forum.php?mod=viewthread&tid=134095 "http://www.you2yuan.net/bbs/forum.php?mod=viewthread&tid=134095" )" target="_blank"&gt;[http://www.you2yuan.net/bbs/forum.php?mod=viewthread&amp;tid=134095](http://www.you2yuan.net/bbs/forum.php?mod=viewthread&tid=134095 "http://www.you2yuan.net/bbs/forum.php?mod=viewthread&tid=134095" )&lt;/a&gt;
-  * <http://www.ericsadoun.com/index.php/members/home>
+  * <http://www.ericsadoun.commembers/home>
   * &lt;a href="[http://bbs.ts.djyou.cn/forum.php?mod=viewthread&amp;tid=50483](http://bbs.ts.djyou.cn/forum.php?mod=viewthread&tid=50483 "http://bbs.ts.djyou.cn/forum.php?mod=viewthread&tid=50483" )" target="_blank"&gt;[http://bbs.ts.djyou.cn/forum.php?mod=viewthread&amp;tid=50483](http://bbs.ts.djyou.cn/forum.php?mod=viewthread&tid=50483 "http://bbs.ts.djyou.cn/forum.php?mod=viewthread&tid=50483" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=187 "Edit
@@ -24215,7 +24215,7 @@ it among the 1st place,aboard this issue," Jackson said.
 (Editing onward plus) Related articles：
 
   * &lt;a href="[http://thelolos.com/forum.php?mod=viewthread&amp;tid=234865](http://thelolos.com/forum.php?mod=viewthread&tid=234865 "http://thelolos.com/forum.php?mod=viewthread&tid=234865" )" target="_blank"&gt;[http://thelolos.com/forum.php?mod=viewthread&amp;tid=234865](http://thelolos.com/forum.php?mod=viewthread&tid=234865 "http://thelolos.com/forum.php?mod=viewthread&tid=234865" )&lt;/a&gt;
-  * <http://nurugel.org/index.php/User:Gtlubi34252#Gingrich_acknowledges_Freddie_Mac_consulting_fees_Reuters>
+  * <http://nurugel.orgUser:Gtlubi34252#Gingrich_acknowledges_Freddie_Mac_consulting_fees_Reuters>
   * <http://www.ibluestream.com/members/home>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=217 "Edit
@@ -25781,7 +25781,7 @@ said either issues were as agreeable as firm meantime he was amid office.
 (Additional reporting along Anurag Kotoky; Editing along Ron Popeski) Related
 articles：
 
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * <http://www.tianfuyuan.cn/bbs/showtopic-91600.aspx>
   * &lt;a href="[http://shop.laojitea.com/bbs/forum.php?mod=viewthread&amp;tid=50551](http://shop.laojitea.com/bbs/forum.php?mod=viewthread&tid=50551 "http://shop.laojitea.com/bbs/forum.php?mod=viewthread&tid=50551" )" target="_blank"&gt;[http://shop.laojitea.com/bbs/forum.php?mod=viewthread&amp;tid=50551](http://shop.laojitea.com/bbs/forum.php?mod=viewthread&tid=50551 "http://shop.laojitea.com/bbs/forum.php?mod=viewthread&tid=50551" )&lt;/a&gt;
 
@@ -25873,7 +25873,7 @@ Court, No. 7384. Related articles：
 
   * &lt;a href="[http://www.miolife.com/bbs/viewthread.php?tid=6111845&amp;extra=](http://www.miolife.com/bbs/viewthread.php?tid=6111845&extra= "http://www.miolife.com/bbs/viewthread.php?tid=6111845&extra=" )" target="_blank"&gt;[http://www.miolife.com/bbs/viewthread.php?tid=6111845&amp;extra=](http://www.miolife.com/bbs/viewthread.php?tid=6111845&extra= "http://www.miolife.com/bbs/viewthread.php?tid=6111845&extra=" )&lt;/a&gt;
   * &lt;a href="[http://home.mychangdao.cn/space.php?uid=4701&amp;do=blog&amp;id=1047385](http://home.mychangdao.cn/space.php?uid=4701&do=blog&id=1047385 "http://home.mychangdao.cn/space.php?uid=4701&do=blog&id=1047385" )" target="_blank"&gt;[http://home.mychangdao.cn/space.php?uid=4701&amp;do=blog&amp;id=1047385](http://home.mychangdao.cn/space.php?uid=4701&do=blog&id=1047385 "http://home.mychangdao.cn/space.php?uid=4701&do=blog&id=1047385" )&lt;/a&gt;
-  * <http://www.bisericaonline.ro/forum/index.php/topic,320685.msg356862.html#msg356862>
+  * <http://www.bisericaonline.ro/forumtopic,320685.msg356862.html#msg356862>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=231 "Edit
 section: COLUMN Four ways to prepare for mega financial woes Reuters" )]
@@ -27064,7 +27064,7 @@ that should have happened 60 years preceding"
 
   * &lt;a href="[http://www.shbsto.com/bbs/forum.php?mod=viewthread&amp;tid=140794](http://www.shbsto.com/bbs/forum.php?mod=viewthread&tid=140794 "http://www.shbsto.com/bbs/forum.php?mod=viewthread&tid=140794" )" target="_blank"&gt;[http://www.shbsto.com/bbs/forum.php?mod=viewthread&amp;tid=140794](http://www.shbsto.com/bbs/forum.php?mod=viewthread&tid=140794 "http://www.shbsto.com/bbs/forum.php?mod=viewthread&tid=140794" )&lt;/a&gt;
   * &lt;a href="[http://blackwow.in/forum.php?mod=viewthread&amp;tid=495513](http://blackwow.in/forum.php?mod=viewthread&tid=495513 "http://blackwow.in/forum.php?mod=viewthread&tid=495513" )" target="_blank"&gt;[http://blackwow.in/forum.php?mod=viewthread&amp;tid=495513](http://blackwow.in/forum.php?mod=viewthread&tid=495513 "http://blackwow.in/forum.php?mod=viewthread&tid=495513" )&lt;/a&gt;
-  * <http://www.firstwiki.net/index.php/User:Gtlubi53534#Employees_beware_Higher_healthcare_costs_ahead_Reuters>
+  * <http://www.firstwiki.netUser:Gtlubi53534#Employees_beware_Higher_healthcare_costs_ahead_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=240 "Edit
 section: AU, US reject Mali rebels independence declaration Reuters" )]
@@ -27361,7 +27361,7 @@ said.
 articles：
 
   * &lt;a href="[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&extra=" )" target="_blank"&gt;[http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&amp;extra=](http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&extra= "http://a7k7k.com.palm.arvixe.com/viewthread.php?tid=3755224&extra=" )&lt;/a&gt;
-  * <http://www.mood.mrbutterfly.fr/index.php/members/home>
+  * <http://www.mood.mrbutterfly.frmembers/home>
   * <http://onegoodmove.org/forum/2012/01/alain-de-botton-atheism-20.html#comments>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=243 "Edit
@@ -27399,7 +27399,7 @@ A assassinate investigation has been fired.
 
   * &lt;a href="[http://www.hkeday.com/bbs/viewthread.php?tid=2897806&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2897806&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2897806&extra=" )" target="_blank"&gt;[http://www.hkeday.com/bbs/viewthread.php?tid=2897806&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2897806&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2897806&extra=" )&lt;/a&gt;
   * <http://www.foodict.com/blog/mseguchi/2010/05/post-2.html#comments>
-  * <http://wiki.open-pc.com/index.php/User:Gtlubi81761#Man_lives_to_tell_of_Florida_Shoot_First_horror_Reuters>
+  * <http://wiki.open-pc.comUser:Gtlubi81761#Man_lives_to_tell_of_Florida_Shoot_First_horror_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=244 "Edit
 section: French gunmans brother quizzed at Paris intelligence HQ Reut" )]
@@ -27722,7 +27722,7 @@ articles：
 
   * &lt;a href="<http://linad.org/index.php?title=User:Gtlubi03744#FACTBOX-Hurdles_to_a_Bharti-MTN_deal_Reuters>" target="_blank"&gt;<http://linad.org/index.php?title=User:Gtlubi03744#FACTBOX-Hurdles_to_a_Bharti-MTN_deal_Reuters>&lt;/a&gt;
   * &lt;a href="<http://norvegiasoloandata.com//forum/index.php?topic=221152.msg229911#msg229911>" target="_blank"&gt;<http://norvegiasoloandata.com//forum/index.php?topic=221152.msg229911#msg229911>&lt;/a&gt;
-  * <http://anses.net.in/index.php/User:Eoojoo49409#BJP_supporters_vow_to_march_to_Kashmir_Reuters>
+  * <http://anses.net.inUser:Eoojoo49409#BJP_supporters_vow_to_march_to_Kashmir_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=247 "Edit
 section: In Florida, a changing Latino mosaic reshapes politics Reute" )]
@@ -27898,7 +27898,7 @@ Orlando; amending by ) Related articles：
 
   * <http://www.common-awk-niederrhein.de/2011/09/treffen-des-common-anwenderkreises-am-13102011.html#comments>
   * &lt;a href="[http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&amp;extra=](http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&extra= "http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&extra=" )" target="_blank"&gt;[http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&amp;extra=](http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&extra= "http://202.205.91.88/sy/bbs/viewthread.php?tid=2565362&extra=" )&lt;/a&gt;
-  * <http://www.bisericaonline.ro/forum/index.php/topic,327975.msg364799.html#msg364799>
+  * <http://www.bisericaonline.ro/forumtopic,327975.msg364799.html#msg364799>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=248 "Edit
 section: Humphrey takes on senior scams at $3 billion and counting Re" )]
@@ -29535,7 +29535,7 @@ femme](http://www.jordan5france.com/ "http://www.jordan5france.com/"
   
 (Editing onward Beth Gladstone and ) Related articles：
 
-  * <http://amatc.professmultimedia.com/index.php/members/home>
+  * <http://amatc.professmultimedia.commembers/home>
   * &lt;a href="<http://directask.com/?p=49493>" target="_blank"&gt;<http://directask.com/?p=49493>&lt;/a&gt;
   * &lt;a href="[http://www.love-lena.com/bbs/viewthread.php?tid=3392000&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=3392000&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=3392000&extra=" )" target="_blank"&gt;[http://www.love-lena.com/bbs/viewthread.php?tid=3392000&amp;extra=](http://www.love-lena.com/bbs/viewthread.php?tid=3392000&extra= "http://www.love-lena.com/bbs/viewthread.php?tid=3392000&extra=" )&lt;/a&gt;
 
@@ -30443,7 +30443,7 @@ Latin America. [ID:nN1E7640AP] (Editing according and ) Related articles：
 
   * <http://bbs.9ckeji.com/showtopic-46665.aspx>
   * &lt;a href="[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=165206](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=165206 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=165206" )" target="_blank"&gt;[http://www.byqwy.com/bbs/forum.php?mod=viewthread&amp;tid=165206](http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=165206 "http://www.byqwy.com/bbs/forum.php?mod=viewthread&tid=165206" )&lt;/a&gt;
-  * <http://loekepedia.org/index.php/User:Gtlubi47787#Mohamed_ElBaradei_slams_Egypt_talks_Reuters>
+  * <http://loekepedia.orgUser:Gtlubi47787#Mohamed_ElBaradei_slams_Egypt_talks_Reuters>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=271 "Edit
 section: Corrected Business group contests Obama labor appointments R" )]
@@ -31160,7 +31160,7 @@ The author is a Reuters columnist. The opinions expressed are his own.
   
 (Editing along Beth Gladstone) Related articles：
 
-  * <http://amatc.professmultimedia.com/index.php/members/home>
+  * <http://amatc.professmultimedia.commembers/home>
   * &lt;a href="<http://it-gap.de/hairdreams/?p=47950>" target="_blank"&gt;<http://it-gap.de/hairdreams/?p=47950>&lt;/a&gt;
   * &lt;a href="[http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&amp;extra=](http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&extra= "http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&extra=" )" target="_blank"&gt;[http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&amp;extra=](http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&extra= "http://www.kfschool.com.cn/bbs/viewthread.php?tid=133986&extra=" )&lt;/a&gt;
 
@@ -32383,7 +32383,7 @@ Credit Suisse Private Advisors amid Zurich,along to the bank's website.
 Florida, and Lynnley Browning among Fairfield, Connecticut; Editing by)
 Related articles：
 
-  * <http://oryx.digimech.com/wikitest/index.php/User:Gtlubi84633#Odds_favor_IRS_in_Supreme_Court_tax_cases_study_Reuters>
+  * <http://oryx.digimech.com/wikitestUser:Gtlubi84633#Odds_favor_IRS_in_Supreme_Court_tax_cases_study_Reuters>
   * <http://yanasoo.com/gtlubi40668/blog/european-shares-plunge-on-sell-off-in-french-banks-reuters-3/>
   * &lt;a href="[http://www.ebacg.com/bbs/forum.php?mod=viewthread&amp;tid=75985](http://www.ebacg.com/bbs/forum.php?mod=viewthread&tid=75985 "http://www.ebacg.com/bbs/forum.php?mod=viewthread&tid=75985" )" target="_blank"&gt;[http://www.ebacg.com/bbs/forum.php?mod=viewthread&amp;tid=75985](http://www.ebacg.com/bbs/forum.php?mod=viewthread&tid=75985 "http://www.ebacg.com/bbs/forum.php?mod=viewthread&tid=75985" )&lt;/a&gt;
 
@@ -33035,7 +33035,7 @@ rivals lingers.
 articles：
 
   * <http://www.elisas-bastelecke.de/2006/09/wolle-technik-und-pfauenfedern.html#comments>
-  * <http://iona.sprachwiss.uni-konstanz.de/sw-wiki/index.php/User:Gtlubi96967#Spain.2C_U.S._to_meet_in_Davis_Cup_semi-finals_Reuters>
+  * <http://iona.sprachwiss.uni-konstanz.de/sw-wikiUser:Gtlubi96967#Spain.2C_U.S._to_meet_in_Davis_Cup_semi-finals_Reuters>
   * &lt;a href="[http://www.hkeday.com/bbs/viewthread.php?tid=2978938&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2978938&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2978938&extra=" )" target="_blank"&gt;[http://www.hkeday.com/bbs/viewthread.php?tid=2978938&amp;extra=](http://www.hkeday.com/bbs/viewthread.php?tid=2978938&extra= "http://www.hkeday.com/bbs/viewthread.php?tid=2978938&extra=" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=295 "Edit
@@ -34859,7 +34859,7 @@ of Raudabaugh to advice) Related articles：
 
   * &lt;a href="<http://www.latestpromo.com/forum/index.php?topic=209934.msg351775#msg351775>" target="_blank"&gt;<http://www.latestpromo.com/forum/index.php?topic=209934.msg351775#msg351775>&lt;/a&gt;
   * &lt;a href="<http://www.seekingtruenorth.com/forums/topic.php?id=76133#post-77839>" target="_blank"&gt;<http://www.seekingtruenorth.com/forums/topic.php?id=76133#post-77839>&lt;/a&gt;
-  * <http://www.bisericaonline.ro/forum/index.php/topic,366445.msg407395.html#msg407395>
+  * <http://www.bisericaonline.ro/forumtopic,366445.msg407395.html#msg407395>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=313 "Edit
 section: Analysis Nasdaq bid for NYSE would hit antitrust stumble Reu" )]
@@ -36028,7 +36028,7 @@ Summarising Washington's information the allowable said: "Wedon't paucity apt
 give money for the sake of it, we are deep in(monetary challenges ourselves."
 (Writing along Dan Williams; Editing forward) Related articles：
 
-  * <http://www.bisericaonline.ro/forum/index.php/topic,369777.msg411087.html#msg411087>
+  * <http://www.bisericaonline.ro/forumtopic,369777.msg411087.html#msg411087>
   * &lt;a href="[http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&amp;extra=](http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&extra= "http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&extra=" )" target="_blank"&gt;[http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&amp;extra=](http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&extra= "http://www.dahainan.com.iziyou.com/viewthread.php?tid=1054881&extra=" )&lt;/a&gt;
   * &lt;a href="<http://norvegiasoloandata.com//forum/index.php?topic=235845.msg245108#msg245108>" target="_blank"&gt;<http://norvegiasoloandata.com//forum/index.php?topic=235845.msg245108#msg245108>&lt;/a&gt;
 
@@ -38536,7 +38536,7 @@ it equitable means 'not today.'"
 (Editing according and Steve Orlofsky) Related articles：
 
   * &lt;a href="[http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&amp;id=849207](http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&id=849207 "http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&id=849207" )" target="_blank"&gt;[http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&amp;id=849207](http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&id=849207 "http://www.hometradingsolutions.com/Articles//submitarticles.php?act=edit&id=849207" )&lt;/a&gt;
-  * <http://ko.dbpedia.org/wiki/index.php/User:Gtlubi86317#BREAKINGVIEWS_-_India_cant_afford_to_be_soft_on_corruption_R>
+  * <http://ko.dbpedia.org/wikiUser:Gtlubi86317#BREAKINGVIEWS_-_India_cant_afford_to_be_soft_on_corruption_R>
   * &lt;a href="[http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&amp;tid=98636](http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=98636 "http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=98636" )" target="_blank"&gt;[http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&amp;tid=98636](http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=98636 "http://www.cnbmtrade.net/bbs/forum.php?mod=viewthread&tid=98636" )&lt;/a&gt;
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=345 "Edit
@@ -39488,7 +39488,7 @@ plus Miral Fahmy) Related articles：
 
   * &lt;a href="<http://www.fsb33.com/bbs/read.php?tid=143397>" target="_blank"&gt;<http://www.fsb33.com/bbs/read.php?tid=143397>&lt;/a&gt;
   * &lt;a href="[http://www.77i58.com/bbs/forum.php?mod=viewthread&amp;tid=54429&amp;extra=](http://www.77i58.com/bbs/forum.php?mod=viewthread&tid=54429&extra= "http://www.77i58.com/bbs/forum.php?mod=viewthread&tid=54429&extra=" )" target="_blank"&gt;[http://www.77i58.com/bbs/forum.php?mod=viewthread&amp;tid=54429&amp;extra=](http://www.77i58.com/bbs/forum.php?mod=viewthread&tid=54429&extra= "http://www.77i58.com/bbs/forum.php?mod=viewthread&tid=54429&extra=" )&lt;/a&gt;
-  * <http://wiki.open-pc.com/index.php/User:Gtlubi81761#Factbox_Social_Security_positions_of_Republican_candidates_R>
+  * <http://wiki.open-pc.comUser:Gtlubi81761#Factbox_Social_Security_positions_of_Republican_candidates_R>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=355 "Edit
 section: Global Day of Rage mostly peaceful, Rome clears Reuters" )]
@@ -40348,7 +40348,7 @@ companies approximately the world. Related articles：
 
   * <http://www.matsuyuku.com/keniamemo/2004/07/post-8.html#comments>
   * <http://www.clickmestore.com/social/members/home>
-  * <http://www.benidormvip.com/index.php/members/home>
+  * <http://www.benidormvip.commembers/home>
 
 [[edit](/index.php?title=User:Gtlubi53534&action=edit&section=361 "Edit
 section: Santorum trails Romney in his home state of Pennsylvania pol" )]
@@ -40417,7 +40417,7 @@ The referendum surveyed 403 possible Republican voters along phone on
 Wednesday. The margin of error was plus alternatively minus 4.nine percentage.
 Related articles：
 
-  * <http://www.ericsadoun.com/index.php/members/home>
+  * <http://www.ericsadoun.commembers/home>
   * &lt;a href="[http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&amp;action=submit](http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&action=submit "http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&action=submit" )" target="_blank"&gt;[http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&amp;action=submit](http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&action=submit "http://www.physcast.org/exptphysics/?title=User:Gtlubi04330&action=submit" )&lt;/a&gt;
   * &lt;a href="[http://www.uutc.cn/bbs/viewthread.php?tid=142279&amp;extra=](http://www.uutc.cn/bbs/viewthread.php?tid=142279&extra= "http://www.uutc.cn/bbs/viewthread.php?tid=142279&extra=" )" target="_blank"&gt;[http://www.uutc.cn/bbs/viewthread.php?tid=142279&amp;extra=](http://www.uutc.cn/bbs/viewthread.php?tid=142279&extra= "http://www.uutc.cn/bbs/viewthread.php?tid=142279&extra=" )&lt;/a&gt;
 

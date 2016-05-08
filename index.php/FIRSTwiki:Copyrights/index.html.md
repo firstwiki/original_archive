@@ -7,7 +7,7 @@ Jump to: navigation, search
 
 _Note: This is not official policy. It is only recomendations_
 
-By posting anything to [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ), you
+By posting anything to [FIRSTwiki](FIRSTwiki "FIRSTwiki" ), you
 assert that:
 
   * All text posted is under public domain or under a license that is compatible with the [GNU FDL](http://www.wikipedia.org/wiki/GNU_FDL "wikipedia:GNU_FDL" ). 

@@ -22,7 +22,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [03:16, 15 March 2010](/media/c/cb/Ftc_logo.jpg "/media/c/cb/Ftc logo.jpg" ) . . [Boydean](/index.php/User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" )) . . 430x417 (102042 bytes)
+  * (del) (cur) [03:16, 15 March 2010](/media/c/cb/Ftc_logo.jpg "/media/c/cb/Ftc logo.jpg" ) . . [Boydean](User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" )) . . 430x417 (102042 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Ftc_logo.jpg&action=edit&externaledit=true&mode=file "Image:Ftc logo.jpg" )
@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [FIRST Tech Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" )
+  * [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" )
 
 ## Metadata
 

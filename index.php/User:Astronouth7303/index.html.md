@@ -5,26 +5,26 @@
 Jump to: navigation, search
 
 [![Me at a team meeting, 2004](/media/thumb/8/8d/Astronouth7303_1.jpg/180px-
-Astronouth7303_1.jpg)](/index.php/Image:Astronouth7303_1.jpg "Me at a team
+Astronouth7303_1.jpg)](Image:Astronouth7303_1.jpg "Me at a team
 meeting, 2004" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Astronouth7303_1.jpg "Enlarge" )
+clip.png)](Image:Astronouth7303_1.jpg "Enlarge" )
 
 Me at a team meeting, 2004
 
 [![Me in a picture-card, Epcot, 2004](/media/thumb/2/2d/Astronouth7303_2.jpg
-/180px-Astronouth7303_2.jpg)](/index.php/Image:Astronouth7303_2.jpg "Me in a
+/180px-Astronouth7303_2.jpg)](Image:Astronouth7303_2.jpg "Me in a
 picture-card, Epcot, 2004" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Astronouth7303_2.jpg "Enlarge" )
+clip.png)](Image:Astronouth7303_2.jpg "Enlarge" )
 
 Me in a picture-card, Epcot, 2004
 
   
 
-**This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) [sysop](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
+**This user is a [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) [sysop](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
 
 I'm, like, one of those weird people with radical ideas who like to rock the
 boat.
@@ -34,22 +34,22 @@ section: FIXMEs" )]
 
 ##  FIXMEs
 
-  * [These pages need correct formats](/index.php/Special:Whatlinkshere/Template:Needformat "Special:Whatlinkshere/Template:Needformat" ) ([These too!](/index.php/Special:Whatlinkshere/Template:needs_format "Special:Whatlinkshere/Template:needs format" )) 
-  * [These pages are stubs](/index.php/Special:Whatlinkshere/Template:Stub "Special:Whatlinkshere/Template:Stub" )
-  * [These teams need a logo](/index.php/Special:Whatlinkshere/Image:Theteamlogo.jpg "Special:Whatlinkshere/Image:Theteamlogo.jpg" )
-  * [/Teams that need a page](/index.php/User:Astronouth7303/Teams_that_need_a_page "User:Astronouth7303/Teams that need a page" )
-  * [/todo](/index.php/User:Astronouth7303/todo "User:Astronouth7303/todo" )
-  * [These pages use external images](/index.php/Special:Whatlinkshere/Template:Extlinkphoto "Special:Whatlinkshere/Template:Extlinkphoto" )
-  * [/Teams that don't use teamtable](/index.php/User:Astronouth7303/Teams_that_don%27t_use_teamtable "User:Astronouth7303/Teams that don't use teamtable" )
+  * [These pages need correct formats](Special:Whatlinkshere/Template:Needformat "Special:Whatlinkshere/Template:Needformat" ) ([These too!](Special:Whatlinkshere/Template:needs_format "Special:Whatlinkshere/Template:needs format" )) 
+  * [These pages are stubs](Special:Whatlinkshere/Template:Stub "Special:Whatlinkshere/Template:Stub" )
+  * [These teams need a logo](Special:Whatlinkshere/Image:Theteamlogo.jpg "Special:Whatlinkshere/Image:Theteamlogo.jpg" )
+  * [/Teams that need a page](User:Astronouth7303/Teams_that_need_a_page "User:Astronouth7303/Teams that need a page" )
+  * [/todo](User:Astronouth7303/todo "User:Astronouth7303/todo" )
+  * [These pages use external images](Special:Whatlinkshere/Template:Extlinkphoto "Special:Whatlinkshere/Template:Extlinkphoto" )
+  * [/Teams that don't use teamtable](User:Astronouth7303/Teams_that_don%27t_use_teamtable "User:Astronouth7303/Teams that don't use teamtable" )
 
 [[edit](/index.php?title=User:Astronouth7303&action=edit&section=2 "Edit
 section: Stats" )]
 
 ## Stats
 
-[My Contributions](/index.php/Special:Contributions/Astronouth7303
+[My Contributions](Special:Contributions/Astronouth7303
 "Special:Contributions/Astronouth7303" )  
-[My Talk Page](/index.php/User_talk:Astronouth7303 "User talk:Astronouth7303"
+[My Talk Page](User_talk:Astronouth7303 "User talk:Astronouth7303"
 )
 
 AKA: | Jamie Bliss  
@@ -57,13 +57,13 @@ AKA: | Jamie Bliss
 Joined: | Fall 2003  
 AIM: | [aim:Astronouth7303 Astronouth7303]  
 e-mail: |
-[Special:Emailuser/Astronouth7303](/index.php/Special:Emailuser/Astronouth7303
+[Special:Emailuser/Astronouth7303](Special:Emailuser/Astronouth7303
 "Special:Emailuser/Astronouth7303" )  
 ChiefDelphi: |
 [Astronouth7303](http://www.chiefdelphi.com/forums/member.php?userid=5957
 "cduser:5957" )  
-Team: | [1227](/index.php/1227 "1227" ) (Techno-Gremlins),
-[904](/index.php/904 "904" ) (D cubed)  
+Team: | [1227](1227 "1227" ) (Techno-Gremlins),
+[904](904 "904" ) (D cubed)  
 Position: | Programmer, Operator, Alumni  
 Home page: | [astro73.com](http://astro73.com/ "http://astro73.com/" )  
   
@@ -76,7 +76,7 @@ Currently attending [Worcester Polytechnic
 Institute](http://www.wikipedia.org/wiki/Worcester_Polytechnic_Institute
 "wikipedia:Worcester_Polytechnic_Institute" ).
 
-The [Techno-Gremlins (1227)](/index.php/1227 "1227" ) lead programmer (and
+The [Techno-Gremlins (1227)](1227 "1227" ) lead programmer (and
 generally the only one). Also has expierience with the
 [RCX](http://www.wikipedia.org/wiki/Lego_Mindstorms#The_RCX_programmable_brick
 "wikipedia:Lego_Mindstorms" ) (in Robotics Invention System and Not Quite C
@@ -89,7 +89,7 @@ Microworlds, MSW LOGO, DOS bats, and misc other stuff. (Are there any more
 obscure programming languages?)
 
 I also made the temporary logo:  
-[![Image:logo_temporary.png](/media/8/81/Logo_temporary.png)](/index.php/Image
+[![Image:logo_temporary.png](/media/8/81/Logo_temporary.png)](Image
 :Logo_temporary.png "Image:logo_temporary.png" )  
 [My first Whitepaper!](http://www.chiefdelphi.com/forums/papers.php?s=&action=
 single&paperid=355
@@ -100,10 +100,10 @@ section: Projects" )]
 
 ## Projects
 
-  * [FIRST video game](/index.php/FIRST_video_game "FIRST video game" ) ([Site](http://endeavour.zapto.org/furc/ "http://endeavour.zapto.org/furc/" ), [CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=135 "cdforum:135" )) 
-  * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) ([CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=134 "cdforum:134" )) 
-  * [CD Spotlight on this page](/index.php/User:Astronouth7303/CDSpotlight "User:Astronouth7303/CDSpotlight" )
-  * [openFIRST](/index.php/OpenFIRST "OpenFIRST" ) ([Site](http://www.openfirst.org "http://www.openfirst.org" ), [CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=108 "cdforum:108" )) 
+  * [FIRST video game](FIRST_video_game "FIRST video game" ) ([Site](http://endeavour.zapto.org/furc/ "http://endeavour.zapto.org/furc/" ), [CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=135 "cdforum:135" )) 
+  * [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) ([CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=134 "cdforum:134" )) 
+  * [CD Spotlight on this page](User:Astronouth7303/CDSpotlight "User:Astronouth7303/CDSpotlight" )
+  * [openFIRST](OpenFIRST "OpenFIRST" ) ([Site](http://www.openfirst.org "http://www.openfirst.org" ), [CD](http://www.chiefdelphi.com/forums/forumdisplay.php?f=108 "cdforum:108" )) 
   * [Zips of old game docs](http://endeavour.zapto.org/astro73/first/archive/ "http://endeavour.zapto.org/astro73/first/archive/" )
 
 [[edit](/index.php?title=User:Astronouth7303&action=edit&section=5 "Edit

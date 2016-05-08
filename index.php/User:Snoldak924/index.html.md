@@ -7,7 +7,7 @@ Jump to: navigation, search
 
 ## Who am I
 
-I am Sam Oldak, the webmaster/photographer of team [1389](/index.php/1389
+I am Sam Oldak, the webmaster/photographer of team [1389](1389
 "1389" ). Basically anything where if I mess up, I can delete it.
 
 

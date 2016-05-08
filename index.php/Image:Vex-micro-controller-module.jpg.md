@@ -36,5 +36,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Kit of parts (FTC)](/index.php/Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
+  * [Kit of parts (FTC)](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
 

@@ -5,14 +5,14 @@
 Jump to: navigation, search
 
 The **default code** provides pre-programmed functionality to the [Robot
-Controller](/index.php/Robot_Controller "Robot Controller" ). This can allow
-teams to spend more time on [fabricating](/index.php/Fabrication "Fabrication"
-) their [robot](/index.php/Robot "Robot" ), so long as they don't need more
+Controller](Robot_Controller "Robot Controller" ). This can allow
+teams to spend more time on [fabricating](Fabrication "Fabrication"
+) their [robot](Robot "Robot" ), so long as they don't need more
 complicated control. But the default code also provides the starting point for
-[programming](/index.php/Programming "Programming" ) the FRC, and it is
+[programming](Programming "Programming" ) the FRC, and it is
 necessary to understand the code before you decide to change it.
 
-[InnovationFIRST](/index.php/InnovationFIRST "InnovationFIRST" ) provides a
+[InnovationFIRST](InnovationFIRST "InnovationFIRST" ) provides a
 detailed description of the pre-programmed functionality of the default code
 (see [Default Code Reference Guide](http://innovationfirst.com/FIRSTRobotics/p
 dfs/FRC_RC_Default_Software_Ref_Guide_2004-1-7.pdf "http://innovationfirst.com
@@ -21,7 +21,7 @@ article does not strive to repeat that information here. Rather, the article
 will attempt to explain the important features of the default code, and, to a
 degree, how a team might go about customizing the code for its own needs (for
 more on this, see [programming the Robot
-Controller](/index.php/Programming_the_Robot_Controller "Programming the Robot
+Controller](Programming_the_Robot_Controller "Programming the Robot
 Controller" )).
 
 The default code consists of 12 header and c program files, only 3 of which
@@ -57,16 +57,16 @@ data, processing it, and then outputting data -- and then starting all over
 again. In the [2004 Programming Reference Guide](http://innovationfirst.com/FI
 RSTRobotics/pdfs/2004_Programming_Reference_Guide_12-Apr-2004.pdf "http://inno
 vationfirst.com/FIRSTRobotics/pdfs/2004_Programming_Reference_Guide_12-Apr-200
-4.pdf" ), [IFI](/index.php/InnovationFIRST "InnovationFIRST" ) provides a
+4.pdf" ), [IFI](InnovationFIRST "InnovationFIRST" ) provides a
 visual representation of this.
 
 [![Default code structure
 diagram](/media/thumb/d/da/Default_code_structure_diagram.png/180px-Default_co
-de_structure_diagram.png)](/index.php/Image:Default_code_structure_diagram.png
+de_structure_diagram.png)](Image:Default_code_structure_diagram.png
 "Default code structure diagram" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Default_code_structure_diagram.png "Enlarge" )
+clip.png)](Image:Default_code_structure_diagram.png "Enlarge" )
 
 Default code structure diagram
 
@@ -117,7 +117,7 @@ section: User_Initialization" )]
 This function starts out by setting which [I/O
 pins](/index.php?title=I/O_pins&action=edit "I/O pins" ) will be used as
 inputs and which will be used as outputs. It initializes the output, and sets
-the [PWM](/index.php/PWM "PWM" ) values to neutral (127). It then tells the
+the [PWM](PWM "PWM" ) values to neutral (127). It then tells the
 processor to take control of PWMs 13-16 (this can be changed to provide more
 customization). The function then intializes the serial communications and
 tells the master processor that it is ready.
@@ -139,15 +139,15 @@ section: Default Routine" )]
 
 And now we get to the meat of the program. First, the function maps analog
 inputs to PWM outputs. So if you had a
-[potentiometer](/index.php/Potentiometer "Potentiometer" ) connected to
+[potentiometer](Potentiometer "Potentiometer" ) connected to
 p4_wheel, for instance, it would control pwm12, which might be connected to a
-[speed controller](/index.php/Victor_884 "Victor 884" ) and therefore control
-a [motor](/index.php/Motor "Motor" ). By default, port 1 is assumed to have a
-[joystick](/index.php/Joystick "Joystick" ) connected to it, and pwm13-16 are
+[speed controller](Victor_884 "Victor 884" ) and therefore control
+a [motor](Motor "Motor" ). By default, port 1 is assumed to have a
+[joystick](Joystick "Joystick" ) connected to it, and pwm13-16 are
 assumed to control the drive motors. The function then maps the joystick
 buttons to specific relay outputs. It causes certain PWM outputs to be limited
-by [limit switches](/index.php/Limit_switch "Limit switch" ). And finally, it
-controls the robot feedback LEDs on the [OI](/index.php/OI "OI" ).
+by [limit switches](Limit_switch "Limit switch" ). And finally, it
+controls the robot feedback LEDs on the [OI](OI "OI" ).
 
 [[edit](/index.php?title=Default_code_%282004%29&action=edit&section=6 "Edit
 section: user_routines_fast.c" )]
@@ -164,7 +164,7 @@ section: Interrupts" )]
 ### Interrupts
 
 The file begins by providing the framework from which to build
-[interrupts](/index.php/Interrupts "Interrupts" ). These are not used by
+[interrupts](Interrupts "Interrupts" ). These are not used by
 default, however, and require special care and advanced knowledge of how the
 processor works.
 
@@ -174,7 +174,7 @@ section: User_Autonomous_Code" )]
 ### User_Autonomous_Code
 
 This is the function that executes when the robot is in [autonomous
-mode](/index.php/Autonomous_mode "Autonomous mode" ). It starts by
+mode](Autonomous_mode "Autonomous mode" ). It starts by
 initializing all PWMS and relays. Then, it sets up a loop for you to add the
 autonomous code. There is no autonomous action by default.
 
@@ -187,8 +187,8 @@ There is nothing at all in this function in the default code. It is useful for
 code that must execute every loop and does not need to have fresh data every
 time through.
 
-_See also:_ [Programming](/index.php/Programming "Programming" ), [Programming
-the Robot Controller](/index.php/Programming_the_Robot_Controller "Programming
+_See also:_ [Programming](Programming "Programming" ), [Programming
+the Robot Controller](Programming_the_Robot_Controller "Programming
 the Robot Controller" )
 
 [[edit](/index.php?title=Default_code_%282004%29&action=edit&section=10 "Edit
@@ -196,7 +196,7 @@ section: Resources" )]
 
 ## Resources
 
-  * [Robot Controller Documentation](http://www.ifirobotics.com/rc.shtml "http://www.ifirobotics.com/rc.shtml" ) from [InnovationFIRST](/index.php/InnovationFIRST "InnovationFIRST" ) (IFI) 
+  * [Robot Controller Documentation](http://www.ifirobotics.com/rc.shtml "http://www.ifirobotics.com/rc.shtml" ) from [InnovationFIRST](InnovationFIRST "InnovationFIRST" ) (IFI) 
   * [2004 Programming Reference Guide](http://www.ifirobotics.com/docs/legacy/2004-programming-reference-guide-12-apr-2004.pdf "http://www.ifirobotics.com/docs/legacy/2004-programming-reference-guide-12-apr-2004.pdf" ) (pdf) from IFI 
   * [2004 Default Software Reference Guide](http://www.ifirobotics.com/docs/legacy/frc-rc-default-software-ref-guide-2004-1-7.pdf "http://www.ifirobotics.com/docs/legacy/frc-rc-default-software-ref-guide-2004-1-7.pdf" ) (pdf) from IFI 
   * [2007 FRC Default/User and Master code](http://www.ifirobotics.com/docs/frc-code-2007-8722.zip "http://www.ifirobotics.com/docs/frc-code-2007-8722.zip" ) (zip) from IFI (the old 2004 code no longer available) 

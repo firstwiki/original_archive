@@ -22,8 +22,8 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [06:16, 8 March 2012](/media/3/36/3476_2012_robot.jpg "/media/3/36/3476 2012 robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](/index.php/User_talk:Natologic "User talk:Natologic" )) . . 200x198 (32095 bytes)
-  * (del) (rev) [06:14, 8 March 2012](/media/archive/3/36/20120308061658%213476_2012_robot.jpg "/media/archive/3/36/20120308061658!3476 2012 robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](/index.php/User_talk:Natologic "User talk:Natologic" )) . . 370x366 (69492 bytes)
+  * (del) (cur) [06:16, 8 March 2012](/media/3/36/3476_2012_robot.jpg "/media/3/36/3476 2012 robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](User_talk:Natologic "User talk:Natologic" )) . . 200x198 (32095 bytes)
+  * (del) (rev) [06:14, 8 March 2012](/media/archive/3/36/20120308061658%213476_2012_robot.jpg "/media/archive/3/36/20120308061658!3476 2012 robot.jpg" ) . . [Natologic](/index.php?title=User:Natologic&action=edit "User:Natologic" ) ([Talk](User_talk:Natologic "User talk:Natologic" )) . . 370x366 (69492 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:3476_2012_robot.jpg&action=edit&externaledit=true&mode=file "Image:3476 2012 robot.jpg" )
@@ -36,7 +36,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [3476](/index.php/3476 "3476" )
+  * [3476](3476 "3476" )
 
 ## Metadata
 
@@ -52,11 +52,11 @@ File change date and time |  10:11, 5 March 2012
 Y and C positioning |  1  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Image:3476_2012_robot.jpg>"
+"<http://www.firstwiki.netImage:3476_2012_robot.jpg>"
 
 ##### Views
 
-  * [File](/index.php/Image:3476_2012_robot.jpg)
+  * [File](Image:3476_2012_robot.jpg)
   * [Discussion](/index.php?title=Image_talk:3476_2012_robot.jpg&action=edit)
   * [Edit](/index.php?title=Image:3476_2012_robot.jpg&action=edit)
   * [History](/index.php?title=Image:3476_2012_robot.jpg&action=history)
@@ -65,17 +65,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Image:3476_2012_robot.jpg)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -83,10 +83,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Image:3476_2012_robot.jpg)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Image:3476_2012_robot.jpg)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Image:3476_2012_robot.jpg)
+  * [Related changes](Special:Recentchangeslinked/Image:3476_2012_robot.jpg)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Image:3476_2012_robot.jpg&printable=yes)
   * [Permanent link](/index.php?title=Image:3476_2012_robot.jpg&oldid=93131)
 
@@ -99,7 +99,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 06:14, 8 March 2012.
   * This page has been accessed 8 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

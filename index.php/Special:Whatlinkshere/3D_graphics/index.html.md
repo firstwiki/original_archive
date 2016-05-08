@@ -22,11 +22,11 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/3D_graphics&limit=500&from=0
 "Special:Whatlinkshere/3D graphics" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [Template:Main page toc](/index.php/Template:Main_page_toc "Template:Main page toc" )
-  * [3D Studio Max](/index.php/3D_Studio_Max "3D Studio Max" )
-  * [User:Mrawls/front page redesign](/index.php/User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [Main Page](Main_Page "Main Page" )
+  * [Template:Main page toc](Template:Main_page_toc "Template:Main page toc" )
+  * [3D Studio Max](3D_Studio_Max "3D Studio Max" )
+  * [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/3D_graphics&limit=20&from=0
 "Special:Whatlinkshere/3D graphics" ) |

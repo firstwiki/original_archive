@@ -4,8 +4,8 @@
 
 Jump to: navigation, search
 
-The beautiful robot designed and constructed by [Team 514](/index.php/514
-"514" ) for use in the FIRST robotics game [Aim High](/index.php/Aim_High "Aim
+The beautiful robot designed and constructed by [Team 514](514
+"514" ) for use in the FIRST robotics game [Aim High](Aim_High "Aim
 High" ) in 2006.
 
 [[edit](/index.php?title=Entropy_%28514%29&action=edit&section=1 "Edit
@@ -34,14 +34,14 @@ section: Construction" )]
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more content](http://www.firstwiki.net/index.php?title=Entropy_%28
 514%29&action=edit
 "http://www.firstwiki.net/index.php?title=Entropy_%28514%29&action=edit" ) to
 make a significant article. If you'd like to add to more stubs, look at the
-list of [short articles](/index.php/Special:Shortpages "Special:Shortpages"
+list of [short articles](Special:Shortpages "Special:Shortpages"
 )._  
 ---|---  
   

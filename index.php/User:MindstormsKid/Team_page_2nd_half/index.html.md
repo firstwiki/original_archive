@@ -2,7 +2,7 @@
 
 ### From FIRSTwiki
 
-&lt; [User:MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" )
+&lt; [User:MindstormsKid](User:MindstormsKid "User:MindstormsKid" )
 
 Jump to: navigation, search
 
@@ -27,7 +27,7 @@ tion=1 "Edit section: Awards and Recognitions" )]
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 
@@ -52,7 +52,7 @@ tion=4 "Edit section: Students" )]
 
 ### Students
 
-  * [Teddy](http://teamterastorm.googlepages.com/teddy "http://teamterastorm.googlepages.com/teddy" ) ([MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" )) (Team Captain/Coordinator, 6th grade (11 years old), 1 year on team (original member), Homeschooled) 
+  * [Teddy](http://teamterastorm.googlepages.com/teddy "http://teamterastorm.googlepages.com/teddy" ) ([MindstormsKid](User:MindstormsKid "User:MindstormsKid" )) (Team Captain/Coordinator, 6th grade (11 years old), 1 year on team (original member), Homeschooled) 
   * names (role, grade, years on team, etc.) 
   * only (role, grade, years on team, etc.) 
   * please (role, grade, years on team, etc.) 
@@ -84,11 +84,11 @@ tion=7 "Edit section: Sponsors" )]
   * Solomon Wood Financial Advisers 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/User:MindstormsKid/Team_page_2nd_half>"
+"<http://www.firstwiki.netUser:MindstormsKid/Team_page_2nd_half>"
 
 ##### Views
 
-  * [User page](/index.php/User:MindstormsKid/Team_page_2nd_half)
+  * [User page](User:MindstormsKid/Team_page_2nd_half)
   * [Discussion](/index.php?title=User_talk:MindstormsKid/Team_page_2nd_half&action=edit)
   * [Edit](/index.php?title=User:MindstormsKid/Team_page_2nd_half&action=edit)
   * [History](/index.php?title=User:MindstormsKid/Team_page_2nd_half&action=history)
@@ -97,17 +97,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=User:MindstormsKid/Team_page_2nd_half)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -115,10 +115,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/User:MindstormsKid/Team_page_2nd_half)
-  * [Related changes](/index.php/Special:Recentchangeslinked/User:MindstormsKid/Team_page_2nd_half)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/User:MindstormsKid/Team_page_2nd_half)
+  * [Related changes](Special:Recentchangeslinked/User:MindstormsKid/Team_page_2nd_half)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=User:MindstormsKid/Team_page_2nd_half&printable=yes)
   * [Permanent link](/index.php?title=User:MindstormsKid/Team_page_2nd_half&oldid=66936)
 
@@ -131,7 +131,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 17:39, 15 March 2008.
   * This page has been accessed 196 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

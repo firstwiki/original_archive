@@ -13,7 +13,7 @@ Torque is the cross-product of the
 [vectors](/index.php?title=Vector&action=edit "Vector" )
 (![\\boldsymbol{\\tau} = \\mathbf{r} \\times
 \\mathbf{F}](/media/math/b/a/2/ba2e57363e6ce199c675ba591f0283fe.png)), in that
-order. If the torque exerted by a [motor](/index.php/Motor "Motor" ) on its
+order. If the torque exerted by a [motor](Motor "Motor" ) on its
 axle is known, one can find the force exerted at a different distance from the
 center.
 
@@ -26,7 +26,7 @@ pounds is applied. This is equivalent to 40 'foot-pounds' of torque (2*20). As
 power is (torque * angular velocity) and the power of a motor is constant,
 tradeoffs have to be made between torque and speed. Torque is necessary for
 pushing and climbing, and speed is necessary for, well, speed. A carefully
-designed [transmission](/index.php/Transmission "Transmission" ) lets you get
+designed [transmission](Transmission "Transmission" ) lets you get
 the best of both worlds, allowing you to switch between torque and speed
 (within the limitations of the motor of course.)
 

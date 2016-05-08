@@ -22,9 +22,9 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Rookie_teams&limit=500&from=0
 "Special:Whatlinkshere/Rookie teams" )).
 
-  * [Game](/index.php/Game "Game" )
-  * [Scouting](/index.php/Scouting "Scouting" )
-  * [1899](/index.php/1899 "1899" )
+  * [Game](Game "Game" )
+  * [Scouting](Scouting "Scouting" )
+  * [1899](1899 "1899" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Rookie_teams&limit=20&from=0
 "Special:Whatlinkshere/Rookie teams" ) |

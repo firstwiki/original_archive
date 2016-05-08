@@ -5,7 +5,7 @@
 
 Jump to: navigation, search
 
-**This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) [bureaucrat](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
+**This user is a [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) [bureaucrat](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
 
 ## Contents
 
@@ -19,8 +19,8 @@ Jump to: navigation, search
 ## Who am I?
 
   * Applied and Engineering Physics student at [Cornell University](http://www.cornell.edu "http://www.cornell.edu" ). 
-  * I am Maxim Lobovsky, an alumni of team [1257](/index.php/1257 "1257" ). 
-  * As of now, I am the administrator of [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) and the only [bureaucrat](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ) on FIRSTwiki. 
+  * I am Maxim Lobovsky, an alumni of team [1257](1257 "1257" ). 
+  * As of now, I am the administrator of [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) and the only [bureaucrat](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ) on FIRSTwiki. 
 
 
 ## Contact

@@ -4,14 +4,14 @@
 
 Jump to: navigation, search
 
-**FIRSTcast** is a [podcast](http://www.wikipedia.org/wiki/podcast "wikipedia:podcast" ) relating to [FIRST](/index.php/FIRST "FIRST" ), it's competitions, [teams](/index.php/Team "Team" ), [IFI](/index.php/Innovation_First%2C_Inc. "Innovation First, Inc." ), and a variety of related subjects. 
+**FIRSTcast** is a [podcast](http://www.wikipedia.org/wiki/podcast "wikipedia:podcast" ) relating to [FIRST](FIRST "FIRST" ), it's competitions, [teams](Team "Team" ), [IFI](Innovation_First%2C_Inc. "Innovation First, Inc." ), and a variety of related subjects. 
 
 [![FIRSTcast Season 2 Logo](/media/thumb/f/f5/Firstcast_logo.jpg/180px-
-Firstcast_logo.jpg)](/index.php/Image:Firstcast_logo.jpg "FIRSTcast Season 2
+Firstcast_logo.jpg)](Image:Firstcast_logo.jpg "FIRSTcast Season 2
 Logo" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Firstcast_logo.jpg "Enlarge" )
+clip.png)](Image:Firstcast_logo.jpg "Enlarge" )
 
 FIRSTcast Season 2 Logo
 
@@ -27,8 +27,8 @@ FIRSTcast Season 2 Logo
 
 ##  Founders
 
-  * [Matt Krass](/index.php/Matt_Krass "Matt Krass" )
-  * [Adam Richards](/index.php/Adam_Richards "Adam Richards" )
+  * [Matt Krass](Matt_Krass "Matt Krass" )
+  * [Adam Richards](Adam_Richards "Adam Richards" )
   * [Conor Ryan](/index.php?title=Conor_Ryan&action=edit "Conor Ryan" )
 
 
@@ -61,7 +61,7 @@ Guests **Episode 1.1** \-
 
 **Episode 1.7** DaisyCast 
 
-**FIRSTcast Interviews 1** Dr. Ted Sergi, [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" )
+**FIRSTcast Interviews 1** Dr. Ted Sergi, [Dean Kamen](Dean_Kamen "Dean Kamen" )
 
 **Episode 1.8** Elgin Clock, Greg Marra, Others 
 

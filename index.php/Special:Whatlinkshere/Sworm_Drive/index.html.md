@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Sworm_Drive&limit=500&from=0
 "Special:Whatlinkshere/Sworm Drive" )).
 
-  * [269](/index.php/269 "269" )
+  * [269](269 "269" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Sworm_Drive&limit=20&from=0
 "Special:Whatlinkshere/Sworm Drive" ) |

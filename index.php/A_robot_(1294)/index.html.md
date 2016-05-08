@@ -8,7 +8,7 @@
 Jump to: navigation, search
 
 [![40px}}](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png/30px-600px-
-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png "40px}}" )
 
 | It is requested that an **image** or **images** be
@@ -18,10 +18,10 @@ quality](http://www.wikipedia.org/wiki/Article_development
 "wikipedia:Article_development" ).  
 ---|---  
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please
 **[improve](http://www.firstwiki.net/index.php?title=1294_in_2004&action=edit
@@ -31,7 +31,7 @@ article.
 ---|---  
   
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=1294_in_2004&action=edit
@@ -39,7 +39,7 @@ section](http://www.firstwiki.net/index.php?title=1294_in_2004&action=edit
 expanding it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:1294_in_2004&action=edit "Talk:1294 in 2004" ) or
-at [requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion
+at [requests for expansion](FIRSTwiki:Requests_for_expansion
 "FIRSTwiki:Requests for expansion" ).  
 ---|---  
   

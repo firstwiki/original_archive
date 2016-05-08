@@ -15,7 +15,7 @@ Jump to: navigation, search
 [190_ramping.jpg](/media/0/0d/190_ramping.jpg "190 ramping.jpg" ) (34KB, MIME
 type: `image/jpeg`)
 
-[987](/index.php/987 "987" ) ramped on top of [190](/index.php/190 "190" ).
+[987](987 "987" ) ramped on top of [190](190 "190" ).
 
 ## File history
 
@@ -23,7 +23,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [18:33, 3 July 2007](/media/0/0d/190_ramping.jpg "/media/0/0d/190 ramping.jpg" ) . . [Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" ) ([Talk](/index.php/User_talk:Astronouth7303 "User talk:Astronouth7303" )) . . 325x324 (34065 bytes) ([987](/index.php/987 "987" ) ramped on top of [190](/index.php/190 "190" ).)
+  * (del) (cur) [18:33, 3 July 2007](/media/0/0d/190_ramping.jpg "/media/0/0d/190 ramping.jpg" ) . . [Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) ([Talk](User_talk:Astronouth7303 "User talk:Astronouth7303" )) . . 325x324 (34065 bytes) ([987](987 "987" ) ramped on top of [190](190 "190" ).)
   
 
   * [Edit this file using an external application](/index.php?title=Image:190_ramping.jpg&action=edit&externaledit=true&mode=file "Image:190 ramping.jpg" )
@@ -36,5 +36,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [190](/index.php/190 "190" )
+  * [190](190 "190" )
 

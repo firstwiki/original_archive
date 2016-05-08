@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This person is an [Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung
+This person is an [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung
 FIRST Hero" ).
 
 Date Honored: 11-30-2005 Years involved w/FIRST: 4
@@ -93,9 +93,9 @@ Congratulations to Steve Rourke, our 47th Unsung FIRST Hero.
   
 
 |  **[![](/media/thumb/9/96/Ufhimage.jpg/43px-
-Ufhimage.jpg)](/index.php/Image:Ufhimage.jpg "" )** | This user is an
-**[Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
-[Honoree](/index.php/Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
+Ufhimage.jpg)](Image:Ufhimage.jpg "" )** | This user is an
+**[Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
+[Honoree](Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
 Heroes" )**. |  
 ---|---|---  
   

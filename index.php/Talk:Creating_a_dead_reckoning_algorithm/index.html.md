@@ -15,28 +15,28 @@ year, we got up on the platform in autonomous. With a full battery we failed
 to get up. After running 1 match, we got up. After 2 and 3 matches, we got our
 first wheel on the second platform, and after 4 and 5 matches, we got up on
 the first platform. It was only after that we failed again. So, how do other
-people tweake theirs? --[Sciencewhiz](/index.php/User:Sciencewhiz
+people tweake theirs? --[Sciencewhiz](User:Sciencewhiz
 "User:Sciencewhiz" ) 11:25, 12 Jul 2004 (EDT)
 
 * * *
 
 Is the name correct? We need some how-to naming standards. I don't like
 calling every how-to "creating a....". Well maybe I do, I'm not sure. Just
-trying to start a discussion. --[Max](/index.php/User:Max "User:Max" ) 13:48,
+trying to start a discussion. --[Max](User:Max "User:Max" ) 13:48,
 11 Jul 2004 (EDT)
 
 * * *
 
 when you are discussing step and time, where are they declared? and how is
 time supposed to work? Can you please clarify that section? (especialy since I
-think you have it wrong). --[Astronouth7303](/index.php/User:Astronouth7303
+think you have it wrong). --[Astronouth7303](User:Astronouth7303
 "User:Astronouth7303" ) 20:10, 10 Jul 2004 (EDT)
 
 In this code the timer variable is really counting processor cycles through
 the slow(26.2ms) loop. I tried to make tha tmore clear in a code comment. The
 article also discusses two potential placements for the variable
 assignments... Do you feel that this is unclear, or perhaps should be
-emphasized more? [Noah](/index.php/User:Noah "User:Noah" )
+emphasized more? [Noah](User:Noah "User:Noah" )
 
 
 ##  Formatting C Code
@@ -57,7 +57,7 @@ readability. A blank line leads to two different blocks, which in turn looks
 like they are different code blocks. My solution was to insert a line
 consisting of the space indent followed by a &amp;nbsp; (a nonbreaking space.)
 This is invisible to most users, while keeping the block intact. Is there a
-preferable way to do this? [Noah](/index.php/User:Noah "User:Noah" )
+preferable way to do this? [Noah](User:Noah "User:Noah" )
 
     wikipedia has the answer, as usual: [wikipedia:preprocessor](http://www.wikipedia.org/wiki/preprocessor "wikipedia:preprocessor" ). They use &lt;pre&gt;code goes here&lt;/pre&gt; around the code block. like so: 
     
@@ -81,5 +81,5 @@ preferable way to do this? [Noah](/index.php/User:Noah "User:Noah" )
     ask for
     
 
-\--[Max](/index.php/User:Max "User:Max" ) 00:42, 12 Jul 2004 (EDT)
+\--[Max](User:Max "User:Max" ) 00:42, 12 Jul 2004 (EDT)
 

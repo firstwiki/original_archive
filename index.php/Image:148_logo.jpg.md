@@ -37,7 +37,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [148](/index.php/148 "148" )
+  * [148](148 "148" )
 
 ## Metadata
 

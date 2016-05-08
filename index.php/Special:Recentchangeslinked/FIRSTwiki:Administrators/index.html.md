@@ -35,35 +35,35 @@ ators&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
 
 #### 16 March 2008
 
-  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66987&oldid=66986 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . m [FIRSTwiki:Nominations for adminship](/index.php/FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:06 . . [Stwalkerster](/index.php/User:Stwalkerster "User:Stwalkerster" ) ([Talk](/index.php?title=User_talk:Stwalkerster&action=edit "User talk:Stwalkerster" ) | [contribs](/index.php?title=Special:Contributions&target=Stwalkerster "Special:Contributions" )) ([→](/index.php/FIRSTwiki:Nominations_for_adminship#User:MindstormsKid.7CMindstormsKid "FIRSTwiki:Nominations for adminship" )[MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" ) - vote)
-  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66986&oldid=66942 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . [FIRSTwiki:Nominations for adminship](/index.php/FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:00 . . [MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" ) ([Talk](/index.php?title=User_talk:MindstormsKid&action=edit "User talk:MindstormsKid" ) | [contribs](/index.php?title=Special:Contributions&target=MindstormsKid "Special:Contributions" )) (adding nom)
+  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66987&oldid=66986 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . m [FIRSTwiki:Nominations for adminship](FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:06 . . [Stwalkerster](User:Stwalkerster "User:Stwalkerster" ) ([Talk](/index.php?title=User_talk:Stwalkerster&action=edit "User talk:Stwalkerster" ) | [contribs](/index.php?title=Special:Contributions&target=Stwalkerster "Special:Contributions" )) ([→](FIRSTwiki:Nominations_for_adminship#User:MindstormsKid.7CMindstormsKid "FIRSTwiki:Nominations for adminship" )[MindstormsKid](User:MindstormsKid "User:MindstormsKid" ) - vote)
+  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66986&oldid=66942 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . [FIRSTwiki:Nominations for adminship](FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:00 . . [MindstormsKid](User:MindstormsKid "User:MindstormsKid" ) ([Talk](/index.php?title=User_talk:MindstormsKid&action=edit "User talk:MindstormsKid" ) | [contribs](/index.php?title=Special:Contributions&target=MindstormsKid "Special:Contributions" )) (adding nom)
 
 #### 15 March 2008
 
-  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66942&oldid=42659 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . [FIRSTwiki:Nominations for adminship](/index.php/FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:07 . . [MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" ) ([Talk](/index.php?title=User_talk:MindstormsKid&action=edit "User talk:MindstormsKid" ) | [contribs](/index.php?title=Special:Contributions&target=MindstormsKid "Special:Contributions" )) ([→](/index.php/FIRSTwiki:Nominations_for_adminship#User:PeterFll.7CPeterFll_-_.27.27.27Accepted.21.27.27.27 "FIRSTwiki:Nominations for adminship" )[PeterFll](/index.php/User:PeterFll "User:PeterFll" ) \- '''Accepted!''')
+  * ([diff](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&diff=66942&oldid=42659 "FIRSTwiki:Nominations for adminship" )) ([hist](/index.php?title=FIRSTwiki:Nominations_for_adminship&curid=2193&action=history "FIRSTwiki:Nominations for adminship" )) . . [FIRSTwiki:Nominations for adminship](FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" ); 18:07 . . [MindstormsKid](User:MindstormsKid "User:MindstormsKid" ) ([Talk](/index.php?title=User_talk:MindstormsKid&action=edit "User talk:MindstormsKid" ) | [contribs](/index.php?title=Special:Contributions&target=MindstormsKid "Special:Contributions" )) ([→](FIRSTwiki:Nominations_for_adminship#User:PeterFll.7CPeterFll_-_.27.27.27Accepted.21.27.27.27 "FIRSTwiki:Nominations for adminship" )[PeterFll](User:PeterFll "User:PeterFll" ) \- '''Accepted!''')
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/FIRSTwiki:Administrators)
+  * [Special Page](Special:Recentchangeslinked/FIRSTwiki:Administrators)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -71,8 +71,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -80,7 +80,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

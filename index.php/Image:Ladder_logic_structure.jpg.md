@@ -23,7 +23,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [15:47, 15 June 2004](/media/c/ca/Ladder_logic_structure.jpg "/media/c/ca/Ladder logic structure.jpg" ) . . [Sciencewhiz](/index.php/User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" )) . . 583x394 (48415 bytes) (Ladder Loggic field and scoring structure)
+  * (del) (cur) [15:47, 15 June 2004](/media/c/ca/Ladder_logic_structure.jpg "/media/c/ca/Ladder logic structure.jpg" ) . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" )) . . 583x394 (48415 bytes) (Ladder Loggic field and scoring structure)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Ladder_logic_structure.jpg&action=edit&externaledit=true&mode=file "Image:Ladder logic structure.jpg" )
@@ -36,14 +36,14 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Ladder Logic](/index.php/Ladder_Logic "Ladder Logic" )
+  * [Ladder Logic](Ladder_Logic "Ladder Logic" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Image:Ladder_logic_structure.jpg>"
+"<http://www.firstwiki.netImage:Ladder_logic_structure.jpg>"
 
 ##### Views
 
-  * [File](/index.php/Image:Ladder_logic_structure.jpg)
+  * [File](Image:Ladder_logic_structure.jpg)
   * [Discussion](/index.php?title=Image_talk:Ladder_logic_structure.jpg&action=edit)
   * [Edit](/index.php?title=Image:Ladder_logic_structure.jpg&action=edit)
   * [History](/index.php?title=Image:Ladder_logic_structure.jpg&action=history)
@@ -52,17 +52,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Image:Ladder_logic_structure.jpg)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -70,10 +70,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Image:Ladder_logic_structure.jpg)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Image:Ladder_logic_structure.jpg)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Image:Ladder_logic_structure.jpg)
+  * [Related changes](Special:Recentchangeslinked/Image:Ladder_logic_structure.jpg)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Image:Ladder_logic_structure.jpg&printable=yes)
   * [Permanent link](/index.php?title=Image:Ladder_logic_structure.jpg&oldid=39487)
 
@@ -86,7 +86,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 15:50, 15 June 2004.
   * This page has been accessed 705 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

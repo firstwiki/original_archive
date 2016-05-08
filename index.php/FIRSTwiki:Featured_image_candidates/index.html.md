@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 _Discussion on this feature is happening on the [Community
-decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community
+decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community
 decisions" ) page._
 
 Below are the images submitted to be _feature image._ If you have any
@@ -22,7 +22,7 @@ Tier 2, etc.). To object to an image, move it one Tier down and provide
 suggestions. The image with the highest tier will go up as the featured image.
 
 You may also want to see the [FIRSTwiki:Featured
-images](/index.php/FIRSTwiki:Featured_images "FIRSTwiki:Featured images" )
+images](FIRSTwiki:Featured_images "FIRSTwiki:Featured images" )
 page so you don't accidentally vote for an image that was already featured.
 
   
@@ -57,15 +57,15 @@ on=4 "Edit section: Tier 2" )]
 ##  Tier 1
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Featured_image_candidates>"
+"<http://www.firstwiki.netFIRSTwiki:Featured_image_candidates>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3AFeatured_im
 age_candidates "Special:Categories" ): [Featured
-images](/index.php/Category:Featured_images "Category:Featured images" )
+images](Category:Featured_images "Category:Featured images" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Featured_image_candidates)
+  * [Project page](FIRSTwiki:Featured_image_candidates)
   * [Discussion](/index.php?title=FIRSTwiki_talk:Featured_image_candidates&action=edit)
   * [Edit](/index.php?title=FIRSTwiki:Featured_image_candidates&action=edit)
   * [History](/index.php?title=FIRSTwiki:Featured_image_candidates&action=history)
@@ -74,17 +74,17 @@ images](/index.php/Category:Featured_images "Category:Featured images" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Featured_image_candidates)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -92,10 +92,10 @@ images](/index.php/Category:Featured_images "Category:Featured images" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Featured_image_candidates)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Featured_image_candidates)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Featured_image_candidates)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Featured_image_candidates)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Featured_image_candidates&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Featured_image_candidates&oldid=80533)
 
@@ -108,7 +108,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 02:55, 15 June 2011.
   * This page has been accessed 537 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

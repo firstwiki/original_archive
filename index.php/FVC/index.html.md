@@ -6,26 +6,26 @@
 
 Jump to: navigation, search
 
-[![FIRST Vex Logo](/media/1/1d/VEX_logo.jpg)](/index.php/Image:VEX_logo.jpg
+[![FIRST Vex Logo](/media/1/1d/VEX_logo.jpg)](Image:VEX_logo.jpg
 "FIRST Vex Logo" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or section](http://www.firstwiki.net/ind
 ex.php?title=FIRST_Tech_Challenge&action=edit
 "http://www.firstwiki.net/index.php?title=FIRST_Tech_Challenge&action=edit" )
 by expanding it.**  
 Further information might be found on the [talk
-page](/index.php/Talk:FIRST_Tech_Challenge "Talk:FIRST Tech Challenge" ) or at
-[requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion
+page](Talk:FIRST_Tech_Challenge "Talk:FIRST Tech Challenge" ) or at
+[requests for expansion](FIRSTwiki:Requests_for_expansion
 "FIRSTwiki:Requests for expansion" ).  
 ---|---  
   
   
 The **FIRST Tech Challenge** (or **FTC**) is a robotics competition aimed at
 middle school and high school ages. Due to the fact that participating in the
-[FIRST Robotics Competition](/index.php/FIRST "FIRST" ) costs thousands of
+[FIRST Robotics Competition](FIRST "FIRST" ) costs thousands of
 dollars per year, FTC is a low-cost, portable alternative for schools. The
 competition was renamed to FTC in 2007, it was previously known as the **FIRST
 Vex Challenge** or **VTC**.
@@ -44,18 +44,18 @@ section: Origins of FVC" )]
 
 ##  Origins of FVC
 
-In 2003, [Innovation First, Inc.](/index.php/Innovation_First%2C_Inc.
-"Innovation First, Inc." ) released their [Robovation](/index.php/Robovation
+In 2003, [Innovation First, Inc.](Innovation_First%2C_Inc.
+"Innovation First, Inc." ) released their [Robovation](Robovation
 "Robovation" ) kits, the forerunner of the modern Vex kits. They utilized a
-smaller version of the FIRST [Robot Controller](/index.php/Robot_Controller
+smaller version of the FIRST [Robot Controller](Robot_Controller
 "Robot Controller" ), to facilitate in programming and building of full size
 FIRST Robots.
 
 In time, people realized that the Robovation kits would make for a cheaper
-version of the [FIRST Robotic Competitions](/index.php/Regional "Regional" ).
+version of the [FIRST Robotic Competitions](Regional "Regional" ).
 Thus began the collaboration between
 [RadioShack](http://www.wikipedia.org/wiki/RadioShack "wikipedia:RadioShack" )
-and [Innovation First](/index.php/Innovation_First%2C_Inc. "Innovation First,
+and [Innovation First](Innovation_First%2C_Inc. "Innovation First,
 Inc." ) to upgrade the Robovation to a commercially viable robotic kit.
 
 On April 17th, 2006, Innovation First announced their acquisition of the Vex
@@ -72,7 +72,7 @@ speculation about the new Vex robots, as the early teaser website had
 references to FIRST. By March 2005, FIRST had announced a new pilot Vex
 competition, open to 50 teams, to compete in a pilot Vex competition at the
 Georgia Dome, during the 2005 FIRST [Championship
-Event](/index.php/Championship_Event "Championship Event" ). There were 53 Vex
+Event](Championship_Event "Championship Event" ). There were 53 Vex
 teams which competed in the pilot competition.
 
 [[edit](/index.php?title=FIRST_Tech_Challenge&action=edit&section=3 "Edit
@@ -91,8 +91,8 @@ section: See also" )]
 
 ##  See also
 
-  * [Kit of parts (Vex)](/index.php/Kit_of_parts_%28Vex%29 "Kit of parts \(Vex\)" )
-  * [Index of events (Vex)](/index.php/Index_of_events_%28Vex%29 "Index of events \(Vex\)" )
+  * [Kit of parts (Vex)](Kit_of_parts_%28Vex%29 "Kit of parts \(Vex\)" )
+  * [Index of events (Vex)](Index_of_events_%28Vex%29 "Index of events \(Vex\)" )
 
 [[edit](/index.php?title=FIRST_Tech_Challenge&action=edit&section=5 "Edit
 section: External links" )]

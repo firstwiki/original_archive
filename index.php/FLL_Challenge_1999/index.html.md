@@ -22,5 +22,5 @@ Official Site: | [1999 FIRST
 Contact](http://www.firstlegoleague.org/default.aspx?pid=490
 "http://www.firstlegoleague.org/default.aspx?pid=490" )  
   
-**FIRST Contact** was the 1999 [FLL](/index.php/FLL "FLL" ) game. 
+**FIRST Contact** was the 1999 [FLL](FLL "FLL" ) game. 
 

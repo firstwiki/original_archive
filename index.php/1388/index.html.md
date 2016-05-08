@@ -5,10 +5,10 @@
 Jump to: navigation, search
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=1388&action=edit
 "http://www.firstwiki.net/index.php?title=1388&action=edit" )** this article.  
@@ -45,11 +45,11 @@ Team Website: | <http://www.eaglerobotics.com/>
 
 ###  How We Started
 
-Eagle Robotics, [FIRST](/index.php/FIRST "FIRST" ) team 1388, consists of
+Eagle Robotics, [FIRST](FIRST "FIRST" ) team 1388, consists of
 students from [Arroyo Grande High School](http://www.luciamar.k12.ca.us/aghs
 "http://www.luciamar.k12.ca.us/aghs" ) in Arroyo Grande, CA. The team was
 founded in 2004 with help from Team 973 GRR, under the leadership of Mr.
-[William Findley](/index.php/William_Findley "William Findley" ) who still is
+[William Findley](William_Findley "William Findley" ) who still is
 the team leader.
 
 
@@ -98,7 +98,7 @@ will be the next leaders of Eagle Robotics.
 
 ##  Robots
 
-  * [2004 - Zippy](/index.php/1388_in_2004 "1388 in 2004" ) (Team Leader Marvin Byrd) 
+  * [2004 - Zippy](1388_in_2004 "1388 in 2004" ) (Team Leader Marvin Byrd) 
   * [2005 - Sparky](/index.php?title=1388_in_2005&action=edit "1388 in 2005" ) (Team Leaders David Cruz/ Alice Grey) 
   * [2006 - Z^3](/index.php?title=1388_in_2006&action=edit "1388 in 2006" ) (Team Leaders David Cruz/ Alice Grey) 
   * [2007 - Lucky](/index.php?title=1388_in_2007&action=edit "1388 in 2007" ) (Team Leaders Garrett Tietz/ Bryan Quennell) 

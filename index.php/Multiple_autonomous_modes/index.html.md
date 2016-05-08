@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Multiple autonomous modes** can sometimes be better than a single [autonomous mode](/index.php/Autonomous_mode "Autonomous mode" ). Having a variety of options gives the robot the ability to change its strategy based on who the [alliance partner](/index.php?title=Alliance_partner&action=edit "Alliance partner" ) and [opposing alliance](/index.php?title=Opposing_alliance&action=edit "Opposing alliance" ) are. For instance, in the 2004 game [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" ), a robot might have an autonomous mode to track the [IR beacon](/index.php/IR_beacon "IR beacon" ) and knock down the "10 point ball" and another mode to travel forward at full speed and block the opposing alliance member from knocking over the ball. Both modes, obviously, would be useful depending on the circumstances of the match. There are disadvantages to having multiple autonomous modes, however. It means more code, which will take longer to [program](/index.php/Programming "Programming" ), and it means less time to test each individual autonomous mode. Both of these introduce the chance for more errors. But, despite the disadvantages, there are certainly many circumstances where having multiple autonomous modes is extremely useful. 
+**Multiple autonomous modes** can sometimes be better than a single [autonomous mode](Autonomous_mode "Autonomous mode" ). Having a variety of options gives the robot the ability to change its strategy based on who the [alliance partner](/index.php?title=Alliance_partner&action=edit "Alliance partner" ) and [opposing alliance](/index.php?title=Opposing_alliance&action=edit "Opposing alliance" ) are. For instance, in the 2004 game [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" ), a robot might have an autonomous mode to track the [IR beacon](IR_beacon "IR beacon" ) and knock down the "10 point ball" and another mode to travel forward at full speed and block the opposing alliance member from knocking over the ball. Both modes, obviously, would be useful depending on the circumstances of the match. There are disadvantages to having multiple autonomous modes, however. It means more code, which will take longer to [program](Programming "Programming" ), and it means less time to test each individual autonomous mode. Both of these introduce the chance for more errors. But, despite the disadvantages, there are certainly many circumstances where having multiple autonomous modes is extremely useful. 
 
 The main tasks involved with creating muliple autonomous modes are:
 
@@ -31,10 +31,10 @@ section: Selecting which autonomous mode to run" )]
 Having multiple autonomous modes is useless if there is no method to select
 between them. This can be as simple as a
 [switch](/index.php?title=Switch&action=edit "Switch" ) or
-[potentiometer](/index.php/Potentiometer "Potentiometer" ) on either the
-[RC](/index.php/RC "RC" ) or [OI](/index.php/OI "OI" ). Since the OI sends
+[potentiometer](Potentiometer "Potentiometer" ) on either the
+[RC](RC "RC" ) or [OI](OI "OI" ). Since the OI sends
 data to the RC before a match starts (while still
-[disabled](/index.php/Disabled "Disabled" )) it is usually the most attractive
+[disabled](Disabled "Disabled" )) it is usually the most attractive
 choice. This article assumes the selecting mechanism is on the OI. In order to
 implement this in the code, follow the following steps.
 
@@ -151,28 +151,28 @@ demands. Again, you'll have to write the various autonomous functions (e.g.,
 Auto1()). This is where the action occurs.
 
 _See also:_ [Extern keyword](/index.php?title=Extern_keyword&action=edit
-"Extern keyword" ), [Programming](/index.php/Programming "Programming" ),
-[Input](/index.php/Input "Input" )
+"Extern keyword" ), [Programming](Programming "Programming" ),
+[Input](Input "Input" )
 
 [[edit](/index.php?title=Multiple_autonomous_modes&action=edit&section=4 "Edit
 section: Resources" )]
 
 ## Resources
 
-  * Various [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) discussions ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=28211 "http://www.chiefdelphi.com/forums/showthread.php?t=28211" ), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=23519 "http://www.chiefdelphi.com/forums/showthread.php?t=23519" ), [[3]](http://www.chiefdelphi.com/forums/showthread.php?t=28237 "http://www.chiefdelphi.com/forums/showthread.php?t=28237" ) ...) 
+  * Various [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) discussions ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=28211 "http://www.chiefdelphi.com/forums/showthread.php?t=28211" ), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=23519 "http://www.chiefdelphi.com/forums/showthread.php?t=23519" ), [[3]](http://www.chiefdelphi.com/forums/showthread.php?t=28237 "http://www.chiefdelphi.com/forums/showthread.php?t=28237" ) ...) 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Multiple_autonomous_modes>"
+"<http://www.firstwiki.netMultiple_autonomous_modes>"
 
 [Categories](/index.php?title=Special:Categories&article=Multiple_autonomous_m
-odes "Special:Categories" ): [How-to](/index.php/Category:How-to "Category
-:How-to" ) | [Programming](/index.php/Category:Programming
+odes "Special:Categories" ): [How-to](Category:How-to "Category
+:How-to" ) | [Programming](Category:Programming
 "Category:Programming" )
 
 ##### Views
 
-  * [Article](/index.php/Multiple_autonomous_modes)
-  * [Discussion](/index.php/Talk:Multiple_autonomous_modes)
+  * [Article](Multiple_autonomous_modes)
+  * [Discussion](Talk:Multiple_autonomous_modes)
   * [Edit](/index.php?title=Multiple_autonomous_modes&action=edit)
   * [History](/index.php?title=Multiple_autonomous_modes&action=history)
 
@@ -180,17 +180,17 @@ odes "Special:Categories" ): [How-to](/index.php/Category:How-to "Category
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Multiple_autonomous_modes)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -198,10 +198,10 @@ odes "Special:Categories" ): [How-to](/index.php/Category:How-to "Category
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Multiple_autonomous_modes)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Multiple_autonomous_modes)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Multiple_autonomous_modes)
+  * [Related changes](Special:Recentchangeslinked/Multiple_autonomous_modes)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Multiple_autonomous_modes&printable=yes)
   * [Permanent link](/index.php?title=Multiple_autonomous_modes&oldid=39102)
 
@@ -214,7 +214,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 01:46, 16 June 2004.
   * This page has been accessed 1,393 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

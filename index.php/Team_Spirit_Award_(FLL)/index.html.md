@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-see also [FLL Awards](/index.php/FLL_Awards "FLL Awards" )
+see also [FLL Awards](FLL_Awards "FLL Awards" )
 
 From the FIRST LEGO League Website...
 
@@ -24,11 +24,11 @@ Page](http://www.firstlegoleague.org/default.aspx?pid=15930|
 "http://www.firstlegoleague.org/default.aspx?pid=15930|" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Team_Spirit_Award_%28FLL%29>"
+"<http://www.firstwiki.netTeam_Spirit_Award_%28FLL%29>"
 
 ##### Views
 
-  * [Article](/index.php/Team_Spirit_Award_%28FLL%29)
+  * [Article](Team_Spirit_Award_%28FLL%29)
   * [Discussion](/index.php?title=Talk:Team_Spirit_Award_%28FLL%29&action=edit)
   * [Edit](/index.php?title=Team_Spirit_Award_%28FLL%29&action=edit)
   * [History](/index.php?title=Team_Spirit_Award_%28FLL%29&action=history)
@@ -37,17 +37,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Team_Spirit_Award_\(FLL\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -55,10 +55,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Team_Spirit_Award_%28FLL%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Team_Spirit_Award_%28FLL%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Team_Spirit_Award_%28FLL%29)
+  * [Related changes](Special:Recentchangeslinked/Team_Spirit_Award_%28FLL%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Team_Spirit_Award_%28FLL%29&printable=yes)
   * [Permanent link](/index.php?title=Team_Spirit_Award_%28FLL%29&oldid=42817)
 
@@ -71,7 +71,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 18:55, 22 January 2006.
   * This page has been accessed 286 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

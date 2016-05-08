@@ -629,7 +629,7 @@ Related articles:
 
   * ['s family rushed to the scene of his body shipped back](http://www.ml141.com/forum/forum.php?mod=viewthread&tid=7410&extra= "http://www.ml141.com/forum/forum.php?mod=viewthread&tid=7410&extra=" )
   * [Xu Yong](http://453777.com/forum.php?mod=viewthread&tid=7994 "http://453777.com/forum.php?mod=viewthread&tid=7994" )
-  * [has the responsibility to each other to see a doctor](http://honeywiki.zavinagi.org/index.php/User:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor "http://honeywiki.zavinagi.org/index.php/User:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor" )
+  * [has the responsibility to each other to see a doctor](http://honeywiki.zavinagi.orgUser:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor "http://honeywiki.zavinagi.orgUser:Sfhis76zlk#has_the_responsibility_to_each_other_to_see_a_doctor" )
 
 
 ##  the incident that night
@@ -947,7 +947,7 @@ Related articles:
 
   * [and surgery.](http://entreprelearnial.com/index.php?title=User:Nihaoz4u3#and_surgery. "http://entreprelearnial.com/index.php?title=User:Nihaoz4u3#and_surgery." )
   * [Under the laws of Britain and other countries](http://www.xsjp.com.cn/bbs/forumdisplay.php?fid=65 "http://www.xsjp.com.cn/bbs/forumdisplay.php?fid=65" )
-  * [and also refused to talk about compensation](http://cms.engl.iastate.edu/help/index.php/User:W720adqsh#and_also_refused_to_talk_about_compensation "http://cms.engl.iastate.edu/help/index.php/User:W720adqsh#and_also_refused_to_talk_about_compensation" )
+  * [and also refused to talk about compensation](http://cms.engl.iastate.edu/helpUser:W720adqsh#and_also_refused_to_talk_about_compensation "http://cms.engl.iastate.edu/helpUser:W720adqsh#and_also_refused_to_talk_about_compensation" )
 
 
 ##  According to reports
@@ -1782,7 +1782,7 @@ Related articles:
 
   * [ It is understood that after the incident](http://www.nakuz.com/home/space.php?uid=989805&do=blog&id=1017587 "http://www.nakuz.com/home/space.php?uid=989805&do=blog&id=1017587" )
   * [Chen Batui before fleeing. Passing vehicles](http://www.cloudsurfing.com/site/1660-B2evolution/profile/ "http://www.cloudsurfing.com/site/1660-B2evolution/profile/" )
-  * [although not beating](http://wiki.taptica.com/index.php/User:%C2%BD%C3%B1%C3%88%C3%95%C3%8C%C3%98%C2%BC%C3%9B7#although_not_beating "http://wiki.taptica.com/index.php/User:%C2%BD%C3%B1%C3%88%C3%95%C3%8C%C3%98%C2%BC%C3%9B7#although_not_beating" )
+  * [although not beating](http://wiki.taptica.comUser:%C2%BD%C3%B1%C3%88%C3%95%C3%8C%C3%98%C2%BC%C3%9B7#although_not_beating "http://wiki.taptica.comUser:%C2%BD%C3%B1%C3%88%C3%95%C3%8C%C3%98%C2%BC%C3%9B7#although_not_beating" )
 
 
 ##  near the Jilin Chuanying North district
@@ -2601,9 +2601,9 @@ the murder of the detection mechanism.
 
 Related articles:
 
-  * [the rocker arm is not long enough](http://wdawe.com/index.php/ "http://wdawe.com/index.php/" )
+  * [the rocker arm is not long enough](http://wdawe.com "http://wdawe.com" )
   * [Defendant involved nine charges](http://bbs.shmohe.com/forumdisplay.php?fid=4 "http://bbs.shmohe.com/forumdisplay.php?fid=4" )
-  * [Humou repeatedly exclaimed](http://cdr.chicagobynight.org/CDR/index.php/User:Sfhis45ygr#Humou_repeatedly_exclaimed "http://cdr.chicagobynight.org/CDR/index.php/User:Sfhis45ygr#Humou_repeatedly_exclaimed" )
+  * [Humou repeatedly exclaimed](http://cdr.chicagobynight.org/CDRUser:Sfhis45ygr#Humou_repeatedly_exclaimed "http://cdr.chicagobynight.org/CDRUser:Sfhis45ygr#Humou_repeatedly_exclaimed" )
 
 
 ##  his near-legendary life experience
@@ -3708,7 +3708,7 @@ excellent manner.
 Related articles:
 
   * [Why Maiji](http://www.pinyou.us/thread-474-1-1.html "http://www.pinyou.us/thread-474-1-1.html" )
-  * [California on October 16.](http://www.the-back-row.com/index.php/2011/03/01/ "http://www.the-back-row.com/index.php/2011/03/01/" )
+  * [California on October 16.](http://www.the-back-row.com2011/03/01/ "http://www.the-back-row.com2011/03/01/" )
   * [Recently](http://tougao.cfan.com.cn/forum.php?mod=viewthread&tid=40443 "http://tougao.cfan.com.cn/forum.php?mod=viewthread&tid=40443" )
 
 
@@ -3965,7 +3965,7 @@ Power: claims ranked first
 
 Related articles:
 
-  * [and previously in the second prize of a Note](http://www.mood.mrbutterfly.fr/index.php/members/home "http://www.mood.mrbutterfly.fr/index.php/members/home" )
+  * [and previously in the second prize of a Note](http://www.mood.mrbutterfly.frmembers/home "http://www.mood.mrbutterfly.frmembers/home" )
   * [and said many things](http://www.maison-nicolas-perrin.com/2012/06/stirring-the-lees-with-james-molesworth.php#comments "http://www.maison-nicolas-perrin.com/2012/06/stirring-the-lees-with-james-molesworth.php#comments" )
   * [plates and stop smashed in the door of the house](http://www.premiermindset.com/turnkey/blog.php?user=nihaoz4z0&blogentry_id=189026 "http://www.premiermindset.com/turnkey/blog.php?user=nihaoz4z0&blogentry_id=189026" )
 
@@ -3991,7 +3991,7 @@ do chromosome check.
 
 Related articles:
 
-  * [the bed can also be opened. "Xu Yan said](http://hacktivision.com/index.php/ "http://hacktivision.com/index.php/" )
+  * [the bed can also be opened. "Xu Yan said](http://hacktivision.com "http://hacktivision.com" )
   * [40-year-old harbor area](http://szyxtx.net/forum.php?mod=viewthread&tid=9076 "http://szyxtx.net/forum.php?mod=viewthread&tid=9076" )
   * [the risk is smaller and less costly](http://www.younggayamerica.net/activity/p/1302/ "http://www.younggayamerica.net/activity/p/1302/" )
 
@@ -5244,7 +5244,7 @@ Related articles:
 
   * [rang the doorbell](http://gxrenfa.com/bbs/boke.asp?nihaoz3b6.showtopic.5963.html "http://gxrenfa.com/bbs/boke.asp?nihaoz3b6.showtopic.5963.html" )
   * [we have one place to another'. Then took the girl to leave."](http://loiteringwriters.com/activity/p/56167/ "http://loiteringwriters.com/activity/p/56167/" )
-  * ['s right front tire puncture](http://www.yoosabuy.com/index.php/members/home "http://www.yoosabuy.com/index.php/members/home" )
+  * ['s right front tire puncture](http://www.yoosabuy.commembers/home "http://www.yoosabuy.commembers/home" )
 
 
 ##  Do you remember what your year to take the exam
@@ -5783,7 +5783,7 @@ fell,[マーキュリアル ヴェイパー](http://www.socceritemshop.com
 "http://www.socceritemshop.com" ), and 120 died. &lt;/p&gt; Related articles:
 
   * [ According to Zhong'an Online](http://cinsinc.com/activity/p/59895/ "http://cinsinc.com/activity/p/59895/" )
-  * [but than expected. "](http://wiki.mytype.com/index.php/User:%C2%BD%C3%B1%C3%88%C3%95869r#but_than_expected._.22 "http://wiki.mytype.com/index.php/User:%C2%BD%C3%B1%C3%88%C3%95869r#but_than_expected._.22" )
+  * [but than expected. "](http://wiki.mytype.comUser:%C2%BD%C3%B1%C3%88%C3%95869r#but_than_expected._.22 "http://wiki.mytype.comUser:%C2%BD%C3%B1%C3%88%C3%95869r#but_than_expected._.22" )
   * [Chen Maoguo defense lawyer Xiongren Qin quoted Chen Maoguo this objection](http://www.arm9home.net/read.php?tid-974.html "http://www.arm9home.net/read.php?tid-974.html" )
 
 
@@ -6228,7 +6228,7 @@ younger brother spare.
 
 Related articles:
 
-  * [but does not fight back. Then](http://franciumsoft.net23.net/index.php/User:W642smksh#but_does_not_fight_back._Then "http://franciumsoft.net23.net/index.php/User:W642smksh#but_does_not_fight_back._Then" )
+  * [but does not fight back. Then](http://franciumsoft.net23.netUser:W642smksh#but_does_not_fight_back._Then "http://franciumsoft.net23.netUser:W642smksh#but_does_not_fight_back._Then" )
   * ['s Report](http://blog.ispfun.com/2012/01/red-hot-beauty-shruti-hassan/ "http://blog.ispfun.com/2012/01/red-hot-beauty-shruti-hassan/" )
   * ["This is the most suitable college freshmen](http://hox.cc/forum.php?mod=viewthread&tid=49993&extra= "http://hox.cc/forum.php?mod=viewthread&tid=49993&extra=" )
 
@@ -6714,8 +6714,8 @@ and postoperative recovery was something else.
 
 Related articles:
 
-  * [studies problems of the suicide note left behind](http://wiki.nokods.org/wiki/index.php/User:W854abzsh#studies_problems_of_the_suicide_note_left_behind "http://wiki.nokods.org/wiki/index.php/User:W854abzsh#studies_problems_of_the_suicide_note_left_behind" )
-  * [no one to rescue](http://www.nwcouncil.org/blog/index.php/2011/06/high-runoff-prompts-flooding-power-concerns/ "http://www.nwcouncil.org/blog/index.php/2011/06/high-runoff-prompts-flooding-power-concerns/" )
+  * [studies problems of the suicide note left behind](http://wiki.nokods.org/wikiUser:W854abzsh#studies_problems_of_the_suicide_note_left_behind "http://wiki.nokods.org/wikiUser:W854abzsh#studies_problems_of_the_suicide_note_left_behind" )
+  * [no one to rescue](http://www.nwcouncil.org/blog2011/06/high-runoff-prompts-flooding-power-concerns/ "http://www.nwcouncil.org/blog2011/06/high-runoff-prompts-flooding-power-concerns/" )
   * [Provincial Academy of Social Sciences](http://www.lsqlw.org/plus/view.php?aid=106389 "http://www.lsqlw.org/plus/view.php?aid=106389" )
 
 
@@ -7230,7 +7230,7 @@ plastic quality steam pistol, with a certain mass destruction, is the
 contraband. &lt;/p&gt; Related articles:
 
   * [but there the sea](http://wiki.gbayl.com/index.php?title=User:Sfhis00ecj#but_there_the_sea "http://wiki.gbayl.com/index.php?title=User:Sfhis00ecj#but_there_the_sea" )
-  * [and thought he was dying](http://www.margsanimals.com/blogs/index.php/blogs/ "http://www.margsanimals.com/blogs/index.php/blogs/" )
+  * [and thought he was dying](http://www.margsanimals.com/blogsblogs/ "http://www.margsanimals.com/blogsblogs/" )
   * [all these years you have friends Thought a home](http://www.xwff.net/viewthread.php?tid=63174&extra= "http://www.xwff.net/viewthread.php?tid=63174&extra=" )
 
 
@@ -7688,7 +7688,7 @@ Related articles:
 
   * [but found that he spoke ambiguous walking](http://papaz.eu/blogs/posts/nihaoz7r2 "http://papaz.eu/blogs/posts/nihaoz7r2" )
   * [Huai'an Municipal department heads said that this proposal](http://boy168.tw/thread-417518-1-1.html "http://boy168.tw/thread-417518-1-1.html" )
-  * [punitive damages](http://firstwiki.net/index.php/User:P26z77a22 "http://firstwiki.net/index.php/User:P26z77a22" )
+  * [punitive damages](http://firstwiki.netUser:P26z77a22 "http://firstwiki.netUser:P26z77a22" )
 
 
 ##  post online
@@ -8697,7 +8697,7 @@ daughter to find a destination.
 Related articles:
 
   * [but the face of more than 10 million surgical gap](http://atheistica.com/2012/04/01/tunisian-atheists-sentenced-to-seven-and-a-half-years-of-prison/ "http://atheistica.com/2012/04/01/tunisian-atheists-sentenced-to-seven-and-a-half-years-of-prison/" )
-  * [help delete posts about Liu Jia old tricks. But this time](http://blogs.themiamihurricane.com/index.php/2010/05/10/you-got-to-educate-the-youngn-s?blog=24#comments "http://blogs.themiamihurricane.com/index.php/2010/05/10/you-got-to-educate-the-youngn-s?blog=24#comments" )
+  * [help delete posts about Liu Jia old tricks. But this time](http://blogs.themiamihurricane.com2010/05/10/you-got-to-educate-the-youngn-s?blog=24#comments "http://blogs.themiamihurricane.com2010/05/10/you-got-to-educate-the-youngn-s?blog=24#comments" )
   * [knives who a lot of blood](http://christianradionewsroom.org/outreach/blog1.php/holidays/ "http://christianradionewsroom.org/outreach/blog1.php/holidays/" )
 
 
@@ -9365,7 +9365,7 @@ costs.
 
 Related articles:
 
-  * [and ask for help to find. Police to understand that](http://scripturepedia.com/index.php/User:Sfhis00lvx#and_ask_for_help_to_find._Police_to_understand_that "http://scripturepedia.com/index.php/User:Sfhis00lvx#and_ask_for_help_to_find._Police_to_understand_that" )
+  * [and ask for help to find. Police to understand that](http://scripturepedia.comUser:Sfhis00lvx#and_ask_for_help_to_find._Police_to_understand_that "http://scripturepedia.comUser:Sfhis00lvx#and_ask_for_help_to_find._Police_to_understand_that" )
   * [has been unable to accept the award. No way](http://old.khiclub.com/blogs/1199/14637/that-a-few-days-ago "http://old.khiclub.com/blogs/1199/14637/that-a-few-days-ago" )
   * [there is no quality problem](http://singlesnetcam.com/blogs/posts/W453ixlsh "http://singlesnetcam.com/blogs/posts/W453ixlsh" )
 

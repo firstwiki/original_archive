@@ -23,8 +23,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/William_Findley&limit=500&from=0
 "Special:Whatlinkshere/William Findley" )).
 
-  * [Index of people](/index.php/Index_of_people "Index of people" )
-  * [1388](/index.php/1388 "1388" )
+  * [Index of people](Index_of_people "Index of people" )
+  * [1388](1388 "1388" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/William_Findley&limit=20&from=0
 "Special:Whatlinkshere/William Findley" ) |

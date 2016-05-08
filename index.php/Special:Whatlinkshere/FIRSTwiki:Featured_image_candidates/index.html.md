@@ -27,9 +27,9 @@ imit=250&from=0 "Special:Whatlinkshere/FIRSTwiki:Featured image candidates" )
 ates&limit=500&from=0 "Special:Whatlinkshere/FIRSTwiki:Featured image
 candidates" )).
 
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [Template:Featureimage](/index.php/Template:Featureimage "Template:Featureimage" )
-  * [FIRSTwiki:Featured images](/index.php/FIRSTwiki:Featured_images "FIRSTwiki:Featured images" )
+  * [Main Page](Main_Page "Main Page" )
+  * [Template:Featureimage](Template:Featureimage "Template:Featureimage" )
+  * [FIRSTwiki:Featured images](FIRSTwiki:Featured_images "FIRSTwiki:Featured images" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/FIRS
 Twiki:Featured_image_candidates&limit=20&from=0
 "Special:Whatlinkshere/FIRSTwiki:Featured image candidates" ) | [50](/index.ph

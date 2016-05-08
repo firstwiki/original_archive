@@ -20,10 +20,10 @@ various materials.
 ##  Overview
 
 [![Electric handheld drill](/media/thumb/8/8c/Drill1.JPG/180px-
-Drill1.JPG)](/index.php/Image:Drill1.JPG "Electric handheld drill" )
+Drill1.JPG)](Image:Drill1.JPG "Electric handheld drill" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Drill1.JPG "Enlarge" )
+clip.png)](Image:Drill1.JPG "Enlarge" )
 
 Electric handheld drill
 
@@ -37,10 +37,10 @@ drills or auger bits) or grinding off small particles (oil drilling).
 
 Hand-held electric drills are ubiquitous. They usually look like a pistol,
 with a trigger-like switch. They are also used for driving screws. These
-drills typically employ a universal [motor](/index.php/Motor "Motor" ) with
+drills typically employ a universal [motor](Motor "Motor" ) with
 brushes. Modern variable speed drills contain solid state phase control
 circuits that limit their use to AC power only. As a tradeoff, the electronics
-now give them variable speed, reversibility and [torque](/index.php/Torque
+now give them variable speed, reversibility and [torque](Torque
 "Torque" ) control. Many drills are also cordless and use rechargeable
 batteries.
 
@@ -48,10 +48,10 @@ batteries.
 ###  Drill press
 
 [![Drill press](/media/thumb/f/fe/Drillpress1.jpg/180px-
-Drillpress1.jpg)](/index.php/Image:Drillpress1.jpg "Drill press" )
+Drillpress1.jpg)](Image:Drillpress1.jpg "Drill press" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Drillpress1.jpg "Enlarge" )
+clip.png)](Image:Drillpress1.jpg "Enlarge" )
 
 Drill press
 
@@ -78,9 +78,9 @@ range. This makes selecting the correct spindle speed more likely.
 
 ##  Safety
 
-  * Always wear [eye protection](/index.php/Eye_protection "Eye protection" )
+  * Always wear [eye protection](Eye_protection "Eye protection" )
   * Keep loose clothing away from the spinning parts 
-  * Be mindful of hands and body parts, as the drill bit goes through hands as well as [aluminum](/index.php/Aluminum "Aluminum" )
+  * Be mindful of hands and body parts, as the drill bit goes through hands as well as [aluminum](Aluminum "Aluminum" )
 
 
 ##  External links
@@ -88,13 +88,13 @@ range. This makes selecting the correct spindle speed more likely.
   * [Drill on Wikipedia](http://en.wikipedia.org/wiki/Drill "http://en.wikipedia.org/wiki/Drill" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Drill&action=edit
 "http://www.firstwiki.net/index.php?title=Drill&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

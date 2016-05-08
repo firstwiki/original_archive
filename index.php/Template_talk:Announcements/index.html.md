@@ -11,15 +11,15 @@ the FLL forum inviting teams to create pages on FIRSTwiki and updating FLL
 content. Hopefully that will generate some page edits. Thought it would be
 nice if first thing they notice is an FLL announcement. I didn't remove any
 announcements as I wouldn't know what takes precedence, but it is getting a
-bit longish. Regards, --[PeterFll](/index.php/User:PeterFll "User:PeterFll" )
+bit longish. Regards, --[PeterFll](User:PeterFll "User:PeterFll" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Template_talk:Announcements>"
+"<http://www.firstwiki.netTemplate_talk:Announcements>"
 
 ##### Views
 
-  * [Template](/index.php/Template:Announcements)
-  * [Discussion](/index.php/Template_talk:Announcements)
+  * [Template](Template:Announcements)
+  * [Discussion](Template_talk:Announcements)
   * [Edit](/index.php?title=Template_talk:Announcements&action=edit)
   * [+](/index.php?title=Template_talk:Announcements&action=edit&section=new)
   * [History](/index.php?title=Template_talk:Announcements&action=history)
@@ -28,17 +28,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Template_talk:Announcements)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -46,10 +46,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Template_talk:Announcements)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Template_talk:Announcements)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Template_talk:Announcements)
+  * [Related changes](Special:Recentchangeslinked/Template_talk:Announcements)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Template_talk:Announcements&printable=yes)
   * [Permanent link](/index.php?title=Template_talk:Announcements&oldid=40707)
 
@@ -62,7 +62,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 02:37, 13 September 2005.
   * This page has been accessed 396 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

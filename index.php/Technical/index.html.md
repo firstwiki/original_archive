@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -15,28 +15,28 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Technical&action=edit
 "http://www.firstwiki.net/index.php?title=Technical&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
   
   
-Technical topics involved in [FIRST](/index.php/FIRST "FIRST" ) include:
+Technical topics involved in [FIRST](FIRST "FIRST" ) include:
 
-  * [Animation](/index.php/Animation "Animation" )
-  * [Autodesk Inventor](/index.php/Autodesk_Inventor "Autodesk Inventor" )
-  * [Built by Design](/index.php/Built_by_Design "Built by Design" )
-  * [Control system](/index.php/Control_system "Control system" )
-  * [Drive train](/index.php/Drive_train "Drive train" )
-  * [Electronics and Circuitry](/index.php/Electronics_and_circuitry "Electronics and circuitry" )
-  * [Fabrication](/index.php/Fabrication "Fabrication" )
-  * [Kit of Parts](/index.php/Kit_of_parts "Kit of parts" )
-  * [Motors](/index.php/Motors "Motors" )
-  * [Physics](/index.php/Physics "Physics" )
-  * [Pneumatics](/index.php/Pneumatics "Pneumatics" )
-  * [Programming](/index.php/Programming "Programming" )
-  * [Simulation](/index.php/Simulation "Simulation" )
-  * [Terminology](/index.php/Terminology "Terminology" )
+  * [Animation](Animation "Animation" )
+  * [Autodesk Inventor](Autodesk_Inventor "Autodesk Inventor" )
+  * [Built by Design](Built_by_Design "Built by Design" )
+  * [Control system](Control_system "Control system" )
+  * [Drive train](Drive_train "Drive train" )
+  * [Electronics and Circuitry](Electronics_and_circuitry "Electronics and circuitry" )
+  * [Fabrication](Fabrication "Fabrication" )
+  * [Kit of Parts](Kit_of_parts "Kit of parts" )
+  * [Motors](Motors "Motors" )
+  * [Physics](Physics "Physics" )
+  * [Pneumatics](Pneumatics "Pneumatics" )
+  * [Programming](Programming "Programming" )
+  * [Simulation](Simulation "Simulation" )
+  * [Terminology](Terminology "Terminology" )
 
 
 ## External Links

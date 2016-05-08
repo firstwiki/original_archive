@@ -6,14 +6,14 @@
 
 Jump to: navigation, search
 
-    _[FIRST Lego League](/index.php/FIRST_Lego_League "FIRST Lego League" ) also has a page about [Pneumatics](/index.php/Pneumatics_%28FLL%29 "Pneumatics \(FLL\)" )._
+    _[FIRST Lego League](FIRST_Lego_League "FIRST Lego League" ) also has a page about [Pneumatics](Pneumatics_%28FLL%29 "Pneumatics \(FLL\)" )._
 
 [Pneumatics](http://www.wikipedia.org/wiki/Pneumatics "wikipedia:Pneumatics" )
-[![Image:Extlinkwikipedia.GIF](/media/c/cb/Extlinkwikipedia.GIF)](/index.php/I
+[![Image:Extlinkwikipedia.GIF](/media/c/cb/Extlinkwikipedia.GIF)](I
 mage:Extlinkwikipedia.GIF "Image:Extlinkwikipedia.GIF" ) is a system in which
 pressurized gases (air in the case of FIRST), are used to move actuators such
-as [cylinders](/index.php/Cylinder "Cylinder" ) or [rotary
-actuators](/index.php/Rotary_actuator "Rotary actuator" ).
+as [cylinders](Cylinder "Cylinder" ) or [rotary
+actuators](Rotary_actuator "Rotary actuator" ).
 
 ## Contents
 
@@ -26,13 +26,13 @@ actuators](/index.php/Rotary_actuator "Rotary actuator" ).
 
 ## Components
 
-  * [Cylinders](/index.php/Cylinder "Cylinder" )
-  * [Solenoid](/index.php/Solenoid "Solenoid" ) Valve(s) 
-  * [Compressor](/index.php/Compressor "Compressor" )
-  * [Storage tank](/index.php/Storage_tank "Storage tank" )(s) 
-  * [Rotary actuator](/index.php/Rotary_actuator "Rotary actuator" )
-  * [Pressure regulators](/index.php/Pressure_regulator "Pressure regulator" )
-  * [Pressure switch](/index.php/Pressure_switch "Pressure switch" )
+  * [Cylinders](Cylinder "Cylinder" )
+  * [Solenoid](Solenoid "Solenoid" ) Valve(s) 
+  * [Compressor](Compressor "Compressor" )
+  * [Storage tank](Storage_tank "Storage tank" )(s) 
+  * [Rotary actuator](Rotary_actuator "Rotary actuator" )
+  * [Pressure regulators](Pressure_regulator "Pressure regulator" )
+  * [Pressure switch](Pressure_switch "Pressure switch" )
 
 
 ## Advantages
@@ -51,8 +51,8 @@ actuators](/index.php/Rotary_actuator "Rotary actuator" ).
 ## Disadvantages
 
   * Large initial weight cost 
-    * [Compressor](/index.php/Compressor "Compressor" )
-    * [Storage tank](/index.php/Storage_tank "Storage tank" )(s) 
+    * [Compressor](Compressor "Compressor" )
+    * [Storage tank](Storage_tank "Storage tank" )(s) 
   * Routing hoses can be difficult 
   * Total power/energy output is less than that achievable with motors 
   * Frequent use will drop air pressure faster than the compressor can raise it, resulting in a severe performance drop. 
@@ -67,7 +67,7 @@ actuators](/index.php/Rotary_actuator "Rotary actuator" ).
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -75,16 +75,16 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Pneumatics&action=edit
 "http://www.firstwiki.net/index.php?title=Pneumatics&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
 _****Pneumatics** Parts:**_  
-[Cylinder](/index.php/Cylinder "Cylinder" ) | [Solenoid](/index.php/Solenoid
-"Solenoid" ) | [Compressor](/index.php/Compressor "Compressor" ) | [Storage
-tank](/index.php/Storage_tank "Storage tank" ) | [Rotary
-actuator](/index.php/Rotary_actuator "Rotary actuator" ) | [Pressure
-regulator](/index.php/Pressure_regulator "Pressure regulator" ) | [Pressure
-switch](/index.php/Pressure_switch "Pressure switch" )  
+[Cylinder](Cylinder "Cylinder" ) | [Solenoid](Solenoid
+"Solenoid" ) | [Compressor](Compressor "Compressor" ) | [Storage
+tank](Storage_tank "Storage tank" ) | [Rotary
+actuator](Rotary_actuator "Rotary actuator" ) | [Pressure
+regulator](Pressure_regulator "Pressure regulator" ) | [Pressure
+switch](Pressure_switch "Pressure switch" )  
 ---  
   

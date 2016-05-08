@@ -22,10 +22,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/9&limit=500&from=0
 "Special:Whatlinkshere/9" )).
 
-  * [Index of teams](/index.php/Index_of_teams "Index of teams" )
-  * [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" )
-  * [Index of teams by age](/index.php/Index_of_teams_by_age "Index of teams by age" )
-  * [FIRSTwiki:Contact-A-Thon/List](/index.php/FIRSTwiki:Contact-A-Thon/List "FIRSTwiki:Contact-A-Thon/List" )
+  * [Index of teams](Index_of_teams "Index of teams" )
+  * [Index of teams by region](Index_of_teams_by_region "Index of teams by region" )
+  * [Index of teams by age](Index_of_teams_by_age "Index of teams by age" )
+  * [FIRSTwiki:Contact-A-Thon/List](FIRSTwiki:Contact-A-Thon/List "FIRSTwiki:Contact-A-Thon/List" )
   * [Team 9](/index.php?title=Team_9&redirect=no "Team 9" ) (redirect page) 
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/9&limit=20&from=0

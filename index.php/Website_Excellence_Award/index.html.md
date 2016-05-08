@@ -12,92 +12,92 @@ rg/2004comp/2004_website_award_scoring_sheet.pdf
 Website Excellence Award winners recieve a button to put on their website.
 
 In 2004, 75 teams won a Website Excellence Award. 23 additional teams won a
-[Best Website Award](/index.php/Best_Website_Award "Best Website Award" ) at
-[regional competitions](/index.php/Regional "Regional" ).
+[Best Website Award](Best_Website_Award "Best Website Award" ) at
+[regional competitions](Regional "Regional" ).
 
 [[edit](/index.php?title=Website_Excellence_Award&action=edit&section=1 "Edit
 section: 2004 Winners" )]
 
 ## 2004 Winners
 
-  * [21](/index.php/21 "21" ) \- <http://www.combbat21.com/>
-  * [47](/index.php/47 "47" ) \- <http://team.chiefdelphi.com>
-  * [48](/index.php/48 "48" ) \- <http://www.delphielite.com/>
-  * [96](/index.php/96 "96" ) \- <http://www.team96.org/>
-  * [173](/index.php/173 "173" ) \- <http://www.rage173.org/>
-  * [217](/index.php/217 "217" ) \- <http://www.thunderchickens.org/>
-  * [222](/index.php/222 "222" ) \- <http://www.tigertrons.com/>
-  * [229](/index.php/229 "229" ) \- <http://www.clarkson.edu/projects/usfirst/>
-  * [341](/index.php/341 "341" ) \- <http://www.team341.com/>
-  * [343](/index.php/343 "343" ) \- <http://www.metalinmotion.com/>
-  * [383](/index.php/383 "383" ) \- <http://www.colegioprovincia.com.br/robotica/ing/home_robotica.aspx>
-  * [616](/index.php/616 "616" ) \- <http://ircorp.fnsnet.net/>
-  * [639](/index.php/639 "639" ) \- <http://www.team639.org/>
-  * [1097](/index.php/1097 "1097" ) \- <http://robotics.jhs.net/>
-  * [1110](/index.php/1110 "1110" ) \- <http://www.angelfire.com/electronic2/hhsrobotics/>
-  * [1168](/index.php/1168 "1168" ) \- <http://www.friarbot.com/>
+  * [21](21 "21" ) \- <http://www.combbat21.com/>
+  * [47](47 "47" ) \- <http://team.chiefdelphi.com>
+  * [48](48 "48" ) \- <http://www.delphielite.com/>
+  * [96](96 "96" ) \- <http://www.team96.org/>
+  * [173](173 "173" ) \- <http://www.rage173.org/>
+  * [217](217 "217" ) \- <http://www.thunderchickens.org/>
+  * [222](222 "222" ) \- <http://www.tigertrons.com/>
+  * [229](229 "229" ) \- <http://www.clarkson.edu/projects/usfirst/>
+  * [341](341 "341" ) \- <http://www.team341.com/>
+  * [343](343 "343" ) \- <http://www.metalinmotion.com/>
+  * [383](383 "383" ) \- <http://www.colegioprovincia.com.br/robotica/ing/home_robotica.aspx>
+  * [616](616 "616" ) \- <http://ircorp.fnsnet.net/>
+  * [639](639 "639" ) \- <http://www.team639.org/>
+  * [1097](1097 "1097" ) \- <http://robotics.jhs.net/>
+  * [1110](1110 "1110" ) \- <http://www.angelfire.com/electronic2/hhsrobotics/>
+  * [1168](1168 "1168" ) \- <http://www.friarbot.com/>
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more content](http://www.firstwiki.net/index.php?title=Website_Exc
 ellence_Award&action=edit "http://www.firstwiki.net/index.php?title=Website_Ex
 cellence_Award&action=edit" ) to make a significant article. If you'd like to
 add to more stubs, look at the list of [short
-articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   
   
 
-[Awards](/index.php/Awards "Awards" )  
+[Awards](Awards "Awards" )  
 ---  
 **Team Awards**   
-[Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" ) |
-[Engineering Inspiration Award](/index.php/Engineering_Inspiration_Award
+[Chairman's Award](Chairman%27s_Award "Chairman's Award" ) |
+[Engineering Inspiration Award](Engineering_Inspiration_Award
 "Engineering Inspiration Award" ) | [Championship
-Winner](/index.php/Championship_Winner "Championship Winner" ) | [Championship
-Finalist](/index.php/Championship_Finalist "Championship Finalist" ) |
-[Regional Winner](/index.php/Regional_Winner "Regional Winner" ) | [Regional
-Finalist](/index.php/Regional_Finalist "Regional Finalist" ) | [Autodesk
-Visualization Award](/index.php/Autodesk_Visualization_Award "Autodesk
+Winner](Championship_Winner "Championship Winner" ) | [Championship
+Finalist](Championship_Finalist "Championship Finalist" ) |
+[Regional Winner](Regional_Winner "Regional Winner" ) | [Regional
+Finalist](Regional_Finalist "Regional Finalist" ) | [Autodesk
+Visualization Award](Autodesk_Visualization_Award "Autodesk
 Visualization Award" ) | [Autodesk Inventor
-Award](/index.php/Autodesk_Inventor_Award "Autodesk Inventor Award" ) |
-[Website Design Award](/index.php/Website_Design_Award "Website Design Award"
-) | [Judges' Award](/index.php/Judges%27_Award "Judges' Award" ) | [Imagery
-Award](/index.php/Imagery_Award "Imagery Award" ) | [Underwriter's
+Award](Autodesk_Inventor_Award "Autodesk Inventor Award" ) |
+[Website Design Award](Website_Design_Award "Website Design Award"
+) | [Judges' Award](Judges%27_Award "Judges' Award" ) | [Imagery
+Award](Imagery_Award "Imagery Award" ) | [Underwriter's
 Laboratories Industrial Safety
-Award](/index.php/Underwriter%27s_Laboratories_Industrial_Safety_Award
+Award](Underwriter%27s_Laboratories_Industrial_Safety_Award
 "Underwriter's Laboratories Industrial Safety Award" ) | [Kleiner Perkins
 Caufield &amp; Byers Entrepreneurship
-Award](/index.php/Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award
+Award](Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award
 "Kleiner Perkins Caufield & Byers Entrepreneurship Award" ) | [DaimlerChrysler
-Team Spirit Award](/index.php/DaimlerChrysler_Team_Spirit_Award
+Team Spirit Award](DaimlerChrysler_Team_Spirit_Award
 "DaimlerChrysler Team Spirit Award" ) | [General Motors Industrial Design
-Award](/index.php/General_Motors_Industrial_Design_Award "General Motors
+Award](General_Motors_Industrial_Design_Award "General Motors
 Industrial Design Award" ) | [Delphi "Driving Tomorrow's Technology"
-Award](/index.php/Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi
+Award](Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi
 "Driving Tomorrow's Technology" Award" ) | [Johnson &amp; Johnson
-Sportsmanship Award](/index.php/Johnson_%26_Johnson_Sportsmanship_Award
+Sportsmanship Award](Johnson_%26_Johnson_Sportsmanship_Award
 "Johnson & Johnson Sportsmanship Award" ) | [Motorola Quality
-Award](/index.php/Motorola_Quality_Award "Motorola Quality Award" ) |
+Award](Motorola_Quality_Award "Motorola Quality Award" ) |
 [RadioShack Innovation in Control
-Award](/index.php/RadioShack_Innovation_in_Control_Award "RadioShack
+Award](RadioShack_Innovation_in_Control_Award "RadioShack
 Innovation in Control Award" ) | [Xerox Creativity
-Award](/index.php/Xerox_Creativity_Award "Xerox Creativity Award" ) |
+Award](Xerox_Creativity_Award "Xerox Creativity Award" ) |
 [Rockwell Automation Innovation in Control
-Award](/index.php/Rockwell_Automation_Innovation_in_Control_Award "Rockwell
+Award](Rockwell_Automation_Innovation_in_Control_Award "Rockwell
 Automation Innovation in Control Award" ) | [Rookie Inspiration
-Award](/index.php/Rookie_Inspiration_Award "Rookie Inspiration Award" ) |
-[Rookie All-Star Award](/index.php/Rookie_All-Star_Award "Rookie All-Star
-Award" ) | [Highest Rookie Seed Award](/index.php/Highest_Rookie_Seed_Award
+Award](Rookie_Inspiration_Award "Rookie Inspiration Award" ) |
+[Rookie All-Star Award](Rookie_All-Star_Award "Rookie All-Star
+Award" ) | [Highest Rookie Seed Award](Highest_Rookie_Seed_Award
 "Highest Rookie Seed Award" )  
 **Team Member Awards**   
-[Woodie Flowers Award](/index.php/Woodie_Flowers_Award "Woodie Flowers Award"
-) | [The Allaire Medal](/index.php/The_Allaire_Medal "The Allaire Medal" )  
+[Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award"
+) | [The Allaire Medal](The_Allaire_Medal "The Allaire Medal" )  
 **Non-Team Awards**   
-[Founder's Award](/index.php/Founder%27s_Award "Founder's Award" ) |
+[Founder's Award](Founder%27s_Award "Founder's Award" ) |
 [Outstanding Volunteer of the Year
-Award](/index.php/Outstanding_Volunteer_of_the_Year_Award "Outstanding
+Award](Outstanding_Volunteer_of_the_Year_Award "Outstanding
 Volunteer of the Year Award" )  
   

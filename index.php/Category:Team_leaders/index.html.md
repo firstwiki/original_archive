@@ -17,5 +17,5 @@ There is 1 article in this category.
 
 ### U
 
-  * [User:SilverStar](/index.php/User:SilverStar "User:SilverStar" )
+  * [User:SilverStar](User:SilverStar "User:SilverStar" )
 

@@ -6,8 +6,8 @@ Jump to: navigation, search
 
 A **competition port dongle** is a device built by most teams for testing and
 practicing with their robot. It connects to the [competition
-port](/index.php/Competition_port "Competition port" ) on the [Operator
-Interface](/index.php/Operator_Interface "Operator Interface" ).
+port](Competition_port "Competition port" ) on the [Operator
+Interface](Operator_Interface "Operator Interface" ).
 
 [[edit](/index.php?title=Competition_port_dongle&action=edit&section=1 "Edit
 section: What a dongle does" )]
@@ -16,8 +16,8 @@ section: What a dongle does" )]
 
 A dongle can be built to do the following things:
 
-  * Allow teams to [disable](/index.php/Disabled "Disabled" ) the robot safely 
-  * Allow teams to start [autonomous mode](/index.php/Autonomous_mode "Autonomous mode" )
+  * Allow teams to [disable](Disabled "Disabled" ) the robot safely 
+  * Allow teams to start [autonomous mode](Autonomous_mode "Autonomous mode" )
   * Enables access to channels 4, 13, 22, and 31 in addition to the normal channel 40 on the 900 mhz band 
 
 [[edit](/index.php?title=Competition_port_dongle&action=edit&section=2 "Edit
@@ -36,7 +36,7 @@ To build a competition port dongle, you'll need the following things:
 
 **WARNING:** _Be careful when soldering, as it can burn. Also be extra careful about short circuits, as they can permanently damage or destroy your Operator Interface._
 
-The circuitry is fairly simple to [solder](/index.php/Soldering "Soldering" ).
+The circuitry is fairly simple to [solder](Soldering "Soldering" ).
 By grounding pin 6 to pin 8, the robot will be disabled. Grounding pin 5 to
 pin 8 will start the robot's autonomous mode. Grounding pin 12 to pin 8 will
 enable access to the channels mentioned above. (The channel access does not

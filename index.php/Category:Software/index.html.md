@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This category is for [software](/index.php/Software "Software" ) and software-
+This category is for [software](Software "Software" ) and software-
 related articles.
 
   
@@ -15,18 +15,18 @@ There are 5 articles in this category.
 
 ###
 
-  * [Software](/index.php/Software "Software" )
+  * [Software](Software "Software" )
 
 ### 3
 
-  * [3D Studio Max](/index.php/3D_Studio_Max "3D Studio Max" )
+  * [3D Studio Max](3D_Studio_Max "3D Studio Max" )
 
 ### I
 
-  * [Inventor](/index.php/Inventor "Inventor" )
+  * [Inventor](Inventor "Inventor" )
 
 ### M
 
-  * [MCC18](/index.php/MCC18 "MCC18" )
-  * [MPLAB](/index.php/MPLAB "MPLAB" )
+  * [MCC18](MCC18 "MCC18" )
+  * [MPLAB](MPLAB "MPLAB" )
 

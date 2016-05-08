@@ -5,11 +5,11 @@
 Jump to: navigation, search
 
 [![title \(image optional\)](/media/thumb/6/62/Person_image.jpg/180px-
-Person_image.jpg)](/index.php/Image:Person_image.jpg "title \(image
+Person_image.jpg)](Image:Person_image.jpg "title \(image
 optional\)" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Person_image.jpg "Enlarge" )
+clip.png)](Image:Person_image.jpg "Enlarge" )
 
 title (image optional)
 
@@ -20,7 +20,7 @@ e-mail: _[e-mail](mailto:purplemonkeyking_at_gmail_dot_com
 ChiefDelphi:
 '[PurpleMonkeyKin](http://www.chiefdelphi.com/forums/member.php?u=17823
 "http://www.chiefdelphi.com/forums/member.php?u=17823" )_  
-_ Team: _[2194](/index.php/2194 "2194" )_ _(Fondy Fire)_  
+_ Team: _[2194](2194 "2194" )_ _(Fondy Fire)_  
 Position: _Programmer/Coach/Webpage_
 
 _Misc_

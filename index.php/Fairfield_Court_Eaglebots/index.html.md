@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Fairfield Court Eaglebots_  
 ---  
 [![Team logo](/media/thumb/d/dd/Eaglebots2.JPG/200px-
-Eaglebots2.JPG)](/index.php/Image:Eaglebots2.JPG "Team logo" )  
+Eaglebots2.JPG)](Image:Eaglebots2.JPG "Team logo" )  
 Rookie Year: | 2006  
 US State Or Country: | Virginia  
 City: | Richmond  
@@ -15,14 +15,14 @@ School: | Fairfield Court Elementary School
 {{{website}}}  
   
 Find other [FLL teams founded in
-2006](/index.php/Category:FLL_teams_founded_in_2006 "Category:FLL teams
+2006](Category:FLL_teams_founded_in_2006 "Category:FLL teams
 founded in 2006" )
 
 Find other [FLL teams from
-Virginia](/index.php/Category:FLL_teams_from_Virginia "Category:FLL teams from
+Virginia](Category:FLL_teams_from_Virginia "Category:FLL teams from
 Virginia" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -97,20 +97,20 @@ section: Links" )]
     
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Fairfield_Court_Eaglebots>"
+"<http://www.firstwiki.netFairfield_Court_Eaglebots>"
 
 [Categories](/index.php?title=Special:Categories&article=Fairfield_Court_Eagle
 bots "Special:Categories" ): [FLL teams from
-Virginia](/index.php/Category:FLL_teams_from_Virginia "Category:FLL teams from
+Virginia](Category:FLL_teams_from_Virginia "Category:FLL teams from
 Virginia" ) | [FLL teams founded in
-2006](/index.php/Category:FLL_teams_founded_in_2006 "Category:FLL teams
-founded in 2006" ) | [FLL teams](/index.php/Category:FLL_teams "Category:FLL
+2006](Category:FLL_teams_founded_in_2006 "Category:FLL teams
+founded in 2006" ) | [FLL teams](Category:FLL_teams "Category:FLL
 teams" )
 
 ##### Views
 
-  * [Article](/index.php/Fairfield_Court_Eaglebots)
-  * [Discussion](/index.php/Talk:Fairfield_Court_Eaglebots)
+  * [Article](Fairfield_Court_Eaglebots)
+  * [Discussion](Talk:Fairfield_Court_Eaglebots)
   * [Edit](/index.php?title=Fairfield_Court_Eaglebots&action=edit)
   * [History](/index.php?title=Fairfield_Court_Eaglebots&action=history)
 
@@ -118,17 +118,17 @@ teams" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Fairfield_Court_Eaglebots)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -136,10 +136,10 @@ teams" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Fairfield_Court_Eaglebots)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Fairfield_Court_Eaglebots)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Fairfield_Court_Eaglebots)
+  * [Related changes](Special:Recentchangeslinked/Fairfield_Court_Eaglebots)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Fairfield_Court_Eaglebots&printable=yes)
   * [Permanent link](/index.php?title=Fairfield_Court_Eaglebots&oldid=60570)
 
@@ -152,7 +152,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:38, 21 May 2007.
   * This page has been accessed 677 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

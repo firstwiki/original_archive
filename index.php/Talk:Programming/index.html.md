@@ -8,17 +8,17 @@ Jump to: navigation, search
 wiki link. Is this a documented feature? I've linked to wikipedia before, and
 knowing about this will be helpful. If it isn't on the help pages, it should
 go there. (Unfortunately I've got to go know, so I'll do the classic mention
-it and leave it for someone else to do ;) --[Mrawls](/index.php/User:Mrawls
+it and leave it for someone else to do ;) --[Mrawls](User:Mrawls
 "User:Mrawls" ) 17:57, 2 Jun 2004 (EDT)
 
 My proposed nesting thing is backslashes.
 
 Programming\MPLAB Bugs\Unknown error
-\--[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+\--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 
-proposed nesting thing? --[Max](/index.php/User:Max "User:Max" )
+proposed nesting thing? --[Max](User:Max "User:Max" )
 
-    Threads, related articles, etc. Wiki apparently does not supply a nested topic setup. --[user:Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+    Threads, related articles, etc. Wiki apparently does not supply a nested topic setup. --[user:Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 
     
 
@@ -34,5 +34,5 @@ Regardless, something about FIRSTwiki itself doesn't belong in the (main)
 namespace (articles with no xxxx: prefix), it would belong in the FIRSTwiki:
 namespace like maybe [FIRSTwiki:to
 do](/index.php?title=FIRSTwiki:To_do&action=edit "FIRSTwiki:To do" )
-\--[Max](/index.php/User:Max "User:Max" )
+\--[Max](User:Max "User:Max" )
 

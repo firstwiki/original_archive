@@ -9,27 +9,27 @@
 
 Jump to: navigation, search
 
-_Chief Delphi is the name of team [47](/index.php/47 "47" ), but this page is
+_Chief Delphi is the name of team [47](47 "47" ), but this page is
 dedicated to the Chief Delphi web forums._
 
 [![Chief Delphi portal screenshot](/media/thumb/4/41/ChiefDelphi.png/200px-
-ChiefDelphi.png)](/index.php/Image:ChiefDelphi.png "Chief Delphi portal
+ChiefDelphi.png)](Image:ChiefDelphi.png "Chief Delphi portal
 screenshot" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:ChiefDelphi.png "Enlarge" )
+clip.png)](Image:ChiefDelphi.png "Enlarge" )
 
 Chief Delphi portal screenshot
 
 The **Chief Delphi forums** ([chiefdelphi.com](http://chiefdelphi.com
 "http://chiefdelphi.com" )) is a web forum, founded by the [Chief Delphi
-team](/index.php/47 "47" ) and kept up-to-date by the dedicated work of
-[Brandon Martus](/index.php/Brandon_Martus "Brandon Martus" ), that serves the
-[FIRST community](/index.php/FIRST_community "FIRST community" ). It has
+team](47 "47" ) and kept up-to-date by the dedicated work of
+[Brandon Martus](Brandon_Martus "Brandon Martus" ), that serves the
+[FIRST community](FIRST_community "FIRST community" ). It has
 transcended the realm of a team forum, and is truly an effort to unite the
 entire FIRST community. Through ventures such as [Unsung FIRST
-Heroes](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" ) the forums give
-back to the community. Members from all walks of [FIRST](/index.php/FIRST
+Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes" ) the forums give
+back to the community. Members from all walks of [FIRST](FIRST
 "FIRST" ) life regularly visit the forums, both on- and off-season.
 
 ## Contents
@@ -83,7 +83,7 @@ It is a good place for rookie teams to start. It has forums for every thing
 from programming to mechanical to just chatting.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -91,7 +91,7 @@ _
 [Please add more
 content](http://firstwiki.net/index.php?title=Chief_Delphi&action=edit
 "http://firstwiki.net/index.php?title=Chief_Delphi&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  

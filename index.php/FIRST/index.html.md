@@ -7,26 +7,26 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=FIRST&action=edit
 "http://www.firstwiki.net/index.php?title=FIRST&action=edit" ) by expanding
 it.**  
-Further information might be found on the [talk page](/index.php/Talk:FIRST
+Further information might be found on the [talk page](Talk:FIRST
 "Talk:FIRST" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
 [![the FIRST
-logo](/media/1/10/FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "the FIRST
+logo](/media/1/10/FIRST_logo.gif)](Image:FIRST_logo.gif "the FIRST
 logo" )
 
 **FIRST** stands for: **F**or [**I**nspiration](http://wiktionary.org/wiki/inspiration "wiktionary:inspiration" ) and [**R**ecognition](http://wiktionary.org/wiki/recognition "wiktionary:recognition" ) of [**S**cience](http://wiktionary.org/wiki/science "wiktionary:science" ) and [**T**echnology](http://wiktionary.org/wiki/Technology "wiktionary:Technology" ). 
 
 FIRST is an organization founded by inventor [Dean
-Kamen](/index.php/Dean_Kamen "Dean Kamen" ) in 1989 as a way of getting
+Kamen](Dean_Kamen "Dean Kamen" ) in 1989 as a way of getting
 students involved in and excited about science and technology.
 
 ## Contents
@@ -45,7 +45,7 @@ students involved in and excited about science and technology.
 
 ### Vision
 
-    "To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders." -- [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" ), Founder[[1]](http://usfirst.org/aboutus/content.aspx?id=34 "http://usfirst.org/aboutus/content.aspx?id=34" )
+    "To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders." -- [Dean Kamen](Dean_Kamen "Dean Kamen" ), Founder[[1]](http://usfirst.org/aboutus/content.aspx?id=34 "http://usfirst.org/aboutus/content.aspx?id=34" )
 
 
 ### Mission
@@ -63,11 +63,11 @@ difficulty.
 
 **As of 2011, FIRST includes:**
 
-  * [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" )
-  * [FIRST Tech Challenge](/index.php/FTC "FTC" )
-  * [FIRST LEGO League](/index.php/FLL "FLL" )
-  * [Junior FIRST LEGO League](/index.php/JFLL "JFLL" )
-  * [FIRST Collegiate Challenge (Pilot Year)](/index.php/FIRST_Collegiate "FIRST Collegiate" )
+  * [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" )
+  * [FIRST Tech Challenge](FTC "FTC" )
+  * [FIRST LEGO League](FLL "FLL" )
+  * [Junior FIRST LEGO League](JFLL "JFLL" )
+  * [FIRST Collegiate Challenge (Pilot Year)](FIRST_Collegiate "FIRST Collegiate" )
 
 
 ## International
@@ -81,7 +81,7 @@ Singapore, South Africa, Spain, Sweden, Switzerland, Taiwan, Turkey, the
 United Arab Emirates, the United Kingdom, and the United States.
 
 However, only Brazil, Canada, Israel, Mexico, the Netherlands, the United
-Kingdom, and the United States have [FRC](/index.php/FRC "FRC" ) teams.
+Kingdom, and the United States have [FRC](FRC "FRC" ) teams.
 
 
 ## External links

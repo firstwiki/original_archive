@@ -36,30 +36,30 @@ mit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
 
 #### 22 July 2012
 
-  * ([diff](/index.php?title=2614&curid=9224&diff=260037&oldid=164675 "2614" )) ([hist](/index.php?title=2614&curid=9224&action=history "2614" )) . . [2614](/index.php/2614 "2614" ); 21:27 . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](/index.php/User_talk:Robot2614 "User talk:Robot2614" ) | [contribs](/index.php?title=Special:Contributions&target=Robot2614 "Special:Contributions" ))
+  * ([diff](/index.php?title=2614&curid=9224&diff=260037&oldid=164675 "2614" )) ([hist](/index.php?title=2614&curid=9224&action=history "2614" )) . . [2614](2614 "2614" ); 21:27 . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](User_talk:Robot2614 "User talk:Robot2614" ) | [contribs](/index.php?title=Special:Contributions&target=Robot2614 "Special:Contributions" ))
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/Main_Page)
+  * [Special Page](Special:Recentchangeslinked/Main_Page)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -67,8 +67,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -76,7 +76,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

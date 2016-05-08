@@ -148,7 +148,7 @@ express themselves and to have fun in the presence of other people..
 related article：
 
   * [http://www.beatsbydreau.biz/ Of course](http://www.fyxinghuo.com/forum.php?mod=viewthread&tid=97734 "http://www.fyxinghuo.com/forum.php?mod=viewthread&tid=97734" )
-  * [click here Of course](http://www.herbalwiki.org/index.php/User:Yumens52t#click_here_Of_course "http://www.herbalwiki.org/index.php/User:Yumens52t#click_here_Of_course" )
+  * [click here Of course](http://www.herbalwiki.orgUser:Yumens52t#click_here_Of_course "http://www.herbalwiki.orgUser:Yumens52t#click_here_Of_course" )
   * [fashion headphone Jimmy Iovine](http://bbs.zy563.com/forum.php?mod=viewthread&tid=120700 "http://bbs.zy563.com/forum.php?mod=viewthread&tid=120700" )
 
 
@@ -195,7 +195,7 @@ brutal frequent adolescent public at the moment very prefer it..
 related article：
 
   * [fashion headphone re a gamer](http://occupywenatchee.org/node/60320 "http://occupywenatchee.org/node/60320" )
-  * [fashion headphone ve decided on a CPU](http://wiki.qbang.org/index.php/User:Sanguosyg0#fashion_headphone_ve_decided_on_a_CPU "http://wiki.qbang.org/index.php/User:Sanguosyg0#fashion_headphone_ve_decided_on_a_CPU" )
+  * [fashion headphone ve decided on a CPU](http://wiki.qbang.orgUser:Sanguosyg0#fashion_headphone_ve_decided_on_a_CPU "http://wiki.qbang.orgUser:Sanguosyg0#fashion_headphone_ve_decided_on_a_CPU" )
   * [click here Of course](http://smabudimulia-jakarta.com/students/blog_entry.php?user=sanguosla3&blogentry_id=33013 "http://smabudimulia-jakarta.com/students/blog_entry.php?user=sanguosla3&blogentry_id=33013" )
 
 
@@ -239,7 +239,7 @@ related article：
 
   * [http://www.drdrebeatsuk.biz/ noted](http://mobiles92.com/mobiles/httpwww-drdrebeatsuk-biz-noted/ "http://mobiles92.com/mobiles/httpwww-drdrebeatsuk-biz-noted/" )
   * [fashion headphone Of course](http://curcol.uphero.com/index.php?p=blogs/viewstory/47355 "http://curcol.uphero.com/index.php?p=blogs/viewstory/47355" )
-  * [beats by dre headphones The answer](http://wiki.praetorians.abacvs.org/index.php/User:Sanguostm3#beats_by_dre_headphones__The_answer "http://wiki.praetorians.abacvs.org/index.php/User:Sanguostm3#beats_by_dre_headphones__The_answer" )
+  * [beats by dre headphones The answer](http://wiki.praetorians.abacvs.orgUser:Sanguostm3#beats_by_dre_headphones__The_answer "http://wiki.praetorians.abacvs.orgUser:Sanguostm3#beats_by_dre_headphones__The_answer" )
 
 
 ##  <http://www.drdrebeatscheap.biz/> or on a separate card
@@ -326,7 +326,7 @@ with the market..
   
 related article：
 
-  * [click here it seems](http://www.mumpsipedia.org/index.php/User:Yumens89t#click_here__it_seems "http://www.mumpsipedia.org/index.php/User:Yumens89t#click_here__it_seems" )
+  * [click here it seems](http://www.mumpsipedia.orgUser:Yumens89t#click_here__it_seems "http://www.mumpsipedia.orgUser:Yumens89t#click_here__it_seems" )
   * [The answer](http://epetdate.com/activity/p/107798/ "http://epetdate.com/activity/p/107798/" )
   * [fashion headphone The answer](http://www.5x5k.com/forum.php?mod=viewthread&tid=28331 "http://www.5x5k.com/forum.php?mod=viewthread&tid=28331" )
 
@@ -401,7 +401,7 @@ the sound quality is superb also..
 related article：
 
   * [cheap beats headphones ve decided on a CPU](http://www.beta.facefox.com/index.php?do=/yumens13b/blog/cheap-beats-headphones-ve-decided-on-a-cpu/ "http://www.beta.facefox.com/index.php?do=/yumens13b/blog/cheap-beats-headphones-ve-decided-on-a-cpu/" )
-  * [beats by dre headphones do you want firewire on the board](http://inquirelandwiki.craneandmoon.eu/index.php/User:Yumens11o#beats_by_dre_headphones_do_you_want_firewire_on_the_board "http://inquirelandwiki.craneandmoon.eu/index.php/User:Yumens11o#beats_by_dre_headphones_do_you_want_firewire_on_the_board" )
+  * [beats by dre headphones do you want firewire on the board](http://inquirelandwiki.craneandmoon.euUser:Yumens11o#beats_by_dre_headphones_do_you_want_firewire_on_the_board "http://inquirelandwiki.craneandmoon.euUser:Yumens11o#beats_by_dre_headphones_do_you_want_firewire_on_the_board" )
   * [fashion headphone the company of friends](http://adzz4u.com/ads/fashion-headphone-the-company-of-friends/ "http://adzz4u.com/ads/fashion-headphone-the-company-of-friends/" )
 
 
@@ -444,7 +444,7 @@ related article：
 
   * [cheap dr dre beats The answer](http://www.gnbyjz.com/plus/view.php?aid=8910 "http://www.gnbyjz.com/plus/view.php?aid=8910" )
   * [http://www.beatsbydreau.biz/ ve decided on a CPU](http://178.18.17.68/forum.php?mod=viewthread&tid=236496 "http://178.18.17.68/forum.php?mod=viewthread&tid=236496" )
-  * [click here you think you can create the next new sound. Wel](http://www.philowiki.com/wiki/index.php/User:Suijis1W34p#click_here__you_think_you_can_create_the_next_new_sound._Wel "http://www.philowiki.com/wiki/index.php/User:Suijis1W34p#click_here__you_think_you_can_create_the_next_new_sound._Wel" )
+  * [click here you think you can create the next new sound. Wel](http://www.philowiki.com/wikiUser:Suijis1W34p#click_here__you_think_you_can_create_the_next_new_sound._Wel "http://www.philowiki.com/wikiUser:Suijis1W34p#click_here__you_think_you_can_create_the_next_new_sound._Wel" )
 
 
 ##  beats by dre studio but the sound quality is superb also..
@@ -585,7 +585,7 @@ making them able to keep up with the market..
   
 related article：
 
-  * [beats dr dre Do you want video on the motherboard](http://rennpedia.org/index.php/User:Yumens38z#beats_dr_dre__Do_you_want_video_on_the_motherboard "http://rennpedia.org/index.php/User:Yumens38z#beats_dr_dre__Do_you_want_video_on_the_motherboard" )
+  * [beats dr dre Do you want video on the motherboard](http://rennpedia.orgUser:Yumens38z#beats_dr_dre__Do_you_want_video_on_the_motherboard "http://rennpedia.orgUser:Yumens38z#beats_dr_dre__Do_you_want_video_on_the_motherboard" )
   * [beats by dr dre australia re a gamer](http://www.slimreviews.com/beats-dre-headphones-let-every-one-big-sports-education-star "http://www.slimreviews.com/beats-dre-headphones-let-every-one-big-sports-education-star" )
   * [beats by dre headphones do you want firewire on the board](http://workspace.opendata.ie/wiki/User:Suijis3W57i#beats_by_dre_headphones_do_you_want_firewire_on_the_board "http://workspace.opendata.ie/wiki/User:Suijis3W57i#beats_by_dre_headphones_do_you_want_firewire_on_the_board" )
 
@@ -622,7 +622,7 @@ volumes. You'll enjoy any kind of music with these headphones..
 related article：
 
   * [dre beats adulation anniversary other](http://vvv.chang-jang.com/viewthread.php?tid=120296&extra= "http://vvv.chang-jang.com/viewthread.php?tid=120296&extra=" )
-  * [beats dr dre Likewise](http://nexusrx.com/index.php/User:Yumens70j#beats_dr_dre_Likewise "http://nexusrx.com/index.php/User:Yumens70j#beats_dr_dre_Likewise" )
+  * [beats dr dre Likewise](http://nexusrx.comUser:Yumens70j#beats_dr_dre_Likewise "http://nexusrx.comUser:Yumens70j#beats_dr_dre_Likewise" )
   * [fashion headphone re a gamer](http://www.jxxwtv.com/forum.php?mod=viewthread&tid=35809 "http://www.jxxwtv.com/forum.php?mod=viewthread&tid=35809" )
 
 
@@ -1264,7 +1264,7 @@ very prefer it..
 related article：
 
   * [beats by dre australia without them](http://uandxphoto.com/uandx/a/quanbutupian/nanxue/2012/0402/83.html "http://uandxphoto.com/uandx/a/quanbutupian/nanxue/2012/0402/83.html" )
-  * [beats by dr dre pro it seems](http://wiki.all-about-debt.co.uk/index.php/User:Sanguosth5#beats_by_dr_dre_pro_it_seems "http://wiki.all-about-debt.co.uk/index.php/User:Sanguosth5#beats_by_dr_dre_pro_it_seems" )
+  * [beats by dr dre pro it seems](http://wiki.all-about-debt.co.ukUser:Sanguosth5#beats_by_dr_dre_pro_it_seems "http://wiki.all-about-debt.co.ukUser:Sanguosth5#beats_by_dr_dre_pro_it_seems" )
   * [cheap beats by dr dre Chairman of Interscope Geffen AM Records](http://029.tt6.cn/forum.php?mod=viewthread&tid=138168 "http://029.tt6.cn/forum.php?mod=viewthread&tid=138168" )
 
 
@@ -1644,7 +1644,7 @@ related article：
 
   * [cheap monster beats Most boards come with sound](http://yardsell.org/ads/cheap-monster-beats-most-boards-come-with-sound/ "http://yardsell.org/ads/cheap-monster-beats-most-boards-come-with-sound/" )
   * [beats by dre but according to Dr. Dre](http://www.szgssh.org/a/webbase/2011/1213/131.html "http://www.szgssh.org/a/webbase/2011/1213/131.html" )
-  * [beats by dre solo Head Monster](http://he.remedydevelopers.com/index.php/User:Xzlakss40m#beats_by_dre_solo__Head_Monster "http://he.remedydevelopers.com/index.php/User:Xzlakss40m#beats_by_dre_solo__Head_Monster" )
+  * [beats by dre solo Head Monster](http://he.remedydevelopers.comUser:Xzlakss40m#beats_by_dre_solo__Head_Monster "http://he.remedydevelopers.comUser:Xzlakss40m#beats_by_dre_solo__Head_Monster" )
 
 
 ##  cheap beats by dre solo The answer
@@ -1819,7 +1819,7 @@ high volumes. You'll enjoy any kind of music with these headphones..
   
 related article：
 
-  * [dr dre beats cheap without them](http://brobrains.com/index.php/User:Xzlakss38d#dr_dre_beats_cheap__without_them "http://brobrains.com/index.php/User:Xzlakss38d#dr_dre_beats_cheap__without_them" )
+  * [dr dre beats cheap without them](http://brobrains.comUser:Xzlakss38d#dr_dre_beats_cheap__without_them "http://brobrains.comUser:Xzlakss38d#dr_dre_beats_cheap__without_them" )
   * [cheap beats by dr dre but according to Dr. Dre](http://www.auroranord.org/forum/topic.php?id=32313&replies=1#post-36647 "http://www.auroranord.org/forum/topic.php?id=32313&replies=1#post-36647" )
   * [beats by dre Most boards come with sound](http://dubyuhdubyuhdubyuh.8086sale.com/viewthread.php?tid=543853&pid=670135&page=1&extra=page%3D1#pid670135 "http://dubyuhdubyuhdubyuh.8086sale.com/viewthread.php?tid=543853&pid=670135&page=1&extra=page%3D1#pid670135" )
 
@@ -2308,7 +2308,7 @@ appear good,[beats by dre studio cheap](http://www.beatsbydreireland.org/
 related article：
 
   * [dr dre beats cheap Do you want video on the motherboard](http://wiki.exponentcms.org/User:Yumens72k#dr_dre_beats_cheap__Do_you_want_video_on_the_motherboard "http://wiki.exponentcms.org/User:Yumens72k#dr_dre_beats_cheap__Do_you_want_video_on_the_motherboard" )
-  * [cheap beats by dr dre Most boards come with sound](http://www.indianmusicguide.com/index.php/User:Sanguoswq4#cheap_beats_by_dr_dre__Most_boards_come_with_sound "http://www.indianmusicguide.com/index.php/User:Sanguoswq4#cheap_beats_by_dr_dre__Most_boards_come_with_sound" )
+  * [cheap beats by dr dre Most boards come with sound](http://www.indianmusicguide.comUser:Sanguoswq4#cheap_beats_by_dr_dre__Most_boards_come_with_sound "http://www.indianmusicguide.comUser:Sanguoswq4#cheap_beats_by_dr_dre__Most_boards_come_with_sound" )
   * [beats headphones uk The Monster Beats Headphones carry quite a hefty price tag](http://www.pingzhou.net/thread-349478-1-1.html "http://www.pingzhou.net/thread-349478-1-1.html" )
 
 
@@ -2355,5 +2355,5 @@ related article：
 
   * [dr dre beats cheap Of course](http://www.nba-cn.net/forum.php?mod=viewthread&tid=1879262 "http://www.nba-cn.net/forum.php?mod=viewthread&tid=1879262" )
   * [beats by dr dre uk Most boards come with sound](http://www.wqqn.net/forum.php?mod=viewthread&tid=78709 "http://www.wqqn.net/forum.php?mod=viewthread&tid=78709" )
-  * [cheap beats by dre solo or on a card](http://wiki.stax.net/w/index.php/User:Suijis5W57p#cheap_beats_by_dre_solo__or_on_a_card "http://wiki.stax.net/w/index.php/User:Suijis5W57p#cheap_beats_by_dre_solo__or_on_a_card" )
+  * [cheap beats by dre solo or on a card](http://wiki.stax.net/wUser:Suijis5W57p#cheap_beats_by_dre_solo__or_on_a_card "http://wiki.stax.net/wUser:Suijis5W57p#cheap_beats_by_dre_solo__or_on_a_card" )
 

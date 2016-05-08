@@ -6,21 +6,21 @@
 
 Jump to: navigation, search
 
-**[612](/index.php/612 "612" )**
+**[612](612 "612" )**
 
-  * [2004](/index.php/612_in_2004 "612 in 2004" )
+  * [2004](612_in_2004 "612 in 2004" )
   * **2005**
-  * [2006](/index.php/612_in_2006 "612 in 2006" )
-  * [2007](/index.php/612_in_2007 "612 in 2007" )
+  * [2006](612_in_2006 "612 in 2006" )
+  * [2007](612_in_2007 "612 in 2007" )
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -28,7 +28,7 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=612_in_2005&action=edit
 "http://www.firstwiki.net/index.php?title=612_in_2005&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
@@ -81,11 +81,11 @@ _General description of the robot"_
 
 [![Note the creative usage of purple and blue blocks as structural
 members.](/media/thumb/b/ba/Notarealrobot.jpg/180px-
-Notarealrobot.jpg)](/index.php/Image:Notarealrobot.jpg "Note the creative
+Notarealrobot.jpg)](Image:Notarealrobot.jpg "Note the creative
 usage of purple and blue blocks as structural members." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Notarealrobot.jpg "Enlarge" )
+clip.png)](Image:Notarealrobot.jpg "Enlarge" )
 
 Note the creative usage of purple and blue blocks as structural members.
 

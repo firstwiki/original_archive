@@ -26,6 +26,6 @@ The [job queue](http://meta.wikimedia.org/wiki/Help:Job_queue
 
 There are **67,177** registered users, of which **19** (or **0.03%**) are
 administrators (see
-[Project:Administrators](/index.php/FIRSTwiki:Administrators
+[Project:Administrators](FIRSTwiki:Administrators
 "FIRSTwiki:Administrators" )).
 

@@ -11,7 +11,7 @@ _TechBrick 2004_
 Competition Year: | xxxx  
 [Team website](http://www.Techbrick.com "http://www.Techbrick.com" )  
   
-[Go back to main team page](/index.php/Techbrick "Techbrick" )
+[Go back to main team page](Techbrick "Techbrick" )
 
 ## Contents
 

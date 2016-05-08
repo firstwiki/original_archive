@@ -22,9 +22,9 @@ on&limit=250&from=0 "Special:Whatlinkshere/Team organization" ) | [500](/index
 .php?title=Special:Whatlinkshere/Team_organization&limit=500&from=0
 "Special:Whatlinkshere/Team organization" )).
 
-  * [FIRST Robotics Team](/index.php/FIRST_Robotics_Team "FIRST Robotics Team" )
-  * [1389](/index.php/1389 "1389" )
-  * [FIRSTwiki:Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [FIRST Robotics Team](FIRST_Robotics_Team "FIRST Robotics Team" )
+  * [1389](1389 "1389" )
+  * [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Team_organization&limit=20&from=0
 "Special:Whatlinkshere/Team organization" ) |

@@ -4,13 +4,13 @@
 
 Jump to: navigation, search
 
-**[Palmetto Regional](/index.php/Palmetto_Regional "Palmetto Regional" )**
+**[Palmetto Regional](Palmetto_Regional "Palmetto Regional" )**
 
-  * [2004](/index.php/Palmetto_Regional_2004 "Palmetto Regional 2004" )
+  * [2004](Palmetto_Regional_2004 "Palmetto Regional 2004" )
 
 * * *
 
-**[Index of regionals](/index.php/Index_of_regionals "Index of regionals" )**
+**[Index of regionals](Index_of_regionals "Index of regionals" )**
 
   
   
@@ -18,11 +18,11 @@ Jump to: navigation, search
 ---  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Template:Palmetto_Regional_toc>"
+"<http://www.firstwiki.netTemplate:Palmetto_Regional_toc>"
 
 ##### Views
 
-  * [Template](/index.php/Template:Palmetto_Regional_toc)
+  * [Template](Template:Palmetto_Regional_toc)
   * [Discussion](/index.php?title=Template_talk:Palmetto_Regional_toc&action=edit)
   * [Edit](/index.php?title=Template:Palmetto_Regional_toc&action=edit)
   * [History](/index.php?title=Template:Palmetto_Regional_toc&action=history)
@@ -31,17 +31,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Template:Palmetto_Regional_toc)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -49,10 +49,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Template:Palmetto_Regional_toc)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Template:Palmetto_Regional_toc)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Template:Palmetto_Regional_toc)
+  * [Related changes](Special:Recentchangeslinked/Template:Palmetto_Regional_toc)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Template:Palmetto_Regional_toc&printable=yes)
   * [Permanent link](/index.php?title=Template:Palmetto_Regional_toc&oldid=37941)
 
@@ -65,7 +65,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 23:01, 8 August 2004.
   * This page has been accessed 157 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

@@ -7,7 +7,7 @@ Jump to: navigation, search
 Sinclair Sprockets  
 ---  
 [![Team logo](/media/thumb/c/cb/1075logo.gif/300px-
-1075logo.gif)](/index.php/Image:1075logo.gif "Team logo" )  
+1075logo.gif)](Image:1075logo.gif "Team logo" )  
 Rookie Year: | 2003  
 Inactive Years: | {{{inactive}}}  
 Location: | Whitby ON Canada  
@@ -65,29 +65,29 @@ nationals.
 
 1075 Did NOT compete in 2005 due to a lack of sponsorship.
 
-  * [2004 - Sprocket III](/index.php/1075_in_2004#Robot "1075 in 2004" )
-  * [2003 - Sprocket II](/index.php/1075_in_2003#Robot "1075 in 2003" )
-  * [2003 - Sprocket I (EduRobot)](/index.php/1075_in_2003#Robot "1075 in 2003" )
+  * [2004 - Sprocket III](1075_in_2004#Robot "1075 in 2004" )
+  * [2003 - Sprocket II](1075_in_2003#Robot "1075 in 2003" )
+  * [2003 - Sprocket I (EduRobot)](1075_in_2003#Robot "1075 in 2003" )
 
 
 ## Accomplishments
 
   * 2009-FIRST Greater Toronto Regional Chrysler Team Spirit Award 
   * 2009-FIRST Greater Toronto Regional Rockwell Automation Innovation in Control Award. (For our 4WD, 4WS crab drive with 4 steering modes) 
-  * 2009-FIRST Greater Toronto Regional Semi-Finalists (with [2386](/index.php?title=2386&action=edit "2386" ) and [1503](/index.php/1503 "1503" )) 
-  * 2009-FIRST Waterloo Regional Quarter-Finalists (with [1404](/index.php/1404 "1404" ), and [1565](/index.php/1565 "1565" )) 
-  * 2008-Brunswick Eruption Champions (with [25](/index.php/25 "25" ), and [1302](/index.php/1302 "1302" )) 
-  * 2008-Kettering Kickoff Champions (with [910](/index.php/910 "910" ), [2619](/index.php/2619 "2619" ), and [67](/index.php/67 "67" )) 
+  * 2009-FIRST Greater Toronto Regional Semi-Finalists (with [2386](/index.php?title=2386&action=edit "2386" ) and [1503](1503 "1503" )) 
+  * 2009-FIRST Waterloo Regional Quarter-Finalists (with [1404](1404 "1404" ), and [1565](1565 "1565" )) 
+  * 2008-Brunswick Eruption Champions (with [25](25 "25" ), and [1302](1302 "1302" )) 
+  * 2008-Kettering Kickoff Champions (with [910](910 "910" ), [2619](2619 "2619" ), and [67](67 "67" )) 
   * 2008-FIRST Greater Toronto Regional Participants 
   * 2008-FIRST Waterloo Regional Quarter-Finalists 
   * 2007-Brunswick Eruption Quarter-Finalists 
   * 2007-Kettering Kickoff Semi-Finalists 
   * 2007-FIRST Greater Toronto Regional Rockwell Automation Innovation in Control Award. (For our multi-position pneumatic arm) 
   * 2006-FIRST Greater Toronto Regional (Formerly Canadian Regional [name change in 2005]) Quarter-Finalists 
-  * 2004-FIRST Wonderland Invitational Champions (with [1114](/index.php/1114 "1114" ), and [1241](/index.php/1241 "1241" )) 
+  * 2004-FIRST Wonderland Invitational Champions (with [1114](1114 "1114" ), and [1241](1241 "1241" )) 
   * 2004-FIRST Canadian Regional Semi-Finalists (2004 Canadian Regional had TWO fields) 
-  * 2003-Delphi E.L.I.T.E. (FRC [48](/index.php/48 "48" )) Unique Drivetrain award, Canadian Regional 
-  * 2003-FIRST Canadian Regional Finalists (with [188](/index.php/188 "188" ), and [306](/index.php/306 "306" )) 
+  * 2003-Delphi E.L.I.T.E. (FRC [48](48 "48" )) Unique Drivetrain award, Canadian Regional 
+  * 2003-FIRST Canadian Regional Finalists (with [188](188 "188" ), and [306](306 "306" )) 
 
 
 ## Sponsors
@@ -127,93 +127,93 @@ nationals.
   * 2003-Present: David Smith, Transportation Technology Teacher, Sinclair Secondary School 
   * 2006-2008: Bud, welding, Ontario Power Generation 
   * 2008: Ian, ANDOR Robotic Solutions 
-  * 2008: Antoine, ANDOR Robotic Solutions (currently working with [2609](/index.php/2609 "2609" )) 
+  * 2008: Antoine, ANDOR Robotic Solutions (currently working with [2609](2609 "2609" )) 
   * 2003-2006: Herb Galbraith, Ontario Power Generation 
   * 2006: Grigori Inozemtsev, University Student, 1075 alumni 
   * 2004: Czar Jovanovic, Transportation Technology/Co-operative Education Teacher, Sinclair Secondary School 
   * 2003: Riley Garner, Technical Design Teacher, Sinclair Secondary School 
-_[Index of teams](/index.php/Index_of_teams "Index of teams" ):_  
+_[Index of teams](Index_of_teams "Index of teams" ):_  
 ---  
   
-[1-100](/index.php/Index_of_teams#1-100 "Index of teams" )
-[101-200](/index.php/Index_of_teams#101-200 "Index of teams" )
-[201-300](/index.php/Index_of_teams#201-300 "Index of teams" )
-[301-400](/index.php/Index_of_teams#301-400 "Index of teams" )
-[401-500](/index.php/Index_of_teams#401-500 "Index of teams" )
-[501-600](/index.php/Index_of_teams#501-600 "Index of teams" )
-[601-700](/index.php/Index_of_teams#601-700 "Index of teams" )
-[701-800](/index.php/Index_of_teams#701-800 "Index of teams" )
-[801-900](/index.php/Index_of_teams#801-900 "Index of teams" )
-[901-1000](/index.php/Index_of_teams#901-1000 "Index of teams" )
-[1001-1100](/index.php/Index_of_teams#1001-1100 "Index of teams" )
-[1101-1200](/index.php/Index_of_teams#1101-1200 "Index of teams" )
-[1201-1300](/index.php/Index_of_teams#1201-1300 "Index of teams" )
-[1301-1400](/index.php/Index_of_teams#1301-1400 "Index of teams" )
-[1401-1500](/index.php/Index_of_teams#1401-1500 "Index of teams" )
-[1501-1600](/index.php/Index_of_teams#1501-1600 "Index of teams" )
-[1601-1700](/index.php/Index_of_teams#1601-1700 "Index of teams" )
-[1701-1800](/index.php/Index_of_teams#1701-1800 "Index of teams" )
-[1801-1900](/index.php/Index_of_teams#1801-1900 "Index of teams" )
-[1901-2000](/index.php/Index_of_teams#1901-2000 "Index of teams" )
-[2001-2100](/index.php/Index_of_teams#2001-2100 "Index of teams" )
-[2101-2200](/index.php/Index_of_teams#2101-2200 "Index of teams" )
-[2201-2300](/index.php/Index_of_teams#2201-2300 "Index of teams" )
-[2301-2400](/index.php/Index_of_teams#2301-2400 "Index of teams" )
-[2401-2500](/index.php/Index_of_teams#2401-2500 "Index of teams" )
-[2501-2600](/index.php/Index_of_teams#2501-2600 "Index of teams" )
-[2601-2700](/index.php/Index_of_teams#2601-2700 "Index of teams" )
-[2701-2800](/index.php/Index_of_teams#2701-2800 "Index of teams" )
-[2801-2900](/index.php/Index_of_teams#2801-2900 "Index of teams" )
-[2901-3000](/index.php/Index_of_teams#2901-3000 "Index of teams" )  
+[1-100](Index_of_teams#1-100 "Index of teams" )
+[101-200](Index_of_teams#101-200 "Index of teams" )
+[201-300](Index_of_teams#201-300 "Index of teams" )
+[301-400](Index_of_teams#301-400 "Index of teams" )
+[401-500](Index_of_teams#401-500 "Index of teams" )
+[501-600](Index_of_teams#501-600 "Index of teams" )
+[601-700](Index_of_teams#601-700 "Index of teams" )
+[701-800](Index_of_teams#701-800 "Index of teams" )
+[801-900](Index_of_teams#801-900 "Index of teams" )
+[901-1000](Index_of_teams#901-1000 "Index of teams" )
+[1001-1100](Index_of_teams#1001-1100 "Index of teams" )
+[1101-1200](Index_of_teams#1101-1200 "Index of teams" )
+[1201-1300](Index_of_teams#1201-1300 "Index of teams" )
+[1301-1400](Index_of_teams#1301-1400 "Index of teams" )
+[1401-1500](Index_of_teams#1401-1500 "Index of teams" )
+[1501-1600](Index_of_teams#1501-1600 "Index of teams" )
+[1601-1700](Index_of_teams#1601-1700 "Index of teams" )
+[1701-1800](Index_of_teams#1701-1800 "Index of teams" )
+[1801-1900](Index_of_teams#1801-1900 "Index of teams" )
+[1901-2000](Index_of_teams#1901-2000 "Index of teams" )
+[2001-2100](Index_of_teams#2001-2100 "Index of teams" )
+[2101-2200](Index_of_teams#2101-2200 "Index of teams" )
+[2201-2300](Index_of_teams#2201-2300 "Index of teams" )
+[2301-2400](Index_of_teams#2301-2400 "Index of teams" )
+[2401-2500](Index_of_teams#2401-2500 "Index of teams" )
+[2501-2600](Index_of_teams#2501-2600 "Index of teams" )
+[2601-2700](Index_of_teams#2601-2700 "Index of teams" )
+[2701-2800](Index_of_teams#2701-2800 "Index of teams" )
+[2801-2900](Index_of_teams#2801-2900 "Index of teams" )
+[2901-3000](Index_of_teams#2901-3000 "Index of teams" )  
   
-_[Index of teams by region](/index.php/Index_of_teams_by_region "Index of
+_[Index of teams by region](Index_of_teams_by_region "Index of
 teams by region" ):_  
 ---  
   
-[NH](/index.php/Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
+[NH](Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
 _Manchester.2C_NH "Index of teams by region" )
-[NJ](/index.php/Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
+[NJ](Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
 "Index of teams by region" )
-[VA](/index.php/Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
-"Index of teams by region" ) [OR](/index.php/Index_of_teams_by_region#Pacific_
+[VA](Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
+"Index of teams by region" ) [OR](Index_of_teams_by_region#Pacific_
 Northwest_Regional.2C_Portland.2C_OR "Index of teams by region" )
-[AZ](/index.php/Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
+[AZ](Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
 "Index of teams by region" )
-[FL](/index.php/Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
-"Index of teams by region" ) [GL](/index.php/Index_of_teams_by_region#Great_La
-kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](/index.php/
+[FL](Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
+"Index of teams by region" ) [GL](Index_of_teams_by_region#Great_La
+kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](
 Index_of_teams_by_region#Pittsburgh_Regional.2C_Pittsburgh.2C_PA "Index of
-teams by region" ) [MO](/index.php/Index_of_teams_by_region#St._Louis_Regional
-.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](/index.php/Index_of_te
+teams by region" ) [MO](Index_of_teams_by_region#St._Louis_Regional
+.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](Index_of_te
 ams_by_region#UTC_New_England_Regional.2C_Hartford.2C_CT "Index of teams by
-region" ) [MD](/index.php/Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
+region" ) [MD](Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
 polis.2C_MD "Index of teams by region" )
-[DT](/index.php/Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
+[DT](Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
 "Index of teams by region" )
-[GA](/index.php/Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
-"Index of teams by region" ) [SAC](/index.php/Index_of_teams_by_region#Sacrame
-nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](/index.php/
+[GA](Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
+"Index of teams by region" ) [SAC](Index_of_teams_by_region#Sacrame
+nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](
 Index_of_teams_by_region#SBPLI_Long_Island_Regional.2C_Brentwood.2C_NY "Index
 of teams by region" )
-[OH](/index.php/Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
+[OH](Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
 "Index of teams by region" )
-[CO](/index.php/Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
+[CO](Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
 "Index of teams by region" )
-[IL](/index.php/Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
-"Index of teams by region" ) [NY](/index.php/Index_of_teams_by_region#New_York
-_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](/index.php/
+[IL](Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
+"Index of teams by region" ) [NY](Index_of_teams_by_region#New_York
+_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](
 Index_of_teams_by_region#Philadelphia_Regional.2C_Philadelphia.2C_PA "Index of
-teams by region" ) [CA](/index.php/Index_of_teams_by_region#Southern_Californi
-a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](/index.php/I
+teams by region" ) [CA](Index_of_teams_by_region#Southern_Californi
+a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](I
 ndex_of_teams_by_region#Canadian_Regional.2C_Mississauga.2C_ON "Index of teams
 by region" )
-[TX](/index.php/Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
+[TX](Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
 "Index of teams by region" )
-[SC](/index.php/Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
-"Index of teams by region" ) [SJ](/index.php/Index_of_teams_by_region#Silicon_
+[SC](Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
+"Index of teams by region" ) [SJ](Index_of_teams_by_region#Silicon_
 Valley_Regional.2C_San_Jose.2C_CA "Index of teams by region" ) [MI](/index.php
 /Index_of_teams_by_region#West_Michigan_Regional.2C_Grand_Rapids.2C_MI "Index
 of teams by region" )
-[WI](/index.php/Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
+[WI](Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
 "Index of teams by region" )  
   

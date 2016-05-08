@@ -13,16 +13,16 @@ to rules and decided by skill, strength, or luck.
 
 Game may also refer to:
 
-  * [Game (FTC)](/index.php/Game_%28FTC%29 "Game \(FTC\)" ), games for the organization [FIRST Tech Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" )
-  * [Game (FRC)](/index.php/Game_%28FRC%29 "Game \(FRC\)" ), games for the organization [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" )
-  * [Game (FLL)](/index.php/Game_%28FLL%29 "Game \(FLL\)" ), games for the organization [FIRST Lego League](/index.php/FIRST_Lego_League "FIRST Lego League" )
+  * [Game (FTC)](Game_%28FTC%29 "Game \(FTC\)" ), games for the organization [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" )
+  * [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)" ), games for the organization [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" )
+  * [Game (FLL)](Game_%28FLL%29 "Game \(FLL\)" ), games for the organization [FIRST Lego League](FIRST_Lego_League "FIRST Lego League" )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Game_%28disambiguation%29>"
+"<http://www.firstwiki.netGame_%28disambiguation%29>"
 
 ##### Views
 
-  * [Article](/index.php/Game_%28disambiguation%29)
+  * [Article](Game_%28disambiguation%29)
   * [Discussion](/index.php?title=Talk:Game_%28disambiguation%29&action=edit)
   * [Edit](/index.php?title=Game_%28disambiguation%29&action=edit)
   * [History](/index.php?title=Game_%28disambiguation%29&action=history)
@@ -31,17 +31,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Game_\(disambiguation\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -49,10 +49,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Game_%28disambiguation%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Game_%28disambiguation%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Game_%28disambiguation%29)
+  * [Related changes](Special:Recentchangeslinked/Game_%28disambiguation%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Game_%28disambiguation%29&printable=yes)
   * [Permanent link](/index.php?title=Game_%28disambiguation%29&oldid=75719)
 
@@ -65,7 +65,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 00:40, 17 March 2010.
   * This page has been accessed 2,287 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

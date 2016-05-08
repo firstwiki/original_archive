@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/2009_Archiving&limit=500&from=0
 "Special:Whatlinkshere/2009 Archiving" )).
 
-  * [2009 Webcasts](/index.php/2009_Webcasts "2009 Webcasts" )
+  * [2009 Webcasts](2009_Webcasts "2009 Webcasts" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/2009_Archiving&limit=20&from=0
 "Special:Whatlinkshere/2009 Archiving" ) |

@@ -18,15 +18,15 @@ article.
 ---|---  
   
 [![The FLL Logo](/media/thumb/d/d0/FLL_logo.jpg/190px-
-FLL_logo.jpg)](/index.php/Image:FLL_logo.jpg "The FLL Logo" )
+FLL_logo.jpg)](Image:FLL_logo.jpg "The FLL Logo" )
 
-[FIRST](/index.php/FIRST "FIRST" ) Lego League, or [FLL](/index.php/FLL "FLL"
-) was founded in 1998, in a partnership between [FIRST](/index.php/FIRST
-"FIRST" ) and the [LEGO Corporation](/index.php/LEGO_Corporation "LEGO
+[FIRST](FIRST "FIRST" ) Lego League, or [FLL](FLL "FLL"
+) was founded in 1998, in a partnership between [FIRST](FIRST
+"FIRST" ) and the [LEGO Corporation](LEGO_Corporation "LEGO
 Corporation" ). As an offshoot of the [FIRST Robotics
-Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics
+Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ), FLL was designed for a younger audience using the [Lego
-Mindstorms](/index.php/Lego_Mindstorms "Lego Mindstorms" ) kits. Students
+Mindstorms](Lego_Mindstorms "Lego Mindstorms" ) kits. Students
 involved in FLL build small LEGO robots, that traverse a 4' by 8' playing
 field to accomplish tasks related around a core theme.
 
@@ -83,8 +83,8 @@ section: Events" )]
 #  Events
 
 After the 8-week build season in over, FLL teams compete at one of over 200
-regional [FLL Events](/index.php/Category:FLL_Events "Category:FLL Events" ).
-Here, teams usually have three or more [rounds](/index.php/Round "Round" ) in
+regional [FLL Events](Category:FLL_Events "Category:FLL Events" ).
+Here, teams usually have three or more [rounds](Round "Round" ) in
 which they compete with their LEGO robot on the official playing field. Teams
 also present their Research Assignments, technical aspects of their robots,
 and how the team works together to three separate panels of judges.
@@ -99,10 +99,10 @@ known as the Directors Award.) This award is given to the team that has shown
 impressive robot performance, technical design, research, and teamwork. All
 four aspects are weighed equally. Winning the Champions Award at the regional
 level is the only way for an FLL team to reach the [World
-Festival](/index.php/The_Championship_Event "The Championship Event" ), where
+Festival](The_Championship_Event "The Championship Event" ), where
 they fill one of roughly 80 spots. There, they compete in 3 matches, and
 present their research, technical, and teamwork once again, alongside
-[FTC](/index.php/FTC "FTC" ) and [FRC](/index.php/FRC "FRC" ) teams.
+[FTC](FTC "FTC" ) and [FRC](FRC "FRC" ) teams.
 
 [[edit](/index.php?title=FIRST_LEGO_League&action=edit&section=6 "Edit
 section: Technical Awards" )]
@@ -135,7 +135,7 @@ section: Optional Awards" )]
 ###  Optional Awards
 
   * Against All Odds Award 
-  * [Team Spirit Award](/index.php/Team_Spirit_Award_%28FLL%29 "Team Spirit Award \(FLL\)" )
+  * [Team Spirit Award](Team_Spirit_Award_%28FLL%29 "Team Spirit Award \(FLL\)" )
   * Judge's Award 
   * Universal Design Award 
 
@@ -153,18 +153,18 @@ section: Previous Challenges" )]
 ##  Previous Challenges
 
   * 2011 - [Food Factor](/index.php?title=Food_Factor&action=edit "Food Factor" )
-  * 2010 - [Body Forward](/index.php/Body_Forward "Body Forward" )
+  * 2010 - [Body Forward](Body_Forward "Body Forward" )
   * 2009 - [Smart Move](/index.php?title=Smart_Move&action=edit "Smart Move" )
   * 2008 - [Climate Connections](/index.php?title=Climate_Connections&action=edit "Climate Connections" )
-  * 2007 - [Power Puzzle](/index.php/Power_Puzzle "Power Puzzle" )
-  * 2006 - [Nano Quest](/index.php/Nano_Quest "Nano Quest" )
-  * 2005 - [Ocean Odyssey](/index.php/Ocean_Odyssey "Ocean Odyssey" )
-  * 2004 - [No Limits](/index.php/No_Limits "No Limits" )
-  * 2003 - [Mission Mars](/index.php/Mission_Mars "Mission Mars" )
-  * 2002 - [City Sights](/index.php/City_Sights "City Sights" )
-  * 2001 - [Arctic Impact](/index.php/Arctic_Impact "Arctic Impact" )
-  * 2000 - [Volcanic Panic](/index.php/Volcanic_Panic "Volcanic Panic" )
-  * 1999 - [FIRST Contact](/index.php/FIRST_Contact "FIRST Contact" )
+  * 2007 - [Power Puzzle](Power_Puzzle "Power Puzzle" )
+  * 2006 - [Nano Quest](Nano_Quest "Nano Quest" )
+  * 2005 - [Ocean Odyssey](Ocean_Odyssey "Ocean Odyssey" )
+  * 2004 - [No Limits](No_Limits "No Limits" )
+  * 2003 - [Mission Mars](Mission_Mars "Mission Mars" )
+  * 2002 - [City Sights](City_Sights "City Sights" )
+  * 2001 - [Arctic Impact](Arctic_Impact "Arctic Impact" )
+  * 2000 - [Volcanic Panic](Volcanic_Panic "Volcanic Panic" )
+  * 1999 - [FIRST Contact](FIRST_Contact "FIRST Contact" )
 
 [[edit](/index.php?title=FIRST_LEGO_League&action=edit&section=12 "Edit
 section: External Links" )]

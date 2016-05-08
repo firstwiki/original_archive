@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:Carpy1155&limit=500&from=0
 "Special:Whatlinkshere/User:Carpy1155" )).
 
-  * [Talk:The Championship Event](/index.php/Talk:The_Championship_Event "Talk:The Championship Event" )
+  * [Talk:The Championship Event](Talk:The_Championship_Event "Talk:The Championship Event" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Carpy1155&limit=20&from=0
 "Special:Whatlinkshere/User:Carpy1155" ) |

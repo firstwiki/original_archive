@@ -4,9 +4,9 @@
 
 Jump to: navigation, search
 
-The [LEGO Mindstorms](/index.php/LEGO_Mindstorms "LEGO Mindstorms" ) NXT has
+The [LEGO Mindstorms](LEGO_Mindstorms "LEGO Mindstorms" ) NXT has
 been available to consumers in Fall of 2006. The release of NXT greatly
-impacted the [FLL](/index.php/FLL "FLL" ) competition.
+impacted the [FLL](FLL "FLL" ) competition.
 
 
 ## Specifications
@@ -23,19 +23,19 @@ impacted the [FLL](/index.php/FLL "FLL" ) competition.
 
 ##  External links
 
-  * [BrickWiki article](http://brickwiki.zapto.org/index.php/NXT "http://brickwiki.zapto.org/index.php/NXT" )
+  * [BrickWiki article](http://brickwiki.zapto.orgNXT "http://brickwiki.zapto.orgNXT" )
   * [WIRED Preview Story](http://www.wired.com/news/technology/0,69946-0.html "http://www.wired.com/news/technology/0,69946-0.html" )
   * [FLL NXT Announcement](http://www.firstlegoleague.org/default.aspx?pid=21330 "http://www.firstlegoleague.org/default.aspx?pid=21330" )
   * [FLL NXT FAQ](http://www.firstlegoleague.org/default.aspx?pid=21400 "http://www.firstlegoleague.org/default.aspx?pid=21400" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=NXT&action=edit
 "http://www.firstwiki.net/index.php?title=NXT&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

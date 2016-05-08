@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 Cyber Blue  
 ---  
-[![Image:234_logo.jpg](/media/3/3c/234_logo.jpg)](/index.php/Image:234_logo.jp
+[![Image:234_logo.jpg](/media/3/3c/234_logo.jpg)](Image:234_logo.jp
 g "Image:234_logo.jpg" )  
 Rookie Year: | 1999  
 Inactive Years: | {{{inactive}}}  
@@ -80,8 +80,8 @@ Indianapolis.
   * [2008 - Ritchie X](/index.php?title=Ritchie_X&action=edit "Ritchie X" )
   * [2007 - Henry IX](/index.php?title=Henry_IX&action=edit "Henry IX" )
   * [2006 - Henry VIII](/index.php?title=Henry_VIII&action=edit "Henry VIII" )
-  * [2005 - Falcon VII](/index.php/Falcon_VII_%28234%29 "Falcon VII \(234\)" )
-  * [2004 - Falcon VI](/index.php/Falcon_VI_%28234%29 "Falcon VI \(234\)" )
+  * [2005 - Falcon VII](Falcon_VII_%28234%29 "Falcon VII \(234\)" )
+  * [2004 - Falcon VI](Falcon_VI_%28234%29 "Falcon VI \(234\)" )
   * [2003 - Falcon V](/index.php?title=Falcon_V_%28234%29&action=edit "Falcon V \(234\)" )
   * [2002 - Beefshredder](/index.php?title=Beefshredder_%28234%29&action=edit "Beefshredder \(234\)" )
   * [2001 - Beefeater](/index.php?title=Beefeater_%28234%29&action=edit "Beefeater \(234\)" )
@@ -95,7 +95,7 @@ Indianapolis.
 This section should be for a few Major accomplishments that deserve to be
 highlighted.  
 Additional accomplishments should be moved to the appropriate Team/Year page.
-See [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page
+See [FIRSTwiki:Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page
 formats" ) for more help.  
 ---  
   

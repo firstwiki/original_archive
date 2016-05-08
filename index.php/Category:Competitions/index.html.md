@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Articles related to any/all [competitions](/index.php/Competitions
+Articles related to any/all [competitions](Competitions
 "Competitions" ).
 
   
@@ -15,15 +15,15 @@ There are 3 subcategories to this category.
 
 ### O
 
-  * [Off-season competitions](/index.php/Category:Off-season_competitions "Category:Off-season competitions" )
+  * [Off-season competitions](Category:Off-season_competitions "Category:Off-season competitions" )
 
 ### F
 
-  * [FRC Games](/index.php/Category:FRC_Games "Category:FRC Games" )
+  * [FRC Games](Category:FRC_Games "Category:FRC Games" )
 
 ### R
 
-  * [Regionals](/index.php/Category:Regionals "Category:Regionals" )
+  * [Regionals](Category:Regionals "Category:Regionals" )
 
 ## Articles in category "Competitions"
 
@@ -31,18 +31,18 @@ There are 5 articles in this category.
 
 ### C
 
-  * [Competitions](/index.php/Competitions "Competitions" )
+  * [Competitions](Competitions "Competitions" )
 
 ### I
 
-  * [Index of Regionals](/index.php/Index_of_Regionals "Index of Regionals" )
-  * [Index of off-season competitions](/index.php/Index_of_off-season_competitions "Index of off-season competitions" )
+  * [Index of Regionals](Index_of_Regionals "Index of Regionals" )
+  * [Index of off-season competitions](Index_of_off-season_competitions "Index of off-season competitions" )
 
 ### T
 
-  * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" )
+  * [The Championship Event](The_Championship_Event "The Championship Event" )
 
 ### W
 
-  * [Webcasting and Recording](/index.php/Webcasting_and_Recording "Webcasting and Recording" )
+  * [Webcasting and Recording](Webcasting_and_Recording "Webcasting and Recording" )
 

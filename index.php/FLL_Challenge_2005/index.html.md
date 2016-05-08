@@ -22,7 +22,7 @@ Official Site: | [2005 Ocean
 Odyssey](http://www.firstlegoleague.org/default.aspx?pid=17940
 "http://www.firstlegoleague.org/default.aspx?pid=17940" )  
   
-The [FLL Challenge](/index.php/FLL_Challenge "FLL Challenge" ) theme for 2005
+The [FLL Challenge](FLL_Challenge "FLL Challenge" ) theme for 2005
 was Ocean Odyssey. FLL teams were tasked to compete in this year's Robot Game,
 as well as research our world's Oceans to help come up with solutions to
 protect this vital resource.
@@ -44,8 +44,8 @@ ocean's distress call!"
 The robot game is played on 8 foot x 4 foot board. It had models made out of
 LEGO on it related to that year's theme. A robot is built entirely from Lego
 Mindstorms kits and Lego pieces to autonomously complete the missions on the
-board. Each [mission](/index.php/Mission "Mission" ) has a specific point
-value. To see this year's [missions](/index.php/Mission "Mission" ), point
+board. Each [mission](Mission "Mission" ) has a specific point
+value. To see this year's [missions](Mission "Mission" ), point
 values, and so forth, go to [the 2005 Robot
 Game](http://www.firstlegoleague.org/default.aspx?pid=15910
 "http://www.firstlegoleague.org/default.aspx?pid=15910" )

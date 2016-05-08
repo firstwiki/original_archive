@@ -5,9 +5,9 @@
 
 Jump to: navigation, search
 
-A **transmission** provides different [gear](/index.php/Gear "Gear" ) ratios
-to get the full potential out of the [motors](/index.php/Motor "Motor" )
-provided in the [kit of parts](/index.php/Kit_of_parts "Kit of parts" ).
+A **transmission** provides different [gear](Gear "Gear" ) ratios
+to get the full potential out of the [motors](Motor "Motor" )
+provided in the [kit of parts](Kit_of_parts "Kit of parts" ).
 
 ## Contents
 
@@ -25,9 +25,9 @@ provided in the [kit of parts](/index.php/Kit_of_parts "Kit of parts" ).
 For many teams, the drill motor and it's built-in planetary gearbox (plus an
 additional chain &amp; sprocket reduction) was plenty enough to power the
 drivetrain of their robot. In 2005, the drill motors were phased out and were
-replaced with 2 more [CIM](/index.php/CIM "CIM" ) motors, giving a total of 4
-[CIM](/index.php/CIM "CIM" ) motors in the [kit of
-parts](/index.php/Kit_of_parts "Kit of parts" ). Additionally, a custom kit
+replaced with 2 more [CIM](CIM "CIM" ) motors, giving a total of 4
+[CIM](CIM "CIM" ) motors in the [kit of
+parts](Kit_of_parts "Kit of parts" ). Additionally, a custom kit
 transmission was packed into the 2005 kit of parts, giving teams a 1 or 2
 motor, single speed transmission.
 
@@ -66,15 +66,15 @@ allows their transmissions to be much smaller. Some teams shift by changing
 the size of their wheels (they would switch between different pairs of wheels,
 a smaller wheel for more torque, a bigger one for more speed).  
 Some teams take it to the next level and incorperate a [Continously Variable
-Transmission (CVT)](/index.php/CVT "CVT" ), allowing an infinite amount of
+Transmission (CVT)](CVT "CVT" ), allowing an infinite amount of
 reduction ratios.
 
 
 ### Motors
 
 Teams generally use the most powerful motors in the kit to drive their robot;
-these motors (2005) would be the 4 [CIMs](/index.php/CIM "CIM" ) and the 2
-[Fisher Price motors](/index.php/Fisher_Price_motor "Fisher Price motor" ).
+these motors (2005) would be the 4 [CIMs](CIM "CIM" ) and the 2
+[Fisher Price motors](Fisher_Price_motor "Fisher Price motor" ).
 Since 4 CIM motors were included in the kit, constructing a 2 motor
 transmission was not very difficult, since no reduction was needed. Some teams
 chose to also add in the fisher price motor, either to replace one set of CIM
@@ -85,8 +85,8 @@ planetaries sold by AndyMark.
 
 ##  Types
 
-  * [CVT](/index.php/CVT "CVT" ) \- Experimental, at best 
-  * [Four speed transmission](/index.php/Four_speed_transmission "Four speed transmission" ) \- Simple, powerful, light. 
+  * [CVT](CVT "CVT" ) \- Experimental, at best 
+  * [Four speed transmission](Four_speed_transmission "Four speed transmission" ) \- Simple, powerful, light. 
 
 
 ##  External links

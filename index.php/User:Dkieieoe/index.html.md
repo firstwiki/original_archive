@@ -3200,8 +3200,8 @@ hit.In addition,[air jordan pas cher](http://www.airjordanpasacher.com
 (Bara),[louboutin](http://www.chaussurealouboutinfrance.com
 "http://www.chaussurealouboutinfrance.com" ), 20 to 25 militants attacked a
 border Legion militia " " a screening station,[Philippines and Benin
-etc.](http://www.the-back-row.com/index.php/2012/07/15/ "http://www.the-back-
-row.com/index.php/2012/07/15/" ) Top Australian contractor Leighton Holding's
+etc.](http://www.the-back-row.com2012/07/15/ "http://www.the-back-
+row.com2012/07/15/" ) Top Australian contractor Leighton Holding's
 mining services arm Thiess announced Monday it had been awarded a contract
 worth 2.3 billion AU dollars for extending mining operations at Jellinbah
 Group's Lake Vermont coal mine in Queensland's Bowen Basin.,[michael kors
@@ -4583,8 +4583,8 @@ Island,[louboutin pas cher](http://www.louboutinfrancepascher.com
 the violence,[jordan pas cher](http://www.airjordanpasacher.com
 "http://www.airjordanpasacher.com" ), "comfort women" system is the most
 ugly,[no gloves Wen Linxia only manual
-delivery](http://abtechno.org/index.php/2012/05/24/
-"http://abtechno.org/index.php/2012/05/24/" ) Top Australian contractor
+delivery](http://abtechno.org2012/05/24/
+"http://abtechno.org2012/05/24/" ) Top Australian contractor
 Leighton Holding's mining services arm Thiess announced Monday it had been
 awarded a contract worth 2.3 billion AU dollars for extending mining
 operations at Jellinbah Group's Lake Vermont coal mine in Queensland's Bowen
@@ -5287,9 +5287,9 @@ extending mining operations at Jellinbah Group's Lake Vermont coal mine in
 Queensland's Bowen Basin., 15 heavily armed gunmen in Maguindanao province
 section of highway to intercept two trucks,[air
 jordan](http://www.airjordanpasacher.com "http://www.airjordanpasacher.com"
-),[In new network on 3 March](http://www.herbalwiki.org/index.php/User:Dkieieo
+),[In new network on 3 March](http://www.herbalwiki.orgUser:Dkieieo
 e#In_new_network_on_3_March
-"http://www.herbalwiki.org/index.php/User:Dkieieoe#In_new_network_on_3_March"
+"http://www.herbalwiki.orgUser:Dkieieoe#In_new_network_on_3_March"
 ) Top Australian contractor Leighton Holding's mining services arm Thiess
 announced Monday it had been awarded a contract worth 2.3 billion AU dollars
 for extending mining operations at Jellinbah Group's Lake Vermont coal mine in

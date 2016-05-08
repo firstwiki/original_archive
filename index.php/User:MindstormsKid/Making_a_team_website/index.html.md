@@ -2,7 +2,7 @@
 
 ### From FIRSTwiki
 
-&lt; [User:MindstormsKid](/index.php/User:MindstormsKid "User:MindstormsKid" )
+&lt; [User:MindstormsKid](User:MindstormsKid "User:MindstormsKid" )
 
 Jump to: navigation, search
 

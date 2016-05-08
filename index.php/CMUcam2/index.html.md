@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -13,58 +13,58 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=CMUcam2&action=edit
 "http://www.firstwiki.net/index.php?title=CMUcam2&action=edit" ) to make a
-significant article. _See more [stubs](/index.php/Special:Shortpages
+significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
   
   
 
-The [Control System](/index.php/Control_system "Control system" )
+The [Control System](Control_system "Control system" )
 
-**[Logic of a Control System](/index.php/Logic_of_a_control_system "Logic of a control system" )**
+**[Logic of a Control System](Logic_of_a_control_system "Logic of a control system" )**
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-    * [PID controller](/index.php/PID_controller "PID controller" )
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Closed loop](Closed_loop "Closed loop" )
+    * [PID controller](PID_controller "PID controller" )
+  * [Open loop](Open_loop "Open loop" )
 
-**[Parts of a Control System](/index.php/Parts_of_a_control_system "Parts of a control system" )**
+**[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
-  * [Computer](/index.php/Computer "Computer" )
-    * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-      * [2010 RC](/index.php/Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
-      * [2009 RC](/index.php/Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
-      * [2006 RC](/index.php/Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
-      * [2004 RC](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
-      * [2003 RC](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
-      * [2000 RC](/index.php/Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
+  * [Computer](Computer "Computer" )
+    * [Robot Controller](Robot_Controller "Robot Controller" )
+      * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
+      * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
+      * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
+      * [2004 RC](Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
+      * [2003 RC](Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
+      * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](/index.php/Robovation "Robovation" )
-  * [Input](/index.php/Input "Input" )
-    * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-    * [Joystick](/index.php/Joystick "Joystick" )
-  * [Output](/index.php/Output "Output" )
-    * [Victor 884](/index.php/Victor_884 "Victor 884" )
-    * [Spike](/index.php/Spike "Spike" )
-  * [Sensors](/index.php/Sensor "Sensor" )
-    * [Encoder](/index.php/Encoder "Encoder" )
-    * [Accelerometer](/index.php/Accelerometer "Accelerometer" )
+    * [Robovation](Robovation "Robovation" )
+  * [Input](Input "Input" )
+    * [Operator Interface](Operator_Interface "Operator Interface" )
+    * [Joystick](Joystick "Joystick" )
+  * [Output](Output "Output" )
+    * [Victor 884](Victor_884 "Victor 884" )
+    * [Spike](Spike "Spike" )
+  * [Sensors](Sensor "Sensor" )
+    * [Encoder](Encoder "Encoder" )
+    * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
-    * [IR sensor](/index.php/IR_sensor "IR sensor" )
-    * [Gyro](/index.php/Gyro "Gyro" )
+    * [IR sensor](IR_sensor "IR sensor" )
+    * [Gyro](Gyro "Gyro" )
     * **CMUcam2**  
 ---  
   
 The **CMUcam2** is a vision system given to teams in the [kit of
-parts](/index.php/Kit_of_parts "Kit of parts" ), starting in
-[2005](/index.php/Triple_Play "Triple Play" ).
+parts](Kit_of_parts "Kit of parts" ), starting in
+[2005](Triple_Play "Triple Play" ).
 
 The camera communicates with the [full robot
-controller](/index.php/Full_robot_controller "Full robot controller" ) via the
+controller](Full_robot_controller "Full robot controller" ) via the
 [TTL](/index.php?title=TTL&action=edit "TTL" ) port, with an TTL/RS-232
 converter and buffer provided by [Innovation
-First](/index.php/Innovation_First%2C_Inc. "Innovation First, Inc." ). The
+First](Innovation_First%2C_Inc. "Innovation First, Inc." ). The
 camera is commonly mounted to two servos in order to locate objects.
 
 ## Contents
@@ -83,11 +83,11 @@ camera is commonly mounted to two servos in order to locate objects.
 
 The camera is used to track a colored object.
 
-In [2005](/index.php/Triple_Play "Triple Play" ), colored pieces of plastic
+In [2005](Triple_Play "Triple Play" ), colored pieces of plastic
 were used. These did not work too well, as the camera was very sensitive to
 their angle, and the amount of light.
 
-In [2006](/index.php/Aim_High "Aim High" ), the camera has a green target that
+In [2006](Aim_High "Aim High" ), the camera has a green target that
 is lit by six lights. This ensures that the lighting conditions do not effect
 the ability of the camera too much.
 
@@ -122,9 +122,9 @@ to check if the camera is not operating properly.
 
 Were any wires pulled loose? The camera itself has two PWM cables going into
 it. One powers the camera, and is plugged into any free PWM port on the [robot
-controller](/index.php/Robot_controller "Robot controller" ). The other is
+controller](Robot_controller "Robot controller" ). The other is
 plugged into the small TTL/RS-232 converter, which is then plugged into the
-[robot controller](/index.php/Robot_controller "Robot controller" ).
+[robot controller](Robot_controller "Robot controller" ).
 
 
 ### Status Lights

@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=694_in_2008&action=edit
@@ -13,25 +13,25 @@ section](http://www.firstwiki.net/index.php?title=694_in_2008&action=edit
 expanding it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:694_in_2008&action=edit "Talk:694 in 2008" ) or at
-[requests for expansion](/index.php/FIRSTwiki:Requests_for_expansion
+[requests for expansion](FIRSTwiki:Requests_for_expansion
 "FIRSTwiki:Requests for expansion" ).  
 ---|---  
   
-**[694](/index.php/694 "694" )**
+**[694](694 "694" )**
 
-  * [2009](/index.php/694_in_2009 "694 in 2009" )
+  * [2009](694_in_2009 "694 in 2009" )
   * **2008**
-  * [2007](/index.php/694_in_2007 "694 in 2007" )
-  * [2006](/index.php/694_in_2006 "694 in 2006" )
-  * [2005](/index.php/694_in_2005 "694 in 2005" )
-  * [2004](/index.php/694_in_2004 "694 in 2004" )
-  * [2003](/index.php/694_in_2003 "694 in 2003" )
-  * [2002](/index.php/694_in_2002 "694 in 2002" )
-  * [2001](/index.php/694_in_2001 "694 in 2001" )
+  * [2007](694_in_2007 "694 in 2007" )
+  * [2006](694_in_2006 "694 in 2006" )
+  * [2005](694_in_2005 "694 in 2005" )
+  * [2004](694_in_2004 "694 in 2004" )
+  * [2003](694_in_2003 "694 in 2003" )
+  * [2002](694_in_2002 "694 in 2002" )
+  * [2001](694_in_2001 "694 in 2001" )
 
 * * *
 
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   
 ---  
   
@@ -101,11 +101,11 @@ _Engineers Write here_
 
 [![Desbot doing what it does
 best](/media/thumb/9/92/N788915578_796432_2784.jpg/180px-
-N788915578_796432_2784.jpg)](/index.php/Image:N788915578_796432_2784.jpg
+N788915578_796432_2784.jpg)](Image:N788915578_796432_2784.jpg
 "Desbot doing what it does best" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:N788915578_796432_2784.jpg "Enlarge" )
+clip.png)](Image:N788915578_796432_2784.jpg "Enlarge" )
 
 Desbot doing what it does best
 

@@ -10,5 +10,5 @@ division.
 
 Kim is indeed the reason for "KimSpiration" (TM)
 
-Retrieved from "<http://www.firstwiki.org/index.php/User:Kotoole>"
+Retrieved from "<http://www.firstwiki.orgUser:Kotoole>"
 

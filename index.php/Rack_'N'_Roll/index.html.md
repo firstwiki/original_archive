@@ -4,19 +4,19 @@
 
 Jump to: navigation, search
 
-[![](/media/6/68/Merge-arrow.gif)](/index.php/Image:Merge-arrow.gif "" )
+[![](/media/6/68/Merge-arrow.gif)](Image:Merge-arrow.gif "" )
 
 It has been suggested that this article or section be
 [merged](http://www.wikipedia.org/wiki/Merging_and_moving_pages
 "wikipedia:Merging_and_moving_pages" ) into _[Rack 'n'
-Roll](/index.php/Rack_%27n%27_Roll "Rack 'n' Roll" )_.
-([Discuss](/index.php/Talk:Rack_%27n%27_Roll "Talk:Rack 'n' Roll" ))
+Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )_.
+([Discuss](Talk:Rack_%27n%27_Roll "Talk:Rack 'n' Roll" ))
 
 [![Rack 'N' Roll Logo](/media/thumb/0/04/Game_logo.jpg/180px-
-Game_logo.jpg)](/index.php/Image:Game_logo.jpg "Rack 'N' Roll Logo" )
+Game_logo.jpg)](Image:Game_logo.jpg "Rack 'N' Roll Logo" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Game_logo.jpg "Enlarge" )
+clip.png)](Image:Game_logo.jpg "Enlarge" )
 
 Rack 'N' Roll Logo
 
@@ -30,7 +30,7 @@ contains eight dynamic spider legs on which teams may score. Each game piece
 is worth two points, and grows exponentially with the creation of new rows and
 columns. For example, a column of three spider legs is worth 8 points, while a
 row of six is worth 64 points. The rack also includes four illuminated green
-targets (as used in the 2006 game, [Aim High](/index.php/Aim_High "Aim High"
+targets (as used in the 2006 game, [Aim High](Aim_High "Aim High"
 )) oriented above four vertical rows of spider legs. The targets are oriented
 around the rack at 90 degrees from each other so that two targets are always
 visible.
@@ -60,6 +60,6 @@ ringers, the spoiler may be de-scored and moved to another row at any time.
 
 While competing in this game, team members are expected, even in tough
 situations, to practice [gracious
-professionalism](/index.php/Gracious_professionalism "Gracious
+professionalism](Gracious_professionalism "Gracious
 professionalism" ).
 

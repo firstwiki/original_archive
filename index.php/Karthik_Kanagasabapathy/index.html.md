@@ -4,12 +4,12 @@
 
 Jump to: navigation, search
 
-This person is an [Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung
+This person is an [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung
 FIRST Hero" ).
 
 **Name:** Karthik Kanagasabapathy  
 **Years involved with FIRST:** 11  
-**FIRST Team(s):** [Woburn Robotics](/index.php/188 "188" ) (0188), [Simbotics](/index.php/1114 "1114" ) (1114)  
+**FIRST Team(s):** [Woburn Robotics](188 "188" ) (0188), [Simbotics](1114 "1114" ) (1114)  
 **Role:** Team Advisor/Consultant  
 **Quote:** "For me, winning isn't something that happens suddenly on the field when the whistle blows and the crowds roar. Winning is something that builds physically and mentally every day that you train and every night that you dream." - Emmitt Smith  
 **Bio:** Karthik Kanagasabapathy is well known on the Chief Delphi forums (and no, not just for that whopper of a name). Karthik, a member of the Waterloo Regional Committee and an active member of NiagaraFIRST, is becoming well known as a guiding voice and talented mentor in FIRST. 
@@ -87,9 +87,9 @@ Congratulations to Karthik Kanagasabapathy for being an Unsung FIRST Hero.
 Extracted from ChiefDelphi
 
 |  **[![](/media/thumb/9/96/Ufhimage.jpg/43px-
-Ufhimage.jpg)](/index.php/Image:Ufhimage.jpg "" )** | This user is an
-**[Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
-[Honoree](/index.php/Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
+Ufhimage.jpg)](Image:Ufhimage.jpg "" )** | This user is an
+**[Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
+[Honoree](Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
 Heroes" )**. |  
 ---|---|---  
   

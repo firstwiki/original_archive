@@ -22,7 +22,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [14:10, 4 April 2010](/media/5/59/2010_robot.JPG "/media/5/59/2010 robot.JPG" ) . . [Frc1807](/index.php?title=User:Frc1807&action=edit "User:Frc1807" ) ([Talk](/index.php/User_talk:Frc1807 "User talk:Frc1807" )) . . 455x311 (38212 bytes)
+  * (del) (cur) [14:10, 4 April 2010](/media/5/59/2010_robot.JPG "/media/5/59/2010 robot.JPG" ) . . [Frc1807](/index.php?title=User:Frc1807&action=edit "User:Frc1807" ) ([Talk](User_talk:Frc1807 "User talk:Frc1807" )) . . 455x311 (38212 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:2010_robot.JPG&action=edit&externaledit=true&mode=file "Image:2010 robot.JPG" )
@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1807](/index.php/1807 "1807" )
+  * [1807](1807 "1807" )
 
 ## Metadata
 

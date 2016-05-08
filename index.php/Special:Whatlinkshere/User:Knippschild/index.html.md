@@ -23,8 +23,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:Knippschild&limit=500&from=0
 "Special:Whatlinkshere/User:Knippschild" )).
 
-  * [FIRSTwiki:Featured article candidates](/index.php/FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates" )
-  * [Talk:433](/index.php/Talk:433 "Talk:433" )
+  * [FIRSTwiki:Featured article candidates](FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates" )
+  * [Talk:433](Talk:433 "Talk:433" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Knippschild&limit=20&from=0
 "Special:Whatlinkshere/User:Knippschild" ) |

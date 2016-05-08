@@ -34,5 +34,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [25](/index.php/25 "25" )
+  * [25](25 "25" )
 

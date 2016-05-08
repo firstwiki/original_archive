@@ -6,43 +6,43 @@
 
 Jump to: navigation, search
 
-[![](/media/a/ae/Mergefrom.gif)](/index.php/Image:Mergefrom.gif "" )
+[![](/media/a/ae/Mergefrom.gif)](Image:Mergefrom.gif "" )
 
-It has been suggested that _[Rack 'N' Roll](/index.php/Rack_%27N%27_Roll "Rack
+It has been suggested that _[Rack 'N' Roll](Rack_%27N%27_Roll "Rack
 'N' Roll" )_ be
 [merged](http://www.wikipedia.org/wiki/Merging_and_moving_pages
 "wikipedia:Merging_and_moving_pages" ) into this article or section.
-([Discuss](/index.php/Talk:Rack_%27n%27_Roll "Talk:Rack 'n' Roll" ))
+([Discuss](Talk:Rack_%27n%27_Roll "Talk:Rack 'n' Roll" ))
 
 Index of FRC Games  
 ---  
   
-  * 2011 [Rebound Rumble](/index.php/Rebound_Rumble "Rebound Rumble" )
-  * 2011 [Logo Motion](/index.php/Logo_Motion "Logo Motion" )
-  * 2010 [Breakaway](/index.php/Breakaway "Breakaway" )
-  * 2009 [Lunacy](/index.php/Lunacy "Lunacy" )
-  * 2008 [FIRST Overdrive](/index.php/FIRST_Overdrive "FIRST Overdrive" )
+  * 2011 [Rebound Rumble](Rebound_Rumble "Rebound Rumble" )
+  * 2011 [Logo Motion](Logo_Motion "Logo Motion" )
+  * 2010 [Breakaway](Breakaway "Breakaway" )
+  * 2009 [Lunacy](Lunacy "Lunacy" )
+  * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 **Rack 'n' Roll**
-  * 2006 [Aim High](/index.php/Aim_High "Aim High" )
-  * 2005 [Triple Play](/index.php/Triple_Play "Triple Play" )
-  * 2004 [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
-  * 2003 [Stack Attack](/index.php/Stack_Attack "Stack Attack" )
-  * 2002 [Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" )
-  * 2001 [Diabolical Dynamics](/index.php/Diabolical_Dynamics "Diabolical Dynamics" )
-  * 2000 [Co-Opertition FIRST](/index.php/Co-Opertition_FIRST "Co-Opertition FIRST" )
-  * 1999 [Double Trouble](/index.php/Double_Trouble "Double Trouble" )
-  * 1998 [Ladder Logic](/index.php/Ladder_Logic "Ladder Logic" )
-  * 1997 [Toroid Terror](/index.php/Toroid_Terror "Toroid Terror" )
-  * 1996 [Hexagon Havoc](/index.php/Hexagon_Havoc "Hexagon Havoc" )
-  * 1995 [Ramp n' Roll](/index.php/Ramp_n%27_Roll "Ramp n' Roll" )
-  * 1994 [Tower Power](/index.php/Tower_Power "Tower Power" )
-  * 1993 [Rug Rage](/index.php/Rug_Rage "Rug Rage" )
-  * 1992 [Maize Craze](/index.php/Maize_Craze "Maize Craze" )  
+  * 2006 [Aim High](Aim_High "Aim High" )
+  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
+  * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
+  * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
+  * 2001 [Diabolical Dynamics](Diabolical_Dynamics "Diabolical Dynamics" )
+  * 2000 [Co-Opertition FIRST](Co-Opertition_FIRST "Co-Opertition FIRST" )
+  * 1999 [Double Trouble](Double_Trouble "Double Trouble" )
+  * 1998 [Ladder Logic](Ladder_Logic "Ladder Logic" )
+  * 1997 [Toroid Terror](Toroid_Terror "Toroid Terror" )
+  * 1996 [Hexagon Havoc](Hexagon_Havoc "Hexagon Havoc" )
+  * 1995 [Ramp n' Roll](Ramp_n%27_Roll "Ramp n' Roll" )
+  * 1994 [Tower Power](Tower_Power "Tower Power" )
+  * 1993 [Rug Rage](Rug_Rage "Rug Rage" )
+  * 1992 [Maize Craze](Maize_Craze "Maize Craze" )  
   
   
 
   
-The 2007 [FRC](/index.php/FRC "FRC" ) game is called Rack 'n' Roll. The game
+The 2007 [FRC](FRC "FRC" ) game is called Rack 'n' Roll. The game
 involved manipulating various rings to make rows on a large central rack.
 
 ## Contents
@@ -59,18 +59,18 @@ section: Game Description" )]
 ## Game Description
 
 Note: this section is heavily paraphrased and/or directly copied from the 2007
-[Game Manual](/index.php/Game_Manual "Game Manual" ). Until someone writes up
+[Game Manual](Game_Manual "Game Manual" ). Until someone writes up
 a better description, this will have to do.
 
 Rack ‘n’ Roll is played by two three-team alliances on a large field with a
 center structure (Rack) containing 24 “spider legs.” To score, teams use three
-different types of tubes called “[Keepers](/index.php/Keeper "Keeper" ),”
-“[Ringers](/index.php/Ringer "Ringer" ),” and “[Spoilers](/index.php/Spoiler
+different types of tubes called “[Keepers](Keeper "Keeper" ),”
+“[Ringers](Ringer "Ringer" ),” and “[Spoilers](Spoiler
 "Spoiler" ).”
 
 The game is made up of two scoring periods. In autonomous mode, which lasts 15
-seconds, robots try to place a [Keeper](/index.php/Keeper "Keeper" ) on one of
-the spider legs of the [Rack](/index.php/Rack "Rack" ) using a color vision
+seconds, robots try to place a [Keeper](Keeper "Keeper" ) on one of
+the spider legs of the [Rack](Rack "Rack" ) using a color vision
 tracking system to find one of the four target lights at the top of the rack.
 Once placed, a Keeper tube may not be removed or “Spoiled.”
 
@@ -102,11 +102,11 @@ the final buzzer sounds.
 
 Explanation of Game Pieces:
 
-  * Red or Blue w/lettering -> [Keeper](/index.php/Keeper "Keeper" )
-  * Red or Blue w/out lettering -> [Ringer](/index.php/Ringer "Ringer" )
-  * Black -> [Spoiler](/index.php/Spoiler "Spoiler" )
+  * Red or Blue w/lettering -> [Keeper](Keeper "Keeper" )
+  * Red or Blue w/out lettering -> [Ringer](Ringer "Ringer" )
+  * Black -> [Spoiler](Spoiler "Spoiler" )
 
-[![Image:Field2007.jpg](/media/a/a4/Field2007.jpg)](/index.php/Image:Field2007
+[![Image:Field2007.jpg](/media/a/a4/Field2007.jpg)](Image:Field2007
 .jpg "Image:Field2007.jpg" )
 
 [[edit](/index.php?title=Rack_%27n%27_Roll&action=edit&section=2 "Edit
@@ -120,10 +120,10 @@ section: New Features" )]
 ## New Features
 
 Besides the obvious new features associated with the new [Game
-Objects](/index.php/Game_Object "Game Object" ), several new ideas were
+Objects](Game_Object "Game Object" ), several new ideas were
 incorporated into the 2007 game:
 
-  * Teams now have a [Weight Class](/index.php/Weight_Class "Weight Class" ). Basically, the lower your weight, the higher your potential [Starting Configuration](/index.php/Starting_Configuration "Starting Configuration" ). 
+  * Teams now have a [Weight Class](Weight_Class "Weight Class" ). Basically, the lower your weight, the higher your potential [Starting Configuration](Starting_Configuration "Starting Configuration" ). 
     
     
      4 feet=120 pounds
@@ -131,7 +131,7 @@ incorporated into the 2007 game:
      6 feet=100 pounds
     
 
-  * Teams can now expand to a 6' * 6' * ceiling height [Playing Configuration](/index.php/Playing_Configuration "Playing Configuration" ), as opposed to 5' * 5' * 5' in previous years. 
+  * Teams can now expand to a 6' * 6' * ceiling height [Playing Configuration](Playing_Configuration "Playing Configuration" ), as opposed to 5' * 5' * 5' in previous years. 
 
 [[edit](/index.php?title=Rack_%27n%27_Roll&action=edit&section=4 "Edit
 section: Robots" )]

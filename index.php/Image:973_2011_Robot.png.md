@@ -1,6 +1,6 @@
 # Forbidden
 
-You don't have permission to access /index.php/Image:973_2011_Robot.png on
+You don't have permission to access Image:973_2011_Robot.png on
 this server.
 
 * * *

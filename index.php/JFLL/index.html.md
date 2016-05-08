@@ -11,7 +11,7 @@ Jump to: navigation, search
 The [Junior FIRST LEGO
 League](http://www.firstlegoleague.org/default.aspx?pid=18130
 "http://www.firstlegoleague.org/default.aspx?pid=18130" ) is a spin-off of the
-[FLL](/index.php/FLL "FLL" ) program. The JFLL is for elementary school age
+[FLL](FLL "FLL" ) program. The JFLL is for elementary school age
 children.
 
 Created in partnership with the LEGO Group, Junior FIRST LEGO League (JFLL) is

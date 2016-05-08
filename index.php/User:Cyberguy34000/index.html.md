@@ -22,7 +22,7 @@ section: Background" )]
 
 ## Background
 
-Currently head scout for team [662](/index.php/662 "662" )
+Currently head scout for team [662](662 "662" )
 
 YAY!
 

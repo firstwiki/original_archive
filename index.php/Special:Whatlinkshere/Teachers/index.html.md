@@ -22,8 +22,8 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Teachers&limit=500&from=0
 "Special:Whatlinkshere/Teachers" )).
 
-  * [FIRST Robotics Team](/index.php/FIRST_Robotics_Team "FIRST Robotics Team" )
-  * [Mentors](/index.php/Mentors "Mentors" )
+  * [FIRST Robotics Team](FIRST_Robotics_Team "FIRST Robotics Team" )
+  * [Mentors](Mentors "Mentors" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Teachers&limit=20&from=0
 "Special:Whatlinkshere/Teachers" ) |

@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 The Short Circuits  
 ---  
-[![Team logo](/media/3/35/Sclogo.gif)](/index.php/Image:Sclogo.gif "Team logo"
+[![Team logo](/media/3/35/Sclogo.gif)](Image:Sclogo.gif "Team logo"
 )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  

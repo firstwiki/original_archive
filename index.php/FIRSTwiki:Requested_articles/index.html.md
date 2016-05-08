@@ -26,8 +26,8 @@ Jump to: navigation, search
 
 ### Control System
 
-  * [Boolean algebra](/index.php/Boolean_algebra "Boolean algebra" )
-  * [Multi-bank programming](/index.php/Multi-bank_programming "Multi-bank programming" )
+  * [Boolean algebra](Boolean_algebra "Boolean algebra" )
+  * [Multi-bank programming](Multi-bank_programming "Multi-bank programming" )
   * [Digital filter for joysticks](/index.php?title=Digital_filter_for_joysticks&action=edit "Digital filter for joysticks" )
   * [Timers](/index.php?title=Timers&action=edit "Timers" )
   * [IR Decoder Board](/index.php?title=IR_Decoder_Board&action=edit "IR Decoder Board" )
@@ -37,7 +37,7 @@ Jump to: navigation, search
 
 ### Fabrication
 
-  * [Hand-tools](/index.php/Hand-tools "Hand-tools" )
+  * [Hand-tools](Hand-tools "Hand-tools" )
   * [Machine shop](/index.php?title=Machine_shop&action=edit "Machine shop" )
   * [Reading a technical specification](/index.php?title=Reading_a_technical_specification&action=edit "Reading a technical specification" )
   * [Common materials list](/index.php?title=Common_materials_list&action=edit "Common materials list" )
@@ -76,12 +76,12 @@ Jump to: navigation, search
 ### First Lego League
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Requested_articles>"
+"<http://www.firstwiki.netFIRSTwiki:Requested_articles>"
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Requested_articles)
-  * [Discussion](/index.php/FIRSTwiki_talk:Requested_articles)
+  * [Project page](FIRSTwiki:Requested_articles)
+  * [Discussion](FIRSTwiki_talk:Requested_articles)
   * [Edit](/index.php?title=FIRSTwiki:Requested_articles&action=edit)
   * [History](/index.php?title=FIRSTwiki:Requested_articles&action=history)
 
@@ -89,17 +89,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Requested_articles)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -107,10 +107,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Requested_articles)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Requested_articles)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Requested_articles)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Requested_articles)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Requested_articles&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Requested_articles&oldid=82646)
 
@@ -123,7 +123,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 06:09, 19 October 2011.
   * This page has been accessed 18,037 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

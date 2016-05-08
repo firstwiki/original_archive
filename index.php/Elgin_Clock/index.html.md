@@ -4,8 +4,8 @@
 
 Jump to: navigation, search
 
-Elgin Clock is a mentor on [FRC](/index.php/FRC "FRC" ) team
-[237](/index.php/237 "237" ) from Watertown, Connecticut.
+Elgin Clock is a mentor on [FRC](FRC "FRC" ) team
+[237](237 "237" ) from Watertown, Connecticut.
 
     
     
@@ -17,14 +17,14 @@ Elgin Clock is a mentor on [FRC](/index.php/FRC "FRC" ) team
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Elgin_Clock&action=edit
 "http://www.firstwiki.net/index.php?title=Elgin_Clock&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   
   
@@ -35,15 +35,15 @@ significant article. If you'd like to add to more stubs, look at the list of
 _The Bench_ is a series of poems written by
 [CourtneyB](http://www.chiefdelphi.com/forums/member.php?u=7008
 "http://www.chiefdelphi.com/forums/member.php?u=7008" ) on
-[ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) about Elgin Clock. These
-poems may be considered [FIRST Humor](/index.php/FIRST_humor "FIRST humor" )
+[ChiefDelphi](ChiefDelphi "ChiefDelphi" ) about Elgin Clock. These
+poems may be considered [FIRST Humor](FIRST_humor "FIRST humor" )
 for two reasons; first, they have many inside jokes known only to those in
 FIRST, in addition to the many references to famous FIRSTers.
 
-"The Bench" was released on [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi"
+"The Bench" was released on [ChiefDelphi](ChiefDelphi "ChiefDelphi"
 ) on March 19, 2006.  
 "The Christmas Bench" was released exactly 8 months later on
-[ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ) on November, 19, 2006.
+[ChiefDelphi](ChiefDelphi "ChiefDelphi" ) on November, 19, 2006.
 
 
 ### _The Bench_

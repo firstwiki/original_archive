@@ -8,26 +8,26 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=Drive_train&action=edit
 "http://www.firstwiki.net/index.php?title=Drive_train&action=edit" ) by
 expanding it.**  
 Further information might be found on the [talk
-page](/index.php/Talk:Drive_train "Talk:Drive train" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+page](Talk:Drive_train "Talk:Drive train" ) or at [requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
   
 
-A [robot](/index.php/Robot "Robot" )'s **drive train** consists of all of the
+A [robot](Robot "Robot" )'s **drive train** consists of all of the
 components used to make the robot move around the field. Most drive trains use
-[motors](/index.php/Motor "Motor" ) to spin [wheels](/index.php/Wheel "Wheel"
-) or drive [treads](/index.php/Tread "Tread" ) (belts). Some innovative teams
-also incoporate [pneumatics](/index.php/Pneumatics "Pneumatics" ) and
-[servos](/index.php/Servo "Servo" ) to allow shifting of
+[motors](Motor "Motor" ) to spin [wheels](Wheel "Wheel"
+) or drive [treads](Tread "Tread" ) (belts). Some innovative teams
+also incoporate [pneumatics](Pneumatics "Pneumatics" ) and
+[servos](Servo "Servo" ) to allow shifting of
 [gears](/index.php?title=Gears&action=edit "Gears" ).
 
 The drivetrain is by far the most important and crucial part of a robot. It
@@ -67,7 +67,7 @@ by adjusting the gearing ratios between the input (motors) and the output
 (wheels).
 
 Maneuverability can be defined as the acceleration the robot can achieve in
-various directions. In the case of a [skid steer](/index.php/Skid_steer "Skid
+various directions. In the case of a [skid steer](Skid_steer "Skid
 steer" ) robot maneuverability would probably be defined as the speed and the
 precision with which the robot can rotate. Maneuverability is much trickier to
 manipulate as it is the result of not only a robots speed and available
@@ -77,8 +77,8 @@ much a curse as it is a blessing if not correctly understood. A robot that is
 both extremely fast and extremely maneuverable will be almost impossible to
 control without a certain level of sophistication within its controls, this
 can take the form of either genuine closed loop software control (e.g. [PID
-feedback loop](/index.php/PID_feedback_loop "PID feedback loop" )), or an
-extensive [open loop](/index.php/Open_loop "Open loop" ) control system.
+feedback loop](PID_feedback_loop "PID feedback loop" )), or an
+extensive [open loop](Open_loop "Open loop" ) control system.
 
 
 ## Types of Drive Trains
@@ -105,7 +105,7 @@ in the center. This allows the robot's pivot point to remain close to its
 center of mass, minimizing the area through which it must travel in order to
 turn. Also, placing the powered wheels along the 30" sides of the robot will
 further slow its rate of turn, making it more controllable (helpful, but not
-necessary). A good example is [95](/index.php/95 "95" )'s 2002 'bot.
+necessary). A good example is [95](95 "95" )'s 2002 'bot.
 
 
 ### Four Wheel Drive
@@ -115,7 +115,7 @@ FIRST. It offers a number of advantages and disadvantages over the more basic
 two wheel drive. With the addition of two extra driven wheels, a four wheel
 drive robot has more traction and control over a two wheel drive robot. The
 trade-off is the increased wheel base can cause problems turning (when the
-wheel base exceeds the wheel width.) A good example is [587](/index.php/587
+wheel base exceeds the wheel width.) A good example is [587](587
 "587" )'s '05 bot.
 
 
@@ -133,7 +133,7 @@ unpowered pair of extra wheels that just act to increase the wheel base for
 stability. When tipped to the unpowered set, some of its weight is diverted to
 unpowered wheels and traction is therefore reduced.
 
-A good example of this kind of drivetrain is the [418](/index.php/418 "418" )
+A good example of this kind of drivetrain is the [418](418 "418" )
 '05 bot.
 
 If you hear any reference to a "West Coast drive" it is commonly refering to a
@@ -151,7 +151,7 @@ pushing power and reduces the learning curve for the driver, it is not a very
 common choice due to its lack of maneuverability. Generally, the large turning
 radius makes it very difficult to maneuver in a corner.
 
-A good example of this type of drivetrain is the [612](/index.php/612 "612" )
+A good example of this type of drivetrain is the [612](612 "612" )
 '05 bot.
 
 
@@ -166,14 +166,14 @@ which share angles (typically requiring four drive motors plus two angle
 motors), and a _full omni_ system allows each wheel to be independently angled
 (requires four drive motors and four angle motors - generally very time-,
 labor-, part-, and weight-intensive, though it has been done before; examples
-include Team [1810](/index.php/1810 "1810" )'s 2007 robot).
+include Team [1810](1810 "1810" )'s 2007 robot).
 
 The main advantage of a swerve drive is a great increase in maneuverability.
 The trade-offs are that swerve drives are much more complex to build and
 consume much more resources (time, money, weight) than most other drivetrains.
 Some forms of swerve drive are also known to have less power for pushing other
 robots around on the field. However, increased maneuverability is gained to
-make up for it. A good example is the [95](/index.php/95 "95" ) 2003 robot.
+make up for it. A good example is the [95](95 "95" ) 2003 robot.
 
 
 ### Crab Drive
@@ -208,17 +208,17 @@ bot](/media/0/09/2047_holonomic.jpg "2047 holonomic.jpg" ).
 
 [Here](http://www.youtube.com/watch?v=CTlAf0c9KfA
 "http://www.youtube.com/watch?v=CTlAf0c9KfA" ) is a video of team
-[1418's](/index.php/1418 "1418" ) 2007 holonomic drive in action. Note the
+[1418's](1418 "1418" ) 2007 holonomic drive in action. Note the
 slight listing when the chassis is supposed to be driving straight; this was
 caused by asymmetries in the power outputs of the [Victor speed
-controllers](/index.php/Victor_884 "Victor 884" ). This problem was
+controllers](Victor_884 "Victor 884" ). This problem was
 successfully fixed by using a lookup table to force individual joystick
 positions to map to a linear set of power outputs.
 
 
 ### Mecanum Drive
 
-A _[mecanum drive](/index.php/Mecanum_wheel "Mecanum wheel" )_ is another
+A _[mecanum drive](Mecanum_wheel "Mecanum wheel" )_ is another
 omnidirectional drive system. It consist of wheels with their rollers angled
 in a conventional four wheel drive layout. With an independent
 motor/transmission on each wheel, omni driving can be achieved by varying

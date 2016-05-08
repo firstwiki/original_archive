@@ -7,7 +7,7 @@ Jump to: navigation, search
 _TTC Lego League - 2007 Team 530_  
 ---  
 [![Team logo](/media/thumb/b/b2/Theteamlogo.jpg/150px-
-Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg "Team logo" )  
+Theteamlogo.jpg)](Image:Theteamlogo.jpg "Team logo" )  
 Rookie Year: | 2002  
 US State Or Country: | South Carolina  
 City: | North Charleston  
@@ -16,14 +16,14 @@ School: | Trident Technical College
 "http://ttclegoleague.tridenttech.edu" )  
   
 Find other [FLL teams founded in
-2002](/index.php/Category:FLL_teams_founded_in_2002 "Category:FLL teams
+2002](Category:FLL_teams_founded_in_2002 "Category:FLL teams
 founded in 2002" )
 
 Find other [FLL teams from South
-Carolina](/index.php/Category:FLL_teams_from_South_Carolina "Category:FLL
+Carolina](Category:FLL_teams_from_South_Carolina "Category:FLL
 teams from South Carolina" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   

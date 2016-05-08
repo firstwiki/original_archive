@@ -5,12 +5,12 @@
 Jump to: navigation, search
 
 [![](/media/thumb/5/5f/600px-Circle-question-red.svg.png/35px-600px-Circle-
-question-red.svg.png)](/index.php/Image:600px-Circle-question-red.svg.png "" )
+question-red.svg.png)](Image:600px-Circle-question-red.svg.png "" )
 | **The neutrality and factual accuracy of this article are disputed.**  
 Please see the relevant discussion on the talk page. |
 
 [![](/media/thumb/3/34/400px-Unbalanced_scales.svg.png/40px-400px-
-Unbalanced_scales.svg.png)](/index.php/Image:400px-Unbalanced_scales.svg.png
+Unbalanced_scales.svg.png)](Image:400px-Unbalanced_scales.svg.png
 "" )  
   
 ---|---|---  

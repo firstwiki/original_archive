@@ -6,23 +6,23 @@
 Jump to: navigation, search
 
 Fundraising is essential to participating in the [FIRST Robotics
-Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics
-Competition" ), [Teams](/index.php/Team "Team" ) often solicit corporate and
-academic [sponsorship](/index.php/Sponsorship "Sponsorship" ) that provides
+Competition](FIRST_Robotics_Competition "FIRST Robotics
+Competition" ), [Teams](Team "Team" ) often solicit corporate and
+academic [sponsorship](Sponsorship "Sponsorship" ) that provides
 them with money and access to materials needed to effectively demonstrate the
-[ideals of FIRST](/index.php/FIRST_philosophy "FIRST philosophy" ) and its
+[ideals of FIRST](FIRST_philosophy "FIRST philosophy" ) and its
 mission. New fundraising techniques and methods come into existence every
 year, but the basic ones should be the backbone of your fundraising efforts.
 
-[Teams](/index.php/Team "Team" ) often augment such
-[sponsorship](/index.php/Sponsorship "Sponsorship" ) with community-based
+[Teams](Team "Team" ) often augment such
+[sponsorship](Sponsorship "Sponsorship" ) with community-based
 fundraising activities.
 
 [![](/media/thumb/a/a2/FR_Dummies.jpg/150px-
-FR_Dummies.jpg)](/index.php/Image:FR_Dummies.jpg "" )
+FR_Dummies.jpg)](Image:FR_Dummies.jpg "" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:FR_Dummies.jpg "Enlarge" )
+clip.png)](Image:FR_Dummies.jpg "Enlarge" )
 
 ## Contents
 
@@ -68,7 +68,7 @@ clip.png)](/index.php/Image:FR_Dummies.jpg "Enlarge" )
 ##  Corporate/Academic Funds Solicitation
 
   * [Giving a presentation](http://www.firstnemo.org/resources.htm "http://www.firstnemo.org/resources.htm" ) = The best way to help potential sponsors understand FIRST and what it stands for a little better. A presentation is much more likely to hit home with sponsors than a well-written letter. Potential sponsors receive sponsor requests every day. Be above the rest and give your presentation a little more oomph. 
-  * [Organizations likely to sponsor teams](/index.php/Organizations_likely_to_sponsor_teams "Organizations likely to sponsor teams" ) = Talk to any organization or business having anything to do with engineering of sorts. You can start with the big companies, Raytheon, Northrop Grumman, etc. but don't feel like its too low to go to the local air conditioning company for money. Remember, donations can come in all sorts of shapes and sizes. For example, a printing company can maybe donate free fliers for you to hand out and increase awareness of your team in the area. 
+  * [Organizations likely to sponsor teams](Organizations_likely_to_sponsor_teams "Organizations likely to sponsor teams" ) = Talk to any organization or business having anything to do with engineering of sorts. You can start with the big companies, Raytheon, Northrop Grumman, etc. but don't feel like its too low to go to the local air conditioning company for money. Remember, donations can come in all sorts of shapes and sizes. For example, a printing company can maybe donate free fliers for you to hand out and increase awareness of your team in the area. 
   * Speak to your school's PA or to alumni = Alumni and the PA are a great way to fundraise for your team. 
   * Local businesses = Local businesses are a great not only to get the cash cow flowing but also to increase local PR with your city. Ask any local businesses to help out with fundraisers. For example, work with them by designating a night of the month in which a business will donate a percentage of their profit's for the day to your team. This is especially useful when dealing with restaurants, hand out flyers and anyone who comes into that place of business will have 10% or 15% taken off their bill and donated to your team. 
 

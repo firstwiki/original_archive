@@ -7,7 +7,7 @@ Jump to: navigation, search
 METAL and SOUL  
 ---  
 [![Team logo](/media/thumb/3/37/MSlogo2604.gif/150px-
-MSlogo2604.gif)](/index.php/Image:MSlogo2604.gif "Team logo" )  
+MSlogo2604.gif)](Image:MSlogo2604.gif "Team logo" )  
 Rookie Year: | 2008  
 Inactive Years: | {{{inactive}}}  
 Location: | Sterling Tool, Inc.  

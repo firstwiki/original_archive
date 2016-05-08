@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-These are [obsolete parts](/index.php/Obsolete_parts "Obsolete parts" ).
+These are [obsolete parts](Obsolete_parts "Obsolete parts" ).
 
   
 
@@ -14,13 +14,13 @@ There are 3 articles in this category.
 
 ### D
 
-  * [Drill motor](/index.php/Drill_motor "Drill motor" )
+  * [Drill motor](Drill_motor "Drill motor" )
 
 ### O
 
-  * [Obsolete parts](/index.php/Obsolete_parts "Obsolete parts" )
+  * [Obsolete parts](Obsolete_parts "Obsolete parts" )
 
 ### T
 
-  * [Template:Obsolete](/index.php/Template:Obsolete "Template:Obsolete" )
+  * [Template:Obsolete](Template:Obsolete "Template:Obsolete" )
 

@@ -13,8 +13,8 @@ Latest Show All
 Wayback Machine doesn't have that page archived.
 
 Want to search for all archived pages under
-[http://www.firstwiki.net/index.php/](/web/form-
-submit.jsp?type=prefixquery&url=http://www.firstwiki.net/index.php/) ?
+[http://www.firstwiki.net](/web/form-
+submit.jsp?type=prefixquery&url=http://www.firstwiki.net) ?
 
 The Wayback Machine is an initiative of the [Internet
 Archive](//archive.org/), a 501(c)(3) non-profit, building a digital library

@@ -24,7 +24,7 @@ e=Special:Whatlinkshere/User:MindstormsKid/Main_Page&limit=250&from=0
 e=Special:Whatlinkshere/User:MindstormsKid/Main_Page&limit=500&from=0
 "Special:Whatlinkshere/User:MindstormsKid/Main Page" )).
 
-  * [Talk:Main Page](/index.php/Talk:Main_Page "Talk:Main Page" )
+  * [Talk:Main Page](Talk:Main_Page "Talk:Main Page" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :MindstormsKid/Main_Page&limit=20&from=0
 "Special:Whatlinkshere/User:MindstormsKid/Main Page" ) | [50](/index.php?title

@@ -14,5 +14,5 @@ There is 1 article in this category.
 
 ### U
 
-  * [User:Max](/index.php/User:Max "User:Max" )
+  * [User:Max](User:Max "User:Max" )
 

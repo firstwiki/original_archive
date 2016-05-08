@@ -64,18 +64,18 @@ starts October 1.
 
 See Also:
 
-  * [FIRST LEGO League Qualifying Tournaments](/index.php/Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
-  * [FIRST LEGO League Local Tournaments](/index.php/Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
-  * [FIRST LEGO League Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO League Qualifying Tournaments](Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
+  * [FIRST LEGO League Local Tournaments](Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
+  * [FIRST LEGO League Events](Category:FLL_Events "Category:FLL Events" )
 
   
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Template:Format/Fllstateevent>"
+"<http://www.firstwiki.netTemplate:Format/Fllstateevent>"
 
 ##### Views
 
-  * [Template](/index.php/Template:Format/Fllstateevent)
+  * [Template](Template:Format/Fllstateevent)
   * [Discussion](/index.php?title=Template_talk:Format/Fllstateevent&action=edit)
   * [Edit](/index.php?title=Template:Format/Fllstateevent&action=edit)
   * [History](/index.php?title=Template:Format/Fllstateevent&action=history)
@@ -84,17 +84,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Template:Format/Fllstateevent)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -102,10 +102,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Template:Format/Fllstateevent)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Template:Format/Fllstateevent)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Template:Format/Fllstateevent)
+  * [Related changes](Special:Recentchangeslinked/Template:Format/Fllstateevent)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Template:Format/Fllstateevent&printable=yes)
   * [Permanent link](/index.php?title=Template:Format/Fllstateevent&oldid=45901)
 
@@ -118,7 +118,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 02:31, 4 April 2006.
   * This page has been accessed 354 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

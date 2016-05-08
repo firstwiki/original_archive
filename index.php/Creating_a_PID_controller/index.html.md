@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Programming a simple [PID controller](/index.php/PID_controller "PID
+Programming a simple [PID controller](PID_controller "PID
 controller" ) for a FIRST robot is a relatively easy task. Depending on its
 use, PID controllers may make the robot much easier to control.
 
@@ -43,7 +43,7 @@ Postconditions for the PID function:
 
   * The value at the pointer to the last actual value now equals the current actual value 
   * The sum pointer's value has been incremented by the current error 
-  * The return value is the output value for the device as determined by [PID controller](/index.php/PID_controller "PID controller" ) logic. 
+  * The return value is the output value for the device as determined by [PID controller](PID_controller "PID controller" ) logic. 
 
 Steps taken in the PID function:
 
@@ -57,7 +57,7 @@ Steps taken in the PID function:
 An example PID function is (from the now defunct [NRG Code Repository (Code
 Package 1)](http://nrg.chaosnet.org/repository/viewcode?id=1
 "http://nrg.chaosnet.org/repository/viewcode?id=1" ). Check
-[frCoder](/index.php/FrCoder "FrCoder" ) for updates.):
+[frCoder](FrCoder "FrCoder" ) for updates.):
 
     
     
@@ -83,17 +83,17 @@ Package 1)](http://nrg.chaosnet.org/repository/viewcode?id=1
      }
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Creating_a_PID_controller>"
+"<http://www.firstwiki.netCreating_a_PID_controller>"
 
 [Categories](/index.php?title=Special:Categories&article=Creating_a_PID_contro
-ller "Special:Categories" ): [How-to](/index.php/Category:How-to "Category
+ller "Special:Categories" ): [How-to](Category:How-to "Category
 :How-to" ) | [Logic of a control
-system](/index.php/Category:Logic_of_a_control_system "Category:Logic of a
+system](Category:Logic_of_a_control_system "Category:Logic of a
 control system" )
 
 ##### Views
 
-  * [Article](/index.php/Creating_a_PID_controller)
+  * [Article](Creating_a_PID_controller)
   * [Discussion](/index.php?title=Talk:Creating_a_PID_controller&action=edit)
   * [Edit](/index.php?title=Creating_a_PID_controller&action=edit)
   * [History](/index.php?title=Creating_a_PID_controller&action=history)
@@ -102,17 +102,17 @@ control system" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Creating_a_PID_controller)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -120,10 +120,10 @@ control system" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Creating_a_PID_controller)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Creating_a_PID_controller)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Creating_a_PID_controller)
+  * [Related changes](Special:Recentchangeslinked/Creating_a_PID_controller)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Creating_a_PID_controller&printable=yes)
   * [Permanent link](/index.php?title=Creating_a_PID_controller&oldid=39506)
 
@@ -136,7 +136,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 21:14, 16 February 2005.
   * This page has been accessed 1,652 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

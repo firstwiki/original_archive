@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This person is an [Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung
+This person is an [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung
 FIRST Hero" ).
 
 His full name is John Vielkind-Neun.
@@ -15,21 +15,21 @@ University](http://www.wikipedia.org/wiki/Clarkson_University
 [mechanical engineering](/index.php?title=Mechanical_engineering&action=edit
 "Mechanical engineering" ) studies at Clarkson, John was a student at
 Shenendehowa HS in Clifton Park, NY and participated on their team for two
-years under the mentorage of Paul Kane (see team page, [20](/index.php/20 "20"
+years under the mentorage of Paul Kane (see team page, [20](20 "20"
 )).
 
-Today, he is a member of [team 229, Division by Zero](/index.php/229 "229" ),
+Today, he is a member of [team 229, Division by Zero](229 "229" ),
 and a role model for students on teams scattered around the world, thanks to
-his contributions on [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ). He
-was the first [Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST
+his contributions on [ChiefDelphi](ChiefDelphi "ChiefDelphi" ). He
+was the first [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST
 Hero" ).
 
-In addition to his role on [team 229](/index.php/229 "229" ), John is also a
-[FIRST](/index.php/FIRST "FIRST" ) [Head Referee](/index.php/Head_Referee
+In addition to his role on [team 229](229 "229" ), John is also a
+[FIRST](FIRST "FIRST" ) [Head Referee](Head_Referee
 "Head Referee" ) and has officiated at several [regional
-competitions](/index.php/Index_of_Regionals "Index of Regionals" ).
+competitions](Index_of_Regionals "Index of Regionals" ).
 
-On [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ), it is not uncommon to
+On [ChiefDelphi](ChiefDelphi "ChiefDelphi" ), it is not uncommon to
 see the tagline "I am John V-Neun." There ~~is~~ was even ~~[a
 website](http://www.johnvneun.com/ "http://www.johnvneun.com/" )~~ [a
 website](http://web.archive.org/web/20050207011454/http://www.johnvneun.com/
@@ -38,9 +38,9 @@ website](http://web.archive.org/web/20050207011454/http://www.johnvneun.com/
 imitators.
 
 |  **[![](/media/thumb/9/96/Ufhimage.jpg/43px-
-Ufhimage.jpg)](/index.php/Image:Ufhimage.jpg "" )** | This user is an
-**[Unsung FIRST Hero](/index.php/Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
-[Honoree](/index.php/Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
+Ufhimage.jpg)](Image:Ufhimage.jpg "" )** | This user is an
+**[Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST Hero" ) award
+[Honoree](Category:Unsung_FIRST_Heroes "Category:Unsung FIRST
 Heroes" )**. |  
 ---|---|---  
   

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This category is for organizations within [FIRST](/index.php/FIRST "FIRST" ).
+This category is for organizations within [FIRST](FIRST "FIRST" ).
 
   
 
@@ -14,32 +14,32 @@ There are 7 articles in this category.
 
 ###
 
-  * [Organizations](/index.php/Organizations "Organizations" )
+  * [Organizations](Organizations "Organizations" )
 
 ### C
 
-  * [CareFIRST](/index.php/CareFIRST "CareFIRST" )
+  * [CareFIRST](CareFIRST "CareFIRST" )
 |
 
 ### F
 
-  * [FreelanceFIRST](/index.php/FreelanceFIRST "FreelanceFIRST" )
+  * [FreelanceFIRST](FreelanceFIRST "FreelanceFIRST" )
 
 ### O
 
-  * [OSU FIRST Robotics](/index.php/OSU_FIRST_Robotics "OSU FIRST Robotics" )
+  * [OSU FIRST Robotics](OSU_FIRST_Robotics "OSU FIRST Robotics" )
 
 ### R
 
-  * [Robot Chicks Union](/index.php/Robot_Chicks_Union "Robot Chicks Union" )
+  * [Robot Chicks Union](Robot_Chicks_Union "Robot Chicks Union" )
 |
 
 ### S
 
-  * [SCRRF](/index.php/SCRRF "SCRRF" )
+  * [SCRRF](SCRRF "SCRRF" )
 
 ### U
 
-  * [Unsung FIRST Heroes](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )  
+  * [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes" )  
 ---|---|---  
   

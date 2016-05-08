@@ -80,7 +80,7 @@ choo](http://www.2012jimmychoouk.com "http://www.2012jimmychoouk.com"
 ),Then,Wang Xiaobao (1952-1997) was flickering light soft needle.  
 leave repeatedly.Related articles:
 
-  * <http://emagino.com/mediawiki/index.php/User:Euifea456#Since_we_know_that_their_grievances>
+  * <http://emagino.com/mediawikiUser:Euifea456#Since_we_know_that_their_grievances>
   * [http://fantasy.ohdada.com/forum/forum.php?mod=viewthread&amp;tid=14602](http://fantasy.ohdada.com/forum/forum.php?mod=viewthread&tid=14602 "http://fantasy.ohdada.com/forum/forum.php?mod=viewthread&tid=14602" )
   * [http://dong-shang.com/dongshang/forum.php?mod=viewthread&amp;tid=136135](http://dong-shang.com/dongshang/forum.php?mod=viewthread&tid=136135 "http://dong-shang.com/dongshang/forum.php?mod=viewthread&tid=136135" )
 

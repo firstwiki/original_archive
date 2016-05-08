@@ -7,7 +7,7 @@ Jump to: navigation, search
 
 NNSRI, Ice Cubed  
 ---  
-[Upload this team's logo](/index.php/Special:Upload "Special:Upload" )  
+[Upload this team's logo](Special:Upload "Special:Upload" )  
 Rookie Year: | 2004  
 Inactive Years: | {{{inactive}}}  
 Location: | North Bay ON Canada  
@@ -70,10 +70,10 @@ attend the FIRST World Championships in St Louis, Missouri, April 27 – 30th
 where Duke will compete against some of the best FRC robots in the world!
 
 [![This years robot: Duke](/media/thumb/0/09/Duke2011.jpg/180px-
-Duke2011.jpg)](/index.php/Image:Duke2011.jpg "This years robot: Duke" )
+Duke2011.jpg)](Image:Duke2011.jpg "This years robot: Duke" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Duke2011.jpg "Enlarge" )
+clip.png)](Image:Duke2011.jpg "Enlarge" )
 
 This years robot: Duke
 

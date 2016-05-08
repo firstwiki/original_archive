@@ -24,9 +24,9 @@ le=Special:Whatlinkshere/Talk:Designing_a_team_webpage&limit=250&from=0
 le=Special:Whatlinkshere/Talk:Designing_a_team_webpage&limit=500&from=0
 "Special:Whatlinkshere/Talk:Designing a team webpage" )).
 
-  * [FIRSTwiki talk:Policies and guidelines](/index.php/FIRSTwiki_talk:Policies_and_guidelines "FIRSTwiki talk:Policies and guidelines" )
-  * [Talk:First Lego League Team](/index.php/Talk:First_Lego_League_Team "Talk:First Lego League Team" )
-  * [FIRSTwiki:Village pump/Archive 3](/index.php/FIRSTwiki:Village_pump/Archive_3 "FIRSTwiki:Village pump/Archive 3" )
+  * [FIRSTwiki talk:Policies and guidelines](FIRSTwiki_talk:Policies_and_guidelines "FIRSTwiki talk:Policies and guidelines" )
+  * [Talk:First Lego League Team](Talk:First_Lego_League_Team "Talk:First Lego League Team" )
+  * [FIRSTwiki:Village pump/Archive 3](FIRSTwiki:Village_pump/Archive_3 "FIRSTwiki:Village pump/Archive 3" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Talk
 :Designing_a_team_webpage&limit=20&from=0
 "Special:Whatlinkshere/Talk:Designing a team webpage" ) | [50](/index.php?titl

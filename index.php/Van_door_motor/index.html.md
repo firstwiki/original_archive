@@ -17,20 +17,20 @@ RPM's so it's not a good idea to run this year's and a previous year's van
 door motors together. They may not get alone well. ;)
 
 _**2008 KOP Motors:**_  
-[Chiaphua/CIM](/index.php/CIM_motor "CIM motor" ) | [Denso
-Window](/index.php/Denso_window_motor "Denso window motor" ) | [Taigene
+[Chiaphua/CIM](CIM_motor "CIM motor" ) | [Denso
+Window](Denso_window_motor "Denso window motor" ) | [Taigene
 Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
 motor" ) | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor" )
-| [Fisher Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" ) |
-[Banebots](/index.php/Banebots_motor "Banebots motor" )
+| [Fisher Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" ) |
+[Banebots](Banebots_motor "Banebots motor" )
 ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
-motor" ), [RS-550](/index.php/RS-550_Banebots_motor "RS-550 Banebots motor" ))  
+motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor" ))  
 ---  
 _**Older KOP Motors:**_  
-[Window](/index.php/Window_motor "Window motor" ) |
+[Window](Window_motor "Window motor" ) |
 [Seat](/index.php?title=Seat_motor&action=edit "Seat motor" ) | **Van door** |
-[Drill](/index.php/Drill_motor "Drill motor" ) | [Fisher
-Price](/index.php/Fisher_Price_motor "Fisher Price motor" ) |
-[Globe](/index.php/Globe_motor "Globe motor" )  
+[Drill](Drill_motor "Drill motor" ) | [Fisher
+Price](Fisher_Price_motor "Fisher Price motor" ) |
+[Globe](Globe_motor "Globe motor" )  
   

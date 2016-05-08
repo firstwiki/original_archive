@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/RoboKnights&limit=500&from=0
 "Special:Whatlinkshere/RoboKnights" )).
 
-  * [Index of FLL teams](/index.php/Index_of_FLL_teams "Index of FLL teams" )
+  * [Index of FLL teams](Index_of_FLL_teams "Index of FLL teams" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/RoboKnights&limit=20&from=0
 "Special:Whatlinkshere/RoboKnights" ) |

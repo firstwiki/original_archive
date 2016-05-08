@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1089](/index.php/1089 "1089" )
+  * [1089](1089 "1089" )
 
 ## Metadata
 
@@ -70,11 +70,11 @@ White Balance |  Auto white balance
 Scene capture type |  Standard  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Image:2004TeamMercury.JPG>"
+"<http://www.firstwiki.netImage:2004TeamMercury.JPG>"
 
 ##### Views
 
-  * [File](/index.php/Image:2004TeamMercury.JPG)
+  * [File](Image:2004TeamMercury.JPG)
   * [Discussion](/index.php?title=Image_talk:2004TeamMercury.JPG&action=edit)
   * [Edit](/index.php?title=Image:2004TeamMercury.JPG&action=edit)
   * [History](/index.php?title=Image:2004TeamMercury.JPG&action=history)
@@ -83,17 +83,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Image:2004TeamMercury.JPG)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -101,10 +101,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Image:2004TeamMercury.JPG)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Image:2004TeamMercury.JPG)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Image:2004TeamMercury.JPG)
+  * [Related changes](Special:Recentchangeslinked/Image:2004TeamMercury.JPG)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Image:2004TeamMercury.JPG&printable=yes)
   * [Permanent link](/index.php?title=Image:2004TeamMercury.JPG&oldid=43365)
 
@@ -117,7 +117,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 04:40, 9 February 2006.
   * This page has been accessed 81 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

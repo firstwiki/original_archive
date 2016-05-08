@@ -21,7 +21,7 @@ and contribute where ever possible. The wiki is always growing, so if you show
 that you are dedicated to your work and know what you're doing, there will
 very most likely be a promotion in your future. If you have any questions,
 comments, or concerns, feel free to contact me.
---[Hallry](/index.php/User:Hallry "User:Hallry" ) 17:21, 26 June 2011 (EDT)
+--[Hallry](User:Hallry "User:Hallry" ) 17:21, 26 June 2011 (EDT)
 
-    ditto [Member](/index.php/User:Member "User:Member" ) 19:21, 26 June 2011 (EDT) 
+    ditto [Member](User:Member "User:Member" ) 19:21, 26 June 2011 (EDT) 
 

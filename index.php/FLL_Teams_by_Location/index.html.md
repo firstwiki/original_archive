@@ -8,11 +8,11 @@ Jump to: navigation, search
 
 Browse for FLL team pages by Country/(Region or State) on this page.
 
-Alternatively, find [FLL Teams by Name](/index.php/Category:FLL_teams
+Alternatively, find [FLL Teams by Name](Category:FLL_teams
 "Category:FLL teams" ), or [FLL Teams by Year
-Founded](/index.php/FLL_Teams_by_Year_Founded "FLL Teams by Year Founded" ).
+Founded](FLL_Teams_by_Year_Founded "FLL Teams by Year Founded" ).
 
-**Is your team not showing up when you search using the State or Country below?** Find out [How to create or edit your team page](/index.php/FIRSTwiki:How_to_create_or_edit_your_team_page "FIRSTwiki:How to create or edit your team page" )
+**Is your team not showing up when you search using the State or Country below?** Find out [How to create or edit your team page](FIRSTwiki:How_to_create_or_edit_your_team_page "FIRSTwiki:How to create or edit your team page" )
 
 ## Contents
 
@@ -59,86 +59,86 @@ section: United States" )]
 
 ### United States
 
-[Alabama](/index.php/Category:FLL_teams_from_Alabama "Category:FLL teams from
-Alabama" ) | [Alaska](/index.php/Category:FLL_teams_from_FLL_teams_from_Alaska
+[Alabama](Category:FLL_teams_from_Alabama "Category:FLL teams from
+Alabama" ) | [Alaska](Category:FLL_teams_from_FLL_teams_from_Alaska
 "Category:FLL teams from FLL teams from Alaska" ) |
-[Arkansas](/index.php/Category:FLL_teams_from_Arkansas "Category:FLL teams
-from Arkansas" ) | [Arizona](/index.php/Category:FLL_teams_from_Arizona
+[Arkansas](Category:FLL_teams_from_Arkansas "Category:FLL teams
+from Arkansas" ) | [Arizona](Category:FLL_teams_from_Arizona
 "Category:FLL teams from Arizona" ) |
-[California](/index.php/Category:FLL_teams_from_California "Category:FLL teams
-from California" ) | [Colorado](/index.php/Category:FLL_teams_from_Colorado
+[California](Category:FLL_teams_from_California "Category:FLL teams
+from California" ) | [Colorado](Category:FLL_teams_from_Colorado
 "Category:FLL teams from Colorado" ) |
-[Connecticut](/index.php/Category:FLL_teams_from_Connecticut "Category:FLL
+[Connecticut](Category:FLL_teams_from_Connecticut "Category:FLL
 teams from Connecticut" ) |
-[Delaware](/index.php/Category:FLL_teams_from_Delaware "Category:FLL teams
-from Delaware" ) | [Florida](/index.php/Category:FLL_teams_from_Florida
+[Delaware](Category:FLL_teams_from_Delaware "Category:FLL teams
+from Delaware" ) | [Florida](Category:FLL_teams_from_Florida
 "Category:FLL teams from Florida" ) |
-[Georgia](/index.php/Category:FLL_teams_from_Georgia "Category:FLL teams from
-Georgia" ) | [Hawaii](/index.php/Category:FLL_teams_from_Hawaii "Category:FLL
-teams from Hawaii" ) | [Idaho](/index.php/Category:FLL_teams_from_Idaho
+[Georgia](Category:FLL_teams_from_Georgia "Category:FLL teams from
+Georgia" ) | [Hawaii](Category:FLL_teams_from_Hawaii "Category:FLL
+teams from Hawaii" ) | [Idaho](Category:FLL_teams_from_Idaho
 "Category:FLL teams from Idaho" ) |
-[Iowa](/index.php/Category:FLL_teams_from_Iowa "Category:FLL teams from Iowa"
-) | [Illinois](/index.php/Category:FLL_teams_from_Illinois "Category:FLL teams
-from Illinois" ) | [Indiana](/index.php/Category:FLL_teams_from_Indiana
+[Iowa](Category:FLL_teams_from_Iowa "Category:FLL teams from Iowa"
+) | [Illinois](Category:FLL_teams_from_Illinois "Category:FLL teams
+from Illinois" ) | [Indiana](Category:FLL_teams_from_Indiana
 "Category:FLL teams from Indiana" ) |
-[Kansas](/index.php/Category:FLL_teams_from_Kansas "Category:FLL teams from
-Kansas" ) | [Kentucky](/index.php/Category:FLL_teams_from_Kentucky
+[Kansas](Category:FLL_teams_from_Kansas "Category:FLL teams from
+Kansas" ) | [Kentucky](Category:FLL_teams_from_Kentucky
 "Category:FLL teams from Kentucky" ) |
-[Louisiana](/index.php/Category:FLL_teams_from_Louisiana "Category:FLL teams
+[Louisiana](Category:FLL_teams_from_Louisiana "Category:FLL teams
 from Louisiana" ) |
-[Massachusetts](/index.php/Category:FLL_teams_from_Massachusetts "Category:FLL
+[Massachusetts](Category:FLL_teams_from_Massachusetts "Category:FLL
 teams from Massachusetts" ) |
-[Maryland](/index.php/Category:FLL_teams_from_Maryland "Category:FLL teams
-from Maryland" ) | [Maine](/index.php/Category:FLL_teams_from_Maine
+[Maryland](Category:FLL_teams_from_Maryland "Category:FLL teams
+from Maryland" ) | [Maine](Category:FLL_teams_from_Maine
 "Category:FLL teams from Maine" ) |
-[Michigan](/index.php/Category:FLL_teams_from_Michigan "Category:FLL teams
-from Michigan" ) | [Missouri](/index.php/Category:FLL_teams_from_Missouri
+[Michigan](Category:FLL_teams_from_Michigan "Category:FLL teams
+from Michigan" ) | [Missouri](Category:FLL_teams_from_Missouri
 "Category:FLL teams from Missouri" ) |
-[Minnesota](/index.php/Category:FLL_teams_from_Minnesota "Category:FLL teams
+[Minnesota](Category:FLL_teams_from_Minnesota "Category:FLL teams
 from Minnesota" ) |
-[Mississippi](/index.php/Category:FLL_teams_from_Mississippi "Category:FLL
+[Mississippi](Category:FLL_teams_from_Mississippi "Category:FLL
 teams from Mississippi" ) |
-[Montana](/index.php/Category:FLL_teams_from_Montana "Category:FLL teams from
+[Montana](Category:FLL_teams_from_Montana "Category:FLL teams from
 Montana" ) | [North
-Carolina](/index.php/Category:FLL_teams_from_North_Carolina "Category:FLL
+Carolina](Category:FLL_teams_from_North_Carolina "Category:FLL
 teams from North Carolina" ) | [North
-Dakota](/index.php/Category:FLL_teams_from_North_Dakota "Category:FLL teams
-from North Dakota" ) | [Nebraska](/index.php/Category:FLL_teams_from_Nebraska
+Dakota](Category:FLL_teams_from_North_Dakota "Category:FLL teams
+from North Dakota" ) | [Nebraska](Category:FLL_teams_from_Nebraska
 "Category:FLL teams from Nebraska" ) | [New
-Hampshire](/index.php/Category:FLL_teams_from_New_Hampshire "Category:FLL
+Hampshire](Category:FLL_teams_from_New_Hampshire "Category:FLL
 teams from New Hampshire" ) | [New
-Jersey](/index.php/Category:FLL_teams_from_New_Jersey "Category:FLL teams from
-New Jersey" ) | [New Mexico](/index.php/Category:FLL_teams_from_New_Mexico
+Jersey](Category:FLL_teams_from_New_Jersey "Category:FLL teams from
+New Jersey" ) | [New Mexico](Category:FLL_teams_from_New_Mexico
 "Category:FLL teams from New Mexico" ) | [New
-York](/index.php/Category:FLL_teams_from_New_York "Category:FLL teams from New
-York" ) | [Nevada](/index.php/Category:FLL_teams_from_Nevada "Category:FLL
-teams from Nevada" ) | [Ohio](/index.php/Category:FLL_teams_from_Ohio
+York](Category:FLL_teams_from_New_York "Category:FLL teams from New
+York" ) | [Nevada](Category:FLL_teams_from_Nevada "Category:FLL
+teams from Nevada" ) | [Ohio](Category:FLL_teams_from_Ohio
 "Category:FLL teams from Ohio" ) |
-[Oklahoma](/index.php/Category:FLL_teams_from_Oklahoma "Category:FLL teams
-from Oklahoma" ) | [Oregon](/index.php/Category:FLL_teams_from_Oregon
+[Oklahoma](Category:FLL_teams_from_Oklahoma "Category:FLL teams
+from Oklahoma" ) | [Oregon](Category:FLL_teams_from_Oregon
 "Category:FLL teams from Oregon" ) |
-[Pennsylvania](/index.php/Category:FLL_teams_from_Pennsylvania "Category:FLL
+[Pennsylvania](Category:FLL_teams_from_Pennsylvania "Category:FLL
 teams from Pennsylvania" ) | [Puerto
-Rico](/index.php/Category:FLL_teams_from_Puerto_Rico "Category:FLL teams from
+Rico](Category:FLL_teams_from_Puerto_Rico "Category:FLL teams from
 Puerto Rico" ) | [Rhode
-Island](/index.php/Category:FLL_teams_from_Rhode_Island "Category:FLL teams
+Island](Category:FLL_teams_from_Rhode_Island "Category:FLL teams
 from Rhode Island" ) | [South
-Carolina](/index.php/Category:FLL_teams_from_South_Carolina "Category:FLL
+Carolina](Category:FLL_teams_from_South_Carolina "Category:FLL
 teams from South Carolina" ) | [South
-Dakota](/index.php/Category:FLL_teams_from_South_Dakota "Category:FLL teams
+Dakota](Category:FLL_teams_from_South_Dakota "Category:FLL teams
 from South Dakota" ) |
-[Tennessee](/index.php/Category:FLL_teams_from_Tennessee "Category:FLL teams
-from Tennessee" ) | [Texas](/index.php/Category:FLL_teams_from_Texas
+[Tennessee](Category:FLL_teams_from_Tennessee "Category:FLL teams
+from Tennessee" ) | [Texas](Category:FLL_teams_from_Texas
 "Category:FLL teams from Texas" ) |
-[Utah](/index.php/Category:FLL_teams_from_Utah "Category:FLL teams from Utah"
-) | [Virginia](/index.php/Category:FLL_teams_from_Virginia "Category:FLL teams
-from Virginia" ) | [Vermont](/index.php/Category:FLL_teams_from_Vermont
+[Utah](Category:FLL_teams_from_Utah "Category:FLL teams from Utah"
+) | [Virginia](Category:FLL_teams_from_Virginia "Category:FLL teams
+from Virginia" ) | [Vermont](Category:FLL_teams_from_Vermont
 "Category:FLL teams from Vermont" ) |
-[Washington](/index.php/Category:FLL_teams_from_Washington "Category:FLL teams
-from Washington" ) | [Wisconsin](/index.php/Category:FLL_teams_from_Wisconsin
+[Washington](Category:FLL_teams_from_Washington "Category:FLL teams
+from Washington" ) | [Wisconsin](Category:FLL_teams_from_Wisconsin
 "Category:FLL teams from Wisconsin" ) | [West
-Virginia](/index.php/Category:FLL_teams_from_West_Virginia "Category:FLL teams
-from West Virginia" ) | [Wyoming](/index.php/Category:FLL_teams_from_Wyoming
+Virginia](Category:FLL_teams_from_West_Virginia "Category:FLL teams
+from West Virginia" ) | [Wyoming](Category:FLL_teams_from_Wyoming
 "Category:FLL teams from Wyoming" )
 
 [[edit](/index.php?title=FLL_Teams_by_Location&action=edit&section=3 "Edit
@@ -146,30 +146,30 @@ section: Canada" )]
 
 ### Canada
 
-[Alberta](/index.php/Category:FLL_teams_from_Alberta "Category:FLL teams from
+[Alberta](Category:FLL_teams_from_Alberta "Category:FLL teams from
 Alberta" ) | [British
-Columbia](/index.php/Category:FLL_teams_from_British_Columbia "Category:FLL
+Columbia](Category:FLL_teams_from_British_Columbia "Category:FLL
 teams from British Columbia" ) |
-[Labrador](/index.php/Category:FLL_teams_from_Labrador "Category:FLL teams
-from Labrador" ) | [Manitoba](/index.php/Category:FLL_teams_from_Manitoba
+[Labrador](Category:FLL_teams_from_Labrador "Category:FLL teams
+from Labrador" ) | [Manitoba](Category:FLL_teams_from_Manitoba
 "Category:FLL teams from Manitoba" ) | [New
-Brunswick](/index.php/Category:FLL_teams_from_New_Brunswick "Category:FLL
+Brunswick](Category:FLL_teams_from_New_Brunswick "Category:FLL
 teams from New Brunswick" ) | [New
-Foundland](/index.php/Category:FLL_teams_from_New_Foundland "Category:FLL
+Foundland](Category:FLL_teams_from_New_Foundland "Category:FLL
 teams from New Foundland" ) | [Northwest
-Territories](/index.php/Category:FLL_teams_from_Northwest_Territories
+Territories](Category:FLL_teams_from_Northwest_Territories
 "Category:FLL teams from Northwest Territories" ) | [Nova
-Scotia](/index.php/Category:FLL_teams_from_Nova_Scotia "Category:FLL teams
-from Nova Scotia" ) | [Nunavut](/index.php/Category:FLL_teams_from_Nunavut
+Scotia](Category:FLL_teams_from_Nova_Scotia "Category:FLL teams
+from Nova Scotia" ) | [Nunavut](Category:FLL_teams_from_Nunavut
 "Category:FLL teams from Nunavut" ) |
-[Ontario](/index.php/Category:FLL_teams_from_Ontario "Category:FLL teams from
+[Ontario](Category:FLL_teams_from_Ontario "Category:FLL teams from
 Ontario" ) | [Prince Edward
-Island](/index.php/Category:FLL_teams_from_Prince_Edward_Island "Category:FLL
+Island](Category:FLL_teams_from_Prince_Edward_Island "Category:FLL
 teams from Prince Edward Island" ) |
-[Quebec](/index.php/Category:FLL_teams_from_Quebec "Category:FLL teams from
-Quebec" ) | [Saskatchewan](/index.php/Category:FLL_teams_from_Saskatchewan
+[Quebec](Category:FLL_teams_from_Quebec "Category:FLL teams from
+Quebec" ) | [Saskatchewan](Category:FLL_teams_from_Saskatchewan
 "Category:FLL teams from Saskatchewan" ) |
-[Yukon](/index.php/Category:FLL_teams_from_Yukon "Category:FLL teams from
+[Yukon](Category:FLL_teams_from_Yukon "Category:FLL teams from
 Yukon" )
 
 [[edit](/index.php?title=FLL_Teams_by_Location&action=edit&section=4 "Edit

@@ -23,7 +23,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [01:41, 24 May 2011](/media/b/b5/Logomotion.gif "/media/b/b5/Logomotion.gif" ) . . [Hallry](/index.php/User:Hallry "User:Hallry" ) ([Talk](/index.php/User_talk:Hallry "User talk:Hallry" )) . . 558x230 (23717 bytes) (Offical logo for Logomotion)
+  * (del) (cur) [01:41, 24 May 2011](/media/b/b5/Logomotion.gif "/media/b/b5/Logomotion.gif" ) . . [Hallry](User:Hallry "User:Hallry" ) ([Talk](User_talk:Hallry "User talk:Hallry" )) . . 558x230 (23717 bytes) (Offical logo for Logomotion)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Logomotion.gif&action=edit&externaledit=true&mode=file "Image:Logomotion.gif" )
@@ -36,5 +36,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Logo Motion](/index.php/Logo_Motion "Logo Motion" )
+  * [Logo Motion](Logo_Motion "Logo Motion" )
 

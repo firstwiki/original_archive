@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Power Puzzle  
 ---  
-[![Power Puzzle logo](/media/f/ff/2007FLL_Logo_140x140.gif)](/index.php/Image:
+[![Power Puzzle logo](/media/f/ff/2007FLL_Logo_140x140.gif)](Image:
 2007FLL_Logo_140x140.gif "Power Puzzle logo" )  
 Challenge Number: | 9  
 Year of Challenge Release: | 2007  
@@ -28,10 +28,10 @@ Number of World Championship Events: | {{{number of world events}}}
 Official Site: | {{{official site}}}  
   
 The **Power Puzzle** is the ninth [FIRST LEGO
-League](/index.php/FIRST_LEGO_League "FIRST LEGO League" ) Challenge. This
+League](FIRST_LEGO_League "FIRST LEGO League" ) Challenge. This
 year's theme is the "Power Puzzle". It deals with the use of energy. Last
 year, nearly 8,846 teams and 90,000 children participated in [Nano
-Quest](/index.php/Nano_Quest "Nano Quest" ). This year, approximately 106,000
+Quest](Nano_Quest "Nano Quest" ). This year, approximately 106,000
 children and 10,600 teams are expected worldwide.
 
 ## Contents
@@ -86,7 +86,7 @@ in issues including energy, environment and green design, to create a theme
 and Challenge missions that are reflective of today’s real-world issues.  
 
 “The environment is a huge concern for everyone, including kids,” said [Dean
-Kamen](/index.php/Dean_Kamen "Dean Kamen" ), [FIRST](/index.php/FIRST "FIRST"
+Kamen](Dean_Kamen "Dean Kamen" ), [FIRST](FIRST "FIRST"
 ) founder. "Giving them a hands-on experience that allows them to use their
 imaginations and creativity in combination with science and technology to
 solve a real-world problem is empowering. It captures the true spirit of FIRST
@@ -94,8 +94,8 @@ LEGO League and unleashes the creative problem-solving skills today’s kids
 need for building a better tomorrow."  
 
 FIRST will also kick off the 2007 [Junior FIRST LEGO
-League](/index.php/Junior_FIRST_LEGO_League "Junior FIRST LEGO League" )
-([JFLL](/index.php/JFLL "JFLL" )) “Power Puzzle” season today. Now in its
+League](Junior_FIRST_LEGO_League "Junior FIRST LEGO League" )
+([JFLL](JFLL "JFLL" )) “Power Puzzle” season today. Now in its
 fourth year, Junior FIRST LEGO League is geared towards 6 to 9 year-olds,
 introducing them to the wonders of science and technology through traditional,
 open-ended LEGO building with an age-appropriate Challenge based on the FIRST
@@ -104,7 +104,7 @@ LEGO League theme.
 
 ##  Missions
 
-A [mission](/index.php/Mission "Mission" ) is a task, which a robot built and
+A [mission](Mission "Mission" ) is a task, which a robot built and
 programmed by the team, can perform to gain points. In each challenge, there
 is a certain number of missions. Teams have eight weeks to complete all the
 missions and project. At a tournament, teams try to get as many missions as
@@ -146,5 +146,5 @@ consisting of different tasks surrounding the topic. The missions include:
   * [Tennessee FIRST LEGO League website](http://www.tennfll.org/ "http://www.tennfll.org/" )
 
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

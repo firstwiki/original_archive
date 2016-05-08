@@ -25,9 +25,9 @@ My name's Tom. I'm a 27-year old software engineer, living in Northborough,
 MA. I work for [Raytheon](http://www.raytheon.com "http://www.raytheon.com" )
 Network Centric Systems in Marlborough, MA, primarily on software for domestic
 and international air traffic control systems. Since 2005, I have been a
-programming mentor on FIRST Team [1100](/index.php/1100 "1100" ).
-Additionally, I was a programming mentor on Team [811](/index.php/811 "811" )
-in 2002, 2004, and 2005, and on Team [246](/index.php/246 "246" ) in 2003.
+programming mentor on FIRST Team [1100](1100 "1100" ).
+Additionally, I was a programming mentor on Team [811](811 "811" )
+in 2002, 2004, and 2005, and on Team [246](246 "246" ) in 2003.
 
 I grew up on Long Island, and moved to New England for my job with Raytheon
 after I graduated from college in 2000.
@@ -58,55 +58,55 @@ I also play trombone in the [Interboro Band](http://www.interboroband.org
 ## FIRST and FLL Competitions I've Attended
 
 
-### 2002 ([Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" ))
+### 2002 ([Zone Zeal](Zone_Zeal "Zone Zeal" ))
 
-(with Team [811](/index.php/811 "811" ))
+(with Team [811](811 "811" ))
 
-  * [UTC New Haven Regional](/index.php/UTC_Regional "UTC Regional" ) (now called the UTC New England Regional and located in Hartford) 
-  * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) (Epcot Center) 
+  * [UTC New Haven Regional](UTC_Regional "UTC Regional" ) (now called the UTC New England Regional and located in Hartford) 
+  * [The Championship Event](The_Championship_Event "The Championship Event" ) (Epcot Center) 
 
 
-### 2003 ([Stack Attack](/index.php/Stack_Attack "Stack Attack" ))
+### 2003 ([Stack Attack](Stack_Attack "Stack Attack" ))
 
-(with Team [246](/index.php/246 "246" ))
+(with Team [246](246 "246" ))
 
-  * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" )
+  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
   * Southern New Hampshire FLL Regional (volunteer, Technical Judging) 
 
 
 ### 2004 ([FIRST Frenzy: Raising the
-Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
+Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
 ))
 
-(with Team [811](/index.php/811 "811" ))
+(with Team [811](811 "811" ))
 
-  * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" )
-  * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) (Georgia Dome) 
+  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
+  * [The Championship Event](The_Championship_Event "The Championship Event" ) (Georgia Dome) 
   * Southern New Hampshire FLL Regional (volunteer, Referee) 
 
 
-### 2005 ([Triple Play](/index.php/Triple_Play "Triple Play" ))
+### 2005 ([Triple Play](Triple_Play "Triple Play" ))
 
-  * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" ) (with Team 811) 
-  * [UTC New England Regional](/index.php/UTC_Regional "UTC Regional" ) (with Team 1100) 
-  * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" ) (with Team 1100) 
-  * [Beantown Blitz](/index.php/Beantown_Blitz "Beantown Blitz" ) (with Team 1100) 
-  * [Battlecry](/index.php/Battlecry "Battlecry" ) 6 (with Team 1100) 
-  * [Mayhem in Merrimack](/index.php/Mayhem_in_Merrimack "Mayhem in Merrimack" ) (volunteer, Field Reset) 
+  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" ) (with Team 811) 
+  * [UTC New England Regional](UTC_Regional "UTC Regional" ) (with Team 1100) 
+  * [The Championship Event](The_Championship_Event "The Championship Event" ) (with Team 1100) 
+  * [Beantown Blitz](Beantown_Blitz "Beantown Blitz" ) (with Team 1100) 
+  * [Battlecry](Battlecry "Battlecry" ) 6 (with Team 1100) 
+  * [Mayhem in Merrimack](Mayhem_in_Merrimack "Mayhem in Merrimack" ) (volunteer, Field Reset) 
   * [Robonautica](/index.php?title=Robonautica&action=edit "Robonautica" ) 5 (volunteer, Technical Judging) 
 
 
-### 2006 ([Aim High](/index.php/Aim_High "Aim High" ))
+### 2006 ([Aim High](Aim_High "Aim High" ))
 
-(with Team [1100](/index.php/1100 "1100" ))
+(with Team [1100](1100 "1100" ))
 
-  * [BAE Systems Granite State Regional](/index.php/BAE_Regional "BAE Regional" )
-  * [Boston Regional](/index.php/Boston_Regional "Boston Regional" )
+  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
+  * [Boston Regional](Boston_Regional "Boston Regional" )
 
 
 ## My FIRST History
 
-I became involved in FIRST in 2002 ([Zone Zeal](/index.php/Zone_Zeal "Zone
+I became involved in FIRST in 2002 ([Zone Zeal](Zone_Zeal "Zone
 Zeal" )), shortly after breaking my leg in a skiing accident. At the time, I
 lived in Nashua, NH and worked in Tewksbury, MA. A co-worker of mine who was
 driving me to work had a son on Team 811 and was discussing the FIRST program
@@ -121,7 +121,7 @@ a team, nor did I know of any in the area which did.
 In late 2002, I received a scholarship from my company to go to graduate
 school at Boston University. This required me to move to Boston Proper, and so
 I left 811 temporarily in favor of the BU-sponsored team, Team 246, for 2003
-([Stack Attack](/index.php/Stack_Attack "Stack Attack" )).
+([Stack Attack](Stack_Attack "Stack Attack" )).
 
 When I graduated that September, my job was transferred to the Marlborough
 plant, but I'd had some roots in Nashua -- namely a girlfriend who lived
@@ -139,7 +139,7 @@ wreak havoc on my car, especially in New England winters, so I searched for a
 new team closer to my new place. I joined a local community wind band, which
 rehearses at the local high school. I asked the band director if he knew of
 any robotics teams in the area, and he pointed me to the faculty advisor for
-Team 1100. For the 2005 ([Triple Play](/index.php/Triple_Play "Triple Play" ))
+Team 1100. For the 2005 ([Triple Play](Triple_Play "Triple Play" ))
 season, I worked with both Team 811 and Team 1100, moving exclusively to 1100
 shortly after the BAE Systems Granite State Regional that year.
 

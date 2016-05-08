@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**Wheels** are fundamental components for [robot](/index.php/Robot "Robot" ) motion and are used more often than any other method of locomotion (such as [treads](/index.php/Tread "Tread" )). 
+**Wheels** are fundamental components for [robot](Robot "Robot" ) motion and are used more often than any other method of locomotion (such as [treads](Tread "Tread" )). 
 
 ## Contents
 
@@ -50,7 +50,7 @@ generally ordered from specialty suppliers rather than fabricated by teams
 themselves.
 
 
-##  [Mecanum](/index.php/Mecanum_wheel "Mecanum wheel" )
+##  [Mecanum](Mecanum_wheel "Mecanum wheel" )
 
 Slightly similar to holonomic wheels, Mecanum wheels also incorporate free-
 spinning rollers, but oriented at 45-degree angles to the direction of wheel

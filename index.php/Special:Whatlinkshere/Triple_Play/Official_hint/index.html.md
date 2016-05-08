@@ -24,8 +24,8 @@ itle=Special:Whatlinkshere/Triple_Play/Official_hint&limit=500&from=0
 "Special:Whatlinkshere/Triple Play/Official hint" )).
 
   * [Official 2005 Game Hint](/index.php?title=Official_2005_Game_Hint&redirect=no "Official 2005 Game Hint" ) (redirect page) 
-    * [Current events](/index.php/Current_events "Current events" )
-    * [Triple Play/Speculation](/index.php/Triple_Play/Speculation "Triple Play/Speculation" )
+    * [Current events](Current_events "Current events" )
+    * [Triple Play/Speculation](Triple_Play/Speculation "Triple Play/Speculation" )
   * [Untitled 2005 game/Official hint](/index.php?title=Untitled_2005_game/Official_hint&redirect=no "Untitled 2005 game/Official hint" ) (redirect page) 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Trip
 le_Play/Official_hint&limit=20&from=0 "Special:Whatlinkshere/Triple

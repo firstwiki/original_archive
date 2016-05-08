@@ -24,5 +24,5 @@ conspicuous link back to the original article at Wikipedia.org.
 "User:68.110.153.123" )
 
 Wired didn't put FIRST in all-caps!
---[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 

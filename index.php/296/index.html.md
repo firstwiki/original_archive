@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=296&action=edit
@@ -13,26 +13,26 @@ section](http://www.firstwiki.net/index.php?title=296&action=edit
 it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:296&action=edit "Talk:296" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
   
 
 [![ ](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif " " ) |  **This article or
+FIRST_logo.gif)](Image:FIRST_logo.gif " " ) |  **This article or
 section needs to be updated.**  
 Parts of this article or section have been identified as no longer being up to
 date.  
 Please update the article to reflect recent events, and remove this template
 when finished. |  [![ ](/media/thumb/5/5f/600px-Nuvola_apps_important.svg.png
-/50px-600px-Nuvola_apps_important.svg.png)](/index.php/Image:600px-
+/50px-600px-Nuvola_apps_important.svg.png)](Image:600px-
 Nuvola_apps_important.svg.png " " )  
 ---|---|---  
   
 Northern Knights  
 ---  
-[![Team logo](/media/b/b2/Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg
+[![Team logo](/media/b/b2/Theteamlogo.jpg)](Image:Theteamlogo.jpg
 "Team logo" )  
 Rookie Year: | 1999  
 Inactive Years: | {{{inactive}}}  

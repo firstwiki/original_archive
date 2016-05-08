@@ -25,31 +25,31 @@ article.
 Index of FRC Games  
 ---  
   
-  * 2011 [Rebound Rumble](/index.php/Rebound_Rumble "Rebound Rumble" )
+  * 2011 [Rebound Rumble](Rebound_Rumble "Rebound Rumble" )
   * 2011 **Logo Motion**
-  * 2010 [Breakaway](/index.php/Breakaway "Breakaway" )
-  * 2009 [Lunacy](/index.php/Lunacy "Lunacy" )
-  * 2008 [FIRST Overdrive](/index.php/FIRST_Overdrive "FIRST Overdrive" )
-  * 2007 [Rack 'n' Roll](/index.php/Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](/index.php/Aim_High "Aim High" )
-  * 2005 [Triple Play](/index.php/Triple_Play "Triple Play" )
-  * 2004 [FIRST Frenzy: Raising the Bar](/index.php/FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
-  * 2003 [Stack Attack](/index.php/Stack_Attack "Stack Attack" )
-  * 2002 [Zone Zeal](/index.php/Zone_Zeal "Zone Zeal" )
-  * 2001 [Diabolical Dynamics](/index.php/Diabolical_Dynamics "Diabolical Dynamics" )
-  * 2000 [Co-Opertition FIRST](/index.php/Co-Opertition_FIRST "Co-Opertition FIRST" )
-  * 1999 [Double Trouble](/index.php/Double_Trouble "Double Trouble" )
-  * 1998 [Ladder Logic](/index.php/Ladder_Logic "Ladder Logic" )
-  * 1997 [Toroid Terror](/index.php/Toroid_Terror "Toroid Terror" )
-  * 1996 [Hexagon Havoc](/index.php/Hexagon_Havoc "Hexagon Havoc" )
-  * 1995 [Ramp n' Roll](/index.php/Ramp_n%27_Roll "Ramp n' Roll" )
-  * 1994 [Tower Power](/index.php/Tower_Power "Tower Power" )
-  * 1993 [Rug Rage](/index.php/Rug_Rage "Rug Rage" )
-  * 1992 [Maize Craze](/index.php/Maize_Craze "Maize Craze" )  
+  * 2010 [Breakaway](Breakaway "Breakaway" )
+  * 2009 [Lunacy](Lunacy "Lunacy" )
+  * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
+  * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
+  * 2006 [Aim High](Aim_High "Aim High" )
+  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
+  * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
+  * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
+  * 2001 [Diabolical Dynamics](Diabolical_Dynamics "Diabolical Dynamics" )
+  * 2000 [Co-Opertition FIRST](Co-Opertition_FIRST "Co-Opertition FIRST" )
+  * 1999 [Double Trouble](Double_Trouble "Double Trouble" )
+  * 1998 [Ladder Logic](Ladder_Logic "Ladder Logic" )
+  * 1997 [Toroid Terror](Toroid_Terror "Toroid Terror" )
+  * 1996 [Hexagon Havoc](Hexagon_Havoc "Hexagon Havoc" )
+  * 1995 [Ramp n' Roll](Ramp_n%27_Roll "Ramp n' Roll" )
+  * 1994 [Tower Power](Tower_Power "Tower Power" )
+  * 1993 [Rug Rage](Rug_Rage "Rug Rage" )
+  * 1992 [Maize Craze](Maize_Craze "Maize Craze" )  
   
   
 
-**Logo Motion** is the 2011 [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ) game. Playing pieces are inner tubes shaped like the components of the [FIRST](/index.php/FIRST "FIRST" ) logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the [FIRST Tech Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist [Jack Kamen](/index.php/Jack_Kamen "Jack Kamen" ), who designed the original FIRST logo. 
+**Logo Motion** is the 2011 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) game. Playing pieces are inner tubes shaped like the components of the [FIRST](FIRST "FIRST" ) logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" ) kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist [Jack Kamen](Jack_Kamen "Jack Kamen" ), who designed the original FIRST logo. 
 
   
 
@@ -74,9 +74,9 @@ Index of FRC Games
 The kickoff, the first event of the 2011 FRC season, was held at the Southern
 New Hampshire University and simulcast to numerous regional kickoffs
 throughout the United States, Canada, and Mexico. Speakers included Walt
-Havenstein, Jon Dudas, [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" ),
+Havenstein, Jon Dudas, [Dean Kamen](Dean_Kamen "Dean Kamen" ),
 [Neal Bascomb](/index.php?title=Neal_Bascomb&action=edit "Neal Bascomb" ),
-Amir Abo-Shaeer, [Dave Lavery](/index.php/Dave_Lavery "Dave Lavery" ) and
+Amir Abo-Shaeer, [Dave Lavery](Dave_Lavery "Dave Lavery" ) and
 Will.I.Am. It was broadcast live on NASA TV starting at 10:30 EST.
 
 As per previous years' competitions, Dave Lavery produced and narrated the
@@ -84,19 +84,19 @@ official game animation video. New Hampshire businessman and FIRST official
 Blair Hundertmark assisted in the production of the video.
 
 [![Logomotion logo](/media/thumb/b/b5/Logomotion.gif/250px-
-Logomotion.gif)](/index.php/Image:Logomotion.gif "Logomotion logo" )
+Logomotion.gif)](Image:Logomotion.gif "Logomotion logo" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Logomotion.gif "Enlarge" )
+clip.png)](Image:Logomotion.gif "Enlarge" )
 
 Logomotion logo
 
 
 ## Competition and Results
 
-[**Main Article:** Build Season](/index.php/Build_season "Build season" )
+[**Main Article:** Build Season](Build_season "Build season" )
 
-[2011 Webcasts](/index.php/2011_Webcasts "2011 Webcasts" )
+[2011 Webcasts](2011_Webcasts "2011 Webcasts" )
 
 
 ## Rules
@@ -121,11 +121,11 @@ controlled by a driver after the autonomous period.
 ### Field
 
 [![LogoMotion field](/media/thumb/d/dc/LogomotionField.jpg/400px-
-LogomotionField.jpg)](/index.php/Image:LogomotionField.jpg "LogoMotion field"
+LogomotionField.jpg)](Image:LogomotionField.jpg "LogoMotion field"
 )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:LogomotionField.jpg "Enlarge" )
+clip.png)](Image:LogomotionField.jpg "Enlarge" )
 
 LogoMotion field
 
@@ -151,7 +151,7 @@ may or may not traverse.
 ### Playing pieces
 
   * **Ubertube** \- a yellow, circular inner tube. It may only be used during the autonomous period. 
-  * **Minibot** \- an [FTC](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) robot 
+  * **Minibot** \- an [FTC](FIRST_Tech_Challenge "FIRST Tech Challenge" ) robot 
 
 The following make up the FIRST Logo.
 
@@ -183,7 +183,7 @@ Hanging on Middle Row |  2 Points|  4 Points
 Hanging on Top Row |  3 Points |  6 Points  
   
 The following is a scoring chart for the mini-bot, a smaller
-[FTC](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) robot deployed
+[FTC](FIRST_Tech_Challenge "FIRST Tech Challenge" ) robot deployed
 during the end game period. The end game is a race between four mini bots to
 reach the top of tower pole on the field.
 

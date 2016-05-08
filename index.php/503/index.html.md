@@ -9,7 +9,7 @@ Jump to: navigation, search
 Frog Force  
 ---  
 [![503's
-logo](/media/thumb/2/28/D324.jpg/250px-D324.jpg)](/index.php/Image:D324.jpg
+logo](/media/thumb/2/28/D324.jpg/250px-D324.jpg)](Image:D324.jpg
 "503's logo" )  
 Rookie Year: | 2001  
 Inactive Years: | {{{inactive}}}  
@@ -178,11 +178,11 @@ The Championship Event
 
 [![Team 503's 2005 robot.  This robot won the World Championship with Team 67
 and Team 330.](/media/thumb/0/00/2005frogforce.jpg/180px-
-2005frogforce.jpg)](/index.php/Image:2005frogforce.jpg "Team 503's 2005 robot.
+2005frogforce.jpg)](Image:2005frogforce.jpg "Team 503's 2005 robot.
 This robot won the World Championship with Team 67 and Team 330." )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:2005frogforce.jpg "Enlarge" )
+clip.png)](Image:2005frogforce.jpg "Enlarge" )
 
 Team 503's 2005 robot. This robot won the World Championship with Team 67 and
 Team 330.
@@ -246,10 +246,10 @@ giving him or her a robot namesake.
   * [Blue Alliance](http://www.thebluealliance.net/tbatv/team.php?team=503 "http://www.thebluealliance.net/tbatv/team.php?team=503" )
   * [Magna](http://www.magna.com/magna/en/ "http://www.magna.com/magna/en/" )
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=503&action=edit
 "http://www.firstwiki.net/index.php?title=503&action=edit" )** this article.  
@@ -257,5 +257,5 @@ Please **[improve](http://www.firstwiki.net/index.php?title=503&action=edit
 ---|---  
   
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

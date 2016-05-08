@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [00:29, 5 April 2006](/media/7/71/2006iFRC1595.jpg "/media/7/71/2006iFRC1595.jpg" ) . . [Lukevanoort](/index.php/User:Lukevanoort "User:Lukevanoort" ) ([Talk](/index.php/User_talk:Lukevanoort "User talk:Lukevanoort" )) . . 300x400 (73865 bytes) (The early stages of the 1595 Mecanum system.)
+  * (del) (cur) [00:29, 5 April 2006](/media/7/71/2006iFRC1595.jpg "/media/7/71/2006iFRC1595.jpg" ) . . [Lukevanoort](User:Lukevanoort "User:Lukevanoort" ) ([Talk](User_talk:Lukevanoort "User talk:Lukevanoort" )) . . 300x400 (73865 bytes) (The early stages of the 1595 Mecanum system.)
   
 
   * [Edit this file using an external application](/index.php?title=Image:2006iFRC1595.jpg&action=edit&externaledit=true&mode=file "Image:2006iFRC1595.jpg" )
@@ -37,13 +37,13 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Template:Featurearticle](/index.php/Template:Featurearticle "Template:Featurearticle" )
-  * [Main Page](/index.php/Main_Page "Main Page" )
-  * [User:Mrawls/front page redesign](/index.php/User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
-  * [Category:Featured articles](/index.php/Category:Featured_articles "Category:Featured articles" )
-  * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
-  * [User:MindstormsKid/Main Page](/index.php/User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
-  * [Drivetrain](/index.php/Drivetrain "Drivetrain" )
+  * [Template:Featurearticle](Template:Featurearticle "Template:Featurearticle" )
+  * [Main Page](Main_Page "Main Page" )
+  * [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
+  * [Category:Featured articles](Category:Featured_articles "Category:Featured articles" )
+  * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+  * [User:MindstormsKid/Main Page](User:MindstormsKid/Main_Page "User:MindstormsKid/Main Page" )
+  * [Drivetrain](Drivetrain "Drivetrain" )
 
 ## Metadata
 

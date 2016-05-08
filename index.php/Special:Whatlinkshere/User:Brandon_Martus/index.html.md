@@ -22,17 +22,17 @@ cial:Whatlinkshere/User:Brandon_Martus&limit=100&from=0
 :Whatlinkshere/User:Brandon_Martus&limit=500&from=0
 "Special:Whatlinkshere/User:Brandon Martus" )).
 
-  * [FIRSTwiki:Administrators](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
+  * [FIRSTwiki:Administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators" )
   * [Brandon Martus](/index.php?title=Brandon_Martus&redirect=no "Brandon Martus" ) (redirect page) 
-    * [Index of people](/index.php/Index_of_people "Index of people" )
-    * [Unsung FIRST Heroes](/index.php/Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
-    * [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" )
-    * [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" )
-    * [FIRSTwiki talk:User questions](/index.php/FIRSTwiki_talk:User_questions "FIRSTwiki talk:User questions" )
-    * [Index of celebrities](/index.php/Index_of_celebrities "Index of celebrities" )
-  * [FIRSTwiki talk:User questions](/index.php/FIRSTwiki_talk:User_questions "FIRSTwiki talk:User questions" )
-  * [FIRSTwiki:Nominations for adminship/Archive 1](/index.php/FIRSTwiki:Nominations_for_adminship/Archive_1 "FIRSTwiki:Nominations for adminship/Archive 1" )
-  * [Category:Sysops](/index.php/Category:Sysops "Category:Sysops" )
+    * [Index of people](Index_of_people "Index of people" )
+    * [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes" )
+    * [ChiefDelphi](ChiefDelphi "ChiefDelphi" )
+    * [FIRSTwiki](FIRSTwiki "FIRSTwiki" )
+    * [FIRSTwiki talk:User questions](FIRSTwiki_talk:User_questions "FIRSTwiki talk:User questions" )
+    * [Index of celebrities](Index_of_celebrities "Index of celebrities" )
+  * [FIRSTwiki talk:User questions](FIRSTwiki_talk:User_questions "FIRSTwiki talk:User questions" )
+  * [FIRSTwiki:Nominations for adminship/Archive 1](FIRSTwiki:Nominations_for_adminship/Archive_1 "FIRSTwiki:Nominations for adminship/Archive 1" )
+  * [Category:Sysops](Category:Sysops "Category:Sysops" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/User
 :Brandon_Martus&limit=20&from=0 "Special:Whatlinkshere/User:Brandon Martus" )
 | [50](/index.php?title=Special:Whatlinkshere/User:Brandon_Martus&limit=50&fro

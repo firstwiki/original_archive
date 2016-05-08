@@ -23,7 +23,7 @@ p?title=Special:Whatlinkshere/Talk:FIRST_Tech_Challenge&limit=250&from=0
 pecial:Whatlinkshere/Talk:FIRST_Tech_Challenge&limit=500&from=0
 "Special:Whatlinkshere/Talk:FIRST Tech Challenge" )).
 
-  * [FIRST Tech Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" )
+  * [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" )
   * [Talk:Vex](/index.php?title=Talk:Vex&redirect=no "Talk:Vex" ) (redirect page) 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Talk
 :FIRST_Tech_Challenge&limit=20&from=0 "Special:Whatlinkshere/Talk:FIRST Tech

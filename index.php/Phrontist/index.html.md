@@ -9,9 +9,9 @@
 
 Jump to: navigation, search
 
-**This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) [sysop](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
+**This user is a [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) [sysop](FIRSTwiki:Administrators "FIRSTwiki:Administrators" ).**
 
-**This user is a [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) demagogue.**
+**This user is a [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) demagogue.**
 
 ## Contents
 
@@ -28,7 +28,7 @@ These are my pet projects. Look foward to many updates. My general strategy
 is:
 
   1. Find some nodes whose lack of content bothers me 
-  2. Get in contact with known experts in the feild. (For instance I PMed Wildstang about doing [StangPS](/index.php/StangPS "StangPS" )) 
+  2. Get in contact with known experts in the feild. (For instance I PMed Wildstang about doing [StangPS](StangPS "StangPS" )) 
   3. Spend time collecting links 
   4. Dump the links onto the page 
   5. Distill the information into a nice, clean, article 
@@ -46,12 +46,12 @@ I go to [George Mason High School](http://team1418.org "http://team1418.org"
 Victus](http://team1418.org "http://team1418.org" ).
 
 Hey! This whole wiki is my fault. I'm sorry, and I hope I am someday forgiven.
-I'm not trying to give an excuse or anything, but [Max](/index.php/User:Max
+I'm not trying to give an excuse or anything, but [Max](User:Max
 "User:Max" ) actually installed MediaWiki, and
-[SilverStar](/index.php/User:SilverStar "User:SilverStar" ) has been slaving
+[SilverStar](User:SilverStar "User:SilverStar" ) has been slaving
 away, fleshing out nodes.
 
-I'm a founding member of [1418](/index.php/1418 "1418" ).
+I'm a founding member of [1418](1418 "1418" ).
 
 Well, time for some biographical info, so I can dodge questions with a snide
 "That info is on the wiki" followed by a derisive snort. I work for [Aurora
@@ -116,7 +116,7 @@ I look like the picture below. See that pocket protector? Yeah, that's our
 uniform next year :-) I'm not kidding! I'm a pocket-protector afictianado and
 my team was easily convinced. Nerd Pride!
 
-[![Image:Phrontist.jpg](/media/3/32/Phrontist.jpg)](/index.php/Image:Phrontist
+[![Image:Phrontist.jpg](/media/3/32/Phrontist.jpg)](Image:Phrontist
 .jpg "Image:Phrontist.jpg" )
 
 

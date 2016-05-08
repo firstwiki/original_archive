@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 For more information about searching FIRSTwiki, see [Searching
-FIRSTwiki](/index.php/FIRSTwiki:Searching "FIRSTwiki:Searching" ).
+FIRSTwiki](FIRSTwiki:Searching "FIRSTwiki:Searching" ).
 
   
   

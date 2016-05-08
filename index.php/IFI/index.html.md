@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**Innovation First, Inc.**, or **IFI**, is an official supplier of custom [electronics](/index.php/Electronics_and_circuitry "Electronics and circuitry" ) for the [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ). IFI provides the main parts of the [control system](/index.php/Control_system "Control system" ). 
+**Innovation First, Inc.**, or **IFI**, is an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry" ) for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ). IFI provides the main parts of the [control system](Control_system "Control system" ). 
 
 ## Contents
 
@@ -28,13 +28,13 @@ section: Products" )]
 
 ## Products
 
-  * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-  * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
+  * [Robot Controller](Robot_Controller "Robot Controller" )
+  * [Operator Interface](Operator_Interface "Operator Interface" )
   * [Spike relays](/index.php?title=Spike_relays&action=edit "Spike relays" )
-  * [Victor 884](/index.php/Victor_884 "Victor 884" )
-  * [Radio modem](/index.php/Radio_modem "Radio modem" )
-  * [Robovation](/index.php/Robovation "Robovation" )
-  * [Vex](/index.php/Vex "Vex" )
+  * [Victor 884](Victor_884 "Victor 884" )
+  * [Radio modem](Radio_modem "Radio modem" )
+  * [Robovation](Robovation "Robovation" )
+  * [Vex](Vex "Vex" )
   * and other accessories 
 
 [[edit](/index.php?title=Innovation_First%2C_Inc.&action=edit&section=3 "Edit
@@ -54,7 +54,7 @@ section: Rack Solutions" )]
 
 Rack Solutions is a division of Innovation First. They specialize in racks for
 rack-mount computers. They provided the racks for the field computers in the
-[2004 game](/index.php/Game_%282004%29 "Game \(2004\)" ).
+[2004 game](Game_%282004%29 "Game \(2004\)" ).
 
 [[edit](/index.php?title=Innovation_First%2C_Inc.&action=edit&section=6 "Edit
 section: External Links" )]
@@ -66,13 +66,13 @@ section: External Links" )]
   * [racksolutions.com](http://www.racksolutions.com/ "http://www.racksolutions.com/" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more content](http://www.firstwiki.net/index.php?title=Innovation_
 First%2C_Inc.&action=edit "http://www.firstwiki.net/index.php?title=Innovation
 _First%2C_Inc.&action=edit" ) to make a significant article. If you'd like to
 add to more stubs, look at the list of [short
-articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

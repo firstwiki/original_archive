@@ -21,7 +21,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [13:22, 9 January 2007](/media/a/a4/Field2007.jpg "/media/a/a4/Field2007.jpg" ) . . [Aaeamdar](/index.php/User:Aaeamdar "User:Aaeamdar" ) ([Talk](/index.php?title=User_talk:Aaeamdar&action=edit "User talk:Aaeamdar" )) . . 770x338 (53472 bytes)
+  * (del) (cur) [13:22, 9 January 2007](/media/a/a4/Field2007.jpg "/media/a/a4/Field2007.jpg" ) . . [Aaeamdar](User:Aaeamdar "User:Aaeamdar" ) ([Talk](/index.php?title=User_talk:Aaeamdar&action=edit "User talk:Aaeamdar" )) . . 770x338 (53472 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Field2007.jpg&action=edit&externaledit=true&mode=file "Image:Field2007.jpg" )
@@ -34,5 +34,5 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Rack 'n' Roll](/index.php/Rack_%27n%27_Roll "Rack 'n' Roll" )
+  * [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
 

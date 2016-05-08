@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Mailing_lists&limit=500&from=0
 "Special:Whatlinkshere/Mailing lists" )).
 
-  * [Organizations](/index.php/Organizations "Organizations" )
+  * [Organizations](Organizations "Organizations" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Mailing_lists&limit=20&from=0
 "Special:Whatlinkshere/Mailing lists" ) |

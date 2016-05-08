@@ -18,7 +18,7 @@ Please **[improve](http://firstwiki.net/index.php?title=Index_of_events_%28FTC
 ---|---  
   
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -26,7 +26,7 @@ _
 [Please add more content](http://firstwiki.net/index.php?title=Index_of_events
 _%28FTC%29&action=edit
 "http://firstwiki.net/index.php?title=Index_of_events_%28FTC%29&action=edit" )
-to make a significant article. _See more [stubs](/index.php/Special:Shortpages
+to make a significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
@@ -64,20 +64,20 @@ Snowdrift FTC Tournament |  Prior Lake, MN USA
   
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Index_of_events_%28FTC%29>"
+"<http://www.firstwiki.netIndex_of_events_%28FTC%29>"
 
 [Categories](/index.php?title=Special:Categories&article=Index_of_events_%28FT
 C%29 "Special:Categories" ): [Articles that need major
-attention](/index.php/Category:Articles_that_need_major_attention
+attention](Category:Articles_that_need_major_attention
 "Category:Articles that need major attention" ) |
-[Stubs](/index.php/Category:Stubs "Category:Stubs" ) | [FIRST Tech
-Challenge](/index.php/Category:FIRST_Tech_Challenge "Category:FIRST Tech
+[Stubs](Category:Stubs "Category:Stubs" ) | [FIRST Tech
+Challenge](Category:FIRST_Tech_Challenge "Category:FIRST Tech
 Challenge" )
 
 ##### Views
 
-  * [Article](/index.php/Index_of_events_%28FTC%29)
-  * [Discussion](/index.php/Talk:Index_of_events_%28FTC%29)
+  * [Article](Index_of_events_%28FTC%29)
+  * [Discussion](Talk:Index_of_events_%28FTC%29)
   * [Edit](/index.php?title=Index_of_events_%28FTC%29&action=edit)
   * [History](/index.php?title=Index_of_events_%28FTC%29&action=history)
 
@@ -85,17 +85,17 @@ Challenge" )
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Index_of_events_\(FTC\))
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -103,10 +103,10 @@ Challenge" )
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Index_of_events_%28FTC%29)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Index_of_events_%28FTC%29)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Index_of_events_%28FTC%29)
+  * [Related changes](Special:Recentchangeslinked/Index_of_events_%28FTC%29)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Index_of_events_%28FTC%29&printable=yes)
   * [Permanent link](/index.php?title=Index_of_events_%28FTC%29&oldid=80169)
 
@@ -119,7 +119,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 19:44, 7 June 2011.
   * This page has been accessed 5,540 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

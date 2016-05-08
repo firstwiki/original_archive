@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Team organization** refers to how [FIRST](/index.php/FIRST "FIRST" ) [teams](/index.php/Team "Team" ) are organized. 
+**Team organization** refers to how [FIRST](FIRST "FIRST" ) [teams](Team "Team" ) are organized. 
 
 ## Contents
 
@@ -38,7 +38,7 @@ section: Engineering" )]
 
 ## Engineering
 
-This group actually constructs the [robot](/index.php/Robot "Robot" ).
+This group actually constructs the [robot](Robot "Robot" ).
 Possible lead positions include a Director of Engineering, a Director of Field
 Construction, and a Director of Procurement (who orders our parts). This group
 obviously becomes very active during the [build
@@ -50,14 +50,14 @@ section: Marketing" )]
 
 ## Marketing
 
-This involves both [fundraising](/index.php/Fundraising "Fundraising" ) and
+This involves both [fundraising](Fundraising "Fundraising" ) and
 [publicity](/index.php?title=Publicity&action=edit "Publicity" ). Possible
 heads of department include Treasurer and a Director of Publicity. Fundraising
 includes seeking out sponsors. Publicity includes do things like communicating
 with the press, raising school awareness about robotics, and any other methods
 of raising the profile of the team. This group also finds non-FIRST events to
 show the robot off. Marketing also undertakes the very important job of
-writing the team's [Chairman's Award](/index.php/Chairman%27s_Award
+writing the team's [Chairman's Award](Chairman%27s_Award
 "Chairman's Award" ) submission. The Chairman's Award is the most prestigious
 award we can win and it is for being the best and most involved team with the
 most impact on team participants and our community. Wanted: people interested
@@ -99,7 +99,7 @@ section: Community outreach" )]
 ## Community outreach
 
 Outreach means helping and mentoring other teams; high school FIRST Teams and
-middle school [FIRST Lego League](/index.php/FIRST_Lego_League "FIRST Lego
+middle school [FIRST Lego League](FIRST_Lego_League "FIRST Lego
 League" ) [teams](/index.php?title=FLL_team&action=edit "FLL team" ). We have
 a Director of Outreach and a Director of Lego League. We're looking for people
 who were on a Lego League team, like working with kids, can work with other
@@ -117,8 +117,8 @@ section: Mentors" )]
 
 ## Mentors
 
-We could not function without our devoted [mentors](/index.php/Mentor "Mentor"
-). Some are recent [alumni](/index.php/Alumni "Alumni" ) who come back
+We could not function without our devoted [mentors](Mentor "Mentor"
+). Some are recent [alumni](Alumni "Alumni" ) who come back
 whenever they can (weekends, vacations, even more if the college is closer).
 Some are engineers, including parents of current students. Some ar e profess
 ionals involved in marketing. Some are professionals who help any way they

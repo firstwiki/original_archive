@@ -7,7 +7,7 @@ Jump to: navigation, search
 TechBrick  
 ---  
 [![Team logo](/media/thumb/8/81/TechBrick320.jpg/150px-
-TechBrick320.jpg)](/index.php/Image:TechBrick320.jpg "Team logo" )  
+TechBrick320.jpg)](Image:TechBrick320.jpg "Team logo" )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  
 Location: | Froest Hill MD United States  
@@ -37,7 +37,7 @@ Info](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=TechBrick
 
 ##  History
 
-**TechBrick** is a FVC team formed of alumni from the FLL team [Techbrick](/index.php/Techbrick "Techbrick" ). 
+**TechBrick** is a FVC team formed of alumni from the FLL team [Techbrick](Techbrick "Techbrick" ). 
 
 
 ##  Robots
@@ -45,10 +45,10 @@ Info](https://my.usfirst.org/myarea/index.lasso?page=teaminfo&team=TechBrick
   * 2006 
 
 [![ 06 robot](/media/thumb/2/2d/TechBrick_Robot06.jpg/180px-
-TechBrick_Robot06.jpg)](/index.php/Image:TechBrick_Robot06.jpg " 06 robot" )
+TechBrick_Robot06.jpg)](Image:TechBrick_Robot06.jpg " 06 robot" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:TechBrick_Robot06.jpg "Enlarge" )
+clip.png)](Image:TechBrick_Robot06.jpg "Enlarge" )
 
 06 robot
 

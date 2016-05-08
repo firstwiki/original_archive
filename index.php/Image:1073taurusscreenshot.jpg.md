@@ -24,7 +24,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [16:55, 21 June 2006](/media/b/b0/1073taurusscreenshot.jpg "/media/b/b0/1073taurusscreenshot.jpg" ) . . [Hollis1138](/index.php/User:Hollis1138 "User:Hollis1138" ) ([Talk](/index.php/User_talk:Hollis1138 "User talk:Hollis1138" )) . . 1024x768 (407779 bytes) (Inventor screenshot of 1073 Taurus)
+  * (del) (cur) [16:55, 21 June 2006](/media/b/b0/1073taurusscreenshot.jpg "/media/b/b0/1073taurusscreenshot.jpg" ) . . [Hollis1138](User:Hollis1138 "User:Hollis1138" ) ([Talk](User_talk:Hollis1138 "User talk:Hollis1138" )) . . 1024x768 (407779 bytes) (Inventor screenshot of 1073 Taurus)
   
 
   * [Edit this file using an external application](/index.php?title=Image:1073taurusscreenshot.jpg&action=edit&externaledit=true&mode=file "Image:1073taurusscreenshot.jpg" )
@@ -37,8 +37,8 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [1073](/index.php/1073 "1073" )
-  * [1073 in 2005](/index.php/1073_in_2005 "1073 in 2005" )
+  * [1073](1073 "1073" )
+  * [1073 in 2005](1073_in_2005 "1073 in 2005" )
 
 ## Metadata
 
@@ -56,11 +56,11 @@ File change date and time |  20:52, 3 March 2005
 Color space |  sRGB  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Image:1073taurusscreenshot.jpg>"
+"<http://www.firstwiki.netImage:1073taurusscreenshot.jpg>"
 
 ##### Views
 
-  * [File](/index.php/Image:1073taurusscreenshot.jpg)
+  * [File](Image:1073taurusscreenshot.jpg)
   * [Discussion](/index.php?title=Image_talk:1073taurusscreenshot.jpg&action=edit)
   * [Edit](/index.php?title=Image:1073taurusscreenshot.jpg&action=edit)
   * [History](/index.php?title=Image:1073taurusscreenshot.jpg&action=history)
@@ -69,17 +69,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Image:1073taurusscreenshot.jpg)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -87,10 +87,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Image:1073taurusscreenshot.jpg)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Image:1073taurusscreenshot.jpg)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Image:1073taurusscreenshot.jpg)
+  * [Related changes](Special:Recentchangeslinked/Image:1073taurusscreenshot.jpg)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Image:1073taurusscreenshot.jpg&printable=yes)
   * [Permanent link](/index.php?title=Image:1073taurusscreenshot.jpg&oldid=48262)
 
@@ -103,7 +103,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:55, 21 June 2006.
   * This page has been accessed 183 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

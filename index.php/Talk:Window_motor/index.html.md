@@ -5,14 +5,14 @@
 Jump to: navigation, search
 
 what direction is "so the axle turns away from the motor" Whats away and
-what's towards? --[Max](/index.php/User:Max "User:Max" ) 11:59, 28 May 2004
+what's towards? --[Max](User:Max "User:Max" ) 11:59, 28 May 2004
 (EDT)
 
 If you look at it the way it is shipped, the motor is the big black thing. its
 axle turns a worm gear which turns the gear and the part that you atach to. If
 you turn the external part so that the worm goes towards (into) the motor, get
 a new one. I don't know if the direction is clockwise or counter-clockwise.
---[Astronouth7303](/index.php/User:Astronouth7303 "User:Astronouth7303" )
+--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 
 [[edit](/index.php?title=Talk:Window_motor&action=edit&section=1 "Edit
 section: Motor names" )]

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Pessure regulators** are [pneumatics](/index.php/Pneumatics "Pneumatics" ) components used to regulate the system pressure to a set pressure. 
+**Pessure regulators** are [pneumatics](Pneumatics "Pneumatics" ) components used to regulate the system pressure to a set pressure. 
 
 [[edit](/index.php?title=Pressure_regulator&action=edit&section=1 "Edit
 section: Connections" )]
@@ -25,11 +25,11 @@ needle points to the desired pressure.
 
   
 
-_**[Pneumatics](/index.php/Pneumatics "Pneumatics" ) Parts:**_  
-[Cylinder](/index.php/Cylinder "Cylinder" ) | [Solenoid](/index.php/Solenoid
-"Solenoid" ) | [Compressor](/index.php/Compressor "Compressor" ) | [Storage
-tank](/index.php/Storage_tank "Storage tank" ) | [Rotary
-actuator](/index.php/Rotary_actuator "Rotary actuator" ) | **Pressure
-regulator** | [Pressure switch](/index.php/Pressure_switch "Pressure switch" )  
+_**[Pneumatics](Pneumatics "Pneumatics" ) Parts:**_  
+[Cylinder](Cylinder "Cylinder" ) | [Solenoid](Solenoid
+"Solenoid" ) | [Compressor](Compressor "Compressor" ) | [Storage
+tank](Storage_tank "Storage tank" ) | [Rotary
+actuator](Rotary_actuator "Rotary actuator" ) | **Pressure
+regulator** | [Pressure switch](Pressure_switch "Pressure switch" )  
 ---  
   

@@ -7,9 +7,9 @@
 Jump to: navigation, search
 
 Links to the webcasts are located at [2012 Webcast
-Links](/index.php/2012_Webcast_Links "2012 Webcast Links" ).
+Links](2012_Webcast_Links "2012 Webcast Links" ).
 
-This page is based off of [2011 Archiving](/index.php/2011_Archiving "2011
+This page is based off of [2011 Archiving](2011_Archiving "2011
 Archiving" ).
 
 ## Contents
@@ -415,12 +415,12 @@ Apr. 12-14| Mid-Atlantic Robotics FRC Region Championship| |
   
 
 Retrieved from
-"<http://firstwiki.net/index.php/2012_Webcasting_%26_Archiving>"
+"<http://firstwiki.net2012_Webcasting_%26_Archiving>"
 
 ##### Views
 
-  * [Article](/index.php/2012_Webcasting_%26_Archiving)
-  * [Discussion](/index.php/Talk:2012_Webcasting_%26_Archiving)
+  * [Article](2012_Webcasting_%26_Archiving)
+  * [Discussion](Talk:2012_Webcasting_%26_Archiving)
   * [Edit](/index.php?title=2012_Webcasting_%26_Archiving&action=edit)
   * [History](/index.php?title=2012_Webcasting_%26_Archiving&action=history)
 
@@ -428,17 +428,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=2012_Webcasting_%26_Archiving)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -446,10 +446,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/2012_Webcasting_%26_Archiving)
-  * [Related changes](/index.php/Special:Recentchangeslinked/2012_Webcasting_%26_Archiving)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/2012_Webcasting_%26_Archiving)
+  * [Related changes](Special:Recentchangeslinked/2012_Webcasting_%26_Archiving)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=2012_Webcasting_%26_Archiving&printable=yes)
   * [Permanent link](/index.php?title=2012_Webcasting_%26_Archiving&oldid=93270)
 
@@ -462,7 +462,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 05:19, 9 March 2012.
   * This page has been accessed 2,781 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

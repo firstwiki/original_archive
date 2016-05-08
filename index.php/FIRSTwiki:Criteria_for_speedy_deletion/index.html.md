@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 The **"Speedy deletion" policy** governs limited cases where [FIRSTwiki
-administrators](/index.php/FIRSTwiki:Administrators "FIRSTwiki:Administrators"
+administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators"
 ) may delete Wikipedia pages or media "on sight" without further debate, as in
 the cases of [patent nonsense](http://www.wikipedia.org/wiki/Patent_nonsense
 "wikipedia:Patent_nonsense" ) or [pure
@@ -23,7 +23,7 @@ creation](http://www.wikipedia.org/wiki/New_pages "wikipedia:New_pages" ).
 Users nominating a page for speedy deletion should specify which criteria the
 page meets; it would also be considerate to notify the original author --
 remember, everyone was new once. Note that the
-[Sandbox](/index.php/FIRSTwiki:Sandbox "FIRSTwiki:Sandbox" ) is exempt from
+[Sandbox](FIRSTwiki:Sandbox "FIRSTwiki:Sandbox" ) is exempt from
 deletion.
 
 These criteria are worded narrowly, and generally so phrased that, in most
@@ -44,7 +44,7 @@ deletion](http://www.wikipedia.org/wiki/Articles_for_deletion
 
 The list of current candidates for speedy deletion is at
 **[Category:Candidates for speedy
-deletion](/index.php/Category:Candidates_for_speedy_deletion
+deletion](Category:Candidates_for_speedy_deletion
 "Category:Candidates for speedy deletion" )**.
 
 **Note that administrators should always verify the legitimacy of a speedy deletion candidate before taking action. It is the administrator's responsibility to make sure that speedy deletion tags are accurate; to do this the administrator must examine the history of every page _before_ deleting it.**
@@ -225,16 +225,16 @@ Admins should specify the deletion criteria in their edit summary and should
 notify the article's creator about the deletion, where applicable.
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/FIRSTwiki:Criteria_for_speedy_deletion>"
+"<http://www.firstwiki.netFIRSTwiki:Criteria_for_speedy_deletion>"
 
 [Category](/index.php?title=Special:Categories&article=FIRSTwiki%3ACriteria_fo
 r_speedy_deletion "Special:Categories" ):
-[FIRSTwiki](/index.php/Category:FIRSTwiki "Category:FIRSTwiki" )
+[FIRSTwiki](Category:FIRSTwiki "Category:FIRSTwiki" )
 
 ##### Views
 
-  * [Project page](/index.php/FIRSTwiki:Criteria_for_speedy_deletion)
-  * [Discussion](/index.php/FIRSTwiki_talk:Criteria_for_speedy_deletion)
+  * [Project page](FIRSTwiki:Criteria_for_speedy_deletion)
+  * [Discussion](FIRSTwiki_talk:Criteria_for_speedy_deletion)
   * [Edit](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=edit)
   * [History](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&action=history)
 
@@ -242,17 +242,17 @@ r_speedy_deletion "Special:Categories" ):
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=FIRSTwiki:Criteria_for_speedy_deletion)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -260,10 +260,10 @@ r_speedy_deletion "Special:Categories" ):
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/FIRSTwiki:Criteria_for_speedy_deletion)
-  * [Related changes](/index.php/Special:Recentchangeslinked/FIRSTwiki:Criteria_for_speedy_deletion)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/FIRSTwiki:Criteria_for_speedy_deletion)
+  * [Related changes](Special:Recentchangeslinked/FIRSTwiki:Criteria_for_speedy_deletion)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&printable=yes)
   * [Permanent link](/index.php?title=FIRSTwiki:Criteria_for_speedy_deletion&oldid=48854)
 
@@ -276,7 +276,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 16:45, 12 July 2006.
   * This page has been accessed 427 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

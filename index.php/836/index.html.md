@@ -7,7 +7,7 @@ Jump to: navigation, search
 RoboBees  
 ---  
 [![](/media/thumb/6/68/836_logo2.JPG/150px-
-836_logo2.JPG)](/index.php/Image:836_logo2.JPG "" )  
+836_logo2.JPG)](Image:836_logo2.JPG "" )  
 Rookie Year: | 2002  
 Inactive Years: | {{{inactive}}}  
 Location: | Leonardtown MD USA  
@@ -53,13 +53,13 @@ autonomus mode option control system at the USNA.
 
 ## Team projects
 
-[![image:836cannon.JPG](/media/4/49/836cannon.JPG)](/index.php/Image:836cannon
+[![image:836cannon.JPG](/media/4/49/836cannon.JPG)](Image:836cannon
 .JPG "image:836cannon.JPG" )
 
-[![image:836sideview.JPG](/media/6/6d/836sideview.JPG)](/index.php/Image:836si
+[![image:836sideview.JPG](/media/6/6d/836sideview.JPG)](Image:836si
 deview.JPG "image:836sideview.JPG" )
 
-[![image:836postcard.JPG](/media/d/db/836postcard.JPG)](/index.php/Image:836po
+[![image:836postcard.JPG](/media/d/db/836postcard.JPG)](Image:836po
 stcard.JPG "image:836postcard.JPG" )
 
 
@@ -161,7 +161,7 @@ Stachelczyk" )
 [Kyle Corrigan](/index.php?title=Kyle_Corrigan&action=edit "Kyle Corrigan" )  
 [Jeff Powers](/index.php?title=Jeff_Powers&action=edit "Jeff Powers" )  
 [Daniel Logan](/index.php?title=Daniel_Logan&action=edit "Daniel Logan" )  
-[Matt Virts](/index.php/User:Mvirts "User:Mvirts" )  
+[Matt Virts](User:Mvirts "User:Mvirts" )  
 [Tim Miedzinski](/index.php?title=User:Tim-tim&action=edit "User:Tim-tim" )  
 
 

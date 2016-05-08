@@ -8,7 +8,7 @@ ct=no "FIRSTwiki:FIRST LEGO league state tournament page format" ))
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
 Use this page format to create a page for an official Tournament. Usually, the
@@ -83,9 +83,9 @@ format&action=edit&section=5 "Edit section: Results" )]
 
 See Also:
 
-  * [FIRST LEGO Qualifying Tournaments](/index.php/Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
-  * [FIRST LEGO Local Tournaments](/index.php/Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
-  * [FIRST LEGO Events](/index.php/Category:FLL_Events "Category:FLL Events" )
+  * [FIRST LEGO Qualifying Tournaments](Category:FLL_Qualifying_Tournaments "Category:FLL Qualifying Tournaments" )
+  * [FIRST LEGO Local Tournaments](Category:FLL_Local_Tournaments "Category:FLL Local Tournaments" )
+  * [FIRST LEGO Events](Category:FLL_Events "Category:FLL Events" )
 
   
 

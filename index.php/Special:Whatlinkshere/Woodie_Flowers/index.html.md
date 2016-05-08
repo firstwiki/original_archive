@@ -23,12 +23,12 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Woodie_Flowers&limit=500&from=0
 "Special:Whatlinkshere/Woodie Flowers" )).
 
-  * [Index of people](/index.php/Index_of_people "Index of people" )
-  * [Woodie Flowers Award](/index.php/Woodie_Flowers_Award "Woodie Flowers Award" )
-  * [Index of celebrities](/index.php/Index_of_celebrities "Index of celebrities" )
-  * [IR sensor](/index.php/IR_sensor "IR sensor" )
-  * [Kickoff](/index.php/Kickoff "Kickoff" )
-  * [Practicing Gracious Professionalism](/index.php/Practicing_Gracious_Professionalism "Practicing Gracious Professionalism" )
+  * [Index of people](Index_of_people "Index of people" )
+  * [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award" )
+  * [Index of celebrities](Index_of_celebrities "Index of celebrities" )
+  * [IR sensor](IR_sensor "IR sensor" )
+  * [Kickoff](Kickoff "Kickoff" )
+  * [Practicing Gracious Professionalism](Practicing_Gracious_Professionalism "Practicing Gracious Professionalism" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Woodie_Flowers&limit=20&from=0
 "Special:Whatlinkshere/Woodie Flowers" ) |

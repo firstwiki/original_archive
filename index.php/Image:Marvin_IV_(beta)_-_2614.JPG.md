@@ -22,7 +22,7 @@ Legend: (cur) = this is the current file, (del) = delete this old version,
 (rev) = revert to this old version.  
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [22:14, 19 June 2012](/media/1/1a/Marvin_IV_%28beta%29_-_2614.JPG "/media/1/1a/Marvin IV \(beta\) - 2614.JPG" ) . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](/index.php/User_talk:Robot2614 "User talk:Robot2614" )) . . 2592x1944 (2313985 bytes)
+  * (del) (cur) [22:14, 19 June 2012](/media/1/1a/Marvin_IV_%28beta%29_-_2614.JPG "/media/1/1a/Marvin IV \(beta\) - 2614.JPG" ) . . [Robot2614](/index.php?title=User:Robot2614&action=edit "User:Robot2614" ) ([Talk](User_talk:Robot2614 "User talk:Robot2614" )) . . 2592x1944 (2313985 bytes)
   
 
   * [Edit this file using an external application](/index.php?title=Image:Marvin_IV_%28beta%29_-_2614.JPG&action=edit&externaledit=true&mode=file "Image:Marvin IV \(beta\) - 2614.JPG" )
@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [2614](/index.php/2614 "2614" )
+  * [2614](2614 "2614" )
 
 ## Metadata
 
@@ -78,11 +78,11 @@ Digital zoom ratio |  1
 Scene capture type |  Standard  
   
 Retrieved from
-"<http://www.firstwiki.net/index.php/Image:Marvin_IV_%28beta%29_-_2614.JPG>"
+"<http://www.firstwiki.netImage:Marvin_IV_%28beta%29_-_2614.JPG>"
 
 ##### Views
 
-  * [File](/index.php/Image:Marvin_IV_%28beta%29_-_2614.JPG)
+  * [File](Image:Marvin_IV_%28beta%29_-_2614.JPG)
   * [Discussion](/index.php?title=Image_talk:Marvin_IV_%28beta%29_-_2614.JPG&action=edit)
   * [Edit](/index.php?title=Image:Marvin_IV_%28beta%29_-_2614.JPG&action=edit)
   * [History](/index.php?title=Image:Marvin_IV_%28beta%29_-_2614.JPG&action=history)
@@ -91,17 +91,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Image:Marvin_IV_\(beta\)_-_2614.JPG)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -109,10 +109,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Image:Marvin_IV_%28beta%29_-_2614.JPG)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Image:Marvin_IV_%28beta%29_-_2614.JPG)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Image:Marvin_IV_%28beta%29_-_2614.JPG)
+  * [Related changes](Special:Recentchangeslinked/Image:Marvin_IV_%28beta%29_-_2614.JPG)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Image:Marvin_IV_%28beta%29_-_2614.JPG&printable=yes)
   * [Permanent link](/index.php?title=Image:Marvin_IV_%28beta%29_-_2614.JPG&oldid=154023)
 
@@ -125,7 +125,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 22:14, 19 June 2012.
   * This page has been accessed 2 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

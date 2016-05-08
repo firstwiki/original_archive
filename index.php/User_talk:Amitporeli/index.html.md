@@ -59,7 +59,7 @@ participant when he tried to cease him and was admitted to Primus hospital.
 All these controversies have made IPL more well-known however it decreases its
 dignity. Many [**t20 cricket**](http://www.evidencewarehouse.ocp.dc.gov/index.
 php/User_talk:Amitporeli
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Amitporeli" )
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Amitporeli" )
 followers now call this event as a circus, not a cricket tournament.
 Individuals have started to assume that IPL is just a mere business where some
 people are attempting to earn cash through the use of people’s craze and

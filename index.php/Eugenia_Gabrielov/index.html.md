@@ -38,7 +38,7 @@ Eugenia Gabrielov
 
 ## Robotics
 
-  * Team [461](/index.php/461 "461" )
+  * Team [461](461 "461" )
   * Westside Boiler Invasion 
   * Personal Rookie Season: 2004 
 

@@ -5,14 +5,14 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Terminology&action=edit
 "http://www.firstwiki.net/index.php?title=Terminology&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   
   
@@ -101,7 +101,7 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # R
 
-  * [RX](/index.php/RX "RX" )
+  * [RX](RX "RX" )
 
 
 # S
@@ -109,7 +109,7 @@ significant article. If you'd like to add to more stubs, look at the list of
 
 # T
 
-  * [TX](/index.php/TX "TX" )
+  * [TX](TX "TX" )
 
 
 # U

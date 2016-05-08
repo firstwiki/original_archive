@@ -9,7 +9,7 @@ Jump to: navigation, search
 Team Mercury  
 ---  
 [![](/media/thumb/2/2f/1089logo.jpg/150px-
-1089logo.jpg)](/index.php/Image:1089logo.jpg "" )  
+1089logo.jpg)](Image:1089logo.jpg "" )  
 Rookie Year: | 2003  
 Inactive Years: | {{{inactive}}}  
 Location: | Hightstown, New Jersey  
@@ -75,10 +75,10 @@ plethora of other disciplines. With the help of our gracious sponsors,
 the International FIRST Robotics Competition.  
 
 [![QuickSilver 2003](/media/thumb/4/47/03Quicksilver.jpg/180px-
-03Quicksilver.jpg)](/index.php/Image:03Quicksilver.jpg "QuickSilver 2003" )
+03Quicksilver.jpg)](Image:03Quicksilver.jpg "QuickSilver 2003" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:03Quicksilver.jpg "Enlarge" )
+clip.png)](Image:03Quicksilver.jpg "Enlarge" )
 
 QuickSilver 2003
 
@@ -87,7 +87,7 @@ both in reference to the NASA space team and the silver lacquer of the metals
 used for robot construction. The black and silver colored team was then
 assigned a competition number 1089, making Team Mercury unique and
 identifiable. The 2003 robot was aptly named, “[
-Quicksilver](/index.php/Quicksilver_%281089%29 "Quicksilver \(1089\)" ),” a
+Quicksilver](Quicksilver_%281089%29 "Quicksilver \(1089\)" ),” a
 nickname for mercury itself. Quicksilver could stack boxes, deploy wings to
 knock down stacks, and was extremely strong, dominating the field in most of
 their rounds. The robot spent most rounds pushing other teams around, and Team
@@ -97,11 +97,11 @@ Brunswick, New Jersey.
   
 
 [![ Team Mercury 2004](/media/thumb/9/9b/2004TeamMercury.JPG/180px-
-2004TeamMercury.JPG)](/index.php/Image:2004TeamMercury.JPG " Team Mercury
+2004TeamMercury.JPG)](Image:2004TeamMercury.JPG " Team Mercury
 2004" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:2004TeamMercury.JPG "Enlarge" )
+clip.png)](Image:2004TeamMercury.JPG "Enlarge" )
 
 Team Mercury 2004
 
@@ -114,16 +114,16 @@ Regional in Annapolis, MD. Even through many cabling difficulties with its
 mechanical arm, the team managed to successfully push their way through FIRST
 Frenzy, the 2004 Competition, finishing as quarter-finalists at the New Jersey
 Regional. They went on to compete in off-season events, and won Frenzy Finale
-at Bridgewater-Raritan High School with the help of [ Team 19](/index.php/19
-"19" ), and [ Team 25](/index.php/25 "25" ).  
+at Bridgewater-Raritan High School with the help of [ Team 19](19
+"19" ), and [ Team 25](25 "25" ).  
 
   
 
 [![ NJ Regional 2005](/media/thumb/1/1f/1089NJ.JPG/180px-
-1089NJ.JPG)](/index.php/Image:1089NJ.JPG " NJ Regional 2005" )
+1089NJ.JPG)](Image:1089NJ.JPG " NJ Regional 2005" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1089NJ.JPG "Enlarge" )
+clip.png)](Image:1089NJ.JPG "Enlarge" )
 
 NJ Regional 2005
 
@@ -140,10 +140,10 @@ division, 1089 finished undefeated and ranked first seed.
   
 
 [![ NJ Regional 2005](/media/thumb/4/47/1089NJ2.JPG/180px-
-1089NJ2.JPG)](/index.php/Image:1089NJ2.JPG " NJ Regional 2005" )
+1089NJ2.JPG)](Image:1089NJ2.JPG " NJ Regional 2005" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:1089NJ2.JPG "Enlarge" )
+clip.png)](Image:1089NJ2.JPG "Enlarge" )
 
 NJ Regional 2005
 
@@ -165,11 +165,11 @@ Keep a look out for more incredible accomplishments!
 ## General Team Information
 
 [![ Team Mercury 2005](/media/thumb/8/8a/2005TeamMercury.JPG/180px-
-2005TeamMercury.JPG)](/index.php/Image:2005TeamMercury.JPG " Team Mercury
+2005TeamMercury.JPG)](Image:2005TeamMercury.JPG " Team Mercury
 2005" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:2005TeamMercury.JPG "Enlarge" )
+clip.png)](Image:2005TeamMercury.JPG "Enlarge" )
 
 Team Mercury 2005
 
@@ -207,10 +207,10 @@ dedication and incredible success of Team 25.
   
 
 [![ Presentation of Funding](/media/thumb/2/23/CHECK3.JPG/180px-
-CHECK3.JPG)](/index.php/Image:CHECK3.JPG " Presentation of Funding" )
+CHECK3.JPG)](Image:CHECK3.JPG " Presentation of Funding" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:CHECK3.JPG "Enlarge" )
+clip.png)](Image:CHECK3.JPG "Enlarge" )
 
 Presentation of Funding
 
@@ -233,7 +233,7 @@ tools, wood, and metal to help alleviate construction costs.
 
 ## Robots
 
-  * [ 2003 - Quicksilver](/index.php/Quicksilver_%281089%29 "Quicksilver \(1089\)" )
+  * [ 2003 - Quicksilver](Quicksilver_%281089%29 "Quicksilver \(1089\)" )
   * [ 2004 - Quicksilver++](/index.php?title=Quicksilver_Plus_Plus_%281089%29&action=edit "Quicksilver Plus Plus \(1089\)" )
   * [ 2005 - The Messenger](/index.php?title=The_Messenger_%281089%29&action=edit "The Messenger \(1089\)" )
   * [ 2006 - Silver Lightning](/index.php?title=Silver_Lightning_%281089%29&action=edit "Silver Lightning \(1089\)" )
@@ -445,99 +445,99 @@ a profoundly positive impact on the students, the schools, and the community.
 
   
 
-_[Index of teams](/index.php/Index_of_teams "Index of teams" ):_  
+_[Index of teams](Index_of_teams "Index of teams" ):_  
 ---  
   
-[1-100](/index.php/Index_of_teams#1-100 "Index of teams" )
-[101-200](/index.php/Index_of_teams#101-200 "Index of teams" )
-[201-300](/index.php/Index_of_teams#201-300 "Index of teams" )
-[301-400](/index.php/Index_of_teams#301-400 "Index of teams" )
-[401-500](/index.php/Index_of_teams#401-500 "Index of teams" )
-[501-600](/index.php/Index_of_teams#501-600 "Index of teams" )
-[601-700](/index.php/Index_of_teams#601-700 "Index of teams" )
-[701-800](/index.php/Index_of_teams#701-800 "Index of teams" )
-[801-900](/index.php/Index_of_teams#801-900 "Index of teams" )
-[901-1000](/index.php/Index_of_teams#901-1000 "Index of teams" )
-[1001-1100](/index.php/Index_of_teams#1001-1100 "Index of teams" )
-[1101-1200](/index.php/Index_of_teams#1101-1200 "Index of teams" )
-[1201-1300](/index.php/Index_of_teams#1201-1300 "Index of teams" )
-[1301-1400](/index.php/Index_of_teams#1301-1400 "Index of teams" )
-[1401-1500](/index.php/Index_of_teams#1401-1500 "Index of teams" )
-[1501-1600](/index.php/Index_of_teams#1501-1600 "Index of teams" )
-[1601-1700](/index.php/Index_of_teams#1601-1700 "Index of teams" )
-[1701-1800](/index.php/Index_of_teams#1701-1800 "Index of teams" )
-[1801-1900](/index.php/Index_of_teams#1801-1900 "Index of teams" )
-[1901-2000](/index.php/Index_of_teams#1901-2000 "Index of teams" )
-[2001-2100](/index.php/Index_of_teams#2001-2100 "Index of teams" )
-[2101-2200](/index.php/Index_of_teams#2101-2200 "Index of teams" )
-[2201-2300](/index.php/Index_of_teams#2201-2300 "Index of teams" )
-[2301-2400](/index.php/Index_of_teams#2301-2400 "Index of teams" )
-[2401-2500](/index.php/Index_of_teams#2401-2500 "Index of teams" )
-[2501-2600](/index.php/Index_of_teams#2501-2600 "Index of teams" )
-[2601-2700](/index.php/Index_of_teams#2601-2700 "Index of teams" )
-[2701-2800](/index.php/Index_of_teams#2701-2800 "Index of teams" )
-[2801-2900](/index.php/Index_of_teams#2801-2900 "Index of teams" )
-[2901-3000](/index.php/Index_of_teams#2901-3000 "Index of teams" )
-[3001-3100](/index.php/Index_of_teams#3001-3100 "Index of teams" )
-[3101-3200](/index.php/Index_of_teams#3101-3200 "Index of teams" )
-[3201-3300](/index.php/Index_of_teams#3201-3300 "Index of teams" )
-[3301-3400](/index.php/Index_of_teams#3301-3400 "Index of teams" )
-[3401-3500](/index.php/Index_of_teams#3401-3500 "Index of teams" )
-[3501-3600](/index.php/Index_of_teams#3501-3600 "Index of teams" )
-[3601-3700](/index.php/Index_of_teams#3601-3700 "Index of teams" )
-[3701-3800](/index.php/Index_of_teams#3701-3800 "Index of teams" )
-[3801-3900](/index.php/Index_of_teams#3801-3900 "Index of teams" )
-[3901-4000](/index.php/Index_of_teams#3901-4000 "Index of teams" )
-[4001-4100](/index.php/Index_of_teams#4001-4100 "Index of teams" )  
+[1-100](Index_of_teams#1-100 "Index of teams" )
+[101-200](Index_of_teams#101-200 "Index of teams" )
+[201-300](Index_of_teams#201-300 "Index of teams" )
+[301-400](Index_of_teams#301-400 "Index of teams" )
+[401-500](Index_of_teams#401-500 "Index of teams" )
+[501-600](Index_of_teams#501-600 "Index of teams" )
+[601-700](Index_of_teams#601-700 "Index of teams" )
+[701-800](Index_of_teams#701-800 "Index of teams" )
+[801-900](Index_of_teams#801-900 "Index of teams" )
+[901-1000](Index_of_teams#901-1000 "Index of teams" )
+[1001-1100](Index_of_teams#1001-1100 "Index of teams" )
+[1101-1200](Index_of_teams#1101-1200 "Index of teams" )
+[1201-1300](Index_of_teams#1201-1300 "Index of teams" )
+[1301-1400](Index_of_teams#1301-1400 "Index of teams" )
+[1401-1500](Index_of_teams#1401-1500 "Index of teams" )
+[1501-1600](Index_of_teams#1501-1600 "Index of teams" )
+[1601-1700](Index_of_teams#1601-1700 "Index of teams" )
+[1701-1800](Index_of_teams#1701-1800 "Index of teams" )
+[1801-1900](Index_of_teams#1801-1900 "Index of teams" )
+[1901-2000](Index_of_teams#1901-2000 "Index of teams" )
+[2001-2100](Index_of_teams#2001-2100 "Index of teams" )
+[2101-2200](Index_of_teams#2101-2200 "Index of teams" )
+[2201-2300](Index_of_teams#2201-2300 "Index of teams" )
+[2301-2400](Index_of_teams#2301-2400 "Index of teams" )
+[2401-2500](Index_of_teams#2401-2500 "Index of teams" )
+[2501-2600](Index_of_teams#2501-2600 "Index of teams" )
+[2601-2700](Index_of_teams#2601-2700 "Index of teams" )
+[2701-2800](Index_of_teams#2701-2800 "Index of teams" )
+[2801-2900](Index_of_teams#2801-2900 "Index of teams" )
+[2901-3000](Index_of_teams#2901-3000 "Index of teams" )
+[3001-3100](Index_of_teams#3001-3100 "Index of teams" )
+[3101-3200](Index_of_teams#3101-3200 "Index of teams" )
+[3201-3300](Index_of_teams#3201-3300 "Index of teams" )
+[3301-3400](Index_of_teams#3301-3400 "Index of teams" )
+[3401-3500](Index_of_teams#3401-3500 "Index of teams" )
+[3501-3600](Index_of_teams#3501-3600 "Index of teams" )
+[3601-3700](Index_of_teams#3601-3700 "Index of teams" )
+[3701-3800](Index_of_teams#3701-3800 "Index of teams" )
+[3801-3900](Index_of_teams#3801-3900 "Index of teams" )
+[3901-4000](Index_of_teams#3901-4000 "Index of teams" )
+[4001-4100](Index_of_teams#4001-4100 "Index of teams" )  
   
-_[Index of teams by region](/index.php/Index_of_teams_by_region "Index of
+_[Index of teams by region](Index_of_teams_by_region "Index of
 teams by region" ):_  
 ---  
   
-[NH](/index.php/Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
+[NH](Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
 _Manchester.2C_NH "Index of teams by region" )
-[NJ](/index.php/Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
+[NJ](Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
 "Index of teams by region" )
-[VA](/index.php/Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
-"Index of teams by region" ) [OR](/index.php/Index_of_teams_by_region#Pacific_
+[VA](Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
+"Index of teams by region" ) [OR](Index_of_teams_by_region#Pacific_
 Northwest_Regional.2C_Portland.2C_OR "Index of teams by region" )
-[AZ](/index.php/Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
+[AZ](Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
 "Index of teams by region" )
-[FL](/index.php/Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
-"Index of teams by region" ) [GL](/index.php/Index_of_teams_by_region#Great_La
-kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](/index.php/
+[FL](Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
+"Index of teams by region" ) [GL](Index_of_teams_by_region#Great_La
+kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](
 Index_of_teams_by_region#Pittsburgh_Regional.2C_Pittsburgh.2C_PA "Index of
-teams by region" ) [MO](/index.php/Index_of_teams_by_region#St._Louis_Regional
-.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](/index.php/Index_of_te
+teams by region" ) [MO](Index_of_teams_by_region#St._Louis_Regional
+.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](Index_of_te
 ams_by_region#UTC_New_England_Regional.2C_Hartford.2C_CT "Index of teams by
-region" ) [MD](/index.php/Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
+region" ) [MD](Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
 polis.2C_MD "Index of teams by region" )
-[DT](/index.php/Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
+[DT](Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
 "Index of teams by region" )
-[GA](/index.php/Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
-"Index of teams by region" ) [SAC](/index.php/Index_of_teams_by_region#Sacrame
-nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](/index.php/
+[GA](Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
+"Index of teams by region" ) [SAC](Index_of_teams_by_region#Sacrame
+nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](
 Index_of_teams_by_region#SBPLI_Long_Island_Regional.2C_Brentwood.2C_NY "Index
 of teams by region" )
-[OH](/index.php/Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
+[OH](Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
 "Index of teams by region" )
-[CO](/index.php/Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
+[CO](Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
 "Index of teams by region" )
-[IL](/index.php/Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
-"Index of teams by region" ) [NY](/index.php/Index_of_teams_by_region#New_York
-_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](/index.php/
+[IL](Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
+"Index of teams by region" ) [NY](Index_of_teams_by_region#New_York
+_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](
 Index_of_teams_by_region#Philadelphia_Regional.2C_Philadelphia.2C_PA "Index of
-teams by region" ) [CA](/index.php/Index_of_teams_by_region#Southern_Californi
-a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](/index.php/I
+teams by region" ) [CA](Index_of_teams_by_region#Southern_Californi
+a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](I
 ndex_of_teams_by_region#Canadian_Regional.2C_Mississauga.2C_ON "Index of teams
 by region" )
-[TX](/index.php/Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
+[TX](Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
 "Index of teams by region" )
-[SC](/index.php/Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
-"Index of teams by region" ) [SJ](/index.php/Index_of_teams_by_region#Silicon_
+[SC](Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
+"Index of teams by region" ) [SJ](Index_of_teams_by_region#Silicon_
 Valley_Regional.2C_San_Jose.2C_CA "Index of teams by region" ) [MI](/index.php
 /Index_of_teams_by_region#West_Michigan_Regional.2C_Grand_Rapids.2C_MI "Index
 of teams by region" )
-[WI](/index.php/Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
+[WI](Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
 "Index of teams by region" )  
   

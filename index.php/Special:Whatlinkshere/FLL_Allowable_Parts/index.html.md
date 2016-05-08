@@ -22,9 +22,9 @@ cial:Whatlinkshere/FLL_Allowable_Parts&limit=100&from=0
 Allowable Parts" ) | [500](/index.php?title=Special:Whatlinkshere/FLL_Allowabl
 e_Parts&limit=500&from=0 "Special:Whatlinkshere/FLL Allowable Parts" )).
 
-  * [Motors (FLL)](/index.php/Motors_%28FLL%29 "Motors \(FLL\)" )
-  * [FLL Robot Set](/index.php/FLL_Robot_Set "FLL Robot Set" )
-  * [Robot (FLL)](/index.php/Robot_%28FLL%29 "Robot \(FLL\)" )
+  * [Motors (FLL)](Motors_%28FLL%29 "Motors \(FLL\)" )
+  * [FLL Robot Set](FLL_Robot_Set "FLL Robot Set" )
+  * [Robot (FLL)](Robot_%28FLL%29 "Robot \(FLL\)" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/FLL_
 Allowable_Parts&limit=20&from=0 "Special:Whatlinkshere/FLL Allowable Parts" )
 | [50](/index.php?title=Special:Whatlinkshere/FLL_Allowable_Parts&limit=50&fro

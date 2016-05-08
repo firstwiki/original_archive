@@ -4,40 +4,40 @@
 
 Jump to: navigation, search
 
-The [Control System](/index.php/Control_system "Control system" )
+The [Control System](Control_system "Control system" )
 
-**[Logic of a Control System](/index.php/Logic_of_a_control_system "Logic of a control system" )**
+**[Logic of a Control System](Logic_of_a_control_system "Logic of a control system" )**
 
-  * [Closed loop](/index.php/Closed_loop "Closed loop" )
-    * [PID controller](/index.php/PID_controller "PID controller" )
-  * [Open loop](/index.php/Open_loop "Open loop" )
+  * [Closed loop](Closed_loop "Closed loop" )
+    * [PID controller](PID_controller "PID controller" )
+  * [Open loop](Open_loop "Open loop" )
 
-**[Parts of a Control System](/index.php/Parts_of_a_control_system "Parts of a control system" )**
+**[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
-  * [Computer](/index.php/Computer "Computer" )
-    * [Robot Controller](/index.php/Robot_Controller "Robot Controller" )
-      * [2010 RC](/index.php/Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
-      * [2009 RC](/index.php/Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
-      * [2006 RC](/index.php/Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
-      * [2004 RC](/index.php/Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
-      * [2003 RC](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
-      * [2000 RC](/index.php/Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
+  * [Computer](Computer "Computer" )
+    * [Robot Controller](Robot_Controller "Robot Controller" )
+      * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
+      * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
+      * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
+      * [2004 RC](Robot_Controller_%282004%29 "Robot Controller \(2004\)" )
+      * [2003 RC](Robot_Controller_%282003%29 "Robot Controller \(2003\)" )
+      * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](/index.php/Robovation "Robovation" )
-  * [Input](/index.php/Input "Input" )
-    * [Operator Interface](/index.php/Operator_Interface "Operator Interface" )
-    * [Joystick](/index.php/Joystick "Joystick" )
-  * [Output](/index.php/Output "Output" )
-    * [Victor 884](/index.php/Victor_884 "Victor 884" )
-    * [Spike](/index.php/Spike "Spike" )
-  * [Sensors](/index.php/Sensor "Sensor" )
+    * [Robovation](Robovation "Robovation" )
+  * [Input](Input "Input" )
+    * [Operator Interface](Operator_Interface "Operator Interface" )
+    * [Joystick](Joystick "Joystick" )
+  * [Output](Output "Output" )
+    * [Victor 884](Victor_884 "Victor 884" )
+    * [Spike](Spike "Spike" )
+  * [Sensors](Sensor "Sensor" )
     * **Encoder**
-    * [Accelerometer](/index.php/Accelerometer "Accelerometer" )
+    * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
-    * [IR sensor](/index.php/IR_sensor "IR sensor" )
-    * [Gyro](/index.php/Gyro "Gyro" )
-    * [CMUcam2](/index.php/CMUcam2 "CMUcam2" )  
+    * [IR sensor](IR_sensor "IR sensor" )
+    * [Gyro](Gyro "Gyro" )
+    * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
 An incremental encoder (aka a "wheel encoder") is a device that when rotated
@@ -114,28 +114,28 @@ its CPR (counts per revolution), which can be valuable in some applications.
 ## Interfacing Considerations
 
 The biggest problem with using incremental encoders in
-[FIRST](/index.php/FIRST "FIRST" ) is generally on the interfacing side of
-things. The [robot controller](/index.php/Robot_controller "Robot controller"
+[FIRST](FIRST "FIRST" ) is generally on the interfacing side of
+things. The [robot controller](Robot_controller "Robot controller"
 ) only has a limited number of digital inputs and thus, affects how many
 encoders that can be mounted on the robot.
 
 Additionally, whenever a rising/falling edge is detected, a small piece of
 code (called the interrupt service routine) must run. If the ticks are coming
-too fast, the [RC](/index.php/Robot_controller "Robot controller" ) will spend
+too fast, the [RC](Robot_controller "Robot controller" ) will spend
 too much time handling the interrupts and not enough doing other things. In
 the worst case, this can mean communication dropout, erratic data, or the red-
 light-of-death.
 
 Some teams choose to use supplemental electronics (such as a second
 microprocessor, FPGAs, or up/down counter ICs) to "decode" the quadrature
-signal. In this manner, the [RC](/index.php/Robot_controller "Robot
+signal. In this manner, the [RC](Robot_controller "Robot
 controller" ) can request the count information via a serial or parallel link
 whenever it is ready.
 
 Other interfacing issues that can arise have to do with the low current
 sourcing abilities of many commercial encoders, meaning that buffer circuitry
 may be needed to drive the signal across longer wires. Lastly, the time it
-takes the [robot controller](/index.php/Robot_controller "Robot controller" )
+takes the [robot controller](Robot_controller "Robot controller" )
 between starting to service the interrupt and reading the other phase (for
 direction information) can be long enough that by the time the RC is ready,
 the other line has already changed state. A pulse-stretch circuit can

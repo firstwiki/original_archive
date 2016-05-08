@@ -53,7 +53,7 @@ Build Robots, Play [Wii](http://wii.nintendo.com/ "http://wii.nintendo.com/"
 
   * 2005- [Apple Pi 1.0](/index.php?title=399_Vex_in_2005&action=edit "399 Vex in 2005" )
   * 2006- [Apple Pi 2.0](http://web.mac.com/rharo.jr/iWeb/Site/Vex.html "http://web.mac.com/rharo.jr/iWeb/Site/Vex.html" )
-  * 2006- [Apple Pi 2.1](/index.php/399_Vex_in_2006 "399 Vex in 2006" )
+  * 2006- [Apple Pi 2.1](399_Vex_in_2006 "399 Vex in 2006" )
 
 
 ## Accomplishments
@@ -89,12 +89,12 @@ Build Robots, Play [Wii](http://wii.nintendo.com/ "http://wii.nintendo.com/"
 
 ****FTC 399****
 
-  * [2006](/index.php/399_FTC_in_2006 "399 FTC in 2006" )
+  * [2006](399_FTC_in_2006 "399 FTC in 2006" )
   * [2005](/index.php?title=399_FTC_in_2005&action=edit "399 FTC in 2005" )
 
 * * *
 
-**[Index of teams (FTC)](/index.php/Index_of_teams_%28FTC%29 "Index of teams \(FTC\)" )**  
+**[Index of teams (FTC)](Index_of_teams_%28FTC%29 "Index of teams \(FTC\)" )**  
   
 ---  
   

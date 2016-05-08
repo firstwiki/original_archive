@@ -11,7 +11,7 @@ section: Canada" )]
 
 ## Canada
 
-[Canada](/index.php/Category:FLL_Canada_Tournaments "Category:FLL Canada
+[Canada](Category:FLL_Canada_Tournaments "Category:FLL Canada
 Tournaments" )
 
 [[edit](/index.php?title=FLL_Events_by_Location&action=edit&section=2 "Edit
@@ -19,7 +19,7 @@ section: United Kingdom" )]
 
 ## United Kingdom
 
-[UK](/index.php/Category:FLL_UK_Tournaments "Category:FLL UK Tournaments" )
+[UK](Category:FLL_UK_Tournaments "Category:FLL UK Tournaments" )
 
 [[edit](/index.php?title=FLL_Events_by_Location&action=edit&section=3 "Edit
 section: United States" )]
@@ -38,7 +38,7 @@ section: United States" )]
 "Category:FLL California Tournaments" ) |
 [Colorado](/index.php?title=Category:FLL_Colorado_Tournaments&action=edit
 "Category:FLL Colorado Tournaments" ) |
-[Connecticut](/index.php/Category:FLL_Connecticut_Tournaments "Category:FLL
+[Connecticut](Category:FLL_Connecticut_Tournaments "Category:FLL
 Connecticut Tournaments" ) |
 [Delaware](/index.php?title=Category:FLL_Delaware_Tournaments&action=edit
 "Category:FLL Delaware Tournaments" ) |

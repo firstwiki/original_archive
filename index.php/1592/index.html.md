@@ -9,7 +9,7 @@ Jump to: navigation, search
 The Bionic Tigers  
 ---  
 [![Image:1592
-logo.jpg](/media/1/1a/1592_logo.jpg)](/index.php/Image:1592_logo.jpg
+logo.jpg](/media/1/1a/1592_logo.jpg)](Image:1592_logo.jpg
 "Image:1592 logo.jpg" )  
 Rookie Year: | 2005  
 Inactive Years: | {{{inactive}}}  
@@ -126,48 +126,48 @@ Behold this year's latest phenomenon, Tony!
 
 ### 2011
 
-  * 2008 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/10/2011 - 3/12/2011) 
-  * 2008 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/31/2011 - 4/2/2011) 
+  * 2008 [Florida Regional](Florida_Regional "Florida Regional" ) (3/10/2011 - 3/12/2011) 
+  * 2008 [Colorado Regional](Colorado_Regional "Colorado Regional" ) (3/31/2011 - 4/2/2011) 
 
 
 ### 2010
 
-  * 2010 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/11/2010 - 3/13/2010) 
-  * 2010 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/25/2010 - 3/27/2010) 
+  * 2010 [Florida Regional](Florida_Regional "Florida Regional" ) (3/11/2010 - 3/13/2010) 
+  * 2010 [Colorado Regional](Colorado_Regional "Colorado Regional" ) (3/25/2010 - 3/27/2010) 
   * 2010 FIRST Championship (4/15/2010 - 4/17/2010) 
 
 
 ### 2009
 
-  * 2008 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/12/2008 - 3/14/2008) 
-  * 2008 [Connecticut Regional](/index.php/Connecticut_Regional "Connecticut Regional" ) (3/26/2008 - 3/28/2008) 
+  * 2008 [Florida Regional](Florida_Regional "Florida Regional" ) (3/12/2008 - 3/14/2008) 
+  * 2008 [Connecticut Regional](Connecticut_Regional "Connecticut Regional" ) (3/26/2008 - 3/28/2008) 
   * 2008 FIRST Championship (4/16/2008 - 4/18/2008) 
 
 
 ### 2008
 
-  * 2008 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/13/2008 - 3/15/2008) 
-  * 2008 [Colorado Regional](/index.php/Colorado_Regional "Colorado Regional" ) (3/27/2008 - 3/29/2008) 
+  * 2008 [Florida Regional](Florida_Regional "Florida Regional" ) (3/13/2008 - 3/15/2008) 
+  * 2008 [Colorado Regional](Colorado_Regional "Colorado Regional" ) (3/27/2008 - 3/29/2008) 
   * 2008 FIRST Championship (4/17/2008 - 4/19/2008) 
 
 
 ### 2007
 
-  * 2007 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/8/2007 - 3/10/2007) 
+  * 2007 [Florida Regional](Florida_Regional "Florida Regional" ) (3/8/2007 - 3/10/2007) 
   * 2007 FIRST Championship (4/12/2007 - 4/14/2007) 
-  * 2007 [Waterloo Regional](/index.php/Waterloo_Regional "Waterloo Regional" ) (3/22/2007 - 3/24/2007) 
+  * 2007 [Waterloo Regional](Waterloo_Regional "Waterloo Regional" ) (3/22/2007 - 3/24/2007) 
 
 
 ### 2006
 
-  * 2006 [Florida Regional](/index.php/Florida_Regional "Florida Regional" ) (3/9/2006 - 3/11/2006) 
+  * 2006 [Florida Regional](Florida_Regional "Florida Regional" ) (3/9/2006 - 3/11/2006) 
   * 2006 Boston Regional (3/23/2006 - 3/25/2006) 
   * 2006 FIRST Championship (4/27/2006 - 4/29/2006) 
 
 
 ### 2005
 
-  * 2005 [Florida Regional](http://www.firstwiki.net/index.php/Florida_Regional "http://www.firstwiki.net/index.php/Florida_Regional" ) (3/10/2005 - 3/12/2005) 
+  * 2005 [Florida Regional](http://www.firstwiki.netFlorida_Regional "http://www.firstwiki.netFlorida_Regional" ) (3/10/2005 - 3/12/2005) 
   * 2005 FIRST Championship (4/21/2005 - 4/23/2005) 
 
 
@@ -176,7 +176,7 @@ Behold this year's latest phenomenon, Tony!
 
 ### **2008: Overdrive**
 
-[![Image:Xena.jpg](/media/e/e0/Xena.jpg)](/index.php/Image:Xena.jpg
+[![Image:Xena.jpg](/media/e/e0/Xena.jpg)](Image:Xena.jpg
 "Image:Xena.jpg" )
 
 Robot Name: Xena
@@ -190,8 +190,8 @@ Length: 38"
 What it can do: Push ball off overpass, place ball on overpass, drop over
 overpass, telescoping arm, 2-speed.
 
-[Game Info.](http://www.firstwiki.net/index.php/FIRST_Overdrive
-"http://www.firstwiki.net/index.php/FIRST_Overdrive" )
+[Game Info.](http://www.firstwiki.netFIRST_Overdrive
+"http://www.firstwiki.netFIRST_Overdrive" )
 
 [More Game Info.](http://www.usfirst.org/community/frc/default.aspx?id=966
 "http://www.usfirst.org/community/frc/default.aspx?id=966" )
@@ -199,7 +199,7 @@ overpass, telescoping arm, 2-speed.
 
 ### **2007: Rack'n'Roll**
 
-[![Image:Larry.jpg](/media/6/62/Larry.jpg)](/index.php/Image:Larry.jpg
+[![Image:Larry.jpg](/media/6/62/Larry.jpg)](Image:Larry.jpg
 "Image:Larry.jpg" )
 
 Robot Name: Larry
@@ -213,13 +213,13 @@ Length: 38"
 What it can do: Score all 3 levels, ramp climber, human load, 2-speed, strong
 pusher.
 
-[Game Info.](http://www.firstwiki.net/index.php/Rack_%27n%27_Roll
-"http://www.firstwiki.net/index.php/Rack_%27n%27_Roll" )
+[Game Info.](http://www.firstwiki.netRack_%27n%27_Roll
+"http://www.firstwiki.netRack_%27n%27_Roll" )
 
 
 ### **2006: Aim High**
 
-[![Image:Molly3.jpg](/media/3/3d/Molly3.jpg)](/index.php/Image:Molly3.jpg
+[![Image:Molly3.jpg](/media/3/3d/Molly3.jpg)](Image:Molly3.jpg
 "Image:Molly3.jpg" )
 
 Robot Name: Molly
@@ -233,13 +233,13 @@ Length: 38"
 What it can do: High goal, low goal, 3 autonomous modes (both low goal and
 high goal), 7 balls in 15 seconds, and a 6 wheel drive.
 
-[Game Info.](http://www.firstwiki.net/index.php/Aim_High
-"http://www.firstwiki.net/index.php/Aim_High" )
+[Game Info.](http://www.firstwiki.netAim_High
+"http://www.firstwiki.netAim_High" )
 
 
 ### **2005: Triple Play (Rookie Year)**
 
-[![Image:Bob.jpg](/media/0/04/Bob.jpg)](/index.php/Image:Bob.jpg
+[![Image:Bob.jpg](/media/0/04/Bob.jpg)](Image:Bob.jpg
 "Image:Bob.jpg" )
 
 Robot Name: Bob
@@ -254,8 +254,8 @@ What it can do: One tetra at a time, manual load, 6 wheel drive, one
 autonomous mode (knock down hanging tetra), arm extends to 9', can stack up to
 6 tetras on center goals.
 
-[Game Info.](http://www.firstwiki.net/index.php/Triple_Play
-"http://www.firstwiki.net/index.php/Triple_Play" )
+[Game Info.](http://www.firstwiki.netTriple_Play
+"http://www.firstwiki.netTriple_Play" )
 
 
 ## Accomplishments
@@ -274,7 +274,7 @@ autonomous mode (knock down hanging tetra), arm extends to 9', can stack up to
   * Florida Regional Quarter-finalist 
   * Waterloo Regional Quarter-finalist 
   * Finalist(runner-up) in the Newton Division in Atlanta, GA 
-  * Winners at [TNT](http://www.firstwiki.net/index.php/79#Tempest_.27n.27_Tampa "http://www.firstwiki.net/index.php/79#Tempest_.27n.27_Tampa" ) off season competition in Tampa, FL 
+  * Winners at [TNT](http://www.firstwiki.net79#Tempest_.27n.27_Tampa "http://www.firstwiki.net79#Tempest_.27n.27_Tampa" ) off season competition in Tampa, FL 
 
   
 
@@ -474,10 +474,10 @@ well as designated fundraising events.
 ### 2005
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=1592&action=edit
 "http://www.firstwiki.net/index.php?title=1592&action=edit" )** this article.  
@@ -486,7 +486,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=1592&action=edit
 **This section contains information or images relating to team robots and should be split into separate articles.**   
 This section should be for providing links to the appropriate Team/Year page
 which is where robot information and images belong.  
-See [FIRSTwiki:Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page
+See [FIRSTwiki:Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page
 formats" ) for more help.  
 ---  
   

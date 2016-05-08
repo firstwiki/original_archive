@@ -22,8 +22,8 @@ ramming_%28FLL%29&limit=20&from=0 "Special:Whatlinkshere/Programming \(FLL\)"
 :Whatlinkshere/Programming_%28FLL%29&limit=500&from=0
 "Special:Whatlinkshere/Programming \(FLL\)" )).
 
-  * [Programming](/index.php/Programming "Programming" )
-  * [FLL Robot Set](/index.php/FLL_Robot_Set "FLL Robot Set" )
+  * [Programming](Programming "Programming" )
+  * [FLL Robot Set](FLL_Robot_Set "FLL Robot Set" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Prog
 ramming_%28FLL%29&limit=20&from=0 "Special:Whatlinkshere/Programming \(FLL\)"
 ) | [50](/index.php?title=Special:Whatlinkshere/Programming_%28FLL%29&limit=50

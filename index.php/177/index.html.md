@@ -7,7 +7,7 @@ Jump to: navigation, search
 Bobcat Robotics  
 ---  
 [![Bobcat Robotics Logo](/media/thumb/c/c9/Bobcatrobotics.jpg/150px-
-Bobcatrobotics.jpg)](/index.php/Image:Bobcatrobotics.jpg "Bobcat Robotics
+Bobcatrobotics.jpg)](Image:Bobcatrobotics.jpg "Bobcat Robotics
 Logo" )  
 Rookie Year: | 1995  
 Inactive Years: | {{{inactive}}}  
@@ -146,5 +146,5 @@ since.
   * Rockville Bank 
 
 [![](/media/thumb/3/33/Noedit.png/14px-
-Noedit.png)](/index.php/Image:Noedit.png "" )
+Noedit.png)](Image:Noedit.png "" )
 

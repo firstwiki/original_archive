@@ -5,22 +5,22 @@
 Jump to: navigation, search
 
 This should get moved to _Innovation First_ (note the space and that FIRST
-isn't all caps) --[Sciencewhiz](/index.php/User:Sciencewhiz "User:Sciencewhiz"
+isn't all caps) --[Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz"
 ) 10:15, 25 Jun 2004 (EDT)
 
-    Agreed. This one I did notice some time ago. We should also have Innovation First, Inc. refer to it. --[Mrawls](/index.php/User:Mrawls "User:Mrawls" ) 14:18, 25 Jun 2004 (EDT) 
+    Agreed. This one I did notice some time ago. We should also have Innovation First, Inc. refer to it. --[Mrawls](User:Mrawls "User:Mrawls" ) 14:18, 25 Jun 2004 (EDT) 
 
     
 
     Done, finally. Cheers, [Nibbles](/index.php?title=User:Nibbles&action=edit "User:Nibbles" ) 00:27, 27 September 2008 (EDT) 
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Talk:Innovation_First%2C_Inc.>"
+"<http://www.firstwiki.netTalk:Innovation_First%2C_Inc.>"
 
 ##### Views
 
-  * [Article](/index.php/Innovation_First%2C_Inc.)
-  * [Discussion](/index.php/Talk:Innovation_First%2C_Inc.)
+  * [Article](Innovation_First%2C_Inc.)
+  * [Discussion](Talk:Innovation_First%2C_Inc.)
   * [Edit](/index.php?title=Talk:Innovation_First%2C_Inc.&action=edit)
   * [+](/index.php?title=Talk:Innovation_First%2C_Inc.&action=edit&section=new)
   * [History](/index.php?title=Talk:Innovation_First%2C_Inc.&action=history)
@@ -29,17 +29,17 @@ Retrieved from
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:Innovation_First%2C_Inc.)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/Help:Contents)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](Help:Contents)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -47,10 +47,10 @@ Retrieved from
 
 ##### Toolbox
 
-  * [What links here](/index.php/Special:Whatlinkshere/Talk:Innovation_First%2C_Inc.)
-  * [Related changes](/index.php/Special:Recentchangeslinked/Talk:Innovation_First%2C_Inc.)
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [What links here](Special:Whatlinkshere/Talk:Innovation_First%2C_Inc.)
+  * [Related changes](Special:Recentchangeslinked/Talk:Innovation_First%2C_Inc.)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
   * [Printable version](/index.php?title=Talk:Innovation_First%2C_Inc.&printable=yes)
   * [Permanent link](/index.php?title=Talk:Innovation_First%2C_Inc.&oldid=69070)
 
@@ -63,7 +63,7 @@ fdl.png)](http://www.gnu.org/copyleft/fdl.html)
   * This page was last modified 04:27, 27 September 2008.
   * This page has been accessed 526 times.
   * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

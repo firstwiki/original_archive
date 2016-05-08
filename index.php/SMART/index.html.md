@@ -10,7 +10,7 @@ _Scofield Magnet Applied Robotics Technology_
   
 ---  
 [![Team logo](/media/thumb/7/71/SMARTLogo.jpg/300px-
-SMARTLogo.jpg)](/index.php/Image:SMARTLogo.jpg "Team logo" )  
+SMARTLogo.jpg)](Image:SMARTLogo.jpg "Team logo" )  
 Rookie Year: | 1999  
 US State Or Country: | Connecticut  
 City: | Stamford  
@@ -19,14 +19,14 @@ School: | Scofield Magnet Middle School
 "http://smart.stamfordrobotics.org" )  
   
 Find other [FLL teams founded in
-1999](/index.php/Category:FLL_teams_founded_in_1999 "Category:FLL teams
+1999](Category:FLL_teams_founded_in_1999 "Category:FLL teams
 founded in 1999" )
 
 Find other [FLL teams from
-Connecticut](/index.php/Category:FLL_teams_from_Connecticut "Category:FLL
+Connecticut](Category:FLL_teams_from_Connecticut "Category:FLL
 teams from Connecticut" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -54,14 +54,14 @@ pages.
 
 This year's team attended four competitions, were the Connecticut Director's
 Award winners, and achieved the 1st Place Teamword Award at the Ocean Odyssey
-[FLL World Festival](/index.php/FLL_World_Festival "FLL World Festival" )
+[FLL World Festival](FLL_World_Festival "FLL World Festival" )
 
 
 ## Robots
 
-  * [Waldo (2005)](/index.php/SMART-Waldo-2006 "SMART-Waldo-2006" )
-  * [Sub Wall-y (2005)](/index.php/SMART-Sub_Wall-y-2005 "SMART-Sub Wall-y-2005" )
-  * [Wall-y Express (2004)](/index.php/SMART-Wally_Express-2004 "SMART-Wally Express-2004" )
+  * [Waldo (2005)](SMART-Waldo-2006 "SMART-Waldo-2006" )
+  * [Sub Wall-y (2005)](SMART-Sub_Wall-y-2005 "SMART-Sub Wall-y-2005" )
+  * [Wall-y Express (2004)](SMART-Wally_Express-2004 "SMART-Wally Express-2004" )
   * [Stardust (2003)](/index.php?title=SMART-Stardust-2003&action=edit "SMART-Stardust-2003" )
   * [Big Ben (2002)](/index.php?title=SMART-Big_Ben-2002&action=edit "SMART-Big Ben-2002" )
 
@@ -86,7 +86,7 @@ not go unnoticed and we won the Director's Award (known as the Gracious
 Professionalism Award at LEGO HQ) as well as the Judges Award.
 
 This event was hosted by two FIRST teams - Buzz Robotics ([Team
-175](/index.php/175 "175" )) and ACES High ([Team 176](/index.php/176 "176"
+175](175 "175" )) and ACES High ([Team 176](176 "176"
 )).
 
 
@@ -95,8 +95,8 @@ This event was hosted by two FIRST teams - Buzz Robotics ([Team
 **Date Attended:** December 3rd, 2005 
 
 This was an outstanding event. The event was also hosted by two FIRST teams -
-the Gaelhawks ([Team 230](/index.php/230 "230" )) and the Lions
-([1099](/index.php/1099 "1099" )) - who did a great job in making this a first
+the Gaelhawks ([Team 230](230 "230" )) and the Lions
+([1099](1099 "1099" )) - who did a great job in making this a first
 class event. Our team had a great time and took home the Director's Award as
 well as the Robot Performance Award.
 
@@ -120,10 +120,10 @@ year. A lot of great teams doing lots of cool GP stuff.
 **Date Attended:** April 27 - 29th, 2006 
 
 Our team proudly represented the state of Connecticut at this year's [FLL
-World Festival](/index.php/FLL_World_Festival "FLL World Festival" ). We came
+World Festival](FLL_World_Festival "FLL World Festival" ). We came
 home with two team awards and one individual award (see Awards and
 Recognitions below). Our robot also did extremely well (see [Sub Wall-y
-(2005)](/index.php/SMART-Sub_Wall-y-2005 "SMART-Sub Wall-y-2005" )). We met
+(2005)](SMART-Sub_Wall-y-2005 "SMART-Sub Wall-y-2005" )). We met
 many great teams, and made special friends with team **Jet-Net** from Holland.
 They were our alliance partner, were located in the booth next to ours in the
 pits, AND they got the 2nd place teamwork award! All in all, a great
@@ -140,7 +140,7 @@ experience that we'll never forget.
 Prior Years
 
   * [SMART 2005](/index.php?title=SMART_2005&action=edit "SMART 2005" )
-  * [SMART 2004](/index.php/SMART_2004 "SMART 2004" )
+  * [SMART 2004](SMART_2004 "SMART 2004" )
   * [SMART 2003](/index.php?title=SMART_2003&action=edit "SMART 2003" )
   * [SMART 2002](/index.php?title=SMART_2002&action=edit "SMART 2002" )
 

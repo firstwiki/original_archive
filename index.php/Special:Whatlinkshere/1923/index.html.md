@@ -24,11 +24,11 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/1923&limit=500&from=0
 "Special:Whatlinkshere/1923" )).
 
-  * [Index of teams](/index.php/Index_of_teams "Index of teams" )
-  * [25](/index.php/25 "25" )
-  * [Index of teams by region](/index.php/Index_of_teams_by_region "Index of teams by region" )
-  * [Libby Kamen](/index.php/Libby_Kamen "Libby Kamen" )
-  * [New Jersey Regional (2007)](/index.php/New_Jersey_Regional_%282007%29 "New Jersey Regional \(2007\)" )
+  * [Index of teams](Index_of_teams "Index of teams" )
+  * [25](25 "25" )
+  * [Index of teams by region](Index_of_teams_by_region "Index of teams by region" )
+  * [Libby Kamen](Libby_Kamen "Libby Kamen" )
+  * [New Jersey Regional (2007)](New_Jersey_Regional_%282007%29 "New Jersey Regional \(2007\)" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/1923&limit=20&from=0
 "Special:Whatlinkshere/1923" ) |

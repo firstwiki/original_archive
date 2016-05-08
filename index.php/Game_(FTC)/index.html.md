@@ -7,7 +7,7 @@
 Jump to: navigation, search
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).  
 _
@@ -15,14 +15,14 @@ _
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Game_%28FTC%29&action=edit
 "http://www.firstwiki.net/index.php?title=Game_%28FTC%29&action=edit" ) to
-make a significant article. _See more [stubs](/index.php/Special:Shortpages
+make a significant article. _See more [stubs](Special:Shortpages
 "Special:Shortpages" )._  
   
 ---|---  
   
   
-Each year, [FIRST](/index.php/FIRST "FIRST" ) issues a new [FIRST Tech
-Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) game.
+Each year, [FIRST](FIRST "FIRST" ) issues a new [FIRST Tech
+Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" ) game.
 
 
 ## Game Pages
@@ -32,6 +32,6 @@ Challenge](/index.php/FIRST_Tech_Challenge "FIRST Tech Challenge" ) game.
   * [2009 - Hot Shot!](/index.php?title=Hot_Shot%21&action=edit "Hot Shot!" )
   * [2008 - Face Off](/index.php?title=Face_Off&action=edit "Face Off" )
   * [2007 - Quad Quandary](/index.php?title=Quad_Quandary&action=edit "Quad Quandary" )
-  * [2006 - Hangin'-A-Round](/index.php/Hangin%27-A-Round "Hangin'-A-Round" )
+  * [2006 - Hangin'-A-Round](Hangin%27-A-Round "Hangin'-A-Round" )
   * [2005 - Half-Pipe Hustle](/index.php?title=Half-Pipe_Hustle&action=edit "Half-Pipe Hustle" )
 

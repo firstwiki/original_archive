@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 Webcasting is related to archiving. Consider visiting [2010
-Archiving](/index.php/2010_Archiving "2010 Archiving" ) as well.
+Archiving](2010_Archiving "2010 Archiving" ) as well.
 
 
 ##  Webcast List

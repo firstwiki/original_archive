@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
 _You can insert this by placing {{subst:format/FLL event}}, and saving._
@@ -33,7 +33,7 @@ _You can insert this by placing {{subst:format/FLL event}}, and saving._
   * **Current Location: **
   * **Primary Sponsors:**
   * **Number of Teams Supported:**
-  * **Event Type:** [State Tournament](/index.php/FLL_State_Tournament "FLL State Tournament" ), [FLL Qualifying Tournament](/index.php/FLL_Qualifying_Tournament "FLL Qualifying Tournament" ), [FLL Local Tournament](/index.php/FLL_Local_Tournament "FLL Local Tournament" ), or [FLL Regional Tournament](/index.php/FLL_Regional_Tournament "FLL Regional Tournament" ) (mostly for non-US FLLers) 
+  * **Event Type:** [State Tournament](FLL_State_Tournament "FLL State Tournament" ), [FLL Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament" ), [FLL Local Tournament](FLL_Local_Tournament "FLL Local Tournament" ), or [FLL Regional Tournament](FLL_Regional_Tournament "FLL Regional Tournament" ) (mostly for non-US FLLers) 
   * **Official web site for tournament:**
   * **Contact:**
   * **FIRST Team Sponsors/Hosts:**

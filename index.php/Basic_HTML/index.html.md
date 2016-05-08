@@ -30,10 +30,10 @@ available markup, see the [W3C HTML 4.01 specification](http://www.w3.org/TR
 
 ## Creating team websites
 
-_Main article: [Designing a team webpage](/index.php/Designing_a_team_webpage
+_Main article: [Designing a team webpage](Designing_a_team_webpage
 "Designing a team webpage" )_
 
-Websites for [FIRST Robotics teams](/index.php/FIRST_Robotics_Team "FIRST
+Websites for [FIRST Robotics teams](FIRST_Robotics_Team "FIRST
 Robotics Team" ) are like all other websites: they should be colorful,
 aesthetically pleasing, functional, and most of all, informative. **Remember**
 that content is more important than a pretty design, and that most of all, the
@@ -41,7 +41,7 @@ content should be easily accessible (not necessarily pretty). However, other
 important factors must be taken into consideration when designing a FIRST team
 webpage. There are specific items that FIRST judges will be looking for when
 judging your website, and there are certain elements you will want to include
-in order to make your page useful for other [FIRSTers](/index.php/FIRSTer
+in order to make your page useful for other [FIRSTers](FIRSTer
 "FIRSTer" ).
 
   

@@ -18,9 +18,9 @@ this article.
 ---|---  
   
 [![The FCC Logo](/media/thumb/9/95/FCC.png/300px-
-FCC.png)](/index.php/Image:FCC.png "The FCC Logo" )
+FCC.png)](Image:FCC.png "The FCC Logo" )
 
-[FIRST](/index.php/FIRST "FIRST" ) Collegiate, or FCC started as a pilot
+[FIRST](FIRST "FIRST" ) Collegiate, or FCC started as a pilot
 program in 2011.
 
 ## Contents

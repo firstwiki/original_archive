@@ -6,10 +6,10 @@
 
 Jump to: navigation, search
 
-  * Brother of [Dean Kamen](/index.php/Dean_Kamen "Dean Kamen" )
+  * Brother of [Dean Kamen](Dean_Kamen "Dean Kamen" )
   * Brother of [Mitch Kamen](/index.php?title=Mitch_Kamen&action=edit "Mitch Kamen" )
   * Brother of [Terri Kamen](/index.php?title=Terri_Kamen&action=edit "Terri Kamen" )
-  * Father of [Libby Kamen](/index.php/Libby_Kamen "Libby Kamen" )
+  * Father of [Libby Kamen](Libby_Kamen "Libby Kamen" )
   * Son of [Jack Kamen and Evelyn Kamen](/index.php?title=Jack_Kamen_and_Evelyn_Kamen&action=edit "Jack Kamen and Evelyn Kamen" )
 
   

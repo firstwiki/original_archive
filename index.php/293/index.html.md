@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 Team S.P.I.K.E.  
 ---  
-[![Image:293logo.jpg](/media/9/9f/293logo.jpg)](/index.php/Image:293logo.jpg
+[![Image:293logo.jpg](/media/9/9f/293logo.jpg)](Image:293logo.jpg
 "Image:293logo.jpg" )  
 Rookie Year: | 1997  
 Inactive Years: | {{{inactive}}}  

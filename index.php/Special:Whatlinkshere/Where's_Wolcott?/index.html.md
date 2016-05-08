@@ -22,7 +22,7 @@ atlinkshere/Where%27s_Wolcott%3F&limit=250&from=0
 atlinkshere/Where%27s_Wolcott%3F&limit=500&from=0
 "Special:Whatlinkshere/Where's Wolcott?" )).
 
-  * [Index of off-season competitions](/index.php/Index_of_off-season_competitions "Index of off-season competitions" )
+  * [Index of off-season competitions](Index_of_off-season_competitions "Index of off-season competitions" )
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Wher
 e%27s_Wolcott%3F&limit=20&from=0 "Special:Whatlinkshere/Where's Wolcott?" ) | 
 [50](/index.php?title=Special:Whatlinkshere/Where%27s_Wolcott%3F&limit=50&from

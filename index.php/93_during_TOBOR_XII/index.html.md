@@ -7,12 +7,12 @@ Jump to: navigation, search
 This is Team 93  
 ---  
 [![](/media/thumb/d/d2/Approved93.JPG/300px-
-Approved93.JPG)](/index.php/Image:Approved93.JPG "" )  
+Approved93.JPG)](Image:Approved93.JPG "" )  
 _**Tobor XII**_  
 ---  
 [![Team logo](/media/thumb/b/bc/TOBOR_12_2009.jpg/200px-
-TOBOR_12_2009.jpg)](/index.php/Image:TOBOR_12_2009.jpg "Team logo" )  
-Team: | [93](/index.php/93 "93" )  
+TOBOR_12_2009.jpg)](Image:TOBOR_12_2009.jpg "Team logo" )  
+Team: | [93](93 "93" )  
 School: | Appleton Area School District (AASD)  
 Year Used: | 2009  
 Status: | In Competition  
@@ -47,30 +47,30 @@ section: Game Overview" )]
 **Game Pieces:**  
   
 [![Moon Rock](/media/thumb/f/fc/Orbit_Ball_Moon.jpg/100px-
-Orbit_Ball_Moon.jpg)](/index.php/Image:Orbit_Ball_Moon.jpg "Moon Rock" )
+Orbit_Ball_Moon.jpg)](Image:Orbit_Ball_Moon.jpg "Moon Rock" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Orbit_Ball_Moon.jpg "Enlarge" )
+clip.png)](Image:Orbit_Ball_Moon.jpg "Enlarge" )
 
 Moon Rock
 
 |
 
 [![Empty Cell](/media/thumb/7/7a/Orbit_Ball_Empty.jpg/100px-
-Orbit_Ball_Empty.jpg)](/index.php/Image:Orbit_Ball_Empty.jpg "Empty Cell" )
+Orbit_Ball_Empty.jpg)](Image:Orbit_Ball_Empty.jpg "Empty Cell" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Orbit_Ball_Empty.jpg "Enlarge" )
+clip.png)](Image:Orbit_Ball_Empty.jpg "Enlarge" )
 
 Empty Cell
 
 |
 
 [![Super Cell](/media/thumb/3/36/Orbit_Ball_Super.jpg/100px-
-Orbit_Ball_Super.jpg)](/index.php/Image:Orbit_Ball_Super.jpg "Super Cell" )
+Orbit_Ball_Super.jpg)](Image:Orbit_Ball_Super.jpg "Super Cell" )
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](/index.php/Image:Orbit_Ball_Super.jpg "Enlarge" )
+clip.png)](Image:Orbit_Ball_Super.jpg "Enlarge" )
 
 Super Cell  
   
@@ -121,15 +121,15 @@ section: Mechanically" )]
 **Drive**
 
 The robot is designed to have the option of using a crab drive(See [Drive
-train](/index.php/Drive_train "Drive train" )) to turn or have the option to
-use a tank drive system as well (See [Drive train](/index.php/Drive_train
+train](Drive_train "Drive train" )) to turn or have the option to
+use a tank drive system as well (See [Drive train](Drive_train
 "Drive train" )). We are using two CIM motors (See [CIM
-motor](/index.php/CIM_motor "CIM motor" ))to to drive the robot. Each CIM
+motor](CIM_motor "CIM motor" ))to to drive the robot. Each CIM
 motor has a 9:1 BaneBot Gearbox (See [banebots.com](http://banebots.com/
 "http://banebots.com/" )) attached to it. There is one CIM motor attached to
 Two wheels. All four wheels rotate a one time to achieve this we have chains
 going to each wheel. The motor used to rotate the Four wheels is a Globe motor
-(See [Globe motor](/index.php/Globe_motor "Globe motor" )) with a 12:1 BaneBot
+(See [Globe motor](Globe_motor "Globe motor" )) with a 12:1 BaneBot
 Gearbox.
 
 **Intake**
@@ -185,15 +185,15 @@ section: Events and Achievements" )]
 
 **Events**
 
-  * 2009 [FIRST Championship](/index.php/The_Championship_Event "The Championship Event" ) (4/16/2009 - 4/18/2009) 
-  * 2009 [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" ) (3/12/2009 - 3/14/2009) 
-  * 2009 [Minnesota 10,000 Lakes Regional](/index.php/Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" ) (4/2/2009 - 4/4/2009) 
+  * 2009 [FIRST Championship](The_Championship_Event "The Championship Event" ) (4/16/2009 - 4/18/2009) 
+  * 2009 [Wisconsin Regional](Wisconsin_Regional "Wisconsin Regional" ) (3/12/2009 - 3/14/2009) 
+  * 2009 [Minnesota 10,000 Lakes Regional](Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" ) (4/2/2009 - 4/4/2009) 
 
 **Achievements**
 
-  * [Johnson &amp; Johnson Gracious Professionalism Award](/index.php/Johnson_%26_Johnson_Gracious_Professionalism_Award "Johnson & Johnson Gracious Professionalism Award" ), [Wisconsin Regional](/index.php/Wisconsin_Regional "Wisconsin Regional" )
-  * [Johnson &amp; Johnson Gracious Professionalism Award](/index.php/Johnson_%26_Johnson_Gracious_Professionalism_Award "Johnson & Johnson Gracious Professionalism Award" ), [Minnesota 10,000 Lakes Regional](/index.php/Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" )
-  * [Delphi "Driving Tomorrow's Technology" Award](/index.php/Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" ), [Minnesota 10,000 Lakes Regional](/index.php/Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" )
+  * [Johnson &amp; Johnson Gracious Professionalism Award](Johnson_%26_Johnson_Gracious_Professionalism_Award "Johnson & Johnson Gracious Professionalism Award" ), [Wisconsin Regional](Wisconsin_Regional "Wisconsin Regional" )
+  * [Johnson &amp; Johnson Gracious Professionalism Award](Johnson_%26_Johnson_Gracious_Professionalism_Award "Johnson & Johnson Gracious Professionalism Award" ), [Minnesota 10,000 Lakes Regional](Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" )
+  * [Delphi "Driving Tomorrow's Technology" Award](Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" ), [Minnesota 10,000 Lakes Regional](Minnesota_10%2C000_Lakes_Regional "Minnesota 10,000 Lakes Regional" )
 
 **Peer Awards**
 
@@ -359,37 +359,37 @@ section: Resources" )]
 Pictures](http://www.nacteam93.com/gallery/thumbnails.php?album=50&page=3
 "http://www.nacteam93.com/gallery/thumbnails.php?album=50&page=3" )
 
-_**[Team 93 FIRSTwiki Home](/index.php/93 "93" )**_  
+_**[Team 93 FIRSTwiki Home](93 "93" )**_  
   
 ---  
-_[Robot Index:](/index.php/93_Robots "93 Robots" )_  
+_[Robot Index:](93_Robots "93 Robots" )_  
   
-[THOR](/index.php/93_during_THOR "93 during THOR" ) |
-[TOBOR](/index.php/93_during_TOBOR "93 during TOBOR" ) | [TOBOR
-II](/index.php/93_during_TOBOR_II "93 during TOBOR II" ) | [TOBOR
-III](/index.php/93_during_TOBOR_III "93 during TOBOR III" ) | [TOBOR
-IV](/index.php/93_during_TOBOR_IV "93 during TOBOR IV" ) | [TOBOR
-V](/index.php/93_during_TOBOR_V "93 during TOBOR V" ) | [TOBOR
-VI](/index.php/93_during_TOBOR_VI "93 during TOBOR VI" ) | [TOBOR
-VII](/index.php/93_during_TOBOR_VII "93 during TOBOR VII" ) | [TOBOR
-VIII](/index.php/93_during_TOBOR_VIII "93 during TOBOR VIII" ) | [TOBOR
-IX](/index.php/93_during_TOBOR_IX "93 during TOBOR IX" ) | [TOBOR
-X](/index.php/93_during_TOBOR_X "93 during TOBOR X" ) | [TOBOR
-XI](/index.php/93_during_TOBOR_XI "93 during TOBOR XI" ) | **TOBOR XII**  
+[THOR](93_during_THOR "93 during THOR" ) |
+[TOBOR](93_during_TOBOR "93 during TOBOR" ) | [TOBOR
+II](93_during_TOBOR_II "93 during TOBOR II" ) | [TOBOR
+III](93_during_TOBOR_III "93 during TOBOR III" ) | [TOBOR
+IV](93_during_TOBOR_IV "93 during TOBOR IV" ) | [TOBOR
+V](93_during_TOBOR_V "93 during TOBOR V" ) | [TOBOR
+VI](93_during_TOBOR_VI "93 during TOBOR VI" ) | [TOBOR
+VII](93_during_TOBOR_VII "93 during TOBOR VII" ) | [TOBOR
+VIII](93_during_TOBOR_VIII "93 during TOBOR VIII" ) | [TOBOR
+IX](93_during_TOBOR_IX "93 during TOBOR IX" ) | [TOBOR
+X](93_during_TOBOR_X "93 during TOBOR X" ) | [TOBOR
+XI](93_during_TOBOR_XI "93 during TOBOR XI" ) | **TOBOR XII**  
   
-_[Words Of Advice:](/index.php/93_Words_Of_Advice "93 Words Of Advice" )_  
+_[Words Of Advice:](93_Words_Of_Advice "93 Words Of Advice" )_  
   
-[Mechanical_Design](/index.php/93_WoA_Mechanical_Design "93 WoA Mechanical
-Design" ) | [Mechanical_Fabrication](/index.php/93_WoA_Mechanical_Fabrication
-"93 WoA Mechanical Fabrication" ) | [Electrical](/index.php/93_WoA_Electrical
-"93 WoA Electrical" ) | [Software](/index.php/93_WoA_Software "93 WoA
-Software" ) | [Business](/index.php/93_WoA_Business "93 WoA Business" ) |
-[Media](/index.php/93_WoA_Media "93 WoA Media" ) |
-[Scouting](/index.php/93_WoA_Scouting "93 WoA Scouting" ) |
-[Pit_Crew](/index.php/93_WoA_Pit_Crew "93 WoA Pit Crew" ) |  
+[Mechanical_Design](93_WoA_Mechanical_Design "93 WoA Mechanical
+Design" ) | [Mechanical_Fabrication](93_WoA_Mechanical_Fabrication
+"93 WoA Mechanical Fabrication" ) | [Electrical](93_WoA_Electrical
+"93 WoA Electrical" ) | [Software](93_WoA_Software "93 WoA
+Software" ) | [Business](93_WoA_Business "93 WoA Business" ) |
+[Media](93_WoA_Media "93 WoA Media" ) |
+[Scouting](93_WoA_Scouting "93 WoA Scouting" ) |
+[Pit_Crew](93_WoA_Pit_Crew "93 WoA Pit Crew" ) |  
   
-_[Team 93's Quotes to look at](/index.php/93_Quotes "93 Quotes" )_
+_[Team 93's Quotes to look at](93_Quotes "93 Quotes" )_
 
   
-**[Index of teams](/index.php/Index_of_teams "Index of teams" )**  
+**[Index of teams](Index_of_teams "Index of teams" )**  
   

@@ -7,7 +7,7 @@ Jump to: navigation, search
 _Sample Team_  
 ---  
 [![Sample Team
-Logo](/media/5/53/SampleFllTeam.JPG)](/index.php/Image:SampleFllTeam.JPG
+Logo](/media/5/53/SampleFllTeam.JPG)](Image:SampleFllTeam.JPG
 "Sample Team Logo" )  
 Rookie Year: | 2001  
 US State Or Country: | Texas  
@@ -16,13 +16,13 @@ School: | XYZ Middle School
 [Team website](http://www.teamwebsite.com "http://www.teamwebsite.com" )  
   
 Find other [FLL teams founded in
-2001](/index.php/Category:FLL_teams_founded_in_2001 "Category:FLL teams
+2001](Category:FLL_teams_founded_in_2001 "Category:FLL teams
 founded in 2001" )
 
-Find other [FLL teams from Texas](/index.php/Category:FLL_teams_from_Texas
+Find other [FLL teams from Texas](Category:FLL_teams_from_Texas
 "Category:FLL teams from Texas" )
 
-Find other [FLL Teams by Name](/index.php/Category:FLL_teams "Category:FLL
+Find other [FLL Teams by Name](Category:FLL_teams "Category:FLL
 teams" )
 
   
@@ -53,7 +53,7 @@ _just maybe highlights of the team and how it was created_
 
 ## Robots
 
-  * [Sample fll team-little engine-2004](/index.php/Sample_fll_team-little_engine-2004 "Sample fll team-little engine-2004" )
+  * [Sample fll team-little engine-2004](Sample_fll_team-little_engine-2004 "Sample fll team-little engine-2004" )
 
 
 ## Current Year Events Attended
@@ -82,7 +82,7 @@ _Short narrative of your team's experience at this event_
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 

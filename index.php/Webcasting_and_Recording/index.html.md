@@ -5,21 +5,21 @@
 Jump to: navigation, search
 
 [![ ](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif " " ) |  **There are very few
+FIRST_logo.gif)](Image:FIRST_logo.gif " " ) |  **There are very few
 or no other articles that [link to this
-one](/index.php/Special:Whatlinkshere/Webcasting_and_Recording
+one](Special:Whatlinkshere/Webcasting_and_Recording
 "Special:Whatlinkshere/Webcasting and Recording" ).**  
 Please help introduce links in articles on related topics. After links have
 been created, remove this message. In some cases, if no links are added, this
 artical/file may be subject to
-[deletion](/index.php/Category:Candidates_for_speedy_deletion
+[deletion](Category:Candidates_for_speedy_deletion
 "Category:Candidates for speedy deletion" ).  
 ---|---  
   
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or section](http://www.firstwiki.net/ind
 ex.php?title=Webcasting_and_Recording&action=edit "http://www.firstwiki.net/in
@@ -27,7 +27,7 @@ dex.php?title=Webcasting_and_Recording&action=edit" ) by expanding it.**
 Further information might be found on the [talk
 page](/index.php?title=Talk:Webcasting_and_Recording&action=edit
 "Talk:Webcasting and Recording" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   

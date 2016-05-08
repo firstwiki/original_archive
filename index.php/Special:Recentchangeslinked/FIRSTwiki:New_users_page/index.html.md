@@ -38,31 +38,31 @@ _page&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
 
 #### 17 January 2012
 
-  * ([diff](/index.php?title=FIRST&curid=671&diff=88381&oldid=88374 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . m [FIRST](/index.php/FIRST "FIRST" ); 17:16 . . [Boydean](/index.php/User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" ) | [contribs](/index.php?title=Special:Contributions&target=Boydean "Special:Contributions" )) (Reverted edits by [HaHaHaHa](/index.php/Special:Contributions/HaHaHaHa "Special:Contributions/HaHaHaHa" ) ([HaHaHaHa](/index.php?title=User_talk:HaHaHaHa&action=edit "User talk:HaHaHaHa" )); changed back to last version by [Cmh0114](/index.php/User:Cmh0114 "User:Cmh0114" ))
-  * ([diff](/index.php?title=FIRST&curid=671&diff=88374&oldid=79793 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . [FIRST](/index.php/FIRST "FIRST" ); 14:53 . . [HaHaHaHa](/index.php?title=User:HaHaHaHa&action=edit "User:HaHaHaHa" ) ([Talk](/index.php?title=User_talk:HaHaHaHa&action=edit "User talk:HaHaHaHa" ) | [contribs](/index.php?title=Special:Contributions&target=HaHaHaHa "Special:Contributions" )) ([→](/index.php/FIRST#Mission_.26_Vision "FIRST" )Mission &amp; Vision - )
+  * ([diff](/index.php?title=FIRST&curid=671&diff=88381&oldid=88374 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . m [FIRST](FIRST "FIRST" ); 17:16 . . [Boydean](User:Boydean "User:Boydean" ) ([Talk](/index.php?title=User_talk:Boydean&action=edit "User talk:Boydean" ) | [contribs](/index.php?title=Special:Contributions&target=Boydean "Special:Contributions" )) (Reverted edits by [HaHaHaHa](Special:Contributions/HaHaHaHa "Special:Contributions/HaHaHaHa" ) ([HaHaHaHa](/index.php?title=User_talk:HaHaHaHa&action=edit "User talk:HaHaHaHa" )); changed back to last version by [Cmh0114](User:Cmh0114 "User:Cmh0114" ))
+  * ([diff](/index.php?title=FIRST&curid=671&diff=88374&oldid=79793 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . [FIRST](FIRST "FIRST" ); 14:53 . . [HaHaHaHa](/index.php?title=User:HaHaHaHa&action=edit "User:HaHaHaHa" ) ([Talk](/index.php?title=User_talk:HaHaHaHa&action=edit "User talk:HaHaHaHa" ) | [contribs](/index.php?title=Special:Contributions&target=HaHaHaHa "Special:Contributions" )) ([→](FIRST#Mission_.26_Vision "FIRST" )Mission &amp; Vision - )
 
 Retrieved from
-"<http://www.firstwiki.net/index.php/Special:Recentchangeslinked>"
+"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
 ##### Views
 
-  * [Special Page](/index.php/Special:Recentchangeslinked/FIRSTwiki:New_users_page)
+  * [Special Page](Special:Recentchangeslinked/FIRSTwiki:New_users_page)
 
 ##### Personal tools
 
   * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](/index.php/Main_Page "Main Page" )
+[](Main_Page "Main Page" )
 
 ##### Navigation
 
-  * [Main Page](/index.php/Main_Page)
-  * [Community portal](/index.php/FIRSTwiki:Community_portal)
-  * [Current events](/index.php/Current_events)
-  * [Recent changes](/index.php/Special:Recentchanges)
-  * [Random page](/index.php/Special:Random)
-  * [Help](/index.php/FIRSTwiki:Help)
-  * [Donations](/index.php/FIRSTwiki:Site_support)
+  * [Main Page](Main_Page)
+  * [Community portal](FIRSTwiki:Community_portal)
+  * [Current events](Current_events)
+  * [Recent changes](Special:Recentchanges)
+  * [Random page](Special:Random)
+  * [Help](FIRSTwiki:Help)
+  * [Donations](FIRSTwiki:Site_support)
 
 ##### Search
 
@@ -70,8 +70,8 @@ Retrieved from
 
 ##### Toolbox
 
-  * [Upload file](/index.php/Special:Upload)
-  * [Special pages](/index.php/Special:Specialpages)
+  * [Upload file](Special:Upload)
+  * [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -79,7 +79,7 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](/index.php/FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](/index.php/FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](/index.php/FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
+  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
+  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
+  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
 

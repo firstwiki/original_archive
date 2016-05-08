@@ -16,15 +16,15 @@ make it easy for FLL teams to find out about other teams, tournaments and
 tournament results, how-to's, etc.
 
 One suggestion - go ahead and create yourself a user page. For example mine is
-**[User:PeterFll](/index.php/User:PeterFll "User:PeterFll" )**. If you go to
+**[User:PeterFll](User:PeterFll "User:PeterFll" )**. If you go to
 my user page and click Discussion then this is a way to leave a "message" for
 someone - almost like a mailbox. If you create a user page I can do the same.
 Then all you have to do is check that page or look for your name in the
-**[Recent Changes](/index.php/Special:Recentchanges "Special:Recentchanges"
+**[Recent Changes](Special:Recentchanges "Special:Recentchanges"
 )** screen.
 
 To create a user page for yourself just follow this link (after you've logged
 in) - **[User:Robomaniacs](/index.php?title=User:Robomaniacs&action=edit
 "User:Robomaniacs" )** \- and put a bit of text in. Cheers,
-[PeterFll](/index.php/User:PeterFll "User:PeterFll" ) 13:35, 8 Aug 2005 (EDT)
+[PeterFll](User:PeterFll "User:PeterFll" ) 13:35, 8 Aug 2005 (EDT)
 

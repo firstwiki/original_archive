@@ -4,10 +4,10 @@
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](/index.php/FIRSTwiki:Page_formats
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
 "FIRSTwiki:Page formats" ). Please use it when appropriate._
 
-_A working example that can be found at [SMART](/index.php/SMART "SMART" )._
+_A working example that can be found at [SMART](SMART "SMART" )._
 
 _Your team logo should be approximately 150x150. You can modify the color of
 the table heading if you like_
@@ -89,7 +89,7 @@ dit&section=6 "Edit section: Awards and Recognitions" )]
   * awards and recognitions acheived during 
   * current year 
 
-Prior Years: [year](/index.php/FIRSTwiki:FLL_yearly_team_page_format
+Prior Years: [year](FIRSTwiki:FLL_yearly_team_page_format
 "FIRSTwiki:FLL yearly team page format" )
 
 

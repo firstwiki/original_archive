@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Starting_a_team&limit=500&from=0
 "Special:Whatlinkshere/Starting a team" )).
 
-  * [How-to](/index.php/How-to "How-to" )
+  * [How-to](How-to "How-to" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Starting_a_team&limit=20&from=0
 "Special:Whatlinkshere/Starting a team" ) |

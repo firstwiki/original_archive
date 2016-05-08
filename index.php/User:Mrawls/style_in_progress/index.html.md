@@ -8,25 +8,25 @@ progress](/index.php?title=User:Mrawls/style_in_progress&redirect=no
 
 Jump to: navigation, search
 
-**[Community Portal](/index.php/FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
+**[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal" )**
 
-  * **[Help page](/index.php/FIRSTwiki:Help "FIRSTwiki:Help" )**
-  * [New users page](/index.php/FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
-  * [User questions](/index.php/FIRSTwiki:User_questions "FIRSTwiki:User questions" )
-  * [How to edit](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
+  * **[Help page](FIRSTwiki:Help "FIRSTwiki:Help" )**
+  * [New users page](FIRSTwiki:New_users_page "FIRSTwiki:New users page" )
+  * [User questions](FIRSTwiki:User_questions "FIRSTwiki:User questions" )
+  * [How to edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page" )
   * **Style guide**
-  * [Page formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
-  * [What to contribute](/index.php/FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
+  * [Page formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" )
+  * [What to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute" )
 
 * * *
 
-  * [Community decisions](/index.php/FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
-  * [Village pump](/index.php/FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
-  * [Announcements](/index.php/FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
-  * [Administrator Guide](/index.php/FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
-  * [To Do](/index.php/FIRSTwiki:To_Do "FIRSTwiki:To Do" )
-  * [Cleanup](/index.php/FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
-  * [Arbitration](/index.php/FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
+  * [Community decisions](FIRSTwiki:Community_decisions "FIRSTwiki:Community decisions" )
+  * [Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" )
+  * [Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements" )
+  * [Administrator Guide](FIRSTwiki:Guide_for_administrators "FIRSTwiki:Guide for administrators" )
+  * [To Do](FIRSTwiki:To_Do "FIRSTwiki:To Do" )
+  * [Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
+  * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
   
   
@@ -39,11 +39,11 @@ Style](http://www.wikipedia.org/wiki/wikipedia:Manual_of_Style
 provides more information._
 
 _The policy is currently evolving. See the [talk
-page](/index.php/FIRSTwiki_talk:Style_guide "FIRSTwiki talk:Style guide" )._
+page](FIRSTwiki_talk:Style_guide "FIRSTwiki talk:Style guide" )._
 
 This **style guide** has the purpose of making things look alike. There are
 many ways to do things, some equally good -- but if everyone writes according
-to their own unique style, [FIRSTwiki](/index.php/FIRSTwiki "FIRSTwiki" ) will
+to their own unique style, [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) will
 become less professional, and lose any sense of continuity. Further, a
 consistent style aids the reader in several ways, making it easier to read
 articles and providing visual and textual clues to help identify certain
@@ -64,7 +64,7 @@ Other FIRSTwikians will refer to this manual when weeding, and pages will be
 gradually made to conform with this guide.
 
 Please see [FIRSTwiki:How does one edit a
-page](/index.php/FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one
+page](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one
 edit a page" ) for information on how to use all the different forms of markup
 — there is much more available than just **bold** or _italic_. This article
 concentrates on when to use them, although the examples usually also show the
@@ -104,10 +104,10 @@ conventions](http://www.wikipedia.org/wiki/wikipedia:Naming_conventions
 "wikipedia:wikipedia:Naming_conventions" ). To highlight the most important
 considerations:
 
-  * Spelled-out phrases are preferred to acronyms, unless the subject is almost exclusively known by the acronym. E.g., [Continuously variable transmissions](/index.php/Continuously_variable_transmissions "Continuously variable transmissions" ) as opposed to [CVT](/index.php/CVT "CVT" ), **but** [FIRST](/index.php/FIRST "FIRST" ) as opposed to [For Inspiration and Recognition of Science and Technology](/index.php/For_Inspiration_and_Recognition_of_Science_and_Technology "For Inspiration and Recognition of Science and Technology" ). 
-  * The first letter of the first word should be capitalized, with subsequent letters in lower case. The exception is if the word is a proper noun. E.g., [Gracious professionalism](/index.php/Gracious_professionalism "Gracious professionalism" ), **but** [FIRST Robotics Competition](/index.php/FIRST_Robotics_Competition "FIRST Robotics Competition" ). 
+  * Spelled-out phrases are preferred to acronyms, unless the subject is almost exclusively known by the acronym. E.g., [Continuously variable transmissions](Continuously_variable_transmissions "Continuously variable transmissions" ) as opposed to [CVT](CVT "CVT" ), **but** [FIRST](FIRST "FIRST" ) as opposed to [For Inspiration and Recognition of Science and Technology](For_Inspiration_and_Recognition_of_Science_and_Technology "For Inspiration and Recognition of Science and Technology" ). 
+  * The first letter of the first word should be capitalized, with subsequent letters in lower case. The exception is if the word is a proper noun. E.g., [Gracious professionalism](Gracious_professionalism "Gracious professionalism" ), **but** [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ). 
   * The correct names for _FIRST_ programs are: _FIRST_ Robotics Competition (FRC); _FIRST_ Vext Challenge (FVC); _FIRST_ LEGO League (FLL) and Junior _FIRST_ LEGO League (JFLL) 
-  * If an article is written for a specific year, use the convention "General Title (year)". E.g., [Robot Controller](/index.php/Robot_Controller "Robot Controller" ) talks about what a robot controller is, in general, but [Robot Controller (2003)](/index.php/Robot_Controller_%282003%29 "Robot Controller \(2003\)" ) talks about the 2003 version. **Note** that for team pages, the format is "[team number] in [year]". E.g., [45 in 2003](/index.php/45_in_2003 "45 in 2003" ). The exception is to avoid cryptic titles like "45 (2003)". 
+  * If an article is written for a specific year, use the convention "General Title (year)". E.g., [Robot Controller](Robot_Controller "Robot Controller" ) talks about what a robot controller is, in general, but [Robot Controller (2003)](Robot_Controller_%282003%29 "Robot Controller \(2003\)" ) talks about the 2003 version. **Note** that for team pages, the format is "[team number] in [year]". E.g., [45 in 2003](45_in_2003 "45 in 2003" ). The exception is to avoid cryptic titles like "45 (2003)". 
 
 [[edit](/index.php?title=FIRSTwiki:Style_guide&action=edit&section=3 "Edit
 section: Links" )]
@@ -133,8 +133,8 @@ articles.
 
 It is possible to create links with different names than the article. For
 instance, [[Downloading a program|download]] displays as
-[download](/index.php/Downloading_a_program "Downloading a program" ), but
-links to the article [Downloading a program](/index.php/Downloading_a_program
+[download](Downloading_a_program "Downloading a program" ), but
+links to the article [Downloading a program](Downloading_a_program
 "Downloading a program" ). When linking to non-existant articles, **search**
 first to make sure that some other name isn't being used for the same content.
 Also, never use "click here" as text for a link, since it conveys no
@@ -157,7 +157,7 @@ section: ChiefDelphi Links" )]
 
 #### ChiefDelphi Links
 
-Free links can be made to [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" )
+Free links can be made to [ChiefDelphi](ChiefDelphi "ChiefDelphi" )
 via ChiefDelphi template links. The format is very
 different,{{CD|path_to_chiefdelphi_page}}. This is a useful shorthand and is
 preferred over full URLs. The path should not contain
@@ -174,9 +174,9 @@ section: External links" )]
 
 FIRSTwiki is not a collection of links and articles with only links is highly
 **discouraged**. However, it is often important to link to outside resources
--- especially [ChiefDelphi](/index.php/ChiefDelphi "ChiefDelphi" ),
-[InnovationFIRST](/index.php/InnovationFIRST "InnovationFIRST" ), and
-[FIRST](/index.php/FIRST "FIRST" ). The format for this is single brackets,
+-- especially [ChiefDelphi](ChiefDelphi "ChiefDelphi" ),
+[InnovationFIRST](InnovationFIRST "InnovationFIRST" ), and
+[FIRST](FIRST "FIRST" ). The format for this is single brackets,
 such as [http://usfirst.org FIRST homepage] that displays as [FIRST
 homepage](http://usfirst.org "http://usfirst.org" ). Without any text after
 the URL, the link appears as a footnote. For instance, [http://usfirst.org]
@@ -233,12 +233,12 @@ All articles should have the title or subject in **bold**. The title or
 subject can almost always be made part of the first sentence, but some
 articles simply have names. E.g.,
 
-  * **Programming** is an integral part of building a [robot](/index.php/Robot "Robot" ). 
-  * The **default code** provides pre-programmed functionality to the [robot controller](/index.php/Robot_controller "Robot controller" ). 
+  * **Programming** is an integral part of building a [robot](Robot "Robot" ). 
+  * The **default code** provides pre-programmed functionality to the [robot controller](Robot_controller "Robot controller" ). 
 
 If necessary, make the context clear. E.g.,
 
-  * In [programming](/index.php/Programming "Programming" ), the **XOR** operation ... 
+  * In [programming](Programming "Programming" ), the **XOR** operation ... 
 
 [[edit](/index.php?title=FIRSTwiki:Style_guide&action=edit&section=11 "Edit
 section: Lead section" )]
@@ -263,7 +263,7 @@ not been linked are handled by _See also:_.
 
 will produce,
 
-    _See also:_ [Resources for C programming](/index.php/Resources_for_C_programming "Resources for C programming" ), [MPLAB](/index.php/MPLAB "MPLAB" ), [PIC C](/index.php/PIC_C "PIC C" )
+    _See also:_ [Resources for C programming](Resources_for_C_programming "Resources for C programming" ), [MPLAB](MPLAB "MPLAB" ), [PIC C](PIC_C "PIC C" )
 
 For longer articles with headers, the _see also_ section might be applied to a
 particular section. Also, it might be given its own header, and alternative
@@ -277,10 +277,10 @@ section: Page 'Ownership'" )]
 
 The only page any given user 'owns' (if that were applicable in a wiki) is
 his/her User page and its subpages. Using
-[Goobergunch](/index.php/User:Goobergunch "User:Goobergunch" ) as an example,
+[Goobergunch](User:Goobergunch "User:Goobergunch" ) as an example,
 he only has exclusive control over the page
-[User:Goobergunch](/index.php/User:Goobergunch "User:Goobergunch" ) (and its
-subpages). If there were a page [Martin Pyne](/index.php/Martin_Pyne "Martin
+[User:Goobergunch](User:Goobergunch "User:Goobergunch" ) (and its
+subpages). If there were a page [Martin Pyne](Martin_Pyne "Martin
 Pyne" ), he would have no more authority over it than any other user. This
 also aplies to unregistered contributers, except their 'user' page may be used
 by someone else who had/will have the same IP address.

@@ -8,7 +8,7 @@ Jump to: navigation, search
 Greybots, GRR (Greyhound Revolutionary Robotics)  
 ---  
 [![](/media/thumb/a/a2/GRR973.jpg/150px-
-GRR973.jpg)](/index.php/Image:GRR973.jpg "" )  
+GRR973.jpg)](Image:GRR973.jpg "" )  
 Rookie Year: | 2002  
 Inactive Years: | {{{inactive}}}  
 Location: | Atascadero, CA, USA  
@@ -23,7 +23,7 @@ page](http://www.thebluealliance.com/team/973
 pics](http://www.chiefdelphi.com/media/photos/tags/frc973
 "http://www.chiefdelphi.com/media/photos/tags/frc973" )  
   
-**Greyhound Revolutionary Robotics** is a FIRST Robotics team from Atascadero, California. They are current World Champions along with [254](/index.php/254 "254" ) and [111](/index.php/111 "111" ). They are known for building hardy robots. 
+**Greyhound Revolutionary Robotics** is a FIRST Robotics team from Atascadero, California. They are current World Champions along with [254](254 "254" ) and [111](111 "111" ). They are known for building hardy robots. 
 
 ## Contents
 
@@ -81,7 +81,7 @@ With only 12 students in 2011, 973 is the 3rd smallest team to ever win
 champs, and the first team since 2004 to win champs with less than 20
 students. Making 973's motto 'OUTWORK US' worthy.
 
-[973's older history](/index.php/973%27s_older_history "973's older history" )
+[973's older history](973%27s_older_history "973's older history" )
 
   
 [![Image:973_2011_Team_Photo.png](/media/7/75/973_2011_Team_Photo.png)](/index
@@ -90,24 +90,24 @@ students. Making 973's motto 'OUTWORK US' worthy.
 
 ## Team projects
 
-  * [973's 2007 Season Side Project - 'The Dylan-Bot Suit'](/index.php/973_in_2007#Season_Side_Project_-_The_.27Dylan-Bot_Suit.27 "973 in 2007" )
-  * [973's 2008 Offseason - 'King Krab'](/index.php/973_in_2008#Offseason_Project_-_.27King_Krab.27 "973 in 2008" )
-  * [973's 2009 Offseason - 'Black Knight'](/index.php/973_in_2009#Offseason_Project_-_.27Black_Knight.27 "973 in 2009" )
+  * [973's 2007 Season Side Project - 'The Dylan-Bot Suit'](973_in_2007#Season_Side_Project_-_The_.27Dylan-Bot_Suit.27 "973 in 2007" )
+  * [973's 2008 Offseason - 'King Krab'](973_in_2008#Offseason_Project_-_.27King_Krab.27 "973 in 2008" )
+  * [973's 2009 Offseason - 'Black Knight'](973_in_2009#Offseason_Project_-_.27Black_Knight.27 "973 in 2009" )
   * 973's 2011 Offseason - To be unvieled in the fall... 
 
 
 ## Robots
 
-  * [973's 2002 Robot - Stewart](/index.php/973_in_2002 "973 in 2002" )
-  * [973's 2003 Robot - Spots](/index.php/973_in_2003 "973 in 2003" )
-  * [973's 2004 Robot - Uncle Bubba](/index.php/973_in_2004 "973 in 2004" )
-  * [973's 2005 Robot - X10DER](/index.php/973_in_2005 "973 in 2005" )
-  * [973's 2006 Robot - B.O.B. (Big Orange Bot)](/index.php/973_in_2006 "973 in 2006" )
-  * [973's 2007 Robot - Ramposaurus](/index.php/973_in_2007 "973 in 2007" )
-  * [973's 2008 Robot - Armageddon](/index.php/973_in_2008 "973 in 2008" )
-  * [973's 2009 Robot - Raptor](/index.php/973_in_2009 "973 in 2009" )
-  * [973's 2010 Robot - The Boss](/index.php/973_in_2010 "973 in 2010" )
-  * [973's 2011 Robot - The Titan](/index.php/973_in_2011 "973 in 2011" )
+  * [973's 2002 Robot - Stewart](973_in_2002 "973 in 2002" )
+  * [973's 2003 Robot - Spots](973_in_2003 "973 in 2003" )
+  * [973's 2004 Robot - Uncle Bubba](973_in_2004 "973 in 2004" )
+  * [973's 2005 Robot - X10DER](973_in_2005 "973 in 2005" )
+  * [973's 2006 Robot - B.O.B. (Big Orange Bot)](973_in_2006 "973 in 2006" )
+  * [973's 2007 Robot - Ramposaurus](973_in_2007 "973 in 2007" )
+  * [973's 2008 Robot - Armageddon](973_in_2008 "973 in 2008" )
+  * [973's 2009 Robot - Raptor](973_in_2009 "973 in 2009" )
+  * [973's 2010 Robot - The Boss](973_in_2010 "973 in 2010" )
+  * [973's 2011 Robot - The Titan](973_in_2011 "973 in 2011" )
 
 
 ## Accomplishments
@@ -130,13 +130,13 @@ students. Making 973's motto 'OUTWORK US' worthy.
   * 2003 - L.A. Regional Judge's Award 
   * 2004 - Silicon Valley Regional Leadership in Control Award 
   * 2005 - Sacramento Regional Radio Shack Innovation in Control Award 
-  * 2008 - Las Vegas Regional Finalist (With teams [842](/index.php/842 "842" ) and [1724](/index.php?title=1724&action=edit "1724" )) 
-  * 2009 - L.A. Regional Winner (With teams [207](/index.php/207 "207" ) and [2659](/index.php?title=2659&action=edit "2659" )) 
-  * 2010 - Las Vegas Regional Finalist (With teams [987](/index.php/987 "987" ) and [585](/index.php/585 "585" )/[4](/index.php/4 "4" )) 
+  * 2008 - Las Vegas Regional Finalist (With teams [842](842 "842" ) and [1724](/index.php?title=1724&action=edit "1724" )) 
+  * 2009 - L.A. Regional Winner (With teams [207](207 "207" ) and [2659](/index.php?title=2659&action=edit "2659" )) 
+  * 2010 - Las Vegas Regional Finalist (With teams [987](987 "987" ) and [585](585 "585" )/[4](4 "4" )) 
   * 2011 - San Diego Regional GM Idustrial Design Award 
   * 2011 - L.A. Regional Robot Quality Award By Motorola 
   * 2011 - World Championship Galileo Division Winner 
-  * **2011 - World Championship Winner (With teams [254](/index.php/254 "254" ) and [111](/index.php/111 "111" ))**
+  * **2011 - World Championship Winner (With teams [254](254 "254" ) and [111](111 "111" ))**
 
 
 ## Sponsors
@@ -185,7 +185,7 @@ Breakout Paintball Supply
 Fastenal  
 
   
-[Older Sponsers](/index.php/Older_Sponsers "Older Sponsers" )
+[Older Sponsers](Older_Sponsers "Older Sponsers" )
 
 
 ## Current Members, 2011 Season

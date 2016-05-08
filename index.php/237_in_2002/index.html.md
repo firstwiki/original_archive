@@ -15,10 +15,10 @@ Jump to: navigation, search
 
 ## Accomplishments
 
-This is how [237](/index.php/237 "237" ) did in 2002.
+This is how [237](237 "237" ) did in 2002.
 
 
-### [UTC Regional](/index.php/UTC_Regional "UTC Regional" )
+### [UTC Regional](UTC_Regional "UTC Regional" )
 
 _Reflections from the 2002 UTC F.I.R.S.T. Competition_ \- Each year the
 competition grows more exciting and the three days literally fly by.
@@ -34,11 +34,11 @@ matches. Our alliance survived the first round and made it to the semi-finals.
 
 The students, parents, community volunteers and mentors in training are all to
 be congratulated for their outstanding effort this year. On another note, the
-team we mentored from Cheshire, CT #[999](/index.php/999 "999" ) received the
-Rookie All-Star award. Team [716](/index.php/716 "716" ) from Housatonic
+team we mentored from Cheshire, CT #[999](999 "999" ) received the
+Rookie All-Star award. Team [716](716 "716" ) from Housatonic
 Valley Regional High School from Housatonic Valley, CT nicknamed the “Housy-
 Techs” did very well also and battled to into the finals.. Team
-[38](/index.php/38 "38" ) from Woodbury CT, nicknamed the "Nonnebots" also
+[38](38 "38" ) from Woodbury CT, nicknamed the "Nonnebots" also
 made it to the final rounds. Team 38 was team 237's mentor team and got 237
 involved in F.I.R.S.T.
 
@@ -46,7 +46,7 @@ involved in F.I.R.S.T.
   * Eliminated in the semifinals 
 
 
-### [National Championship](/index.php/National_Championship "National
+### [National Championship](National_Championship "National
 Championship" )
 
 Team 237 returned from Florida all in one piece and after having a great
@@ -60,7 +60,7 @@ visiting our pit area many times.
 
 ## Robot
 
-This is [237](/index.php/237 "237" )'s robot from 2002.
+This is [237](237 "237" )'s robot from 2002.
 
 The Watertown High School Sie-H2O-Bots have created the 2002 PAL
 (Professionally Automated Landrover) to be a combination of simplicity and

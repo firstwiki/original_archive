@@ -8,7 +8,7 @@ Jump to: navigation, search
 Blue Cheese  
 ---  
 [![Team logo](/media/thumb/f/fc/Cheeselogo.jpeg/250px-
-Cheeselogo.jpeg)](/index.php/Image:Cheeselogo.jpeg "Team logo" )  
+Cheeselogo.jpeg)](Image:Cheeselogo.jpeg "Team logo" )  
 Rookie Year: | 2002  
 Inactive Years: | {{{inactive}}}  
 Location: | Glen Allen, VA, USA  
@@ -214,8 +214,8 @@ the world each year. Any way you slice it, it’s FIRST &amp; Team 1086!
 
 ## Competitions
 
-  * [NASA/VCU Regional](/index.php/NASA/VCU_Regional "NASA/VCU Regional" )
-  * [The Championship Event](/index.php/The_Championship_Event "The Championship Event" )
+  * [NASA/VCU Regional](NASA/VCU_Regional "NASA/VCU Regional" )
+  * [The Championship Event](The_Championship_Event "The Championship Event" )
   * FIRST Tech Challenge UVA Competition 
   * Virginia Robot Rumble (FRC Off-Season) 
   * Battle of Baltimore (FRC Off-Season) 
@@ -225,7 +225,7 @@ the world each year. Any way you slice it, it’s FIRST &amp; Team 1086!
 
   * Cheese Whiz Academy (Workshops) 
   * No Cheese-Head Left Behind (Tutoring Program) 
-  * [Flat Dean &amp; Woodie World Wide](/index.php/Flat_Dean_%26_Woodie_World_Wide "Flat Dean & Woodie World Wide" )
+  * [Flat Dean &amp; Woodie World Wide](Flat_Dean_%26_Woodie_World_Wide "Flat Dean & Woodie World Wide" )
 
 ## Robots
 
@@ -236,29 +236,29 @@ the world each year. Any way you slice it, it’s FIRST &amp; Team 1086!
   * [2006](/index.php?title=1086_in_2006&action=edit "1086 in 2006" ) \- 1086 Kraken II (FVC) 
   * [2006](/index.php?title=1086_in_2006&action=edit "1086 in 2006" ) \- 1086 The Scorpion (FVC) 
   * [2007](/index.php?title=1086_in_2007&action=edit "1086 in 2007" ) \- 1086 The Black Pearl IV 
-  * [2008](/index.php/1086_in_2008 "1086 in 2008" ) \- 1086 The Blue Cheddar 
+  * [2008](1086_in_2008 "1086 in 2008" ) \- 1086 The Blue Cheddar 
   * [2009](/index.php?title=1086_in_2009&action=edit "1086 in 2009" ) \- 1086 The Blue Muenster 
   * [2010](/index.php?title=1086_in_2010&action=edit "1086 in 2010" ) \- 1086 The Blue Swiss 
   * [2011](/index.php?title=1086_in_2011&action=edit "1086 in 2011" ) \- 1086 Provel 
 
 ## Accomplishments
 
-  * 2004 NASA/VCU [Imagery Award](/index.php/Imagery_Award "Imagery Award" )
-  * 2005 NASA/VCU [DaimlerChrysler Team Spirit Award](/index.php/DaimlerChrysler_Team_Spirit_Award "DaimlerChrysler Team Spirit Award" )
+  * 2004 NASA/VCU [Imagery Award](Imagery_Award "Imagery Award" )
+  * 2005 NASA/VCU [DaimlerChrysler Team Spirit Award](DaimlerChrysler_Team_Spirit_Award "DaimlerChrysler Team Spirit Award" )
   * 2006 VirginiaFIRST Robot Rumble "Finalist Award" 
   * 2006 VirginaFIRST Robot Rumble "Best Use of Autonomous Mode" 
-  * 2006 NASA/VCU [Delphi "Driving Tomorrow's Technology" Award](/index.php/Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" )
+  * 2006 NASA/VCU [Delphi "Driving Tomorrow's Technology" Award](Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" )
   * 2006 FVC South Carolina "Think Award" 
-  * 2007 NASA/VCU [Delphi "Driving Tomorrow's Technology" Award](/index.php/Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" )
-  * 2008 NASA/VCU [Xerox Creativity Award](/index.php/Xerox_Creativity_Award "Xerox Creativity Award" )
-  * 2008 NASA/VCU [Regional Winner](/index.php/Regional_Winner "Regional Winner" )
-  * 2008 NASA/VCU [Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" )
+  * 2007 NASA/VCU [Delphi "Driving Tomorrow's Technology" Award](Delphi_%22Driving_Tomorrow%27s_Technology%22_Award "Delphi "Driving Tomorrow's Technology" Award" )
+  * 2008 NASA/VCU [Xerox Creativity Award](Xerox_Creativity_Award "Xerox Creativity Award" )
+  * 2008 NASA/VCU [Regional Winner](Regional_Winner "Regional Winner" )
+  * 2008 NASA/VCU [Chairman's Award](Chairman%27s_Award "Chairman's Award" )
   * 2008 Website Excellence Award 
   * 2008 Virginia Robot Rumble Winner 
   * 2008 Most Spirited Float in DRHS Homecoming Parade 
   * 2008 PTA Reflections Best Film Production for Team DVD 
-  * 2009 NASA/VCU [Regional Winner](/index.php/Regional_Winner "Regional Winner" )
-  * 2009 NASA/VCU [Chairman's Award](/index.php/Chairman%27s_Award "Chairman's Award" )
+  * 2009 NASA/VCU [Regional Winner](Regional_Winner "Regional Winner" )
+  * 2009 NASA/VCU [Chairman's Award](Chairman%27s_Award "Chairman's Award" )
   * 2009 Atlanta FIRST Championship Chrysler Spirit Award 
   * 2009 Virginia Robot Rumble Winner 
   * 2010 NASA/VCU Regional Engineering Inspiration Award 
@@ -355,88 +355,88 @@ the world each year. Any way you slice it, it’s FIRST &amp; Team 1086!
   * [Team Facebook Group](http://www.facebook.com/group.php?gid=45116145583 "http://www.facebook.com/group.php?gid=45116145583" )
   * [Google Group](http://groups.google.com/group/1086 "http://groups.google.com/group/1086" )
   * [Team Youtube](http://youtube.com/user/bluecheese1086 "http://youtube.com/user/bluecheese1086" )
-_[Index of teams](/index.php/Index_of_teams "Index of teams" ):_  
+_[Index of teams](Index_of_teams "Index of teams" ):_  
 ---  
   
-[1-100](/index.php/Index_of_teams#1-100 "Index of teams" )
-[101-200](/index.php/Index_of_teams#101-200 "Index of teams" )
-[201-300](/index.php/Index_of_teams#201-300 "Index of teams" )
-[301-400](/index.php/Index_of_teams#301-400 "Index of teams" )
-[401-500](/index.php/Index_of_teams#401-500 "Index of teams" )
-[501-600](/index.php/Index_of_teams#501-600 "Index of teams" )
-[601-700](/index.php/Index_of_teams#601-700 "Index of teams" )
-[701-800](/index.php/Index_of_teams#701-800 "Index of teams" )
-[801-900](/index.php/Index_of_teams#801-900 "Index of teams" )
-[901-1000](/index.php/Index_of_teams#901-1000 "Index of teams" )
-[1001-1100](/index.php/Index_of_teams#1001-1100 "Index of teams" )
-[1101-1200](/index.php/Index_of_teams#1101-1200 "Index of teams" )
-[1201-1300](/index.php/Index_of_teams#1201-1300 "Index of teams" )
-[1301-1400](/index.php/Index_of_teams#1301-1400 "Index of teams" )
-[1401-1500](/index.php/Index_of_teams#1401-1500 "Index of teams" )
-[1501-1600](/index.php/Index_of_teams#1501-1600 "Index of teams" )
-[1601-1700](/index.php/Index_of_teams#1601-1700 "Index of teams" )
-[1701-1800](/index.php/Index_of_teams#1701-1800 "Index of teams" )
-[1801-1900](/index.php/Index_of_teams#1801-1900 "Index of teams" )
-[1901-2000](/index.php/Index_of_teams#1901-2000 "Index of teams" )
-[2001-2100](/index.php/Index_of_teams#2001-2100 "Index of teams" )
-[2101-2200](/index.php/Index_of_teams#2101-2200 "Index of teams" )
-[2201-2300](/index.php/Index_of_teams#2201-2300 "Index of teams" )
-[2301-2400](/index.php/Index_of_teams#2301-2400 "Index of teams" )
-[2401-2500](/index.php/Index_of_teams#2401-2500 "Index of teams" )
-[2501-2600](/index.php/Index_of_teams#2501-2600 "Index of teams" )
-[2601-2700](/index.php/Index_of_teams#2601-2700 "Index of teams" )
-[2701-2800](/index.php/Index_of_teams#2701-2800 "Index of teams" )
-[2801-2900](/index.php/Index_of_teams#2801-2900 "Index of teams" )
-[2901-3000](/index.php/Index_of_teams#2901-3000 "Index of teams" )  
+[1-100](Index_of_teams#1-100 "Index of teams" )
+[101-200](Index_of_teams#101-200 "Index of teams" )
+[201-300](Index_of_teams#201-300 "Index of teams" )
+[301-400](Index_of_teams#301-400 "Index of teams" )
+[401-500](Index_of_teams#401-500 "Index of teams" )
+[501-600](Index_of_teams#501-600 "Index of teams" )
+[601-700](Index_of_teams#601-700 "Index of teams" )
+[701-800](Index_of_teams#701-800 "Index of teams" )
+[801-900](Index_of_teams#801-900 "Index of teams" )
+[901-1000](Index_of_teams#901-1000 "Index of teams" )
+[1001-1100](Index_of_teams#1001-1100 "Index of teams" )
+[1101-1200](Index_of_teams#1101-1200 "Index of teams" )
+[1201-1300](Index_of_teams#1201-1300 "Index of teams" )
+[1301-1400](Index_of_teams#1301-1400 "Index of teams" )
+[1401-1500](Index_of_teams#1401-1500 "Index of teams" )
+[1501-1600](Index_of_teams#1501-1600 "Index of teams" )
+[1601-1700](Index_of_teams#1601-1700 "Index of teams" )
+[1701-1800](Index_of_teams#1701-1800 "Index of teams" )
+[1801-1900](Index_of_teams#1801-1900 "Index of teams" )
+[1901-2000](Index_of_teams#1901-2000 "Index of teams" )
+[2001-2100](Index_of_teams#2001-2100 "Index of teams" )
+[2101-2200](Index_of_teams#2101-2200 "Index of teams" )
+[2201-2300](Index_of_teams#2201-2300 "Index of teams" )
+[2301-2400](Index_of_teams#2301-2400 "Index of teams" )
+[2401-2500](Index_of_teams#2401-2500 "Index of teams" )
+[2501-2600](Index_of_teams#2501-2600 "Index of teams" )
+[2601-2700](Index_of_teams#2601-2700 "Index of teams" )
+[2701-2800](Index_of_teams#2701-2800 "Index of teams" )
+[2801-2900](Index_of_teams#2801-2900 "Index of teams" )
+[2901-3000](Index_of_teams#2901-3000 "Index of teams" )  
   
-_[Index of teams by region](/index.php/Index_of_teams_by_region "Index of
+_[Index of teams by region](Index_of_teams_by_region "Index of
 teams by region" ):_  
 ---  
   
-[NH](/index.php/Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
+[NH](Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
 _Manchester.2C_NH "Index of teams by region" )
-[NJ](/index.php/Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
+[NJ](Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
 "Index of teams by region" )
-[VA](/index.php/Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
-"Index of teams by region" ) [OR](/index.php/Index_of_teams_by_region#Pacific_
+[VA](Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
+"Index of teams by region" ) [OR](Index_of_teams_by_region#Pacific_
 Northwest_Regional.2C_Portland.2C_OR "Index of teams by region" )
-[AZ](/index.php/Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
+[AZ](Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
 "Index of teams by region" )
-[FL](/index.php/Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
-"Index of teams by region" ) [GL](/index.php/Index_of_teams_by_region#Great_La
-kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](/index.php/
+[FL](Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
+"Index of teams by region" ) [GL](Index_of_teams_by_region#Great_La
+kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](
 Index_of_teams_by_region#Pittsburgh_Regional.2C_Pittsburgh.2C_PA "Index of
-teams by region" ) [MO](/index.php/Index_of_teams_by_region#St._Louis_Regional
-.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](/index.php/Index_of_te
+teams by region" ) [MO](Index_of_teams_by_region#St._Louis_Regional
+.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](Index_of_te
 ams_by_region#UTC_New_England_Regional.2C_Hartford.2C_CT "Index of teams by
-region" ) [MD](/index.php/Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
+region" ) [MD](Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
 polis.2C_MD "Index of teams by region" )
-[DT](/index.php/Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
+[DT](Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
 "Index of teams by region" )
-[GA](/index.php/Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
-"Index of teams by region" ) [SAC](/index.php/Index_of_teams_by_region#Sacrame
-nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](/index.php/
+[GA](Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
+"Index of teams by region" ) [SAC](Index_of_teams_by_region#Sacrame
+nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](
 Index_of_teams_by_region#SBPLI_Long_Island_Regional.2C_Brentwood.2C_NY "Index
 of teams by region" )
-[OH](/index.php/Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
+[OH](Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
 "Index of teams by region" )
-[CO](/index.php/Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
+[CO](Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
 "Index of teams by region" )
-[IL](/index.php/Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
-"Index of teams by region" ) [NY](/index.php/Index_of_teams_by_region#New_York
-_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](/index.php/
+[IL](Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
+"Index of teams by region" ) [NY](Index_of_teams_by_region#New_York
+_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](
 Index_of_teams_by_region#Philadelphia_Regional.2C_Philadelphia.2C_PA "Index of
-teams by region" ) [CA](/index.php/Index_of_teams_by_region#Southern_Californi
-a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](/index.php/I
+teams by region" ) [CA](Index_of_teams_by_region#Southern_Californi
+a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](I
 ndex_of_teams_by_region#Canadian_Regional.2C_Mississauga.2C_ON "Index of teams
 by region" )
-[TX](/index.php/Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
+[TX](Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
 "Index of teams by region" )
-[SC](/index.php/Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
-"Index of teams by region" ) [SJ](/index.php/Index_of_teams_by_region#Silicon_
+[SC](Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
+"Index of teams by region" ) [SJ](Index_of_teams_by_region#Silicon_
 Valley_Regional.2C_San_Jose.2C_CA "Index of teams by region" ) [MI](/index.php
 /Index_of_teams_by_region#West_Michigan_Regional.2C_Grand_Rapids.2C_MI "Index
 of teams by region" )
-[WI](/index.php/Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
+[WI](Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
 "Index of teams by region" )  
   

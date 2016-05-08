@@ -25,7 +25,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/User:Keatonic&limit=500&from=0
 "Special:Whatlinkshere/User:Keatonic" )).
 
-  * [FIRSTwiki:Nominations for adminship](/index.php/FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" )
+  * [FIRSTwiki:Nominations for adminship](FIRSTwiki:Nominations_for_adminship "FIRSTwiki:Nominations for adminship" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/User:Keatonic&limit=20&from=0
 "Special:Whatlinkshere/User:Keatonic" ) |

@@ -4,7 +4,7 @@
 
 ### From FIRSTwiki
 
-For [OwnbeyAlberta483](/index.php/User:OwnbeyAlberta483
+For [OwnbeyAlberta483](User:OwnbeyAlberta483
 "User:OwnbeyAlberta483" )
 ([Talk](/index.php?title=User_talk:OwnbeyAlberta483&action=edit "User
 talk:OwnbeyAlberta483" ) | [Block
@@ -26,7 +26,7 @@ itle=Special:Contributions&target=OwnbeyAlberta483&offset=0&limit=50) | [100](
 fset=0&limit=250) | [500](/index.php?title=Special:Contributions&target=Ownbey
 Alberta483&offset=0&limit=500)).
 
-  * 09:58, 24 June 2012 ([hist](/index.php?title=User:OwnbeyAlberta483&action=history "User:OwnbeyAlberta483" )) ([diff](/index.php?title=User:OwnbeyAlberta483&diff=prev&oldid=165098 "User:OwnbeyAlberta483" )) [User:OwnbeyAlberta483](/index.php/User:OwnbeyAlberta483 "User:OwnbeyAlberta483" ) ** (top)**
+  * 09:58, 24 June 2012 ([hist](/index.php?title=User:OwnbeyAlberta483&action=history "User:OwnbeyAlberta483" )) ([diff](/index.php?title=User:OwnbeyAlberta483&diff=prev&oldid=165098 "User:OwnbeyAlberta483" )) [User:OwnbeyAlberta483](User:OwnbeyAlberta483 "User:OwnbeyAlberta483" ) ** (top)**
 
 (Latest | Earliest) View (previous 50) (next 50) ([20](/index.php?title=Specia
 l:Contributions&target=OwnbeyAlberta483&offset=0&limit=20) | [50](/index.php?t

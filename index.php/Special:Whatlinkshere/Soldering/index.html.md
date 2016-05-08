@@ -22,10 +22,10 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Soldering&limit=500&from=0
 "Special:Whatlinkshere/Soldering" )).
 
-  * [Modifying a servo](/index.php/Modifying_a_servo "Modifying a servo" )
-  * [Talk:Modifying a servo](/index.php/Talk:Modifying_a_servo "Talk:Modifying a servo" )
-  * [Guide to soldering](/index.php/Guide_to_soldering "Guide to soldering" )
-  * [Competition port dongle](/index.php/Competition_port_dongle "Competition port dongle" )
+  * [Modifying a servo](Modifying_a_servo "Modifying a servo" )
+  * [Talk:Modifying a servo](Talk:Modifying_a_servo "Talk:Modifying a servo" )
+  * [Guide to soldering](Guide_to_soldering "Guide to soldering" )
+  * [Competition port dongle](Competition_port_dongle "Competition port dongle" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Soldering&limit=20&from=0
 "Special:Whatlinkshere/Soldering" ) |

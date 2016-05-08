@@ -24,7 +24,7 @@ pages in total on the World Wide Web. - Source
 
 Most FIRST teams maintain websites, both to showcase their team on the
 Internet and to become eligible for the regional and national [website
-awards](/index.php/Website_Excellence_Award "Website Excellence Award" ).
+awards](Website_Excellence_Award "Website Excellence Award" ).
 There are various practices for maintaining team websites. Some are maintained
 by adult or professional webmasters, and some are student-designed and
 maintained.
@@ -32,18 +32,18 @@ maintained.
 
 ##  See Also
 
-  * [Designing a team webpage](/index.php/Designing_a_team_webpage "Designing a team webpage" )
-  * [OpenFIRST](/index.php/OpenFIRST "OpenFIRST" )
+  * [Designing a team webpage](Designing_a_team_webpage "Designing a team webpage" )
+  * [OpenFIRST](OpenFIRST "OpenFIRST" )
   * [Wikipedia:Website](http://www.wikipedia.org/wiki/Website "wikipedia:Website" )
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 |  _This article is currently a stub (a short article without much content).
 [Please add more
 content](http://www.firstwiki.net/index.php?title=Website&action=edit
 "http://www.firstwiki.net/index.php?title=Website&action=edit" ) to make a
 significant article. If you'd like to add to more stubs, look at the list of
-[short articles](/index.php/Special:Shortpages "Special:Shortpages" )._  
+[short articles](Special:Shortpages "Special:Shortpages" )._  
 ---|---  
   

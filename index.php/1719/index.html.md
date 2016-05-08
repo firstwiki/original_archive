@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Team 1719 The Umbrella Corporation  
 ---  
-[![Team logo](/media/6/6c/Logo1719.JPG)](/index.php/Image:Logo1719.JPG "Team
+[![Team logo](/media/6/6c/Logo1719.JPG)](Image:Logo1719.JPG "Team
 logo" )  
 Rookie Year: | 2006  
 Inactive Years: | {{{inactive}}}  
@@ -60,39 +60,39 @@ program at The Park School. Several team members help with mentoring.
 
 The team was forced to rebuild itself after the 2006 season, as almost half
 the team members and almost all the engineering mentors decided to form Team
-[1980](/index.php/1980 "1980" ) at SMA. However, the team was again priveleged
+[1980](1980 "1980" ) at SMA. However, the team was again priveleged
 to receive a NASA grant and several other generous sponsorships from various
 organizations (listed below). The team submitted a proclamation to Governor
 O'Malley's office. This proclamation recognized FIRST as an important and
 influential national program. The full text along with more details can be
-found on [Maryland FIRST Robotics Day](/index.php/Maryland_FIRST_Robotics_Day
+found on [Maryland FIRST Robotics Day](Maryland_FIRST_Robotics_Day
 "Maryland FIRST Robotics Day" ) page. At the Chesapeake Regional Competition,
-the team received the [Imagery Award](/index.php/Imagery_Award "Imagery Award"
-), and was later selected for an alliance with Teams [1975](/index.php/1975
-"1975" ) and [175](/index.php/175 "175" ).
+the team received the [Imagery Award](Imagery_Award "Imagery Award"
+), and was later selected for an alliance with Teams [1975](1975
+"1975" ) and [175](175 "175" ).
 
 
 ## Team Projects
 
   * Increase recognition of FIRST on a national level through drafting of legislation [[1]](http://www.team1719.org/pictures/proclamation.jpg "http://www.team1719.org/pictures/proclamation.jpg" ) for Congress 
   * Include students from schools without FIRST teams who wish to participate on our team 
-  * Support and mentor our school's [FLL](/index.php/FLL "FLL" ) (FIRST Lego League) team in the 2008 season 
+  * Support and mentor our school's [FLL](FLL "FLL" ) (FIRST Lego League) team in the 2008 season 
 
 
 ## Robots
 
-  * [2006 - Phoenix](/index.php/1719_in_2006#Robot "1719 in 2006" )
-  * [2007 - Señor el Roboto](/index.php/1719_in_2007#Robot "1719 in 2007" )
+  * [2006 - Phoenix](1719_in_2006#Robot "1719 in 2006" )
+  * [2007 - Señor el Roboto](1719_in_2007#Robot "1719 in 2007" )
   * [2008 - ???](/index.php?title=1719_in_2008&action=edit "1719 in 2008" )
 
 
 ## Accomplishments
 
   * 2007 - Legislation written by team members and parents submitted to Governor O'Malley. March 16th declared Maryland FIRST Day! 
-  * 2007 - Won the [Imagery Award](/index.php/Imagery_Award "Imagery Award" ) at the Chesapeake Regional. 
-  * 2006 - Charter members of the [Baltimore Area Alliance](http://www.firstbaa.com "http://www.firstbaa.com" ) ([BAA](/index.php/BAA "BAA" ))with other Maryland teams. 
-  * 2006 - Won the [Rookie All-Star Award](/index.php/Rookie_All-Star_Award "Rookie All-Star Award" ) at the Chesapeake Regional, qualifying our team for the Championship in Atlanta. 
-  * 2006 - Won the [Rookie Inspiration Award](/index.php/Rookie_Inspiration_Award "Rookie Inspiration Award" ) at the Philadelphia Regional. 
+  * 2007 - Won the [Imagery Award](Imagery_Award "Imagery Award" ) at the Chesapeake Regional. 
+  * 2006 - Charter members of the [Baltimore Area Alliance](http://www.firstbaa.com "http://www.firstbaa.com" ) ([BAA](BAA "BAA" ))with other Maryland teams. 
+  * 2006 - Won the [Rookie All-Star Award](Rookie_All-Star_Award "Rookie All-Star Award" ) at the Chesapeake Regional, qualifying our team for the Championship in Atlanta. 
+  * 2006 - Won the [Rookie Inspiration Award](Rookie_Inspiration_Award "Rookie Inspiration Award" ) at the Philadelphia Regional. 
   * 2006 - Attended the Championships in Atlanta. 
 
 
@@ -135,7 +135,7 @@ Finally, thanks to our Non-Engineering Support Group!
   * Gislin Dagnelie and Brenda Rapp 
   * Michael Dennis and Jane Crosson 
   * Ben Hobbs and Julie McDill 
-  * [Glenn Johnston](/index.php/Glenn_Johnston "Glenn Johnston" ) and Mary Jane Johnston 
+  * [Glenn Johnston](Glenn_Johnston "Glenn Johnston" ) and Mary Jane Johnston 
   * Jeff McCusker and Cindy McCusker 
   * Doru Petrisor and Carmen Petrisor 
   * David Schneider and Lynn Roberts 
@@ -144,7 +144,7 @@ Finally, thanks to our Non-Engineering Support Group!
 ## Students
 
   * Paul Dagnelie 
-  * [Paul Dennis](/index.php/Paul_Dennis "Paul Dennis" )
+  * [Paul Dennis](Paul_Dennis "Paul Dennis" )
   * Paul Hobbs 
   * Jeremy Johnston 
   * Jeff McCusker 

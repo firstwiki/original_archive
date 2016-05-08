@@ -23,16 +23,16 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/FLL_Challenge&limit=500&from=0
 "Special:Whatlinkshere/FLL Challenge" )).
 
-  * [Ocean Odyssey](/index.php/Ocean_Odyssey "Ocean Odyssey" )
-  * [No Limits](/index.php/No_Limits "No Limits" )
-  * [Mission Mars](/index.php/Mission_Mars "Mission Mars" )
-  * [Category:FLL Challenges](/index.php/Category:FLL_Challenges "Category:FLL Challenges" )
+  * [Ocean Odyssey](Ocean_Odyssey "Ocean Odyssey" )
+  * [No Limits](No_Limits "No Limits" )
+  * [Mission Mars](Mission_Mars "Mission Mars" )
+  * [Category:FLL Challenges](Category:FLL_Challenges "Category:FLL Challenges" )
   * [FLL Challenges](/index.php?title=FLL_Challenges&redirect=no "FLL Challenges" ) (redirect page) 
-    * [Main Page](/index.php/Main_Page "Main Page" )
-    * [Template:Main page toc](/index.php/Template:Main_page_toc "Template:Main page toc" )
-    * [User:Mrawls/front page redesign](/index.php/User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
-    * [City Sights](/index.php/City_Sights "City Sights" )
-    * [User:Hollis1138/Front page development](/index.php/User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
+    * [Main Page](Main_Page "Main Page" )
+    * [Template:Main page toc](Template:Main_page_toc "Template:Main page toc" )
+    * [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign" )
+    * [City Sights](City_Sights "City Sights" )
+    * [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development" )
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/FLL_Challenge&limit=20&from=0
 "Special:Whatlinkshere/FLL Challenge" ) |

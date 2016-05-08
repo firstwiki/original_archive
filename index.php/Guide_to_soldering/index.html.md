@@ -41,6 +41,6 @@ section: Conclusion" )]
 
 ##  Conclusion
 
-[Soldering](/index.php/Soldering "Soldering" ) is an essential skill that is
+[Soldering](Soldering "Soldering" ) is an essential skill that is
 best mastered through practice. Have fun, and don't breathe too deep.
 

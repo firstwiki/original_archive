@@ -21,9 +21,9 @@ facebook**](http://www.socialadgigs.com/ "http://www.socialadgigs.com/" ).
 Should you own a Facebook fan web page of your own or your online business,
 you may want to update your web page with the newest version. On the identical
 time, it is true that Facebook Timeline has a critical impact on your social
-[networking marketing](http://www.evidencewarehouse.ocp.dc.gov/index.php/User_
+[networking marketing](http://www.evidencewarehouse.ocp.dc.govUser_
 talk:Johngarcia
-"http://www.evidencewarehouse.ocp.dc.gov/index.php/User_talk:Johngarcia" ).
+"http://www.evidencewarehouse.ocp.dc.govUser_talk:Johngarcia" ).
 
 Listed below are some execs and cons of Facebook Timeline:
 

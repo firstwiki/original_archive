@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 Gael Force  
 ---  
-[![Team logo](/media/b/b2/Theteamlogo.jpg)](/index.php/Image:Theteamlogo.jpg
+[![Team logo](/media/b/b2/Theteamlogo.jpg)](Image:Theteamlogo.jpg
 "Team logo" )  
 Rookie Year: | 1992  
 Inactive Years: | {{{inactive}}}  
@@ -22,7 +22,7 @@ page](http://www.thebluealliance.net/tbatv/team.php?team=126
   
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
-FIRST_logo.gif)](/index.php/Image:FIRST_logo.gif "" )
+FIRST_logo.gif)](Image:FIRST_logo.gif "" )
 
 | **Please help [improve this article or
 section](http://www.firstwiki.net/index.php?title=126&action=edit
@@ -30,17 +30,17 @@ section](http://www.firstwiki.net/index.php?title=126&action=edit
 it.**  
 Further information might be found on the [talk
 page](/index.php?title=Talk:126&action=edit "Talk:126" ) or at [requests for
-expansion](/index.php/FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
+expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for
 expansion" ).  
 ---|---  
   
   
 
 [![](/media/thumb/2/2f/Circuit_diopsis.jpg/100px-
-Circuit_diopsis.jpg)](/index.php/Image:Circuit_diopsis.jpg "" ) |  **Format**  
+Circuit_diopsis.jpg)](Image:Circuit_diopsis.jpg "" ) |  **Format**  
 
 This page needs to be formatted properly, check the [page
-formats](/index.php/FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
+formats](FIRSTwiki:Page_formats "FIRSTwiki:Page formats" ) and
 choose the appropriate template.  
 Please **[improve](http://www.firstwiki.net/index.php?title=126&action=edit
 "http://www.firstwiki.net/index.php?title=126&action=edit" )** this article.  
@@ -70,9 +70,9 @@ in 1999, 2001, and two in 2005.
 
   * [2004 - Gael Force](/index.php?title=Gael_Force_%28126%29&action=edit "Gael Force \(126\)" )
 
-The team has won the BAE Manchester regional (with team [121](/index.php/121
-"121" ) and [350](/index.php/350 "350" )) and the UTC Hartford regional (with
-team [69](/index.php/69 "69" ) and [1071](/index.php/1071 "1071" )) this year.
+The team has won the BAE Manchester regional (with team [121](121
+"121" ) and [350](350 "350" )) and the UTC Hartford regional (with
+team [69](69 "69" ) and [1071](1071 "1071" )) this year.
 Also it won the Engineering Inspiraation Award at the BAE regional and The
 Chairman's award at the Boston Regional this year. Won the Boston BU Regional
 (with team 69 and 125).
