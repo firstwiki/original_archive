@@ -65,7 +65,7 @@ There are 20 articles in this category.
 ### R
 
 - [Regional](Regional "Regional")
-- [Robot](Robot "Robot")
+- [Robot](robot)
 
 ### S
 

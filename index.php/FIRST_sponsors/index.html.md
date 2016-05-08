@@ -11,7 +11,7 @@ Jump to: navigation, search
 ## Sponsors with FIRSTwiki Entries
 
 - [Innovation FIRST](Innovation_FIRST "Innovation FIRST")
-- [Dean Kamen](Dean_Kamen "Dean Kamen")
+- [Dean Kamen](dean-kamen)
 - [DEKA](DEKA "DEKA")
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-

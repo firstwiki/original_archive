@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **transmission** provides different [gear](Gear "Gear") ratios to get the full potential out of the [motors](Motor "Motor") provided in the [kit of parts](Kit_of_parts "Kit of parts").
+A **transmission** provides different [gear](gear) ratios to get the full potential out of the [motors](motor) provided in the [kit of parts](kit-of-parts).
 
 ## Contents
 
@@ -21,7 +21,7 @@ A **transmission** provides different [gear](Gear "Gear") ratios to get the full
 
 ## Synopsis
 
-For many teams, the drill motor and it's built-in planetary gearbox (plus an additional chain & sprocket reduction) was plenty enough to power the drivetrain of their robot. In 2005, the drill motors were phased out and were replaced with 2 more [CIM](CIM "CIM") motors, giving a total of 4 [CIM](CIM "CIM") motors in the [kit of parts](Kit_of_parts "Kit of parts"). Additionally, a custom kit transmission was packed into the 2005 kit of parts, giving teams a 1 or 2 motor, single speed transmission.
+For many teams, the drill motor and it's built-in planetary gearbox (plus an additional chain & sprocket reduction) was plenty enough to power the drivetrain of their robot. In 2005, the drill motors were phased out and were replaced with 2 more [CIM](CIM "CIM") motors, giving a total of 4 [CIM](CIM "CIM") motors in the [kit of parts](kit-of-parts). Additionally, a custom kit transmission was packed into the 2005 kit of parts, giving teams a 1 or 2 motor, single speed transmission.
 
 ## Building a FIRST robot transmission
 
@@ -43,7 +43,7 @@ Some teams take it to the next level and incorperate a [Continously Variable Tra
 
 ### Motors
 
-Teams generally use the most powerful motors in the kit to drive their robot; these motors (2005) would be the 4 [CIMs](CIM "CIM") and the 2 [Fisher Price motors](Fisher_Price_motor "Fisher Price motor"). Since 4 CIM motors were included in the kit, constructing a 2 motor transmission was not very difficult, since no reduction was needed. Some teams chose to also add in the fisher price motor, either to replace one set of CIM motors, or simply to add to the drivetrain's power. Some teams chose to achieve the proper reduction through gears, some chose to use the AM- planetaries sold by AndyMark.
+Teams generally use the most powerful motors in the kit to drive their robot; these motors (2005) would be the 4 [CIMs](CIM "CIM") and the 2 [Fisher Price motors](fisher-price-motor). Since 4 CIM motors were included in the kit, constructing a 2 motor transmission was not very difficult, since no reduction was needed. Some teams chose to also add in the fisher price motor, either to replace one set of CIM motors, or simply to add to the drivetrain's power. Some teams chose to achieve the proper reduction through gears, some chose to use the AM- planetaries sold by AndyMark.
 
 ## Types
 

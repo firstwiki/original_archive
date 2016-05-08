@@ -35,7 +35,7 @@ You may continue to **[edit](http://www.firstwiki.net/index.php?title=Logo_Motio
 - 1993 [Rug Rage](Rug_Rage "Rug Rage")
 - 1992 [Maize Craze](Maize_Craze "Maize Craze")
 
-**Logo Motion** is the 2011 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game. Playing pieces are inner tubes shaped like the components of the [FIRST](first) logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge") kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist [Jack Kamen](Jack_Kamen "Jack Kamen"), who designed the original FIRST logo.
+**Logo Motion** is the 2011 [FIRST Robotics Competition](first-robotics-competition) game. Playing pieces are inner tubes shaped like the components of the [FIRST](first) logo. The primary objective of the game is to place them on racks to gain points. In the endgame, robots deploy smaller robots ("minibots") to climb a tower. Minibots must be made from the [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge") kit of parts. The game celebrates the 20th season of the FRC and is also meant to commemorate the artist [Jack Kamen](Jack_Kamen "Jack Kamen"), who designed the original FIRST logo.
 
 ## Contents
 
@@ -57,7 +57,7 @@ You may continue to **[edit](http://www.firstwiki.net/index.php?title=Logo_Motio
 
 ## Kickoff
 
-The kickoff, the first event of the 2011 FRC season, was held at the Southern New Hampshire University and simulcast to numerous regional kickoffs throughout the United States, Canada, and Mexico. Speakers included Walt Havenstein, Jon Dudas, [Dean Kamen](Dean_Kamen "Dean Kamen"), [Neal Bascomb](/index.php?title=Neal_Bascomb&action=edit "Neal Bascomb"), Amir Abo-Shaeer, [Dave Lavery](Dave_Lavery "Dave Lavery") and Will.I.Am. It was broadcast live on NASA TV starting at 10:30 EST.
+The kickoff, the first event of the 2011 FRC season, was held at the Southern New Hampshire University and simulcast to numerous regional kickoffs throughout the United States, Canada, and Mexico. Speakers included Walt Havenstein, Jon Dudas, [Dean Kamen](dean-kamen), [Neal Bascomb](/index.php?title=Neal_Bascomb&action=edit "Neal Bascomb"), Amir Abo-Shaeer, [Dave Lavery](Dave_Lavery "Dave Lavery") and Will.I.Am. It was broadcast live on NASA TV starting at 10:30 EST.
 
 As per previous years' competitions, Dave Lavery produced and narrated the official game animation video. New Hampshire businessman and FIRST official Blair Hundertmark assisted in the production of the video.
 

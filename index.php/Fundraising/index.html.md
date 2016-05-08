@@ -5,9 +5,9 @@
 Jump to: navigation, search
 
 Fundraising is essential to participating in the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
-Competition"), [Teams](Team "Team") often solicit corporate and academic [sponsorship](Sponsorship "Sponsorship") that provides them with money and access to materials needed to effectively demonstrate the [ideals of FIRST](FIRST_philosophy "FIRST philosophy") and its mission. New fundraising techniques and methods come into existence every year, but the basic ones should be the backbone of your fundraising efforts.
+Competition"), [Teams](team) often solicit corporate and academic [sponsorship](Sponsorship "Sponsorship") that provides them with money and access to materials needed to effectively demonstrate the [ideals of FIRST](FIRST_philosophy "FIRST philosophy") and its mission. New fundraising techniques and methods come into existence every year, but the basic ones should be the backbone of your fundraising efforts.
 
-[Teams](Team "Team") often augment such [sponsorship](Sponsorship "Sponsorship") with community-based fundraising activities.
+[Teams](team) often augment such [sponsorship](Sponsorship "Sponsorship") with community-based fundraising activities.
 
 [![](/media/thumb/a/a2/FR_Dummies.jpg/150px-
 FR_Dummies.jpg)](Image:FR_Dummies.jpg)

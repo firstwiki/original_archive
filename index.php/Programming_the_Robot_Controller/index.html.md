@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Programming the FRC** is necessary to get the most out of the [control system](Control_system "Control system"). For simple [robots](Robot "Robot"), the [default code](Default_code "Default code") will be sufficient. But for more advanced control, custom code must be added. This article attempts to explain how to begin modifying the default code to meet your specific purposes. The article assumes a familiarity with the C programming language (see [Resources for C programming](Resources_for_C_programming "Resources for C programming")), and primarily focuses on that.
+**Programming the FRC** is necessary to get the most out of the [control system](control-system). For simple [robots](robot), the [default code](Default_code "Default code") will be sufficient. But for more advanced control, custom code must be added. This article attempts to explain how to begin modifying the default code to meet your specific purposes. The article assumes a familiarity with the C programming language (see [Resources for C programming](Resources_for_C_programming "Resources for C programming")), and primarily focuses on that.
 
 Note that prior to 2004, a the a [BASIC stamp](BASIC_stamp "BASIC
 stamp") was used, which was programmed in [PBASIC](PBASIC "PBASIC"). 2004 marked a major switch in the [Robot Controller](robot-controller), making [PIC C](PIC_C "PIC C") the programming language of choice (along with [assembly](Assembly "Assembly")).

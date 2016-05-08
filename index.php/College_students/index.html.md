@@ -17,7 +17,7 @@ expansion").<br>
 
 College Students are (depending on a given teams structure) [mentors](Mentors "Mentors") currently attending college, usually for the first time. Generally (but not always) College Student mentors are FIRST alumni and in most cases are continuing to work with the same teams as when they were in high school, but may also participate in other teams that may be closer to their university. Occasionally, FIRST Alumni College Students may create a new FIRST team, typically if the area surrounding their university does not have one already.
 
-College Students can contribute to a team in a number of ways, usually helping in areas related to courses they may be taking or prior FIRST experience. They will generally work with other [mentors](Mentors "Mentors") and [engineers](Engineers "Engineers") to assist [students](Students "Students") in the construction of a [robot](Robot "Robot") for the [FIRST Robotics Competition](first), as well as other aspects of the team, such as Website design, Animation, and so on.
+College Students can contribute to a team in a number of ways, usually helping in areas related to courses they may be taking or prior FIRST experience. They will generally work with other [mentors](Mentors "Mentors") and [engineers](Engineers "Engineers") to assist [students](Students "Students") in the construction of a [robot](robot) for the [FIRST Robotics Competition](first), as well as other aspects of the team, such as Website design, Animation, and so on.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

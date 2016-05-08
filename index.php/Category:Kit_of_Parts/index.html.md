@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This category is for all subcategories within the [kit of parts](Kit_of_parts "Kit of parts").
+This category is for all subcategories within the [kit of parts](kit-of-parts).
 
 ## Subcategories
 
@@ -32,4 +32,4 @@ There is 1 article in this category.
 
 ## #
 
-- [Kit of parts](Kit_of_parts "Kit of parts")
+- [Kit of parts](kit-of-parts)

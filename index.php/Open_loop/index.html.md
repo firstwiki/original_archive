@@ -4,11 +4,11 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
@@ -31,12 +31,12 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
@@ -44,16 +44,16 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-An open loop control system signifies a program that calculates its output (to [motors](Motors "Motors"), for example) relying soley on user input (from the [Operator Interface's](Operator_Interface "Operator
+An open loop control system signifies a program that calculates its output (to [motors](motors), for example) relying soley on user input (from the [Operator Interface's](Operator_Interface "Operator
 Interface") [joysticks](joystick), for example).
 
 [![Schematic for an open loop

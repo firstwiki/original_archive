@@ -19,7 +19,7 @@ Competition") in the 2010 season to supplement the [Victor 884](victor-884). It 
 
 ## Technical
 
-The Jaguar is part of the FIRST [control system](Control_system "Control system"). The Jaguar works by recieving a [PWM signal](PWM_signal "PWM signal") or [CAN](/index.php?title=CAN&action=edit "CAN") input from a [robot controller](robot-controller), which may include the (full) [Robot Controller](Robot_Controller "Robot
+The Jaguar is part of the FIRST [control system](control-system). The Jaguar works by recieving a [PWM signal](PWM_signal "PWM signal") or [CAN](/index.php?title=CAN&action=edit "CAN") input from a [robot controller](robot-controller), which may include the (full) [Robot Controller](Robot_Controller "Robot
 Controller"), the [Robovation](robovation) controller or a [Vex](Vex "Vex") Controller. Depending on the range of the [PWM](pwm) signal - with 0 being full reverse, 127 being neutral, and 254 being full forward - the Victor 884 adjusts the output of the motor accordingly. This achieves a variable speed control for such applications as [drivetrains](Drive_trains "Drive trains"), arms, or elevators.
 
 The nominal operating voltage of the MDL-BDC is 12 volts, while the MDL-BDC24 is capable of 24 volt operation as well. Both have a maximum operating current of 40 amps.

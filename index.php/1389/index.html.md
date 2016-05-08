@@ -71,7 +71,7 @@ organization").
 
 ### Engineering
 
-The [engineering](Engineering "Engineering") team designs and builds the [robot](Robot "Robot").
+The [engineering](Engineering "Engineering") team designs and builds the [robot](robot).
 
 ### Marketing/Public Relations
 

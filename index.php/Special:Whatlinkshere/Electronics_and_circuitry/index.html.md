@@ -19,8 +19,8 @@ cuitry&limit=50&from=0 "Special:Whatlinkshere/Electronics and circuitry") | [100
 p?title=Special:Whatlinkshere/Electronics_and_circuitry&limit=250&from=0 "Special:Whatlinkshere/Electronics and circuitry") | [500](/index.php?title=S
 pecial:Whatlinkshere/Electronics_and_circuitry&limit=500&from=0 "Special:Whatlinkshere/Electronics and circuitry")).
 
-- [Kit of parts](Kit_of_parts "Kit of parts")
-- [Programming](Programming "Programming")
+- [Kit of parts](kit-of-parts)
+- [Programming](programming)
 - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
 - [Technical](Technical "Technical")
 - [Innovation First, Inc.](Innovation_First%2C_Inc. "Innovation First, Inc.")

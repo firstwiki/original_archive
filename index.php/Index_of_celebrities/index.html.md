@@ -68,7 +68,7 @@ section: F")]
 
 ## F
 
-- [Flowers, Woodie](Woodie_Flowers "Woodie Flowers")
+- [Flowers, Woodie](woodie-flowers)
 - [Fultz, Chris](Chris_Fultz "Chris Fultz")
 
 [[edit](/index.php?title=Index_of_celebrities&action=edit&section=8 "Edit
@@ -103,7 +103,7 @@ section: K")]
 ## K
 
 - [Kelly, David](/index.php?title=David_Kelly&action=edit "David Kelly")
-- [Kamen, Dean](Dean_Kamen "Dean Kamen")
+- [Kamen, Dean](dean-kamen)
 - [Kamen, Libby](Libby_Kamen "Libby Kamen")
 - [Kelso, David](David_Kelso "David Kelso") - [UFH](Unsung_FIRST_Heroes "Unsung FIRST Heroes") - [WFA](Woodie_Flowers_Award "Woodie Flowers Award")
 

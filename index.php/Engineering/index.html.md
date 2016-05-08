@@ -8,7 +8,7 @@ Jump to: navigation, search
 
 ## Disciplines
 
-- [Electrical engineering](http://www.wikipedia.org/wiki/Electrical_engineering "wikipedia:Electrical_engineering") refers to the use knowledge of electromagnetics and often [programming](Programming "Programming") to develop electrical components for electrical machines, computers, computer chips and power systems. An offshoot of electrical engineering is [computer engineering](http://www.wikipedia.org/wiki/Computer_engineering "wikipedia:Computer_engineering"), which focuses on the design and development of computing systems.
+- [Electrical engineering](http://www.wikipedia.org/wiki/Electrical_engineering "wikipedia:Electrical_engineering") refers to the use knowledge of electromagnetics and often [programming](programming) to develop electrical components for electrical machines, computers, computer chips and power systems. An offshoot of electrical engineering is [computer engineering](http://www.wikipedia.org/wiki/Computer_engineering "wikipedia:Computer_engineering"), which focuses on the design and development of computing systems.
 - [Mechanical engineering](http://www.wikipedia.org/wiki/Mechanical_engineering "wikipedia:Mechanical_engineering") is the use of physical sciences to design and develop mechanical devices that covers a broad spectrum of offshoot disciplines, including:
 
   [Aerospace/aeronautical engineering](http://www.wikipedia.org/wiki/Aerospace_eningeering "wikipedia:Aerospace_eningeering") [Astronautical engineering](http://www.wikipedia.org/wiki/Astronautical_engineering "wikipedia:Astronautical_engineering") [Automotive engineering](http://www.wikipedia.org/wiki/Automotive_engineering "wikipedia:Automotive_engineering")

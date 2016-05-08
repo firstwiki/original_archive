@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **sprocket** is a gear or wheel with metal teeth that meshes with a chain or track. When connecting a sprocket to a [motor](Motor "Motor") or [transmission](Transmission "Transmission") to the [robot](Robot "Robot")'s [drive train](Drive_train "Drive train"), you can modify the overall gear ratio of the chain drive.
+A **sprocket** is a gear or wheel with metal teeth that meshes with a chain or track. When connecting a sprocket to a [motor](motor) or [transmission](Transmission "Transmission") to the [robot](robot)'s [drive train](drive-train), you can modify the overall gear ratio of the chain drive.
 
 ## External links
 

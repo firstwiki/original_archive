@@ -14,7 +14,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Maize_
 
 - [Stack Attack](Stack_Attack "Stack Attack")
 - [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar")
-- [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition")
+- [FIRST Robotics Competition](first-robotics-competition)
 - [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)")
 - [Zone Zeal](Zone_Zeal "Zone Zeal")
 - [Diabolical Dynamics](Diabolical_Dynamics "Diabolical Dynamics")

@@ -165,7 +165,7 @@ The following pages link to this file:
 - [118](118 "118")
 - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
 - [Downloading a program](Downloading_a_program "Downloading a program")
-- [Control system](Control_system "Control system")
+- [Control system](control-system)
 - [896](896 "896")
 - [1454](1454 "1454")
 - [521](521 "521")

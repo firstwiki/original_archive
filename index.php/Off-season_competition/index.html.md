@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-An **off-season competition** is like a miniature [regional](Regional "Regional") competition, except that it is run by [teams](Team "Team") or some other non-[FIRST](first) entity and may incorporate slight changes to the [rules](/index.php?title=FRC_Rules&action=edit "FRC Rules").
+An **off-season competition** is like a miniature [regional](Regional "Regional") competition, except that it is run by [teams](team) or some other non-[FIRST](first) entity and may incorporate slight changes to the [rules](/index.php?title=FRC_Rules&action=edit "FRC Rules").
 
 [[edit](/index.php?title=Off-season_competition&action=edit&section=1 "Edit
 section: See also")]

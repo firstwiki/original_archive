@@ -76,7 +76,7 @@ There were 3 robots at a time. A ball in the upper part of the tower was 3 point
 
 ## Misc Info
 
-Here is a video from the Xerox/Wilson High School Team ([FRC](FRC "FRC") [Team](Team "Team") [191](191 "191") under the modern FRC Team Numbering System), as they competed in the 1994 Archimedes Division. [[1]](http://video.google.com/videoplay?docid=7056934861850183073 "http://video.google.com/videoplay?docid=7056934861850183073")
+Here is a video from the Xerox/Wilson High School Team ([FRC](FRC "FRC") [Team](team) [191](191 "191") under the modern FRC Team Numbering System), as they competed in the 1994 Archimedes Division. [[1]](http://video.google.com/videoplay?docid=7056934861850183073 "http://video.google.com/videoplay?docid=7056934861850183073")
 
 ## Sources
 

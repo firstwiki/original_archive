@@ -68,7 +68,7 @@ _taken from [talk:FIRT LEGO League Teams](/index.php?title=Talk:FIRT_LEGO_League
 LEGO League Teams")_
 
 ```
-I was thinking maybe all FLL articles should be deprecated in terms of naming conventions so [team](Team "Team" ) points to the FRC page with a note about the FLL page somewhere on it. And [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) points to the FLL page. FIRSTwiki is primarily FRC related now, and I imagine it will always be much more FRC specific. I know, NPOV and such, but see my comment [Talk:Designing a team webpage](Talk:Designing_a_team_webpage "Talk:Designing a team webpage" ) \--[Max](User:Max "User:Max" ) 15:28, 30 Jun 2004 (EDT) 
+I was thinking maybe all FLL articles should be deprecated in terms of naming conventions so [team](team ) points to the FRC page with a note about the FLL page somewhere on it. And [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) points to the FLL page. FIRSTwiki is primarily FRC related now, and I imagine it will always be much more FRC specific. I know, NPOV and such, but see my comment [Talk:Designing a team webpage](Talk:Designing_a_team_webpage "Talk:Designing a team webpage" ) \--[Max](User:Max "User:Max" ) 15:28, 30 Jun 2004 (EDT) 
 
 
 
@@ -87,7 +87,7 @@ Maddie, I dislike ambiguous nomenclature too, but you can't apply a rule like no
 
 I decided this is important enough to actually go on the proper discussion page. Here is the list of proposed name changes:
 
-1. [FIRST Robotics Team](FIRST_Robotics_Team "FIRST Robotics Team") -> [Team](Team "Team")
+1. [FIRST Robotics Team](FIRST_Robotics_Team "FIRST Robotics Team") -> [Team](team)
 2. [FIRST LEGO League Team](FIRST_LEGO_League_Team "FIRST LEGO League Team") -> [Team (FLL)](Team_%28FLL%29 "Team \(FLL\)")
 3. [Index of FRC teams](Index_of_FRC_teams "Index of FRC teams") -> [Index of teams](Index_of_teams "Index of teams")
 4. [Index of FRC teams by region](Index_of_FRC_teams_by_region "Index of FRC teams by region") -> [Index of teams by region](Index_of_teams_by_region "Index of teams by region")

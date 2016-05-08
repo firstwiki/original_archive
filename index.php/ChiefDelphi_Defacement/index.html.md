@@ -13,7 +13,7 @@ clip.png)](Image:Screenshot.gif "Enlarge")
 
 ChiefDelphi Portal Screenshot
 
-On February 8, 2005 (with 13 days left in the build season) the [ChiefDelphi](ChiefDelphi "ChiefDelphi") forums, the primary communication medium of the FIRST community, was defaced. The front page was replaced with a defacement tag in what appears to be broken English and Portuguese. The Portuguese translates to "A hug for the people of gigachat".
+On February 8, 2005 (with 13 days left in the build season) the [ChiefDelphi](chiefdelphi) forums, the primary communication medium of the FIRST community, was defaced. The front page was replaced with a defacement tag in what appears to be broken English and Portuguese. The Portuguese translates to "A hug for the people of gigachat".
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

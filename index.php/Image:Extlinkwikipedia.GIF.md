@@ -32,9 +32,9 @@ See the [setup instructions](http://meta.wikimedia.org/wiki/Help:External_editor
 The following pages link to this file:
 
 - [Template:Wikipedia](Template:Wikipedia "Template:Wikipedia")
-- [Dean Kamen](Dean_Kamen "Dean Kamen")
+- [Dean Kamen](dean-kamen)
 - [FIRSTwiki:List of common misspellings](FIRSTwiki:List_of_common_misspellings "FIRSTwiki:List of common misspellings")
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 - [Ohm's Law](Ohm%27s_Law "Ohm's Law")
 - [User talk:Goobergunch](User_talk:Goobergunch "User talk:Goobergunch")
 - [FIRSTwiki:TeX help](FIRSTwiki:TeX_help "FIRSTwiki:TeX help")

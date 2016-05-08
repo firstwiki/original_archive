@@ -22,7 +22,7 @@ cial:Whatlinkshere/User:Brandon_Martus&limit=100&from=0 "Special:Whatlinkshere/U
 
   - [Index of people](Index_of_people "Index of people")
   - [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes")
-  - [ChiefDelphi](ChiefDelphi "ChiefDelphi")
+  - [ChiefDelphi](chiefdelphi)
   - [FIRSTwiki](FIRSTwiki "FIRSTwiki")
   - [FIRSTwiki talk:User questions](FIRSTwiki_talk:User_questions "FIRSTwiki talk:User questions")
   - [Index of celebrities](Index_of_celebrities "Index of celebrities")

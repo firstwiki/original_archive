@@ -32,7 +32,7 @@ The drill bit is gripped by a chuck at one end of the drill, and is pressed agai
 
 ### Electric drill
 
-Hand-held electric drills are ubiquitous. They usually look like a pistol, with a trigger-like switch. They are also used for driving screws. These drills typically employ a universal [motor](Motor "Motor") with brushes. Modern variable speed drills contain solid state phase control circuits that limit their use to AC power only. As a tradeoff, the electronics now give them variable speed, reversibility and [torque](Torque "Torque") control. Many drills are also cordless and use rechargeable batteries.
+Hand-held electric drills are ubiquitous. They usually look like a pistol, with a trigger-like switch. They are also used for driving screws. These drills typically employ a universal [motor](motor) with brushes. Modern variable speed drills contain solid state phase control circuits that limit their use to AC power only. As a tradeoff, the electronics now give them variable speed, reversibility and [torque](torque) control. Many drills are also cordless and use rechargeable batteries.
 
 ### Drill press
 

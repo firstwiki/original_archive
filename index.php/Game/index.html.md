@@ -11,7 +11,7 @@ A **game** is a form of play or sport, esp. a competitive one played according t
 Game may also refer to:
 
 - [Game (FTC)](Game_%28FTC%29 "Game \(FTC\)"), games for the organization [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge")
-- [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)"), games for the organization [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition")
+- [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)"), games for the organization [FIRST Robotics Competition](first-robotics-competition)
 - [Game (FLL)](Game_%28FLL%29 "Game \(FLL\)"), games for the organization [FIRST Lego League](FIRST_Lego_League "FIRST Lego League")
 
 Retrieved from "<http://www.firstwiki.netGame_%28disambiguation%29>"

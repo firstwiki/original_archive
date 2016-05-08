@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Modifying a servo** is useful if you want to use a [servo](Servo "Servo") as a small motor, without restrictions on rotation and without sending a [PWM signal](PWM_signal "PWM signal"). [Servos](Servo "Servo") are small geared [motors](Motor "Motor") that usually have low power outputs. Their [RPM](/index.php?title=RPM&action=edit "RPM") is reduced and their rotational range of motion is limited to, usually, a full rotation or even less.
+**Modifying a servo** is useful if you want to use a [servo](servo) as a small motor, without restrictions on rotation and without sending a [PWM signal](PWM_signal "PWM signal"). [Servos](servo) are small geared [motors](motor) that usually have low power outputs. Their [RPM](/index.php?title=RPM&action=edit "RPM") is reduced and their rotational range of motion is limited to, usually, a full rotation or even less.
 
 Servos are very useful for rotating small parts in small angles. However, one often wants to have full rotation.
 
@@ -30,7 +30,7 @@ section: Why Modify the Servo?")]
 
 ## Why Modify the Servo?
 
-If you want to use a [servo](Servo "Servo") as a small motor, without restrictions on rotation and without sending a [PWM signal](PWM_signal "PWM signal"), modify the servo as follows.
+If you want to use a [servo](servo) as a small motor, without restrictions on rotation and without sending a [PWM signal](PWM_signal "PWM signal"), modify the servo as follows.
 
 [[edit](/index.php?title=Modifying_a_servo&action=edit&section=2 "Edit
 section: Theory")]
@@ -61,7 +61,7 @@ First, some basic engineering precautions:
 - Use caution when [soldering](Soldering "Soldering").
 - Clean up any pieces of wire to avoid [short circuiting](Short_circuit "Short circuit").
 
-Some [PWM cables](PWM_cable "PWM cable") might have brown, red, and yellow wires instead of black, red, and white wires. In that case "black" means "brown," and "white" means "yellow." The red wire remains the same.
+Some [PWM cables](pwm-cable) might have brown, red, and yellow wires instead of black, red, and white wires. In that case "black" means "brown," and "white" means "yellow." The red wire remains the same.
 
 Do the following pre-modification steps:
 
@@ -76,7 +76,7 @@ section: Electrical Modifications")]
 
 ### Electrical Modifications
 
-1. Loosen the [PWM cable](PWM_cable "PWM cable") holder (a rubber piece).
+1. Loosen the [PWM cable](pwm-cable) holder (a rubber piece).
 2. Cut the black, white, and red wires. Be sure to cut very close to the solder connections.
 3. Pull the PWM cable holder back.
 4. Pull the black, white, and red wires apart.

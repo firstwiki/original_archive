@@ -44,7 +44,7 @@ eerr, or we could link to the wiktionary articles....I'll go ahead and do that [
 Not sure I agree that this article should be about the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition"). Couple of things I'm thinking here...
 
-- The [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") page redirects to [FIRST](first)
+- The [FIRST Robotics Competition](first-robotics-competition) page redirects to [FIRST](first)
 - The [FIRST](first) page says at the top that FLL has its own alternative page. That doesn't make sense. FIRST is a non-profit organization, not a competition.
 
 Therefore in my opinion the content of the [FIRST](first) page should be copied over to the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics

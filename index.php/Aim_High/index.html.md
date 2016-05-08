@@ -118,7 +118,7 @@ There were several changes in the [kit of parts](Kit_of_parts "Kit
 of parts") this year,
 
 - The inclusion of the [National Instruments](/index.php?title=National_Instruments&action=edit "National Instruments") [LabVIEW](LabVIEW "LabVIEW") program
-- CMUCam II, including a pan/tilt assembly with [servos](Servo "Servo"), designed to follow an illuminated target
+- CMUCam II, including a pan/tilt assembly with [servos](servo), designed to follow an illuminated target
 - A new robot controller, based on the PIC18F8722, instead of the PIC18F8520
 - New EasyC programming tool
 - New, wider CIM motors with drive belts

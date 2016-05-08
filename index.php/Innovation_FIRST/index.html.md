@@ -17,7 +17,7 @@ _First%2C_Inc.&action=edit") to make a significant article. _See more [stubs](Sp
 
 ---|---
 
-**Innovation First, Inc.**, or **IFI**, is was an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry") for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition").
+**Innovation First, Inc.**, or **IFI**, is was an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry") for the [FIRST Robotics Competition](first-robotics-competition).
 
 ## Contents
 
@@ -33,7 +33,7 @@ section: History")]
 
 ## History
 
-Before 2009, IFI used to provide the main parts of the [control system](Control_system "Control system") for the robot. Since then it has been replaced by [National Instruments](/index.php?title=National_Instruments&action=edit "National
+Before 2009, IFI used to provide the main parts of the [control system](control-system) for the robot. Since then it has been replaced by [National Instruments](/index.php?title=National_Instruments&action=edit "National
 Instruments").
 
 [[edit](/index.php?title=Innovation_First%2C_Inc.&action=edit&section=2 "Edit

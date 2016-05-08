@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **servomechanism**, usually called a **servo** is like a [motor](Motor "Motor"), expcept that it's axle goes to a specific place instead of just spinning. They are connected to the [robot controller](robot-controller) through a [PWM](pwm) interface.
+A **servomechanism**, usually called a **servo** is like a [motor](motor), expcept that it's axle goes to a specific place instead of just spinning. They are connected to the [robot controller](robot-controller) through a [PWM](pwm) interface.
 
 ## Continuous Rotation Servo
 

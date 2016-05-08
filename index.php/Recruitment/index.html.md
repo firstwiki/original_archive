@@ -46,4 +46,4 @@ Teams that can clearly convey these 2 important facts about FIRST to your school
 
 ## Outside Sources for Ideas
 
-- As always, [the ChiefDelphi forum](ChiefDelphi "ChiefDelphi") is an excellent place to look for ideas.
+- As always, [the ChiefDelphi forum](chiefdelphi) is an excellent place to look for ideas.

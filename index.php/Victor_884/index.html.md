@@ -20,15 +20,15 @@ controller.html")<br>
 Data Sheet: | [884 Users' Manual](http://content.vexrobotics.com/docs/ifi-v884
 -users-manual-9-25-06.pdf "http://content.vexrobotics.com/docs/ifi-v884-users-
 manual-9-25-06.pdf")<br>
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -47,12 +47,12 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - **Victor 884**
   - [Spike](spike-relay)
@@ -60,17 +60,17 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
 The **Victor 884** is a [speed controller](Speed_Controller "Speed
-Controller") developed by [Innovation FIRST](Innovation_FIRST "Innovation FIRST") as an improved version of the [Victor 883](victor-883). The Victor 884 works by reading a [PWM](pwm) signal from a [robot controller](robot-controller), and adjusting the effective voltage supplied to the motors accordingly. The Victor 884 was the only FIRST legal speed controller allowed in the [2005](triple-play) [control system](Control_system "Control system").
+Controller") developed by [Innovation FIRST](Innovation_FIRST "Innovation FIRST") as an improved version of the [Victor 883](victor-883). The Victor 884 works by reading a [PWM](pwm) signal from a [robot controller](robot-controller), and adjusting the effective voltage supplied to the motors accordingly. The Victor 884 was the only FIRST legal speed controller allowed in the [2005](triple-play) [control system](control-system).
 
 ## Contents
 
@@ -100,7 +100,7 @@ clip.png)](Image:Victor-884.gif "Enlarge")
 
 The Victor 884 Speed Controller. Image source: [Innovation FIRST](Innovation_FIRST "Innovation FIRST")
 
-The Victor 884 is part of the FIRST [control system](Control_system "Control system"). The Victor 884 works by recieving a [PWM signal](PWM_signal "PWM signal") input from a [robot controller](robot-controller), which may include the (full) [Robot Controller](Robot_Controller "Robot
+The Victor 884 is part of the FIRST [control system](control-system). The Victor 884 works by recieving a [PWM signal](PWM_signal "PWM signal") input from a [robot controller](robot-controller), which may include the (full) [Robot Controller](Robot_Controller "Robot
 Controller"), the [Robovation](robovation) controller or a [Vex](Vex "Vex") Controller. Depending on the range of the [PWM](pwm) signal - with 0 being full reverse, 127 being neutral, and 254 being full forward - the Victor 884 adjusts the output of the motor accordingly. This achieves a variable speed control for such applications as [drivetrains](Drive_trains "Drive trains"), arms, or elevators.
 
 The operating voltage of the Victor 884 ranges from 6V to 15V DC, with a maximum operating current of 40 amps. The variable output from the Victor 884 ranges from 3% to 100% of full throttle. A cooling fan operated by the input voltage of the speed controller insures that the Victor 884 is continously cooled.
@@ -119,11 +119,11 @@ Typically, a robot will use 'coast' mode on most drive motors, as abrupt stops c
 
 ### Data
 
-A 3-pin [PWM cable](PWM_cable "PWM cable") connects the Victor 884 to the [robot controller](robot-controller). On the Robot Controller, the PWM cable destined for the Victor 884 speed controller should be connected to the "[PWM output](/index.php?title=PWM_output&action=edit "PWM output")" set of ports. A [relay extension cable](/index.php?title=Relay_extension_cable&action=edit "Relay extension cable") or a [Y-cable](/index.php?title=Y-cable&action=edit "Y-cable") may be used if the Victor is mounted far away from the Controller or if one wants a single PWM output port on the Controller to control multiple Victors.
+A 3-pin [PWM cable](pwm-cable) connects the Victor 884 to the [robot controller](robot-controller). On the Robot Controller, the PWM cable destined for the Victor 884 speed controller should be connected to the "[PWM output](/index.php?title=PWM_output&action=edit "PWM output")" set of ports. A [relay extension cable](/index.php?title=Relay_extension_cable&action=edit "Relay extension cable") or a [Y-cable](/index.php?title=Y-cable&action=edit "Y-cable") may be used if the Victor is mounted far away from the Controller or if one wants a single PWM output port on the Controller to control multiple Victors.
 
 ### Input
 
-The two [input](Input "Input") terminals on the Victor supply the power needed to run the speed controller, the cooling fan, and the motor output. The cooling fan on the Victor 884 should be wired into the two input terminals. This insures that the speed controller stays cool whenever the Victor is on. If wired incorrectly to the output terminals, the cooling fan will only work when the output motor is being driven, which will lead to over heating and the possible release of [magic smoke](Magic_smoke "Magic smoke").
+The two [input](input) terminals on the Victor supply the power needed to run the speed controller, the cooling fan, and the motor output. The cooling fan on the Victor 884 should be wired into the two input terminals. This insures that the speed controller stays cool whenever the Victor is on. If wired incorrectly to the output terminals, the cooling fan will only work when the output motor is being driven, which will lead to over heating and the possible release of [magic smoke](Magic_smoke "Magic smoke").
 
 The two input wires must be correctly wired to match their polarity. If the polarity of the input wires is switched, the speed controller may cease to function. Sparks, arcing, fire, burning smells, or [magic smoke](Magic_smoke "Magic smoke") may indicate that a Victor 884 was wired incorrectly, and hence has also been destroyed.
 

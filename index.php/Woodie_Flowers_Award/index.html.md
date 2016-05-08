@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Woodie Flowers Award**, named after [Woodie Flowers](Woodie_Flowers "Woodie Flowers"), celebrates effective communication in the art and science of engineering and design. [Dr. William Murphy](/index.php?title=Dr._William_Murphy&action=edit "Dr. William Murphy") and Small Parts, Inc. began this prestigious award in 1996 to recognize mentors who lead, inspire, and empower using excellent communication skills. In simpler terms, a good WFA candidate is someone who works with students, both teaching them and inspiring them in their goals.
+The **Woodie Flowers Award**, named after [Woodie Flowers](woodie-flowers), celebrates effective communication in the art and science of engineering and design. [Dr. William Murphy](/index.php?title=Dr._William_Murphy&action=edit "Dr. William Murphy") and Small Parts, Inc. began this prestigious award in 1996 to recognize mentors who lead, inspire, and empower using excellent communication skills. In simpler terms, a good WFA candidate is someone who works with students, both teaching them and inspiring them in their goals.
 
 The candidate for the award is picked by the students on each team. The students then write an essay describing the qualities of their candidate.
 
@@ -37,7 +37,7 @@ Mainieri")<br>
 1999 | [Ken Patton](Ken_Patton "Ken Patton")<br>
 1998 | [Michael Bastoni](/index.php?title=Michael_Bastoni&action=edit "Michael Bastoni")<br>
 1997 | [Elizabeth Calef](/index.php?title=Elizabeth_Calef&action=edit "Elizabeth Calef")<br>
-1996 | [Woodie Flowers](Woodie_Flowers "Woodie Flowers")
+1996 | [Woodie Flowers](woodie-flowers)
 
 ## [Awards](Awards "Awards")
 

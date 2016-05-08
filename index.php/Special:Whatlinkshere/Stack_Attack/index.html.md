@@ -14,7 +14,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Stack_
 
 - [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar")
 - [FIRST](first)
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [M647 (647)](M647_%28647%29 "M647 \(647\)")
 - [The Proffessor (1110)](The_Proffessor_%281110%29 "The Proffessor \(1110\)")
 - [Game](Game "Game")

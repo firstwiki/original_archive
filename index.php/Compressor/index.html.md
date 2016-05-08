@@ -14,7 +14,7 @@ clip.png)](Image:Compressor.PNG "Enlarge")
 
 The compressor supplied in the 2008 Kit of Parts.
 
-An **air compressor** is a [pneumatics](Pneumatics "Pneumatics") component used to compress air for powering pneumatics systems.
+An **air compressor** is a [pneumatics](pneumatics) component used to compress air for powering pneumatics systems.
 
 ## Contents
 
@@ -45,7 +45,7 @@ A voltage of +12v is nessecary to run the compressor. Damage to the compressor w
 
 [Thomas Industries](http://www.thomasind.com "http://www.thomasind.com").
 
-_**[Pneumatics](Pneumatics "Pneumatics") Parts:**_<br>
+_**[Pneumatics](pneumatics) Parts:**_<br>
 [Cylinder](Cylinder "Cylinder") | [Solenoid](Solenoid "Solenoid") | **Compressor** | [Storage tank](Storage_tank "Storage tank") | [Rotary actuator](Rotary_actuator "Rotary
 actuator") | [Pressure regulator](Pressure_regulator "Pressure
 regulator") | [Pressure switch](Pressure_switch "Pressure switch"

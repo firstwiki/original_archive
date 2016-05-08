@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-These are the [teams'](Team "Team") yearly [robot](Robot "Robot") entries. The robot name is the first part of the title; the number in parenthesis indicates the [team number](Team_number "Team number").
+These are the [teams'](team) yearly [robot](robot) entries. The robot name is the first part of the title; the number in parenthesis indicates the [team number](Team_number "Team number").
 
 ## Articles in category "Robots"
 

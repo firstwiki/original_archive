@@ -6,15 +6,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - **PID controller**
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -33,12 +33,12 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
@@ -46,22 +46,22 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-A **Proportional-Integral-Derivative controller** is a [closed loop](Closed_loop "Closed loop") [feedback](/index.php?title=Feedback&action=edit "Feedback") control. It is used to get some device to reach a _setpoint_ by reacting based on the [error](Error "Error") of the system. The [program](Programming "Programming") reads in [input](Input "Input") from a [sensor](Sensor "Sensor") and reacts based on the difference between the sensor reading and the setpoint (the desired sensor reading) in three ways.
+A **Proportional-Integral-Derivative controller** is a [closed loop](closed-loop) [feedback](/index.php?title=Feedback&action=edit "Feedback") control. It is used to get some device to reach a _setpoint_ by reacting based on the [error](error) of the system. The [program](programming) reads in [input](input) from a [sensor](sensor) and reacts based on the difference between the sensor reading and the setpoint (the desired sensor reading) in three ways.
 
 - The error is multiplied by a **proportional** constant P. This handles the present, basing the output proportionally on the error.
 - The error is integrated (or summed) over a time period and then multiplied by an **integral** constant I. This handles the past, basing the output on how long the error has persisted.
 - The first derivative of the error (its rate of change, often the difference between the current and previous error is used) is calculated with respect to time and then multiplied by a **derivative** constant D. This handles the future, basing output on how quickly the error is changing.
 
-The sum of these calculations is then added to the last [output](Output "Output") of the PID loop.
+The sum of these calculations is then added to the last [output](output) of the PID loop.
 
 ## Contents
 
@@ -79,7 +79,7 @@ The sum of these calculations is then added to the last [output](Output "Output"
 
 ## Theory
 
-_Control_ refers to applying input (e.g., sensor readings) to cause a certain system to conform to desired values (e.g, having an "arm" move to some position). [Open loop](Open_loop "Open loop") control does not use feedback, meaning it does not continuously update its input. [Closed loop](Closed_loop "Closed loop") control continuously measures the system variables and corrects the output based on this feedback. Closed loop control adjusts to a dynamic environment where everything is not known exactly. PID control is a specific type of closed loop control, and adjusts the output using proportional, integral, and derivative terms. It is based on control theory, heavy in mathematics (it is actually a differential equation), and is a widely used filter mechanism. For most applications related to [FIRST](first), simplified results of control theory can be used without needing to know advanced mathematical equations.
+_Control_ refers to applying input (e.g., sensor readings) to cause a certain system to conform to desired values (e.g, having an "arm" move to some position). [Open loop](open-loop) control does not use feedback, meaning it does not continuously update its input. [Closed loop](closed-loop) control continuously measures the system variables and corrects the output based on this feedback. Closed loop control adjusts to a dynamic environment where everything is not known exactly. PID control is a specific type of closed loop control, and adjusts the output using proportional, integral, and derivative terms. It is based on control theory, heavy in mathematics (it is actually a differential equation), and is a widely used filter mechanism. For most applications related to [FIRST](first), simplified results of control theory can be used without needing to know advanced mathematical equations.
 
 The general equation for proportional control is
 
@@ -87,7 +87,7 @@ Pout=Kerr*Kp where Pout is the output, Kerr= Target value-Current value, and Kp 
 
 ## Application
 
-PID control is very useful in robotics. It is a way to make sure that what is supposed to happen actually happens, despite a changing environment that can't be controlled. For instance, PID control might be applied to driving the robot, to compensate for wheel slippage and running into obstacles that offer resistance or it might be applied to an "arm" to make it move to the desired position and then resist backdrive due to gravity. There is no shortage of applications. Almost wherever a sensor is used, a PID loop _could_ add for additional control. However, it is not always desirable. It increases the code's complexity and creates at least three constants that must be finely tuned (see below). Also, if the sensor fails, called "going open loop," very undesirable results can happen, depending on how the sensor failed (see below). Despite these disadvantages, though, a PID control can be beneficial to a wide variety of applications. For something that cannot be known fully beforehand [dead reckoning](Dead_reckoning "Dead reckoning") does not work well; but, this is exactly where PID control shines. If, for instance, a robot has a tendency to veer toward some direction besides straight, using [wheel encoders](/index.php?title=Wheel_encoders&action=edit "Wheel encoders") and PID control would be able to correct the problem.
+PID control is very useful in robotics. It is a way to make sure that what is supposed to happen actually happens, despite a changing environment that can't be controlled. For instance, PID control might be applied to driving the robot, to compensate for wheel slippage and running into obstacles that offer resistance or it might be applied to an "arm" to make it move to the desired position and then resist backdrive due to gravity. There is no shortage of applications. Almost wherever a sensor is used, a PID loop _could_ add for additional control. However, it is not always desirable. It increases the code's complexity and creates at least three constants that must be finely tuned (see below). Also, if the sensor fails, called "going open loop," very undesirable results can happen, depending on how the sensor failed (see below). Despite these disadvantages, though, a PID control can be beneficial to a wide variety of applications. For something that cannot be known fully beforehand [dead reckoning](dead-reckoning) does not work well; but, this is exactly where PID control shines. If, for instance, a robot has a tendency to veer toward some direction besides straight, using [wheel encoders](/index.php?title=Wheel_encoders&action=edit "Wheel encoders") and PID control would be able to correct the problem.
 
 It is worth mentioning that many systems are simple enough that a full PID loop is not needed. Often a simple P loop (based soley on proportional control, where I=D=0) is sufficient. Factors such as the speed that the system can respond, the granularity of input, and the expected amount of disturbances affect this, and if these are changed, more advanced control may then be needed. A general rule of thumb in all of engineering is to start out simple, and only add complexity where it is absolutely necessary. Complex things are hard to fix and tend to break more easily. Simple things are much easier to devlop.
 
@@ -97,7 +97,7 @@ A PID loop is useless without the correct constants. If these are too high or to
 
 ## Going open loop
 
-"Going open loop" refers to a closed loop control that loses its input. This might happen because the sensor becomes jostled out of the input slot on the [Robot Controller](robot-controller), wear and tear (aided by walls and opposing robots many times), the [PWM cable](PWM_cable "PWM cable") fails, or some other problem. If the sensor is damaged and the system is not at the setpoint, it will try to reach the setpoint as per the control, but the computer will never think it has reached the setpoint since it is getting an incorrect and non-updated value. This is mentioned because it can be a **safety risk** on certain systems, causing an arm, for instance, to flail about wildly, damaging the robot, passers-by, or both. If strange behaivor is observed on a previously working control loop, check the sensors to make sure the correct values are being read, and that the sensor is functioning.
+"Going open loop" refers to a closed loop control that loses its input. This might happen because the sensor becomes jostled out of the input slot on the [Robot Controller](robot-controller), wear and tear (aided by walls and opposing robots many times), the [PWM cable](pwm-cable) fails, or some other problem. If the sensor is damaged and the system is not at the setpoint, it will try to reach the setpoint as per the control, but the computer will never think it has reached the setpoint since it is getting an incorrect and non-updated value. This is mentioned because it can be a **safety risk** on certain systems, causing an arm, for instance, to flail about wildly, damaging the robot, passers-by, or both. If strange behaivor is observed on a previously working control loop, check the sensors to make sure the correct values are being read, and that the sensor is functioning.
 
 ## Positive Feedback
 
@@ -114,17 +114,17 @@ system")
 
 ## See also
 
-- [Sensors](Sensors "Sensors")
+- [Sensors](sensor)
 - [Feedback](/index.php?title=Feedback&action=edit "Feedback")
-- [Open loop](Open_loop "Open loop")
-- [Closed loop](Closed_loop "Closed loop")
+- [Open loop](open-loop)
+- [Closed loop](closed-loop)
 
 ## External Links
 
 - [PIDlab.com](http://www.pidlab.com "http://www.pidlab.com") - PID controller laboratory - free Java applets for PID tuning
 - See [PID controller](http://www.wikipedia.org/wiki/PID_controller "wikipedia:PID_controller") for more information
 - [Larry Barello](/index.php?title=Larry_Barello&action=edit "Larry Barello") gives a description of various robots he has worked on, and an overview of [PID control](http://www.barello.net/Papers/Motion_Control/index.htm "http://www.barello.net/Papers/Motion_Control/index.htm") (scroll down, code included)
-- Several [ChiefDelphi](ChiefDelphi "ChiefDelphi") threads related to this issue: ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=24340 "http://www.chiefdelphi.com/forums/showthread.php?t=24340"), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=27978 "http://www.chiefdelphi.com/forums/showthread.php?t=27978"))
+- Several [ChiefDelphi](chiefdelphi) threads related to this issue: ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=24340 "http://www.chiefdelphi.com/forums/showthread.php?t=24340"), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=27978 "http://www.chiefdelphi.com/forums/showthread.php?t=27978"))
 
 [![Image:LinkFA-star.png](/media/6/60/LinkFA-star.png)](Image
 :LinkFA-star.png "Image:LinkFA-star.png")

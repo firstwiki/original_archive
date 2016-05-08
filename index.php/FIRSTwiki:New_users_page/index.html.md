@@ -26,7 +26,7 @@ Jump to: navigation, search
 
 --------------------------------------------------------------------------------
 
-**Welcome** to the [FIRSTwiki](FIRSTwiki "FIRSTwiki"), a collaborative project of the [FIRST community](FIRST_community "FIRST community") to provide an historical record and other resources for the [FIRST Robotics Program](first).
+**Welcome** to the [FIRSTwiki](FIRSTwiki "FIRSTwiki"), a collaborative project of the [FIRST community](first-community) to provide an historical record and other resources for the [FIRST Robotics Program](first).
 
 [[edit](/index.php?title=FIRSTwiki:New_users_page&action=edit&section=1 "Edit
 section: What we are")]

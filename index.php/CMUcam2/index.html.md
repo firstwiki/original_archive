@@ -13,15 +13,15 @@ FIRST_logo.gif)](Image:FIRST_logo.gif)
 
 ---|---
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -40,28 +40,28 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - **CMUcam2**
 
 --------------------------------------------------------------------------------
 
-The **CMUcam2** is a vision system given to teams in the [kit of parts](Kit_of_parts "Kit of parts"), starting in [2005](triple-play).
+The **CMUcam2** is a vision system given to teams in the [kit of parts](kit-of-parts), starting in [2005](triple-play).
 
 The camera communicates with the [full robot controller](Full_robot_controller "Full robot controller") via the [TTL](/index.php?title=TTL&action=edit "TTL") port, with an TTL/RS-232 converter and buffer provided by [Innovation First](Innovation_First%2C_Inc. "Innovation First, Inc."). The camera is commonly mounted to two servos in order to locate objects.
 

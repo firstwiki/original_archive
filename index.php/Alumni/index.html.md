@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Alumni** are former [FIRST](first) [team](Team "Team") members. They are encouraged (but hardly obligated) to continually consider [gracious professionalism](Gracious_professionalism "Gracious professionalism") and maintain a connection to FIRST, perhaps by becoming [mentors](Mentor "Mentor") or by entering a field in [engineering](Engineering "Engineering").
+**Alumni** are former [FIRST](first) [team](team) members. They are encouraged (but hardly obligated) to continually consider [gracious professionalism](Gracious_professionalism "Gracious professionalism") and maintain a connection to FIRST, perhaps by becoming [mentors](Mentor "Mentor") or by entering a field in [engineering](Engineering "Engineering").
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

@@ -8,14 +8,14 @@ Hint"))
 Jump to: navigation, search
 
 Every year, [FIRST](first) makes a tradition of releasing an official hint about the upcoming season's [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
-Competition") [game](Game "Game") before the [kickoff](Kickoff "Kickoff"). In an e-mail blast sent to all teams, FIRST indicated its official hint for the [untitled 2005 game](Untitled_2005_game "Untitled 2005 game") on December 30, 2004.
+Competition") [game](Game "Game") before the [kickoff](kickoff). In an e-mail blast sent to all teams, FIRST indicated its official hint for the [untitled 2005 game](Untitled_2005_game "Untitled 2005 game") on December 30, 2004.
 
 [[edit](/index.php?title=Triple_Play/Official_hint&action=edit&section=1 "Edit
 section: The Official Hint")]
 
 ## The Official Hint
 
-The official hint was announced through a FIRST [email blast](/index.php?title=Email_blast&action=edit "Email blast"), later republished on [ChiefDelphi](ChiefDelphi "ChiefDelphi") in the thread [**FIRST EMAIL**/Special Communication from the Game Design Committee](http://www.chiefdelphi.com/forums/showthread.php?threadid=32009 "cdthread:32009").
+The official hint was announced through a FIRST [email blast](/index.php?title=Email_blast&action=edit "Email blast"), later republished on [ChiefDelphi](chiefdelphi) in the thread [**FIRST EMAIL**/Special Communication from the Game Design Committee](http://www.chiefdelphi.com/forums/showthread.php?threadid=32009 "cdthread:32009").
 
 > Greetings Teams:
 
@@ -40,7 +40,7 @@ section: Analysis and Speculation")]
 
 ## Analysis and Speculation
 
-The [ChiefDelphi](ChiefDelphi "ChiefDelphi") community is analyzing the hint at [Official 2005 Clue Thread](http://www.chiefdelphi.com/forums/showthread.php?threadid=32010 "cdthread:32010") (and a bit in [THE 2005 HINT!!!!!!!!!](http://www.chiefdelphi.com/forums/showthread.php?threadid=31835 "cdthread:31835")).
+The [ChiefDelphi](chiefdelphi) community is analyzing the hint at [Official 2005 Clue Thread](http://www.chiefdelphi.com/forums/showthread.php?threadid=32010 "cdthread:32010") (and a bit in [THE 2005 HINT!!!!!!!!!](http://www.chiefdelphi.com/forums/showthread.php?threadid=31835 "cdthread:31835")).
 
 Retrieved from "<http://www.firstwiki.netTriple_Play/Official_hint>"
 

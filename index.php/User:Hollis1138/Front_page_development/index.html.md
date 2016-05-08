@@ -45,7 +45,7 @@ Raising the Bar") - [Modifying a servo](Modifying_a_servo "Modifying a servo")
 
 ## What's happening now
 
-- [FIRST](first) announces a new control system for the 2009 [FRC](FIRST_Robotics_Competition "FIRST Robotics Competition") season. [Read More...](Robot_Controller_%282009%29 "Robot Controller \(2009\)")
+- [FIRST](first) announces a new control system for the 2009 [FRC](first-robotics-competition) season. [Read More...](Robot_Controller_%282009%29 "Robot Controller \(2009\)")
 - In a move that will have significant impact on the [FIRST LEGO League](FIRST_Lego_League "FIRST Lego League") program, LEGO Group announces new version of LEGO Minstorms - LEGO Mindstorms NXT - [Read More...](NXT "NXT")
 - Upgraded to MediaWiki 1.5.3 on December 12, 2005
 - [FIRSTcast](FIRSTcast "FIRSTcast") (a podcast about first) launches September 5th, 2005\.
@@ -62,13 +62,13 @@ On **[Teams](Teams "Teams")**
 
 On **[Competitions](Competitions "Competitions")**
 
-- **[FRC](FIRST_Robotics_Competition "FIRST Robotics Competition"):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Awards](Awards "Awards") - [Games](Game "Game")
+- **[FRC](first-robotics-competition):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Awards](Awards "Awards") - [Games](Game "Game")
 - **[FLL](FIRST_LEGO_League "FIRST LEGO League"):** [Events](Category:FLL_Events "Category:FLL Events") - [Challenges](FLL_Challenges "FLL Challenges") - [Awards](FLL_Awards "FLL Awards")
 - **[FTC](Vex "Vex"):** [Events](Index_of_events_%28Vex%29 "Index of events \(Vex\)") - [Games](Game_%28Vex%29 "Game \(Vex\)") - [Awards](Awards_%28Vex%29 "Awards \(Vex\)")
 
 On **[Technical Topics](Technical "Technical")**
 
-- [Kit of parts](Kit_of_parts "Kit of parts") ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](Motors "Motors") - [Pneumatics](Pneumatics "Pneumatics") - [Control system](Control_system "Control system") - [Programming](Programming "Programming") - [3D graphics](3D_graphics "3D graphics") - [Physics](Physics "Physics") - [Suppliers](Suppliers "Suppliers")
+- [Kit of parts](kit-of-parts) ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](motors) - [Pneumatics](pneumatics) - [Control system](control-system) - [Programming](programming) - [3D graphics](3D_graphics "3D graphics") - [Physics](physics) - [Suppliers](Suppliers "Suppliers")
 
 On **[Non-Technical Topics](Non-technical "Non-technical")**
 

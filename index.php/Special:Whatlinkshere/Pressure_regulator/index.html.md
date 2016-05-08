@@ -16,7 +16,7 @@ Whatlinkshere/Pressure_regulator&limit=100&from=0 "Special:Whatlinkshere/Pressur
 Whatlinkshere/Pressure_regulator&limit=250&from=0 "Special:Whatlinkshere/Pressure regulator") | [500](/index.php?title=Special:
 Whatlinkshere/Pressure_regulator&limit=500&from=0 "Special:Whatlinkshere/Pressure regulator")).
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 - [Solenoid](Solenoid "Solenoid")
 - [Cylinder](Cylinder "Cylinder")
 - [Compressor](Compressor "Compressor")

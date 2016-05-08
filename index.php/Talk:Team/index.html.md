@@ -14,5 +14,5 @@ I'm not sure why I said that, at least according to the current FRC-takes-priori
 
 It just seems odd that [Teams](Teams "Teams" ) is a disambiguation page, while this isn't. --[Goobergunch](User:Goobergunch "User:Goobergunch" ) 13:16, 7 Aug 2004 (EDT) 
 
-Ah, good point, in my new name scheme, I didn't include any provisions for Disambiguation. I don't really think they are neccesary, but, if everyone wants it, we could put a _This page is about [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) see the corresponding [FLL](FLL "FLL" ) page [link to FLL page](/index.php?title=Link_to_FLL_page&action=edit "Link to FLL page" )._ \--[Max](User:Max "User:Max" ) 01:38, 8 Aug 2004 (EDT) 
+Ah, good point, in my new name scheme, I didn't include any provisions for Disambiguation. I don't really think they are neccesary, but, if everyone wants it, we could put a _This page is about [FIRST Robotics Competition](first-robotics-competition ) see the corresponding [FLL](FLL "FLL" ) page [link to FLL page](/index.php?title=Link_to_FLL_page&action=edit "Link to FLL page" )._ \--[Max](User:Max "User:Max" ) 01:38, 8 Aug 2004 (EDT) 
 ```

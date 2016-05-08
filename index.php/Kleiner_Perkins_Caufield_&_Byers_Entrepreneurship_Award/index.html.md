@@ -25,7 +25,7 @@ Further information might be found on the [talk page](/index.php?title=Talk:Kl
 einer_Perkins_Caufield_%26_Byers_Entrepreneurship_Award&action=edit "Talk:Kleiner Perkins Caufield & Byers Entrepreneurship Award") or at [requests for expansion](FIRSTwiki:Requests_for_expansion "FIRSTwiki:Requests for expansion").<br>
 ---|---
 
-The **Kleiner Perkins Caufield & Byers Entrepreneurship Award** celebrates the entrepreneurial spirit. This award recognizes a [team](Team "Team"), which since its inception has developed the framework for a comprehensive business plan in order to scope, manage, and obtain team objectives. This team displays entrepreneurial enthusiasm and the vital business skills for a self-sustaining program.
+The **Kleiner Perkins Caufield & Byers Entrepreneurship Award** celebrates the entrepreneurial spirit. This award recognizes a [team](team), which since its inception has developed the framework for a comprehensive business plan in order to scope, manage, and obtain team objectives. This team displays entrepreneurial enthusiasm and the vital business skills for a self-sustaining program.
 
 ## [Awards](Awards "Awards")
 

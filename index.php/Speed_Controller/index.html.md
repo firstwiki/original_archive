@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-A **speed controller** is a device that processes an input signal to control the speed of a [motor](Motor "Motor"). This is accomplished by controlling the voltage delivered to the motor.
+A **speed controller** is a device that processes an input signal to control the speed of a [motor](motor). This is accomplished by controlling the voltage delivered to the motor.
 
 ## Speed Controller Design
 

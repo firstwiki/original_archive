@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A major component of the functionality of a [robot](Robot "Robot"). The control system is user to control electrticity to use for motors, lights, and more.
+A major component of the functionality of a [robot](robot). The control system is user to control electrticity to use for motors, lights, and more.
 
 ## Contents
 
@@ -21,13 +21,13 @@ section: Components")]
 
 ## Components
 
-- [Control system](Control_system "Control system")
+- [Control system](control-system)
 - [Battery](Battery "Battery")
 
   - [12V battery](12V_battery "12V battery")
   - [7.2V backup battery](7.2V_backup_battery "7.2V backup battery")
 
-- [Motors](Motors "Motors")
+- [Motors](motors)
 - [Circuit breaker](Circuit_breaker "Circuit breaker")
 - [Wire](Wire "Wire")
 
@@ -48,7 +48,7 @@ section: Control")]
 
 ### Control
 
-Electricity can be used to control other elements of a robot such as [pneumatics](Pneumatics "Pneumatics") with [solenoids](Solenoid "Solenoid").
+Electricity can be used to control other elements of a robot such as [pneumatics](pneumatics) with [solenoids](Solenoid "Solenoid").
 
 Retrieved from "<http://www.firstwiki.netElectronics_and_circuitry>"
 

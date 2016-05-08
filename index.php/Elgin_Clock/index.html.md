@@ -20,10 +20,10 @@ FIRST_logo.gif)](Image:FIRST_logo.gif)
 
 ## The Bench
 
-_The Bench_ is a series of poems written by [CourtneyB](http://www.chiefdelphi.com/forums/member.php?u=7008 "http://www.chiefdelphi.com/forums/member.php?u=7008") on [ChiefDelphi](ChiefDelphi "ChiefDelphi") about Elgin Clock. These poems may be considered [FIRST Humor](FIRST_humor "FIRST humor") for two reasons; first, they have many inside jokes known only to those in FIRST, in addition to the many references to famous FIRSTers.
+_The Bench_ is a series of poems written by [CourtneyB](http://www.chiefdelphi.com/forums/member.php?u=7008 "http://www.chiefdelphi.com/forums/member.php?u=7008") on [ChiefDelphi](chiefdelphi) about Elgin Clock. These poems may be considered [FIRST Humor](FIRST_humor "FIRST humor") for two reasons; first, they have many inside jokes known only to those in FIRST, in addition to the many references to famous FIRSTers.
 
-"The Bench" was released on [ChiefDelphi](ChiefDelphi "ChiefDelphi") on March 19, 2006.<br>
-"The Christmas Bench" was released exactly 8 months later on [ChiefDelphi](ChiefDelphi "ChiefDelphi") on November, 19, 2006.
+"The Bench" was released on [ChiefDelphi](chiefdelphi) on March 19, 2006.<br>
+"The Christmas Bench" was released exactly 8 months later on [ChiefDelphi](chiefdelphi) on November, 19, 2006.
 
 ### _The Bench_
 

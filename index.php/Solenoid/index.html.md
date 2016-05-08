@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **solenoid** is a [pneumatics](Pneumatics "Pneumatics") component that allows elctronic control of air pressure flow.
+A **solenoid** is a [pneumatics](pneumatics) component that allows elctronic control of air pressure flow.
 
 ## Contents
 
@@ -71,7 +71,7 @@ Double solenoids are similar to a single solenoid except pressure is only applie
 
 - Bosch-Roxroth 
 
-  - P-026641-00004 _**[Pneumatics](Pneumatics "Pneumatics") Parts:**_<br>
+  - P-026641-00004 _**[Pneumatics](pneumatics) Parts:**_<br>
     [Cylinder](Cylinder "Cylinder") | **Solenoid** | [Compressor](Compressor "Compressor") | [Storage tank](Storage_tank "Storage tank") | [Rotary actuator](Rotary_actuator "Rotary actuator") | [Pressure regulator](Pressure_regulator "Pressure regulator") | [Pressure switch](Pressure_switch "Pressure switch")
 
 --------------------------------------------------------------------------------

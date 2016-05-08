@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Underwriter's Laboratories Industrial Safety Award** celebrates the [team](Team "Team") that progresses beyond safety fundamentals by using innovative ways to eliminate or protect against hazards. The winning team consistently demonstrates excellence in industrial safety performance that shines throughout the competition from uncrating to re-pack.
+The **Underwriter's Laboratories Industrial Safety Award** celebrates the [team](team) that progresses beyond safety fundamentals by using innovative ways to eliminate or protect against hazards. The winning team consistently demonstrates excellence in industrial safety performance that shines throughout the competition from uncrating to re-pack.
 
 The award was created in the 2005 season. In that season, it was called the "Industrial Safety Award". In 2006, Underwriter's Laboratories sponsored the award, hence the name change.
 

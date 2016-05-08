@@ -13,9 +13,9 @@ FIRST_logo.gif)](Image:FIRST_logo.gif)
 
 ---|---
 
-**Students** make up the core of a [FIRST](first) robotics [team](Team "Team").
+**Students** make up the core of a [FIRST](first) robotics [team](team).
 
-Students work with [mentors](Mentors "Mentors") and [engineers](Engineers "Engineers") to build a [robot](Robot "Robot") for a [FIRST](first) organization.
+Students work with [mentors](Mentors "Mentors") and [engineers](Engineers "Engineers") to build a [robot](robot) for a [FIRST](first) organization.
 
 ## Requirements
 

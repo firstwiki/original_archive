@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **pneumatic cylinder** is a [pneumatics](Pneumatics "Pneumatics") part that uses converts air pressure into linear force.
+A **pneumatic cylinder** is a [pneumatics](pneumatics) part that uses converts air pressure into linear force.
 
 ## Contents
 
@@ -47,7 +47,7 @@ The static end of the cylinder has a mounting hole at the end which can be used 
 ### Models
 
 - Parker: 1.5DPSR8.00 (1.5" x 8" cylinder) with L071310300 (Pivot bracket) and L071300400 (Clevis)
-- Bimba: # Custom cylinder _**[Pneumatics](Pneumatics "Pneumatics") Parts:**_<br>
+- Bimba: # Custom cylinder _**[Pneumatics](pneumatics) Parts:**_<br>
   **Cylinder** | [Solenoid](Solenoid "Solenoid") | [Compressor](Compressor "Compressor") | [Storage tank](Storage_tank "Storage tank") | [Rotary actuator](Rotary_actuator "Rotary actuator") | [Pressure regulator](Pressure_regulator "Pressure regulator") | [Pressure switch](Pressure_switch "Pressure switch")
 
 --------------------------------------------------------------------------------

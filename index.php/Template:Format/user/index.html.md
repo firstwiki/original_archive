@@ -18,7 +18,7 @@ Joined: _Date_<br>
 AIM: _Screen Name_<br>
 e-mail: _[e-mail](mailto:e-mail "mailto:e-mail")_<br>
 ChiefDelphi: '[UName](http://www.chiefdelphi.com/forums/member.php?userid=???? "http://www.chiefdelphi.com/forums/member.php?userid=????") __The URL should point to your Public Profile on ChiefDelphi_<br> 
-_Team:_ [Team #](Team "Team")__(Team name)_<br>
+_Team:_ [Team #](team)__(Team name)_<br>
 Position: _Your Position(s)_
 
 _Misc_

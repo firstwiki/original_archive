@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), designed to provide the [FIRST community](FIRST_community "FIRST community") a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
+[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](first-robotics-competition), designed to provide the [FIRST community](first-community) a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
 professionalism"), members contribute back to the community by recording useful information that other members can benefit from.
 
 Retrieved from "<http://www.firstwiki.netFIRSTwiki:Mission_statement>"

@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**Innovation First, Inc.**, or **IFI**, is an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry") for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"). IFI provides the main parts of the [control system](Control_system "Control system").
+**Innovation First, Inc.**, or **IFI**, is an official supplier of custom [electronics](Electronics_and_circuitry "Electronics and circuitry") for the [FIRST Robotics Competition](first-robotics-competition). IFI provides the main parts of the [control system](control-system).
 
 ## Contents
 

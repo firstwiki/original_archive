@@ -38,7 +38,7 @@ There are 21 articles in this category.
 
 ### K
 
-- [Kit of parts](Kit_of_parts "Kit of parts")
+- [Kit of parts](kit-of-parts)
 - [Kleiner Perkins Caufield & Byers Entrepreneurship Award](Kleiner_Perkins_Caufield_%26_Byers_Entrepreneurship_Award "Kleiner Perkins Caufield & Byers Entrepreneurship Award")
 
 ### L

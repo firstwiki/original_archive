@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Debugging** is the process of finding and resolving bugs, which are errors within [programming](Programming "Programming").
+**Debugging** is the process of finding and resolving bugs, which are errors within [programming](programming).
 
 ## Techniques
 
@@ -26,7 +26,7 @@ The rules are from the book "Debugging" by David Agans, posted here with the aut
 
 ## See also
 
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [Dynamic Debug Tool](Dynamic_Debug_Tool "Dynamic Debug Tool")
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-

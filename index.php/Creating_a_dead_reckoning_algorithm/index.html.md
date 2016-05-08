@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A [dead reckoning](Dead_reckoning "Dead reckoning") algorithm is the simplest and quickest to implement type of autonomous control for a robot to implement. The robot does not use any sensory input and simply follows a predefined set of "directions" stored as hardcoded (or in [ROM](http://www.wikipedia.org/wiki/ROM "wikipedia:ROM")) values. This is a good, simple autonomous program for novice robot programmers to start with because of its simplicity.
+A [dead reckoning](dead-reckoning) algorithm is the simplest and quickest to implement type of autonomous control for a robot to implement. The robot does not use any sensory input and simply follows a predefined set of "directions" stored as hardcoded (or in [ROM](http://www.wikipedia.org/wiki/ROM "wikipedia:ROM")) values. This is a good, simple autonomous program for novice robot programmers to start with because of its simplicity.
 
 ## Contents
 
@@ -56,7 +56,7 @@ on=3 "Edit section: Mechanical systems")]
 
 ### Mechanical systems
 
-FIRST Robots are very diverse, meaning that control algorithms are never universal. The most common drive train system, however, is what is known as the [skid steer](Skid_steer "Skid steer"). Essentially, this means that each side of the robot (left and right) are independently controlled. You have one or more motors driving the left side, and a mirror system driving the right side.
+FIRST Robots are very diverse, meaning that control algorithms are never universal. The most common drive train system, however, is what is known as the [skid steer](skid-steer). Essentially, this means that each side of the robot (left and right) are independently controlled. You have one or more motors driving the left side, and a mirror system driving the right side.
 
 For this algorithm we will be working with a setup that only includes one motor per side.
 
@@ -191,7 +191,7 @@ on=9 "Edit section: Moving Forward")]
 
 #### Moving Forward
 
-So, on the first run through of this code, the _step_ variable is zero, so it will execute commands in case zero. We want it to go forward, so, according to the [skid steer](Skid_steer "Skid steer") model, we need to set both the left motor and right motor to full forwards. In C code, that is...
+So, on the first run through of this code, the _step_ variable is zero, so it will execute commands in case zero. We want it to go forward, so, according to the [skid steer](skid-steer) model, we need to set both the left motor and right motor to full forwards. In C code, that is...
 
 ```
  LMotor = FullForward;
@@ -329,7 +329,7 @@ on=16 "Edit section: Conclusion")]
 
 ## Conclusion
 
-This is an easy algorithm for a rookie team or a team with limited computer programming expertise to write and implement, but with it's huge flaws, it is almost certainly better to use a [line tracker](/index.php?title=Line_tracker&action=edit "Line tracker") or [infrared](/index.php?title=Infrared&action=edit "Infrared") following robot instead. A [copycat](/index.php?title=Copycat&action=edit "Copycat") system is an improvement on this design, while a guidance system involving [accelerometers](Accelerometer "Accelerometer") would be a true boon to those teams who are capable of implementing it.
+This is an easy algorithm for a rookie team or a team with limited computer programming expertise to write and implement, but with it's huge flaws, it is almost certainly better to use a [line tracker](/index.php?title=Line_tracker&action=edit "Line tracker") or [infrared](/index.php?title=Infrared&action=edit "Infrared") following robot instead. A [copycat](/index.php?title=Copycat&action=edit "Copycat") system is an improvement on this design, while a guidance system involving [accelerometers](accelerometer) would be a true boon to those teams who are capable of implementing it.
 
 Retrieved from "<http://www.firstwiki.netCreating_a_dead_reckoning_algorithm>"
 

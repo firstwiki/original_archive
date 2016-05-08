@@ -4,10 +4,10 @@
 
 Jump to: navigation, search
 
-Error is the difference between the theoretical output value and the real output value. Error values are used by [closed loop](Closed_loop "Closed loop") systems to calculate output values that will decrease the error.
+Error is the difference between the theoretical output value and the real output value. Error values are used by [closed loop](closed-loop) systems to calculate output values that will decrease the error.
 
 For example, if the [Robot Controller](Robot_Controller "Robot
-Controller") sends a [PWM](pwm) signal to a [motor](Motor "Motor") to make it run at 30% of its top speed, but the [motor](Motor "Motor") only runs at 26%, then an error would exist of 4% of the top speed.
+Controller") sends a [PWM](pwm) signal to a [motor](motor) to make it run at 30% of its top speed, but the [motor](motor) only runs at 26%, then an error would exist of 4% of the top speed.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

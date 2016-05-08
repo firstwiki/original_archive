@@ -23,7 +23,7 @@ Accuracy is striven for, but not guaranteed. Edit if you find a problem. Use at 
 
 This wiki is not created by [FIRST](http://www.usfirst.org "http://www.usfirst.org") (that is the official website, the unofficial article is [here](first)) or any team within it. FIRST is therefore not responsible for content contained within this wiki.
 
-Although [ChiefDelphi](ChiefDelphi "ChiefDelphi") hosts this site, it is not responsible for the content. [Administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators") are not responsible for content (except for that which was written by them). Authors are responsible for all of their own content.
+Although [ChiefDelphi](chiefdelphi) hosts this site, it is not responsible for the content. [Administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators") are not responsible for content (except for that which was written by them). Authors are responsible for all of their own content.
 
 By using this site, you agree to never hold FIRSTwiki, ChiefDelphi, the [Administrators](FIRSTwiki:Administrators "FIRSTwiki:Administrators") and any other affiliates and authors responsible for the site's content.
 

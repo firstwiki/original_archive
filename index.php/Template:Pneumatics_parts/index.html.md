@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-_**[Pneumatics](Pneumatics "Pneumatics") Parts:**_<br>
+_**[Pneumatics](pneumatics) Parts:**_<br>
 [Cylinder](Cylinder "Cylinder") | [Solenoid](Solenoid "Solenoid") | [Compressor](Compressor "Compressor") | [Storage tank](Storage_tank "Storage tank") | [Rotary actuator](Rotary_actuator "Rotary actuator") | [Pressure regulator](Pressure_regulator "Pressure regulator") | [Pressure
 
 ## switch](Pressure_switch "Pressure switch" )

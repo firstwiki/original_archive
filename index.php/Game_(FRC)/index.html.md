@@ -49,4 +49,4 @@ Each [FRC](FRC "FRC") typically contains two main periods and occasionally a thi
 
 ## Kickoff
 
-Each year in early January, [kickoffs](Kickoff "Kickoff") are held nationwide as [FIRST](first) releases the design of the current year's game. This begins what is known as the [build season](Build_season "Build season") and the six week countdown clock until the robot must be shipped begins.
+Each year in early January, [kickoffs](kickoff) are held nationwide as [FIRST](first) releases the design of the current year's game. This begins what is known as the [build season](Build_season "Build season") and the six week countdown clock until the robot must be shipped begins.

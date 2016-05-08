@@ -62,7 +62,7 @@ title=Special:Whatlinkshere/FIRSTwiki:Requests_for_expansion&limit=500&from=0 "S
 - [FIRSTwiki:Community portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal")
 - [Template:Get involved](Template:Get_involved "Template:Get involved")
 - [Creating a Forum](Creating_a_Forum "Creating a Forum")
-- [Drive train](Drive_train "Drive train")
+- [Drive train](drive-train)
 - [Stealth Hedgehog (759)](Stealth_Hedgehog_%28759%29 "Stealth Hedgehog \(759\)")
 - [1519](1519 "1519")
 - [1294 in 2004](1294_in_2004 "1294 in 2004")

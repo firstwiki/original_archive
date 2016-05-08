@@ -48,8 +48,8 @@ ial:Whatlinkshere/Innovation_First%2C_Inc.&limit=500&from=0 "Special:Whatlinkshe
 - [Innovation FIRST](/index.php?title=Innovation_FIRST&redirect=no "Innovation FIRST") (redirect page) 
 
   - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
-  - [Control system](Control_system "Control system")
-  - [FIRST sponsors](FIRST_sponsors "FIRST sponsors")
+  - [Control system](control-system)
+  - [FIRST sponsors](first-sponsors)
   - [Victor 884](victor-884) View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Inno
     vation_First%2C_Inc.&limit=20&from=0 "Special:Whatlinkshere/Innovation First,
     Inc.") | [50](/index.php?title=Special:Whatlinkshere/Innovation_First%2C_Inc.

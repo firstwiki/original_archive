@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This category is for fundamental [robot](Robot "Robot") components and elements.
+This category is for fundamental [robot](robot) components and elements.
 
 ## Articles in category "Robot components"
 
@@ -13,7 +13,7 @@ There are 11 articles in this category.
 ## #
 
 - [Fabrication](Fabrication "Fabrication")
-- [Robot](Robot "Robot")
+- [Robot](robot)
 
 ### C
 
@@ -25,11 +25,11 @@ There are 11 articles in this category.
 
 ### M
 
-- [Motors](Motors "Motors")
+- [Motors](motors)
 
 ### P
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 
 ### R
 
@@ -42,11 +42,11 @@ There are 11 articles in this category.
 ### T
 
 - [Transmission](Transmission "Transmission")
-- [Tread](Tread "Tread")
+- [Tread](tread)
 
 ### W
 
-- [Wheel](Wheel "Wheel")<br>
+- [Wheel](wheel)<br>
   ---|---|---
 
 Retrieved from "<http://www.firstwiki.netCategory:Robot_components>"

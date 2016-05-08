@@ -88,7 +88,7 @@ Content Management Software (CMS) can be very useful for a team website. They ma
 - [XOOPS](http://xoops.org "http://xoops.org")
 - [openCMS](http://opencms.org "http://opencms.org")
 - [Plone](http://plone.org "http://plone.org")
-- [vBulletin](http://www.vbulletin.com/ "http://www.vbulletin.com/") - Software that [ChiefDelphi](ChiefDelphi "ChiefDelphi") uses. Not free.
+- [vBulletin](http://www.vbulletin.com/ "http://www.vbulletin.com/") - Software that [ChiefDelphi](chiefdelphi) uses. Not free.
 - [Invision Power Board](http://www.invisionboard.com/ "http://www.invisionboard.com/")
 - [phpbb](http://phpbb.com "http://phpbb.com")
 

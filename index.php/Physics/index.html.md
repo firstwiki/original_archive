@@ -5,9 +5,9 @@
 Jump to: navigation, search
 
 Physics is the science of matter and energy and the interactions between each. By applying formulas, such as those described by Isaac Newton, it is possible to reasonably predict the behavior of such objects. In the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
-Competition"), high school students apply classroom physics to real-world problems involving concepts such as [torque](Torque "Torque"), [friction](/index.php?title=Friction&action=edit "Friction"), [work](/index.php?title=Work&action=edit "Work"), and [momentum](/index.php?title=Momentum&action=edit "Momentum").
+Competition"), high school students apply classroom physics to real-world problems involving concepts such as [torque](torque), [friction](/index.php?title=Friction&action=edit "Friction"), [work](/index.php?title=Work&action=edit "Work"), and [momentum](/index.php?title=Momentum&action=edit "Momentum").
 
-The physics articles here cover the calculations and considerations, both theoretical and applied, that need to be made when constructing a [robot](Robot "Robot"). For a more general article, see [Physics on Wikipedia](http://www.wikipedia.org/wiki/physics "wikipedia:physics").
+The physics articles here cover the calculations and considerations, both theoretical and applied, that need to be made when constructing a [robot](robot). For a more general article, see [Physics on Wikipedia](http://www.wikipedia.org/wiki/physics "wikipedia:physics").
 
 ## Contents
 
@@ -37,7 +37,7 @@ The physics articles here cover the calculations and considerations, both theore
 
 ## Motors
 
-- [Torque](Torque "Torque")
+- [Torque](torque)
 
 ## Circuitry
 

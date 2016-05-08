@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Autodesk Visualization Award** is an award given to the [team](Team "Team") that creates the best 30-second animation about the spirit of [FIRST](first) using Autodesk [3ds max](3ds_max "3ds max").
+The **Autodesk Visualization Award** is an award given to the [team](team) that creates the best 30-second animation about the spirit of [FIRST](first) using Autodesk [3ds max](3ds_max "3ds max").
 
 ## Contents
 

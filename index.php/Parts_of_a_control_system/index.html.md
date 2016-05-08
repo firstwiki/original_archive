@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 ****Parts of a Control System****
 
@@ -31,28 +31,28 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-The **parts of a control system** are the components necessary for the [control system](Control_system "Control system") to be of any use. They provide greater functionality and an increased ability to create complex machinery. These elements are included in the [kit of parts](Kit_of_parts "Kit of parts").
+The **parts of a control system** are the components necessary for the [control system](control-system) to be of any use. They provide greater functionality and an increased ability to create complex machinery. These elements are included in the [kit of parts](kit-of-parts).
 
 ## Contents
 
@@ -82,8 +82,8 @@ section: Robot Control System Pieces")]
 
 ## Robot Control System Pieces
 
-- [CRIO](robot-controller), controls the flow of information and processes said information based on what is [programmed](Programming "Programming")
-- [12V battery](12V_battery "12V battery"), provides the power for the [robot](Robot "Robot")
+- [CRIO](robot-controller), controls the flow of information and processes said information based on what is [programmed](programming)
+- [12V battery](12V_battery "12V battery"), provides the power for the [robot](robot)
 - [802.11N (LAN)](/index.php?title=802.11N_%28LAN%29&action=edit "802.11N \(LAN\)"), allows for wireless communication between the robot and the driver station (not needed if system is [tethered](Tether "Tether"))
 - [Digital Sidecar](/index.php?title=Digital_Sidecar&action=edit "Digital Sidecar"), provides digital inputs and PWM signal outputs for motor controllers (like the [Victor 884](victor-884))
 
@@ -119,12 +119,12 @@ section: Robot Control System pieces")]
 
 ## Robot Control System pieces
 
-- [Robot Controller](robot-controller), controls the flow of information and processes said information based on what is [programmed](Programming "Programming")
-- [12V battery](12V_battery "12V battery"), provides the power for the [robot](Robot "Robot")
+- [Robot Controller](robot-controller), controls the flow of information and processes said information based on what is [programmed](programming)
+- [12V battery](12V_battery "12V battery"), provides the power for the [robot](robot)
 - [7.2V backup battery](7.2V_backup_battery "7.2V backup battery"), provides backup power (and is necessary for the [servos](/index.php?title=Servos&action=edit "Servos") to work)
 - [RS 422 radio (RC)](/index.php?title=RS_422_radio_%28RC%29&action=edit "RS 422 radio \(RC\)"), allows for wireless communication between the RC and the OI (not needed if system is [tethered](Tether "Tether"))
 - [DB9 M-F cable (radio)](/index.php?title=DB9_M-F_cable_%28radio%29&action=edit "DB9 M-F cable \(radio\)"), standard 9 pin connector, connects the radio to the RC (not needed if system is tethered)
-- [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs"), allows direct control of [servos](/index.php?title=Servos&action=edit "Servos") and indirect control of [motors](Motors "Motors") through [speed controllers](victor-884)
+- [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs"), allows direct control of [servos](/index.php?title=Servos&action=edit "Servos") and indirect control of [motors](motors) through [speed controllers](victor-884)
 - [DB9 M-F cable (tether)](/index.php?title=DB9_M-F_cable_%28tether%29&action=edit "DB9 M-F cable \(tether\)"), standard 9 pin connector, connects the tether ports of the RC and the OI
 
 [[edit](/index.php?title=Parts_of_a_control_system&action=edit&section=8 "Edit
@@ -132,13 +132,13 @@ section: Operator Control System pieces")]
 
 ## Operator Control System pieces
 
-- [Operator Interface](operator-interface), collects [input](Input "Input") controlled by [human operator](/index.php?title=Human_operator&action=edit "Human operator") and sends it to the RC
+- [Operator Interface](operator-interface), collects [input](input) controlled by [human operator](/index.php?title=Human_operator&action=edit "Human operator") and sends it to the RC
 - [AC adapter](/index.php?title=AC_adapter&action=edit "AC adapter"), lets OI run from a wall outlet (not needed if system is tethered or powered from [competition port](Competition_port "Competition port"))
 - [RS-422 radio (OI)](/index.php?title=RS-422_radio_%28OI%29&action=edit "RS-422 radio \(OI\)"), allows for wireless communication between the OI and the RC (not needed if system is tethered)
 - [DB9 M-F cable (radio)](/index.php?title=DB9_M-F_cable_%28radio%29&action=edit "DB9 M-F cable \(radio\)"), standard 9 pin connector, connects the radio to the OI (not needed if system is tethered)
 - [Joystick](joystick), provides <analog> input to the OI from the human operator
 
-_See also:_ [Robovation](robovation), [Sensors](Sensors "Sensors"), [Spike relay](Spike_relay "Spike relay")
+_See also:_ [Robovation](robovation), [Sensors](sensor), [Spike relay](Spike_relay "Spike relay")
 
 [[edit](/index.php?title=Parts_of_a_control_system&action=edit&section=9 "Edit
 section: Resources")]

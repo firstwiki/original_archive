@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 A **team advisor** for a [FRC](FIRST_Robotics_Competition "FIRST
 Robotics Competition") [team](FIRST_Robotics_team "FIRST Robotics
-team") is generally an adult [mentor](Mentor "Mentor") who supervises and advises the [team](Team "Team").
+team") is generally an adult [mentor](Mentor "Mentor") who supervises and advises the [team](team).
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

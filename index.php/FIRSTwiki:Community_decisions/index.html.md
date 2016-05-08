@@ -159,7 +159,7 @@ Pretty much did it, though I left the [FLL Challenges](FLL_Challenges "FLL Chall
 
 ## Drivetrain
 
-Isn't "drivetrain" one word, not two? It's annoying the heck out of me. [Google agree's](http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=drive+train "http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=drive+train"). Should fix so pages like [drive train](Drive_train "Drive train") follow.[Tanner](User:TannerLD "User:TannerLD") 21:52, 13 March 2010 (EST)
+Isn't "drivetrain" one word, not two? It's annoying the heck out of me. [Google agree's](http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=drive+train "http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=drive+train"). Should fix so pages like [drive train](drive-train) follow.[Tanner](User:TannerLD "User:TannerLD") 21:52, 13 March 2010 (EST)
 
 - Fixed [Cbale2000](User:Cbale2000 "User:Cbale2000") 22:16, 14 March 2010 (EDT)
 
@@ -222,7 +222,7 @@ It's been more then 4 days since the FF page has been the Feature article ;). I 
 ```
 Yeah; in fact, it's **still** the Featured Article.... --[Goobergunch](User:Goobergunch "User:Goobergunch" ) 17:04, 6 Aug 2004 (EDT) 
 
-How about [Kit of parts](Kit_of_parts "Kit of parts" )? (That's where [Special:Randompage](Special:Randompage "Special:Randompage" ) took me) --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) 17:17, 6 Aug 2004 (EDT) 
+How about [Kit of parts](kit-of-parts )? (That's where [Special:Randompage](Special:Randompage "Special:Randompage" ) took me) --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) 17:17, 6 Aug 2004 (EDT) 
 ```
 
 [[edit](/index.php?title=FIRSTwiki:Community_decisions&action=edit&section=19 "Edit section: Template vs. inter-wiki link")]

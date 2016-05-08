@@ -12,7 +12,7 @@ The following pages link to here:
 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Solenoid&limit=20&from=0 "Special:Whatlinkshere/Solenoid") | [50](/index.php?title=Special:Whatlinkshere/Solenoid&limit=50&from=0 "Special:Whatlinkshere/Solenoid") | [100](/index.php?title=Special:Whatlinkshere/Solenoid&limit=100&from=0 "Special:Whatlinkshere/Solenoid") | [250](/index.php?title=Special:Whatlinkshere/Solenoid&limit=250&from=0 "Special:Whatlinkshere/Solenoid") | [500](/index.php?title=Special:Whatlinkshere/Solenoid&limit=500&from=0 "Special:Whatlinkshere/Solenoid")).
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 - [Spike](spike-relay)
 - [Cylinder](Cylinder "Cylinder")
 - [Compressor](Compressor "Compressor")

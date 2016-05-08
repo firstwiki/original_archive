@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Delphi "Driving Tomorrow's Technology" Award** celebrates an elegant and advantageous machine feature. This award recognizes any aspect of engineering elegance including, but not limited to: design, wiring methods, material selection, [programming](Programming "Programming") techniques, and unique machine attributes. The criteria for this award are based on the [team](Team "Team")'s ability to concisely verbally describe, as well as demonstrate, this chosen machine feature.
+The **Delphi "Driving Tomorrow's Technology" Award** celebrates an elegant and advantageous machine feature. This award recognizes any aspect of engineering elegance including, but not limited to: design, wiring methods, material selection, [programming](programming) techniques, and unique machine attributes. The criteria for this award are based on the [team](team)'s ability to concisely verbally describe, as well as demonstrate, this chosen machine feature.
 
 ## [Awards](Awards "Awards")
 

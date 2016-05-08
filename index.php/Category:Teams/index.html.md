@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-All the main pages for each [FRC](FRC "FRC") [team](Team "Team") should be in this category.
+All the main pages for each [FRC](FRC "FRC") [team](team) should be in this category.
 
 (previous 200) ([next 200](/index.php?title=Category:Teams&from=1246 "Category:Teams"))
 

@@ -4,9 +4,9 @@
 
 Jump to: navigation, search
 
-**Treads** are a method of [robot](Robot "Robot") locomotion and are occasionally used in place of [wheels](Wheel "Wheel").
+**Treads** are a method of [robot](robot) locomotion and are occasionally used in place of [wheels](wheel).
 
-Treads are used on a "tank drive," which is a variation on the four-[wheel](Wheel "Wheel") [drive train](Drive_train "Drive train") that resembles a military tank. Treads are generally rubber belts attached to either [sprockets](Sprocket "Sprocket") or to wheels and are thus driven that way with the belt itself providing traction along the ground. Tank-driven robots tend to lack maneuverability in terms of navigating curves, but have zero turn radius. While treads tend to be very rugged, they are also very hard to repair in the event of damage or maintenance.
+Treads are used on a "tank drive," which is a variation on the four-[wheel](wheel) [drive train](drive-train) that resembles a military tank. Treads are generally rubber belts attached to either [sprockets](Sprocket "Sprocket") or to wheels and are thus driven that way with the belt itself providing traction along the ground. Tank-driven robots tend to lack maneuverability in terms of navigating curves, but have zero turn radius. While treads tend to be very rugged, they are also very hard to repair in the event of damage or maintenance.
 
 ## External links
 

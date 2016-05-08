@@ -7,7 +7,7 @@ Jump to: navigation, search
 ## Rigourous Definition
 
 Torque is the cross-product of the [radius](/index.php?title=Radius&action=edit "Radius") and [force](/index.php?title=Force&action=edit "Force") [vectors](/index.php?title=Vector&action=edit "Vector") (![\\boldsymbol{\\tau} = \\mathbf{r} \\times
-\\mathbf{F}](/media/math/b/a/2/ba2e57363e6ce199c675ba591f0283fe.png)), in that order. If the torque exerted by a [motor](Motor "Motor") on its axle is known, one can find the force exerted at a different distance from the center.
+\\mathbf{F}](/media/math/b/a/2/ba2e57363e6ce199c675ba591f0283fe.png)), in that order. If the torque exerted by a [motor](motor) on its axle is known, one can find the force exerted at a different distance from the center.
 
 ## Conceptual Definition
 

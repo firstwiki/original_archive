@@ -12,7 +12,7 @@ The following pages link to here:
 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/MPLAB&limit=20&from=0 "Special:Whatlinkshere/MPLAB") | [50](/index.php?title=Special:Whatlinkshere/MPLAB&limit=50&from=0 "Special:Whatlinkshere/MPLAB") | [100](/index.php?title=Special:Whatlinkshere/MPLAB&limit=100&from=0 "Special:Whatlinkshere/MPLAB") | [250](/index.php?title=Special:Whatlinkshere/MPLAB&limit=250&from=0 "Special:Whatlinkshere/MPLAB") | [500](/index.php?title=Special:Whatlinkshere/MPLAB&limit=500&from=0 "Special:Whatlinkshere/MPLAB")).
 
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
 - [Software](Software "Software")
 - [FIRSTwiki:Style guide](FIRSTwiki:Style_guide "FIRSTwiki:Style guide")

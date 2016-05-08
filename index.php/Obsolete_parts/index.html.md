@@ -15,7 +15,7 @@ Nuvola_apps_important.svg.png " ")<br>
 These parts are no longer in the [kit of parts](Kit_of_parts "Kit
 of parts").
 
-- [Drill motor](Drill_motor "Drill motor") - up to 2004
+- [Drill motor](drill-motor) - up to 2004
 
 ## See Also
 

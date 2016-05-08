@@ -28,7 +28,7 @@ Jump to: navigation, search
 
 In order to give this project a kick in the right direction, I think it would be a good idea to come up with a general outline of things to include. When finished, we can post a link to the outline on ChiefDelphi and ask for contribution to specific areas by those who worked in them. I think it would have the effect of making someone realize that what they have to say just might be useful for everyone to hear (we might intimate that the FIRSTwiki provides a useful way to pass your information on that you learned, and can be used as a training tool if sufficient information is contributed). Who knows.
 
-Here's what I've come up with so far. Many areas are ommitted, and this is intentional ... to force those more familliar with them to add more content. Also, there is some question as to the logical grouping of things, and before I add more I'll wait for community input. Where there are sub-sections, it tends to indicate that a series of articles (with a TOC, such as on [control system](Control_system "Control system")) would be appropriate.
+Here's what I've come up with so far. Many areas are ommitted, and this is intentional ... to force those more familliar with them to add more content. Also, there is some question as to the logical grouping of things, and before I add more I'll wait for community input. Where there are sub-sections, it tends to indicate that a series of articles (with a TOC, such as on [control system](control-system)) would be appropriate.
 
 _The tentative outline:_
 

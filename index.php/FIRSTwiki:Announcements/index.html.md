@@ -29,8 +29,8 @@ Jump to: navigation, search
 [![](/media/thumb/7/75/EinsteinCelebration.jpeg/160px-
 EinsteinCelebration.jpeg)](Image:EinsteinCelebration.jpeg)
 
-- The new [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
-- The first game hint for the 2012 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game is revealed.
+- The new [FIRST Robotics Competition](first-robotics-competition) game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
+- The first game hint for the 2012 [FIRST Robotics Competition](first-robotics-competition) game is revealed.
 - The new [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge") game, _[Bowled Over](Bowled_Over "Bowled Over")_, is revealed.
 - The FIRST Championship is featured in the ABC documentary _i.am.FIRST - Science is Rock and Roll_.
 - The 2011 [Indiana Robotics Invitational](Indiana_Robotics_Invitational "Indiana Robotics Invitational") draws to a close on July 23, 2011, with teams [33](33 "33"), [2056](2056 "2056"), [217](217 "217"), and [359](359 "359") all taking a share of the title.

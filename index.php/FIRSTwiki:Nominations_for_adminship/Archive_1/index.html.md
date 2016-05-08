@@ -25,7 +25,7 @@ edit&section=2 "Edit section: Brandon Martus; \(4/0/0\)")]
 
 **Granted** --[Max](User:Max "User:Max") 00:30, 13 Jun 2004 (EDT)
 
-Brandon is webmaster for [ChiefDelphi](ChiefDelphi "ChiefDelphi") which is the [FIRSTwiki](FIRSTwiki "FIRSTwiki")'s host. In addition, Brandon may be needed to do certain server-side administrative duties, like installation of various modules.
+Brandon is webmaster for [ChiefDelphi](chiefdelphi) which is the [FIRSTwiki](FIRSTwiki "FIRSTwiki")'s host. In addition, Brandon may be needed to do certain server-side administrative duties, like installation of various modules.
 
 I graciously accept. I don't know how much I can help out on a regular basis, but I am here for any technical questions you may have. I also will be editing and browsing as a normal user, too. :) - [Brandon Martus](User:Brandon_Martus "User:Brandon Martus")
 

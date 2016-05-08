@@ -120,7 +120,7 @@ Control system refers not to the system that controls a robot, but to subsystems
 
 
 yea. I couldn't come up with a better name. --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
-Then what's this page for: [Control system](Control_system "Control system" )? It includes links to the RC, OI, etc. --[SilverStar](User:SilverStar "User:SilverStar" ) 18:25, 29 May 2004 (EDT) 
+Then what's this page for: [Control system](control-system )? It includes links to the RC, OI, etc. --[SilverStar](User:SilverStar "User:SilverStar" ) 18:25, 29 May 2004 (EDT) 
 'Control System' also includes victors, spikes, etc. I'm talking about a page **just** for the high-level electronics. High-tech. Get the idea? what's a good name for it?--[Astronouth7303](User:Astronouth7303 "User:Astronouth7303" )
 Look at the control system page. It does include victors, spikes, etc. --[SilverStar](User:SilverStar "User:SilverStar" ) 18:28, 29 May 2004 (EDT) 
 Just add the high-tech parts to the Control systems page. --[SilverStar](User:SilverStar "User:SilverStar" ) 18:32, 29 May 2004 (EDT) 

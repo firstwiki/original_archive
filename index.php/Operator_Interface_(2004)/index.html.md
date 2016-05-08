@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -30,22 +30,22 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 

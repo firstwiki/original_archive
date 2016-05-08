@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Magic smoke** is a running joke among [FIRST](first) [teams](Teams "Teams") that originated among electrical [engineers](Engineer "Engineer") and technicians. The magic smoke refers to the toxic fumes released during an electrical [short circuit](Short_circuit "Short circuit") inside electrical components such as [motors](Motors "Motors") and [electronics](Electronics_and_circuitry "Electronics and circuitry").
+**Magic smoke** is a running joke among [FIRST](first) [teams](Teams "Teams") that originated among electrical [engineers](Engineer "Engineer") and technicians. The magic smoke refers to the toxic fumes released during an electrical [short circuit](Short_circuit "Short circuit") inside electrical components such as [motors](motors) and [electronics](Electronics_and_circuitry "Electronics and circuitry").
 
 ## History
 

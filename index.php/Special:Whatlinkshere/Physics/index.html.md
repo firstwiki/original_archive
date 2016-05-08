@@ -15,7 +15,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Physic
 - [Main Page](Main_Page "Main Page")
 - [Template:Main page toc](Template:Main_page_toc "Template:Main page toc")
 - [Gail VanEkeren](Gail_VanEkeren "Gail VanEkeren")
-- [Motors](Motors "Motors")
+- [Motors](motors)
 - [Technical](Technical "Technical")
 - [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup")
 - [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign")

@@ -11,7 +11,7 @@ Jump to: navigation, search
 - Create open communication
 - Facilitate instruction and have students do as much work as possible
 
-The mentor works with the [students](Student "Student"), trying to develop a relationship where the student can learn and grow as a person. There are many different types of mentors on a team. A mentor can be an engineer or a physicist, a [teacher](Teacher "Teacher"), a college student, [alumni](Alumni "Alumni"), or any other [team advisor](Team_advisor "Team advisor") that helps in some way. FIRST is _not_ about [robots](Robot "Robot"), it is about inspiring students in science and technology and, whatever their intended careers, instilling in them the idea of [gracious professionalism](Gracious_professionalism "Gracious
+The mentor works with the [students](Student "Student"), trying to develop a relationship where the student can learn and grow as a person. There are many different types of mentors on a team. A mentor can be an engineer or a physicist, a [teacher](Teacher "Teacher"), a college student, [alumni](Alumni "Alumni"), or any other [team advisor](Team_advisor "Team advisor") that helps in some way. FIRST is _not_ about [robots](robot), it is about inspiring students in science and technology and, whatever their intended careers, instilling in them the idea of [gracious professionalism](Gracious_professionalism "Gracious
 professionalism"). FIRST is about the student, -- and an engineer or a writer mentoring the team is equally useful to the project.
 
 ## External links

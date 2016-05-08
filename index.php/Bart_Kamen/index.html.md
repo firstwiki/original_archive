@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-- Brother of [Dean Kamen](Dean_Kamen "Dean Kamen")
+- Brother of [Dean Kamen](dean-kamen)
 - Brother of [Mitch Kamen](/index.php?title=Mitch_Kamen&action=edit "Mitch Kamen")
 - Brother of [Terri Kamen](/index.php?title=Terri_Kamen&action=edit "Terri Kamen")
 - Father of [Libby Kamen](Libby_Kamen "Libby Kamen")

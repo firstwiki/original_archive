@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-List of [robots](Robot "Robot") that failed to qualify for FIRST:
+List of [robots](robot) that failed to qualify for FIRST:
 
 - Maidens made of gold, Bronze giant [Talos](http://www.wikipedia.org/wiki/Talos "wikipedia:Talos"), in The _[Iliad](http://www.wikipedia.org/wiki/Iliad "wikipedia:Iliad")_ by [Homer](http://www.wikipedia.org/wiki/Homer "wikipedia:Homer") (circa 800 BC)
 - The woman forged out of gold in The _[Kalevala](http://www.wikipedia.org/wiki/Kalevala "wikipedia:Kalevala")_

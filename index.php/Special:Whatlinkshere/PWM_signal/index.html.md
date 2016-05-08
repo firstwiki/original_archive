@@ -14,5 +14,5 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/PWM_si
 
 - [Victor 884](victor-884)
 - [Modifying a servo](Modifying_a_servo "Modifying a servo")
-- [Output](Output "Output")
+- [Output](output)
 - [Creating a dead reckoning algorithm](Creating_a_dead_reckoning_algorithm "Creating a dead reckoning algorithm") View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=20&from=0 "Special:Whatlinkshere/PWM signal") | [50](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=50&from=0 "Special:Whatlinkshere/PWM signal") | [100](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=100&from=0 "Special:Whatlinkshere/PWM signal") | [250](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=250&from=0 "Special:Whatlinkshere/PWM signal") | [500](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=500&from=0 "Special:Whatlinkshere/PWM signal")).

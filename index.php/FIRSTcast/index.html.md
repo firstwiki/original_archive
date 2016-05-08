@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**FIRSTcast** is a [podcast](http://www.wikipedia.org/wiki/podcast "wikipedia:podcast") relating to [FIRST](first), it's competitions, [teams](Team "Team"), [IFI](Innovation_First%2C_Inc. "Innovation First, Inc."), and a variety of related subjects.
+**FIRSTcast** is a [podcast](http://www.wikipedia.org/wiki/podcast "wikipedia:podcast") relating to [FIRST](first), it's competitions, [teams](team), [IFI](Innovation_First%2C_Inc. "Innovation First, Inc."), and a variety of related subjects.
 
 [![FIRSTcast Season 2 Logo](/media/thumb/f/f5/Firstcast_logo.jpg/180px-
 Firstcast_logo.jpg)](Image:Firstcast_logo.jpg "FIRSTcast Season 2
@@ -59,7 +59,7 @@ Guests **Episode 1.1** -
 
 **Episode 1.7** DaisyCast
 
-**FIRSTcast Interviews 1** Dr. Ted Sergi, [Dean Kamen](Dean_Kamen "Dean Kamen")
+**FIRSTcast Interviews 1** Dr. Ted Sergi, [Dean Kamen](dean-kamen)
 
 **Episode 1.8** Elgin Clock, Greg Marra, Others
 

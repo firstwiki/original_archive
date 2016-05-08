@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-MPLAB is the default IDE for programming PICmicros (like those found in the RCs). It should come with either the [Kit of parts](Kit_of_parts "Kit of parts") or the [Robovation](robovation).
+MPLAB is the default IDE for programming PICmicros (like those found in the RCs). It should come with either the [Kit of parts](kit-of-parts) or the [Robovation](robovation).
 
 ## Contents
 

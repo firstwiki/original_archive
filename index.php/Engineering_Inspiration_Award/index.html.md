@@ -4,9 +4,9 @@
 
 Jump to: navigation, search
 
-The **Engineering Inspiration Award** celebrates a [team](Team "Team")'s outstanding success in advancing respect and appreciation for engineering and engineers, both within their school and their community. Criteria include: the extent and inventiveness of the team's efforts to recruit students to engineering, the extent and effectiveness of the team's community outreach efforts, and the measurable success of those efforts. This is the second highest team award [FIRST](first) bestows.
+The **Engineering Inspiration Award** celebrates a [team](team)'s outstanding success in advancing respect and appreciation for engineering and engineers, both within their school and their community. Criteria include: the extent and inventiveness of the team's efforts to recruit students to engineering, the extent and effectiveness of the team's community outreach efforts, and the measurable success of those efforts. This is the second highest team award [FIRST](first) bestows.
 
-Unlike the [Chairman's Award](Chairman%27s_Award "Chairman's Award"), the Engineering Inspiration Award has no formal submission nor presentation to the judges. In fact, many teams who do not submit for the Chairman's Award win the Engineering Inspiration. The judges get their information from other teams, students and [mentors](Mentor "Mentor"), and [robot](Robot "Robot") performance.
+Unlike the [Chairman's Award](Chairman%27s_Award "Chairman's Award"), the Engineering Inspiration Award has no formal submission nor presentation to the judges. In fact, many teams who do not submit for the Chairman's Award win the Engineering Inspiration. The judges get their information from other teams, students and [mentors](Mentor "Mentor"), and [robot](robot) performance.
 
 ## [Awards](Awards "Awards")
 

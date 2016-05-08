@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Imagery Award** celebrates attractiveness in engineering and outstanding visual aesthetic integration from the machine to [team](Team "Team") appearance.
+The **Imagery Award** celebrates attractiveness in engineering and outstanding visual aesthetic integration from the machine to [team](team) appearance.
 
 ## [Awards](Awards "Awards")
 

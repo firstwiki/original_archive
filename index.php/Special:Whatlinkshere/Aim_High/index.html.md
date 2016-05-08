@@ -15,7 +15,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Aim_Hi
 - [1293](1293 "1293")
 - [Stack Attack](Stack_Attack "Stack Attack")
 - [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar")
-- [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition")
+- [FIRST Robotics Competition](first-robotics-competition)
 - [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)")
 - [174](174 "174")
 - [540](540 "540")

@@ -11,9 +11,9 @@ move to [FIRST LEGO League team](/index.php?title=FIRST_LEGO_League_team&action=
 team")? --[Max](User:Max "User:Max") 15:14, 30 Jun 2004 (EDT)
 
 ```
-I don't know. A lot of pages link to [team](Team "Team" ) (a disambig page) when a link to a FIRST Robotics team is what is meant. Maybe [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) and [team (FRC)](/index.php?title=Team_%28FRC%29&action=edit "Team \(FRC\)" ) would be short enough to get people linking to the correct pages. --[Mrawls](User:Mrawls "User:Mrawls" ) 15:24, 30 Jun 2004 (EDT) 
+I don't know. A lot of pages link to [team](team ) (a disambig page) when a link to a FIRST Robotics team is what is meant. Maybe [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) and [team (FRC)](/index.php?title=Team_%28FRC%29&action=edit "Team \(FRC\)" ) would be short enough to get people linking to the correct pages. --[Mrawls](User:Mrawls "User:Mrawls" ) 15:24, 30 Jun 2004 (EDT) 
 
-I like the abbreviated names, too. I was thinking maybe all FLL articles should be deprecated in terms of naming conventions so [team](Team "Team" ) points to the FRC page with a note about the FLL page somewhere on it. And [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) points to the FLL page. FIRSTwiki is primarily FRC related now, and I imagine it will always be much more FRC specific. I know, NPOV and such, but see my comment [Talk:Designing a team webpage](Talk:Designing_a_team_webpage "Talk:Designing a team webpage" ) \--[Max](User:Max "User:Max" ) 15:28, 30 Jun 2004 (EDT) 
+I like the abbreviated names, too. I was thinking maybe all FLL articles should be deprecated in terms of naming conventions so [team](team ) points to the FRC page with a note about the FLL page somewhere on it. And [team (FLL)](Team_%28FLL%29 "Team \(FLL\)" ) points to the FLL page. FIRSTwiki is primarily FRC related now, and I imagine it will always be much more FRC specific. I know, NPOV and such, but see my comment [Talk:Designing a team webpage](Talk:Designing_a_team_webpage "Talk:Designing a team webpage" ) \--[Max](User:Max "User:Max" ) 15:28, 30 Jun 2004 (EDT) 
 
 
 

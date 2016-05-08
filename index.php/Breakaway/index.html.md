@@ -44,7 +44,7 @@ clip.png)](Image:FRC_Breakaway_Logo.png "Enlarge")
 
 Breakaway
 
-**Breakaway** is the 2010 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game announced on January 9, 2010\.
+**Breakaway** is the 2010 [FIRST Robotics Competition](first-robotics-competition) game announced on January 9, 2010\.
 
 The object of Breakaway is to score as many points for your alliance as possible. The winner of a match is determined by the most points scored when the timer ends or when all robots have stopped moving, and after penalties are assessed.
 

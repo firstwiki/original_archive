@@ -15,7 +15,7 @@ to&limit=20&from=0 "Special:Whatlinkshere/How-to") | [50](/index.php?title=Speci
 
 - [Main Page](Main_Page "Main Page")
 - [Template:Main page toc](Template:Main_page_toc "Template:Main page toc")
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [Resources for C programming](Resources_for_C_programming "Resources for C programming")
 - [3D Studio Max](3D_Studio_Max "3D Studio Max")
 - [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign")

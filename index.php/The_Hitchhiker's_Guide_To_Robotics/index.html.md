@@ -89,7 +89,7 @@ ion=7 "Edit section: The Robot Guide")]
 
 ### Robot Mechanics
 
-The best way to get started is to get out the good ol' [kit of parts](Kit_of_parts "Kit of parts") (KoP) and see what you can piece together. Since 2003 the KoP has provided enough parts to piece together a fully operational [two wheel drive](/index.php?title=Two_wheel_drive&action=edit "Two wheel drive") drivetrain. The first important thing your robot should do is drive, since you can't compete if your robot cannot drive around sucessfully. Getting aquainted with and building a simple [drive train](Drive_train "Drive train") will set you on the right path to a successful robot.<br>
+The best way to get started is to get out the good ol' [kit of parts](kit-of-parts) (KoP) and see what you can piece together. Since 2003 the KoP has provided enough parts to piece together a fully operational [two wheel drive](/index.php?title=Two_wheel_drive&action=edit "Two wheel drive") drivetrain. The first important thing your robot should do is drive, since you can't compete if your robot cannot drive around sucessfully. Getting aquainted with and building a simple [drive train](drive-train) will set you on the right path to a successful robot.<br>
 The scoring mechanism is another important feature: your robot should have one if you plan on playing offense. Every year the FIRST competition varies, so design your mechanism to what you believe will work most effectively for the current game.<br>
 If you're just looking for a simple answer, the most important thing your robot must do is work. =)
 
@@ -98,16 +98,16 @@ ion=9 "Edit section: Motors")]
 
 #### Motors
 
-[Motors](Motor "Motor") translate electrical energy into rotational mechanical energy. These are the primary sources of mechanical energy for your robot.
+[Motors](motor) translate electrical energy into rotational mechanical energy. These are the primary sources of mechanical energy for your robot.
 
 _**2008 KIP Motors:**_<br>
-[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](Denso_window_motor "Denso window motor") | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
-motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor") | [Banebots](Banebots_motor "Banebots motor") ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
+[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](denso-window-motor) | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
+motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](fisher-price-motor) | [Globe](globe-motor) | [Banebots](banebots-motor) ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
 
 ## motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor"))
 
 _**Older KIP Motors:**_<br>
-[Window](Window_motor "Window motor") | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](Van_door_motor "Van door motor") | [Drill](Drill_motor "Drill motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor")
+[Window](window-motor) | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](van-door-motor) | [Drill](drill-motor) | [Fisher Price](fisher-price-motor) | [Globe](globe-motor)
 
 [[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
 ion=10 "Edit section: Transmissions")]
@@ -121,7 +121,7 @@ ion=11 "Edit section: Robot Electronics")]
 
 ### Robot Electronics
 
-Electronics are the internal guts to your robot. In short they are what power and control your robot's electrical components (motors, lights, etc). The [kit of parts](Kit_of_parts "Kit of parts") (KoP) will provide you with enough [electronics](Electronics_and_circuitry "Electronics and
+Electronics are the internal guts to your robot. In short they are what power and control your robot's electrical components (motors, lights, etc). The [kit of parts](kit-of-parts) (KoP) will provide you with enough [electronics](Electronics_and_circuitry "Electronics and
 circuitry") to get the KoP robot to drive, minus a few wires and connectors. The combination of the Robot Controller, Victor speed controllers, and Spike relay modules control all the actions of the robot. The [Robot Controller](robot-controller) (RC), normally with the addition of sensors, controls the robot during the autonomous mode of the competition.
 
 [[edit](/index.php?title=The_Hitchhiker%27s_Guide_To_Robotics&action=edit&sect
@@ -129,7 +129,7 @@ ion=12 "Edit section: Programming")]
 
 ### Programming
 
-Programming is like the link that ties electronics and mechanics together. With programming, you tell the robot what to do when it is presented with a condition/situation, and how to react to that situation (i.e. push the joystick forward, the robot goes forward). As of 2005, the current programming language is C. You can read more about programming in [this how-to article](Programming "Programming").
+Programming is like the link that ties electronics and mechanics together. With programming, you tell the robot what to do when it is presented with a condition/situation, and how to react to that situation (i.e. push the joystick forward, the robot goes forward). As of 2005, the current programming language is C. You can read more about programming in [this how-to article](programming).
 
 Retrieved from "<http://www.firstwiki.netThe_Hitchhiker%27s_Guide_To_Robotics>"
 

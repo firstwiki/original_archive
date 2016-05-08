@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Skid steer**, or **Tank drive**, is the most common form of [drive train](Drive_train "Drive train") on robots. It involves two sets of wheels (or treads), one on the left and one on the right, which are individually powered. This allows turning by driving each side at unequal velocities. When the control system comes out of the box this is the default configuration of the controls.
+**Skid steer**, or **Tank drive**, is the most common form of [drive train](drive-train) on robots. It involves two sets of wheels (or treads), one on the left and one on the right, which are individually powered. This allows turning by driving each side at unequal velocities. When the control system comes out of the box this is the default configuration of the controls.
 
 So to stop, stop both sides:<br>
 [![Image:Skid_None.png](/media/8/8f/Skid_None.png)](Image:Skid_None

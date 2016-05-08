@@ -65,7 +65,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 - [Fagan, Patrick](/index.php?title=Patrick_Fagan&action=edit "Patrick Fagan") - [ST](Student "Student") of [121](121 "121")
 - [Findley, William](William_Findley "William Findley") - [TA](Team_Advisor "Team Advisor") of [1388](1388 "1388")
-- [Flowers, Woodie](Woodie_Flowers "Woodie Flowers")
+- [Flowers, Woodie](woodie-flowers)
 - [Fluck, D.J.](D.J._Fluck "D.J. Fluck") - [M](Mentor "Mentor")
 - [Frank, Robert](User:Aibob "User:Aibob") - [ST](Student "Student") of [358](358 "358")
 - [Fultz, Chris](Chris_Fultz "Chris Fultz") - [M](Mentor "Mentor") of [234](234 "234") - [UFH](Unsung_FIRST_Heroes "Unsung FIRST Heroes") - [WFA](Woodie_Flowers_Award "Woodie Flowers Award")
@@ -96,7 +96,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 ## K
 
 - [Kelly, David](/index.php?title=David_Kelly&action=edit "David Kelly") [ST](Student "Student") of [234](234 "234") - [M](Mentor "Mentor") of [234](234 "234")
-- [Kamen, Dean](Dean_Kamen "Dean Kamen")
+- [Kamen, Dean](dean-kamen)
 - [Kanagasabapathy, Karthik](Karthik_Kanagasabapathy "Karthik Kanagasabapathy")
 - [Kelso, David](David_Kelso "David Kelso") - [UFH](Unsung_FIRST_Heroes "Unsung FIRST Heroes") - [WFA](Woodie_Flowers_Award "Woodie Flowers Award")
 - [Keyes, Andrew](Andrew_Keyes "Andrew Keyes") - [ST](Student "Student") of [104](104 "104")

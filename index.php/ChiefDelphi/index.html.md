@@ -17,7 +17,7 @@ clip.png)](Image:ChiefDelphi.png "Enlarge")
 
 Chief Delphi portal screenshot
 
-The **Chief Delphi forums** ([chiefdelphi.com](http://chiefdelphi.com "http://chiefdelphi.com")) is a web forum, founded by the [Chief Delphi team](47 "47") and kept up-to-date by the dedicated work of [Brandon Martus](Brandon_Martus "Brandon Martus"), that serves the [FIRST community](FIRST_community "FIRST community"). It has transcended the realm of a team forum, and is truly an effort to unite the entire FIRST community. Through ventures such as [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes") the forums give back to the community. Members from all walks of [FIRST](first) life regularly visit the forums, both on- and off-season.
+The **Chief Delphi forums** ([chiefdelphi.com](http://chiefdelphi.com "http://chiefdelphi.com")) is a web forum, founded by the [Chief Delphi team](47 "47") and kept up-to-date by the dedicated work of [Brandon Martus](Brandon_Martus "Brandon Martus"), that serves the [FIRST community](first-community). It has transcended the realm of a team forum, and is truly an effort to unite the entire FIRST community. Through ventures such as [Unsung FIRST Heroes](Unsung_FIRST_Heroes "Unsung FIRST Heroes") the forums give back to the community. Members from all walks of [FIRST](first) life regularly visit the forums, both on- and off-season.
 
 ## Contents
 

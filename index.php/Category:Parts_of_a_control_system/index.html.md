@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-These items physically make up a [control system](Control_system "Control system").
+These items physically make up a [control system](control-system).
 
 ## Articles in category "Parts of a control system"
 
@@ -12,7 +12,7 @@ There are 5 articles in this category.
 
 ### E
 
-- [Encoder](Encoder "Encoder")
+- [Encoder](encoder)
 
 ### J
 

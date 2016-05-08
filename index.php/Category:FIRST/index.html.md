@@ -81,7 +81,7 @@ There are 7 articles in this category.
 
 ### F cont.
 
-- [FIRST community](FIRST_community "FIRST community")
+- [FIRST community](first-community)
 
 ### H
 

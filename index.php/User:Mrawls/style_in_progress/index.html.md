@@ -84,7 +84,7 @@ section: Article Names")]
 The wiki follows [Wikipedia's naming conventions](http://www.wikipedia.org/wiki/wikipedia:Naming_conventions "wikipedia:wikipedia:Naming_conventions"). To highlight the most important considerations:
 
 - Spelled-out phrases are preferred to acronyms, unless the subject is almost exclusively known by the acronym. E.g., [Continuously variable transmissions](Continuously_variable_transmissions "Continuously variable transmissions") as opposed to [CVT](CVT "CVT"), **but** [FIRST](first) as opposed to [For Inspiration and Recognition of Science and Technology](For_Inspiration_and_Recognition_of_Science_and_Technology "For Inspiration and Recognition of Science and Technology").
-- The first letter of the first word should be capitalized, with subsequent letters in lower case. The exception is if the word is a proper noun. E.g., [Gracious professionalism](Gracious_professionalism "Gracious professionalism"), **but** [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition").
+- The first letter of the first word should be capitalized, with subsequent letters in lower case. The exception is if the word is a proper noun. E.g., [Gracious professionalism](Gracious_professionalism "Gracious professionalism"), **but** [FIRST Robotics Competition](first-robotics-competition).
 - The correct names for _FIRST_ programs are: _FIRST_ Robotics Competition (FRC); _FIRST_ Vext Challenge (FVC); _FIRST_ LEGO League (FLL) and Junior _FIRST_ LEGO League (JFLL)
 - If an article is written for a specific year, use the convention "General Title (year)". E.g., [Robot Controller](robot-controller) talks about what a robot controller is, in general, but [Robot Controller (2003)](Robot_Controller_%282003%29 "Robot Controller \(2003\)") talks about the 2003 version. **Note** that for team pages, the format is "[team number] in [year]". E.g., [45 in 2003](45_in_2003 "45 in 2003"). The exception is to avoid cryptic titles like "45 (2003)".
 
@@ -114,7 +114,7 @@ section: ChiefDelphi Links")]
 
 #### ChiefDelphi Links
 
-Free links can be made to [ChiefDelphi](ChiefDelphi "ChiefDelphi") via ChiefDelphi template links. The format is very different,{{CD|path_to_chiefdelphi_page}}. This is a useful shorthand and is preferred over full URLs. The path should not contain `<http://www.chiefdelphi.com/>`. If you want something other than the name of the page as the link text, use {{CD2|path|displayed_title}}.
+Free links can be made to [ChiefDelphi](chiefdelphi) via ChiefDelphi template links. The format is very different,{{CD|path_to_chiefdelphi_page}}. This is a useful shorthand and is preferred over full URLs. The path should not contain `<http://www.chiefdelphi.com/>`. If you want something other than the name of the page as the link text, use {{CD2|path|displayed_title}}.
 
 ChiefDelphi threads may be directly linked to by using {{CDThread|thread_id}}. To change the displayed text, use {{CDThread2|thread_id|text}}.
 
@@ -123,7 +123,7 @@ section: External links")]
 
 ### External links
 
-FIRSTwiki is not a collection of links and articles with only links is highly **discouraged**. However, it is often important to link to outside resources -- especially [ChiefDelphi](ChiefDelphi "ChiefDelphi"), [InnovationFIRST](InnovationFIRST "InnovationFIRST"), and [FIRST](first). The format for this is single brackets, such as [<http://usfirst.org> FIRST homepage] that displays as [FIRST homepage](http://usfirst.org "http://usfirst.org"). Without any text after the URL, the link appears as a footnote. For instance, [<http://usfirst.org>] displays as [[1]](http://usfirst.org "http://usfirst.org").
+FIRSTwiki is not a collection of links and articles with only links is highly **discouraged**. However, it is often important to link to outside resources -- especially [ChiefDelphi](chiefdelphi), [InnovationFIRST](InnovationFIRST "InnovationFIRST"), and [FIRST](first). The format for this is single brackets, such as [<http://usfirst.org> FIRST homepage] that displays as [FIRST homepage](http://usfirst.org "http://usfirst.org"). Without any text after the URL, the link appears as a footnote. For instance, [<http://usfirst.org>] displays as [[1]](http://usfirst.org "http://usfirst.org").
 
 Please note that in most cases, external links should be placed at the **end** of an article, typically under the heading Resources. This is formed like this:
 
@@ -159,12 +159,12 @@ section: Introduction")]
 
 All articles should have the title or subject in **bold**. The title or subject can almost always be made part of the first sentence, but some articles simply have names. E.g.,
 
-- **Programming** is an integral part of building a [robot](Robot "Robot").
+- **Programming** is an integral part of building a [robot](robot).
 - The **default code** provides pre-programmed functionality to the [robot controller](robot-controller).
 
 If necessary, make the context clear. E.g.,
 
-- In [programming](Programming "Programming"), the **XOR** operation ...
+- In [programming](programming), the **XOR** operation ...
 
 [[edit](/index.php?title=FIRSTwiki:Style_guide&action=edit&section=11 "Edit
 section: Lead section")]

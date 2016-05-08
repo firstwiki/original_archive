@@ -28,7 +28,7 @@ Jump to: navigation, search
 - 1993 [Rug Rage](Rug_Rage "Rug Rage")
 - 1992 [Maize Craze](Maize_Craze "Maize Craze")
 
-**Triple Play** was the 2005 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") [game](Game "Game").
+**Triple Play** was the 2005 [FIRST Robotics Competition](first-robotics-competition) [game](Game "Game").
 
 ## Description
 

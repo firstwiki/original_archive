@@ -12,7 +12,7 @@ There are 3 articles in this category.
 
 ### D
 
-- [Drill motor](Drill_motor "Drill motor")
+- [Drill motor](drill-motor)
 
 ### O
 

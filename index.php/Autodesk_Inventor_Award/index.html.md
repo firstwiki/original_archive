@@ -4,8 +4,8 @@
 
 Jump to: navigation, search
 
-The **Autodesk Inventor Award** honors the [team](Team "Team") that best uses [Autodesk Inventor](Autodesk_Inventor "Autodesk
-Inventor") software to design its [robot](Robot "Robot"), posts various drawings of the robot onto the web, and includes photographs of the final robot.
+The **Autodesk Inventor Award** honors the [team](team) that best uses [Autodesk Inventor](Autodesk_Inventor "Autodesk
+Inventor") software to design its [robot](robot), posts various drawings of the robot onto the web, and includes photographs of the final robot.
 
 "From concept through completion the Autodesk Inventor Award was created to honor those who bring their ideas to reality."
 

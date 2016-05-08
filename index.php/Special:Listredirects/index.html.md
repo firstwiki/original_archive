@@ -42,7 +42,7 @@ View (previous 50) ([next 50](/index.php?title=Special:Listredirects&limit=50&of
 33. [FLL](/index.php?title=FLL&redirect=no "FLL") -> [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League")
 34. [F.I.R.S.T.](/index.php?title=F.I.R.S.T.&redirect=no "F.I.R.S.T.") -> [FIRST](first)
 35. [FIRST Lego League](/index.php?title=FIRST_Lego_League&redirect=no "FIRST Lego League") -> [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League")
-36. [Motor](/index.php?title=Motor&redirect=no "Motor") -> [Motors](Motors "Motors")
+36. [Motor](/index.php?title=Motor&redirect=no "Motor") -> [Motors](motors)
 37. [ChiefDelphi](/index.php?title=ChiefDelphi&redirect=no "ChiefDelphi") -> [Chief Delphi](Chief_Delphi "Chief Delphi")
 38. [Bodal 647](/index.php?title=Bodal_647&redirect=no "Bodal 647") -> [Bodal (647)](Bodal_%28647%29 "Bodal \(647\)")
 39. [Combat 647](/index.php?title=Combat_647&redirect=no "Combat 647") -> [Combat (647)](Combat_%28647%29 "Combat \(647\)")

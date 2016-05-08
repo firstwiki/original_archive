@@ -11,7 +11,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=Kit_of_parts&action=
 
 ---|---
 
-The Kit of parts is the set of parts, tools, documents, and software given to each team every year. Many of the parts are donated to [FIRST](first) by manufacturers (see [FIRST sponsors](FIRST_sponsors "FIRST sponsors")).
+The Kit of parts is the set of parts, tools, documents, and software given to each team every year. Many of the parts are donated to [FIRST](first) by manufacturers (see [FIRST sponsors](first-sponsors)).
 
 ## Contents
 
@@ -35,15 +35,15 @@ The Kit of parts is the set of parts, tools, documents, and software given to ea
 - [2006](/index.php?title=Kit_of_parts_%282006%29&action=edit "Kit of parts \(2006\)") [List of parts PDF](http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf "http://www2.usfirst.org/2006comp/Manual/5-The_Robot_Rev_F.pdf")
 - [2005](/index.php?title=Kit_of_parts_%282005%29&action=edit "Kit of parts \(2005\)") [List of parts PDF (234 KB)](http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf "http://www2.usfirst.org/2005comp/Manuals/Kit_of_Parts.pdf")
 
-## [Motors](Motors "Motors")
+## [Motors](motors)
 
-- See the [Index of Motors](Motors "Motors")
+- See the [Index of Motors](motors)
 
-## [Pneumatics](Pneumatics "Pneumatics")
+## [Pneumatics](pneumatics)
 
 The pneumatics manual is available from FIRST in .pdf format. The list of pneumatic equipment is on page 17 of the [pneumatics manual](http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf "http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf") (PDF, 5.05 MB)
 
-## [Control system](Control_system "Control system")
+## [Control system](control-system)
 
 - [Robot Controller](robot-controller)
 - [Operator Interface](operator-interface)
@@ -54,11 +54,11 @@ The pneumatics manual is available from FIRST in .pdf format. The list of pneuma
 
 "Electronics and circuitry" )
 
-- [Sensors](Sensors "Sensors")
+- [Sensors](sensor)
 
 ## [Structural](Chassis "Chassis")
 
-## [Drive train](Drive_train "Drive train")
+## [Drive train](drive-train)
 
 ## [Software](Software "Software")
 

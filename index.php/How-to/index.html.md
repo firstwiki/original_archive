@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**How-to** articles attempt to describe how to go about common tasks. For instance, a [programming](Programming "Programming") how-to might describe the process of [downloading a program](Downloading_a_program "Downloading a program"), while a [team management](Team_management "Team management") how-to might describe the process of [starting a team](Starting_a_team "Starting a team"). This page lists the variuos how-tos that [FIRSTwiki](FIRSTwiki "FIRSTwiki") currently has, or would like to have.
+**How-to** articles attempt to describe how to go about common tasks. For instance, a [programming](programming) how-to might describe the process of [downloading a program](Downloading_a_program "Downloading a program"), while a [team management](Team_management "Team management") how-to might describe the process of [starting a team](Starting_a_team "Starting a team"). This page lists the variuos how-tos that [FIRSTwiki](FIRSTwiki "FIRSTwiki") currently has, or would like to have.
 
 ## Contents
 
@@ -32,7 +32,7 @@ Jump to: navigation, search
 
 ## Programming Pre-2009
 
-[Programming](Programming "Programming") how-to's deal with programming issues specifically related to FIRST. The articles should focus on programming the [Robot Controller](/index.php?title=Robot_Controller_%282007%29&action=edit "Robot
+[Programming](programming) how-to's deal with programming issues specifically related to FIRST. The articles should focus on programming the [Robot Controller](/index.php?title=Robot_Controller_%282007%29&action=edit "Robot
 Controller \(2007\)") used from 2004-2008, though articles on [PBASIC](PBASIC "PBASIC") are acceptable.
 
 - - [Downloading a program](Downloading_a_program "Downloading a program")
@@ -49,11 +49,11 @@ Controller \(2007\)") used from 2004-2008, though articles on [PBASIC](PBASIC "P
 
 ## Drive train
 
-[Drive train](Drive_train "Drive train") how-tos deal with drive train issues specifically related to FIRST. Specific tips from a team's own experience are appropriate here.
+[Drive train](drive-train) how-tos deal with drive train issues specifically related to FIRST. Specific tips from a team's own experience are appropriate here.
 
 ## Electrical
 
-[Electrical](Electronics_and_circuitry "Electronics and circuitry") how-tos deal with electrical issues directly related to FIRST. Common tasks on creating a fully functional [control system](Control_system "Control system") are appropriate here.
+[Electrical](Electronics_and_circuitry "Electronics and circuitry") how-tos deal with electrical issues directly related to FIRST. Common tasks on creating a fully functional [control system](control-system) are appropriate here.
 
 - [Guide to soldering](Guide_to_soldering "Guide to soldering")
 - [Wire stripping](Wire_stripping "Wire stripping")
@@ -61,7 +61,7 @@ Controller \(2007\)") used from 2004-2008, though articles on [PBASIC](PBASIC "P
 ## Mechanical
 
 [Mechanical](Mechanical_processes_and_tools "Mechanical processes
-and tools") how-tos deal with mechanical issues directly related to FIRST. Issues such as guides on using certain [motors](Motors "Motors") included in the [kit of parts](Kit_of_parts "Kit of parts") would be appropriate, among other articles.
+and tools") how-tos deal with mechanical issues directly related to FIRST. Issues such as guides on using certain [motors](motors) included in the [kit of parts](kit-of-parts) would be appropriate, among other articles.
 
 - [Modifying a servo](Modifying_a_servo "Modifying a servo")
 - [Multi-positioning with pneumatics](/index.php?title=Multi-positioning_with_pneumatics&action=edit "Multi-positioning with pneumatics")
@@ -98,4 +98,4 @@ Website Award") or [Website Excellence Award](Website_Excellence_Award "Website 
 
 ## External Links
 
-[White Papers](http://www.chiefdelphi.com/forums/papers.php? "http://www.chiefdelphi.com/forums/papers.php?") on [ChiefDelphi](ChiefDelphi "ChiefDelphi") offer an excellent source of how-to type articles offered by the [FIRST community](FIRST_community "FIRST community").
+[White Papers](http://www.chiefdelphi.com/forums/papers.php? "http://www.chiefdelphi.com/forums/papers.php?") on [ChiefDelphi](chiefdelphi) offer an excellent source of how-to type articles offered by the [FIRST community](first-community).

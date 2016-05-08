@@ -12,11 +12,11 @@ The **robot** is the main entry item into the [FIRST Robotics Competition](FIRST
 Competition") and the [FIRST Lego League](FIRST_Lego_League "FIRST
 Lego League").
 
-Each [team](Team "Team") must enter one robot each year. Each robot usually has:
+Each [team](team) must enter one robot each year. Each robot usually has:
 
-- [Drive train](Drive_train "Drive train")
+- [Drive train](drive-train)
 - [Chassis](Chassis "Chassis") (frame)
-- [Control system](Control_system "Control system")
+- [Control system](control-system)
 - [Manipulator](/index.php?title=Manipulator&action=edit "Manipulator")
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-

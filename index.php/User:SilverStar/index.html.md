@@ -40,7 +40,7 @@ Jump to: navigation, search
 
 --------------------------------------------------------------------------------
 
-## [ChiefDelphi](ChiefDelphi "ChiefDelphi")
+## [ChiefDelphi](chiefdelphi)
 
 My ChiefDelphi username: SilverStar
 
@@ -48,7 +48,7 @@ My ChiefDelphi profile: <http://www.chiefdelphi.com/forums/member.php?u=1668>
 
 --------------------------------------------------------------------------------
 
-## [Programming](Programming "Programming")
+## [Programming](programming)
 
 I am proficient in the following langauges:
 

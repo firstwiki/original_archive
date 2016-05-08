@@ -8,7 +8,7 @@ Jump to: navigation, search
 _[FIRST Lego League](FIRST_Lego_League "FIRST Lego League" ) also has a page about [Programming](Programming_%28FLL%29 "Programming \(FLL\)" )._
 ```
 
-**Programming** is an integral part of building a [robot](Robot "Robot"). [Fabrication](Fabrication "Fabrication") is necessary to have something to work with; but, without the brains, the robot is impotent. This is where programming comes in. A program is simply a set of instructions to the computer (the [Robot Controller](robot-controller) in this case). The computer then responds, based on these instructions. The response might be effecting an actuator, sending power to a motor, or anything else the programmer desires.
+**Programming** is an integral part of building a [robot](robot). [Fabrication](Fabrication "Fabrication") is necessary to have something to work with; but, without the brains, the robot is impotent. This is where programming comes in. A program is simply a set of instructions to the computer (the [Robot Controller](robot-controller) in this case). The computer then responds, based on these instructions. The response might be effecting an actuator, sending power to a motor, or anything else the programmer desires.
 
 ## Contents
 
@@ -21,7 +21,7 @@ _[FIRST Lego League](FIRST_Lego_League "FIRST Lego League" ) also has a page abo
 
 ## Programming in FRC
 
-For the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), programming is done using a programming language and is [downloaded](Downloading_a_program "Downloading a
+For the [FIRST Robotics Competition](first-robotics-competition), programming is done using a programming language and is [downloaded](Downloading_a_program "Downloading a
 program") to the [RC](robot-controller).
 
 In the past, the robot controller has been programmed using a language such as [PIC C](PIC_C "PIC C") although it could also be programmed in [assembly](Assembly "Assembly") or the C code can have assembly in it. This generally isn't done unless speed is really important, and the need outweighs the costs in code maintenance.
@@ -44,7 +44,7 @@ reckoning") solution.
 ## See also
 
 - [Default code](Default_code "Default code")
-- [Control system](Control_system "Control system")
+- [Control system](control-system)
 - [Electronics and circuitry](Electronics_and_circuitry "Electronics and circuitry")
 - [MPLAB](MPLAB "MPLAB")
 - [Debugging](Debugging "Debugging")

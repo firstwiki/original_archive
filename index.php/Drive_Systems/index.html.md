@@ -14,7 +14,7 @@ Further information might be found on the [talk page](Talk:Drive_train "Talk:Dri
 expansion").<br>
 ---|---
 
-A [robot](Robot "Robot")'s **drive train** consists of all of the components used to make the robot move around the field. Most drive trains use [motors](Motor "Motor") to spin [wheels](Wheel "Wheel") or drive [treads](Tread "Tread") (belts). Some innovative teams also incoporate [pneumatics](Pneumatics "Pneumatics") and [servos](Servo "Servo") to allow shifting of [gears](/index.php?title=Gears&action=edit "Gears").
+A [robot](robot)'s **drive train** consists of all of the components used to make the robot move around the field. Most drive trains use [motors](motor) to spin [wheels](wheel) or drive [treads](tread) (belts). Some innovative teams also incoporate [pneumatics](pneumatics) and [servos](servo) to allow shifting of [gears](/index.php?title=Gears&action=edit "Gears").
 
 The drivetrain is by far the most important and crucial part of a robot. It may have other features, but without a functioning drive train those features are useless. Drive Trains can come in many different forms, each one having its own strengths and weaknesses. This overview will attempt to give an general synopsis of drive train do's and don'ts, as well as touch on the most common drive train incarnations.
 
@@ -43,7 +43,7 @@ The drivetrain is by far the most important and crucial part of a robot. It may 
 The optimum drive train for a robot is one that finds the correct balance of speed, maneuverability, and pushing power to fit within a team's strategy. Speed and pushing power are, in most cases, inversely proportional to one another. Adjusting the balance between speed and pushing power is accomplished by adjusting the gearing ratios between the input (motors) and the output (wheels).
 
 Maneuverability can be defined as the acceleration the robot can achieve in various directions. In the case of a [skid steer](Skid_steer "Skid
-steer") robot maneuverability would probably be defined as the speed and the precision with which the robot can rotate. Maneuverability is much trickier to manipulate as it is the result of not only a robots speed and available torque, but of the drive train's geometry as well. A high level of maneuverability is very important in robot design, although it can be just as much a curse as it is a blessing if not correctly understood. A robot that is both extremely fast and extremely maneuverable will be almost impossible to control without a certain level of sophistication within its controls, this can take the form of either genuine closed loop software control (e.g. [PID feedback loop](PID_feedback_loop "PID feedback loop")), or an extensive [open loop](Open_loop "Open loop") control system.
+steer") robot maneuverability would probably be defined as the speed and the precision with which the robot can rotate. Maneuverability is much trickier to manipulate as it is the result of not only a robots speed and available torque, but of the drive train's geometry as well. A high level of maneuverability is very important in robot design, although it can be just as much a curse as it is a blessing if not correctly understood. A robot that is both extremely fast and extremely maneuverable will be almost impossible to control without a certain level of sophistication within its controls, this can take the form of either genuine closed loop software control (e.g. [PID feedback loop](PID_feedback_loop "PID feedback loop")), or an extensive [open loop](open-loop) control system.
 
 ## Types of Drive Trains
 
@@ -93,7 +93,7 @@ An example of this type of drivetrain is team [2047s '07 bot](/media/0/09/2047_h
 
 ### Mecanum Drive
 
-A _[mecanum drive](Mecanum_wheel "Mecanum wheel")_ is another omnidirectional drive system. It consist of wheels with their rollers angled in a conventional four wheel drive layout. With an independent motor/transmission on each wheel, omni driving can be achieved by varying speeds. Mecanum is hard to understand without a picture, so [here](http://wiki.chiefdelphi.com/Image:2006iFRC1595.jpg "http://wiki.chiefdelphi.com/Image:2006iFRC1595.jpg") is a picture of the [1595](/index.php?title=1595&action=edit "1595") robot in its incomplete state, showing the drivetrain quite clearly.
+A _[mecanum drive](mecanum-wheel)_ is another omnidirectional drive system. It consist of wheels with their rollers angled in a conventional four wheel drive layout. With an independent motor/transmission on each wheel, omni driving can be achieved by varying speeds. Mecanum is hard to understand without a picture, so [here](http://wiki.chiefdelphi.com/Image:2006iFRC1595.jpg "http://wiki.chiefdelphi.com/Image:2006iFRC1595.jpg") is a picture of the [1595](/index.php?title=1595&action=edit "1595") robot in its incomplete state, showing the drivetrain quite clearly.
 
 ### Tank Tread Drive
 

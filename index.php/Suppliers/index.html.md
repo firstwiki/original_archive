@@ -30,7 +30,7 @@ Jump to: navigation, search
 - [Martin Sprocket & Gear](http://www.martinsprocket.com/ "http://www.martinsprocket.com/")
 - [AndyMark](http://www.andymark.biz/ "http://www.andymark.biz/") - FIRST-specific gearboxes and omniwheels
 - [Pic Design](http://www.pic-design.com/ "http://www.pic-design.com/")- For those hard to find 0.7M metric gears to mesh with the drill motor pinion
-- [Skyway Wheels](http://www.skywaywheels.com/ "http://www.skywaywheels.com/") - Supplier of wheels for [KOP](Kit_of_parts "Kit of parts")
+- [Skyway Wheels](http://www.skywaywheels.com/ "http://www.skywaywheels.com/") - Supplier of wheels for [KOP](kit-of-parts)
 - [Azusa Engineering](http://www.azusaeng.com/ "http://www.azusaeng.com/") - Large aluminum plate sprockets
 - [Capitol USA Minimoto](http://www.dcminimoto.com/pinionsandsprockets.htm "http://www.dcminimoto.com/pinionsandsprockets.htm") - #25 Aluminum sprockets
 - [Rush Gears Inc](http://www.rushgears.com/ "http://www.rushgears.com/")

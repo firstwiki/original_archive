@@ -12,7 +12,7 @@ The following pages link to here:
 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Storage_tank&limit=20&from=0 "Special:Whatlinkshere/Storage tank") | [50](/index.php?title=Special:Whatlinkshere/Storage_tank&limit=50&from=0 "Special:Whatlinkshere/Storage tank") | [100](/index.php?title=Special:Whatlinkshere/Storage_tank&limit=100&from=0 "Special:Whatlinkshere/Storage tank") | [250](/index.php?title=Special:Whatlinkshere/Storage_tank&limit=250&from=0 "Special:Whatlinkshere/Storage tank") | [500](/index.php?title=Special:Whatlinkshere/Storage_tank&limit=500&from=0 "Special:Whatlinkshere/Storage tank")).
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 - [Solenoid](Solenoid "Solenoid")
 - [Cylinder](Cylinder "Cylinder")
 - [Compressor](Compressor "Compressor")

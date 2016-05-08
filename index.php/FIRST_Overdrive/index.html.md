@@ -43,7 +43,7 @@ Further information might be found on the [talk page](/index.php?title=Talk:FIRS
 - 1993 [Rug Rage](Rug_Rage "Rug Rage")
 - 1992 [Maize Craze](Maize_Craze "Maize Craze")
 
-**FIRST Overdrive** is the 2008 game for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), announced on January 5, 2008\.
+**FIRST Overdrive** is the 2008 game for the [FIRST Robotics Competition](first-robotics-competition), announced on January 5, 2008\.
 
 In Overdrive, teams race around the field and compete to complete counterclockwise laps around a central barrier while manipulating large 40-inch (1 m) diameter "Trackballs" over and under overpasses to score additional points.
 

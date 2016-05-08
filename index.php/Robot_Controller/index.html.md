@@ -6,15 +6,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -33,12 +33,12 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
@@ -46,18 +46,18 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-The **Robot Controller**, or **RC** is the unit of the [control system](Control_system "Control system") that processes [input](Input "Input"), is responsible for [communication](Radio_modem "Radio modem"), and controls the robot through various [outputs](Output "Output"). There are two types of Robot Controllers -- the Full-size version and the controller from the [Robovation](robovation) kit.
+The **Robot Controller**, or **RC** is the unit of the [control system](control-system) that processes [input](input), is responsible for [communication](Radio_modem "Radio modem"), and controls the robot through various [outputs](output). There are two types of Robot Controllers -- the Full-size version and the controller from the [Robovation](robovation) kit.
 
-The Full-size Robot Controller receives data from the [Operator Interface](operator-interface), and controls the [spike relays](spike-relay), [motors](Motors "Motors"), and [servos](Servo "Servo"). It is the unit that is [programmed](Programming "Programming").
+The Full-size Robot Controller receives data from the [Operator Interface](operator-interface), and controls the [spike relays](spike-relay), [motors](motors), and [servos](servo). It is the unit that is [programmed](programming).
 
 ## History
 

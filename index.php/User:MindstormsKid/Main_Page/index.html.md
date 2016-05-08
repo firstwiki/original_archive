@@ -58,7 +58,7 @@ Raising the Bar") - [Modifying a servo](Modifying_a_servo "Modifying a servo")
 
 --------------------------------------------------------------------------------
 
-- [FIRST](first) announces a new control system for the 2009 [FRC](FIRST_Robotics_Competition "FIRST Robotics Competition") season. [Read More...](Robot_Controller_%282009%29 "Robot Controller \(2009\)")
+- [FIRST](first) announces a new control system for the 2009 [FRC](first-robotics-competition) season. [Read More...](Robot_Controller_%282009%29 "Robot Controller \(2009\)")
 - In a move that will have significant impact on the [FIRST LEGO League](FIRST_Lego_League "FIRST Lego League") program, LEGO Group announces new version of LEGO Minstorms - LEGO Mindstorms NXT - [Read More...](NXT "NXT")
 - Upgraded to MediaWiki 1.5.3 on December 12, 2005
 - [FIRSTcast](FIRSTcast "FIRSTcast") (a podcast about first) launches September 5th, 2005.<br>

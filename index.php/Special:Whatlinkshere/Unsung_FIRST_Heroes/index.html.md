@@ -18,7 +18,7 @@ cial:Whatlinkshere/Unsung_FIRST_Heroes&limit=100&from=0 "Special:Whatlinkshere/U
 :Whatlinkshere/Unsung_FIRST_Heroes&limit=500&from=0 "Special:Whatlinkshere/Unsung FIRST Heroes")).
 
 - [Index of people](Index_of_people "Index of people")
-- [ChiefDelphi](ChiefDelphi "ChiefDelphi")
+- [ChiefDelphi](chiefdelphi)
 - [Unsung FIRST Hero](/index.php?title=Unsung_FIRST_Hero&redirect=no "Unsung FIRST Hero") (redirect page) 
 
   - [John V-Neun](John_V-Neun "John V-Neun")

@@ -15,7 +15,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Breaka
 - [Main Page](Main_Page "Main Page")
 - [Stack Attack](Stack_Attack "Stack Attack")
 - [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar")
-- [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition")
+- [FIRST Robotics Competition](first-robotics-competition)
 - [Current events](Current_events "Current events")
 - [FIRSTwiki:Announcements](FIRSTwiki:Announcements "FIRSTwiki:Announcements")
 - [Game (FRC)](Game_%28FRC%29 "Game \(FRC\)")

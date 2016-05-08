@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Autodesk Inventor** is a parametric computer aided design software package. A software license is provided to [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") teams by Autodesk, Inc. for use in developing, prototyping, and testing computer-based models of [robots](Robot "Robot") and robot assemblies.
+**Autodesk Inventor** is a parametric computer aided design software package. A software license is provided to [FIRST Robotics Competition](first-robotics-competition) teams by Autodesk, Inc. for use in developing, prototyping, and testing computer-based models of [robots](robot) and robot assemblies.
 
 The software's parametric nature allows designers excellent flexibility in making design changes through a set of constant and derived data. This means that, for example, changing the hole size or pattern for one part automatically changes or adjusts the mating hole size and pattern on an adjacent part.
 

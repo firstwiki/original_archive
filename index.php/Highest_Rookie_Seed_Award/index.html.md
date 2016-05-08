@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Highest Rookie Seed Award** celebrates the highest-seeded rookie [team](Team "Team") at the conclusion of the qualifying rounds.
+The **Highest Rookie Seed Award** celebrates the highest-seeded rookie [team](team) at the conclusion of the qualifying rounds.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

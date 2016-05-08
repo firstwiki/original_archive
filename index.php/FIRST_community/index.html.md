@@ -17,7 +17,7 @@ The [FIRST](first) community consists of the entire group of people that either 
 
 Overall this includes:
 
-- [Teams](Team "Team")
+- [Teams](team)
 
   - [Students](Students "Students")
   - [Mentors](Mentors "Mentors")

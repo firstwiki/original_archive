@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**[Welcome](FIRSTwiki:New_users_page "FIRSTwiki:New users page")** to [FIRSTwiki](FIRSTwiki "FIRSTwiki")! We are building an open-content encyclopedia for the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"). Learn [how to edit pages](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page"), experiment in the [sandbox](FIRSTwiki:Sandbox "FIRSTwiki:Sandbox"), and visit our [Community Portal](FIRSTwiki:Community_Portal "FIRSTwiki:Community Portal") to find out how **you** can participate in the development of FIRSTwiki. For those particularly eager to get started, find out [what to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute").
+**[Welcome](FIRSTwiki:New_users_page "FIRSTwiki:New users page")** to [FIRSTwiki](FIRSTwiki "FIRSTwiki")! We are building an open-content encyclopedia for the [FIRST Robotics Competition](first-robotics-competition). Learn [how to edit pages](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one edit a page"), experiment in the [sandbox](FIRSTwiki:Sandbox "FIRSTwiki:Sandbox"), and visit our [Community Portal](FIRSTwiki:Community_Portal "FIRSTwiki:Community Portal") to find out how **you** can participate in the development of FIRSTwiki. For those particularly eager to get started, find out [what to contribute](FIRSTwiki:What_to_contribute "FIRSTwiki:What to contribute").
 
 --------------------------------------------------------------------------------
 
@@ -60,13 +60,13 @@ On **[Teams](Teams "Teams")**
 
 On **[Competitions](Competitions "Competitions")**
 
-- **[FRC](FIRST_Robotics_Competition "FIRST Robotics Competition"):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Awards](Awards "Awards") - [Games](Game "Game")
+- **[FRC](first-robotics-competition):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Awards](Awards "Awards") - [Games](Game "Game")
 - **[FLL](FIRST_LEGO_League "FIRST LEGO League"):** [Events](Category:FLL_Events "Category:FLL Events") - [Challenges](FLL_Challenges "FLL Challenges") - [Awards](FLL_Awards "FLL Awards")
 - **[FTC](Vex "Vex"):** [Events](Index_of_events_%28Vex%29 "Index of events \(Vex\)") - [Games](Game_%28Vex%29 "Game \(Vex\)") - [Awards](Awards_%28Vex%29 "Awards \(Vex\)")
 
 On **[Technical Topics](Technical "Technical")**
 
-- [Kit of parts](Kit_of_parts "Kit of parts") ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](Motors "Motors") - [Pneumatics](Pneumatics "Pneumatics") - [Control system](Control_system "Control system") - [Programming](Programming "Programming") - [3D graphics](3D_graphics "3D graphics") - [Physics](Physics "Physics") - [Suppliers](Suppliers "Suppliers")
+- [Kit of parts](kit-of-parts) ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](motors) - [Pneumatics](pneumatics) - [Control system](control-system) - [Programming](programming) - [3D graphics](3D_graphics "3D graphics") - [Physics](physics) - [Suppliers](Suppliers "Suppliers")
 
 On **[Non-Technical Topics](Non-technical "Non-technical")**
 

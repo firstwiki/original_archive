@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This is a subcategory for motors, which are part of the [kit](Kit_of_parts "Kit of parts").
+This is a subcategory for motors, which are part of the [kit](kit-of-parts).
 
 ## Articles in category "Motors"
 
@@ -12,11 +12,11 @@ There are 10 articles in this category.
 
 ## #
 
-- [Motors](Motors "Motors")
+- [Motors](motors)
 
 ### B
 
-- [Banebots motor](Banebots_motor "Banebots motor")
+- [Banebots motor](banebots-motor)
 
 ### C
 
@@ -24,23 +24,23 @@ There are 10 articles in this category.
 
 ### D
 
-- [Denso window motor](Denso_window_motor "Denso window motor")
-- [Drill motor](Drill_motor "Drill motor")
+- [Denso window motor](denso-window-motor)
+- [Drill motor](drill-motor)
 
 ### F
 
-- [Fisher Price motor](Fisher_Price_motor "Fisher Price motor")
+- [Fisher Price motor](fisher-price-motor)
 
 ### G
 
-- [Globe motor](Globe_motor "Globe motor") |
+- [Globe motor](globe-motor) |
 
 ### V
 
-- [Van door motor](Van_door_motor "Van door motor")
+- [Van door motor](van-door-motor)
 
 ### W
 
-- [Window motor](Window_motor "Window motor")
-- [Wiring bias](Wiring_bias "Wiring bias")<br>
+- [Window motor](window-motor)
+- [Wiring bias](wiring-bias)<br>
   ---|---|---

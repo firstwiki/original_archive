@@ -41,13 +41,13 @@ FIRST_Logo.png)](Image:FIRST_Logo.png)
 
 On **[Competitions](Competitions "Competitions")**
 
-- **[FRC](FIRST_Robotics_Competition "FIRST Robotics Competition"):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Games](Game_%28FRC%29 "Game \(FRC\)") - [Awards](Awards "Awards")
+- **[FRC](first-robotics-competition):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Games](Game_%28FRC%29 "Game \(FRC\)") - [Awards](Awards "Awards")
 - **[FLL](FIRST_LEGO_League "FIRST LEGO League"):** [Events](Category:FLL_Events "Category:FLL Events") - [Challenges](FLL_Challenges "FLL Challenges") - [Awards](FLL_Awards "FLL Awards")
 - **[FTC](FIRST_Tech_Challenge "FIRST Tech Challenge"):** [Events](Index_of_events_%28FTC%29 "Index of events \(FTC\)") - [Games](Game_%28FTC%29 "Game \(FTC\)") - [Awards](Awards_%28FTC%29 "Awards \(FTC\)")
 
 On **[Technical Topics](Technical "Technical")**
 
-- [Kit of parts](Kit_of_parts "Kit of parts") ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](Motors "Motors") - [Pneumatics](Pneumatics "Pneumatics") - [Control system](Control_system "Control system") - [Programming](Programming "Programming") - [3D graphics](3D_graphics "3D graphics") - [Physics](Physics "Physics") - [Suppliers](Suppliers "Suppliers")
+- [Kit of parts](kit-of-parts) ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](motors) - [Pneumatics](pneumatics) - [Control system](control-system) - [Programming](programming) - [3D graphics](3D_graphics "3D graphics") - [Physics](physics) - [Suppliers](Suppliers "Suppliers")
 
 On **[Non-Technical Topics](Non-technical "Non-technical")**
 
@@ -75,7 +75,7 @@ What's happening now
 - The [San Diego Regional](San_Diego_Regional "San Diego Regional") concludes teams [3476](3476 "3476"), [4161](4161 "4161") and [3255](3255 "3255") proceeding to [National Championships](The_Championship_Event "The Championship Event").
 - The [Alamo Regional](Alamo_Regional "Alamo Regional"), [Smoky Mountains Regional](Smoky_Mountains_Regional "Smoky Mountains Regional")(pictured), [BAE Systems Granite State Regional](BAE_Systems_Granite_State_Regional "BAE Systems Granite State Regional"), and [Greater Kansas City Regional](Greater_Kansas_City_Regional "Greater Kansas City Regional") conclude with teams [922](922 "922"), [2936](2936 "2936"), [148](148 "148"), [1477](1477 "1477"), [457](457 "457"), [231](231 "231"), [4264](4264 "4264"), [2386](2386 "2386"), [1319](1319 "1319"), [772](772 "772"), [234](234 "234"), [3259](3259 "3259"), [886](886 "886"), [2791](2791 "2791"), [1519](1519 "1519"), [1831](1831 "1831"), [58](58 "58"), [131](131 "131"), [1769](1769 "1769"), [935](935 "935"), [1208](1208 "1208"), [16](16 "16"), [3784](3784 "3784"), and [1986](1986 "1986") proceeding to the [National Championships](The_Championship_Event "The Championship Event").
 - Stop Build Day for [Rebound Rumble](Rebound_Rumble "Rebound Rumble").
-- The new [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
+- The new [FIRST Robotics Competition](first-robotics-competition) game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
 
 Latest FIRST games: [Rebound Rumble](Rebound_Rumble "Rebound
 Rumble") - [Bowled Over](Bowled_Over "Bowled Over") - [Logo Motion](Logo_Motion "Logo Motion")
@@ -98,11 +98,11 @@ controller") - [Taurus](Taurus_%281073%29 "Taurus \(1073\)")
 
 About FIRST
 
-_[FIRST](first)_ is an organization founded by inventor [Dean Kamen](Dean_Kamen "Dean Kamen") in 1989 as a way of getting students involved in and excited about science and technology. _FIRST_ has grown from just a few hundred students and mentors in 1992, and now reaches over 210,000 students worldwide.
+_[FIRST](first)_ is an organization founded by inventor [Dean Kamen](dean-kamen) in 1989 as a way of getting students involved in and excited about science and technology. _FIRST_ has grown from just a few hundred students and mentors in 1992, and now reaches over 210,000 students worldwide.
 
 About FIRSTwiki
 
-[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), designed to provide the [FIRST community](FIRST_community "FIRST community") a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
+[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](first-robotics-competition), designed to provide the [FIRST community](first-community) a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
 professionalism"), members contribute back to the community by recording useful information that other members can benefit from.
 
 How to get started

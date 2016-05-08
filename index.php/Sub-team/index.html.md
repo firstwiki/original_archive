@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A sub-team is a unit within a [team](Team "Team"). Sub-teams have a specific part of the task, whether it involves building the robot or not.
+A sub-team is a unit within a [team](team). Sub-teams have a specific part of the task, whether it involves building the robot or not.
 
 A list of common sub-teams:
 

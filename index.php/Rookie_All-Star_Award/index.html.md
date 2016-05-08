@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **Rookie All-Star Award** celebrates the rookie [team](Team "Team") exemplifying a young but strong partnership effort, as well as implementing the mission of [FIRST](first) to inspire students to learn more about science and technology. FIRST encourages, but does not require, rookie teams to enter a [Chairman's Award](Chairman%27s_Award "Chairman's Award") submission relative to this award.
+The **Rookie All-Star Award** celebrates the rookie [team](team) exemplifying a young but strong partnership effort, as well as implementing the mission of [FIRST](first) to inspire students to learn more about science and technology. FIRST encourages, but does not require, rookie teams to enter a [Chairman's Award](Chairman%27s_Award "Chairman's Award") submission relative to this award.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

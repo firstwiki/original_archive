@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Elimination matches consist of two 3-[team](Team "Team") [alliances](Alliance "Alliance") playing against each other. QF is "Quarter-finals." SF is "Semi-finals."
+Elimination matches consist of two 3-[team](team) [alliances](Alliance "Alliance") playing against each other. QF is "Quarter-finals." SF is "Semi-finals."
 
 ```
   QF  SF  

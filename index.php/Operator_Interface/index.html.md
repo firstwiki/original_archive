@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -31,28 +31,28 @@ The [Control System](Control_system "Control system")
 
   - [Robovation](robovation)
 
-- [Input](Input "Input")
+- [Input](input)
 
   - **Operator Interface**
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-The **Operator Interface**, or **OI** is the unit of the [control system](Control_system "Control system") that collects [input](Input "Input") controlled by the human [operator](Operator "Operator") and transmits it to the [Robot Controller](robot-controller).
+The **Operator Interface**, or **OI** is the unit of the [control system](control-system) that collects [input](input) controlled by the human [operator](Operator "Operator") and transmits it to the [Robot Controller](robot-controller).
 
 In the past, the OI communicated with the RC using either a [radio modem](Radio_modem "Radio modem") or [tethered connection](Tether "Tether"). The OI inputs data from 4 [ports](/index.php?title=Ports&action=edit "Ports"). It also transmited data out of the [DASHBOARD port](/index.php?title=DASHBOARD_port&action=edit "DASHBOARD port").
 

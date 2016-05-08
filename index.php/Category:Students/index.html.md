@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-[Students](Student "Student") are the building blocks of [FRC](FRC "FRC") [teams](Team "Team").
+[Students](Student "Student") are the building blocks of [FRC](FRC "FRC") [teams](team).
 
 ## Articles in category "Students"
 

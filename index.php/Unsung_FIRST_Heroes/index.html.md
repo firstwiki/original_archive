@@ -4,12 +4,12 @@
 
 Jump to: navigation, search
 
-**The Unsung [FIRST](first) Hero Award (UFH)** was created by [Amanda Morrison](User:Amanda_Morrison "User:Amanda Morrison"), [Amanda Aldridge](/index.php?title=Amanda_Aldridge&action=edit "Amanda Aldridge"), and Josh Hambright, members of the [ChiefDelphi](ChiefDelphi "ChiefDelphi") community, to recognize exceptional individuals who have contributed greatly to the success of [FIRST](first) but have largely gone unnoticed in official [awards](Awards "Awards") ceremonies, like the [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award").
+**The Unsung [FIRST](first) Hero Award (UFH)** was created by [Amanda Morrison](User:Amanda_Morrison "User:Amanda Morrison"), [Amanda Aldridge](/index.php?title=Amanda_Aldridge&action=edit "Amanda Aldridge"), and Josh Hambright, members of the [ChiefDelphi](chiefdelphi) community, to recognize exceptional individuals who have contributed greatly to the success of [FIRST](first) but have largely gone unnoticed in official [awards](Awards "Awards") ceremonies, like the [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award").
 
 [FIRST](first) community members who have already received a [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers
 Award"), either nationally or regionally are not eligible for the Unsung FIRST Heroes award in the future.
 
-More information can be found at the [ChiefDelphi](ChiefDelphi "ChiefDelphi") website.
+More information can be found at the [ChiefDelphi](chiefdelphi) website.
 
 Four Unsung FIRST Heros have won the [Championship Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award") after being honored by UFH: [David Kelso](David_Kelso "David Kelso"), [Paul Copioli](Paul_Copioli "Paul Copioli"), [Dan Green](/index.php?title=Dan_Green&action=edit "Dan Green"), and [Mark Breadner](/index.php?title=Mark_Breadner&action=edit "Mark Breadner"). Numerous others have later won the award at the regional level.
 

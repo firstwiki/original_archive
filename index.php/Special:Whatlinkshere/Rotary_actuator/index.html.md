@@ -13,7 +13,7 @@ The following pages link to here:
 
 View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=20&from=0 "Special:Whatlinkshere/Rotary actuator") | [50](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=50&from=0 "Special:Whatlinkshere/Rotary actuator") | [100](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=100&from=0 "Special:Whatlinkshere/Rotary actuator") | [250](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=250&from=0 "Special:Whatlinkshere/Rotary actuator") | [500](/index.php?title=Special:Whatlinkshere/Rotary_actuator&limit=500&from=0 "Special:Whatlinkshere/Rotary actuator")).
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 - [Solenoid](Solenoid "Solenoid")
 - [Cylinder](Cylinder "Cylinder")
 - [Compressor](Compressor "Compressor")

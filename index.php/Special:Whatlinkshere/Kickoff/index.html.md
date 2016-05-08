@@ -14,7 +14,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Kickof
 
 - [FIRST](first)
 - [Current events](Current_events "Current events")
-- [IR sensor](IR_sensor "IR sensor")
+- [IR sensor](tsop34840)
 - [Triple Play/Official hint](Triple_Play/Official_hint "Triple Play/Official hint")
 - [Kickoff event](/index.php?title=Kickoff_event&redirect=no "Kickoff event") (redirect page)
 - [Kick-off](/index.php?title=Kick-off&redirect=no "Kick-off") (redirect page) 

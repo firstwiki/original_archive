@@ -38,7 +38,7 @@ ing_the_Bar&action=edit "http://www.firstwiki.net/index.php?title=FIRST_Frenzy
 - 1993 [Rug Rage](Rug_Rage "Rug Rage")
 - 1992 [Maize Craze](Maize_Craze "Maize Craze")
 
-**FIRST Frenzy: Raising the Bar** was the 2004 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") [game](Game "Game").
+**FIRST Frenzy: Raising the Bar** was the 2004 [FIRST Robotics Competition](first-robotics-competition) [game](Game "Game").
 
 [[edit](/index.php?title=FIRST_Frenzy:_Raising_the_Bar&action=edit&section=1 "Edit section: Field Layout")]
 

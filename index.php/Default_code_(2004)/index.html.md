@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The **default code** provides pre-programmed functionality to the [Robot Controller](robot-controller). This can allow teams to spend more time on [fabricating](Fabrication "Fabrication") their [robot](Robot "Robot"), so long as they don't need more complicated control. But the default code also provides the starting point for [programming](Programming "Programming") the FRC, and it is necessary to understand the code before you decide to change it.
+The **default code** provides pre-programmed functionality to the [Robot Controller](robot-controller). This can allow teams to spend more time on [fabricating](Fabrication "Fabrication") their [robot](robot), so long as they don't need more complicated control. But the default code also provides the starting point for [programming](programming) the FRC, and it is necessary to understand the code before you decide to change it.
 
 [InnovationFIRST](InnovationFIRST "InnovationFIRST") provides a detailed description of the pre-programmed functionality of the default code (see [Default Code Reference Guide](http://innovationfirst.com/FIRSTRobotics/p
 dfs/FRC_RC_Default_Software_Ref_Guide_2004-1-7.pdf "http://innovationfirst.com
@@ -92,7 +92,7 @@ section: Default Routine")]
 
 ### Default Routine
 
-And now we get to the meat of the program. First, the function maps analog inputs to PWM outputs. So if you had a [potentiometer](Potentiometer "Potentiometer") connected to p4_wheel, for instance, it would control pwm12, which might be connected to a [speed controller](victor-884) and therefore control a [motor](Motor "Motor"). By default, port 1 is assumed to have a <joystick> connected to it, and pwm13-16 are assumed to control the drive motors. The function then maps the joystick buttons to specific relay outputs. It causes certain PWM outputs to be limited by [limit switches](Limit_switch "Limit switch"). And finally, it controls the robot feedback LEDs on the [OI](OI "OI").
+And now we get to the meat of the program. First, the function maps analog inputs to PWM outputs. So if you had a [potentiometer](Potentiometer "Potentiometer") connected to p4_wheel, for instance, it would control pwm12, which might be connected to a [speed controller](victor-884) and therefore control a [motor](motor). By default, port 1 is assumed to have a <joystick> connected to it, and pwm13-16 are assumed to control the drive motors. The function then maps the joystick buttons to specific relay outputs. It causes certain PWM outputs to be limited by [limit switches](Limit_switch "Limit switch"). And finally, it controls the robot feedback LEDs on the [OI](OI "OI").
 
 [[edit](/index.php?title=Default_code_%282004%29&action=edit&section=6 "Edit
 section: user_routines_fast.c")]
@@ -122,7 +122,7 @@ section: Process_Data_From_Local_IO")]
 
 There is nothing at all in this function in the default code. It is useful for code that must execute every loop and does not need to have fresh data every time through.
 
-_See also:_ [Programming](Programming "Programming"), [Programming the Robot Controller](Programming_the_Robot_Controller "Programming
+_See also:_ [Programming](programming), [Programming the Robot Controller](Programming_the_Robot_Controller "Programming
 the Robot Controller")
 
 [[edit](/index.php?title=Default_code_%282004%29&action=edit&section=10 "Edit

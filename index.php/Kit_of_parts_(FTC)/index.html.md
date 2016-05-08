@@ -96,7 +96,7 @@ section: Inputs / Output Ports")]
 
 ### Inputs / Output Ports
 
-The Vex Controller has 16 [Analog](Analog "Analog")/[Digital](digital) [Input](Input "Input")/[Output](Output "Output") Ports, one RX and one TX port, 8 [Pulse-Width-Modulation](pwm) Motor Ports, and 8 [Interrupt](Interrupts "Interrupts") Ports. There are also two (RX1 and RX2) Radio Modem/Tether ports and one Serial Port on the side of the controller.
+The Vex Controller has 16 [Analog](Analog "Analog")/[Digital](digital) [Input](input)/[Output](output) Ports, one RX and one TX port, 8 [Pulse-Width-Modulation](pwm) Motor Ports, and 8 [Interrupt](Interrupts "Interrupts") Ports. There are also two (RX1 and RX2) Radio Modem/Tether ports and one Serial Port on the side of the controller.
 
 [[edit](/index.php?title=Kit_of_parts_%28FTC%29&action=edit&section=4 "Edit
 section: Analog / Digital Ports")]
@@ -118,7 +118,7 @@ section: Motor Ports")]
 
 #### Motor Ports
 
-The eight Motor Ports on the Vex Controller use [Pulse-Width- Modulation](pwm) to control the Vex Motors and Servos. Standard hobby [Servos](Servo "Servo") and the [Speed Controllers](speed-controller) used on full- size FRC robots may also be controlled via the Vex Motor ports.
+The eight Motor Ports on the Vex Controller use [Pulse-Width- Modulation](pwm) to control the Vex Motors and Servos. Standard hobby [Servos](servo) and the [Speed Controllers](speed-controller) used on full- size FRC robots may also be controlled via the Vex Motor ports.
 
 [[edit](/index.php?title=Kit_of_parts_%28FTC%29&action=edit&section=7 "Edit
 section: VEX Motors and Servos")]
@@ -144,14 +144,14 @@ section: Sensors")]
 
 ## Sensors
 
-In the current line of Vex parts, there are six official Vex [sensors](sensor). These six sensors, include [limit switches](Limit_switch "Limit switch"), bumper switches, [light sensors](/index.php?title=Light_sensor&action=edit "Light sensor"), [line following](Line_following "Line following") sensors, [ultrasonic range finders](/index.php?title=Ultrasonic_range_finder&action=edit "Ultrasonic range finder"), and optical [shaft encoders](Encoder "Encoder"). The Vex limit and bumper switches report a <digital> [signal](/index.php?title=Signal&action=edit "Signal"), while the light sensor and line follower use a <analog> signal. The Ultrasonic and Optical Shaft Encoders both utilize Interrupt ports when being programmed. The Ultrasonic part also needs a digital output port to create the ping pulse.
+In the current line of Vex parts, there are six official Vex [sensors](sensor). These six sensors, include [limit switches](Limit_switch "Limit switch"), bumper switches, [light sensors](/index.php?title=Light_sensor&action=edit "Light sensor"), [line following](line-following) sensors, [ultrasonic range finders](/index.php?title=Ultrasonic_range_finder&action=edit "Ultrasonic range finder"), and optical [shaft encoders](encoder). The Vex limit and bumper switches report a <digital> [signal](/index.php?title=Signal&action=edit "Signal"), while the light sensor and line follower use a <analog> signal. The Ultrasonic and Optical Shaft Encoders both utilize Interrupt ports when being programmed. The Ultrasonic part also needs a digital output port to create the ping pulse.
 
 [[edit](/index.php?title=Kit_of_parts_%28FTC%29&action=edit&section=11 "Edit
 section: Pneumatics")]
 
 ## Pneumatics
 
-Although not legal in the 2006 FIRST Vex Challenge, [VexLabs](/index.php?title=VexLabs&action=edit "VexLabs") sells [pneumatics](Pneumatics "Pneumatics") kits for the Vex Robotics System. These consist of a [accumulator](/index.php?title=Accumulator&action=edit "Accumulator"), [regulator](/index.php?title=Regulator&action=edit "Regulator"), [solenoids](Solenoid "Solenoid"), and single and double acting cylinders. The solenoids can be controlled via the [digital output](/index.php?title=Digital_output&action=edit "Digital output") ports on the Vex Controller. The maximum recommended pressure for the accumulator is 120 PSI. The cylinders have a bore diameter of 10 millimeters, and a bore stroke of 200 millimeters. (Source: VexLabs [[4]](http://www.vexlabs.com/vex-
+Although not legal in the 2006 FIRST Vex Challenge, [VexLabs](/index.php?title=VexLabs&action=edit "VexLabs") sells [pneumatics](pneumatics) kits for the Vex Robotics System. These consist of a [accumulator](/index.php?title=Accumulator&action=edit "Accumulator"), [regulator](/index.php?title=Regulator&action=edit "Regulator"), [solenoids](Solenoid "Solenoid"), and single and double acting cylinders. The solenoids can be controlled via the [digital output](/index.php?title=Digital_output&action=edit "Digital output") ports on the Vex Controller. The maximum recommended pressure for the accumulator is 120 PSI. The cylinders have a bore diameter of 10 millimeters, and a bore stroke of 200 millimeters. (Source: VexLabs [[4]](http://www.vexlabs.com/vex-
 robotics-pneumatic-parts.shtml "http://www.vexlabs.com/vex-robotics-pneumatic-
 parts.shtml"))
 

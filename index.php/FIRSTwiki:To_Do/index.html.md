@@ -110,9 +110,9 @@ In order to enhance the content, I propose the completion of an outline, or [FIR
 
 ### Technical
 
-- page for each [motor](Motor "Motor") --[Max](User:Max "User:Max")
-- set of pages for [pneumatics](Pneumatics "Pneumatics") --[Max](User:Max "User:Max")
-- [Programming](Programming "Programming") --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") (Stub) 
+- page for each [motor](motor) --[Max](User:Max "User:Max")
+- set of pages for [pneumatics](pneumatics) --[Max](User:Max "User:Max")
+- [Programming](programming) --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") (Stub) 
 
   - [Programming the FRC](Programming_the_FRC "Programming the FRC") (Stub)
   - [resources for C programming](Resources_for_C_programming "Resources for C programming") --[Max](User:Max "User:Max") 22:36, 27 May 2004 (EDT) (stub)

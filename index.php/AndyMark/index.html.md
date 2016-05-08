@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-[Andy Baker](Andy_Baker "Andy Baker") and Mark Koors started **AndyMark**, Inc., a for-profit company that sells parts and assemblies geared specifically towards FIRST [teams](Team "Team"). Products have included [mecanum wheels](Mecanum_wheel "Mecanum wheel"), [omni wheels](/index.php?title=Omni_wheel&action=edit "Omni wheel") [dongles](/index.php?title=Dongle&action=edit "Dongle"), battery plugs, and gearboxes.
+[Andy Baker](Andy_Baker "Andy Baker") and Mark Koors started **AndyMark**, Inc., a for-profit company that sells parts and assemblies geared specifically towards FIRST [teams](team). Products have included [mecanum wheels](mecanum-wheel), [omni wheels](/index.php?title=Omni_wheel&action=edit "Omni wheel") [dongles](/index.php?title=Dongle&action=edit "Dongle"), battery plugs, and gearboxes.
 
 ## External links
 

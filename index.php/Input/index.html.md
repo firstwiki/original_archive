@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -36,7 +36,7 @@ The [Control System](Control_system "Control system")
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
@@ -44,21 +44,21 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-**Input** has two related senses in relation to the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"):
+**Input** has two related senses in relation to the [FIRST Robotics Competition](first-robotics-competition):
 
 - in information processing, **input** is the process of receiving information from an object
 - in control theory, **inputs** are the signals that can be observed or affected that feed into the system
 
-In terms of the first definition, inputs refer to devices like [sensors](Sensors "Sensors") which connect to either the [Robot Controller](robot-controller) or [Operator Interface](operator-interface) and feed them data.
+In terms of the first definition, inputs refer to devices like [sensors](sensor) which connect to either the [Robot Controller](robot-controller) or [Operator Interface](operator-interface) and feed them data.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

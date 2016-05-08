@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-DEKA Research & Development Corporation is the company started by [Dean Kamen](Dean_Kamen "Dean Kamen"). The name comes from the first two letters of **DE**an **KA**men's first and last names.
+DEKA Research & Development Corporation is the company started by [Dean Kamen](dean-kamen). The name comes from the first two letters of **DE**an **KA**men's first and last names.
 
 Some of their notable inventions and products are
 

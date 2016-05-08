@@ -46,10 +46,10 @@ _Graphs needed here._
 - _useful info about the motor_
 
 _**2008 KOP Motors:**_<br>
-[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](Denso_window_motor "Denso window motor") | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
-motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor") | **Banebots** ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
+[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](denso-window-motor) | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
+motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](fisher-price-motor) | [Globe](globe-motor) | **Banebots** ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
 
 ## motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor"))
 
 _**Older KOP Motors:**_<br>
-[Window](Window_motor "Window motor") | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](Van_door_motor "Van door motor") | [Drill](Drill_motor "Drill motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor")
+[Window](window-motor) | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](van-door-motor) | [Drill](drill-motor) | [Fisher Price](fisher-price-motor) | [Globe](globe-motor)

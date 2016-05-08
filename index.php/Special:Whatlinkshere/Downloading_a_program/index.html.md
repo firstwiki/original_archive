@@ -19,7 +19,7 @@ x.php?title=Special:Whatlinkshere/Downloading_a_program&limit=100&from=0 "Specia
 al:Whatlinkshere/Downloading_a_program&limit=250&from=0 "Special:Whatlinkshere/Downloading a program") | [500](/index.php?title=Speci
 al:Whatlinkshere/Downloading_a_program&limit=500&from=0 "Special:Whatlinkshere/Downloading a program")).
 
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
 - [How-to](How-to "How-to")
 - [Talk:Using MPLAB](Talk:Using_MPLAB "Talk:Using MPLAB")

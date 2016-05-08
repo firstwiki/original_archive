@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-This subcategory is for [pneumatics](Pneumatics "Pneumatics") parts in the [kit](Kit_of_parts "Kit of parts").
+This subcategory is for [pneumatics](pneumatics) parts in the [kit](kit-of-parts).
 
 ## Articles in category "Pneumatics"
 
@@ -12,7 +12,7 @@ There are 10 articles in this category.
 
 ## #
 
-- [Pneumatics](Pneumatics "Pneumatics")
+- [Pneumatics](pneumatics)
 
 ### C
 

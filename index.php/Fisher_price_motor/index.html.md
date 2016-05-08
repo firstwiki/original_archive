@@ -14,7 +14,7 @@ Stall torque (in-lb) | 5.72<br>
 Max power output (watts) | 390<br>
 Free speed (rpm) | 16000
 
-Two Fisher Price (FP) motors and gearboxes are included with every [kit of parts](Kit_of_parts "Kit of parts"). The FP is the second most powerful motor in the kit of parts. The FP is taken from a Powerwheels (tm) car where it powers one of the wheels.
+Two Fisher Price (FP) motors and gearboxes are included with every [kit of parts](kit-of-parts). The FP is the second most powerful motor in the kit of parts. The FP is taken from a Powerwheels (tm) car where it powers one of the wheels.
 
 ## Contents
 
@@ -72,10 +72,10 @@ The Fisher Price has by far the highest power density of any of the KoP motors.
 The 2005 KoP included a Fisher Price motor designed to operate at 9 volts, instead of 12\. Consequently, it is very easy to burn out because it creates such large amounts of heat in such small volume/mass. Be sure to design a mechanism using a Fisher Price so that the motor never approaches the stall torque. A good rule of thumb is to design for 1/4 the stall torque.
 
 _**2008 KOP Motors:**_<br>
-[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](Denso_window_motor "Denso window motor") | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
-motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | **Fisher Price** | [Globe](Globe_motor "Globe motor") | [Banebots](Banebots_motor "Banebots motor") ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
+[Chiaphua/CIM](CIM_motor "CIM motor") | [Denso Window](denso-window-motor) | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window
+motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | **Fisher Price** | [Globe](globe-motor) | [Banebots](banebots-motor) ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots
 
 ## motor" ), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor"))
 
 _**Older KOP Motors:**_<br>
-[Window](Window_motor "Window motor") | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](Van_door_motor "Van door motor") | [Drill](Drill_motor "Drill motor") | **Fisher Price** | [Globe](Globe_motor "Globe motor")
+[Window](window-motor) | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](van-door-motor) | [Drill](drill-motor) | **Fisher Price** | [Globe](globe-motor)

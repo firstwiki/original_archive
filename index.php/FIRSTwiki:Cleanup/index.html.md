@@ -96,8 +96,8 @@ section: June 27")]
 - [Fantasy FIRST](Fantasy_FIRST "Fantasy FIRST") history, explain structure, reason of game, list of winners better put on [Fantasy FIRST 2004 winners](/index.php?title=Fantasy_FIRST_2004_winners&action=edit "Fantasy FIRST 2004 winners") or some such
 - [Qualifying for championship event](/index.php?title=Qualifying_for_championship_event&action=edit "Qualifying for championship event") explain history, current system (new), general cleanup
 - [Ohm's Law](Ohm%27s_Law "Ohm's Law") make FIRST-related, or probably should dump, if kept, cleanup/organization, link to electronic stuff where it is useful
-- [Torque](Torque "Torque") as per above
-- [Physics](Physics "Physics") as per above, make FIRST-related, cleanup structure, needs content (refer to external sites where appropriate)
+- [Torque](torque) as per above
+- [Physics](physics) as per above, make FIRST-related, cleanup structure, needs content (refer to external sites where appropriate)
 
 [[edit](/index.php?title=FIRSTwiki:Cleanup&action=edit&section=10 "Edit
 section: June 26")]
@@ -108,7 +108,7 @@ section: June 26")]
 - [Designing a team webpage](Designing_a_team_webpage "Designing a team webpage") needs intro, relevance explained, link to award, external links to webpage design, better written/organized
 - [Organizations likely to sponsor teams](Organizations_likely_to_sponsor_teams "Organizations likely to sponsor teams") see its talk page
 - [Using CSS](Using_CSS "Using CSS") relevance explained, short intro and link to external sources (total overhaul, or just dump the page)
-- [Kit of parts](Kit_of_parts "Kit of parts") needs re-structuring, content
+- [Kit of parts](kit-of-parts) needs re-structuring, content
 - [Using MPLAB](Using_MPLAB "Using MPLAB") right now just lists menus, ... needs to be made useful (maybe walkthrough of several basic tasks, e.g., building a projct)
 - [Regional Chairman's Award](Regional_Chairman%27s_Award "Regional Chairman's Award") make intro a paragraph, not just a list, re-structure list, explain history, etc.
 - [MCC18](MCC18 "MCC18") list of installed directories probably not too useful; needs inro, explanation of relevance, links to MPLAB, etc.

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Mentors** are [teachers](Teachers "Teachers"), [engineers](Engineers "Engineers"), [college students](College_students "College students"), or any person that [students](Students "Students") look up to. Usually mentors give many hours to insuring that [FIRST](first) robotics students will have a [team](Team "Team") with a chance to learn tomarrow.
+**Mentors** are [teachers](Teachers "Teachers"), [engineers](Engineers "Engineers"), [college students](College_students "College students"), or any person that [students](Students "Students") look up to. Usually mentors give many hours to insuring that [FIRST](first) robotics students will have a [team](team) with a chance to learn tomarrow.
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

@@ -10,7 +10,7 @@ daywonder.jpg "Image:Onedaywonder.jpg")
 **Team 1396's "One-Day Wonder"** was a robot constructed during the 2004 [FIRST](first) [Championship Event](Championship_Event "Championship Event"). Team [1396](1396 "1396")'s original robot had been shipped to Atlanta, Georgia, for the Championship, but due to a shipping error, it was then shipped back to their home school. Therefore, when the team arrived in the Georgia World Congress Center, it had no robot.
 
 Other teams, in an astounding show of [Gracious Professionalism](Gracious_professionalism "Gracious
-professionalism"), pitched in tools, materials, electronics, parts, and manpower to allow 1396 to build a brand new robot in ten hours on Thursday. It did take the field in one practice match on Thursday, although a problem with a [drill motor](Drill_motor "Drill motor") sidelined it early in the match.
+professionalism"), pitched in tools, materials, electronics, parts, and manpower to allow 1396 to build a brand new robot in ten hours on Thursday. It did take the field in one practice match on Thursday, although a problem with a [drill motor](drill-motor) sidelined it early in the match.
 
 By Friday, the team had received electronics from their original robot via overnight delivery. Over Friday and Saturday, the team went 4-3-0, seeding number 33 out of 73 teams. On Saturday, the team also received the [Judges' Award](Judges%27_Award "Judges' Award").
 

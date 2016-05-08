@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Multiple autonomous modes** can sometimes be better than a single [autonomous mode](autonomous-mode). Having a variety of options gives the robot the ability to change its strategy based on who the [alliance partner](/index.php?title=Alliance_partner&action=edit "Alliance partner") and [opposing alliance](/index.php?title=Opposing_alliance&action=edit "Opposing alliance") are. For instance, in the 2004 game [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"), a robot might have an autonomous mode to track the [IR beacon](IR_beacon "IR beacon") and knock down the "10 point ball" and another mode to travel forward at full speed and block the opposing alliance member from knocking over the ball. Both modes, obviously, would be useful depending on the circumstances of the match. There are disadvantages to having multiple autonomous modes, however. It means more code, which will take longer to [program](Programming "Programming"), and it means less time to test each individual autonomous mode. Both of these introduce the chance for more errors. But, despite the disadvantages, there are certainly many circumstances where having multiple autonomous modes is extremely useful.
+**Multiple autonomous modes** can sometimes be better than a single [autonomous mode](autonomous-mode). Having a variety of options gives the robot the ability to change its strategy based on who the [alliance partner](/index.php?title=Alliance_partner&action=edit "Alliance partner") and [opposing alliance](/index.php?title=Opposing_alliance&action=edit "Opposing alliance") are. For instance, in the 2004 game [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"), a robot might have an autonomous mode to track the [IR beacon](IR_beacon "IR beacon") and knock down the "10 point ball" and another mode to travel forward at full speed and block the opposing alliance member from knocking over the ball. Both modes, obviously, would be useful depending on the circumstances of the match. There are disadvantages to having multiple autonomous modes, however. It means more code, which will take longer to [program](programming), and it means less time to test each individual autonomous mode. Both of these introduce the chance for more errors. But, despite the disadvantages, there are certainly many circumstances where having multiple autonomous modes is extremely useful.
 
 The main tasks involved with creating muliple autonomous modes are:
 
@@ -117,14 +117,14 @@ This can be accomplished in a variety of ways. The simplest is just to have a [s
 
 It is trivial to add as many cases to the switch statement above as is desired. Obviously, replace _case N:_ with the highest number the code demands. Again, you'll have to write the various autonomous functions (e.g., Auto1()). This is where the action occurs.
 
-_See also:_ [Extern keyword](/index.php?title=Extern_keyword&action=edit "Extern keyword"), [Programming](Programming "Programming"), [Input](Input "Input")
+_See also:_ [Extern keyword](/index.php?title=Extern_keyword&action=edit "Extern keyword"), [Programming](programming), [Input](input)
 
 [[edit](/index.php?title=Multiple_autonomous_modes&action=edit&section=4 "Edit
 section: Resources")]
 
 ## Resources
 
-- Various [ChiefDelphi](ChiefDelphi "ChiefDelphi") discussions ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=28211 "http://www.chiefdelphi.com/forums/showthread.php?t=28211"), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=23519 "http://www.chiefdelphi.com/forums/showthread.php?t=23519"), [[3]](http://www.chiefdelphi.com/forums/showthread.php?t=28237 "http://www.chiefdelphi.com/forums/showthread.php?t=28237") ...)
+- Various [ChiefDelphi](chiefdelphi) discussions ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=28211 "http://www.chiefdelphi.com/forums/showthread.php?t=28211"), [[2]](http://www.chiefdelphi.com/forums/showthread.php?t=23519 "http://www.chiefdelphi.com/forums/showthread.php?t=23519"), [[3]](http://www.chiefdelphi.com/forums/showthread.php?t=28237 "http://www.chiefdelphi.com/forums/showthread.php?t=28237") ...)
 
 Retrieved from "<http://www.firstwiki.netMultiple_autonomous_modes>"
 

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Team organization** refers to how [FIRST](first) [teams](Team "Team") are organized.
+**Team organization** refers to how [FIRST](first) [teams](team) are organized.
 
 ## Contents
 
@@ -33,7 +33,7 @@ section: Engineering")]
 
 ## Engineering
 
-This group actually constructs the [robot](Robot "Robot"). Possible lead positions include a Director of Engineering, a Director of Field Construction, and a Director of Procurement (who orders our parts). This group obviously becomes very active during the [build period](/index.php?title=Build_period&action=edit "Build period"). Students interested in engineering and design should consider joining this group.
+This group actually constructs the [robot](robot). Possible lead positions include a Director of Engineering, a Director of Field Construction, and a Director of Procurement (who orders our parts). This group obviously becomes very active during the [build period](/index.php?title=Build_period&action=edit "Build period"). Students interested in engineering and design should consider joining this group.
 
 [[edit](/index.php?title=Team_organization&action=edit&section=3 "Edit
 section: Marketing")]

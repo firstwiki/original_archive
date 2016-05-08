@@ -96,7 +96,7 @@ section: Mechanically")]
 
 **Drive**
 
-The robot is designed to have the option of using a crab drive(See [Drive train](Drive_train "Drive train")) to turn or have the option to use a tank drive system as well (See [Drive train](Drive_train "Drive train")). We are using two CIM motors (See [CIM motor](CIM_motor "CIM motor"))to to drive the robot. Each CIM motor has a 9:1 BaneBot Gearbox (See [banebots.com](http://banebots.com/ "http://banebots.com/")) attached to it. There is one CIM motor attached to Two wheels. All four wheels rotate a one time to achieve this we have chains going to each wheel. The motor used to rotate the Four wheels is a Globe motor (See [Globe motor](Globe_motor "Globe motor")) with a 12:1 BaneBot Gearbox.
+The robot is designed to have the option of using a crab drive(See [Drive train](drive-train)) to turn or have the option to use a tank drive system as well (See [Drive train](drive-train)). We are using two CIM motors (See [CIM motor](CIM_motor "CIM motor"))to to drive the robot. Each CIM motor has a 9:1 BaneBot Gearbox (See [banebots.com](http://banebots.com/ "http://banebots.com/")) attached to it. There is one CIM motor attached to Two wheels. All four wheels rotate a one time to achieve this we have chains going to each wheel. The motor used to rotate the Four wheels is a Globe motor (See [Globe motor](globe-motor)) with a 12:1 BaneBot Gearbox.
 
 **Intake**
 

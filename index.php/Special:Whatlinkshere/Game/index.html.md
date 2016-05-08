@@ -19,7 +19,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Game&l
 - [Talk:Game](Talk:Game "Talk:Game")
 - [FRC games](/index.php?title=FRC_games&redirect=no "FRC games") (redirect page) 
 
-  - [Programming](Programming "Programming")
+  - [Programming](programming)
   - [Competitions](Competitions "Competitions")
 
 - [Index of FRC games](/index.php?title=Index_of_FRC_games&redirect=no "Index of FRC games") (redirect page) 
@@ -52,7 +52,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Game&l
 
 - [FIRSTwiki:Village pump/Archive 3](FIRSTwiki:Village_pump/Archive_3 "FIRSTwiki:Village pump/Archive 3")
 - [Triple Play/Official hint](Triple_Play/Official_hint "Triple Play/Official hint")
-- [Kickoff](Kickoff "Kickoff")
+- [Kickoff](kickoff)
 - [Triple Play](triple-play)
 - [User:Hollis1138/Front page development](User:Hollis1138/Front_page_development "User:Hollis1138/Front page development")
 - [Competition](/index.php?title=Competition&redirect=no "Competition") (redirect page) 

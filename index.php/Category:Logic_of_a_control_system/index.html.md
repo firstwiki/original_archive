@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-These items are various logical techniques used in [control systems](Control_system "Control system").
+These items are various logical techniques used in [control systems](control-system).
 
 ## Articles in category "Logic of a control system"
 
@@ -12,12 +12,12 @@ There are 4 articles in this category.
 
 ### C
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 - [Creating a PID controller](Creating_a_PID_controller "Creating a PID controller")
 
 ### O
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 ### P
 

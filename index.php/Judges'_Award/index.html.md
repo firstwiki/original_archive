@@ -13,7 +13,7 @@ FIRST_logo.gif)](Image:FIRST_logo.gif)
 
 ---|---
 
-The **Judges' Award** is given to a [team](Team "Team") which the judges feel exhibit special qualities that deserve to be recognized, although they do not qualify for a regular award.
+The **Judges' Award** is given to a [team](team) which the judges feel exhibit special qualities that deserve to be recognized, although they do not qualify for a regular award.
 
 ## Example
 

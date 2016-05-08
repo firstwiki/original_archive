@@ -120,7 +120,7 @@ events").
 
 ### January 8
 
-- The [2005](Untitled_2005_game "Untitled 2005 game") [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") [challenge](Game "Game") will be announced on this date at the [Kickoff](Kickoff "Kickoff").
+- The [2005](Untitled_2005_game "Untitled 2005 game") [FIRST Robotics Competition](first-robotics-competition) [challenge](Game "Game") will be announced on this date at the [Kickoff](kickoff).
 
 # 2004
 

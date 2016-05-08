@@ -87,7 +87,7 @@ clip.png)](Image:Comp1992.jpg "Enlarge")
 
 ## Misc Info
 
-Here is a video documentary from the Xerox/Wilson High School Robotics Team (now [FRC](FRC "FRC") [team](Team "Team") [191](191 "191") under the modern FRC Team Numbering System) of the 1992 FIRST Competition and its impacts on students. [[1]](http://video.google.com/videoplay?docid=-147783057553890710 "http://video.google.com/videoplay?docid=-147783057553890710")
+Here is a video documentary from the Xerox/Wilson High School Robotics Team (now [FRC](FRC "FRC") [team](team) [191](191 "191") under the modern FRC Team Numbering System) of the 1992 FIRST Competition and its impacts on students. [[1]](http://video.google.com/videoplay?docid=-147783057553890710 "http://video.google.com/videoplay?docid=-147783057553890710")
 
 ## Sources
 

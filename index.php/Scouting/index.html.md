@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Scouting**, is the process of collecting information about the various [robots](Robot "Robot") that are competing at a particular [regional](Regional "Regional") or the [Championship Event](Championship_Event "Championship Event"), and turning that information into something useful that can be used later for picking partners in finals. It can also be thought of as "Intelligence and Strategy". Scouting is a very important aspect of competition, and is vital both for game strategy.
+**Scouting**, is the process of collecting information about the various [robots](robot) that are competing at a particular [regional](Regional "Regional") or the [Championship Event](Championship_Event "Championship Event"), and turning that information into something useful that can be used later for picking partners in finals. It can also be thought of as "Intelligence and Strategy". Scouting is a very important aspect of competition, and is vital both for game strategy.
 
 ## Contents
 

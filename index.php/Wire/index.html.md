@@ -29,7 +29,7 @@ Used to connect from the [12V battery](12V_battery "12V battery") to any other c
 
 ### 10 AWG
 
-Used in connecting Drill, CIM, Fisher-Price, Globe or Van Door [motors](Motors "Motors") to [Victor 884](Victor "Victor") and circit breakers.
+Used in connecting Drill, CIM, Fisher-Price, Globe or Van Door [motors](motors) to [Victor 884](Victor "Victor") and circit breakers.
 
 ### 16 AWG
 
@@ -37,7 +37,7 @@ Used in connecting seat or window motors to Speed controllers and [circuit break
 
 ### 24 AWG
 
-Used for connecting [Sensors](Sensors "Sensors"), PWM cables, or [Muffin fans](Muffin_fan "Muffin fan").
+Used for connecting [Sensors](sensor), PWM cables, or [Muffin fans](Muffin_fan "Muffin fan").
 
 ### NOTE
 

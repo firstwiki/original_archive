@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The following articles are related to [programming](Programming "Programming") in the FIRST sense. Note that HTML programming is not included here.
+The following articles are related to [programming](programming) in the FIRST sense. Note that HTML programming is not included here.
 
 ## Subcategories
 
@@ -29,7 +29,7 @@ There are 21 articles in this category.
 
 ### D
 
-- [Dead reckoning](Dead_reckoning "Dead reckoning")
+- [Dead reckoning](dead-reckoning)
 - [Debugging](Debugging "Debugging")
 - [Default code](Default_code "Default code")
 - [Default code (2004)](Default_code_%282004%29 "Default code \(2004\)") |
@@ -62,7 +62,7 @@ There are 21 articles in this category.
 
 - [PBASIC](PBASIC "PBASIC")
 - [PIC C](PIC_C "PIC C")
-- [Programming](Programming "Programming")
+- [Programming](programming)
 - [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller")
 
 ### R

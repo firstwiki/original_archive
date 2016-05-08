@@ -17,7 +17,7 @@ There are 5 articles in this category.
 ### D
 
 - [Dave Lavery](Dave_Lavery "Dave Lavery")
-- [Dean Kamen](Dean_Kamen "Dean Kamen")
+- [Dean Kamen](dean-kamen)
 
 ### I
 
@@ -25,4 +25,4 @@ There are 5 articles in this category.
 
 ### W
 
-- [Woodie Flowers](Woodie_Flowers "Woodie Flowers")
+- [Woodie Flowers](woodie-flowers)

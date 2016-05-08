@@ -14,7 +14,7 @@ Stall torque (in-lb) | 21.462<br>
 Max power output (watts) | 337<br>
 Free speed (rpm) | 5310
 
-One of the two basic [skid steer](Skid_steer "Skid steer") [drive trains](Drive_train "Drive train") included in the [kit of parts](Kit_of_parts "Kit of parts") is designed to utilize one or two CIM motors on each side of the [robot](Robot "Robot"). This exact motor has been known over the years as the "CIM", "Chiaphua", or "Atwood" motor. The motor is provided in the kit of parts as part number "FR801-001". Some years have also shipped a larger three inch "Mini-bike" motor (part number FP801-005).
+One of the two basic [skid steer](skid-steer) [drive trains](drive-train) included in the [kit of parts](kit-of-parts) is designed to utilize one or two CIM motors on each side of the [robot](robot). This exact motor has been known over the years as the "CIM", "Chiaphua", or "Atwood" motor. The motor is provided in the kit of parts as part number "FR801-001". Some years have also shipped a larger three inch "Mini-bike" motor (part number FP801-005).
 
 Exact specifications are available from FIRST: [FR801-001 MOTOR SPECIFICATIONS](http://www2.usfirst.org/2005comp/Specs/CIM.pdf "http://www2.usfirst.org/2005comp/Specs/CIM.pdf")
 
@@ -76,11 +76,11 @@ Two of the motors are included in the KOP.
 
 ## Usage Notes
 
-- Partially because of the CIM's relatively large size and consequentially low power density, the motor can withstand longer periods at, or near, stall. CIM do not burn out nearly as often as a [drill motor](Drill_motor "Drill motor") or a [fisher price motor](Fisher_price_motor "Fisher price motor").
-- Because the CIM is not designed for a specific application like the (obsolete) [drill motor](Drill_motor "Drill motor"), it has little or no [wiring bias](Wiring_bias "Wiring bias"). This means the motor is equally powerful in forward in reverse. This can be useful in many applications. For example, drive trains which involve a pair of motors running in opposite directions can suffer from driving in a large radius circle when both motors are set to equal speeds. The CIM is relatively immune from such problems in that situation. _**2008 KOP Motors:**_<br>
-  **Chiaphua/CIM** | [Denso Window](Denso_window_motor "Denso window motor") | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor") | [Banebots](Banebots_motor "Banebots motor") ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots motor"), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor"))
+- Partially because of the CIM's relatively large size and consequentially low power density, the motor can withstand longer periods at, or near, stall. CIM do not burn out nearly as often as a [drill motor](drill-motor) or a [fisher price motor](fisher-price-motor).
+- Because the CIM is not designed for a specific application like the (obsolete) [drill motor](drill-motor), it has little or no [wiring bias](wiring-bias). This means the motor is equally powerful in forward in reverse. This can be useful in many applications. For example, drive trains which involve a pair of motors running in opposite directions can suffer from driving in a large radius circle when both motors are set to equal speeds. The CIM is relatively immune from such problems in that situation. _**2008 KOP Motors:**_<br>
+  **Chiaphua/CIM** | [Denso Window](denso-window-motor) | [Taigene Window](/index.php?title=Taigene_window_motor&action=edit "Taigene window motor") | [Keyang](/index.php?title=Keyang_motor&action=edit "Keyang motor") | [Fisher Price](fisher-price-motor) | [Globe](globe-motor) | [Banebots](banebots-motor) ([RS-540](/index.php?title=RS-540_Banebots_motor&action=edit "RS-540 Banebots motor"), [RS-550](RS-550_Banebots_motor "RS-550 Banebots motor"))
 
 --------------------------------------------------------------------------------
 
 _**Older KOP Motors:**_<br>
-[Window](Window_motor "Window motor") | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](Van_door_motor "Van door motor") | [Drill](Drill_motor "Drill motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor")
+[Window](window-motor) | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](van-door-motor) | [Drill](drill-motor) | [Fisher Price](fisher-price-motor) | [Globe](globe-motor)

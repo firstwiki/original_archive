@@ -13,9 +13,9 @@ FIRST_logo.gif)](Image:FIRST_logo.gif)
 
 ---|---
 
-**Fabrication** refers to the actual building of the [robot](Robot "Robot"). Prior to fabrication, the robot must be [conceptualized](/index.php?title=Analyzing_the_game&action=edit "Analyzing the game") and [designed](/index.php?title=Designing_the_robot&action=edit "Designing the robot"). Once the robot is fabricated, it must be [programmed](Programming "Programming").
+**Fabrication** refers to the actual building of the [robot](robot). Prior to fabrication, the robot must be [conceptualized](/index.php?title=Analyzing_the_game&action=edit "Analyzing the game") and [designed](/index.php?title=Designing_the_robot&action=edit "Designing the robot"). Once the robot is fabricated, it must be [programmed](programming).
 
-[Teams](FIRST_Robotics_Team "FIRST Robotics Team") are given six weeks to build the robot, during which the [entire process](/index.php?title=Entire_process&action=edit "Entire process") -- from brainstorming to implementation and ultimately testing -- must take place. There are several guidelines to building the robot. Each team starts with the same [kit of parts](Kit_of_parts "Kit of parts") and must follow the rules of the specific [game](FRC_Games "FRC Games").
+[Teams](FIRST_Robotics_Team "FIRST Robotics Team") are given six weeks to build the robot, during which the [entire process](/index.php?title=Entire_process&action=edit "Entire process") -- from brainstorming to implementation and ultimately testing -- must take place. There are several guidelines to building the robot. Each team starts with the same [kit of parts](kit-of-parts) and must follow the rules of the specific [game](FRC_Games "FRC Games").
 
 # Phases
 

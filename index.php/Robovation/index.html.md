@@ -4,15 +4,15 @@
 
 Jump to: navigation, search
 
-The [Control System](Control_system "Control system")
+The [Control System](control-system)
 
 **[Logic of a Control System](Logic_of_a_control_system "Logic of a control system")**
 
-- [Closed loop](Closed_loop "Closed loop")
+- [Closed loop](closed-loop)
 
   - [PID controller](PID_controller "PID controller")
 
-- [Open loop](Open_loop "Open loop")
+- [Open loop](open-loop)
 
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system")**
 
@@ -31,12 +31,12 @@ The [Control System](Control_system "Control system")
 
   - **Robovation**
 
-- [Input](Input "Input")
+- [Input](input)
 
   - [Operator Interface](operator-interface)
   - [Joystick](joystick)
 
-- [Output](Output "Output")
+- [Output](output)
 
   - [Victor 884](victor-884)
   - [Spike](spike-relay)
@@ -44,16 +44,16 @@ The [Control System](Control_system "Control system")
 
 - [Sensors](sensor)
 
-  - [Encoder](Encoder "Encoder")
-  - [Accelerometer](Accelerometer "Accelerometer")
+  - [Encoder](encoder)
+  - [Accelerometer](accelerometer)
   - [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor")
-  - [IR sensor](IR_sensor "IR sensor")
+  - [IR sensor](tsop34840)
   - [Gyro](gyro)
   - [CMUcam2](CMUcam2 "CMUcam2")
 
 --------------------------------------------------------------------------------
 
-**Robovation** refers to the educational, mini-robot platform sponsored by [FIRST](first). It was first released during the 2003 season as a new idea to give teams a task to do during the Fall, which would also be a big help to [rookie teams](/index.php?title=Rookie_team&action=edit "Rookie team") and new members of [veteran teams](/index.php?title=Veteran_team&action=edit "Veteran team"). The idea is that Robovation provides teams a small, simulated experience of the real [build season](Build_season "Build season"). [Fabrication](Fabrication "Fabrication") and [programming](Programming "Programming") are both part of the platform, and so its use greatly facilitates understanding the [Full-size Controller](robot-controller). Since the [embedded platform](/index.php?title=Embedded_platform&action=edit "Embedded platform") was changed for the 2004 season to use [PIC C](PIC_C "PIC C") (from [PBASIC](PBASIC "PBASIC")), there are two versions of Robovation:
+**Robovation** refers to the educational, mini-robot platform sponsored by [FIRST](first). It was first released during the 2003 season as a new idea to give teams a task to do during the Fall, which would also be a big help to [rookie teams](/index.php?title=Rookie_team&action=edit "Rookie team") and new members of [veteran teams](/index.php?title=Veteran_team&action=edit "Veteran team"). The idea is that Robovation provides teams a small, simulated experience of the real [build season](Build_season "Build season"). [Fabrication](Fabrication "Fabrication") and [programming](programming) are both part of the platform, and so its use greatly facilitates understanding the [Full-size Controller](robot-controller). Since the [embedded platform](/index.php?title=Embedded_platform&action=edit "Embedded platform") was changed for the 2004 season to use [PIC C](PIC_C "PIC C") (from [PBASIC](PBASIC "PBASIC")), there are two versions of Robovation:
 
 - [Robovation (2004)](Robovation_%282004%29 "Robovation \(2004\)")
 - [Robovation (2003)](Robovation_%282003%29 "Robovation \(2003\)")

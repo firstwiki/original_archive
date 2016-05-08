@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **drivetrain** consists of all of the components used to make the robot move around the field and is a crucial part of a robot. Most drivetrains use [motors](Motor "Motor") to spin [wheels](Wheel "Wheel") or drive [treads](Tread "Tread") (belts). Some innovative teams also incoporate [pneumatics](Pneumatics "Pneumatics") and [servos](Servo "Servo") to allow shifting of [gears](Gear "Gear") or changing which wheels are in contact with the ground.
+A **drivetrain** consists of all of the components used to make the robot move around the field and is a crucial part of a robot. Most drivetrains use [motors](motor) to spin [wheels](wheel) or drive [treads](tread) (belts). Some innovative teams also incoporate [pneumatics](pneumatics) and [servos](servo) to allow shifting of [gears](gear) or changing which wheels are in contact with the ground.
 
 Drivetrains can come in many different forms, each one having its own strengths and weaknesses. This overview will attempt to give an general synopsis of drivetrain do's and don'ts, as well as touch on the most common drivetrain variations.
 
@@ -35,7 +35,7 @@ The optimum drivetrain for a robot is one that finds the correct balance of spee
 
 Maneuverability can be defined as how easily it is for a robot to maneuver across a surface such as the game field. Maneuverability is much trickier to manipulate as it is the result of not only a robots speed and available torque, but of the drivetrain's geometry as well.
 
-A high level of maneuverability is very important in robot design, although it can be just as much a curse as it is a blessing if not correctly understood. A robot that is both extremely fast and extremely maneuverable would be almost impossible to control without a certain level of sophistication within its controls which can take the form of either a closed loop software control (e.g. [PID feedback loop](PID_feedback_loop "PID feedback loop")), or an extensive [open loop](Open_loop "Open loop") control system.
+A high level of maneuverability is very important in robot design, although it can be just as much a curse as it is a blessing if not correctly understood. A robot that is both extremely fast and extremely maneuverable would be almost impossible to control without a certain level of sophistication within its controls which can take the form of either a closed loop software control (e.g. [PID feedback loop](PID_feedback_loop "PID feedback loop")), or an extensive [open loop](open-loop) control system.
 
 ## Types of Drivetrains
 
@@ -43,7 +43,7 @@ A high level of maneuverability is very important in robot design, although it c
 
 The _two wheel drive_ (aka "casterbot") is undeniably the easiest one to make. A two-wheel drive consists of having two powered wheels at one end of the robot and a unpowered surface that slides on the other end of the robot.
 
-The two wheel drive offers high maneuverability while maintaining a very low level of complexity. It can also be the most difficult to use. A casterbot turns with such ease because there is virtually no side friction working against the wheels of the robot as it turns. However, that same ease of turning can be a nightmare - with no friction regulating the bot's speed of turning, its inertia will always want to continue turning even after the motors have stopped. This results in a robot that is extremely difficult to control using basic control methods - it is a rare casterbot that can drive in a straight line without the use of internal [sensors](Sensor "Sensor") or [gyros](gyro). Furthermore, the unpowered surfaces in contact with the floor detract from available pushing power, and significantly lower a robot's ability to maintain its position when hit.
+The two wheel drive offers high maneuverability while maintaining a very low level of complexity. It can also be the most difficult to use. A casterbot turns with such ease because there is virtually no side friction working against the wheels of the robot as it turns. However, that same ease of turning can be a nightmare - with no friction regulating the bot's speed of turning, its inertia will always want to continue turning even after the motors have stopped. This results in a robot that is extremely difficult to control using basic control methods - it is a rare casterbot that can drive in a straight line without the use of internal [sensors](sensor) or [gyros](gyro). Furthermore, the unpowered surfaces in contact with the floor detract from available pushing power, and significantly lower a robot's ability to maintain its position when hit.
 
 The design, for all its shortcomings, is nevertheless viable if correctly put to use. When designing a two-wheel drivetrain, the powered wheels should be in the center. This allows the robot's pivot point to remain close to its center of mass, minimizing the area through which it must travel in order to turn. Placing the powered wheels along the 30" sides of the robot will further slow its rate of turn, making it more controllable (helpful, but not necessary).
 
@@ -90,8 +90,8 @@ mecanum drive from 1595.")
 [![Enlarge](/skins/common/images/magnify-
 clip.png)](Image:2006iFRC1595.jpg "Enlarge")
 
-Example of a [mecanum drive](Mecanum_wheel "Mecanum wheel") from [1595](/index.php?title=1595&action=edit "1595").
+Example of a [mecanum drive](mecanum-wheel) from [1595](/index.php?title=1595&action=edit "1595").
 
 ### Mecanum Drive
 
-A [mecanum drive](Mecanum_wheel "Mecanum wheel") is another omnidirectional drive system. It consist of wheels with their rollers angled in a conventional four wheel drive layout. With an independent motor/transmission on each wheel, omni driving can be achieved by varying speeds.
+A [mecanum drive](mecanum-wheel) is another omnidirectional drive system. It consist of wheels with their rollers angled in a conventional four wheel drive layout. With an independent motor/transmission on each wheel, omni driving can be achieved by varying speeds.

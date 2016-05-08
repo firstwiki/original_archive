@@ -52,7 +52,7 @@ Free speed (rpm) | number
 - look like this
 - and be named
 - "[motorname] (old)" _**FIRSTwiki Motor Index:**_<br>
-  [Chiaphua/CIM](CIM_motor "CIM motor") | [Window](Window_motor "Window motor") | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](Van_door_motor "Van door motor") | [Drill](Drill_motor "Drill motor") | [Fisher Price](Fisher_Price_motor "Fisher Price motor") | [Globe](Globe_motor "Globe motor") | [Banebots](Banebots_motor "Banebots motor")
+  [Chiaphua/CIM](CIM_motor "CIM motor") | [Window](window-motor) | [Seat](/index.php?title=Seat_motor&action=edit "Seat motor") | [Van door](van-door-motor) | [Drill](drill-motor) | [Fisher Price](fisher-price-motor) | [Globe](globe-motor) | [Banebots](banebots-motor)
 
 --------------------------------------------------------------------------------
 

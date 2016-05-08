@@ -44,13 +44,13 @@ FIRST_Logo.png)](Image:FIRST_Logo.png)
 
 On **[Competitions](Competitions "Competitions")**
 
-- **[FRC](FIRST_Robotics_Competition "FIRST Robotics Competition"):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Games](Game_%28FRC%29 "Game \(FRC\)") - [Awards](Awards "Awards")
+- **[FRC](first-robotics-competition):** [Regionals](Index_of_Regionals "Index of Regionals") - [Championship Event](Championship_Event "Championship Event") - [Off-Season](Index_of_off-season_competitions "Index of off-season competitions") - [Games](Game_%28FRC%29 "Game \(FRC\)") - [Awards](Awards "Awards")
 - **[FLL](FIRST_LEGO_League "FIRST LEGO League"):** [Events](Category:FLL_Events "Category:FLL Events") - [Challenges](FLL_Challenges "FLL Challenges") - [Awards](FLL_Awards "FLL Awards")
 - **[FTC](FIRST_Tech_Challenge "FIRST Tech Challenge"):** [Events](Index_of_events_%28FTC%29 "Index of events \(FTC\)") - [Games](Game_%28FTC%29 "Game \(FTC\)") - [Awards](Awards_%28FTC%29 "Awards \(FTC\)")
 
 On **[Technical Topics](Technical "Technical")**
 
-- [Kit of parts](Kit_of_parts "Kit of parts") ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](Motors "Motors") - [Pneumatics](Pneumatics "Pneumatics") - [Control system](Control_system "Control system") - [Programming](Programming "Programming") - [3D graphics](3D_graphics "3D graphics") - [Physics](Physics "Physics") - [Suppliers](Suppliers "Suppliers")
+- [Kit of parts](kit-of-parts) ([FLL](FLL_Robot_Set "FLL Robot Set")) ([FTC](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)")) - [Motors](motors) - [Pneumatics](pneumatics) - [Control system](control-system) - [Programming](programming) - [3D graphics](3D_graphics "3D graphics") - [Physics](physics) - [Suppliers](Suppliers "Suppliers")
 
 On **[Non-Technical Topics](Non-technical "Non-technical")**
 
@@ -73,8 +73,8 @@ What's happening now
 [![](/media/thumb/7/75/EinsteinCelebration.jpeg/160px-
 EinsteinCelebration.jpeg)](Image:EinsteinCelebration.jpeg)
 
-- The new [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
-- The first game hint for the 2012 [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition") game is revealed.
+- The new [FIRST Robotics Competition](first-robotics-competition) game, _[Rebound Rumble](Rebound_Rumble "Rebound Rumble")_ is revealed.
+- The first game hint for the 2012 [FIRST Robotics Competition](first-robotics-competition) game is revealed.
 - The new [FIRST Tech Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge") game, _[Bowled Over](Bowled_Over "Bowled Over")_, is revealed.
 - The FIRST Championship is featured in the ABC documentary _i.am.FIRST - Science is Rock and Roll_.
 - The 2011 [Indiana Robotics Invitational](Indiana_Robotics_Invitational "Indiana Robotics Invitational") draws to a close on July 23, 2011, with teams [33](33 "33"), [2056](2056 "2056"), [217](217 "217"), and [359](359 "359") all taking a share of the title.
@@ -100,11 +100,11 @@ controller") - [Taurus](Taurus_%281073%29 "Taurus \(1073\)")
 
 About FIRST
 
-_[FIRST](first)_ is an organization founded by inventor [Dean Kamen](Dean_Kamen "Dean Kamen") in 1989 as a way of getting students involved in and excited about science and technology. _FIRST_ has grown from just a few hundred students and mentors in 1992, and now reaches over 210,000 students worldwide.
+_[FIRST](first)_ is an organization founded by inventor [Dean Kamen](dean-kamen) in 1989 as a way of getting students involved in and excited about science and technology. _FIRST_ has grown from just a few hundred students and mentors in 1992, and now reaches over 210,000 students worldwide.
 
 About FIRSTwiki
 
-[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), designed to provide the [FIRST community](FIRST_community "FIRST community") a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
+[FIRSTwiki](FIRSTwiki "FIRSTwiki") is an open-content encyclopedia about the [FIRST Robotics Competition](first-robotics-competition), designed to provide the [FIRST community](first-community) a useful resource for all aspects of the project. Following the tenets of [gracious professionalism](Gracious_professionalism "Gracious
 professionalism"), members contribute back to the community by recording useful information that other members can benefit from.
 
 How to get started

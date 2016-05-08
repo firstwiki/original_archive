@@ -52,8 +52,8 @@ tion=4 "Edit section: Tier 2")]
 ## Tier 1
 
 - [Multiple autonomous modes](Multiple_autonomous_modes "Multiple autonomous modes") --[Mrawls](User:Mrawls "User:Mrawls") 14:33, 5 Jun 2004 (EDT)
-- [Programming](Programming "Programming") --[Mrawls](User:Mrawls "User:Mrawls") 17:30, 2 Jun 2004 (EDT)
-- [Kit of parts](Kit_of_parts "Kit of parts") --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") 17:15, 6 Aug 2004 (EDT)
+- [Programming](programming) --[Mrawls](User:Mrawls "User:Mrawls") 17:30, 2 Jun 2004 (EDT)
+- [Kit of parts](kit-of-parts) --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") 17:15, 6 Aug 2004 (EDT)
 - [759](759 "759") - [Jay](User:JVGazeley "User:JVGazeley") 05:51, 6 August 2006 (EDT)
 - [Rack 'N' Roll](Rack_%27N%27_Roll "Rack 'N' Roll") - [BandChick](/index.php?title=User:BandChick&action=edit "User:BandChick") 9:35, 20 January 2007
 - [461](461 "461") - [Nathan Hui](User:Nathan_Hui "User:Nathan Hui") 08:33, 20 October 2011 (CDT)

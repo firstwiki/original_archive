@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-A **pressure switch** is a [pneumatics](Pneumatics "Pneumatics") switch whose state changes depending on the pressure.
+A **pressure switch** is a [pneumatics](pneumatics) switch whose state changes depending on the pressure.
 
 [![A pressure
 switch.](/media/6/6f/PressureSwitch.PNG)](Image:PressureSwitch.PNG "A pressure switch.")
@@ -93,7 +93,7 @@ where the # signs are replaced with the appropriate channel numbers.
 
 The compressor should then turn on when it is needed, and off when it is not.
 
-_**[Pneumatics](Pneumatics "Pneumatics") Parts:**_<br>
+_**[Pneumatics](pneumatics) Parts:**_<br>
 [Cylinder](Cylinder "Cylinder") | [Solenoid](Solenoid "Solenoid") | [Compressor](Compressor "Compressor") | [Storage tank](Storage_tank "Storage tank") | [Rotary actuator](Rotary_actuator "Rotary actuator") | [Pressure regulator](Pressure_regulator "Pressure regulator") | **Pressure
 
 ## switch**
