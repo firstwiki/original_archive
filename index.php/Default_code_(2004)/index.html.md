@@ -113,7 +113,7 @@ section: User_Autonomous_Code")]
 
 ### User_Autonomous_Code
 
-This is the function that executes when the robot is in [autonomous mode](Autonomous_mode "Autonomous mode"). It starts by initializing all PWMS and relays. Then, it sets up a loop for you to add the autonomous code. There is no autonomous action by default.
+This is the function that executes when the robot is in [autonomous mode](autonomous-mode). It starts by initializing all PWMS and relays. Then, it sets up a loop for you to add the autonomous code. There is no autonomous action by default.
 
 [[edit](/index.php?title=Default_code_%282004%29&action=edit&section=9 "Edit
 section: Process_Data_From_Local_IO")]

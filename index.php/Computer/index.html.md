@@ -52,4 +52,4 @@ The [Control System](Control_system "Control system")
 
 --------------------------------------------------------------------------------
 
-A [computer](http://www.wikipedia.org/wiki/computer "wikipedia:computer") can refer to either a [PC](http://www.wikipedia.org/wiki/PC "wikipedia:PC") or a [robot controller](Robot_controller "Robot controller")
+A [computer](http://www.wikipedia.org/wiki/computer "wikipedia:computer") can refer to either a [PC](http://www.wikipedia.org/wiki/PC "wikipedia:PC") or a [robot controller](robot-controller)

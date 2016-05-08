@@ -27,7 +27,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Robot&
 - [Mentor](Mentor "Mentor")
 - [1389](1389 "1389")
 - [Parts of a control system](Parts_of_a_control_system "Parts of a control system")
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 - [Default code (2004)](Default_code_%282004%29 "Default code \(2004\)")
 - [Default code](Default_code "Default code")
 - [Fabrication](Fabrication "Fabrication")

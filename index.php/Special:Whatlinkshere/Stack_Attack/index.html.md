@@ -33,7 +33,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Stack_
 - [Tower Power](Tower_Power "Tower Power")
 - [Rug Rage](Rug_Rage "Rug Rage")
 - [Maize Craze](Maize_Craze "Maize Craze")
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 - [Template:FRC Games](Template:FRC_Games "Template:FRC Games")
 - [User:Ngreen](User:Ngreen "User:Ngreen")
 - [Minotaur (810)](Minotaur_%28810%29 "Minotaur \(810\)")

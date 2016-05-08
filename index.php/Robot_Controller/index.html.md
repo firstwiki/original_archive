@@ -63,7 +63,7 @@ The Full-size Robot Controller receives data from the [Operator Interface](opera
 
 The RC tends to change slightly from year to year, where most of the change is slight improvements.
 
-There have been major changes, however. In 2000, the [BASIC Stamp](/index.php?title=BASIC_Stamp&action=edit "BASIC Stamp") was switched from [BS2](BS2 "BS2") to [BS2sx](BS2sx "BS2sx"). In 2003, an [autonomous mode](Autonomous_mode "Autonomous mode") feature was implemented. The most significant change, though, occurred in 2004, when the basic processor was changed from a [BASIC Stamp](/index.php?title=BASIC_Stamp&action=edit "BASIC Stamp") to a [PIC chip](PIC_chip "PIC chip"). In 2009, the RC was completely thrown out for the National Instruments [cRIO](CRIO "CRIO").
+There have been major changes, however. In 2000, the [BASIC Stamp](/index.php?title=BASIC_Stamp&action=edit "BASIC Stamp") was switched from [BS2](BS2 "BS2") to [BS2sx](BS2sx "BS2sx"). In 2003, an [autonomous mode](autonomous-mode) feature was implemented. The most significant change, though, occurred in 2004, when the basic processor was changed from a [BASIC Stamp](/index.php?title=BASIC_Stamp&action=edit "BASIC Stamp") to a [PIC chip](PIC_chip "PIC chip"). In 2009, the RC was completely thrown out for the National Instruments [cRIO](CRIO "CRIO").
 
 To learn more about the multiple varieties of the RC, see their specific pages.
 

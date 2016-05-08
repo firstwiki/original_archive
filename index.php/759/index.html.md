@@ -46,7 +46,7 @@ Team Website: | <http://www.systemetric.org/><br>
 
 ## History
 
-Systemetric (759) is a team comprised of students from Lower and Upper Sixth (16-18 year olds) at Hills Road Sixth Form College in Cambridge, UK. The team was the first from the United Kingdom to enter the [FIRST](FIRST "FIRST") Robotics competition and has become a regular at the [New York City Regional](New_York_City_Regional "New York City Regional") since their Rookie year in 2002.
+Systemetric (759) is a team comprised of students from Lower and Upper Sixth (16-18 year olds) at Hills Road Sixth Form College in Cambridge, UK. The team was the first from the United Kingdom to enter the [FIRST](first) Robotics competition and has become a regular at the [New York City Regional](New_York_City_Regional "New York City Regional") since their Rookie year in 2002.
 
 The teams name comes from the Metric system of measurement. The words Metric and system were switched around (system metric) and merged to create the team name. This is because although Feet and Yards are still in common use in America, Metres and Centimetres have replaced them as the more familiar units of measurement in the UK.
 

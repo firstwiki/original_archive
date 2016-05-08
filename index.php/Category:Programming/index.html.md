@@ -20,7 +20,7 @@ There are 21 articles in this category.
 
 ### A
 
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 
 ### C
 

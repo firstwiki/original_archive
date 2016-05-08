@@ -17,7 +17,7 @@ action=edit "http://www.firstwiki.net/index.php?title=FIRST_LEGO_League&action=e
 [![The FLL Logo](/media/thumb/d/d0/FLL_logo.jpg/190px-
 FLL_logo.jpg)](Image:FLL_logo.jpg "The FLL Logo")
 
-[FIRST](first) Lego League, or [FLL](FLL "FLL") was founded in 1998, in a partnership between [FIRST](FIRST "FIRST") and the [LEGO Corporation](LEGO_Corporation "LEGO
+[FIRST](first) Lego League, or [FLL](FLL "FLL") was founded in 1998, in a partnership between [FIRST](first) and the [LEGO Corporation](LEGO_Corporation "LEGO
 Corporation"). As an offshoot of the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition"), FLL was designed for a younger audience using the [Lego Mindstorms](Lego_Mindstorms "Lego Mindstorms") kits. Students involved in FLL build small LEGO robots, that traverse a 4' by 8' playing field to accomplish tasks related around a core theme.
 

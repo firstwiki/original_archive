@@ -7,7 +7,7 @@ hp?title=FIRSTwiki:Policies_and_guidelines_for_contributors&redirect=no "FIRSTwi
 
 Jump to: navigation, search
 
-[FIRSTwiki](FIRSTwiki "FIRSTwiki") is a collaborative effort of the [FIRST community](FIRST_community "FIRST community"). It's goal is to provide a historical reference and an otherwise valuable, encylcopedic resource to [FIRST Robotics teams](FIRST_Robotics_team "FIRST Robotics team") and others involved in the [FIRST](FIRST "FIRST") program. To work toward this goal, the wiki has certain **policies and guidelines** that help to keep the wiki a civil, organized, and useful resource. Note, however, that while some policies are relatively fixed, others are controversial and need to be evaluated based on the context of the situation.
+[FIRSTwiki](FIRSTwiki "FIRSTwiki") is a collaborative effort of the [FIRST community](FIRST_community "FIRST community"). It's goal is to provide a historical reference and an otherwise valuable, encylcopedic resource to [FIRST Robotics teams](FIRST_Robotics_team "FIRST Robotics team") and others involved in the [FIRST](first) program. To work toward this goal, the wiki has certain **policies and guidelines** that help to keep the wiki a civil, organized, and useful resource. Note, however, that while some policies are relatively fixed, others are controversial and need to be evaluated based on the context of the situation.
 
 **[Community Portal](FIRSTwiki:Community_portal "FIRSTwiki:Community portal")**
 

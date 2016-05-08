@@ -64,7 +64,7 @@ The [Control System](Control_system "Control system")
 
 --------------------------------------------------------------------------------
 
-The FIRST [Robot Controller](robot-controller) ("FRC") is the required onboard computer that controls robots. It can be programmed in C using the [MCC18](MCC18 "MCC18") compiler. The FRC has a corresponding [Operator Interface](Operator_Interface "Operator Interface") (OI) that takes inputs and transmits them via a 900mhz radio to the FRC. The FRC is similar in design and use to the [2004 Robovation](Robovation_%282004%29 "Robovation \(2004\)"). This RC includes a [TTL port](TTL_port "TTL port").
+The FIRST [Robot Controller](robot-controller) ("FRC") is the required onboard computer that controls robots. It can be programmed in C using the [MCC18](MCC18 "MCC18") compiler. The FRC has a corresponding [Operator Interface](operator-interface) (OI) that takes inputs and transmits them via a 900mhz radio to the FRC. The FRC is similar in design and use to the [2004 Robovation](Robovation_%282004%29 "Robovation \(2004\)"). This RC includes a [TTL port](TTL_port "TTL port").
 
 Note that in previous years, the FRC was very different.
 

@@ -36,7 +36,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Sensor
   - [Kit of parts](Kit_of_parts "Kit of parts")
   - [PID controller](PID_controller "PID controller")
   - [Parts of a control system](Parts_of_a_control_system "Parts of a control system")
-  - [Autonomous mode](Autonomous_mode "Autonomous mode")
+  - [Autonomous mode](autonomous-mode)
   - [Input](Input "Input")
   - [Category:Sensors](Category:Sensors "Category:Sensors")
   - [Line following](Line_following "Line following")

@@ -52,7 +52,7 @@ The [Control System](Control_system "Control system")
 
 --------------------------------------------------------------------------------
 
-The **Vishay TSOP34840 IR sensor**, or simply **IR sensor**, is used to detect infra-red signals. In [FIRST Robotics](first), this sensor is primarily used during the [autonomous mode](Autonomous_mode "Autonomous mode"). It was introduced in 2004, for the game [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy:
+The **Vishay TSOP34840 IR sensor**, or simply **IR sensor**, is used to detect infra-red signals. In [FIRST Robotics](first), this sensor is primarily used during the [autonomous mode](autonomous-mode). It was introduced in 2004, for the game [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy:
 Raising the Bar"), and during [kickoff](Kickoff "Kickoff") [Dean Kamen](Dean_Kamen "Dean Kamen") and [Woodie Flowers](Woodie_Flowers "Woodie Flowers") strongly hinted at its continued importance. The most common setup works by connecting the sensors to [interrupt](Interrupts "Interrupts") pins, and detecting a certain frequency and pulse-width that the [IR beacons](IR_beacon "IR
 beacon") were known to emit.
 

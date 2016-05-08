@@ -106,7 +106,7 @@ Is the backup battery charged? The camera and it's servos are powered off of the
 
 ### Wire Connections
 
-Were any wires pulled loose? The camera itself has two PWM cables going into it. One powers the camera, and is plugged into any free PWM port on the [robot controller](Robot_controller "Robot controller"). The other is plugged into the small TTL/RS-232 converter, which is then plugged into the [robot controller](Robot_controller "Robot controller").
+Were any wires pulled loose? The camera itself has two PWM cables going into it. One powers the camera, and is plugged into any free PWM port on the [robot controller](robot-controller). The other is plugged into the small TTL/RS-232 converter, which is then plugged into the [robot controller](robot-controller).
 
 ### Status Lights
 

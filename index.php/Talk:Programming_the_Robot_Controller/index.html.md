@@ -18,7 +18,7 @@ If you're going to be pedantic like that, we program a Pic 18 series in C using 
 
 --------------------------------------------------------------------------------
 
-According to the previous discussion, I've moved the articles dealing with Robot Controller to proper noun form. I'm addressing the links to these articles, and will try to get the plain text, too. Help would be appreciated, if I've missed anything. Oh, and I assume the same thing will need to be done to [Operator interface](Operator_interface "Operator interface")?--[Mrawls](User:Mrawls "User:Mrawls") 13:15, 23 Jun 2004 (EDT)
+According to the previous discussion, I've moved the articles dealing with Robot Controller to proper noun form. I'm addressing the links to these articles, and will try to get the plain text, too. Help would be appreciated, if I've missed anything. Oh, and I assume the same thing will need to be done to [Operator interface](operator-interface)?--[Mrawls](User:Mrawls "User:Mrawls") 13:15, 23 Jun 2004 (EDT)
 
 ```
 Yep --[Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) 13:24, 23 Jun 2004 (EDT) 
@@ -49,7 +49,7 @@ Robot Controller is a proper noun, used in this case. IFI capitalizes it in all 
 
 
 
-I stand corrected. And now quite a few articles have to be adjusted. Also, I suppose [Robot controller](Robot_controller "Robot controller" ) should redirect to [Robot Controller](robot-controller) ... A clarification, though: you say "in this case". Is it always a proper noun, or only when a specific version is referred to? This doesn't refer to a specific version, so I guess I should ask, when is it not a proper noun. --[Mrawls](User:Mrawls "User:Mrawls" ) 14:38, 21 Jun 2004 (EDT) 
+I stand corrected. And now quite a few articles have to be adjusted. Also, I suppose [Robot controller](robot-controller ) should redirect to [Robot Controller](robot-controller) ... A clarification, though: you say "in this case". Is it always a proper noun, or only when a specific version is referred to? This doesn't refer to a specific version, so I guess I should ask, when is it not a proper noun. --[Mrawls](User:Mrawls "User:Mrawls" ) 14:38, 21 Jun 2004 (EDT) 
 
 
 

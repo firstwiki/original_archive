@@ -7,7 +7,7 @@ Jump to: navigation, search
 ARRRGGG!!! THERE"S ALREADY ONE!!! [OI](OI "OI") --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") 22:30, 28 May 2004 (EDT)
 
 ```
-No. I changed it. Make a general page first. Then add articles with year-specific details. [Operator interface](Operator_interface "Operator interface" ) and [Operator interface (2004)](Operator_interface_%282004%29 "Operator interface \(2004\)" ). --[SilverStar](User:SilverStar "User:SilverStar" ) 22:31, 28 May 2004 (EDT) 
+No. I changed it. Make a general page first. Then add articles with year-specific details. [Operator interface](operator-interface ) and [Operator interface (2004)](Operator_interface_%282004%29 "Operator interface \(2004\)" ). --[SilverStar](User:SilverStar "User:SilverStar" ) 22:31, 28 May 2004 (EDT) 
 ```
 
 Retrieved from "<http://www.firstwiki.netTalk:Operator_Interface_%282004%29>"

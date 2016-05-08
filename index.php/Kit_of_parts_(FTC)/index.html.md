@@ -89,7 +89,7 @@ micro-controller-module.jpg "Enlarge")
 
 The Vex Micro-Controller. Image source: VexLABS [[2]](http://www.vexlabs.com "http://www.vexlabs.com")
 
-The Vex controller uses two PIC18F8520 micro controllers, a Master and User which are uses to execute tasks. Vex robots can be driven by R/C or by an [autonomous mode](Autonomous_mode "Autonomous mode"). A stock autonomous mode is available, but users can modify and change their autonomous mode by using the Vex Programming Module and either [EasyC](/index.php?title=EasyC&action=edit "EasyC") or [MPLAB](MPLAB "MPLAB"). The Vex Controller runs off 7.2 volts, and is compatibly with both Vex rechargeable battery packs and standard 7.2V hobby batteries.
+The Vex controller uses two PIC18F8520 micro controllers, a Master and User which are uses to execute tasks. Vex robots can be driven by R/C or by an [autonomous mode](autonomous-mode). A stock autonomous mode is available, but users can modify and change their autonomous mode by using the Vex Programming Module and either [EasyC](/index.php?title=EasyC&action=edit "EasyC") or [MPLAB](MPLAB "MPLAB"). The Vex Controller runs off 7.2 volts, and is compatibly with both Vex rechargeable battery packs and standard 7.2V hobby batteries.
 
 [[edit](/index.php?title=Kit_of_parts_%28FTC%29&action=edit&section=3 "Edit
 section: Inputs / Output Ports")]

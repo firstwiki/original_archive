@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Please do not post articles that are no relvant to [FIRST](FIRST "FIRST"). If you have any questions about what is appropriate content, please post them [FIRSTwiki:Village Pump](FIRSTwiki:Village_Pump "FIRSTwiki:Village Pump"). Thanks! --[Max](User:Max "User:Max") 18:34, 21 Sep 2004 (EDT)
+Please do not post articles that are no relvant to [FIRST](first). If you have any questions about what is appropriate content, please post them [FIRSTwiki:Village Pump](FIRSTwiki:Village_Pump "FIRSTwiki:Village Pump"). Thanks! --[Max](User:Max "User:Max") 18:34, 21 Sep 2004 (EDT)
 
 ```
 Which can be found at [FIRSTwiki:Village pump](FIRSTwiki:Village_pump "FIRSTwiki:Village pump" ).  :P *creates redirect* --[Goobergunch](User:Goobergunch "User:Goobergunch" ) [[1168](1168 "1168" )] 19:08, 21 Sep 2004 (EDT) 

@@ -31,7 +31,7 @@ Jump to: navigation, search
 A FRC game is a game involving the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition").
 
-Each year the game is structurally different from previous years in remarkable ways. [FIRST](first) strives to present a visually stimulating game for spectators, a game interesting for the participants, challenging for [veteran teams](Veteran_teams "Veteran teams"), yet accessible to [rookie teams](Rookie_teams "Rookie teams"). This is never an easy balance to reach, but FIRST is known for suprising innovations; features such as [autonomous mode](Autonomous_mode "Autonomous mode"), the bins of [Stack Attack](Stack_Attack "Stack
+Each year the game is structurally different from previous years in remarkable ways. [FIRST](first) strives to present a visually stimulating game for spectators, a game interesting for the participants, challenging for [veteran teams](Veteran_teams "Veteran teams"), yet accessible to [rookie teams](Rookie_teams "Rookie teams"). This is never an easy balance to reach, but FIRST is known for suprising innovations; features such as [autonomous mode](autonomous-mode), the bins of [Stack Attack](Stack_Attack "Stack
 Attack"), and the stairs in [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar") show just how clever [FIRST](first) can be.
 
 ## The Game

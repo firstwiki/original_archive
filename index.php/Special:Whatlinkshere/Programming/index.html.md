@@ -27,7 +27,7 @@ View (previous 50) (next 50) ([20](/index.php?title=Special:Whatlinkshere/Progra
 - [Parts of a control system](Parts_of_a_control_system "Parts of a control system")
 - [FIRSTwiki:Featured article candidates](FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates")
 - [Robovation](robovation)
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 - [Multiple autonomous modes](Multiple_autonomous_modes "Multiple autonomous modes")
 - [Default code (2004)](Default_code_%282004%29 "Default code \(2004\)")
 - [Default code](Default_code "Default code")

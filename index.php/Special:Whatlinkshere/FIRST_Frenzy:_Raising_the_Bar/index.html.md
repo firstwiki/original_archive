@@ -44,7 +44,7 @@ rom=0 "Special:Whatlinkshere/FIRST Frenzy: Raising the Bar")).
 - [Tower Power](Tower_Power "Tower Power")
 - [Rug Rage](Rug_Rage "Rug Rage")
 - [Maize Craze](Maize_Craze "Maize Craze")
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 - [Multiple autonomous modes](Multiple_autonomous_modes "Multiple autonomous modes")
 - [Template:FRC Games](Template:FRC_Games "Template:FRC Games")
 - [FIRSTwiki:Yearly Game page format](FIRSTwiki:Yearly_Game_page_format "FIRSTwiki:Yearly Game page format")

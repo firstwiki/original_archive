@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The tether is a red [DB9](http://www.wikipedia.org/wiki/DB9 "wikipedia:DB9") cable that connects the [operator interface](Operator_interface "Operator interface") to the [robot controller](Robot_controller "Robot controller").
+The tether is a red [DB9](http://www.wikipedia.org/wiki/DB9 "wikipedia:DB9") cable that connects the [operator interface](operator-interface) to the [robot controller](robot-controller).
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif)

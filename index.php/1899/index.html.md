@@ -46,7 +46,7 @@ Expanded yearly history should go into a team-year artical, see the [formats](FI
 
 Formed in late 2005, Saints Robotics participated in the 2006 game [Aim High](aim-high). It was funded exclusively by the NASA grant for [rookie teams](Rookie_teams "Rookie teams"). Saints Robotics initially [seeded](Seed "Seed") 36 out of 45 competitors at the [Pacific Northwest Regional](Pacific_Northwest_Regional "Pacific Northwest Regional"), with only three members attending the competition in Portland, Oregon, but managed to place 35th overall.
 
-The 2006 robot was plagued by multiple problems. It was not named until mid- January 2007, when it was christened "Nubcake" as its electronics and custom drive gearbox were being dismantled for experimental purposes. While it had no problem overcoming the 30 degree incline, about a third of the matches on the drive chains would come off, and Nubcake would become stuck on the field. Its [autonomous mode](Autonomous_mode "Autonomous mode") was a simple "drive, turn, drive, dump," written on-site at the competition.
+The 2006 robot was plagued by multiple problems. It was not named until mid- January 2007, when it was christened "Nubcake" as its electronics and custom drive gearbox were being dismantled for experimental purposes. While it had no problem overcoming the 30 degree incline, about a third of the matches on the drive chains would come off, and Nubcake would become stuck on the field. Its [autonomous mode](autonomous-mode) was a simple "drive, turn, drive, dump," written on-site at the competition.
 
 ### 2006-2007
 

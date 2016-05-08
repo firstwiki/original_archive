@@ -37,7 +37,7 @@ Air is outputted through a quick connector.
 
 ### Electrical Power
 
-A voltage of +12v is nessecary to run the compressor. Damage to the compressor will result if the polarity is reversed. The compressor should be connected to a [spike relay](Spike_relay "Spike relay") to allow the [robot controller](Robot_controller "Robot controller") to automatically control the compressor with the help of a [pressure switch](Pressure_switch "Pressure switch").
+A voltage of +12v is nessecary to run the compressor. Damage to the compressor will result if the polarity is reversed. The compressor should be connected to a [spike relay](Spike_relay "Spike relay") to allow the [robot controller](robot-controller) to automatically control the compressor with the help of a [pressure switch](Pressure_switch "Pressure switch").
 
 ## Current Product Info
 

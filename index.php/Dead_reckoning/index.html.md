@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Dead reckoning** refers to a [robot](Robot "Robot") operating without awareness of how the environment around it is changing. In [FIRST](first), it typically refers to the method of [programming](Programming "Programming") the [autonomous mode](Autonomous_mode "Autonomous mode"), and generally refers to a robot that does not use any [sensors](sensor) for the autonomous mode. However, that is not entirely accurate. A robot using [encoders](/index.php?title=Encoders&action=edit "Encoders") could be considered _dead reckoning_.
+**Dead reckoning** refers to a [robot](Robot "Robot") operating without awareness of how the environment around it is changing. In [FIRST](first), it typically refers to the method of [programming](Programming "Programming") the [autonomous mode](autonomous-mode), and generally refers to a robot that does not use any [sensors](sensor) for the autonomous mode. However, that is not entirely accurate. A robot using [encoders](/index.php?title=Encoders&action=edit "Encoders") could be considered _dead reckoning_.
 
 A dead reckoning robot lacks the ability to respond to a changing environment. However, by not using sensors, dead reckoning robots can operate much faster and still be consistent (although that could easily be consistently wrong).
 

@@ -39,7 +39,7 @@ section: Origins of FTC")]
 
 ## Origins of FTC
 
-In 2003, [Innovation First, Inc.](Innovation_First%2C_Inc. "Innovation First, Inc.") released their [Robovation](Robovation "Robovation") kits, the forerunner of the modern Vex kits. They utilized a smaller version of the FIRST [Robot Controller](Robot_Controller "Robot Controller"), to facilitate in programming and building of full size FIRST Robots.
+In 2003, [Innovation First, Inc.](Innovation_First%2C_Inc. "Innovation First, Inc.") released their [Robovation](Robovation "Robovation") kits, the forerunner of the modern Vex kits. They utilized a smaller version of the FIRST [Robot Controller](robot-controller), to facilitate in programming and building of full size FIRST Robots.
 
 In time, people realized that the Robovation kits would make for a cheaper version of the [FIRST Robotic Competitions](Regional "Regional"). Thus began the collaboration between [RadioShack](http://www.wikipedia.org/wiki/RadioShack "wikipedia:RadioShack") and [Innovation First](Innovation_First%2C_Inc. "Innovation First,
 Inc.") to upgrade the Robovation to a commercially viable robotic kit.

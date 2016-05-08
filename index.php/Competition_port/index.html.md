@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The competition port is on the top of the [operator interface](Operator_interface "Operator interface") and interfaces with [FIRST's](first) hardware at competitions. It is used by FIRST to turn robots on, off, and initate [autonomous mode](Autonomous_mode "Autonomous mode") at competitions. The port is only used at competitions, and when using a [dongle](Competition_port_dongle "Competition port dongle").
+The competition port is on the top of the [operator interface](operator-interface) and interfaces with [FIRST's](first) hardware at competitions. It is used by FIRST to turn robots on, off, and initate [autonomous mode](autonomous-mode) at competitions. The port is only used at competitions, and when using a [dongle](Competition_port_dongle "Competition port dongle").
 
 ## See also
 

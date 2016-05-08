@@ -38,7 +38,7 @@ For information regarding programming resources, see:
 
 ## Autonomous Mode
 
-Note that beginning with [Stack Attack](Stack_Attack "Stack Attack") in 2003, [FRC games](FRC_games "FRC games") have included an [autonomous mode](Autonomous_mode "Autonomous mode") -- a period of time, so far 15 seconds at the beginning of the match, under which the robot must act without user input. This is a major challenge to programming the robot, and can be as complicated as a large network of [sensors](sensor) with many lines of code ... or as simple as a trial-and-error [dead reckoning](Dead_reckoning "Dead
+Note that beginning with [Stack Attack](Stack_Attack "Stack Attack") in 2003, [FRC games](FRC_games "FRC games") have included an [autonomous mode](autonomous-mode) -- a period of time, so far 15 seconds at the beginning of the match, under which the robot must act without user input. This is a major challenge to programming the robot, and can be as complicated as a large network of [sensors](sensor) with many lines of code ... or as simple as a trial-and-error [dead reckoning](Dead_reckoning "Dead
 reckoning") solution.
 
 ## See also

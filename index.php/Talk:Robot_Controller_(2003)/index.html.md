@@ -9,7 +9,7 @@ Isn't PIC a Microchip thing? Parallax just calls it the BS2sx. (Oooops, It's the
 Why call it the "Full RC"? that isn't the name, and it is unneeded, there is only one FIRST robotics controller. There is the EDU controller, but that is called the EDU controller, moving back --[Max](User:Max "User:Max")
 
 ```
-on second though, moving to 2003 [Robot controller](Robot_controller "Robot controller" ), to match the current one. --[Max](User:Max "User:Max" )
+on second though, moving to 2003 [Robot controller](robot-controller ), to match the current one. --[Max](User:Max "User:Max" )
 ```
 
 Is there a legacy page for the 2003 RC like for the [EDU](EDU_Bot_%282003%29 "EDU Bot \(2003\)") and the [OI](Operator_interface_%282003%29 "Operator interface \(2003\)")? --[Astronouth7303](User:Astronouth7303 "User:Astronouth7303") 17:27, 1 Jun 2004 (EDT)

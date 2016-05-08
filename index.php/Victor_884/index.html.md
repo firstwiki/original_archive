@@ -70,7 +70,7 @@ The [Control System](Control_system "Control system")
 --------------------------------------------------------------------------------
 
 The **Victor 884** is a [speed controller](Speed_Controller "Speed
-Controller") developed by [Innovation FIRST](Innovation_FIRST "Innovation FIRST") as an improved version of the [Victor 883](victor-883). The Victor 884 works by reading a [PWM](pwm) signal from a [robot controller](Robot_controller "Robot controller"), and adjusting the effective voltage supplied to the motors accordingly. The Victor 884 was the only FIRST legal speed controller allowed in the [2005](triple-play) [control system](Control_system "Control system").
+Controller") developed by [Innovation FIRST](Innovation_FIRST "Innovation FIRST") as an improved version of the [Victor 883](victor-883). The Victor 884 works by reading a [PWM](pwm) signal from a [robot controller](robot-controller), and adjusting the effective voltage supplied to the motors accordingly. The Victor 884 was the only FIRST legal speed controller allowed in the [2005](triple-play) [control system](Control_system "Control system").
 
 ## Contents
 
@@ -100,7 +100,7 @@ clip.png)](Image:Victor-884.gif "Enlarge")
 
 The Victor 884 Speed Controller. Image source: [Innovation FIRST](Innovation_FIRST "Innovation FIRST")
 
-The Victor 884 is part of the FIRST [control system](Control_system "Control system"). The Victor 884 works by recieving a [PWM signal](PWM_signal "PWM signal") input from a [robot controller](Robot_controller "Robot controller"), which may include the (full) [Robot Controller](Robot_Controller "Robot
+The Victor 884 is part of the FIRST [control system](Control_system "Control system"). The Victor 884 works by recieving a [PWM signal](PWM_signal "PWM signal") input from a [robot controller](robot-controller), which may include the (full) [Robot Controller](Robot_Controller "Robot
 Controller"), the [Robovation](robovation) controller or a [Vex](Vex "Vex") Controller. Depending on the range of the [PWM](pwm) signal - with 0 being full reverse, 127 being neutral, and 254 being full forward - the Victor 884 adjusts the output of the motor accordingly. This achieves a variable speed control for such applications as [drivetrains](Drive_trains "Drive trains"), arms, or elevators.
 
 The operating voltage of the Victor 884 ranges from 6V to 15V DC, with a maximum operating current of 40 amps. The variable output from the Victor 884 ranges from 3% to 100% of full throttle. A cooling fan operated by the input voltage of the speed controller insures that the Victor 884 is continously cooled.
@@ -119,7 +119,7 @@ Typically, a robot will use 'coast' mode on most drive motors, as abrupt stops c
 
 ### Data
 
-A 3-pin [PWM cable](PWM_cable "PWM cable") connects the Victor 884 to the [robot controller](Robot_controller "Robot controller"). On the Robot Controller, the PWM cable destined for the Victor 884 speed controller should be connected to the "[PWM output](/index.php?title=PWM_output&action=edit "PWM output")" set of ports. A [relay extension cable](/index.php?title=Relay_extension_cable&action=edit "Relay extension cable") or a [Y-cable](/index.php?title=Y-cable&action=edit "Y-cable") may be used if the Victor is mounted far away from the Controller or if one wants a single PWM output port on the Controller to control multiple Victors.
+A 3-pin [PWM cable](PWM_cable "PWM cable") connects the Victor 884 to the [robot controller](robot-controller). On the Robot Controller, the PWM cable destined for the Victor 884 speed controller should be connected to the "[PWM output](/index.php?title=PWM_output&action=edit "PWM output")" set of ports. A [relay extension cable](/index.php?title=Relay_extension_cable&action=edit "Relay extension cable") or a [Y-cable](/index.php?title=Y-cable&action=edit "Y-cable") may be used if the Victor is mounted far away from the Controller or if one wants a single PWM output port on the Controller to control multiple Victors.
 
 ### Input
 

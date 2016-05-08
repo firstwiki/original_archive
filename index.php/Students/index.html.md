@@ -19,4 +19,4 @@ Students work with [mentors](Mentors "Mentors") and [engineers](Engineers "Engin
 
 ## Requirements
 
-Students entering the program do not have to know anything about [building](Fabrication "Fabrication") robots; they can and are encouraged to learn as they go. To be a part of the [FIRST](FIRST "FIRST") program, they must be dedicated and willing to learn; most team's robots are entirely designed and built by the students, many of whom came in knowing nothing about robots at all.
+Students entering the program do not have to know anything about [building](Fabrication "Fabrication") robots; they can and are encouraged to learn as they go. To be a part of the [FIRST](first) program, they must be dedicated and willing to learn; most team's robots are entirely designed and built by the students, many of whom came in knowing nothing about robots at all.

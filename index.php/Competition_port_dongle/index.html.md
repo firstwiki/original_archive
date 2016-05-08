@@ -14,7 +14,7 @@ section: What a dongle does")]
 A dongle can be built to do the following things:
 
 - Allow teams to [disable](Disabled "Disabled") the robot safely
-- Allow teams to start [autonomous mode](Autonomous_mode "Autonomous mode")
+- Allow teams to start [autonomous mode](autonomous-mode)
 - Enables access to channels 4, 13, 22, and 31 in addition to the normal channel 40 on the 900 mhz band
 
 [[edit](/index.php?title=Competition_port_dongle&action=edit&section=2 "Edit

@@ -158,7 +158,7 @@ section: Introduction")]
 All articles should have the title or subject in **bold**. The title or subject can almost always be made part of the first sentence, but some articles simply have names. E.g.,
 
 - **Programming** is an integral part of building a [robot](Robot "Robot").
-- The **default code** provides pre-programmed functionality to the [robot controller](Robot_controller "Robot controller").
+- The **default code** provides pre-programmed functionality to the [robot controller](robot-controller).
 
 If necessary, make the context clear. E.g.,
 

@@ -43,7 +43,7 @@ View (previous 50) ([next 50](/index.php?title=Special:Whatlinkshere/Control_sys
 - [Robovation](robovation)
 - [Victor 884](victor-884)
 - [FIRSTwiki:Roadmap](FIRSTwiki:Roadmap "FIRSTwiki:Roadmap")
-- [Autonomous mode](Autonomous_mode "Autonomous mode")
+- [Autonomous mode](autonomous-mode)
 - [User:Mrawls/front page redesign](User:Mrawls/front_page_redesign "User:Mrawls/front page redesign")
 - [FIRSTwiki:Village pump/Archive 1](FIRSTwiki:Village_pump/Archive_1 "FIRSTwiki:Village pump/Archive 1")
 - [Logic of a control system](Logic_of_a_control_system "Logic of a control system")

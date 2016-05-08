@@ -25,7 +25,7 @@ clip.png)](Image:Youngdave.jpg "Enlarge")
 
 **It's not because the kids look up to him that [Dave] gets picked on, it's really because it's just so much fun. - Heidi Foster**
 
-It is hard to try to sum him up. He's rather mysterious, and [FIRSTers](FIRSTer "FIRSTer") are always running into ancedotes about him. Some think he is the Che Guevara of the [FIRST](FIRST "FIRST") revolution, at least in the fact that his face has turned into a subcultural meme, forever associated with "[That's Pimp](That%27s_Pimp "That's Pimp")." In the early nineties Dave was a wholesome NASA engineer with a penchant for those little black ties NASA loves so much. He looked like this, well at least when he was on grainy public access:
+It is hard to try to sum him up. He's rather mysterious, and [FIRSTers](FIRSTer "FIRSTer") are always running into ancedotes about him. Some think he is the Che Guevara of the [FIRST](first) revolution, at least in the fact that his face has turned into a subcultural meme, forever associated with "[That's Pimp](That%27s_Pimp "That's Pimp")." In the early nineties Dave was a wholesome NASA engineer with a penchant for those little black ties NASA loves so much. He looked like this, well at least when he was on grainy public access:
 
 In recent years we've seen the development of a newer, more edgy Dave, focus group tested to be "down" with today's youth.
 
