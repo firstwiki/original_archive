@@ -85,7 +85,7 @@ Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * Southern New Hampshire FLL Regional (volunteer, Referee) 
 
 
-### 2005 ([Triple Play](Triple_Play "Triple Play" ))
+### 2005 ([Triple Play](triple-play))
 
   * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" ) (with Team 811) 
   * [UTC New England Regional](UTC_Regional "UTC Regional" ) (with Team 1100) 
@@ -96,7 +96,7 @@ Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
   * [Robonautica](/index.php?title=Robonautica&action=edit "Robonautica" ) 5 (volunteer, Technical Judging) 
 
 
-### 2006 ([Aim High](Aim_High "Aim High" ))
+### 2006 ([Aim High](aim-high))
 
 (with Team [1100](1100 "1100" ))
 
@@ -139,7 +139,7 @@ wreak havoc on my car, especially in New England winters, so I searched for a
 new team closer to my new place. I joined a local community wind band, which
 rehearses at the local high school. I asked the band director if he knew of
 any robotics teams in the area, and he pointed me to the faculty advisor for
-Team 1100. For the 2005 ([Triple Play](Triple_Play "Triple Play" ))
+Team 1100. For the 2005 ([Triple Play](triple-play))
 season, I worked with both Team 811 and Team 1100, moving exclusively to 1100
 shortly after the BAE Systems Granite State Regional that year.
 

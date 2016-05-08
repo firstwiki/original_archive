@@ -17,7 +17,7 @@ There are 25 articles in this category.
 
 ### A
 
-  * [Aim High](Aim_High "Aim High" )
+  * [Aim High](aim-high)
 
 ### B
 
@@ -77,7 +77,7 @@ There are 25 articles in this category.
   * [Template:Format/game](Template:Format/game "Template:Format/game" )
   * [Toroid Terror](Toroid_Terror "Toroid Terror" )
   * [Tower Power](Tower_Power "Tower Power" )
-  * [Triple Play](Triple_Play "Triple Play" )
+  * [Triple Play](triple-play)
   * [Triple Play/Speculation](Triple_Play/Speculation "Triple Play/Speculation" )
 
 ### Z

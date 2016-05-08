@@ -20,7 +20,7 @@ onalism&action=edit" )** this article.
   
 ---|---  
   
-**Gracious Professionalism** is the embodiment of the [FIRST philosophy](FIRST_philosophy "FIRST philosophy" ). It is how we should strive to act, whether we are being watched or not, and in a way that would make our grandmothers proud. It has long been part of the [history](/index.php?title=History&action=edit "History" ) of [FIRST](FIRST "FIRST" ), and only recently codified in the 2004 manual. 
+**Gracious Professionalism** is the embodiment of the [FIRST philosophy](FIRST_philosophy "FIRST philosophy" ). It is how we should strive to act, whether we are being watched or not, and in a way that would make our grandmothers proud. It has long been part of the [history](/index.php?title=History&action=edit "History" ) of [FIRST](first), and only recently codified in the 2004 manual. 
 
     "Gracious professionals make a valued contribution in a manner pleasing to others and to themselves. In FIRST, one of the most straightforward interpretations of gracious professionalism is that we learn and compete like crazy, but treat one another with respect and kindness in the process. We try to avoid leaving anyone feeling like they are losers. No chest thumping barbarian tough talk, but no sticky sweet platitudes either. Knowledge, pride and empathy comfortably blended.... In the long run, gracious professionalism is part of pursuing a meaningful life." 
 

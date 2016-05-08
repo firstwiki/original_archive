@@ -31,8 +31,8 @@ motor.
 
 ## Types/Brands of Speed Controllers
 
-  * The [Victors](Victor "Victor" ) used by [FIRST](FIRST "FIRST" ) take input in the form of [PWM](PWM "PWM" ). 
-  * The [Jaguars](Jaguar "Jaguar" ) take input either by [PWM](PWM "PWM" ) or [CAN](/index.php?title=CAN&action=edit "CAN" ). 
+  * The [Victors](Victor "Victor" ) used by [FIRST](first) take input in the form of [PWM](pwm). 
+  * The [Jaguars](Jaguar "Jaguar" ) take input either by [PWM](pwm) or [CAN](/index.php?title=CAN&action=edit "CAN" ). 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif "" )

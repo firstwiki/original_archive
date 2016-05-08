@@ -109,9 +109,9 @@ section: Inputs / Output Ports" )]
 ###  Inputs / Output Ports
 
 The Vex Controller has 16 [Analog](Analog "Analog"
-)/[Digital](Digital "Digital" ) [Input](Input "Input"
+)/[Digital](digital) [Input](Input "Input"
 )/[Output](Output "Output" ) Ports, one RX and one TX port, 8
-[Pulse-Width-Modulation](PWM "PWM" ) Motor Ports, and 8
+[Pulse-Width-Modulation](pwm) Motor Ports, and 8
 [Interrupt](Interrupts "Interrupts" ) Ports. There are also two
 (RX1 and RX2) Radio Modem/Tether ports and one Serial Port on the side of the
 controller.
@@ -125,7 +125,7 @@ In addition to the official VEX sensors, custom sensors (ex.
 [Potentiometers](Potentiometer "Potentiometer" ), [Infrared Range
 Sensors](/index.php?title=Infrared_Range_Sensors&action=edit "Infrared Range
 Sensors" ), etc.) may be used with the Vex controller. Devices such as a
-[Spike Relay](Spike "Spike" ), a pneumatic
+[Spike Relay](spike-relay), a pneumatic
 [solenoid](Solenoid "Solenoid" ), or a
 [LED](/index.php?title=LED&action=edit "LED" ) may be controlled via the
 Digital Outputs of the Vex Controller
@@ -145,9 +145,9 @@ section: Motor Ports" )]
 ####  Motor Ports
 
 The eight Motor Ports on the Vex Controller use [Pulse-Width-
-Modulation](PWM "PWM" ) to control the Vex Motors and Servos.
+Modulation](pwm) to control the Vex Motors and Servos.
 Standard hobby [Servos](Servo "Servo" ) and the [Speed
-Controllers](Speed_Controller "Speed Controller" ) used on full-
+Controllers](speed-controller) used on full-
 size FRC robots may also be controlled via the Vex Motor ports.
 
 [[edit](/index.php?title=Kit_of_parts_%28FTC%29&action=edit&section=7 "Edit
@@ -180,16 +180,16 @@ section: Sensors" )]
 ## Sensors
 
 In the current line of Vex parts, there are six official Vex
-[sensors](Sensor "Sensor" ). These six sensors, include [limit
+[sensors](sensor). These six sensors, include [limit
 switches](Limit_switch "Limit switch" ), bumper switches, [light
 sensors](/index.php?title=Light_sensor&action=edit "Light sensor" ), [line
 following](Line_following "Line following" ) sensors, [ultrasonic
 range finders](/index.php?title=Ultrasonic_range_finder&action=edit
 "Ultrasonic range finder" ), and optical [shaft encoders](Encoder
 "Encoder" ). The Vex limit and bumper switches report a
-[digital](Digital "Digital" )
+[digital](digital)
 [signal](/index.php?title=Signal&action=edit "Signal" ), while the light
-sensor and line follower use a [analog](Analog "Analog" ) signal.
+sensor and line follower use a [analog](analog) signal.
 The Ultrasonic and Optical Shaft Encoders both utilize Interrupt ports when
 being programmed. The Ultrasonic part also needs a digital output port to
 create the ping pulse.

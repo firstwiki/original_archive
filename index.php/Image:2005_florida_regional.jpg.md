@@ -34,7 +34,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Triple Play](Triple_Play "Triple Play" )
+  * [Triple Play](triple-play)
 
 Retrieved from
 "<http://www.firstwiki.netImage:2005_florida_regional.jpg>"

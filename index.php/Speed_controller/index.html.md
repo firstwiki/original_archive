@@ -25,7 +25,7 @@ motor.
 
 ## Types/Brands of Speed Controllers
 
-  * The [Victors](Victor "Victor" ) used by [FIRST](FIRST "FIRST" ) take input in the form of [PWM](PWM "PWM" ). 
+  * The [Victors](Victor "Victor" ) used by [FIRST](first) take input in the form of [PWM](pwm). 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif "" )

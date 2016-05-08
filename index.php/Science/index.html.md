@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Science! As in [FIRST](FIRST "FIRST" ): For
+Science! As in [FIRST](first): For
 [Inspiration](Inspiration "Inspiration" ) and
 [Recognition](Recognition "Recognition" ) of **Science** and
 [Technology](Technology "Technology" ).

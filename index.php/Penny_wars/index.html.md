@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 A penny war is a type of [fundraiser](Fundraising "Fundraising" )
-that is used by [FIRST](FIRST "FIRST" ) teams. A traditional penny
+that is used by [FIRST](first) teams. A traditional penny
 war is held between multiple parts of the student body, either by homeroom,
 grade, club, or other method. Students then bring in pennies, which are put in
 their group's jar. Members of other groups may then attack the jar by putting

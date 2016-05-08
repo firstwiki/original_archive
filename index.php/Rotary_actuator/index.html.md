@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 A **rotary actuator** is a [pneumatics](Pneumatics "Pneumatics" )
 component used to turn air pressure into rotational energy. The ones used by
-[FIRST](FIRST "FIRST" ) are manufactured by
+[FIRST](first) are manufactured by
 [Bimba](http://www.bimba.com "http://www.bimba.com" ).
 
 

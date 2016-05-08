@@ -6,8 +6,8 @@ Jump to: navigation, search
 
 A PWM Cable is a 3-pin cable with a connector on each end designed to plug
 into both the [robot controller](Robot_controller "Robot
-controller" ) and the [Victor 884](Victor_884 "Victor 884" ) speed
-controller. This cable carries the [PWM](PWM "PWM" ) signal.
+controller" ) and the [Victor 884](victor-884) speed
+controller. This cable carries the [PWM](pwm) signal.
 
 
 ## Other Uses of the PWM Cable
@@ -30,7 +30,7 @@ to spontaneously disconnect from the [robot
 controller](Robot_controller "Robot controller" ). These teams have
 begun using large, multipin cables that they have attached custom connectors
 to allow them to connect to the [robot controller](Robot_controller
-"Robot controller" ) and [Victor 884](Victor_884 "Victor 884" ).
+"Robot controller" ) and [Victor 884](victor-884).
 These cables include ribbon cables of the type used for computer disc drives
 and DB-9 type cables used in PC serial cables. By using these types of cables,
 there are fewer wires to organize and a quick-disconnect can be installed to

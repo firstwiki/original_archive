@@ -23,9 +23,9 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/Dean Kamen" )).
 
   * [Index of people](Index_of_people "Index of people" )
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [FIRST sponsors](FIRST_sponsors "FIRST sponsors" )
-  * [Sensor](Sensor "Sensor" )
+  * [Sensor](sensor)
   * [Ramp n' Roll](Ramp_n%27_Roll "Ramp n' Roll" )
   * [DEKA](DEKA "DEKA" )
   * [Index of celebrities](Index_of_celebrities "Index of celebrities" )

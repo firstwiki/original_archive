@@ -30,7 +30,7 @@ Interface" ).
 USB-Chicklet is an embedded device that performs USB hosting on USB joysticks
 and gamepads and converts the data from the device into analog and digital
 signals compatible with the 15-pin joystick interface found on the [Operator
-Interface](Operator_Interface "Operator Interface" ). This allows
+Interface](operator-interface). This allows
 teams to use USB devices to control their robots without a complicated
 solution.
 

@@ -35,7 +35,7 @@ The [Control System](Control_system "Control system" )
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -44,32 +44,32 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
     * **Victor 884**
-    * [Spike](Spike "Spike" )
+    * [Spike](spike-relay)
     * [Jaguar](Jaguar "Jaguar" )
-  * [Sensors](Sensor "Sensor" )
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
 The **Victor 884** is a [speed controller](Speed_Controller "Speed
 Controller" ) developed by [Innovation FIRST](Innovation_FIRST
 "Innovation FIRST" ) as an improved version of the [Victor
-883](Victor_883 "Victor 883" ). The Victor 884 works by reading a
-[PWM](PWM "PWM" ) signal from a [robot
+883](victor-883). The Victor 884 works by reading a
+[PWM](pwm) signal from a [robot
 controller](Robot_controller "Robot controller" ), and adjusting
 the effective voltage supplied to the motors accordingly. The Victor 884 was
 the only FIRST legal speed controller allowed in the
-[2005](Triple_Play "Triple Play" ) [control
+[2005](triple-play) [control
 system](Control_system "Control system" ).
 
 ## Contents
@@ -102,9 +102,9 @@ The Victor 884 is part of the FIRST [control system](Control_system
 signal](PWM_signal "PWM signal" ) input from a [robot
 controller](Robot_controller "Robot controller" ), which may
 include the (full) [Robot Controller](Robot_Controller "Robot
-Controller" ), the [Robovation](Robovation "Robovation" )
+Controller" ), the [Robovation](robovation)
 controller or a [Vex](Vex "Vex" ) Controller. Depending on the
-range of the [PWM](PWM "PWM" ) signal - with 0 being full reverse,
+range of the [PWM](pwm) signal - with 0 being full reverse,
 127 being neutral, and 254 being full forward - the Victor 884 adjusts the
 output of the motor accordingly. This achieves a variable speed control for
 such applications as [drivetrains](Drive_trains "Drive trains" ),
@@ -119,7 +119,7 @@ cooled.
 
 ### Use
 
-Although some motors may be run on a [Spike](Spike "Spike" ) if
+Although some motors may be run on a [Spike](spike-relay) if
 desired, the [CIM motors](CIM_motor "CIM motor" ) must use a Victor
 884 speed controller. The Victor 884 Speed Controllers may be wired into
 either a 30 Amp or 40 Amp [fuse](/index.php?title=Fuse&action=edit "Fuse" ) on
@@ -181,7 +181,7 @@ was wired incorrectly, and hence has also been destroyed.
 ## Programming
 
 The [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs" ) on
-the [Robot Controller](Robot_Controller "Robot Controller" ) can be
+the [Robot Controller](robot-controller) can be
 set across the normal hobby servo range, 1 to 2 ms. The 8-bit PWM channels
 used on the PIC microprocessor of the Robot Controller (and Vex controller)
 has a resolution of 256 values, which fit in an `unsigned char`. Zero commands

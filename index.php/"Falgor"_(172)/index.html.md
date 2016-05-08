@@ -104,7 +104,7 @@ FalgorBot.jpg "Enlarge" )
 
 Falgor 2006, complete with turret, attempting a shot on a high goal.
 
-The robot designed for [Aim High](Aim_High "Aim High" ) was based
+The robot designed for [Aim High](aim-high) was based
 on a standard [kit of parts](Kit_of_parts "Kit of parts" ) chasis,
 with a two wheel rear drive. Initially powered from a pair of
 two-[CIM](CIM "CIM" ) gearboxes, a modification at the competition

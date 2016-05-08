@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 The **default code** provides pre-programmed functionality to the [Robot
-Controller](Robot_Controller "Robot Controller" ). This can allow
+Controller](robot-controller). This can allow
 teams to spend more time on [fabricating](Fabrication "Fabrication"
 ) their [robot](Robot "Robot" ), so long as they don't need more
 complicated control. But the default code also provides the starting point for

@@ -25,7 +25,7 @@ was the first [Unsung FIRST Hero](Unsung_FIRST_Hero "Unsung FIRST
 Hero" ).
 
 In addition to his role on [team 229](229 "229" ), John is also a
-[FIRST](FIRST "FIRST" ) [Head Referee](Head_Referee
+[FIRST](first) [Head Referee](Head_Referee
 "Head Referee" ) and has officiated at several [regional
 competitions](Index_of_Regionals "Index of Regionals" ).
 

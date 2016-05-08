@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 The **default code** provides pre-programmed functionality to the [Robot
-Controller](Robot_Controller "Robot Controller" ). This can allow
+Controller](robot-controller). This can allow
 teams to spend more time on [fabricating](Fabrication "Fabrication"
 ) their [robot](Robot "Robot" ), so long as they don't need more
 complicated control. But the default code also provides the starting point for
@@ -117,7 +117,7 @@ section: User_Initialization" )]
 This function starts out by setting which [I/O
 pins](/index.php?title=I/O_pins&action=edit "I/O pins" ) will be used as
 inputs and which will be used as outputs. It initializes the output, and sets
-the [PWM](PWM "PWM" ) values to neutral (127). It then tells the
+the [PWM](pwm) values to neutral (127). It then tells the
 processor to take control of PWMs 13-16 (this can be changed to provide more
 customization). The function then intializes the serial communications and
 tells the master processor that it is ready.
@@ -141,9 +141,9 @@ And now we get to the meat of the program. First, the function maps analog
 inputs to PWM outputs. So if you had a
 [potentiometer](Potentiometer "Potentiometer" ) connected to
 p4_wheel, for instance, it would control pwm12, which might be connected to a
-[speed controller](Victor_884 "Victor 884" ) and therefore control
+[speed controller](victor-884) and therefore control
 a [motor](Motor "Motor" ). By default, port 1 is assumed to have a
-[joystick](Joystick "Joystick" ) connected to it, and pwm13-16 are
+[joystick](joystick) connected to it, and pwm13-16 are
 assumed to control the drive motors. The function then maps the joystick
 buttons to specific relay outputs. It causes certain PWM outputs to be limited
 by [limit switches](Limit_switch "Limit switch" ). And finally, it

@@ -26,7 +26,7 @@ View (previous 50) ([next
   11. [Regional index](/index.php?title=Regional_index&redirect=no "Regional index" ) -&gt; [Index of Regionals](Index_of_Regionals "Index of Regionals" )
   12. [FIRSTwiki:General disclaimer](/index.php?title=FIRSTwiki:General_disclaimer&redirect=no "FIRSTwiki:General disclaimer" ) -&gt; [FIRSTwiki:Terms and conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
   13. [FIRSTwiki:Team Format](/index.php?title=FIRSTwiki:Team_Format&redirect=no "FIRSTwiki:Team Format" ) -&gt; [Team page format](/index.php?title=Team_page_format&action=edit "Team page format" )
-  14. [FIRST Robotics Competition](/index.php?title=FIRST_Robotics_Competition&redirect=no "FIRST Robotics Competition" ) -&gt; [FIRST](FIRST "FIRST" )
+  14. [FIRST Robotics Competition](/index.php?title=FIRST_Robotics_Competition&redirect=no "FIRST Robotics Competition" ) -&gt; [FIRST](first)
   15. [Student](/index.php?title=Student&redirect=no "Student" ) -&gt; [Students](Students "Students" )
   16. [Index of off season competitions](/index.php?title=Index_of_off_season_competitions&redirect=no "Index of off season competitions" ) -&gt; [Index of off-season competitions](Index_of_off-season_competitions "Index of off-season competitions" )
   17. [FIRST Robotics team](/index.php?title=FIRST_Robotics_team&redirect=no "FIRST Robotics team" ) -&gt; [FIRST Robotics Team](FIRST_Robotics_Team "FIRST Robotics Team" )
@@ -46,7 +46,7 @@ View (previous 50) ([next
   31. [Qualify](/index.php?title=Qualify&redirect=no "Qualify" ) -&gt; [Qualifying for championship event](Qualifying_for_championship_event "Qualifying for championship event" )
   32. [User talk:Vishal](/index.php?title=User_talk:Vishal&redirect=no "User talk:Vishal" ) -&gt; [User talk:Vchangrani](User_talk:Vchangrani "User talk:Vchangrani" )
   33. [FLL](/index.php?title=FLL&redirect=no "FLL" ) -&gt; [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League" )
-  34. [F.I.R.S.T.](/index.php?title=F.I.R.S.T.&redirect=no "F.I.R.S.T." ) -&gt; [FIRST](FIRST "FIRST" )
+  34. [F.I.R.S.T.](/index.php?title=F.I.R.S.T.&redirect=no "F.I.R.S.T." ) -&gt; [FIRST](first)
   35. [FIRST Lego League](/index.php?title=FIRST_Lego_League&redirect=no "FIRST Lego League" ) -&gt; [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League" )
   36. [Motor](/index.php?title=Motor&redirect=no "Motor" ) -&gt; [Motors](Motors "Motors" )
   37. [ChiefDelphi](/index.php?title=ChiefDelphi&redirect=no "ChiefDelphi" ) -&gt; [Chief Delphi](Chief_Delphi "Chief Delphi" )
@@ -61,7 +61,7 @@ View (previous 50) ([next
   46. [Phrontist](/index.php?title=Phrontist&redirect=no "Phrontist" ) -&gt; [User:Phrontist](User:Phrontist "User:Phrontist" )
   47. [Elimination round](/index.php?title=Elimination_round&redirect=no "Elimination round" ) -&gt; [Elimination match](Elimination_match "Elimination match" )
   48. [Talk:2003 Full RC](/index.php?title=Talk:2003_Full_RC&redirect=no "Talk:2003 Full RC" ) -&gt; [Talk:Robot Controller (2003)](Talk:Robot_Controller_%282003%29 "Talk:Robot Controller \(2003\)" )
-  49. [OI](/index.php?title=OI&redirect=no "OI" ) -&gt; [Operator Interface](Operator_Interface "Operator Interface" )
+  49. [OI](/index.php?title=OI&redirect=no "OI" ) -&gt; [Operator Interface](operator-interface)
   50. [Talk:2003 Robot controller](/index.php?title=Talk:2003_Robot_controller&redirect=no "Talk:2003 Robot controller" ) -&gt; [Talk:Robot Controller (2003)](Talk:Robot_Controller_%282003%29 "Talk:Robot Controller \(2003\)" )
 
 View (previous 50) ([next

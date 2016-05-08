@@ -15,7 +15,7 @@ The [Control System](Control_system "Control system" )
 ****Parts of a Control System****
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -24,19 +24,19 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
-  * [Sensors](Sensor "Sensor" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
@@ -71,10 +71,10 @@ section: Robot Control System Pieces" )]
 
 ## Robot Control System Pieces
 
-  * [CRIO](Robot_Controller "Robot Controller" ), controls the flow of information and processes said information based on what is [programmed](Programming "Programming" )
+  * [CRIO](robot-controller), controls the flow of information and processes said information based on what is [programmed](Programming "Programming" )
   * [12V battery](12V_battery "12V battery" ), provides the power for the [robot](Robot "Robot" )
   * [802.11N (LAN)](/index.php?title=802.11N_%28LAN%29&action=edit "802.11N \(LAN\)" ), allows for wireless communication between the robot and the driver station (not needed if system is [tethered](Tether "Tether" )) 
-  * [Digital Sidecar](/index.php?title=Digital_Sidecar&action=edit "Digital Sidecar" ), provides digital inputs and PWM signal outputs for motor controllers (like the [Victor 884](Victor_884 "Victor 884" )) 
+  * [Digital Sidecar](/index.php?title=Digital_Sidecar&action=edit "Digital Sidecar" ), provides digital inputs and PWM signal outputs for motor controllers (like the [Victor 884](victor-884)) 
 
 [[edit](/index.php?title=Parts_of_a_control_system&action=edit&section=3 "Edit
 section: Operator Control System" )]
@@ -113,12 +113,12 @@ section: Robot Control System pieces" )]
 
 ## Robot Control System pieces
 
-  * [Robot Controller](Robot_Controller "Robot Controller" ), controls the flow of information and processes said information based on what is [programmed](Programming "Programming" )
+  * [Robot Controller](robot-controller), controls the flow of information and processes said information based on what is [programmed](Programming "Programming" )
   * [12V battery](12V_battery "12V battery" ), provides the power for the [robot](Robot "Robot" )
   * [7.2V backup battery](7.2V_backup_battery "7.2V backup battery" ), provides backup power (and is necessary for the [servos](/index.php?title=Servos&action=edit "Servos" ) to work) 
   * [RS 422 radio (RC)](/index.php?title=RS_422_radio_%28RC%29&action=edit "RS 422 radio \(RC\)" ), allows for wireless communication between the RC and the OI (not needed if system is [tethered](Tether "Tether" )) 
   * [DB9 M-F cable (radio)](/index.php?title=DB9_M-F_cable_%28radio%29&action=edit "DB9 M-F cable \(radio\)" ), standard 9 pin connector, connects the radio to the RC (not needed if system is tethered) 
-  * [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs" ), allows direct control of [servos](/index.php?title=Servos&action=edit "Servos" ) and indirect control of [motors](Motors "Motors" ) through [speed controllers](Victor_884 "Victor 884" )
+  * [PWM outputs](/index.php?title=PWM_outputs&action=edit "PWM outputs" ), allows direct control of [servos](/index.php?title=Servos&action=edit "Servos" ) and indirect control of [motors](Motors "Motors" ) through [speed controllers](victor-884)
   * [DB9 M-F cable (tether)](/index.php?title=DB9_M-F_cable_%28tether%29&action=edit "DB9 M-F cable \(tether\)" ), standard 9 pin connector, connects the tether ports of the RC and the OI 
 
 [[edit](/index.php?title=Parts_of_a_control_system&action=edit&section=8 "Edit
@@ -126,13 +126,13 @@ section: Operator Control System pieces" )]
 
 ## Operator Control System pieces
 
-  * [Operator Interface](Operator_Interface "Operator Interface" ), collects [input](Input "Input" ) controlled by [human operator](/index.php?title=Human_operator&action=edit "Human operator" ) and sends it to the RC 
+  * [Operator Interface](operator-interface), collects [input](Input "Input" ) controlled by [human operator](/index.php?title=Human_operator&action=edit "Human operator" ) and sends it to the RC 
   * [AC adapter](/index.php?title=AC_adapter&action=edit "AC adapter" ), lets OI run from a wall outlet (not needed if system is tethered or powered from [competition port](Competition_port "Competition port" )) 
   * [RS-422 radio (OI)](/index.php?title=RS-422_radio_%28OI%29&action=edit "RS-422 radio \(OI\)" ), allows for wireless communication between the OI and the RC (not needed if system is tethered) 
   * [DB9 M-F cable (radio)](/index.php?title=DB9_M-F_cable_%28radio%29&action=edit "DB9 M-F cable \(radio\)" ), standard 9 pin connector, connects the radio to the OI (not needed if system is tethered) 
-  * [Joystick](Joystick "Joystick" ), provides [analog](Analog "Analog" ) input to the OI from the human operator 
+  * [Joystick](joystick), provides [analog](analog) input to the OI from the human operator 
 
-_See also:_ [Robovation](Robovation "Robovation" ),
+_See also:_ [Robovation](robovation),
 [Sensors](Sensors "Sensors" ), [Spike relay](Spike_relay
 "Spike relay" )
 

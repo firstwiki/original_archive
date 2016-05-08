@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 For those just starting out,
 <http://www.usfirst.org/robotics/gtstart.htm#start> gives a great guide
-straight from the competition organizers, [FIRST](FIRST "FIRST" ).
+straight from the competition organizers, [FIRST](first).
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif "" )

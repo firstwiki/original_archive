@@ -38,7 +38,7 @@ will generally work with other [mentors](Mentors "Mentors" ) and
 [engineers](Engineers "Engineers" ) to assist
 [students](Students "Students" ) in the construction of a
 [robot](Robot "Robot" ) for the [FIRST Robotics
-Competition](FIRST "FIRST" ), as well as other aspects of the team,
+Competition](first), as well as other aspects of the team,
 such as Website design, Animation, and so on.
 
   

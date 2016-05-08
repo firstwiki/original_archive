@@ -21,11 +21,11 @@ significant article. _See more [stubs](Special:Shortpages
 ---|---  
   
   
-**Students** make up the core of a [FIRST](FIRST "FIRST" ) robotics [team](Team "Team" ). 
+**Students** make up the core of a [FIRST](first) robotics [team](Team "Team" ). 
 
 Students work with [mentors](Mentors "Mentors" ) and
 [engineers](Engineers "Engineers" ) to build a
-[robot](Robot "Robot" ) for a [FIRST](FIRST "FIRST" )
+[robot](Robot "Robot" ) for a [FIRST](first)
 organization.
 
 

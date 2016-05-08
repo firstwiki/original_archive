@@ -47,7 +47,7 @@ There are 20 articles in this category.
 
 ### F
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [FIRST Robotics Competition Team](FIRST_Robotics_Competition_Team "FIRST Robotics Competition Team" )
 |
 

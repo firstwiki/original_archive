@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/PWM_signal&limit=500&from=0
 "Special:Whatlinkshere/PWM signal" )).
 
-  * [Victor 884](Victor_884 "Victor 884" )
+  * [Victor 884](victor-884)
   * [Modifying a servo](Modifying_a_servo "Modifying a servo" )
   * [Output](Output "Output" )
   * [Creating a dead reckoning algorithm](Creating_a_dead_reckoning_algorithm "Creating a dead reckoning algorithm" )

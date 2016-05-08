@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Kickoff&limit=500&from=0
 "Special:Whatlinkshere/Kickoff" )).
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [Current events](Current_events "Current events" )
   * [IR sensor](IR_sensor "IR sensor" )
   * [Triple Play/Official hint](Triple_Play/Official_hint "Triple Play/Official hint" )

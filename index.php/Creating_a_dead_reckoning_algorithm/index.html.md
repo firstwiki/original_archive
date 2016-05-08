@@ -75,8 +75,8 @@ motor per side.
 
 ### Controller quirks
 
-The [Victor 884](Victor_884 "Victor 884" ) receive signals from the
-[Robot Controller](Robot_Controller "Robot Controller" ) via [PWM
+The [Victor 884](victor-884) receive signals from the
+[Robot Controller](robot-controller) via [PWM
 signals](PWM_signal "PWM signal" ). These allow the Robot
 controller to pass values between 0 and 254 to the speed controller. PWM
 values are stored in 8-bit `unsigned char` so they are limited to values from

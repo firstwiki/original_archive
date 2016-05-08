@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-The kickoff is [FIRST](FIRST "FIRST" )'s chance to reveal the
+The kickoff is [FIRST](first)'s chance to reveal the
 season's new [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ) [game](Game "Game" ). The actual kickoff is held in

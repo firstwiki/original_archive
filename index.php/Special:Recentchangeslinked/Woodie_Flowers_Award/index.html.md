@@ -35,7 +35,7 @@ d&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
 
 #### 3 January 2009
 
-  * ([diff](/index.php?title=FIRST&curid=671&diff=70379&oldid=68891 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . [FIRST](FIRST "FIRST" ); 18:18 . . [Taylor716](/index.php?title=User:Taylor716&action=edit "User:Taylor716" ) ([Talk](/index.php?title=User_talk:Taylor716&action=edit "User talk:Taylor716" ) | [contribs](/index.php?title=Special:Contributions&target=Taylor716 "Special:Contributions" ))
+  * ([diff](/index.php?title=FIRST&curid=671&diff=70379&oldid=68891 "FIRST" )) ([hist](/index.php?title=FIRST&curid=671&action=history "FIRST" )) . . [FIRST](first); 18:18 . . [Taylor716](/index.php?title=User:Taylor716&action=edit "User:Taylor716" ) ([Talk](/index.php?title=User_talk:Taylor716&action=edit "User talk:Taylor716" ) | [contribs](/index.php?title=Special:Contributions&target=Taylor716 "Special:Contributions" ))
 
 Retrieved from
 "<http://www.firstwiki.netSpecial:Recentchangeslinked>"

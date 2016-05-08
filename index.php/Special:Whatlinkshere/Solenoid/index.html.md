@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/Solenoid" )).
 
   * [Pneumatics](Pneumatics "Pneumatics" )
-  * [Spike](Spike "Spike" )
+  * [Spike](spike-relay)
   * [Cylinder](Cylinder "Cylinder" )
   * [Compressor](Compressor "Compressor" )
   * [Storage tank](Storage_tank "Storage tank" )

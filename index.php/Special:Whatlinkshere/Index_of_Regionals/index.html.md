@@ -29,7 +29,7 @@ ex.php?title=Special:Whatlinkshere/Index_of_Regionals&limit=500&from=0
   * [Index of Tournaments](/index.php?title=Index_of_Tournaments&redirect=no "Index of Tournaments" ) (redirect page) 
   * [Regional index](/index.php?title=Regional_index&redirect=no "Regional index" ) (redirect page) 
   * [Palmetto Regional](Palmetto_Regional "Palmetto Regional" )
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [Index of off-season competitions](Index_of_off-season_competitions "Index of off-season competitions" )
   * [Regional](Regional "Regional" )
   * [John V-Neun](John_V-Neun "John V-Neun" )

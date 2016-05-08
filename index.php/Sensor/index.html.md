@@ -17,7 +17,7 @@ The [Control System](Control_system "Control system" )
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -26,20 +26,20 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
     * [Jaguar](Jaguar "Jaguar" )
   * **Sensors**
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
@@ -48,10 +48,10 @@ environment. In terms of robotics, and specifically [FIRST](FIRST
 "FIRST" ), sensors enable the [robot](Robot "Robot" ) to better
 understand what is around it and how to react. The types of sensors used in
 FIRST are electrical, meaning that they send signals to the [Robot
-Controller](Robot_Controller "Robot Controller" ) that is then
+Controller](robot-controller) that is then
 converted into some value for use by the program. There are two main types of
-sensors, [analog](Analog "Analog" ) and
-[digital](Digital "Digital" ). An analog sensor, such as a
+sensors, [analog](analog) and
+[digital](digital). An analog sensor, such as a
 [potentiometer](Potentiometer "Potentiometer" ), will have a value
 in the range of 0 to 1023 (10 bits). A digital sensor, such as a [limit
 switch](Limit_switch "Limit switch" ), is much more limited, only

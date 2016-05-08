@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 **CoreChart** was an icon-based development tool similar to RoboLab or the Lego Mindstorms Robotics Invention System, except that it encouraged a more in-depth understanding of the internals of the controller. It was produced by eLabtronics. 
 
-A special version was available for [FIRST](FIRST "FIRST" )
+A special version was available for [FIRST](first)
 [teams](Team "Team" ), CoreChartFR, which included support for
 [Innovation First](Innovation_First%2C_Inc. "Innovation First,
 Inc." )'s libraries and the [IFI Loader](IFI_Loader "IFI Loader" ).

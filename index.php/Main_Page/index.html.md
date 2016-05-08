@@ -11,7 +11,7 @@ Jump to: navigation, search
 [Welcome](FIRSTwiki:New_users_page "FIRSTwiki:New users page" ) to
 [FIRSTwiki](FIRSTwiki "FIRSTwiki" ),
 
-a _[FIRST](FIRST "FIRST" )_ encyclopedia that **[anyone can
+a _[FIRST](first)_ encyclopedia that **[anyone can
 edit](FIRSTwiki:How_does_one_edit_a_page "FIRSTwiki:How does one
 edit a page" )**
 
@@ -117,7 +117,7 @@ controller" ) - [Taurus](Taurus_%281073%29 "Taurus \(1073\)" )
   
 About FIRST
 
-_[FIRST](FIRST "FIRST" )_ is an organization founded by inventor
+_[FIRST](first)_ is an organization founded by inventor
 [Dean Kamen](Dean_Kamen "Dean Kamen" ) in 1989 as a way of getting
 students involved in and excited about science and technology. _FIRST_ has
 grown from just a few hundred students and mentors in 1992, and now reaches

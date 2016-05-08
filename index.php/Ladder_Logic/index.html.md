@@ -8,7 +8,7 @@ Jump to: navigation, search
 
   
 
-**Ladder Logic** was the name of the 1998 season [FIRST game](FRC_Games "FRC Games" ). Ladder Logic was the last game before [FIRST](FIRST "FIRST" ) switched to [alliances](Alliance "Alliance" ), and some people consider it the last OLD FIRST game. This was also the last year that teams changed their number from year to year. 
+**Ladder Logic** was the name of the 1998 season [FIRST game](FRC_Games "FRC Games" ). Ladder Logic was the last game before [FIRST](first) switched to [alliances](Alliance "Alliance" ), and some people consider it the last OLD FIRST game. This was also the last year that teams changed their number from year to year. 
 
 Index of FRC Games  
 ---  
@@ -19,8 +19,8 @@ Index of FRC Games
   * 2009 [Lunacy](Lunacy "Lunacy" )
   * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](Aim_High "Aim High" )
-  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2006 [Aim High](aim-high)
+  * 2005 [Triple Play](triple-play)
   * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
   * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )

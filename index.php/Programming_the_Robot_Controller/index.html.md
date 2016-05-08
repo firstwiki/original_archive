@@ -10,7 +10,7 @@ Jump to: navigation, search
 Note that prior to 2004, a the a [BASIC stamp](BASIC_stamp "BASIC
 stamp" ) was used, which was programmed in [PBASIC](PBASIC "PBASIC"
 ). 2004 marked a major switch in the [Robot
-Controller](Robot_Controller "Robot Controller" ), making [PIC
+Controller](robot-controller), making [PIC
 C](PIC_C "PIC C" ) the programming language of choice (along with
 [assembly](Assembly "Assembly" )).
 
@@ -251,7 +251,7 @@ must be adopted to this.
 
 _See also:_ [MPLAB](MPLAB "MPLAB" ), [Downloading a
 program](Downloading_a_program "Downloading a program" ), [Robot
-Controller](Robot_Controller "Robot Controller" ), [Electronics and
+Controller](robot-controller), [Electronics and
 circuitry](Electronics_and_circuitry "Electronics and circuitry" )
 
 Retrieved from

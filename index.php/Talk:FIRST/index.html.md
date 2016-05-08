@@ -34,12 +34,12 @@ Noticed the [Inspiration](Inspiration "Inspiration" ),
 [Recognition](Recognition "Recognition" ),
 [Science](Science "Science" ), and
 [Technology](Technology "Technology" ) pages from the
-[FIRST](FIRST "FIRST" ) article. They don't seem very useful to me
+[FIRST](first) article. They don't seem very useful to me
 and I'm not sure what would be added there. Kinda obvious isn't it? Recommend
 they be removed unless there's something to fill 'em with.
 [Tanner](User:TannerLD "User:TannerLD" ) 20:56, 14 March 2010 (EDT)
 
-    Agreed, we can change the links on the [FIRST](FIRST "FIRST" ) article to point to the wikipedia pages. [Boydean](User:Boydean "User:Boydean" ) 22:04, 14 March 2010 (EDT) 
+    Agreed, we can change the links on the [FIRST](first) article to point to the wikipedia pages. [Boydean](User:Boydean "User:Boydean" ) 22:04, 14 March 2010 (EDT) 
 
     eerr, or we could link to the wiktionary articles....I'll go ahead and do that [Boydean](User:Boydean "User:Boydean" ) 22:24, 14 March 2010 (EDT) 
 
@@ -58,14 +58,14 @@ Not sure I agree that this article should be about the [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ). Couple of things I'm thinking here...
 
-  * The [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) page redirects to [FIRST](FIRST "FIRST" )
-  * The [FIRST](FIRST "FIRST" ) page says at the top that FLL has its own alternative page. That doesn't make sense. FIRST is a non-profit organization, not a competition. 
+  * The [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ) page redirects to [FIRST](first)
+  * The [FIRST](first) page says at the top that FLL has its own alternative page. That doesn't make sense. FIRST is a non-profit organization, not a competition. 
 
-Therefore in my opinion the content of the [FIRST](FIRST "FIRST" )
+Therefore in my opinion the content of the [FIRST](first)
 page should be copied over to the [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ) page which should no longer redirect. The
-[FIRST](FIRST "FIRST" ) page should focus on FIRST as a non profit
+[FIRST](first) page should focus on FIRST as a non profit
 organization (referencing the competitions created and sponsored by FIRST as
 needed).
 

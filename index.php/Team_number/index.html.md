@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 The **team number** is a unique identifier assigned by
-[FIRST](FIRST "FIRST" ) to each [FIRST Robotics
+[FIRST](first) to each [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ) and [FIRST LEGO League](FIRST_LEGO_League "FIRST
 LEGO League" ) [team](Team "Team" ), though the numbering system
@@ -29,7 +29,7 @@ continued uninterrupted until 2002, when an error by FIRST forced a change in
 procedure. 2002 rookie team registration should have begun with number 717,
 but instead started at 800. When new team registration reached number 999, a
 [control system](Control_system "Control system" ) limitation
-required [FIRST](FIRST "FIRST" ) to fill in unclaimed numbers,
+required [FIRST](first) to fill in unclaimed numbers,
 starting back at 717. So, while teams number 717 to 799 were rookies in 2002,
 they registered later than teams numbered 800 to 999.
 
@@ -42,7 +42,7 @@ Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ), their team number is not reassigned to a new team. Instead, it
 lays dormant until such a time that the team may decide to compete once again.
 Team [73](73 "73" ) is an example of a team that, after a years
-long hiatus from [FIRST](FIRST "FIRST" ), reestablished its old
+long hiatus from [FIRST](first), reestablished its old
 team number and began competing again.
 
 Also of note, team numbers 666 and 911 have never been assigned.

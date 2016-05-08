@@ -25,7 +25,7 @@ Jump to: navigation, search
 ## Animation
 
 [Animation](Animation "Animation" ) how-tos deal with animation
-issues specifically related to [FIRST](FIRST "FIRST" ). See also
+issues specifically related to [FIRST](first). See also
 the [Autodesk Visualization Award](Autodesk_Visualization_Award
 "Autodesk Visualization Award" ).
 

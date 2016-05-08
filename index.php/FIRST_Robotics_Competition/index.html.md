@@ -10,7 +10,7 @@ The FIRST Robotics Competition (or FRC) is a robotics competition aimed at
 high school ages persons.
 
 FRC was founded in 1992, four years after the creation of
-[FIRST](FIRST "FIRST" ).
+[FIRST](first).
 
 [[edit](/index.php?title=FIRST_Robotics_Competition&action=edit&section=1
 "Edit section: FRC Game History" )]
@@ -23,8 +23,8 @@ FRC was founded in 1992, four years after the creation of
   * 2009 - [Lunacy](Lunacy "Lunacy" )
   * 2008 - [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 - [Rack 'N' Roll](Rack_%27N%27_Roll "Rack 'N' Roll" )
-  * 2006 - [Aim High](Aim_High "Aim High" )
-  * 2005 - [Triple Play](Triple_Play "Triple Play" )
+  * 2006 - [Aim High](aim-high)
+  * 2005 - [Triple Play](triple-play)
   * 2004 - [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 - [Stack Attack](Stack_Attack "Stack Attack" )
   * 2002 - [Zone Zeal](Zone_Zeal "Zone Zeal" )

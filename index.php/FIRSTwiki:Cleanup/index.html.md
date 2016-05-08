@@ -161,7 +161,7 @@ section: June 15" )]
 
   * [Programming the Robot Controller](Programming_the_Robot_Controller "Programming the Robot Controller" ) currently unfinished (follows IFI doc, should be straightforward) 
   * [Tournament alliance](Tournament_alliance "Tournament alliance" ) lots of postfixed links -- parts of words are links, but the endings aren't 
-  * [Victor 884](Victor_884 "Victor 884" ) needs restructuring, rewording, wiki links need working ... major job 
+  * [Victor 884](victor-884) needs restructuring, rewording, wiki links need working ... major job 
   * [FIRST humor](FIRST_humor "FIRST humor" ) needs introduction, content ... relevance? (note to potential editor: sense of humor important) 
   * [Fundraising](Fundraising "Fundraising" ) needs more information, stronger tie to FIRST and mention of student/community participation might be in order; mention its importance, etc. 
 

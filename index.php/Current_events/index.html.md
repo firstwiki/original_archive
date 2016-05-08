@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-A page for current events in the [FIRST](FIRST "FIRST" ) world. For
+A page for current events in the [FIRST](first) world. For
 past events, please [click here](Past_events "Past events" ).
 
 ## Current Events

@@ -79,7 +79,7 @@ eschewing 1126 who they were [Regional Champions](Regional_Champion
 "Regional Champion" ) and [Division
 Champions](/index.php?title=Division_Champion&action=edit "Division Champion"
 ) with. The 191 and 211 [alliance](Alliance "Alliance" ) had over
-20 years of combined [FIRST](FIRST "FIRST" ) experience, whereas
+20 years of combined [FIRST](first) experience, whereas
 the 340 and 1405 alliance had only five. The finals consisted of a single
 match, which the 340 and 1405 alliance won 120 to 115, with all four
 [robots](Robot "Robot" ) hanging.

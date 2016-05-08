@@ -101,7 +101,7 @@ The SBPLI Long Island Regional began in 2000 at the Suffolk County Community
 College Ammerman Campus gymnasium, barely containing the 24 teams that
 competed. In the years since, it moved to a larger venue at Suffolk County
 Community and then to Hofstra University's sports arena. It has helped cradle
-to growth of [FIRST](FIRST "FIRST" ) on Long Island by providing
+to growth of [FIRST](first) on Long Island by providing
 area teams with the opportunity to compete locally, helping to overcome
 fundraising challenges that may be unique to Long Island teams.
 

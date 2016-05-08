@@ -20,7 +20,7 @@ article.
   
 The Kit of parts is the set of parts, tools, documents, and software given to
 each team every year. Many of the parts are donated to
-[FIRST](FIRST "FIRST" ) by manufacturers (see [FIRST
+[FIRST](first) by manufacturers (see [FIRST
 sponsors](FIRST_sponsors "FIRST sponsors" )).
 
 ## Contents
@@ -62,10 +62,10 @@ manual](http://www2.usfirst.org/2005comp/Manuals/2005PneumaticsManual.pdf
 
 ## [Control system](Control_system "Control system" )
 
-  * [Robot Controller](Robot_Controller "Robot Controller" )
-  * [Operator Interface](Operator_Interface "Operator Interface" )
+  * [Robot Controller](robot-controller)
+  * [Operator Interface](operator-interface)
   * [Victor](Victor "Victor" )
-  * [Spike](Spike "Spike" )
+  * [Spike](spike-relay)
 
   
 

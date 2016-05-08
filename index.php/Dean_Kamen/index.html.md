@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-**Dean Kamen** is an American inventor and founder of [FIRST](FIRST "FIRST" ). 
+**Dean Kamen** is an American inventor and founder of [FIRST](first). 
 
 Probably most well-known to the public from the publicity surrounding the
 product that eventually became known as the [Segway
@@ -21,7 +21,7 @@ xtlinkwikipedia.GIF "Image:Extlinkwikipedia.GIF" ) and other notable IT
 visionaries espousing its society-revolutionising potential were leaked in
 1999.
 
-In 1992, Mr. Kamen founded [FIRST](FIRST "FIRST" ). Mr. Kamen
+In 1992, Mr. Kamen founded [FIRST](first). Mr. Kamen
 remains the driving force behind the competition providing over 900 high
 schools with the tools needed to learn valuable engineering skills.
 

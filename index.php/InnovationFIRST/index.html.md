@@ -30,12 +30,12 @@ section: Products" )]
 
 ## Products
 
-  * [Robot Controller](Robot_Controller "Robot Controller" )
-  * [Operator Interface](Operator_Interface "Operator Interface" )
+  * [Robot Controller](robot-controller)
+  * [Operator Interface](operator-interface)
   * [Spike relays](/index.php?title=Spike_relays&action=edit "Spike relays" )
-  * [Victor 884](Victor_884 "Victor 884" )
+  * [Victor 884](victor-884)
   * [Radio modem](Radio_modem "Radio modem" )
-  * [Robovation](Robovation "Robovation" )
+  * [Robovation](robovation)
   * [Vex](Vex "Vex" )
   * and other accessories 
 

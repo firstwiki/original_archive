@@ -26,7 +26,7 @@ this article.
 ---|---  
   
   
-Combat was designed to compete in the 2002 [FIRST](FIRST "FIRST" )
+Combat was designed to compete in the 2002 [FIRST](first)
 robotics game, [Zone Zeal](Zone_Zeal "Zone Zeal" ).
 
 

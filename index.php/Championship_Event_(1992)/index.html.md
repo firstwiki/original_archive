@@ -28,7 +28,7 @@ Jump to: navigation, search
   
   
 The [1992](Game_%281992%29 "Game \(1992\)" )
-[FIRST](FIRST "FIRST" ) [National
+[FIRST](first) [National
 Championship](National_Championship "National Championship" )
 included 28 teams and was held in Memorial High School in Manchester, NH.
 

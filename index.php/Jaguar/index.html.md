@@ -27,7 +27,7 @@ supplied by [Texas Instruments](/index.php?title=Texas_Instruments&action=edit
 "Texas Instruments" ). The Jaguar was added to the [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ) in the 2010 season to supplement the [Victor
-884](Victor_884 "Victor 884" ). It has had two different versions,
+884](victor-884). It has had two different versions,
 the MDL-BDC "Grey Jaguar" and the MDL-BDC24 "Black Jaguar".
 
 
@@ -39,9 +39,9 @@ signal](PWM_signal "PWM signal" ) or
 [CAN](/index.php?title=CAN&action=edit "CAN" ) input from a [robot
 controller](Robot_controller "Robot controller" ), which may
 include the (full) [Robot Controller](Robot_Controller "Robot
-Controller" ), the [Robovation](Robovation "Robovation" )
+Controller" ), the [Robovation](robovation)
 controller or a [Vex](Vex "Vex" ) Controller. Depending on the
-range of the [PWM](PWM "PWM" ) signal - with 0 being full reverse,
+range of the [PWM](pwm) signal - with 0 being full reverse,
 127 being neutral, and 254 being full forward - the Victor 884 adjusts the
 output of the motor accordingly. This achieves a variable speed control for
 such applications as [drivetrains](Drive_trains "Drive trains" ),

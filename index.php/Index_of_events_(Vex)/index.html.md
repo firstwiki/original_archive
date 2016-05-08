@@ -20,7 +20,7 @@ Please **[improve](http://www.firstwiki.net/index.php?title=Index_of_events_%2
 ---|---  
   
   
-As of August 2005, [FIRST](FIRST "FIRST" ) has announced the
+As of August 2005, [FIRST](first) has announced the
 following for [FTC](FTC "FTC" ) Regionals:
 
 Dec 3, 2005

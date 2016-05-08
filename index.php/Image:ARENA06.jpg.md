@@ -35,7 +35,7 @@ instructions](http://meta.wikimedia.org/wiki/Help:External_editors
 
 The following pages link to this file:
 
-  * [Aim High](Aim_High "Aim High" )
+  * [Aim High](aim-high)
 
 ## Metadata
 

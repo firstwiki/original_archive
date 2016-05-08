@@ -11,7 +11,7 @@ Jump to: navigation, search
 A **FIRST robotics team** consists of high school
 [students](Students "Students" ), [mentors](Mentors
 "Mentors" ), and [teachers](Teachers "Teachers" ) working together
-to compete in the [FIRST Robotics Competition](FIRST "FIRST" ).
+to compete in the [FIRST Robotics Competition](first).
 
 Mentors are at the heart of any FIRST team--mentors are responsible for
 inspiring the students. But the students must work together with the

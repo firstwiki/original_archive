@@ -20,7 +20,7 @@ article.
 [![The FLL Logo](/media/thumb/d/d0/FLL_logo.jpg/190px-
 FLL_logo.jpg)](Image:FLL_logo.jpg "The FLL Logo" )
 
-[FIRST](FIRST "FIRST" ) Lego League, or [FLL](FLL "FLL"
+[FIRST](first) Lego League, or [FLL](FLL "FLL"
 ) was founded in 1998, in a partnership between [FIRST](FIRST
 "FIRST" ) and the [LEGO Corporation](LEGO_Corporation "LEGO
 Corporation" ). As an offshoot of the [FIRST Robotics

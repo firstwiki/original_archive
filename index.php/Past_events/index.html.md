@@ -129,7 +129,7 @@ events" ).
 
 ###  December 30
 
-  * [FIRST](FIRST "FIRST" ) releases the [Official 2005 Game Hint](Official_2005_Game_Hint "Official 2005 Game Hint" ). 
+  * [FIRST](first) releases the [Official 2005 Game Hint](Official_2005_Game_Hint "Official 2005 Game Hint" ). 
 
 
 ##  May 2004
@@ -142,7 +142,7 @@ events" ).
 
 ###  May 28
 
-  * [FIRST](FIRST "FIRST" ) announces competition entry fee increases for 2005. ([FIRST memo](http://www.usfirst.org/robotics/2005/regfeememo.htm "http://www.usfirst.org/robotics/2005/regfeememo.htm" )) ([CD](Chief_Delphi "Chief Delphi" ) threads: [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28820 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28820" ) and [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28828 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28828" )) 
+  * [FIRST](first) announces competition entry fee increases for 2005. ([FIRST memo](http://www.usfirst.org/robotics/2005/regfeememo.htm "http://www.usfirst.org/robotics/2005/regfeememo.htm" )) ([CD](Chief_Delphi "Chief Delphi" ) threads: [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28820 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28820" ) and [Here](http://www.chiefdelphi.com/forums/showthread.php?threadid=28828 "http://www.chiefdelphi.com/forums/showthread.php?threadid=28828" )) 
   * [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) moves to [Chief Delphi](Chief_Delphi "Chief Delphi" ). 
 
 

@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Team organization** refers to how [FIRST](FIRST "FIRST" ) [teams](Team "Team" ) are organized. 
+**Team organization** refers to how [FIRST](first) [teams](Team "Team" ) are organized. 
 
 ## Contents
 

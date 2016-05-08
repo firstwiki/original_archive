@@ -11,7 +11,7 @@ The 2000 RC was a big upgrade from the older system. It used a
 for the 2000-2002 seasons (and with minor modifications for the 2003 season).
 
 The 2000-2003 Robot Controller systems consisted of three processors. The
-[Operator Interface](Operator_Interface "Operator Interface" ) used
+[Operator Interface](operator-interface) used
 a [PIC16F877](PIC16F877 "PIC16F877" ) microcontroller to collect
 data from all the digital and analog inputs and communicate with the Robot
 Controller via a radio or tether. The second processor was the user processor,

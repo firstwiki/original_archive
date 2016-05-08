@@ -221,7 +221,7 @@ enough [electronics](Electronics_and_circuitry "Electronics and
 circuitry" ) to get the KoP robot to drive, minus a few wires and connectors.
 The combination of the Robot Controller, Victor speed controllers, and Spike
 relay modules control all the actions of the robot. The [Robot
-Controller](Robot_Controller "Robot Controller" ) (RC), normally
+Controller](robot-controller) (RC), normally
 with the addition of sensors, controls the robot during the autonomous mode of
 the competition.
 

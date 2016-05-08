@@ -21,7 +21,7 @@ make a significant article. _See more [stubs](Special:Shortpages
 ---|---  
   
   
-The [FIRST](FIRST "FIRST" ) community consists of the entire group
+The [FIRST](first) community consists of the entire group
 of people that either contribute to FIRST or participate in FIRST.
 
 Overall this includes:

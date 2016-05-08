@@ -7,7 +7,7 @@ Jump to: navigation, search
 [![Image:Onedaywonder.jpg](/media/2/25/Onedaywonder.jpg)](Image:One
 daywonder.jpg "Image:Onedaywonder.jpg" )
 
-**Team 1396's "One-Day Wonder"** was a robot constructed during the 2004 [FIRST](FIRST "FIRST" ) [Championship Event](Championship_Event "Championship Event" ). Team [1396](1396 "1396" )'s original robot had been shipped to Atlanta, Georgia, for the Championship, but due to a shipping error, it was then shipped back to their home school. Therefore, when the team arrived in the Georgia World Congress Center, it had no robot. 
+**Team 1396's "One-Day Wonder"** was a robot constructed during the 2004 [FIRST](first) [Championship Event](Championship_Event "Championship Event" ). Team [1396](1396 "1396" )'s original robot had been shipped to Atlanta, Georgia, for the Championship, but due to a shipping error, it was then shipped back to their home school. Therefore, when the team arrived in the Georgia World Congress Center, it had no robot. 
 
 Other teams, in an astounding show of [Gracious
 Professionalism](Gracious_professionalism "Gracious

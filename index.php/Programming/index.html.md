@@ -9,7 +9,7 @@ Jump to: navigation, search
     _[FIRST Lego League](FIRST_Lego_League "FIRST Lego League" ) also has a page about [Programming](Programming_%28FLL%29 "Programming \(FLL\)" )._
 
   
-**Programming** is an integral part of building a [robot](Robot "Robot" ). [Fabrication](Fabrication "Fabrication" ) is necessary to have something to work with; but, without the brains, the robot is impotent. This is where programming comes in. A program is simply a set of instructions to the computer (the [Robot Controller](Robot_Controller "Robot Controller" ) in this case). The computer then responds, based on these instructions. The response might be effecting an actuator, sending power to a motor, or anything else the programmer desires. 
+**Programming** is an integral part of building a [robot](Robot "Robot" ). [Fabrication](Fabrication "Fabrication" ) is necessary to have something to work with; but, without the brains, the robot is impotent. This is where programming comes in. A program is simply a set of instructions to the computer (the [Robot Controller](robot-controller) in this case). The computer then responds, based on these instructions. The response might be effecting an actuator, sending power to a motor, or anything else the programmer desires. 
 
 ## Contents
 
@@ -25,7 +25,7 @@ Jump to: navigation, search
 For the [FIRST Robotics Competition](FIRST_Robotics_Competition
 "FIRST Robotics Competition" ), programming is done using a programming
 language and is [downloaded](Downloading_a_program "Downloading a
-program" ) to the [RC](Robot_Controller "Robot Controller" ).
+program" ) to the [RC](robot-controller).
 
 In the past, the robot controller has been programmed using a language such as
 [PIC C](PIC_C "PIC C" ) although it could also be programmed in
@@ -54,7 +54,7 @@ Note that beginning with [Stack Attack](Stack_Attack "Stack Attack"
 of time, so far 15 seconds at the beginning of the match, under which the
 robot must act without user input. This is a major challenge to programming
 the robot, and can be as complicated as a large network of
-[sensors](Sensor "Sensor" ) with many lines of code ... or as
+[sensors](sensor) with many lines of code ... or as
 simple as a trial-and-error [dead reckoning](Dead_reckoning "Dead
 reckoning" ) solution.
 

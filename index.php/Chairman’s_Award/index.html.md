@@ -25,10 +25,10 @@ Competition" ) as our ultimate goal for transforming the culture in ways that
 will inspire greater levels of respect and honor for science and technology,
 as well as encourage more of today’s youth to become scientists, engineers,
 and technologists. The Chairman’s Award represents the spirit of
-[FIRST](FIRST "FIRST" ). It honors the team that best represents a
+[FIRST](first). It honors the team that best represents a
 model for other teams to emulate, which embodies the goals and purpose of
-[FIRST](FIRST "FIRST" ). It remains the most prestigious team award
-[FIRST](FIRST "FIRST" ) presents.
+[FIRST](first). It remains the most prestigious team award
+[FIRST](first) presents.
 
 ## Contents
 
@@ -72,7 +72,7 @@ Before 2002, the Chairman's Award was only given out at the National
 Championship (now called "[The Championship
 Event](The_Championship_Event "The Championship Event" )"). Due to
 the amount of entries received, and the quality of them,
-[FIRST](FIRST "FIRST" ) wanted to recognize more for their
+[FIRST](first) wanted to recognize more for their
 outstanding work in the community, while lightening the load of the judges. In
 2002, a regional Chairman's Award was given out. Each team who wants to go for
 the award must submit it at ONE regional event they are going to. Then those

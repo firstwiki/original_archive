@@ -59,7 +59,7 @@ Why did you move it? you also mis-capped it.
 
     
 
-    I stand corrected. And now quite a few articles have to be adjusted. Also, I suppose [Robot controller](Robot_controller "Robot controller" ) should redirect to [Robot Controller](Robot_Controller "Robot Controller" ) ... A clarification, though: you say "in this case". Is it always a proper noun, or only when a specific version is referred to? This doesn't refer to a specific version, so I guess I should ask, when is it not a proper noun. --[Mrawls](User:Mrawls "User:Mrawls" ) 14:38, 21 Jun 2004 (EDT) 
+    I stand corrected. And now quite a few articles have to be adjusted. Also, I suppose [Robot controller](Robot_controller "Robot controller" ) should redirect to [Robot Controller](robot-controller) ... A clarification, though: you say "in this case". Is it always a proper noun, or only when a specific version is referred to? This doesn't refer to a specific version, so I guess I should ask, when is it not a proper noun. --[Mrawls](User:Mrawls "User:Mrawls" ) 14:38, 21 Jun 2004 (EDT) 
 
     
 

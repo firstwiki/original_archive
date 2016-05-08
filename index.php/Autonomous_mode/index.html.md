@@ -28,6 +28,6 @@ point ball." The 2003 game manual describes autonomous mode like this:
 ##  Resources
 
   * [Kevin Watson's](Kevin_Watson "Kevin Watson" ) excellent [beacon tracking code](http://kevin.org/frc/ "http://kevin.org/frc/" ), for those interested in an IR tracker 
-  * [Dave Lavery](Dave_Lavery "Dave Lavery" ) describes various [autonomy exercises](http://www.usfirst.org/robotics/robovation/primer/Autonomy.htm "http://www.usfirst.org/robotics/robovation/primer/Autonomy.htm" ) for the FIRST [Robovation](Robovation "Robovation" ) kit 
+  * [Dave Lavery](Dave_Lavery "Dave Lavery" ) describes various [autonomy exercises](http://www.usfirst.org/robotics/robovation/primer/Autonomy.htm "http://www.usfirst.org/robotics/robovation/primer/Autonomy.htm" ) for the FIRST [Robovation](robovation) kit 
   * Numerous [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) discussions on the matter ([[1]](http://www.chiefdelphi.com/forums/showthread.php?t=26774 "http://www.chiefdelphi.com/forums/showthread.php?t=26774" ),[[2]](http://www.chiefdelphi.com/forums/showthread.php?t=28435 "http://www.chiefdelphi.com/forums/showthread.php?t=28435" ),[[3]](http://www.chiefdelphi.com/forums/showthread.php?t=28211 "http://www.chiefdelphi.com/forums/showthread.php?t=28211" ) ...) 
 

@@ -17,8 +17,8 @@ Index of FRC Games
   
   * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](Aim_High "Aim High" )
-  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2006 [Aim High](aim-high)
+  * 2005 [Triple Play](triple-play)
   * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
   * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
@@ -41,7 +41,7 @@ section: Official Hint" )]
 ##  Official Hint
 
 The [Official 2005 Game Hint](Official_2005_Game_Hint "Official
-2005 Game Hint" ) was released by [FIRST](FIRST "FIRST" ) on
+2005 Game Hint" ) was released by [FIRST](first) on
 December 30, 2004.
 
 One could also call the [advance materials
@@ -52,7 +52,7 @@ section: Unofficial Hints" )]
 
 ##  Unofficial Hints
 
-Hints that were not officially published by [FIRST](FIRST "FIRST" )
+Hints that were not officially published by [FIRST](first)
 are analyzed at [Unofficial
 hints](Untitled_2005_game/Unofficial_hints "Untitled 2005
 game/Unofficial hints" ).

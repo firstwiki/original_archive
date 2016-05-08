@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 A **digital** signal is a signal that is intended to be used in discrete
-increments. It is different from an [analog](Analog "Analog" )
+increments. It is different from an [analog](analog)
 signal which does not have any discrete value assigned to it but has the
 possibility of continuous values. In terms of [FIRST](FIRST "FIRST"
 ), and specifically the [Robot Controller](Robot_Controller "Robot

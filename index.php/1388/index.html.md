@@ -45,7 +45,7 @@ Team Website: | <http://www.eaglerobotics.com/>
 
 ###  How We Started
 
-Eagle Robotics, [FIRST](FIRST "FIRST" ) team 1388, consists of
+Eagle Robotics, [FIRST](first) team 1388, consists of
 students from [Arroyo Grande High School](http://www.luciamar.k12.ca.us/aghs
 "http://www.luciamar.k12.ca.us/aghs" ) in Arroyo Grande, CA. The team was
 founded in 2004 with help from Team 973 GRR, under the leadership of Mr.

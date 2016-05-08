@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**IFI Loader** is the program, included in the [kit of parts](Kit_of_parts "Kit of parts" ) or [Robovation](Robovation "Robovation" ) kit, that [downloads a program](Downloading_a_program "Downloading a program" ) to the [Robot Controller](Robot_Controller "Robot Controller" ). The [MPLAB](MPLAB "MPLAB" ) IDE can output a .hex file which IFI Loader sends to the RC. IFI Loader also includes a terminal program to view text output from the robot or send text input. 
+**IFI Loader** is the program, included in the [kit of parts](Kit_of_parts "Kit of parts" ) or [Robovation](robovation) kit, that [downloads a program](Downloading_a_program "Downloading a program" ) to the [Robot Controller](robot-controller). The [MPLAB](MPLAB "MPLAB" ) IDE can output a .hex file which IFI Loader sends to the RC. IFI Loader also includes a terminal program to view text output from the robot or send text input. 
 
 You can also download it from [InnovationFIRST](InnovationFIRST
 "InnovationFIRST" ).

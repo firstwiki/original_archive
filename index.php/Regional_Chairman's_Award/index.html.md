@@ -23,7 +23,7 @@ Jump to: navigation, search
 ### Regional Chairman's Award
 
 This honor is awarded to one team at each of the 26 regionals. In the words of
-[FIRST](FIRST "FIRST" ) this award "enable[s] FIRST to recognize
+[FIRST](first) this award "enable[s] FIRST to recognize
 more teams for their exemplary efforts in spreading the FIRST message, as well
 as their talents in organizing materials for their presentations." Winning a
 Regional Chairman's Award gurantees invitation to that years Championship by

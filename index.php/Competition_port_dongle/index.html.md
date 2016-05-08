@@ -7,7 +7,7 @@ Jump to: navigation, search
 A **competition port dongle** is a device built by most teams for testing and
 practicing with their robot. It connects to the [competition
 port](Competition_port "Competition port" ) on the [Operator
-Interface](Operator_Interface "Operator Interface" ).
+Interface](operator-interface).
 
 [[edit](/index.php?title=Competition_port_dongle&action=edit&section=1 "Edit
 section: What a dongle does" )]

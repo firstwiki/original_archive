@@ -136,7 +136,7 @@ There are 113 articles in this category.
 
 ### F
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * [Falcon IV (547)](Falcon_IV_%28547%29 "Falcon IV \(547\)" )
 

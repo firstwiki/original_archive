@@ -11,7 +11,7 @@ Jump to: navigation, search
 Students work with [mentors](Mentors "Mentors" ) and
 [engineers](Engineers "Engineers" ) to build a
 [robot](Robot "Robot" ) for the [FIRST Robotics
-Competition](FIRST "FIRST" ). Students entering the program do not
+Competition](first). Students entering the program do not
 have to know anything about [building](Fabrication "Fabrication" )
 robots; they can and are encouraged to learn as they go. To be a part of the
 FIRST program, they must be dedicated and willing to learn; most team's robots

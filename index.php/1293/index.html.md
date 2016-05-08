@@ -57,7 +57,7 @@ was not picked for an alliance.
 # Robots
 
   * 2007: Atlas. Atlas was a arm bot for [Rack and Roll](Rack_and_Roll "Rack and Roll" )
-  * 2006: Chomp. Chomp was built as a do-it-all robot for [Aim High](Aim_High "Aim High" ). 
+  * 2006: Chomp. Chomp was built as a do-it-all robot for [Aim High](aim-high). 
   * 2005: Ockham's Raizor. Designed on the [Kitbot](/index.php?title=Kitbot&action=edit "Kitbot" ) frame, Ockham used aluminum extrusion and belting to lift tetras on a simple finger over twelve feet in the air. Ockham also sported custom covers over the arm, which drew the eye of others. 
   * 2004: Bob. He was designed for herding and 2X ball manipulation on the mobile goal by use of a van door-powered winch of an arm. (The arm was removed on the final day of the Palmetto Regional.) Further, Bob's drivetrain used power window motors from the kit, a relatively unusual choice. 
 

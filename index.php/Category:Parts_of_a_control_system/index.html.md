@@ -19,16 +19,16 @@ There are 5 articles in this category.
 
 ### J
 
-  * [Joystick](Joystick "Joystick" )
+  * [Joystick](joystick)
 
 ### O
 
-  * [Operator Interface](Operator_Interface "Operator Interface" )
+  * [Operator Interface](operator-interface)
 
 ### R
 
-  * [Robot Controller](Robot_Controller "Robot Controller" )
-  * [Robovation](Robovation "Robovation" )
+  * [Robot Controller](robot-controller)
+  * [Robovation](robovation)
 
 Retrieved from
 "<http://www.firstwiki.netCategory:Parts_of_a_control_system>"

@@ -64,7 +64,7 @@ season competitions" )
   * [Savage Soccer](Savage_Soccer "Savage Soccer" ) (fall VEX competition)   
   
   
-**Rumble at the Rock** used to be an [off-season competition](Off-season_competition "Off-season competition" ) held in Plymouth, Massachusetts and was sponsored by Plymouth North High School It was the first off-season competition and was invitation only. The competition ended after Plymouth North stopped participating in [FIRST](FIRST "FIRST" ). 
+**Rumble at the Rock** used to be an [off-season competition](Off-season_competition "Off-season competition" ) held in Plymouth, Massachusetts and was sponsored by Plymouth North High School It was the first off-season competition and was invitation only. The competition ended after Plymouth North stopped participating in [FIRST](first). 
 
 [![](/media/thumb/1/10/FIRST_logo.gif/50px-
 FIRST_logo.gif)](Image:FIRST_logo.gif "" )

@@ -211,7 +211,7 @@ bot](/media/0/09/2047_holonomic.jpg "2047 holonomic.jpg" ).
 [1418's](1418 "1418" ) 2007 holonomic drive in action. Note the
 slight listing when the chassis is supposed to be driving straight; this was
 caused by asymmetries in the power outputs of the [Victor speed
-controllers](Victor_884 "Victor 884" ). This problem was
+controllers](victor-884). This problem was
 successfully fixed by using a lookup table to force individual joystick
 positions to map to a linear set of power outputs.
 

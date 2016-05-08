@@ -15,7 +15,7 @@ Jump to: navigation, search
 Autonomous began in the 2003 game [Stack Attack](Stack_Attack
 "Stack Attack" ), primarily as a means to make the
 [programming](Programming "Programming" ) aspect of
-[FIRST](FIRST "FIRST" ) more exciting and challenging. Since then,
+[FIRST](first) more exciting and challenging. Since then,
 the autonomous mode persisted to the [next
 game](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
 ), and has been apart of all [FRC](FRC "FRC" ) games since.

@@ -18,7 +18,7 @@ clip.png)](Image:1073_taurus1.jpg "Enlarge" )
 
 Taurus stacking a tetra
 
-**Taurus** was the [robot](Robot "Robot" ) built by Team [1073](1073 "1073" ) in 2005 for [Triple Play](Triple_Play "Triple Play" ). The team developed their most ambitious design yet, all the while sporting their new blue and white tie-dye shirts and under the primary leadership of senior members. 
+**Taurus** was the [robot](Robot "Robot" ) built by Team [1073](1073 "1073" ) in 2005 for [Triple Play](triple-play). The team developed their most ambitious design yet, all the while sporting their new blue and white tie-dye shirts and under the primary leadership of senior members. 
 
 ## Contents
 

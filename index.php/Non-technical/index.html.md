@@ -18,7 +18,7 @@ technical&action=edit" ) to make a significant article. _See more
 [stubs](Special:Shortpages "Special:Shortpages" )._  
   
 ---|---  
-[FIRST](FIRST "FIRST" ) isn't solely about robots. There are many,
+[FIRST](first) isn't solely about robots. There are many,
 many other aspects of FIRST that aren't even related to technology or even
 robots.
 

@@ -41,7 +41,7 @@ mechanical lackey_
 
 My name is Kevin Porter, currently a senior at Gorham High School in Maine. I
 have participated on [Team #172](Team#172 "Team" ) since the
-2004/2005 season ([Triple Play](Triple_Play "Triple Play" ))
+2004/2005 season ([Triple Play](triple-play))
 leading the Electrical/[Controls](Control_system "Control system" )
 team. More recently I have taken on a leadership role, representing the team
 at the High School, as well as dabbling in robot driving, mechanical and

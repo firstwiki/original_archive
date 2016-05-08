@@ -52,7 +52,7 @@ for help.
 ### 2005-2006
 
 Formed in late 2005, Saints Robotics participated in the 2006 game [Aim
-High](Aim_High "Aim High" ). It was funded exclusively by the NASA
+High](aim-high). It was funded exclusively by the NASA
 grant for [rookie teams](Rookie_teams "Rookie teams" ). Saints
 Robotics initially [seeded](Seed "Seed" ) 36 out of 45 competitors
 at the [Pacific Northwest Regional](Pacific_Northwest_Regional
@@ -75,7 +75,7 @@ Foundation. The [team](Team "Team" ) consisted primarily of
 underclassmen, with only two juniors and one senior member. Luckily, the
 inclusion of an extended gifted program into Interlake had and will continue
 to bring great potential into the program. However, the most experienced
-members of the team had only been a part of [FIRST](FIRST "FIRST" )
+members of the team had only been a part of [FIRST](first)
 for their second year, meaning a severe lack of experience. Much progress
 occurred despite not having had organized a pre-season, including the
 establishment of a functional website, active public relations efforts,

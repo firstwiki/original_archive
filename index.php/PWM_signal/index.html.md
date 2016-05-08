@@ -29,7 +29,7 @@ used to control motors through [Victors](Victor "Victor" ) or
 
 ## Programming
 
-On the [robot controller](Robot_Controller "Robot Controller" ), a
+On the [robot controller](robot-controller), a
 PWM signal has a range from -127 to 127 in where -127 corresponds to full
 power "backwards" on the motor and 127 to full power "forwards" on the motor.
 Some controllers may use a range from -1 to 1 with the same actions occurring

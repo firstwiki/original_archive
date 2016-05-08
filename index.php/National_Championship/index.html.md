@@ -72,10 +72,10 @@ section: 2003 Houston, TX" )]
 
 ### 2003 Houston, TX
 
-[FIRST](FIRST "FIRST" ) outgrew Epcot Center, so the championship
+[FIRST](first) outgrew Epcot Center, so the championship
 had to move to Houston. While in one sense the Epcot Center was outgrown, the
 primary reason for the move to Houston was bad timing -- Disney had something
-planned for the date [FIRST](FIRST "FIRST" ) wanted, and the
+planned for the date [FIRST](first) wanted, and the
 conflict could not be resolved in a timely fashion. The fields were in Reliant
 Stadium and the pits were in the adjacent Astrodome. The team party was held
 at Six Flags AstroWorld across the street.
@@ -107,7 +107,7 @@ large field) remained outdoors. However, Epcot told [FIRST](FIRST
 was large enough to hold 3 747's tail to nose), and so beginning in the 2002
 season, a team had to [qualify](Qualify "Qualify" ) to go to
 nationals. But despite all of that, Dean and Disney are still good friends,
-with Disney sponsoring a few [FIRST](FIRST "FIRST" ) teams, and
+with Disney sponsoring a few [FIRST](first) teams, and
 even showing off, and renting, Segways in the parks.
 
 [[edit](/index.php?title=The_Championship_Event&action=edit&section=6 "Edit

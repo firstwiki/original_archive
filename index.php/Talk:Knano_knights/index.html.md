@@ -46,7 +46,7 @@ section: Concerns" )]
 I have a few questions about this article that I would like to bring up.
 
   * Is this an article for a team? (FLL?) There is very little indication of it. 
-  * Is the bit about "What is FIRST?" really necessary? It seems like a redirect to the [FIRST](FIRST "FIRST" ) article would be more appropriate. 
+  * Is the bit about "What is FIRST?" really necessary? It seems like a redirect to the [FIRST](first) article would be more appropriate. 
   * The article looks like a report that a team would use for the research part of competition. You might want to consider making it more encyclopedic. 
   * Also, the "Team's Favorite Websites" section should be removed as it is completely out of place and irrelevant to the FIRSTwiki. 
 

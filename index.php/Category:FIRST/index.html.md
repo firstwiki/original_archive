@@ -83,7 +83,7 @@ There are 7 articles in this category.
 
 ### F
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
 |
 
 ### F cont.

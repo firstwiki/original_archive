@@ -27,7 +27,7 @@ Jump to: navigation, search
   * [Arbitration](FIRSTwiki:Arbitration "FIRSTwiki:Arbitration" )  
 ---  
   
-**Welcome** to the [FIRSTwiki](FIRSTwiki "FIRSTwiki" ), a collaborative project of the [FIRST community](FIRST_community "FIRST community" ) to provide an historical record and other resources for the [FIRST Robotics Program](FIRST "FIRST" ). 
+**Welcome** to the [FIRSTwiki](FIRSTwiki "FIRSTwiki" ), a collaborative project of the [FIRST community](FIRST_community "FIRST community" ) to provide an historical record and other resources for the [FIRST Robotics Program](first). 
 
 [[edit](/index.php?title=FIRSTwiki:New_users_page&action=edit&section=1 "Edit
 section: What we are" )]

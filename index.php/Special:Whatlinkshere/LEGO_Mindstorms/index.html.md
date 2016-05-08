@@ -25,7 +25,7 @@ View (previous 50) (next 50)
 
   * [FLL Challenge](FLL_Challenge "FLL Challenge" )
   * [Lego Mindstorms](/index.php?title=Lego_Mindstorms&redirect=no "Lego Mindstorms" ) (redirect page) 
-    * [FIRST](FIRST "FIRST" )
+    * [FIRST](first)
     * [User talk:Astronouth7303](User_talk:Astronouth7303 "User talk:Astronouth7303" )
     * [FIRSTwiki:Cleanup](FIRSTwiki:Cleanup "FIRSTwiki:Cleanup" )
     * [FIRST LEGO League](FIRST_LEGO_League "FIRST LEGO League" )

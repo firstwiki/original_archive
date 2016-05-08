@@ -134,7 +134,7 @@ annual robotics events and provides strong partnerships with schools and
 students as well as many area corporations and sponsors
 
 The Finger Lakes Regional was first held in the 2005 season, [Triple
-Play](Triple_Play "Triple Play" ).
+Play](triple-play).
 
 The Finger Lakes Regional Planning Committee hosts the official web site for
 the region and the year-round events at [Finger Lakes Regional Event

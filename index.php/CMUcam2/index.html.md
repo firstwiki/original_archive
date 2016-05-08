@@ -31,7 +31,7 @@ The [Control System](Control_system "Control system" )
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -40,25 +40,25 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
-  * [Sensors](Sensor "Sensor" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * **CMUcam2**  
 ---  
   
 The **CMUcam2** is a vision system given to teams in the [kit of
 parts](Kit_of_parts "Kit of parts" ), starting in
-[2005](Triple_Play "Triple Play" ).
+[2005](triple-play).
 
 The camera communicates with the [full robot
 controller](Full_robot_controller "Full robot controller" ) via the
@@ -83,11 +83,11 @@ camera is commonly mounted to two servos in order to locate objects.
 
 The camera is used to track a colored object.
 
-In [2005](Triple_Play "Triple Play" ), colored pieces of plastic
+In [2005](triple-play), colored pieces of plastic
 were used. These did not work too well, as the camera was very sensitive to
 their angle, and the amount of light.
 
-In [2006](Aim_High "Aim High" ), the camera has a green target that
+In [2006](aim-high), the camera has a green target that
 is lit by six lights. This ensures that the lighting conditions do not effect
 the ability of the camera too much.
 

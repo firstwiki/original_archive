@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-[FIRST](FIRST "FIRST" ) gives out many awards at both the
+[FIRST](first) gives out many awards at both the
 [regional](Regional "Regional" ) competitions and [The Championship
 Event](The_Championship_Event "The Championship Event" ) to
 recognize team and individual achievements.

@@ -20,7 +20,7 @@ There are 6 articles in this category.
 
 ### G
 
-  * [Gyro](Gyro "Gyro" )
+  * [Gyro](gyro)
 
 ### I
 
@@ -36,5 +36,5 @@ There are 6 articles in this category.
 
 ### S
 
-  * [Sensor](Sensor "Sensor" )
+  * [Sensor](sensor)
 

@@ -30,20 +30,20 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
     * [Jaguar](Jaguar "Jaguar" )
-  * [Sensors](Sensor "Sensor" )
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
@@ -53,11 +53,11 @@ system](Control_system "Control system" ) that processes
 [communication](Radio_modem "Radio modem" ), and controls the robot
 through various [outputs](Output "Output" ). There are two types of
 Robot Controllers -- the Full-size version and the controller from the
-[Robovation](Robovation "Robovation" ) kit.
+[Robovation](robovation) kit.
 
 The Full-size Robot Controller receives data from the [Operator
-Interface](Operator_Interface "Operator Interface" ), and controls
-the [spike relays](Spike "Spike" ), [motors](Motors
+Interface](operator-interface), and controls
+the [spike relays](spike-relay), [motors](Motors
 "Motors" ), and [servos](Servo "Servo" ). It is the unit that is
 [programmed](Programming "Programming" ).
 

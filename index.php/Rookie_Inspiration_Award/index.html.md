@@ -10,7 +10,7 @@ engineering and engineers both within their school, as well as in their
 community. This team models [gracious
 professionalism](Gracious_professionalism "Gracious
 professionalism" ) on and off the field and is a true inspiration to others.
-It is the second highest honor [FIRST](FIRST "FIRST" ) bestows to a
+It is the second highest honor [FIRST](first) bestows to a
 rookie team.  
 
 [Awards](Awards "Awards" )  

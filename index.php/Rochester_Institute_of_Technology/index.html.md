@@ -8,7 +8,7 @@ Jump to: navigation, search
 ## History
 
 The Rochester Institute of Technology (RIT) has been involved with
-[FIRST](FIRST "FIRST" ) in various forms since 1996.
+[FIRST](first) in various forms since 1996.
 
 From 1996 to 1998, the special interest housing floor called Engineering House
 mentored team [73](73 "73" ). This was the high point of team 73's

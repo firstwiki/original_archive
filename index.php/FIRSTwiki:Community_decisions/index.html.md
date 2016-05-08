@@ -186,12 +186,12 @@ Noticed the [Inspiration](Inspiration "Inspiration" ),
 [Recognition](Recognition "Recognition" ),
 [Science](Science "Science" ), and
 [Technology](Technology "Technology" ) pages from the
-[FIRST](FIRST "FIRST" ) article. They don't seem very useful to me
+[FIRST](first) article. They don't seem very useful to me
 and I'm not sure what would be added there. Kinda obvious isn't it? Recommend
 they be removed unless there's something to fill 'em with.
 [Tanner](User:TannerLD "User:TannerLD" ) 20:56, 14 March 2010 (EDT)
 
-    Agreed, we can change the links on the [FIRST](FIRST "FIRST" ) article to point to the wikipedia pages. [Boydean](User:Boydean "User:Boydean" ) 22:04, 14 March 2010 (EDT) 
+    Agreed, we can change the links on the [FIRST](first) article to point to the wikipedia pages. [Boydean](User:Boydean "User:Boydean" ) 22:04, 14 March 2010 (EDT) 
 
     eerr, or we could link to the wiktionary articles....I'll go ahead and do that [Boydean](User:Boydean "User:Boydean" ) 22:24, 14 March 2010 (EDT) 
 

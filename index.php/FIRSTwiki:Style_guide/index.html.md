@@ -102,10 +102,10 @@ conventions](http://www.wikipedia.org/wiki/wikipedia:Naming_conventions
 "wikipedia:wikipedia:Naming_conventions" ). To highlight the most important
 considerations:
 
-  * Spelled-out phrases are preferred to acronyms, unless the subject is almost exclusively known by the acronym. E.g., [Continuously variable transmissions](Continuously_variable_transmissions "Continuously variable transmissions" ) as opposed to [CVT](CVT "CVT" ), **but** [FIRST](FIRST "FIRST" ) as opposed to [For Inspiration and Recognition of Science and Technology](For_Inspiration_and_Recognition_of_Science_and_Technology "For Inspiration and Recognition of Science and Technology" ). 
+  * Spelled-out phrases are preferred to acronyms, unless the subject is almost exclusively known by the acronym. E.g., [Continuously variable transmissions](Continuously_variable_transmissions "Continuously variable transmissions" ) as opposed to [CVT](CVT "CVT" ), **but** [FIRST](first) as opposed to [For Inspiration and Recognition of Science and Technology](For_Inspiration_and_Recognition_of_Science_and_Technology "For Inspiration and Recognition of Science and Technology" ). 
   * The first letter of the first word should be capitalized, with subsequent letters in lower case. The exception is if the word is a proper noun. E.g., [Gracious professionalism](Gracious_professionalism "Gracious professionalism" ), **but** [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ). 
   * The correct names for _FIRST_ programs are: _FIRST_ Robotics Competition (FRC); _FIRST_ Tech Challenge (FTC); _FIRST_ LEGO League (FLL) and Junior _FIRST_ LEGO League (jFLL) 
-  * If an article is written for a specific year, use the convention "General Title (year)". E.g., [Robot Controller](Robot_Controller "Robot Controller" ) talks about what a robot controller is, in general, but [Robot Controller (2003)](Robot_Controller_%282003%29 "Robot Controller \(2003\)" ) talks about the 2003 version. **Note** that for team pages, the format is "[team number] in [year]". E.g., [45 in 2003](45_in_2003 "45 in 2003" ). The exception is to avoid cryptic titles like "45 (2003)". 
+  * If an article is written for a specific year, use the convention "General Title (year)". E.g., [Robot Controller](robot-controller) talks about what a robot controller is, in general, but [Robot Controller (2003)](Robot_Controller_%282003%29 "Robot Controller \(2003\)" ) talks about the 2003 version. **Note** that for team pages, the format is "[team number] in [year]". E.g., [45 in 2003](45_in_2003 "45 in 2003" ). The exception is to avoid cryptic titles like "45 (2003)". 
 
 [[edit](/index.php?title=FIRSTwiki:Style_guide&action=edit&section=3 "Edit
 section: Links" )]
@@ -174,7 +174,7 @@ FIRSTwiki is not a collection of links and articles with only links is highly
 **discouraged**. However, it is often important to link to outside resources
 -- especially [ChiefDelphi](ChiefDelphi "ChiefDelphi" ),
 [InnovationFIRST](InnovationFIRST "InnovationFIRST" ), and
-[FIRST](FIRST "FIRST" ). The format for this is single brackets,
+[FIRST](first). The format for this is single brackets,
 such as [http://usfirst.org FIRST homepage] that displays as [FIRST
 homepage](http://usfirst.org "http://usfirst.org" ). Without any text after
 the URL, the link appears as a footnote. For instance, [http://usfirst.org]

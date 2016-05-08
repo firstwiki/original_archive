@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**freelanceFIRST** is an ambitious effort to bring mentorship and engineering expertise to [FIRST](FIRST "FIRST" ) [teams](Team "Team" ) throughout the world through an Internet-based interface, specifically designed with the unique circumstances and needs of FIRST teams in mind. 
+**freelanceFIRST** is an ambitious effort to bring mentorship and engineering expertise to [FIRST](first) [teams](Team "Team" ) throughout the world through an Internet-based interface, specifically designed with the unique circumstances and needs of FIRST teams in mind. 
 
 While the groundwork for this initiative is in place, the technical work
 necessary to realize the Internet-based interface is only in its preliminary

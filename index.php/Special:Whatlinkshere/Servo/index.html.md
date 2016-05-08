@@ -27,7 +27,7 @@ View (previous 50) (next 50)
   * [7.2V backup battery](7.2V_backup_battery "7.2V backup battery" )
   * [Drive train](Drive_train "Drive train" )
   * [Kit of parts (FTC)](Kit_of_parts_%28FTC%29 "Kit of parts \(FTC\)" )
-  * [Aim High](Aim_High "Aim High" )
+  * [Aim High](aim-high)
 View (previous 50) (next 50)
 ([20](/index.php?title=Special:Whatlinkshere/Servo&limit=20&from=0
 "Special:Whatlinkshere/Servo" ) |

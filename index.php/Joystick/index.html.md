@@ -15,7 +15,7 @@ The [Control System](Control_system "Control system" )
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -24,19 +24,19 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
+    * [Operator Interface](operator-interface)
     * **Joystick**
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
-  * [Sensors](Sensor "Sensor" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
@@ -67,9 +67,9 @@ Interface" ).
 ### USB Connector
 
 After 2009 with the introduction of the National Instruments [robot
-controller](Robot_Controller "Robot Controller" ), a joystick's USB
+controller](robot-controller), a joystick's USB
 cable connects a joystick to the [operator
-interface](Operator_Interface "Operator Interface" ) through any of
+interface](operator-interface) through any of
 several USB ports. Many joysticks and game controllers are available to use
 because of the new operator interface released in 2009 and 2010.
 
@@ -82,7 +82,7 @@ the XBox 360 controller.
 
 Before 2008, a 15-pin cable connected a joystick to any one of the ports
 labeled "PORT 1" through "PORT 4" on the [operator
-interface](Operator_Interface "Operator Interface" ). Up to four
+interface](operator-interface). Up to four
 joysticks could be connected to the operator interface. Today, very few
 joysticks are still being manufactured with the 15-pin connector, and even
 less of those still support the gameport standard which is required for its

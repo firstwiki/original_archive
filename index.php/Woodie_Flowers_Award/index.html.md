@@ -18,7 +18,7 @@ both teaching them and inspiring them in their goals.
 The candidate for the award is picked by the students on each team. The
 students then write an essay describing the qualities of their candidate.
 
-[FIRST](FIRST "FIRST" ) recognizes one adult team member at each of
+[FIRST](first) recognizes one adult team member at each of
 the 37 regional competitions as a **Woodie Flowers Award** regional winner. Of
 these talented mentors, one will receive the Woodie Flowers Award at [The
 Championship Event](The_Championship_Event "The Championship Event"

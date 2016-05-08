@@ -6,7 +6,7 @@
 
 Jump to: navigation, search
 
-Celebrities are people within [FIRST](FIRST "FIRST" ) who are quite
+Celebrities are people within [FIRST](first) who are quite
 popular for any number of reasons and are usually looked up to by a lot of
 people.
 

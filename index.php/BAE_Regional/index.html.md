@@ -98,7 +98,7 @@ Regional" )
   
 The **BAE Systems Granite State Regional**, formerly known as the Granite
 State Regional, has been held at the Verizon Wireless Arena in Manchester, New
-Hampshire, the city where [FIRST](FIRST "FIRST" ) was founded,
+Hampshire, the city where [FIRST](first) was founded,
 annually since 2003 ([Stack Attack](Stack_Attack "Stack Attack" )).
 It is sponsored by its namesake company, British Aerospace Engineering (BAE)
 Systems, one of New Hampshire's largest employers.

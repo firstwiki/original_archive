@@ -32,7 +32,7 @@ Jump to: navigation, search
 the [FIRSTwiki](FIRSTwiki "FIRSTwiki" ) **Community Portal**, the
 [FIRST MetaWiki](FIRSTwiki:Meta_pages "FIRSTwiki:Meta pages" ) hub!
 The wiki seeks to create an open-content encyclopedia for all things
-[FIRST](FIRST "FIRST" )-related.
+[FIRST](first)-related.
 
 ## Get involved
 

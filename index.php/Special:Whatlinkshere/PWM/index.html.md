@@ -23,7 +23,7 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/PWM" )).
 
   * [Error](Error "Error" )
-  * [Victor 884](Victor_884 "Victor 884" )
+  * [Victor 884](victor-884)
   * [Default code (2004)](Default_code_%282004%29 "Default code \(2004\)" )
   * [PWM cable](PWM_cable "PWM cable" )
   * [Speed controller](Speed_controller "Speed controller" )

@@ -21,7 +21,7 @@ make a significant article. _See more [stubs](Special:Shortpages
 ---|---  
   
   
-Each year, [FIRST](FIRST "FIRST" ) issues a new [FIRST Tech
+Each year, [FIRST](first) issues a new [FIRST Tech
 Challenge](FIRST_Tech_Challenge "FIRST Tech Challenge" ) game.
 
 

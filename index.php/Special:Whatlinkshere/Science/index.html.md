@@ -22,7 +22,7 @@ View (previous 50) (next 50)
 [500](/index.php?title=Special:Whatlinkshere/Science&limit=500&from=0
 "Special:Whatlinkshere/Science" )).
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [Team spirit](Team_spirit "Team spirit" )
   * [Inspiration](Inspiration "Inspiration" )
   * [Recognition](Recognition "Recognition" )

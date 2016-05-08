@@ -10,7 +10,7 @@
 
 Jump to: navigation, search
 
-**FIRSTwiki** ([www.firstwiki.net](http://www.firstwiki.net/ "http://www.firstwiki.net/" )) is an open content encyclopedia of all things related to [FIRST](FIRST "FIRST" ). It is a _wiki_ (see [What is a Wiki?](http://www.wikipedia.org/wiki/Wikipedia:Overview_FAQ#What_is_a_Wiki.3F "wikipedia:Wikipedia:Overview_FAQ" )), or website where anyone is able to edit almost any page. FIRSTwiki strives to serve the [FIRST community](FIRST_community "FIRST community" ) by providing useful content and a historical record that will serve all participants of the FIRST Robotics Program. 
+**FIRSTwiki** ([www.firstwiki.net](http://www.firstwiki.net/ "http://www.firstwiki.net/" )) is an open content encyclopedia of all things related to [FIRST](first). It is a _wiki_ (see [What is a Wiki?](http://www.wikipedia.org/wiki/Wikipedia:Overview_FAQ#What_is_a_Wiki.3F "wikipedia:Wikipedia:Overview_FAQ" )), or website where anyone is able to edit almost any page. FIRSTwiki strives to serve the [FIRST community](FIRST_community "FIRST community" ) by providing useful content and a historical record that will serve all participants of the FIRST Robotics Program. 
 
 FIRSTwiki was created on **May 24, 2004**. It uses the
 [MediaWiki](http://meta.wikipedia.org/wiki/Main_page "metawikipedia:Main_page"

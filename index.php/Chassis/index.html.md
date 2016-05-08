@@ -24,8 +24,8 @@ the weight of the chassis must also be considered.
 
 Many different materials can be used for the chassis, and the [kit of
 parts](Kit_of_parts "Kit of parts" ) provided basic chassis members
-in [2005](Triple_Play "Triple Play" ) and
-[2006](Aim_High "Aim High" ). These were
+in [2005](triple-play) and
+[2006](aim-high). These were
 [prefabricated](Fabrication "Fabrication" ) members designed to
 interlock via notch-shaped pieces and many holes that also saved weight. They
 were made of [aluminum](Aluminum "Aluminum" ), which is very light

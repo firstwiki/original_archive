@@ -19,8 +19,8 @@ Index of FRC Games
   * 2009 [Lunacy](Lunacy "Lunacy" )
   * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](Aim_High "Aim High" )
-  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2006 [Aim High](aim-high)
+  * 2005 [Triple Play](triple-play)
   * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
   * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
@@ -94,7 +94,7 @@ closest ball to the goal.
 
 The winning strategy was to continually pass the balls over the goal. Some
 teams could do this faster then the judges could count. This was the first and
-only year up until the 2006 game, [Aim High](Aim_High "Aim High" ),
+only year up until the 2006 game, [Aim High](aim-high),
 that teams scored points based on what happened in a match, as opposed to how
 things ended.
 

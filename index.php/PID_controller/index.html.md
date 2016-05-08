@@ -17,7 +17,7 @@ The [Control System](Control_system "Control system" )
 **[Parts of a Control System](Parts_of_a_control_system "Parts of a control system" )**
 
   * [Computer](Computer "Computer" )
-    * [Robot Controller](Robot_Controller "Robot Controller" )
+    * [Robot Controller](robot-controller)
       * [2010 RC](Robot_Controller_%282010%29 "Robot Controller \(2010\)" )
       * [2009 RC](Robot_Controller_%282009%29 "Robot Controller \(2009\)" )
       * [2006 RC](Robot_Controller_%282006%29 "Robot Controller \(2006\)" )
@@ -26,20 +26,20 @@ The [Control System](Control_system "Control system" )
       * [2000 RC](Robot_Controller_%282000%29 "Robot Controller \(2000\)" )
       * [1996 RC](/index.php?title=Robot_Controller_%281996%29&action=edit "Robot Controller \(1996\)" )
       * [1993 RC](/index.php?title=Robot_Controller_%281993%29&action=edit "Robot Controller \(1993\)" )
-    * [Robovation](Robovation "Robovation" )
+    * [Robovation](robovation)
   * [Input](Input "Input" )
-    * [Operator Interface](Operator_Interface "Operator Interface" )
-    * [Joystick](Joystick "Joystick" )
+    * [Operator Interface](operator-interface)
+    * [Joystick](joystick)
   * [Output](Output "Output" )
-    * [Victor 884](Victor_884 "Victor 884" )
-    * [Spike](Spike "Spike" )
+    * [Victor 884](victor-884)
+    * [Spike](spike-relay)
     * [Jaguar](Jaguar "Jaguar" )
-  * [Sensors](Sensor "Sensor" )
+  * [Sensors](sensor)
     * [Encoder](Encoder "Encoder" )
     * [Accelerometer](Accelerometer "Accelerometer" )
     * [Light sensor](/index.php?title=Light_sensor&action=edit "Light sensor" )
     * [IR sensor](IR_sensor "IR sensor" )
-    * [Gyro](Gyro "Gyro" )
+    * [Gyro](gyro)
     * [CMUcam2](CMUcam2 "CMUcam2" )  
 ---  
   
@@ -87,7 +87,7 @@ exactly. PID control is a specific type of closed loop control, and adjusts
 the output using proportional, integral, and derivative terms. It is based on
 control theory, heavy in mathematics (it is actually a differential equation),
 and is a widely used filter mechanism. For most applications related to
-[FIRST](FIRST "FIRST" ), simplified results of control theory can
+[FIRST](first), simplified results of control theory can
 be used without needing to know advanced mathematical equations.
 
 The general equation for proportional control is
@@ -154,7 +154,7 @@ only be used sparingly since it tends to destabilize a system.
 
 "Going open loop" refers to a closed loop control that loses its input. This
 might happen because the sensor becomes jostled out of the input slot on the
-[Robot Controller](Robot_Controller "Robot Controller" ), wear and
+[Robot Controller](robot-controller), wear and
 tear (aided by walls and opposing robots many times), the [PWM
 cable](PWM_cable "PWM cable" ) fails, or some other problem. If the
 sensor is damaged and the system is not at the setpoint, it will try to reach

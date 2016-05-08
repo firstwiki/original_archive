@@ -100,10 +100,10 @@ section: History" )]
 
 ##  History
 
-Since 2004, the [FIRST](FIRST "FIRST" ) Colorado Regional is a
+Since 2004, the [FIRST](first) Colorado Regional is a
 compitetion that draws thousands every year. As one of the newer regionals,
 there are many rookie teams attending this event. In 2004, as a result of the
-Colorado Regional, [FIRST](FIRST "FIRST" ) teams in Colorado jumped
+Colorado Regional, [FIRST](first) teams in Colorado jumped
 from 3 to 18 teams representing 12 school districts across the state.
 
 [[edit](/index.php?title=Colorado_Regional&action=edit&section=2 "Edit

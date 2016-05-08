@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-**Mentors** are adult participants on a [FIRST Robotics team](FIRST_Robotics_team "FIRST Robotics team" ). [FIRST](FIRST "FIRST" ) lists the various roles of a mentor as being able to: 
+**Mentors** are adult participants on a [FIRST Robotics team](FIRST_Robotics_team "FIRST Robotics team" ). [FIRST](first) lists the various roles of a mentor as being able to: 
 
   * Inspire students in science and technology 
   * Motivate and engage students in meaningful activities 

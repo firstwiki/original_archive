@@ -10,7 +10,7 @@ output value. Error values are used by [closed loop](Closed_loop
 error.
 
 For example, if the [Robot Controller](Robot_Controller "Robot
-Controller" ) sends a [PWM](PWM "PWM" ) signal to a
+Controller" ) sends a [PWM](pwm) signal to a
 [motor](Motor "Motor" ) to make it run at 30% of its top speed, but
 the [motor](Motor "Motor" ) only runs at 26%, then an error would
 exist of 4% of the top speed.

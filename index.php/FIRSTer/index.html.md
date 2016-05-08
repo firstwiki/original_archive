@@ -22,7 +22,7 @@ significant article. _See more [stubs](Special:Shortpages
   
   
 FIRSTers is generally defined as those who are involved in
-[FIRST](FIRST "FIRST" ).
+[FIRST](first).
 
 
 ## Characteristics

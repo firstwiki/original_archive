@@ -25,7 +25,7 @@ page](Talk:FIRST_Tech_Challenge "Talk:FIRST Tech Challenge" ) or at
   
 The **FIRST Tech Challenge** (or **FTC**) is a robotics competition aimed at
 middle school and high school ages. Due to the fact that participating in the
-[FIRST Robotics Competition](FIRST "FIRST" ) costs thousands of
+[FIRST Robotics Competition](first) costs thousands of
 dollars per year, FTC is a low-cost, portable alternative for schools. The
 competition was renamed to FTC in 2007, it was previously known as the **FIRST
 Vex Challenge** or **VTC**.

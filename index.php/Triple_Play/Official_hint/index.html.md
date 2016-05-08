@@ -4,7 +4,7 @@
 
 Jump to: navigation, search
 
-Every year, [FIRST](FIRST "FIRST" ) makes a tradition of releasing
+Every year, [FIRST](first) makes a tradition of releasing
 an official hint about the upcoming season's [FIRST Robotics
 Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ) [game](Game "Game" ) before the

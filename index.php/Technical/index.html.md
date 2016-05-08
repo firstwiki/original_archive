@@ -21,7 +21,7 @@ significant article. _See more [stubs](Special:Shortpages
 ---|---  
   
   
-Technical topics involved in [FIRST](FIRST "FIRST" ) include:
+Technical topics involved in [FIRST](first) include:
 
   * [Animation](Animation "Animation" )
   * [Autodesk Inventor](Autodesk_Inventor "Autodesk Inventor" )

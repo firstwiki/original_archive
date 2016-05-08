@@ -22,7 +22,7 @@ Roll" ) | [250](/index.php?title=Special:Whatlinkshere/Rack_%27N%27_Roll&limit
 pecial:Whatlinkshere/Rack_%27N%27_Roll&limit=500&from=0
 "Special:Whatlinkshere/Rack 'N' Roll" )).
 
-  * [FIRST](FIRST "FIRST" )
+  * [FIRST](first)
   * [79](79 "79" )
   * [FIRSTwiki:Featured article candidates](FIRSTwiki:Featured_article_candidates "FIRSTwiki:Featured article candidates" )
   * [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )

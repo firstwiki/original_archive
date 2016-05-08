@@ -91,7 +91,7 @@ team/hot_chairmans.htm "http://www2.huronvalley.k12.mi.us/schools/mhs/activity
 ###  Animation
 
 The purpose of the group each year is to create a 30 second animation
-displaying what [FIRST](FIRST "FIRST" ) means to the team.
+displaying what [FIRST](first) means to the team.
 
 Every year, the team mades a very competitive animation and masters the
 complicated aspects of [3D Studio Max](3D_Studio_Max "3D Studio

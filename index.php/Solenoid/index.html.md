@@ -42,7 +42,7 @@ OD) connector or is threaded for a 1/8" NPT brass fitting.
 ### Electrical input
 
 Solenoids usually have a wire leads or a propietary connector. They are
-connected to a [spike](Spike "Spike" ) for contolling.
+connected to a [spike](spike-relay) for contolling.
 
 
 ## Types

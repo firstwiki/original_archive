@@ -15,8 +15,8 @@ Index of FRC Games
   * 2009 [Lunacy](Lunacy "Lunacy" )
   * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](Aim_High "Aim High" )
-  * 2005 [Triple Play](Triple_Play "Triple Play" )
+  * 2006 [Aim High](aim-high)
+  * 2005 [Triple Play](triple-play)
   * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
   * 2002 [Zone Zeal](Zone_Zeal "Zone Zeal" )
@@ -38,7 +38,7 @@ Competition](FIRST_Robotics_Competition "FIRST Robotics
 Competition" ).
 
 Each year the game is structurally different from previous years in remarkable
-ways. [FIRST](FIRST "FIRST" ) strives to present a visually
+ways. [FIRST](first) strives to present a visually
 stimulating game for spectators, a game interesting for the participants,
 challenging for [veteran teams](Veteran_teams "Veteran teams" ),
 yet accessible to [rookie teams](Rookie_teams "Rookie teams" ).
@@ -47,7 +47,7 @@ innovations; features such as [autonomous mode](Autonomous_mode
 "Autonomous mode" ), the bins of [Stack Attack](Stack_Attack "Stack
 Attack" ), and the stairs in [FIRST Frenzy: Raising the
 Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
-) show just how clever [FIRST](FIRST "FIRST" ) can be.
+) show just how clever [FIRST](first) can be.
 
 
 ## The Game
@@ -70,7 +70,7 @@ occasionally a third period within the last main period.
 ## Kickoff
 
 Each year in early January, [kickoffs](Kickoff "Kickoff" ) are held
-nationwide as [FIRST](FIRST "FIRST" ) releases the design of the
+nationwide as [FIRST](first) releases the design of the
 current year's game. This begins what is known as the [build
 season](Build_season "Build season" ) and the six week countdown
 clock until the robot must be shipped begins.

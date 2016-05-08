@@ -82,7 +82,7 @@ turning, its inertia will always want to continue turning even after the
 motors have stopped. This results in a robot that is extremely difficult to
 control using basic control methods - it is a rare casterbot that can drive in
 a straight line without the use of internal [sensors](Sensor
-"Sensor" ) or [gyros](Gyro "Gyro" ). Furthermore, the unpowered
+"Sensor" ) or [gyros](gyro). Furthermore, the unpowered
 surfaces in contact with the floor detract from available pushing power, and
 significantly lower a robot's ability to maintain its position when hit.
 
@@ -97,7 +97,7 @@ its rate of turn, making it more controllable (helpful, but not necessary).
 ### Four Wheel Drive
 
 The _four wheel drive_ system is probably the most common drivetrain used in
-[FIRST](FIRST "FIRST" ). It offers a number of advantages and
+[FIRST](first). It offers a number of advantages and
 disadvantages over the more basic two wheel drive. With the addition of two
 extra driven wheels, a four wheel drive robot has more traction and control
 over a two wheel drive robot. The trade-off is the increased wheel base can
@@ -192,7 +192,7 @@ bot](/media/0/09/2047_holonomic.jpg "2047 holonomic.jpg" ).
 [1418's](1418 "1418" ) 2007 holonomic drive in action. Note the
 slight listing when the chassis is supposed to be driving straight; this was
 caused by asymmetries in the power outputs of the [Victor speed
-controllers](Victor_884 "Victor 884" ). This problem was
+controllers](victor-884). This problem was
 successfully fixed by using a lookup table to force individual joystick
 positions to map to a linear set of power outputs.
 

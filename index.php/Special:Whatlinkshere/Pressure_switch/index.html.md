@@ -24,7 +24,7 @@ View (previous 50) (next 50)
 "Special:Whatlinkshere/Pressure switch" )).
 
   * [Pneumatics](Pneumatics "Pneumatics" )
-  * [Sensor](Sensor "Sensor" )
+  * [Sensor](sensor)
   * [Solenoid](Solenoid "Solenoid" )
   * [Cylinder](Cylinder "Cylinder" )
   * [Compressor](Compressor "Compressor" )

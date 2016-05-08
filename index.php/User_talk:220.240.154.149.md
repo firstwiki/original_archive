@@ -5,7 +5,7 @@
 Jump to: navigation, search
 
 Welcome to **[FIRSTwiki](FIRSTwiki "FIRSTwiki" )**, the
-[FIRST](FIRST "FIRST" ) Wiki! You don't have to [log
+[FIRST](first) Wiki! You don't have to [log
 in](Special:Userlogin "Special:Userlogin" ) to read or edit
 articles on FIRSTwiki, but creating an account is quick, free and non-
 intrusive, requires no personal information, and gives you many benefits,

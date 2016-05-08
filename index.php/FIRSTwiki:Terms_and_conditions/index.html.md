@@ -27,7 +27,7 @@ at your own risk.
 
 This wiki is not created by [FIRST](http://www.usfirst.org
 "http://www.usfirst.org" ) (that is the official website, the unofficial
-article is [here](FIRST "FIRST" )) or any team within it. FIRST is
+article is [here](first)) or any team within it. FIRST is
 therefore not responsible for content contained within this wiki.
 
 Although [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) hosts this site,

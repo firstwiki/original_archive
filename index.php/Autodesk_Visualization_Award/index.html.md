@@ -6,7 +6,7 @@ Jump to: navigation, search
 
 The **Autodesk Visualization Award** is an award given to the
 [team](Team "Team" ) that creates the best 30-second animation
-about the spirit of [FIRST](FIRST "FIRST" ) using Autodesk [3ds
+about the spirit of [FIRST](first) using Autodesk [3ds
 max](3ds_max "3ds max" ).
 
 ## Contents
@@ -34,7 +34,7 @@ the regional events advance to [The Championship
 Event](The_Championship_Event "The Championship Event" ). At the
 Championship level, the animations are judged by a panel of 3D graphics
 experts, including Ted Boardman, and engineers associated with
-[FIRST](FIRST "FIRST" ).
+[FIRST](first).
 
 One winning entry is recognized at each regional competition, and the winners
 proceed to be judged at the Championship. The Championship Autodesk
@@ -64,17 +64,17 @@ incorporated.pdf" ))
 
 "Judges will look for distinction in the use of design and animation to
 illustrate and communicate a clearly defined message of what
-[FIRST](FIRST "FIRST" ) means to your team. Your entry will be
+[FIRST](first) means to your team. Your entry will be
 measured in terms of how well your team identifies and executes on a concept
 and organizes the content for your 30-second story. Also measured is how well
 your animation follows your storyboard. Drawing from your team members, your
 school and corporate partnership, your community involvement and/or your
 robot, identify and illustrate a specific aspect of what
-[FIRST](FIRST "FIRST" ) means to your team. Some examples of
-appealing aspects of [FIRST](FIRST "FIRST" ): mentorship,
+[FIRST](first) means to your team. Some examples of
+appealing aspects of [FIRST](first): mentorship,
 collaboration, leadership and/or community... your animation should be an
 informative and clearly focused 30-second spot that supports your message of
-what [FIRST](FIRST "FIRST" ) means to your team. Your entry will be
+what [FIRST](first) means to your team. Your entry will be
 judged on how well your animation visually illustrates this written
 statement."
 
@@ -86,8 +86,8 @@ your entry visually exciting, ar striking and memorable. The challenge is to
 create a compelling, creative and distinctive spot – one that stands out from
 the rest. Think of what you are producing as being a 30-second “spot” that
 might be intended for use on national television to inform viewers in an
-exciting and creative way about [FIRST](FIRST "FIRST" ) and the
-benefits of the [FIRST](FIRST "FIRST" ) experience."
+exciting and creative way about [FIRST](first) and the
+benefits of the [FIRST](first) experience."
 
 [[edit](/index.php?title=Autodesk_Visualization_Award&action=edit&section=5
 "Edit section: Technical Execution \(30%\)" )]

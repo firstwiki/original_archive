@@ -4,9 +4,9 @@
 
 Jump to: navigation, search
 
-**The Unsung [FIRST](FIRST "FIRST" ) Hero Award (UFH)** was created by [Amanda Morrison](User:Amanda_Morrison "User:Amanda Morrison" ), [Amanda Aldridge](/index.php?title=Amanda_Aldridge&action=edit "Amanda Aldridge" ), and Josh Hambright, members of the [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) community, to recognize exceptional individuals who have contributed greatly to the success of [FIRST](FIRST "FIRST" ) but have largely gone unnoticed in official [awards](Awards "Awards" ) ceremonies, like the [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award" ). 
+**The Unsung [FIRST](first) Hero Award (UFH)** was created by [Amanda Morrison](User:Amanda_Morrison "User:Amanda Morrison" ), [Amanda Aldridge](/index.php?title=Amanda_Aldridge&action=edit "Amanda Aldridge" ), and Josh Hambright, members of the [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) community, to recognize exceptional individuals who have contributed greatly to the success of [FIRST](first) but have largely gone unnoticed in official [awards](Awards "Awards" ) ceremonies, like the [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award" ). 
 
-[FIRST](FIRST "FIRST" ) community members who have already received
+[FIRST](first) community members who have already received
 a [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers
 Award" ), either nationally or regionally are not eligible for the Unsung
 FIRST Heroes award in the future.

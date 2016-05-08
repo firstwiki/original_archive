@@ -15,7 +15,7 @@ Index of FRC Games
   * 2009 [Lunacy](Lunacy "Lunacy" )
   * 2008 [FIRST Overdrive](FIRST_Overdrive "FIRST Overdrive" )
   * 2007 [Rack 'n' Roll](Rack_%27n%27_Roll "Rack 'n' Roll" )
-  * 2006 [Aim High](Aim_High "Aim High" )
+  * 2006 [Aim High](aim-high)
   * 2005 **Triple Play**
   * 2004 [FIRST Frenzy: Raising the Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" )
   * 2003 [Stack Attack](Stack_Attack "Stack Attack" )
@@ -62,7 +62,7 @@ of the field at the end of the game.
 
 ## New Features
 
-[FIRST](FIRST "FIRST" ) introduced several new items in 2005:
+[FIRST](first) introduced several new items in 2005:
 
   * The [CMUcam2](CMUcam2 "CMUcam2" ) vision system. [[1]](http://www-2.cs.cmu.edu/~cmucam2/ "http://www-2.cs.cmu.edu/~cmucam2/" )
   * An [autonomous scripting](/index.php?title=Autonomous_scripting&action=edit "Autonomous scripting" ) system (written by [Kevin Watson](Kevin_Watson "Kevin Watson" )). 

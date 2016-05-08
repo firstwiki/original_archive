@@ -12,7 +12,7 @@ engineering and engineers, both within their school and their community.
 Criteria include: the extent and inventiveness of the team’s efforts to
 recruit students to engineering, the extent and effectiveness of the team’s
 community outreach efforts, and the measurable success of those efforts. This
-is the second highest team award [FIRST](FIRST "FIRST" ) bestows.
+is the second highest team award [FIRST](first) bestows.
 
 Unlike the [Chairman's Award](Chairman%27s_Award "Chairman's Award"
 ), the Engineering Inspiration Award has no formal submission nor presentation
