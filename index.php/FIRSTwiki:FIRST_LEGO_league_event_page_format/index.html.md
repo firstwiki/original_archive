@@ -1,76 +1,67 @@
 # FIRSTwiki:FIRST LEGO league event page format
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats
-"FIRSTwiki:Page formats" ). Please use it when appropriate._
+_This is an [FIRSTwiki Official Page Format](FIRSTwiki:Page_formats "FIRSTwiki:Page formats"). Please use it when appropriate._
 
 _You can insert this by placing {{subst:format/FLL event}}, and saving._
 
-**Remember!** \- Add to the following categories as needed for the event type  
-[[Category:FLL Events]] (All should go here)  
-[[Category:FLL State Tournaments]]  
-[[Category:FLL Qualifying Tournaments]]  
-[[Category:FLL Local Tournaments]]  
+**Remember!** - Add to the following categories as needed for the event type<br>
+[[Category:FLL Events]] (All should go here)<br>
+[[Category:FLL State Tournaments]]<br>
+[[Category:FLL Qualifying Tournaments]]<br>
+[[Category:FLL Local Tournaments]]
 
-* * *
+--------------------------------------------------------------------------------
 
 ## Contents
 
-  * 1 Details
-  * 2 Qualification Criteria - include section if applies
-  * 3 How to Register
-  * 4 History
-  * 5 Results  
----  
-  
+- 1 Details
+- 2 Qualification Criteria - include section if applies
+- 3 How to Register
+- 4 History
+- 5 Results
+
+--------------------------------------------------------------------------------
 
 ## Details
 
-  * **Established:** _Year (Theme)_
-  * **Current Location: **
-  * **Primary Sponsors:**
-  * **Number of Teams Supported:**
-  * **Event Type:** [State Tournament](FLL_State_Tournament "FLL State Tournament" ), [FLL Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament" ), [FLL Local Tournament](FLL_Local_Tournament "FLL Local Tournament" ), or [FLL Regional Tournament](FLL_Regional_Tournament "FLL Regional Tournament" ) (mostly for non-US FLLers) 
-  * **Official web site for tournament:**
-  * **Contact:**
-  * **FIRST Team Sponsors/Hosts:**
+- **Established:** _Year (Theme)_
+- **Current Location:** 
+- **Primary Sponsors:**
+- **Number of Teams Supported:**
+- **Event Type:** [State Tournament](FLL_State_Tournament "FLL State Tournament"), [FLL Qualifying Tournament](FLL_Qualifying_Tournament "FLL Qualifying Tournament"), [FLL Local Tournament](FLL_Local_Tournament "FLL Local Tournament"), or [FLL Regional Tournament](FLL_Regional_Tournament "FLL Regional Tournament") (mostly for non-US FLLers)
+- **Official web site for tournament:**
+- **Contact:**
+- **FIRST Team Sponsors/Hosts:**
 
 [[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_event_page_format&action=
 edit&section=2 "Edit section: Qualification Criteria - include section if
-applies" )]
+applies")]
 
-## Qualification Criteria _\- include section if applies_
+## Qualification Criteria _- include section if applies_
 
-Lottery Only, Qualifying Tournament Required (if so how is advancement
-determined), something else (perhaps a hybrid) **EXAMPLE - DELETE OR MODIFY**
-To qualify for this State Tournament you must first attend one of five
-regional tournaments held around the state. Winners of one of these awards
-(Directors, Performance, Research Project, Teamwork, Team Spirit) are eligible
-to advance.
+Lottery Only, Qualifying Tournament Required (if so how is advancement determined), something else (perhaps a hybrid) **EXAMPLE - DELETE OR MODIFY** To qualify for this State Tournament you must first attend one of five regional tournaments held around the state. Winners of one of these awards (Directors, Performance, Research Project, Teamwork, Team Spirit) are eligible to advance.
 
 [[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_event_page_format&action=
-edit&section=3 "Edit section: How to Register" )]
+edit&section=3 "Edit section: How to Register")]
 
 ## How to Register
 
-Example: Registration is through the First Lego League Website and usually
-starts October 1.
+Example: Registration is through the First Lego League Website and usually starts October 1.
 
 [[edit](/index.php?title=FIRSTwiki:FIRST_LEGO_league_event_page_format&action=
-edit&section=4 "Edit section: History" )]
+edit&section=4 "Edit section: History")]
 
 ## History
 
 **Suggest a narrative description of history and highlights.**
 
-
 ## Results
 
-  * Current Year Results Link 
-  * Prior Year Results Link 
-  * Prior Prior Year Results Link 
-  * Etc. 
-
+- Current Year Results Link
+- Prior Year Results Link
+- Prior Prior Year Results Link
+- Etc.

@@ -1,134 +1,120 @@
 # Resources for C programming
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-**C programming** is used when [programming](Programming "Programming" ) the [Robot Controller](robot-controller). Learning [how to program](How-to#Programming "How-to" ) is an important part of the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition" ), and this page attempts to bring together diverse resources to aid in this process. The following should be used as a tutorial or reference, and comments or questions regarding programming (directly related to FIRST) should be directed to [ChiefDelphi's](ChiefDelphi "ChiefDelphi" ) [programming forums](http://www.chiefdelphi.com/forums/forumdisplay.php?f=51 "http://www.chiefdelphi.com/forums/forumdisplay.php?f=51" ). 
-
-  
+**C programming** is used when [programming](Programming "Programming") the [Robot Controller](robot-controller). Learning [how to program](How-to#Programming "How-to") is an important part of the [FIRST Robotics Competition](FIRST_Robotics_Competition "FIRST Robotics Competition"), and this page attempts to bring together diverse resources to aid in this process. The following should be used as a tutorial or reference, and comments or questions regarding programming (directly related to FIRST) should be directed to [ChiefDelphi's](ChiefDelphi "ChiefDelphi") [programming forums](http://www.chiefdelphi.com/forums/forumdisplay.php?f=51 "http://www.chiefdelphi.com/forums/forumdisplay.php?f=51").
 
 ## Contents
 
-  * 1 FIRST specific resources
-  * 2 PIC specific resources
-  * 3 General C Internet sites
-    * 3.1 Tutorial
-    * 3.2 Reference
-  * 4 Books
-    * 4.1 Beginner
-    * 4.2 Intermediate
-    * 4.3 Reference  
----  
-  
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=1
-"Edit section: FIRST specific resources" )]
+- 1 FIRST specific resources
+- 2 PIC specific resources
+- 3 General C Internet sites
+
+  - 3.1 Tutorial
+  - 3.2 Reference
+
+- 4 Books
+
+  - 4.1 Beginner
+  - 4.2 Intermediate
+  - 4.3 Reference
+
+--------------------------------------------------------------------------------
+
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=1 "Edit section: FIRST specific resources")]
 
 ## FIRST specific resources
 
-  * [Robot Builder](http://www.rec.ri.cmu.edu/education/robot_builder/ "http://www.rec.ri.cmu.edu/education/robot_builder/" ) is an interactive introductory tutorial offered by Carnegie Mellon for FIRST teams. It is specifically for the [Robovation](EDU_Bot_%282004%29 "EDU Bot \(2004\)" ) (formerly EduBot {trademarked}), but is very relevent to the general RC. 
-  * The [C Programming Resource Library](http://www.usfirst.org/robotics/C_help.htm "http://www.usfirst.org/robotics/C_help.htm" ), offered by FIRST, is an exhaustive introduction to C programming specifically geared toward its use in the FIRST Robotics Competition. It contains five modules, offered as power point presentations. 
-  * The [documentation pages](http://www.innovationfirst.com/FIRSTRobotics/documentation.htm "http://www.innovationfirst.com/FIRSTRobotics/documentation.htm" ) at [InnovationFIRST](InnovationFIRST "InnovationFIRST" ) provide a useful resource for the default code, white papers, and, most importantly perhaps, the manuals and reference guides for the current year's [control system](Control_system "Control system" ). 
-  * The [programming white papers](http://www.chiefdelphi.com/forums/papers.php?s=&categoryid=6&perpage=10&direction=DESC&sort=date "http://www.chiefdelphi.com/forums/papers.php?s=&categoryid=6&perpage=10&direction=DESC&sort=date" ) at [ChiefDelphi](ChiefDelphi "ChiefDelphi" ) offer a useful source of periodically updated information. Available are many teams' descriptions of the problems they faced, and their solutions. Current topics include a GPS system based on [IR](/index.php?title=Infra-red&action=edit "Infra-red" ), use of [gyroscopes](/index.php?title=Gyroscopes&action=edit "Gyroscopes" ) in tip prevention, and an implementation of the [CORDIC algorithm](CORDIC_algorithm "CORDIC algorithm" ) (among many others). 
-  * The [IR code](http://kevin.org/frc/ "http://kevin.org/frc/" ) (and other tidbits), programmed mainly by [Kevin Watson](Kevin_Watson "Kevin Watson" ) is useful when working with [infra-red](/index.php?title=Infra-red&action=edit "Infra-red" ), or just trying to understand the new [RC](robot-controller). 
-  * The [NRG Code Repository](http://nrg.chaosnet.org/repository/ "http://nrg.chaosnet.org/repository/" ) (external link) is also a useful resource for snippets of code. It is a community effort to contribute useful program code, for use by others and for their education. See [NRG Code Repository](NRG_Code_Repository "NRG Code Repository" ) (internal link). 
+- [Robot Builder](http://www.rec.ri.cmu.edu/education/robot_builder/ "http://www.rec.ri.cmu.edu/education/robot_builder/") is an interactive introductory tutorial offered by Carnegie Mellon for FIRST teams. It is specifically for the [Robovation](EDU_Bot_%282004%29 "EDU Bot \(2004\)") (formerly EduBot {trademarked}), but is very relevent to the general RC.
+- The [C Programming Resource Library](http://www.usfirst.org/robotics/C_help.htm "http://www.usfirst.org/robotics/C_help.htm"), offered by FIRST, is an exhaustive introduction to C programming specifically geared toward its use in the FIRST Robotics Competition. It contains five modules, offered as power point presentations.
+- The [documentation pages](http://www.innovationfirst.com/FIRSTRobotics/documentation.htm "http://www.innovationfirst.com/FIRSTRobotics/documentation.htm") at [InnovationFIRST](InnovationFIRST "InnovationFIRST") provide a useful resource for the default code, white papers, and, most importantly perhaps, the manuals and reference guides for the current year's [control system](Control_system "Control system").
+- The [programming white papers](http://www.chiefdelphi.com/forums/papers.php?s=&categoryid=6&perpage=10&direction=DESC&sort=date "http://www.chiefdelphi.com/forums/papers.php?s=&categoryid=6&perpage=10&direction=DESC&sort=date") at [ChiefDelphi](ChiefDelphi "ChiefDelphi") offer a useful source of periodically updated information. Available are many teams' descriptions of the problems they faced, and their solutions. Current topics include a GPS system based on [IR](/index.php?title=Infra-red&action=edit "Infra-red"), use of [gyroscopes](/index.php?title=Gyroscopes&action=edit "Gyroscopes") in tip prevention, and an implementation of the [CORDIC algorithm](CORDIC_algorithm "CORDIC algorithm") (among many others).
+- The [IR code](http://kevin.org/frc/ "http://kevin.org/frc/") (and other tidbits), programmed mainly by [Kevin Watson](Kevin_Watson "Kevin Watson") is useful when working with [infra-red](/index.php?title=Infra-red&action=edit "Infra-red"), or just trying to understand the new [RC](robot-controller).
+- The [NRG Code Repository](http://nrg.chaosnet.org/repository/ "http://nrg.chaosnet.org/repository/") (external link) is also a useful resource for snippets of code. It is a community effort to contribute useful program code, for use by others and for their education. See [NRG Code Repository](NRG_Code_Repository "NRG Code Repository") (internal link).
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=2
-"Edit section: PIC specific resources" )]
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=2 "Edit section: PIC specific resources")]
 
 ## PIC specific resources
 
-  * [Microchip's website](http://microchip.com "http://microchip.com" ) is a good source for a lot of [PIC](PIC_C "PIC C" )-related information. For the 2004 year, [IFI](InnovationFIRST "InnovationFIRST" ) used the Microchip PIC18F8520. See the [data sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/39609b.pdf "http://ww1.microchip.com/downloads/en/DeviceDoc/39609b.pdf" ), and the [MPLAB Compiler's User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/51288c.pdf "http://ww1.microchip.com/downloads/en/DeviceDoc/51288c.pdf" ) for more specific information. 
-  * [Eric's PIC Page](http://www.brouhaha.com/~eric/pic/ "http://www.brouhaha.com/~eric/pic/" ) offers many code samples, tips, and other guidelines and resources for working with a PIC chip. 
-  * [Myke Predko](http://www.rentron.com/pic.htm "http://www.rentron.com/pic.htm" ) (of Reynold's Electronics) offers another useful PIC project page. 
-
+- [Microchip's website](http://microchip.com "http://microchip.com") is a good source for a lot of [PIC](PIC_C "PIC C")-related information. For the 2004 year, [IFI](InnovationFIRST "InnovationFIRST") used the Microchip PIC18F8520\. See the [data sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/39609b.pdf "http://ww1.microchip.com/downloads/en/DeviceDoc/39609b.pdf"), and the [MPLAB Compiler's User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/51288c.pdf "http://ww1.microchip.com/downloads/en/DeviceDoc/51288c.pdf") for more specific information.
+- [Eric's PIC Page](http://www.brouhaha.com/~eric/pic/ "http://www.brouhaha.com/~eric/pic/") offers many code samples, tips, and other guidelines and resources for working with a PIC chip.
+- [Myke Predko](http://www.rentron.com/pic.htm "http://www.rentron.com/pic.htm") (of Reynold's Electronics) offers another useful PIC project page.
 
 ## General C Internet sites
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=4
-"Edit section: Tutorial" )]
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=4 "Edit section: Tutorial")]
 
 ### Tutorial
 
-  * [C page](http://computer.howstuffworks.com/c.htm "http://computer.howstuffworks.com/c.htm" ) from How Stuff Works 
-  * [C programming notes](http://www.eskimo.com/~scs/cclass/cclass.html "http://www.eskimo.com/~scs/cclass/cclass.html" ) from a college class 
-  * [C programming tutorial](http://cplus.about.com/library/blctut.htm "http://cplus.about.com/library/blctut.htm" ) from About.com 
-
+- [C page](http://computer.howstuffworks.com/c.htm "http://computer.howstuffworks.com/c.htm") from How Stuff Works
+- [C programming notes](http://www.eskimo.com/~scs/cclass/cclass.html "http://www.eskimo.com/~scs/cclass/cclass.html") from a college class
+- [C programming tutorial](http://cplus.about.com/library/blctut.htm "http://cplus.about.com/library/blctut.htm") from About.com
 
 ### Reference
 
-  * [C programming reference](http://www.phim.unibe.ch/comp_doc/c_manual/C/cref.html "http://www.phim.unibe.ch/comp_doc/c_manual/C/cref.html" )
-  * [C library reference guide](http://www.acm.uiuc.edu/webmonkeys/book/c_guide/ "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/" )
-
-  
-
+- [C programming reference](http://www.phim.unibe.ch/comp_doc/c_manual/C/cref.html "http://www.phim.unibe.ch/comp_doc/c_manual/C/cref.html")
+- [C library reference guide](http://www.acm.uiuc.edu/webmonkeys/book/c_guide/ "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/")
 
 ## Books
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=7
-"Edit section: Beginner" )]
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=7 "Edit section: Beginner")]
 
 ### Beginner
 
-  * **Practical C Programming by Steve Oulline** \- (ISBN: 0-937175-65-X) A nutshell handbook that explains everything from the basics on up, with an emphasis on style. Complete with Examples, Programming Exercises, and questions with answers at the end of each chapter. Also covers Electronic Archeology, the art of going through someone else's program. 
-  * **Beginning C by Ivor Horton**
+- **Practical C Programming by Steve Oulline** - (ISBN: 0-937175-65-X) A nutshell handbook that explains everything from the basics on up, with an emphasis on style. Complete with Examples, Programming Exercises, and questions with answers at the end of each chapter. Also covers Electronic Archeology, the art of going through someone else's program.
+- **Beginning C by Ivor Horton**
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=8
-"Edit section: Intermediate" )]
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=8 "Edit section: Intermediate")]
 
 ### Intermediate
 
-  * **The C Programming Language by Kernighan and Ritchie** \- ([ISBN 0131103628](/index.php?title=Special:Booksources&isbn=0131103628)) A respected book, the first (and to many) the best book written on the topic. If you have programming experience already, this is the book for you. This book "assumes you understand things like _a = a + 1_ and what a variable is." 
-  * **The Experimental College C Programming Tutorial** ([Click Here](http://www.eskimo.com/~scs/cclass/ "http://www.eskimo.com/~scs/cclass/" )) - A great tutorial for intermediate and "advanced" C programmers. 
+- **The C Programming Language by Kernighan and Ritchie** - ([ISBN 0131103628](/index.php?title=Special:Booksources&isbn=0131103628)) A respected book, the first (and to many) the best book written on the topic. If you have programming experience already, this is the book for you. This book "assumes you understand things like _a = a + 1_ and what a variable is."
+- **The Experimental College C Programming Tutorial** ([Click Here](http://www.eskimo.com/~scs/cclass/ "http://www.eskimo.com/~scs/cclass/")) - A great tutorial for intermediate and "advanced" C programmers.
 
-[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=9
-"Edit section: Reference" )]
+[[edit](/index.php?title=Resources_for_C_programming&action=edit&section=9 "Edit section: Reference")]
 
 ### Reference
 
-Retrieved from
-"<http://www.firstwiki.netResources_for_C_programming>"
+Retrieved from "<http://www.firstwiki.netResources_for_C_programming>"
 
 [Categories](/index.php?title=Special:Categories&article=Resources_for_C_progr
-amming "Special:Categories" ): [Programming](Category:Programming
-"Category:Programming" ) | [Featured
-articles](Category:Featured_articles "Category:Featured articles" )
+amming "Special:Categories"): [Programming](Category:Programming "Category:Programming") | [Featured articles](Category:Featured_articles "Category:Featured articles")
 
-##### Views
+#### Views
 
-  * [Article](Resources_for_C_programming)
-  * [Discussion](Talk:Resources_for_C_programming)
-  * [Edit](/index.php?title=Resources_for_C_programming&action=edit)
-  * [History](/index.php?title=Resources_for_C_programming&action=history)
+- [Article](Resources_for_C_programming)
+- [Discussion](Talk:Resources_for_C_programming)
+- [Edit](/index.php?title=Resources_for_C_programming&action=edit)
+- [History](/index.php?title=Resources_for_C_programming&action=history)
 
-##### Personal tools
+#### Personal tools
 
-  * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Resources_for_C_programming)
+- [Log in / create account](/index.php?title=Special:Userlogin&returnto=Resources_for_C_programming)
 
-[](Main_Page "Main Page" )
+[](Main_Page "Main Page")
 
-##### Navigation
+#### Navigation
 
-  * [Main Page](Main_Page)
-  * [Community portal](FIRSTwiki:Community_portal)
-  * [Current events](Current_events)
-  * [Recent changes](Special:Recentchanges)
-  * [Random page](Special:Random)
-  * [Help](Help:Contents)
-  * [Donations](FIRSTwiki:Site_support)
+- [Main Page](Main_Page)
+- [Community portal](FIRSTwiki:Community_portal)
+- [Current events](Current_events)
+- [Recent changes](Special:Recentchanges)
+- [Random page](Special:Random)
+- [Help](Help:Contents)
+- [Donations](FIRSTwiki:Site_support)
 
-##### Search
+#### Search
 
+#### Toolbox
 
-
-##### Toolbox
-
-  * [What links here](Special:Whatlinkshere/Resources_for_C_programming)
-  * [Related changes](Special:Recentchangeslinked/Resources_for_C_programming)
-  * [Upload file](Special:Upload)
-  * [Special pages](Special:Specialpages)
-  * [Printable version](/index.php?title=Resources_for_C_programming&printable=yes)
-  * [Permanent link](/index.php?title=Resources_for_C_programming&oldid=41886)
+- [What links here](Special:Whatlinkshere/Resources_for_C_programming)
+- [Related changes](Special:Recentchangeslinked/Resources_for_C_programming)
+- [Upload file](Special:Upload)
+- [Special pages](Special:Specialpages)
+- [Printable version](/index.php?title=Resources_for_C_programming&printable=yes)
+- [Permanent link](/index.php?title=Resources_for_C_programming&oldid=41886)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -136,10 +122,9 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * This page was last modified 00:18, 28 December 2005.
-  * This page has been accessed 7,127 times.
-  * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
-
+- This page was last modified 00:18, 28 December 2005.
+- This page has been accessed 7,127 times.
+- Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html").
+- [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy")
+- [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About")
+- [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions")

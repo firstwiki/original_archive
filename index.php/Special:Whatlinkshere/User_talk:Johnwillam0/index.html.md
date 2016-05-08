@@ -1,16 +1,12 @@
-
-
 # User talk:Johnwillam0
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User
-talk:Johnwillam0](/index.php?title=User_talk:Johnwillam0&redirect=no "User
-talk:Johnwillam0" )  
+< [User talk:Johnwillam0](/index.php?title=User_talk:Johnwillam0&redirect=no "User
+talk:Johnwillam0")
 
 No pages link to here.
-

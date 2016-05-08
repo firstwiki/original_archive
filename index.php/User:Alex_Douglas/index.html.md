@@ -1,8 +1,5 @@
-
-
 # User:Alex Douglas
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
-

@@ -1,16 +1,13 @@
-
-
 # Natural home remedies For Skin mole Removal
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Natural home remedies For Skin mole Removal](/index.php?title=Natural_ho
+< [Natural home remedies For Skin mole Removal](/index.php?title=Natural_ho
 me_remedies_For_Skin_mole_Removal&redirect=no "Natural home remedies For Skin
-mole Removal" )  
+mole Removal")
 
 No pages link to here.
-

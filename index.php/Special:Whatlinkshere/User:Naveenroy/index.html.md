@@ -1,15 +1,11 @@
-
-
 # User:Naveenroy
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User:Naveenroy](/index.php?title=User:Naveenroy&action=edit&redirect=no
-"User:Naveenroy" )  
+< [User:Naveenroy](/index.php?title=User:Naveenroy&action=edit&redirect=no "User:Naveenroy")
 
 No pages link to here.
-

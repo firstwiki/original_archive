@@ -1,13 +1,11 @@
 # Talk:Scouting
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Talk:Scouting](/index.php?title=Talk:Scouting&redirect=no
-"Talk:Scouting" )  
+< [Talk:Scouting](/index.php?title=Talk:Scouting&redirect=no "Talk:Scouting")
 
 No pages link to here.
-

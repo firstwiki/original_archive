@@ -1,394 +1,332 @@
-
-
 # 148
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-Robowranglers  
----  
-  
+## Robowranglers
+
 [![Logo](/media/thumb/2/2b/148_logo.jpg/180px-
-148_logo.jpg)](Image:148_logo.jpg "Logo" )  
-  
-Rookie Year: | 1992  
-Inactive Years: | {{{inactive}}}  
-Location: | Greenville, TX  
-School: | Greenville High School  
-Approx. size: | 30  
-Team Website: | <http://www.robowranglers.com/>  
-  
-[Team Info](http://frclinks.appspot.com/t/148
-"http://frclinks.appspot.com/t/148" ) · [TBA
-page](http://www.thebluealliance.com/team/148
-"http://www.thebluealliance.com/team/148" ) · [CD
-pics](http://www.chiefdelphi.com/media/photos/tags/frc148
-"http://www.chiefdelphi.com/media/photos/tags/frc148" )  
-  
+148_logo.jpg)](Image:148_logo.jpg "Logo")
+
+Rookie Year: | 1992<br>
+Inactive Years: | {{{inactive}}}<br>
+Location: | Greenville, TX<br>
+School: | Greenville High School<br>
+Approx. size: | 30<br>
+Team Website: | <http://www.robowranglers.com/>
+
+[Team Info](http://frclinks.appspot.com/t/148 "http://frclinks.appspot.com/t/148") · [TBA page](http://www.thebluealliance.com/team/148 "http://www.thebluealliance.com/team/148") · [CD pics](http://www.chiefdelphi.com/media/photos/tags/frc148 "http://www.chiefdelphi.com/media/photos/tags/frc148")
+
 ## Contents
 
-  * 1 History
-  * 2 Awards
-  * 3 Sponsors
-  * 4 Members List
-    * 4.1 Coaches
-    * 4.2 Mentors
-    * 4.3 Students
-    * 4.4 Alumni  
----  
-  
+- 1 History
+- 2 Awards
+- 3 Sponsors
+- 4 Members List
+
+  - 4.1 Coaches
+  - 4.2 Mentors
+  - 4.3 Students
+  - 4.4 Alumni
+
+--------------------------------------------------------------------------------
 
 ## History
 
-E-Systems Greenville Division first participated in the FIRST Robotics
-Competition in 1992 with Dallas Christian School. In 1994, E-Systems
-Greenville Division teamed up with Dallas Christian School and for the first
-time with Greenville High School. Since 1995, E-Systems Greenville Division
-has teamed up with Greenville High School each year to participate in the
-FIRST Robotics Competition. E-Systems Greenville Division became known as
-Raytheon E-Systems in 1997 and later Raytheon Integrated Systems. In 2002, the
-company changed its name to L-3 Communications Integrated Systems.
-RackSolutions.com, a division of Innovation First, Inc., became a corporate
-sponsor in 2007.
-
+E-Systems Greenville Division first participated in the FIRST Robotics Competition in 1992 with Dallas Christian School. In 1994, E-Systems Greenville Division teamed up with Dallas Christian School and for the first time with Greenville High School. Since 1995, E-Systems Greenville Division has teamed up with Greenville High School each year to participate in the FIRST Robotics Competition. E-Systems Greenville Division became known as Raytheon E-Systems in 1997 and later Raytheon Integrated Systems. In 2002, the company changed its name to L-3 Communications Integrated Systems. RackSolutions.com, a division of Innovation First, Inc., became a corporate sponsor in 2007.
 
 ## Awards
 
-  * 1993 E-Systems/Dallas Christian National Champions ([National Championship](National_Championship "National Championship" )) 
-  * 1994 E-Systems Best Play of the Day ([National Championship](National_Championship "National Championship" )) 
-  * 1995 Oustanding Defense ([National Championship](National_Championship "National Championship" )) 
-  * 1996 Chairman's Award Finalist ([National Championship](National_Championship "National Championship" )) 
-  * 1997 Procter &amp; Gamble Creativity Award (Motorola Midwest Regional) 
-  * 1997 Outstanding Defense ([National Championship](National_Championship "National Championship" )) 
-  * 1997 Chairman's Award Finalist ([National Championship](National_Championship "National Championship" )) 
-  * 1998 Best Play of the Day (Southwest Regional) 
-  * 1998 Featherweight in the Finals (Southwest Regional) 
-  * 2001 Regional Champion ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2001 Leadership in Control Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2001 Incredible Play Award ([National Championship](National_Championship "National Championship" )) 
-  * 2001 Awesome Cart Award Presented by Team #27 ([National Championship](National_Championship "National Championship" )) 
-  * 2001 Best Crate/Cart Award Presented by Team #5 ([National Championship](National_Championship "National Championship" )) 
-  * 2002 Chairman's Award Winner ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2003 GM Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2003 Xerox Creativity Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2004 Regional Finalist ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2004 Website Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2005 Website Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2006 Delphi "Driving Tomorrow's Technology" Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2006 Website Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2007 Regional Finalist ([St. Louis Regional](St._Louis_Regional "St. Louis Regional" )) 
-  * 2007 Xerox Creativity Award ([St. Louis Regional](St._Louis_Regional "St. Louis Regional" )) 
-  * 2007 GM Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2008 Regional Winner ([St. Louis Regional](St._Louis_Regional "St. Louis Regional" )) 
-  * 2008 Rockwell Automation Innovation in Control Award ([St. Louis Regional](St._Louis_Regional "St. Louis Regional" )) 
-  * 2008 Regional Finalist ([Bayou Regional](Bayou_Regional "Bayou Regional" )) 
-  * 2008 Woodie Flowers Award presented to JVN ([Bayou Regional](Bayou_Regional "Bayou Regional" )) 
-  * 2008 Delphi "Driving Tomorrow's Technology" Award ([Bayou Regional](Bayou_Regional "Bayou Regional" )) 
-  * 2008 Galileo Division Winner ([Championship](National_Championship "National Championship" )) 
-  * 2008 Winner ([Championship](National_Championship "National Championship" )) 
-  * 2009 Regional Winner ([Dallas Regional](Dallas_Regional "Dallas Regional" )) 
-  * 2009 Motorola Quality Award ([Dallas Regional](Dallas_Regional "Dallas Regional" )) 
-  * 2009 General Motors Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2010 Regional Winner ([Dallas Regional](Dallas_Regional "Dallas Regional" )) 
-  * 2010 Motorola Quality Award ([Dallas Regional](Dallas_Regional "Dallas Regional" )) 
-  * 2010 Coopertition Award ([Dallas Regional](Dallas_Regional "Dallas Regional" )) 
-  * 2010 Regional Winner ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2010 Xerox Creativity Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2010 Coopertition Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional" )) 
-  * 2010 Archimedes Division Finalist ([Championship](National_Championship "National Championship" )) 
-
+- 1993 E-Systems/Dallas Christian National Champions ([National Championship](National_Championship "National Championship"))
+- 1994 E-Systems Best Play of the Day ([National Championship](National_Championship "National Championship"))
+- 1995 Oustanding Defense ([National Championship](National_Championship "National Championship"))
+- 1996 Chairman's Award Finalist ([National Championship](National_Championship "National Championship"))
+- 1997 Procter & Gamble Creativity Award (Motorola Midwest Regional)
+- 1997 Outstanding Defense ([National Championship](National_Championship "National Championship"))
+- 1997 Chairman's Award Finalist ([National Championship](National_Championship "National Championship"))
+- 1998 Best Play of the Day (Southwest Regional)
+- 1998 Featherweight in the Finals (Southwest Regional)
+- 2001 Regional Champion ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2001 Leadership in Control Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2001 Incredible Play Award ([National Championship](National_Championship "National Championship"))
+- 2001 Awesome Cart Award Presented by Team #27 ([National Championship](National_Championship "National Championship"))
+- 2001 Best Crate/Cart Award Presented by Team #5 ([National Championship](National_Championship "National Championship"))
+- 2002 Chairman's Award Winner ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2003 GM Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2003 Xerox Creativity Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2004 Regional Finalist ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2004 Website Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2005 Website Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2006 Delphi "Driving Tomorrow's Technology" Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2006 Website Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2007 Regional Finalist ([St. Louis Regional](St._Louis_Regional "St. Louis Regional"))
+- 2007 Xerox Creativity Award ([St. Louis Regional](St._Louis_Regional "St. Louis Regional"))
+- 2007 GM Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2008 Regional Winner ([St. Louis Regional](St._Louis_Regional "St. Louis Regional"))
+- 2008 Rockwell Automation Innovation in Control Award ([St. Louis Regional](St._Louis_Regional "St. Louis Regional"))
+- 2008 Regional Finalist ([Bayou Regional](Bayou_Regional "Bayou Regional"))
+- 2008 Woodie Flowers Award presented to JVN ([Bayou Regional](Bayou_Regional "Bayou Regional"))
+- 2008 Delphi "Driving Tomorrow's Technology" Award ([Bayou Regional](Bayou_Regional "Bayou Regional"))
+- 2008 Galileo Division Winner ([Championship](National_Championship "National Championship"))
+- 2008 Winner ([Championship](National_Championship "National Championship"))
+- 2009 Regional Winner ([Dallas Regional](Dallas_Regional "Dallas Regional"))
+- 2009 Motorola Quality Award ([Dallas Regional](Dallas_Regional "Dallas Regional"))
+- 2009 General Motors Industrial Design Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2010 Regional Winner ([Dallas Regional](Dallas_Regional "Dallas Regional"))
+- 2010 Motorola Quality Award ([Dallas Regional](Dallas_Regional "Dallas Regional"))
+- 2010 Coopertition Award ([Dallas Regional](Dallas_Regional "Dallas Regional"))
+- 2010 Regional Winner ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2010 Xerox Creativity Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2010 Coopertition Award ([Lone Star Regional](Lone_Star_Regional "Lone Star Regional"))
+- 2010 Archimedes Division Finalist ([Championship](National_Championship "National Championship"))
 
 ## Sponsors
 
-  * [Innovation First, Inc.](http://www.innovationfirst.com/ "http://www.innovationfirst.com/" )
-  * [L-3 Communications Integrated Systems](http://www.l-3com.com/is/ "http://www.l-3com.com/is/" )
-  * [Greenville ISD](http://www.greenvilleisd.com/ "http://www.greenvilleisd.com/" )
-
+- [Innovation First, Inc.](http://www.innovationfirst.com/ "http://www.innovationfirst.com/")
+- [L-3 Communications Integrated Systems](http://www.l-3com.com/is/ "http://www.l-3com.com/is/")
+- [Greenville ISD](http://www.greenvilleisd.com/ "http://www.greenvilleisd.com/")
 
 ## Members List
 
-
 ### Coaches
 
-  * Adrienne Emerson (2010-Present) 
-  * George Kroncke (2010-Present) 
-  * Vanessa Pope (1994-2008) 
-  * Terri Galloway (1999-2006) 
-  * Van LeJeune (2000-2001) 
-  * Johnny Tharp (2005-2009) 
-
+- Adrienne Emerson (2010-Present)
+- George Kroncke (2010-Present)
+- Vanessa Pope (1994-2008)
+- Terri Galloway (1999-2006)
+- Van LeJeune (2000-2001)
+- Johnny Tharp (2005-2009)
 
 ### Mentors
 
-  * John Hodapp (1992-Present) 
-  * Steve Maxwell (1997-Present) 
-  * Ricky Torrance (1997-Present) 
-  * Monty Wineinger (1998-Present) 
-  * Chris Follett (2004-Present) 
-  * Ken Stroud (2006-Present) 
-  * JVN (2006-2011) 
-  * Brandon Martus (2007-Present) 
-  * Kevin Morris (2007-Present) 
-  * Corey Chitwood (2008-Present) 
-  * Jim Francis (2009-Present) 
-  * Chris Horne (2009-Present) 
-  * Vanessa Pope (2009-Present) 
-  * John Yznaga (2009-Present) 
-  * Armando Corrales (2010-Present) 
-  * Paul Copioli (2010-Present) 
-  * Joe Maher (2010-Present) 
-  * Ricky Quinones (2010-Present) 
-  * Bob Mimlitch (1992-1997) 
-  * David Mimlitch (1992-1997) 
-  * Tony Norman (1992-1997) 
-  * James Collier (2000-2004) 
-  * Brad Marcum (2000-2003, 2005-2006) 
-  * Hector Arce (2001-2002) 
-  * Tom Cloutier (2001, 2003-2004) 
-  * Steve Lindo (2001-2004) 
-  * Casey Welch (2001-2009) 
-  * Adam Davies (2002-2006) 
-  * David Maxwell (2003) 
-  * Brenda Morris (2003-2006) 
-  * Mike Owens (2003) 
-  * Adam Reppond (2003-2009) 
-  * Ray Upp (2003-2004, 2006) 
-  * Mike Waggoner (2003-2004, 2006) 
-  * Gabe Cook (2005) 
-  * Dan Newell (2006) 
-  * Kevin Rodgers (2006-2008) 
-  * Kevin Tipps (2006) 
-  * Chris Carnevale (2007) 
-  * Ben Koski (2007) 
-  * Amanda Morrison (2008) 
-
+- John Hodapp (1992-Present)
+- Steve Maxwell (1997-Present)
+- Ricky Torrance (1997-Present)
+- Monty Wineinger (1998-Present)
+- Chris Follett (2004-Present)
+- Ken Stroud (2006-Present)
+- JVN (2006-2011)
+- Brandon Martus (2007-Present)
+- Kevin Morris (2007-Present)
+- Corey Chitwood (2008-Present)
+- Jim Francis (2009-Present)
+- Chris Horne (2009-Present)
+- Vanessa Pope (2009-Present)
+- John Yznaga (2009-Present)
+- Armando Corrales (2010-Present)
+- Paul Copioli (2010-Present)
+- Joe Maher (2010-Present)
+- Ricky Quinones (2010-Present)
+- Bob Mimlitch (1992-1997)
+- David Mimlitch (1992-1997)
+- Tony Norman (1992-1997)
+- James Collier (2000-2004)
+- Brad Marcum (2000-2003, 2005-2006)
+- Hector Arce (2001-2002)
+- Tom Cloutier (2001, 2003-2004)
+- Steve Lindo (2001-2004)
+- Casey Welch (2001-2009)
+- Adam Davies (2002-2006)
+- David Maxwell (2003)
+- Brenda Morris (2003-2006)
+- Mike Owens (2003)
+- Adam Reppond (2003-2009)
+- Ray Upp (2003-2004, 2006)
+- Mike Waggoner (2003-2004, 2006)
+- Gabe Cook (2005)
+- Dan Newell (2006)
+- Kevin Rodgers (2006-2008)
+- Kevin Tipps (2006)
+- Chris Carnevale (2007)
+- Ben Koski (2007)
+- Amanda Morrison (2008)
 
 ### Students
 
-  * Rae Arnold 
-  * Alex Cartier 
-  * Allison Chitwood 
-  * Colin Doby 
-  * Elise Follett 
-  * Parker Francis 
-  * J.R. Gutsch 
-  * Andrew Harrison 
-  * Jordan Henderson 
-  * Cody Horton 
-  * Connor Horton 
-  * Katie Kroncke 
-  * Randy Larsen 
-  * Mark Mahrer 
-  * Josh Matlack 
-  * Colton McLain 
-  * Connor Mulkey 
-  * Keri Porter 
-  * Dillon Row 
-  * Nathan Ruprecht 
-  * Jimmy Vaughn 
-  * Ryan Villarma 
-  * Steffen Villarma 
-  * Gwendolyn Ward 
-  * Charles Wensel 
-  * Trevor Wooten 
-  * Kaleb Wright 
-  * Amy Yznaga 
-
+- Rae Arnold
+- Alex Cartier
+- Allison Chitwood
+- Colin Doby
+- Elise Follett
+- Parker Francis
+- J.R. Gutsch
+- Andrew Harrison
+- Jordan Henderson
+- Cody Horton
+- Connor Horton
+- Katie Kroncke
+- Randy Larsen
+- Mark Mahrer
+- Josh Matlack
+- Colton McLain
+- Connor Mulkey
+- Keri Porter
+- Dillon Row
+- Nathan Ruprecht
+- Jimmy Vaughn
+- Ryan Villarma
+- Steffen Villarma
+- Gwendolyn Ward
+- Charles Wensel
+- Trevor Wooten
+- Kaleb Wright
+- Amy Yznaga
 
 ### Alumni
 
-  * Class of 1994 
-    * Robert Lormand 
-  * Class of 1996 
-    * Adam Davies 
-    * Jason George 
-    * Jeremy McClanahan 
-    * Peter Montes 
-    * J.T. Murrey 
-    * Jason Ramm 
-    * Ben Thatcher 
-    * Casey Welch 
-  * Class of 1997 
-    * Melanie Eargle 
-  * Class of 1998 
-    * Emily Pope Coe 
-    * Jill Doshier 
-    * Elizabeth Hyatt 
-    * Kimbell Kornu 
-    * Brittany Maxwell 
-    * Jenna McClanahan 
-    * Scott Mitchell 
-    * Zachary Scholz 
-    * Jon Thatcher 
-  * Class of 1999 
-    * Lora Hunter 
-    * Aaron Nall 
-    * Tim Oliver 
-  * Class of 2000 
-    * Curtis Brancheau 
-    * Brian Deuell 
-    * Amanda Howell 
-    * Buddy Kimberlin 
-    * Victor McConnell 
-    * Sara Swanson 
-    * Shaunna Torrance 
-    * Matt Wineinger 
-  * Class of 2001 
-    * Mary Cloutier 
-  * Class of 2002 
-    * Larame Cummings 
-    * Justin Gabitzsch 
-    * Melissa Gannaway 
-    * Megan Hunter 
-    * Ryan Marcum 
-    * Andy McClellen 
-    * Kyle Mitchell 
-    * Taylor Morrison 
-    * Sarah Withycombe 
-  * Class of 2003 
-    * Matt Sikes 
-    * Brandon Torrance 
-  * Class of 2004 
-    * Zack Corley 
-    * Justin Duncan 
-    * Cory Griffiths 
-    * Ryan Jenkins 
-    * Mark Moseley 
-    * Lydia Shook 
-    * Cameron Thatcher 
-  * Class of 2005 
-    * Justin Griggs 
-    * Matt Mahrer 
-    * Beth McClellen 
-    * Drew Roberts 
-    * Brian Wight 
-    * Liz Wisdom 
-    * Sarah Wright 
-  * Class of 2006 
-    * Peter Chung 
-    * Kayleigh Cooper 
-    * Amanda Isham 
-    * Jason Maxwell 
-    * Kevin Morris 
-    * Ben Newell 
-    * Michael Risley 
-    * Phillip Stromberg 
-    * Megan Wineinger 
-  * Class of 2007 
-    * Nathan Follett 
-    * Lane Gould 
-    * Keith Kaden 
-    * Kory Porter 
-    * Justin Tharp 
-    * Clayton Torrance 
-    * Stacey Walker 
-    * Melanie Wisdom 
-    * Karlee Wright 
-  * Class of 2008 
-    * Cody Fields 
-    * Regan Haralson 
-    * Trent Jones 
-    * Austin Lambert 
-    * Logan Marcum 
-  * Class of 2009 
-    * Michelle Colwell 
-    * Chris McMurray 
-    * Adam Risley 
-    * James Russell 
-_[Index of teams](Index_of_teams "Index of teams" ):_  
----  
-  
-[1-100](Index_of_teams#1-100 "Index of teams" )
-[101-200](Index_of_teams#101-200 "Index of teams" )
-[201-300](Index_of_teams#201-300 "Index of teams" )
-[301-400](Index_of_teams#301-400 "Index of teams" )
-[401-500](Index_of_teams#401-500 "Index of teams" )
-[501-600](Index_of_teams#501-600 "Index of teams" )
-[601-700](Index_of_teams#601-700 "Index of teams" )
-[701-800](Index_of_teams#701-800 "Index of teams" )
-[801-900](Index_of_teams#801-900 "Index of teams" )
-[901-1000](Index_of_teams#901-1000 "Index of teams" )
-[1001-1100](Index_of_teams#1001-1100 "Index of teams" )
-[1101-1200](Index_of_teams#1101-1200 "Index of teams" )
-[1201-1300](Index_of_teams#1201-1300 "Index of teams" )
-[1301-1400](Index_of_teams#1301-1400 "Index of teams" )
-[1401-1500](Index_of_teams#1401-1500 "Index of teams" )
-[1501-1600](Index_of_teams#1501-1600 "Index of teams" )
-[1601-1700](Index_of_teams#1601-1700 "Index of teams" )
-[1701-1800](Index_of_teams#1701-1800 "Index of teams" )
-[1801-1900](Index_of_teams#1801-1900 "Index of teams" )
-[1901-2000](Index_of_teams#1901-2000 "Index of teams" )
-[2001-2100](Index_of_teams#2001-2100 "Index of teams" )
-[2101-2200](Index_of_teams#2101-2200 "Index of teams" )
-[2201-2300](Index_of_teams#2201-2300 "Index of teams" )
-[2301-2400](Index_of_teams#2301-2400 "Index of teams" )
-[2401-2500](Index_of_teams#2401-2500 "Index of teams" )
-[2501-2600](Index_of_teams#2501-2600 "Index of teams" )
-[2601-2700](Index_of_teams#2601-2700 "Index of teams" )
-[2701-2800](Index_of_teams#2701-2800 "Index of teams" )
-[2801-2900](Index_of_teams#2801-2900 "Index of teams" )
-[2901-3000](Index_of_teams#2901-3000 "Index of teams" )
-[3001-3100](Index_of_teams#3001-3100 "Index of teams" )
-[3101-3200](Index_of_teams#3101-3200 "Index of teams" )
-[3201-3300](Index_of_teams#3201-3300 "Index of teams" )
-[3301-3400](Index_of_teams#3301-3400 "Index of teams" )
-[3401-3500](Index_of_teams#3401-3500 "Index of teams" )
-[3501-3600](Index_of_teams#3501-3600 "Index of teams" )
-[3601-3700](Index_of_teams#3601-3700 "Index of teams" )
-[3701-3800](Index_of_teams#3701-3800 "Index of teams" )
-[3801-3900](Index_of_teams#3801-3900 "Index of teams" )
-[3901-4000](Index_of_teams#3901-4000 "Index of teams" )
-[4001-4100](Index_of_teams#4001-4100 "Index of teams" )  
-  
+- Class of 1994 
+
+  - Robert Lormand
+
+- Class of 1996 
+
+  - Adam Davies
+  - Jason George
+  - Jeremy McClanahan
+  - Peter Montes
+  - J.T. Murrey
+  - Jason Ramm
+  - Ben Thatcher
+  - Casey Welch
+
+- Class of 1997 
+
+  - Melanie Eargle
+
+- Class of 1998 
+
+  - Emily Pope Coe
+  - Jill Doshier
+  - Elizabeth Hyatt
+  - Kimbell Kornu
+  - Brittany Maxwell
+  - Jenna McClanahan
+  - Scott Mitchell
+  - Zachary Scholz
+  - Jon Thatcher
+
+- Class of 1999 
+
+  - Lora Hunter
+  - Aaron Nall
+  - Tim Oliver
+
+- Class of 2000 
+
+  - Curtis Brancheau
+  - Brian Deuell
+  - Amanda Howell
+  - Buddy Kimberlin
+  - Victor McConnell
+  - Sara Swanson
+  - Shaunna Torrance
+  - Matt Wineinger
+
+- Class of 2001 
+
+  - Mary Cloutier
+
+- Class of 2002 
+
+  - Larame Cummings
+  - Justin Gabitzsch
+  - Melissa Gannaway
+  - Megan Hunter
+  - Ryan Marcum
+  - Andy McClellen
+  - Kyle Mitchell
+  - Taylor Morrison
+  - Sarah Withycombe
+
+- Class of 2003 
+
+  - Matt Sikes
+  - Brandon Torrance
+
+- Class of 2004 
+
+  - Zack Corley
+  - Justin Duncan
+  - Cory Griffiths
+  - Ryan Jenkins
+  - Mark Moseley
+  - Lydia Shook
+  - Cameron Thatcher
+
+- Class of 2005 
+
+  - Justin Griggs
+  - Matt Mahrer
+  - Beth McClellen
+  - Drew Roberts
+  - Brian Wight
+  - Liz Wisdom
+  - Sarah Wright
+
+- Class of 2006 
+
+  - Peter Chung
+  - Kayleigh Cooper
+  - Amanda Isham
+  - Jason Maxwell
+  - Kevin Morris
+  - Ben Newell
+  - Michael Risley
+  - Phillip Stromberg
+  - Megan Wineinger
+
+- Class of 2007 
+
+  - Nathan Follett
+  - Lane Gould
+  - Keith Kaden
+  - Kory Porter
+  - Justin Tharp
+  - Clayton Torrance
+  - Stacey Walker
+  - Melanie Wisdom
+  - Karlee Wright
+
+- Class of 2008 
+
+  - Cody Fields
+  - Regan Haralson
+  - Trent Jones
+  - Austin Lambert
+  - Logan Marcum
+
+- Class of 2009 
+
+  - Michelle Colwell
+  - Chris McMurray
+  - Adam Risley
+  - James Russell _[Index of teams](Index_of_teams "Index of teams"):_
+
+--------------------------------------------------------------------------------
+
+[1-100](Index_of_teams#1-100 "Index of teams") [101-200](Index_of_teams#101-200 "Index of teams") [201-300](Index_of_teams#201-300 "Index of teams") [301-400](Index_of_teams#301-400 "Index of teams") [401-500](Index_of_teams#401-500 "Index of teams") [501-600](Index_of_teams#501-600 "Index of teams") [601-700](Index_of_teams#601-700 "Index of teams") [701-800](Index_of_teams#701-800 "Index of teams") [801-900](Index_of_teams#801-900 "Index of teams") [901-1000](Index_of_teams#901-1000 "Index of teams") [1001-1100](Index_of_teams#1001-1100 "Index of teams") [1101-1200](Index_of_teams#1101-1200 "Index of teams") [1201-1300](Index_of_teams#1201-1300 "Index of teams") [1301-1400](Index_of_teams#1301-1400 "Index of teams") [1401-1500](Index_of_teams#1401-1500 "Index of teams") [1501-1600](Index_of_teams#1501-1600 "Index of teams") [1601-1700](Index_of_teams#1601-1700 "Index of teams") [1701-1800](Index_of_teams#1701-1800 "Index of teams") [1801-1900](Index_of_teams#1801-1900 "Index of teams") [1901-2000](Index_of_teams#1901-2000 "Index of teams") [2001-2100](Index_of_teams#2001-2100 "Index of teams") [2101-2200](Index_of_teams#2101-2200 "Index of teams") [2201-2300](Index_of_teams#2201-2300 "Index of teams") [2301-2400](Index_of_teams#2301-2400 "Index of teams") [2401-2500](Index_of_teams#2401-2500 "Index of teams") [2501-2600](Index_of_teams#2501-2600 "Index of teams") [2601-2700](Index_of_teams#2601-2700 "Index of teams") [2701-2800](Index_of_teams#2701-2800 "Index of teams") [2801-2900](Index_of_teams#2801-2900 "Index of teams") [2901-3000](Index_of_teams#2901-3000 "Index of teams") [3001-3100](Index_of_teams#3001-3100 "Index of teams") [3101-3200](Index_of_teams#3101-3200 "Index of teams") [3201-3300](Index_of_teams#3201-3300 "Index of teams") [3301-3400](Index_of_teams#3301-3400 "Index of teams") [3401-3500](Index_of_teams#3401-3500 "Index of teams") [3501-3600](Index_of_teams#3501-3600 "Index of teams") [3601-3700](Index_of_teams#3601-3700 "Index of teams") [3701-3800](Index_of_teams#3701-3800 "Index of teams") [3801-3900](Index_of_teams#3801-3900 "Index of teams") [3901-4000](Index_of_teams#3901-4000 "Index of teams") [4001-4100](Index_of_teams#4001-4100 "Index of teams")
+
 _[Index of teams by region](Index_of_teams_by_region "Index of
-teams by region" ):_  
----  
-  
+
+## teams by region" ):_
+
 [NH](Index_of_teams_by_region#BAE_Systems_Granite_State_Regional.2C
-_Manchester.2C_NH "Index of teams by region" )
-[NJ](Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ
-"Index of teams by region" )
-[VA](Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA
-"Index of teams by region" ) [OR](Index_of_teams_by_region#Pacific_
-Northwest_Regional.2C_Portland.2C_OR "Index of teams by region" )
-[AZ](Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ
-"Index of teams by region" )
-[FL](Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL
-"Index of teams by region" ) [GL](Index_of_teams_by_region#Great_La
-kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region" ) [PIT](
-Index_of_teams_by_region#Pittsburgh_Regional.2C_Pittsburgh.2C_PA "Index of
-teams by region" ) [MO](Index_of_teams_by_region#St._Louis_Regional
-.2C_St._Charles.2C_MO "Index of teams by region" ) [CT](Index_of_te
+_Manchester.2C_NH "Index of teams by region") [NJ](Index_of_teams_by_region#New_Jersey_Regional.2C_Trenton.2C_NJ "Index of teams by region") [VA](Index_of_teams_by_region#NASA.2FVCU_Regional.2C_Richmond.2C_VA "Index of teams by region") [OR](Index_of_teams_by_region#Pacific_
+Northwest_Regional.2C_Portland.2C_OR "Index of teams by region") [AZ](Index_of_teams_by_region#Arizona_Regional.2C_Phoenix.2C_AZ "Index of teams by region") [FL](Index_of_teams_by_region#Florida_Regional.2C_Orlando.2C_FL "Index of teams by region") [GL](Index_of_teams_by_region#Great_La
+kes_Regional.2C_Ypsilanti.2C_MI "Index of teams by region") [PIT](Index_of_teams_by_region#Pittsburgh_Regional.2C_Pittsburgh.2C_PA "Index of
+teams by region") [MO](Index_of_teams_by_region#St._Louis_Regional
+.2C_St._Charles.2C_MO "Index of teams by region") [CT](Index_of_te
 ams_by_region#UTC_New_England_Regional.2C_Hartford.2C_CT "Index of teams by
-region" ) [MD](Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
-polis.2C_MD "Index of teams by region" )
-[DT](Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI
-"Index of teams by region" )
-[GA](Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA
-"Index of teams by region" ) [SAC](Index_of_teams_by_region#Sacrame
-nto_Regional.2C_Sacramento.2C_CA "Index of teams by region" ) [LI](
-Index_of_teams_by_region#SBPLI_Long_Island_Regional.2C_Brentwood.2C_NY "Index
-of teams by region" )
-[OH](Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH
-"Index of teams by region" )
-[CO](Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO
-"Index of teams by region" )
-[IL](Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL
-"Index of teams by region" ) [NY](Index_of_teams_by_region#New_York
-_City_Regional.2C_New_York.2C_NY "Index of teams by region" ) [PA](
-Index_of_teams_by_region#Philadelphia_Regional.2C_Philadelphia.2C_PA "Index of
-teams by region" ) [CA](Index_of_teams_by_region#Southern_Californi
-a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region" ) [ON](I
+region") [MD](Index_of_teams_by_region#Chesapeake_Regional.2C_Anna
+polis.2C_MD "Index of teams by region") [DT](Index_of_teams_by_region#Detroit_Regional.2C_Detroit.2C_MI "Index of teams by region") [GA](Index_of_teams_by_region#Peachtree_Regional.2C_Duluth.2C_GA "Index of teams by region") [SAC](Index_of_teams_by_region#Sacrame
+nto_Regional.2C_Sacramento.2C_CA "Index of teams by region") [LI](Index_of_teams_by_region#SBPLI_Long_Island_Regional.2C_Brentwood.2C_NY "Index
+of teams by region") [OH](Index_of_teams_by_region#Buckeye_Regional.2C_Cleveland.2C_OH "Index of teams by region") [CO](Index_of_teams_by_region#Colorado_Regional.2C_Denver.2C_CO "Index of teams by region") [IL](Index_of_teams_by_region#Midwest_Regional.2C_Evanston.2C_IL "Index of teams by region") [NY](Index_of_teams_by_region#New_York
+_City_Regional.2C_New_York.2C_NY "Index of teams by region") [PA](Index_of_teams_by_region#Philadelphia_Regional.2C_Philadelphia.2C_PA "Index of
+teams by region") [CA](Index_of_teams_by_region#Southern_Californi
+a_Regional.2C_Los_Angeles.2C_CA "Index of teams by region") [ON](I
 ndex_of_teams_by_region#Canadian_Regional.2C_Mississauga.2C_ON "Index of teams
-by region" )
-[TX](Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX
-"Index of teams by region" )
-[SC](Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC
-"Index of teams by region" ) [SJ](Index_of_teams_by_region#Silicon_
-Valley_Regional.2C_San_Jose.2C_CA "Index of teams by region" ) [MI](/index.php
+by region") [TX](Index_of_teams_by_region#Lone_Star_Regional.2C_Houston.2C_TX "Index of teams by region") [SC](Index_of_teams_by_region#Palmetto_Regional.2C_Columbia.2C_SC "Index of teams by region") [SJ](Index_of_teams_by_region#Silicon_
+Valley_Regional.2C_San_Jose.2C_CA "Index of teams by region") [MI](/index.php
 /Index_of_teams_by_region#West_Michigan_Regional.2C_Grand_Rapids.2C_MI "Index
-of teams by region" )
-[WI](Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI
-"Index of teams by region" )  
-  
+of teams by region") [WI](Index_of_teams_by_region#Wisconsin_Regional.2C_Milwaukee.2C_WI "Index of teams by region")

@@ -1,145 +1,95 @@
 # User:Tckma
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 ## Contents
 
-  * 1 About Me
-  * 2 Academics
-  * 3 Non-FIRST Hobbies
-  * 4 FIRST and FLL Competitions I've Attended
-    * 4.1 2002 (Zone Zeal)
-    * 4.2 2003 (Stack Attack)
-    * 4.3 2004 (FIRST Frenzy: Raising the Bar)
-    * 4.4 2005 (Triple Play)
-    * 4.5 2006 (Aim High)
-  * 5 My FIRST History  
----  
-  
+- 1 About Me
+- 2 Academics
+- 3 Non-FIRST Hobbies
+- 4 FIRST and FLL Competitions I've Attended
+
+  - 4.1 2002 (Zone Zeal)
+  - 4.2 2003 (Stack Attack)
+  - 4.3 2004 (FIRST Frenzy: Raising the Bar)
+  - 4.4 2005 (Triple Play)
+  - 4.5 2006 (Aim High)
+
+- 5 My FIRST History
+
+--------------------------------------------------------------------------------
 
 ## About Me
 
-My name's Tom. I'm a 27-year old software engineer, living in Northborough,
-MA. I work for [Raytheon](http://www.raytheon.com "http://www.raytheon.com" )
-Network Centric Systems in Marlborough, MA, primarily on software for domestic
-and international air traffic control systems. Since 2005, I have been a
-programming mentor on FIRST Team [1100](1100 "1100" ).
-Additionally, I was a programming mentor on Team [811](811 "811" )
-in 2002, 2004, and 2005, and on Team [246](246 "246" ) in 2003.
+My name's Tom. I'm a 27-year old software engineer, living in Northborough, MA. I work for [Raytheon](http://www.raytheon.com "http://www.raytheon.com") Network Centric Systems in Marlborough, MA, primarily on software for domestic and international air traffic control systems. Since 2005, I have been a programming mentor on FIRST Team [1100](1100 "1100"). Additionally, I was a programming mentor on Team [811](811 "811") in 2002, 2004, and 2005, and on Team [246](246 "246") in 2003.
 
-I grew up on Long Island, and moved to New England for my job with Raytheon
-after I graduated from college in 2000.
-
+I grew up on Long Island, and moved to New England for my job with Raytheon after I graduated from college in 2000.
 
 ## Academics
 
-I have a Master of Science in Electrical and Computer Engineering from [Boston
-University](http://www.bu.edu "http://www.bu.edu" ), earned in September 2003.
-I also have a Bachelor of Science in Computer Science from [Cornell
-University](http://www.cornell.edu "http://www.cornell.edu" ), earned in May
-2000.
-
+I have a Master of Science in Electrical and Computer Engineering from [Boston University](http://www.bu.edu "http://www.bu.edu"), earned in September 2003. I also have a Bachelor of Science in Computer Science from [Cornell University](http://www.cornell.edu "http://www.cornell.edu"), earned in May 2000.
 
 ## Non-FIRST Hobbies
 
 What do you mean, "Non-FIRST Hobbies?" Those exist?
 
-I collect license plates. Yes, this is 100% legal. I am a member of the
-[Automobile License Plate Collectors' Association](http://www.alpca.org
-"http://www.alpca.org" ). I love taking random road trips, and anything to do
-with roads, maps, and signs.
+I collect license plates. Yes, this is 100% legal. I am a member of the [Automobile License Plate Collectors' Association](http://www.alpca.org "http://www.alpca.org"). I love taking random road trips, and anything to do with roads, maps, and signs.
 
-I also play trombone in the [Interboro Band](http://www.interboroband.org
-"http://www.interboroband.org" ).
-
+I also play trombone in the [Interboro Band](http://www.interboroband.org "http://www.interboroband.org").
 
 ## FIRST and FLL Competitions I've Attended
 
+### 2002 ([Zone Zeal](Zone_Zeal "Zone Zeal"))
 
-### 2002 ([Zone Zeal](Zone_Zeal "Zone Zeal" ))
+(with Team [811](811 "811"))
 
-(with Team [811](811 "811" ))
+- [UTC New Haven Regional](UTC_Regional "UTC Regional") (now called the UTC New England Regional and located in Hartford)
+- [The Championship Event](The_Championship_Event "The Championship Event") (Epcot Center)
 
-  * [UTC New Haven Regional](UTC_Regional "UTC Regional" ) (now called the UTC New England Regional and located in Hartford) 
-  * [The Championship Event](The_Championship_Event "The Championship Event" ) (Epcot Center) 
+### 2003 ([Stack Attack](Stack_Attack "Stack Attack"))
 
+(with Team [246](246 "246"))
 
-### 2003 ([Stack Attack](Stack_Attack "Stack Attack" ))
-
-(with Team [246](246 "246" ))
-
-  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
-  * Southern New Hampshire FLL Regional (volunteer, Technical Judging) 
-
+- [BAE Systems Granite State Regional](BAE_Regional "BAE Regional")
+- Southern New Hampshire FLL Regional (volunteer, Technical Judging)
 
 ### 2004 ([FIRST Frenzy: Raising the
-Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar"
-))
 
-(with Team [811](811 "811" ))
+Bar](FIRST_Frenzy:_Raising_the_Bar "FIRST Frenzy: Raising the Bar" ))
 
-  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
-  * [The Championship Event](The_Championship_Event "The Championship Event" ) (Georgia Dome) 
-  * Southern New Hampshire FLL Regional (volunteer, Referee) 
+(with Team [811](811 "811"))
 
+- [BAE Systems Granite State Regional](BAE_Regional "BAE Regional")
+- [The Championship Event](The_Championship_Event "The Championship Event") (Georgia Dome)
+- Southern New Hampshire FLL Regional (volunteer, Referee)
 
 ### 2005 ([Triple Play](triple-play))
 
-  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" ) (with Team 811) 
-  * [UTC New England Regional](UTC_Regional "UTC Regional" ) (with Team 1100) 
-  * [The Championship Event](The_Championship_Event "The Championship Event" ) (with Team 1100) 
-  * [Beantown Blitz](Beantown_Blitz "Beantown Blitz" ) (with Team 1100) 
-  * [Battlecry](Battlecry "Battlecry" ) 6 (with Team 1100) 
-  * [Mayhem in Merrimack](Mayhem_in_Merrimack "Mayhem in Merrimack" ) (volunteer, Field Reset) 
-  * [Robonautica](/index.php?title=Robonautica&action=edit "Robonautica" ) 5 (volunteer, Technical Judging) 
-
+- [BAE Systems Granite State Regional](BAE_Regional "BAE Regional") (with Team 811)
+- [UTC New England Regional](UTC_Regional "UTC Regional") (with Team 1100)
+- [The Championship Event](The_Championship_Event "The Championship Event") (with Team 1100)
+- [Beantown Blitz](Beantown_Blitz "Beantown Blitz") (with Team 1100)
+- [Battlecry](Battlecry "Battlecry") 6 (with Team 1100)
+- [Mayhem in Merrimack](Mayhem_in_Merrimack "Mayhem in Merrimack") (volunteer, Field Reset)
+- [Robonautica](/index.php?title=Robonautica&action=edit "Robonautica") 5 (volunteer, Technical Judging)
 
 ### 2006 ([Aim High](aim-high))
 
-(with Team [1100](1100 "1100" ))
+(with Team [1100](1100 "1100"))
 
-  * [BAE Systems Granite State Regional](BAE_Regional "BAE Regional" )
-  * [Boston Regional](Boston_Regional "Boston Regional" )
-
+- [BAE Systems Granite State Regional](BAE_Regional "BAE Regional")
+- [Boston Regional](Boston_Regional "Boston Regional")
 
 ## My FIRST History
 
 I became involved in FIRST in 2002 ([Zone Zeal](Zone_Zeal "Zone
-Zeal" )), shortly after breaking my leg in a skiing accident. At the time, I
-lived in Nashua, NH and worked in Tewksbury, MA. A co-worker of mine who was
-driving me to work had a son on Team 811 and was discussing the FIRST program
-on the way to work one day. I had heard of FIRST before that time, and I had
-been interested, but I did not know how to get involved. I asked if 811 needed
-new mentors. The next day I hobbled into what we on 811 called "FIRST Base" on
-crutches, and I have been a FIRST addict ever since. I wish they had had FIRST
-when I was a high school student (1992-1996) -- later, I found out that they
-did. FIRST at the time was just in its infancy and my high school did not have
-a team, nor did I know of any in the area which did.
+Zeal")), shortly after breaking my leg in a skiing accident. At the time, I lived in Nashua, NH and worked in Tewksbury, MA. A co-worker of mine who was driving me to work had a son on Team 811 and was discussing the FIRST program on the way to work one day. I had heard of FIRST before that time, and I had been interested, but I did not know how to get involved. I asked if 811 needed new mentors. The next day I hobbled into what we on 811 called "FIRST Base" on crutches, and I have been a FIRST addict ever since. I wish they had had FIRST when I was a high school student (1992-1996) -- later, I found out that they did. FIRST at the time was just in its infancy and my high school did not have a team, nor did I know of any in the area which did.
 
-In late 2002, I received a scholarship from my company to go to graduate
-school at Boston University. This required me to move to Boston Proper, and so
-I left 811 temporarily in favor of the BU-sponsored team, Team 246, for 2003
-([Stack Attack](Stack_Attack "Stack Attack" )).
+In late 2002, I received a scholarship from my company to go to graduate school at Boston University. This required me to move to Boston Proper, and so I left 811 temporarily in favor of the BU-sponsored team, Team 246, for 2003 ([Stack Attack](Stack_Attack "Stack Attack")).
 
-When I graduated that September, my job was transferred to the Marlborough
-plant, but I'd had some roots in Nashua -- namely a girlfriend who lived
-there. I compromised with her and moved to Chelmsford, MA. I asked to return
-to Team 811 in 2004 ([First Frenzy:Raising the
-Bar](/index.php?title=First_Frenzy:Raising_the_Bar&action=edit "First
-Frenzy:Raising the Bar" )), since Nashua was a reasonable distance from
-Chelmsford.
+When I graduated that September, my job was transferred to the Marlborough plant, but I'd had some roots in Nashua -- namely a girlfriend who lived there. I compromised with her and moved to Chelmsford, MA. I asked to return to Team 811 in 2004 ([First Frenzy:Raising the Bar](/index.php?title=First_Frenzy:Raising_the_Bar&action=edit "First
+Frenzy:Raising the Bar")), since Nashua was a reasonable distance from Chelmsford.
 
-Over the next year, the relationship ended and I was quickly becoming fed up
-with what was a 45-minute commute to work each way. I bought a house here in
-Northborough, which, while an hour's drive from Nashua, shortened my commute
-to 15 minutes each way, mostly along back roads. I knew to stay with 811 would
-wreak havoc on my car, especially in New England winters, so I searched for a
-new team closer to my new place. I joined a local community wind band, which
-rehearses at the local high school. I asked the band director if he knew of
-any robotics teams in the area, and he pointed me to the faculty advisor for
-Team 1100. For the 2005 ([Triple Play](triple-play))
-season, I worked with both Team 811 and Team 1100, moving exclusively to 1100
-shortly after the BAE Systems Granite State Regional that year.
-
+Over the next year, the relationship ended and I was quickly becoming fed up with what was a 45-minute commute to work each way. I bought a house here in Northborough, which, while an hour's drive from Nashua, shortened my commute to 15 minutes each way, mostly along back roads. I knew to stay with 811 would wreak havoc on my car, especially in New England winters, so I searched for a new team closer to my new place. I joined a local community wind band, which rehearses at the local high school. I asked the band director if he knew of any robotics teams in the area, and he pointed me to the faculty advisor for Team 1100\. For the 2005 ([Triple Play](triple-play)) season, I worked with both Team 811 and Team 1100, moving exclusively to 1100 shortly after the BAE Systems Granite State Regional that year.

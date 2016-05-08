@@ -1,84 +1,74 @@
 # Related changes
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (to pages linked from "Championship Winner")
 
 Jump to: navigation, search
 
-&lt; [Championship Winner](/index.php?title=Championship_Winner&redirect=no
-"Championship Winner" )  
+< [Championship Winner](/index.php?title=Championship_Winner&redirect=no "Championship Winner")
 
-* * *
+--------------------------------------------------------------------------------
 
-Below are the last **50** changes in last **7** days.  
+Below are the last **50** changes in last **7** days.<br>
 Show last [50](/index.php?title=Special:Recentchangeslinked&target=Championshi
-p_Winner&hideminor=0&days=7&limit=50 "Special:Recentchangeslinked" ) | [100](/
+p_Winner&hideminor=0&days=7&limit=50 "Special:Recentchangeslinked") | [100](/
 index.php?title=Special:Recentchangeslinked&target=Championship_Winner&hidemin
-or=0&days=7&limit=100 "Special:Recentchangeslinked" ) | [250](/index.php?title
+or=0&days=7&limit=100 "Special:Recentchangeslinked") | [250](/index.php?title
 =Special:Recentchangeslinked&target=Championship_Winner&hideminor=0&days=7&lim
-it=250 "Special:Recentchangeslinked" ) | [500](/index.php?title=Special:Recent
-changeslinked&target=Championship_Winner&hideminor=0&days=7&limit=500
-"Special:Recentchangeslinked" ) changes in last [1](/index.php?title=Special:R
-ecentchangeslinked&target=Championship_Winner&hideminor=0&days=1&limit=50
-"Special:Recentchangeslinked" ) | [3](/index.php?title=Special:Recentchangesli
-nked&target=Championship_Winner&hideminor=0&days=3&limit=50
-"Special:Recentchangeslinked" ) | [7](/index.php?title=Special:Recentchangesli
-nked&target=Championship_Winner&hideminor=0&days=7&limit=50
-"Special:Recentchangeslinked" ) | [14](/index.php?title=Special:Recentchangesl
-inked&target=Championship_Winner&hideminor=0&days=14&limit=50
-"Special:Recentchangeslinked" ) | [30](/index.php?title=Special:Recentchangesl
-inked&target=Championship_Winner&hideminor=0&days=30&limit=50
-"Special:Recentchangeslinked" ) days  
+it=250 "Special:Recentchangeslinked") | [500](/index.php?title=Special:Recent
+changeslinked&target=Championship_Winner&hideminor=0&days=7&limit=500 "Special:Recentchangeslinked") changes in last [1](/index.php?title=Special:R
+ecentchangeslinked&target=Championship_Winner&hideminor=0&days=1&limit=50 "Special:Recentchangeslinked") | [3](/index.php?title=Special:Recentchangesli
+nked&target=Championship_Winner&hideminor=0&days=3&limit=50 "Special:Recentchangeslinked") | [7](/index.php?title=Special:Recentchangesli
+nked&target=Championship_Winner&hideminor=0&days=7&limit=50 "Special:Recentchangeslinked") | [14](/index.php?title=Special:Recentchangesl
+inked&target=Championship_Winner&hideminor=0&days=14&limit=50 "Special:Recentchangeslinked") | [30](/index.php?title=Special:Recentchangesl
+inked&target=Championship_Winner&hideminor=0&days=30&limit=50 "Special:Recentchangeslinked") days<br>
 [Hide](/index.php?title=Special:Recentchangeslinked&target=Championship_Winner
-&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked" ) minor edits
+&days=7&limit=50&hideminor=1 "Special:Recentchangeslinked") minor edits
 
-#### 10 June 2008
+### 10 June 2008
 
-  * ([diff](/index.php?title=217&curid=1203&diff=68312&oldid=68311 "217" )) ([hist](/index.php?title=217&curid=1203&action=history "217" )) . . [217](217 "217" ); 23:04 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler" ) ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler" ) | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions" )) ([→](217#Accomplishments "217" )Accomplishments)
-  * ([diff](/index.php?title=217&curid=1203&diff=68311&oldid=68310 "217" )) ([hist](/index.php?title=217&curid=1203&action=history "217" )) . . [217](217 "217" ); 22:58 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler" ) ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler" ) | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions" )) ([→](217#Mentors "217" )Mentors)
-  * ([diff](/index.php?title=217&curid=1203&diff=68310&oldid=68309 "217" )) ([hist](/index.php?title=217&curid=1203&action=history "217" )) . . [217](217 "217" ); 22:55 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler" ) ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler" ) | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions" )) ([→](217#Sponsors "217" )Sponsors)
-  * ([diff](/index.php?title=217&curid=1203&diff=68309&oldid=67847 "217" )) ([hist](/index.php?title=217&curid=1203&action=history "217" )) . . [217](217 "217" ); 22:54 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler" ) ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler" ) | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions" )) ([→](217#Robots "217" )Robots)
+- ([diff](/index.php?title=217&curid=1203&diff=68312&oldid=68311 "217")) ([hist](/index.php?title=217&curid=1203&action=history "217")) . . [217](217 "217"); 23:04 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler") ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler") | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions")) ([→](217#Accomplishments "217")Accomplishments)
+- ([diff](/index.php?title=217&curid=1203&diff=68311&oldid=68310 "217")) ([hist](/index.php?title=217&curid=1203&action=history "217")) . . [217](217 "217"); 22:58 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler") ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler") | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions")) ([→](217#Mentors "217")Mentors)
+- ([diff](/index.php?title=217&curid=1203&diff=68310&oldid=68309 "217")) ([hist](/index.php?title=217&curid=1203&action=history "217")) . . [217](217 "217"); 22:55 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler") ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler") | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions")) ([→](217#Sponsors "217")Sponsors)
+- ([diff](/index.php?title=217&curid=1203&diff=68309&oldid=67847 "217")) ([hist](/index.php?title=217&curid=1203&action=history "217")) . . [217](217 "217"); 22:54 . . [Edebler](/index.php?title=User:Edebler&action=edit "User:Edebler") ([Talk](/index.php?title=User_talk:Edebler&action=edit "User talk:Edebler") | [contribs](/index.php?title=Special:Contributions&target=Edebler "Special:Contributions")) ([→](217#Robots "217")Robots)
 
-#### 9 June 2008
+### 9 June 2008
 
-  * ([diff](/index.php?title=Woodie_Flowers_Award&curid=926&diff=68302&oldid=59636 "Woodie Flowers Award" )) ([hist](/index.php?title=Woodie_Flowers_Award&curid=926&action=history "Woodie Flowers Award" )) . . [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award" ); 18:39 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" ) | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions" )) (Add 2008 winner)
-  * ([diff](/index.php?title=Chairman%27s_Award&curid=932&diff=68301&oldid=68300 "Chairman's Award" )) ([hist](/index.php?title=Chairman%27s_Award&curid=932&action=history "Chairman's Award" )) . . [Chairman's Award](Chairman%27s_Award "Chairman's Award" ); 18:35 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" ) | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions" )) ([→](Chairman%27s_Award#Championship_Winners "Chairman's Award" )Championship Winners - add 2008 champion, 842)
-  * ([diff](/index.php?title=Chairman%27s_Award&curid=932&diff=68300&oldid=59297 "Chairman's Award" )) ([hist](/index.php?title=Chairman%27s_Award&curid=932&action=history "Chairman's Award" )) . . [Chairman's Award](Chairman%27s_Award "Chairman's Award" ); 18:33 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" ) | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions" )) ([→](Chairman%27s_Award#Championship_Winners "Chairman's Award" )Championship Winners - Team 7 from 1993 is not the same as the team 7 that competes currently, remove link)
-  * ([diff](/index.php?title=148&curid=1053&diff=68298&oldid=68297 "148" )) ([hist](/index.php?title=148&curid=1053&action=history "148" )) . . [148](148 "148" ); 16:30 . . [Astronouth7303](User:Astronouth7303 "User:Astronouth7303" ) ([Talk](User_talk:Astronouth7303 "User talk:Astronouth7303" ) | [contribs](/index.php?title=Special:Contributions&target=Astronouth7303 "Special:Contributions" ))
-  * ([diff](/index.php?title=148&curid=1053&diff=68297&oldid=62036 "148" )) ([hist](/index.php?title=148&curid=1053&action=history "148" )) . . [148](148 "148" ); 16:08 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz" ) ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz" ) | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions" ))
+- ([diff](/index.php?title=Woodie_Flowers_Award&curid=926&diff=68302&oldid=59636 "Woodie Flowers Award")) ([hist](/index.php?title=Woodie_Flowers_Award&curid=926&action=history "Woodie Flowers Award")) . . [Woodie Flowers Award](Woodie_Flowers_Award "Woodie Flowers Award"); 18:39 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz") ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz") | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions")) (Add 2008 winner)
+- ([diff](/index.php?title=Chairman%27s_Award&curid=932&diff=68301&oldid=68300 "Chairman's Award")) ([hist](/index.php?title=Chairman%27s_Award&curid=932&action=history "Chairman's Award")) . . [Chairman's Award](Chairman%27s_Award "Chairman's Award"); 18:35 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz") ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz") | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions")) ([→](Chairman%27s_Award#Championship_Winners "Chairman's Award")Championship Winners - add 2008 champion, 842)
+- ([diff](/index.php?title=Chairman%27s_Award&curid=932&diff=68300&oldid=59297 "Chairman's Award")) ([hist](/index.php?title=Chairman%27s_Award&curid=932&action=history "Chairman's Award")) . . [Chairman's Award](Chairman%27s_Award "Chairman's Award"); 18:33 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz") ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz") | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions")) ([→](Chairman%27s_Award#Championship_Winners "Chairman's Award")Championship Winners - Team 7 from 1993 is not the same as the team 7 that competes currently, remove link)
+- ([diff](/index.php?title=148&curid=1053&diff=68298&oldid=68297 "148")) ([hist](/index.php?title=148&curid=1053&action=history "148")) . . [148](148 "148"); 16:30 . . [Astronouth7303](User:Astronouth7303 "User:Astronouth7303") ([Talk](User_talk:Astronouth7303 "User talk:Astronouth7303") | [contribs](/index.php?title=Special:Contributions&target=Astronouth7303 "Special:Contributions"))
+- ([diff](/index.php?title=148&curid=1053&diff=68297&oldid=62036 "148")) ([hist](/index.php?title=148&curid=1053&action=history "148")) . . [148](148 "148"); 16:08 . . [Sciencewhiz](User:Sciencewhiz "User:Sciencewhiz") ([Talk](/index.php?title=User_talk:Sciencewhiz&action=edit "User talk:Sciencewhiz") | [contribs](/index.php?title=Special:Contributions&target=Sciencewhiz "Special:Contributions"))
 
-Retrieved from
-"<http://www.firstwiki.netSpecial:Recentchangeslinked>"
+Retrieved from "<http://www.firstwiki.netSpecial:Recentchangeslinked>"
 
-##### Views
+#### Views
 
-  * [Special Page](Special:Recentchangeslinked/Championship_Winner)
+- [Special Page](Special:Recentchangeslinked/Championship_Winner)
 
-##### Personal tools
+#### Personal tools
 
-  * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
+- [Log in / create account](/index.php?title=Special:Userlogin&returnto=Special:Recentchangeslinked)
 
-[](Main_Page "Main Page" )
+[](Main_Page "Main Page")
 
-##### Navigation
+#### Navigation
 
-  * [Main Page](Main_Page)
-  * [Community portal](FIRSTwiki:Community_portal)
-  * [Current events](Current_events)
-  * [Recent changes](Special:Recentchanges)
-  * [Random page](Special:Random)
-  * [Help](Help:Contents)
-  * [Donations](FIRSTwiki:Site_support)
+- [Main Page](Main_Page)
+- [Community portal](FIRSTwiki:Community_portal)
+- [Current events](Current_events)
+- [Recent changes](Special:Recentchanges)
+- [Random page](Special:Random)
+- [Help](Help:Contents)
+- [Donations](FIRSTwiki:Site_support)
 
-##### Search
+#### Search
 
+#### Toolbox
 
-
-##### Toolbox
-
-  * [Upload file](Special:Upload)
-  * [Special pages](Special:Specialpages)
+- [Upload file](Special:Upload)
+- [Special pages](Special:Specialpages)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -86,7 +76,6 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
-
+- [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy")
+- [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About")
+- [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions")

@@ -1,13 +1,11 @@
 # User:Johnmarchiony
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User:Johnmarchiony](/index.php?title=User:Johnmarchiony&redirect=no
-"User:Johnmarchiony" )  
+< [User:Johnmarchiony](/index.php?title=User:Johnmarchiony&redirect=no "User:Johnmarchiony")
 
 No pages link to here.
-

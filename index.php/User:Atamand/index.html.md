@@ -1,9 +1,7 @@
 # User:Atamand
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-Hello all, I'm Andrew Mandelbaum, current ('06-'07) director of field
-construction for Stuyvesant High School's [team 694](694 "694" ).
-
+Hello all, I'm Andrew Mandelbaum, current ('06-'07) director of field construction for Stuyvesant High School's [team 694](694 "694").

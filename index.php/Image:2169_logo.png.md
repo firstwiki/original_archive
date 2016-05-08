@@ -1,42 +1,33 @@
-
-
 # Image:2169 logo.png
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-  * Image
-  * File history
-  * Links
+- Image
+- File history
+- Links
 
 ![](/media/e/e9/2169_logo.png)
 
-[2169_logo.png](/media/e/e9/2169_logo.png "2169 logo.png" ) (43KB, MIME type:
-`image/png`)
+[2169_logo.png](/media/e/e9/2169_logo.png "2169 logo.png") (43KB, MIME type: `image/png`)
 
-This is Team 2169's official logo as of their 2008 season. It is proudly
-displayed on the front of the team's 2008 t-shirt.
+This is Team 2169's official logo as of their 2008 season. It is proudly displayed on the front of the team's 2008 t-shirt.
 
 ## File history
 
-Legend: (cur) = this is the current file, (del) = delete this old version,
-(rev) = revert to this old version.  
+Legend: (cur) = this is the current file, (del) = delete this old version, (rev) = revert to this old version.<br>
 _Click on date to see the file uploaded on that date_.
 
-  * (del) (cur) [22:58, 9 July 2008](/media/e/e9/2169_logo.png "/media/e/e9/2169 logo.png" ) . . [Demothesis](/index.php?title=User:Demothesis&action=edit "User:Demothesis" ) ([Talk](/index.php?title=User_talk:Demothesis&action=edit "User talk:Demothesis" )) . . 481x394 (43178 bytes) (This is Team 2169's official logo as of their 2008 season. It is proudly displayed on the front of the team's 2008 t-shirt.)
-  * (del) (rev) [22:51, 9 July 2008](/media/archive/e/e9/20080709225802%212169_logo.png "/media/archive/e/e9/20080709225802!2169 logo.png" ) . . [Demothesis](/index.php?title=User:Demothesis&action=edit "User:Demothesis" ) ([Talk](/index.php?title=User_talk:Demothesis&action=edit "User talk:Demothesis" )) . . 1280x800 (114864 bytes) (This is Team 2169's official logo as of their 2008 season. It is proudly displayed on the front of the team's 2008 t-shirt.)
-  
+- (del) (cur) [22:58, 9 July 2008](/media/e/e9/2169_logo.png "/media/e/e9/2169 logo.png") . . [Demothesis](/index.php?title=User:Demothesis&action=edit "User:Demothesis") ([Talk](/index.php?title=User_talk:Demothesis&action=edit "User talk:Demothesis")) . . 481x394 (43178 bytes) (This is Team 2169's official logo as of their 2008 season. It is proudly displayed on the front of the team's 2008 t-shirt.)
+- (del) (rev) [22:51, 9 July 2008](/media/archive/e/e9/20080709225802%212169_logo.png "/media/archive/e/e9/20080709225802!2169 logo.png") . . [Demothesis](/index.php?title=User:Demothesis&action=edit "User:Demothesis") ([Talk](/index.php?title=User_talk:Demothesis&action=edit "User talk:Demothesis")) . . 1280x800 (114864 bytes) (This is Team 2169's official logo as of their 2008 season. It is proudly displayed on the front of the team's 2008 t-shirt.)
 
-  * [Edit this file using an external application](/index.php?title=Image:2169_logo.png&action=edit&externaledit=true&mode=file "Image:2169 logo.png" )
+- [Edit this file using an external application](/index.php?title=Image:2169_logo.png&action=edit&externaledit=true&mode=file "Image:2169 logo.png")
 
-See the [setup
-instructions](http://meta.wikimedia.org/wiki/Help:External_editors
-"http://meta.wikimedia.org/wiki/Help:External_editors" ) for more information.
+See the [setup instructions](http://meta.wikimedia.org/wiki/Help:External_editors "http://meta.wikimedia.org/wiki/Help:External_editors") for more information.
 
 ## Links
 
 The following pages link to this file:
 
-  * [2169](2169 "2169" )
-
+- [2169](2169 "2169")

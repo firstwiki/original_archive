@@ -1,13 +1,11 @@
 # Talk:Sworm Drive
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Talk:Sworm Drive](/index.php?title=Talk:Sworm_Drive&redirect=no
-"Talk:Sworm Drive" )  
+< [Talk:Sworm Drive](/index.php?title=Talk:Sworm_Drive&redirect=no "Talk:Sworm Drive")
 
 No pages link to here.
-

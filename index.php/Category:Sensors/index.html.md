@@ -1,14 +1,10 @@
 # Category:Sensors
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-[Sensors](Sensors "Sensors" ) are a fundamental part of the
-[control system](Control_system "Control system" ) in specific, and
-robotics in general.
-
-  
+[Sensors](Sensors "Sensors") are a fundamental part of the [control system](Control_system "Control system") in specific, and robotics in general.
 
 ## Articles in category "Sensors"
 
@@ -16,25 +12,24 @@ There are 6 articles in this category.
 
 ### A
 
-  * [Accelerometer](Accelerometer "Accelerometer" )
+- [Accelerometer](Accelerometer "Accelerometer")
 
 ### G
 
-  * [Gyro](gyro)
+- [Gyro](gyro)
 
 ### I
 
-  * [IR sensor](IR_sensor "IR sensor" )
+- [IR sensor](IR_sensor "IR sensor")
 
 ### L
 
-  * [Limit switch](Limit_switch "Limit switch" )
+- [Limit switch](Limit_switch "Limit switch")
 
 ### P
 
-  * [Potentiometer](Potentiometer "Potentiometer" )
+- [Potentiometer](Potentiometer "Potentiometer")
 
 ### S
 
-  * [Sensor](sensor)
-
+- [Sensor](sensor)

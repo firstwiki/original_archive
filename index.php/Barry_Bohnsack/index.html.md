@@ -1,6 +1,6 @@
 # Barry Bohnsack
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
@@ -8,11 +8,9 @@ Barry Bohnsack - Saint Cloud, Florida
 
 College mentor for FIRST Robotics, Vex, and Lego League Teams.
 
-Employed by Camp KSC teaching 2nd - 9th grade students,located on the grounds
-of the Kennedy Space Center
+Employed by Camp KSC teaching 2nd - 9th grade students,located on the grounds of the Kennedy Space Center
 
-2007 USA TODAY First Academic Team for Community Colleges (20 selected from
-over 1500 college nominations)
+2007 USA TODAY First Academic Team for Community Colleges (20 selected from over 1500 college nominations)
 
 2007 New Century Scholar (Top Scorer on the Florida Academic Team)
 
@@ -29,4 +27,3 @@ President's Freedom Award
 Raytheon FIRST Scholarship Winner
 
 Phi Theta Kappa Honor Society Senator of Membership - 5 Star Member
-

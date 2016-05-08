@@ -1,8 +1,7 @@
 # Talk:How-to
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 Why are there programming
-

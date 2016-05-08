@@ -1,76 +1,65 @@
-
-
 # FIRST Collegiate
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-| **Attention!**  
+| **Attention!**
 
-This article covers an essential topic and is in need of major additions
-and/or work.  
+This article covers an essential topic and is in need of major additions and/or work.<br>
 Please **[improve](http://www.firstwiki.net/index.php?title=FIRST_Collegiate&a
-ction=edit
-"http://www.firstwiki.net/index.php?title=FIRST_Collegiate&action=edit" )**
-this article.  
-  
----|---  
-  
-[![The FCC Logo](/media/thumb/9/95/FCC.png/300px-
-FCC.png)](Image:FCC.png "The FCC Logo" )
+ction=edit "http://www.firstwiki.net/index.php?title=FIRST_Collegiate&action=edit")** this article.
 
-[FIRST](first) Collegiate, or FCC started as a pilot
-program in 2011.
+---|---
+
+[![The FCC Logo](/media/thumb/9/95/FCC.png/300px-
+FCC.png)](Image:FCC.png "The FCC Logo")
+
+[FIRST](first) Collegiate, or FCC started as a pilot program in 2011.
 
 ## Contents
 
-  * 1 Robot Challenge
-    * 1.1 Current Challenge
-  * 2 Events
-    * 2.1 Awards
-  * 3 History
-    * 3.1 Previous Challenges
-    * 3.2 External Links  
----  
-  
+- 1 Robot Challenge
 
-#  Robot Challenge
+  - 1.1 Current Challenge
 
-This section needs to be filled in with more than statistics. If someone is
-willing to write for this section, please post here.
+- 2 Events
 
+  - 2.1 Awards
 
-##  Current Challenge
+- 3 History
 
-  * [2011 - "Triathlon"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
-    * [2011 - "First Flight"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
-    * [2011 - "All Your Bases"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
-    * [2011 - "The Best Trajectory"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011" )
+  - 3.1 Previous Challenges
+  - 3.2 External Links
 
+--------------------------------------------------------------------------------
 
-#  Events
+# Robot Challenge
 
-This section needs to be filled in with more than statistics. If someone is
-willing to write for this section, please post here.
+This section needs to be filled in with more than statistics. If someone is willing to write for this section, please post here.
 
+## Current Challenge
 
-##  Awards
+- [2011 - "Triathlon"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011")
 
-This section needs to be filled in with more than statistics. If someone is
-willing to write for this section, please post here.
+  - [2011 - "First Flight"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011")
+  - [2011 - "All Your Bases"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011")
+  - [2011 - "The Best Trajectory"](/index.php?title=FCC_Challenge_2011&action=edit "FCC Challenge 2011")
 
+# Events
 
-#  History
+This section needs to be filled in with more than statistics. If someone is willing to write for this section, please post here.
 
-This section needs to be filled in with more than statistics. If someone is
-willing to write for this section, please post here.
+## Awards
 
+This section needs to be filled in with more than statistics. If someone is willing to write for this section, please post here.
 
-##  Previous Challenges
+# History
+
+This section needs to be filled in with more than statistics. If someone is willing to write for this section, please post here.
+
+## Previous Challenges
 
 2011 Pilot year
 
-
-##  External Links
-
+## External Links

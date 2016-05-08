@@ -1,79 +1,66 @@
-
-
 # FLL Robot Set
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-Starting with the 2006 season, the official FLL Robot Set is now the
-Mindstorms NXT kit. This supercedes the previous Mindstorms kit (see Legacy
-Kit below). The old Mindstorms system can still be used, but new teams will
-not have the option to purchase them.
+Starting with the 2006 season, the official FLL Robot Set is now the Mindstorms NXT kit. This supercedes the previous Mindstorms kit (see Legacy Kit below). The old Mindstorms system can still be used, but new teams will not have the option to purchase them.
 
-The official kit can be purchased at the time of registering a team. It is
-very similar to the retail LEGO Mindstorms kit that can be purchased in toy
-stores with the addition of some specific parts and generally more plastic
-parts to support the needs of an FLL team.
+The official kit can be purchased at the time of registering a team. It is very similar to the retail LEGO Mindstorms kit that can be purchased in toy stores with the addition of some specific parts and generally more plastic parts to support the needs of an FLL team.
 
-**Important Note:** You are allowed to use LEGO pieces from almost all LEGO product lines so any LEGO your team already owns can most likely be used. There are some restrictions - see [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts" ) for details. 
+**Important Note:** You are allowed to use LEGO pieces from almost all LEGO product lines so any LEGO your team already owns can most likely be used. There are some restrictions - see [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts") for details.
 
 ## Contents
 
-  * 1 Official Kit of Parts
-    * 1.1 Inventory of the Kit
-  * 2 Legacy Kit (No longer sold, but still usable at competition
-    * 2.1 Inventory of the Kit
-  * 3 See Also:  
----  
-  
+- 1 Official Kit of Parts
+
+  - 1.1 Inventory of the Kit
+
+- 2 Legacy Kit (No longer sold, but still usable at competition
+
+  - 2.1 Inventory of the Kit
+
+- 3 See Also:
+
+--------------------------------------------------------------------------------
 
 # Official Kit of Parts
 
-
 ## Inventory of the Kit
 
-The kit for FLL is very similar to the retail Mindstorms NXT product (see
-[8527-1](http://peeron.com/inv/sets/8527-1 "http://peeron.com/inv/sets/8527-1"
-)). The FLL version has additional (and generally more) plastic parts. It also
-has more "electric" parts suitable for an FLL team. Here is the breakdown:
+The kit for FLL is very similar to the retail Mindstorms NXT product (see [8527-1](http://peeron.com/inv/sets/8527-1 "http://peeron.com/inv/sets/8527-1")). The FLL version has additional (and generally more) plastic parts. It also has more "electric" parts suitable for an FLL team. Here is the breakdown:
 
-  * NXT Educational Software (NXT-G): The PC- and MAC-compatible software interface has intuitive, icon-based drag and drop environment for "building" programs. Includes 40 interactive tutorials. It comes with an FLL Team license. 
-  * 1 Intelligent NXT Brick 
-  * 1 Rechargeable Battery 
-  * 1 Charger 
-  * 3 Interactive Servo Motors (rotation sensor built in) 
-  * 2 Touch Sensors 
-  * 1 Sound Sensor 
-  * 1 Light Sensor 
-  * 1 Ultrasonic Sensor 
-  * 1 USB Wire 
-  * 7 Connection cables, different lengths 
-  * 3 Lamps 
-  * 3 Converter cables (connects lamps stone and existing sensors/motor and NXT Brick) 
-  * Over 1,000 LEGO elements 
-  * Building Instructions (same as retail version) 
-  * 2 Storage Box with Sorting Trays 
-
+- NXT Educational Software (NXT-G): The PC- and MAC-compatible software interface has intuitive, icon-based drag and drop environment for "building" programs. Includes 40 interactive tutorials. It comes with an FLL Team license.
+- 1 Intelligent NXT Brick
+- 1 Rechargeable Battery
+- 1 Charger
+- 3 Interactive Servo Motors (rotation sensor built in)
+- 2 Touch Sensors
+- 1 Sound Sensor
+- 1 Light Sensor
+- 1 Ultrasonic Sensor
+- 1 USB Wire
+- 7 Connection cables, different lengths
+- 3 Lamps
+- 3 Converter cables (connects lamps stone and existing sensors/motor and NXT Brick)
+- Over 1,000 LEGO elements
+- Building Instructions (same as retail version)
+- 2 Storage Box with Sorting Trays
 
 # Legacy Kit (No longer sold, but still usable at competition
 
-
 ## Inventory of the Kit
 
-The kit contains all items in the [3804-1](http://peeron.com/inv/sets/3804-1
-"http://peeron.com/inv/sets/3804-1" ) plus...
+The kit contains all items in the [3804-1](http://peeron.com/inv/sets/3804-1 "http://peeron.com/inv/sets/3804-1") plus...
 
-  * 1 additional motor (total of 3) 
-  * 1 additional light sensor (total of 2) 
-  * 1 Rotation Sensor 
-  * Wires to go with above additional items 
-  * [RoboLab](RoboLab "RoboLab" ) software (in addition to the [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS" ) software) 
-  * A few extra plastic parts not normally in the retail kit 
-
+- 1 additional motor (total of 3)
+- 1 additional light sensor (total of 2)
+- 1 Rotation Sensor
+- Wires to go with above additional items
+- [RoboLab](RoboLab "RoboLab") software (in addition to the [Mindstorms RIS](/index.php?title=Mindstorms_RIS&action=edit "Mindstorms RIS") software)
+- A few extra plastic parts not normally in the retail kit
 
 # See Also:
 
-  * [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts" )
-  * [Programming (FLL)](Programming_%28FLL%29 "Programming \(FLL\)" )
-
+- [FLL Allowable Parts](FLL_Allowable_Parts "FLL Allowable Parts")
+- [Programming (FLL)](Programming_%28FLL%29 "Programming \(FLL\)")

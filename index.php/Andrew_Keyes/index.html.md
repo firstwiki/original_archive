@@ -1,9 +1,7 @@
 # User:Andrew
 
-### From FIRSTwiki
+## From FIRSTwiki
 
-(Redirected from [Andrew Keyes](/index.php?title=Andrew_Keyes&redirect=no
-"Andrew Keyes" ))
+(Redirected from [Andrew Keyes](/index.php?title=Andrew_Keyes&redirect=no "Andrew Keyes"))
 
 Jump to: navigation, search
-

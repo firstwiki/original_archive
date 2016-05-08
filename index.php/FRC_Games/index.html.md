@@ -1,13 +1,11 @@
 # Game
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (Redirected from [FRC Games](/index.php?title=FRC_Games&redirect=no "FRC
-Games" ))
+Games"))
 
 Jump to: navigation, search
 
-![#REDIRECT](/skins/common/images/redirectltr.png)[Game
-(disambiguation)](Game_%28disambiguation%29 "Game
-\(disambiguation\)" )
-
+![#REDIRECT](/skins/common/images/redirectltr.png)[Game (disambiguation)](Game_%28disambiguation%29 "Game
+\(disambiguation\)")

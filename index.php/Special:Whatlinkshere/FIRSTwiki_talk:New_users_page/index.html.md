@@ -1,14 +1,12 @@
 # FIRSTwiki talk:New users page
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [FIRSTwiki talk:New users
-page](/index.php?title=FIRSTwiki_talk:New_users_page&redirect=no "FIRSTwiki
-talk:New users page" )  
+< [FIRSTwiki talk:New users page](/index.php?title=FIRSTwiki_talk:New_users_page&redirect=no "FIRSTwiki
+talk:New users page")
 
 No pages link to here.
-

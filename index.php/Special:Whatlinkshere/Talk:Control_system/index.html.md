@@ -1,13 +1,11 @@
 # Talk:Control system
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Talk:Control system](/index.php?title=Talk:Control_system&redirect=no
-"Talk:Control system" )  
+< [Talk:Control system](/index.php?title=Talk:Control_system&redirect=no "Talk:Control system")
 
 No pages link to here.
-

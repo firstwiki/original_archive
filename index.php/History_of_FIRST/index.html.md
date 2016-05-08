@@ -1,22 +1,15 @@
-
-
 # History of FIRST
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-| **Attention!**  
+| **Attention!**
 
-This article covers an essential topic and is in need of major additions
-and/or work.  
+This article covers an essential topic and is in need of major additions and/or work.<br>
 Please **[improve](http://www.firstwiki.net/index.php?title=History_of_FIRST&a
-ction=edit
-"http://www.firstwiki.net/index.php?title=History_of_FIRST&action=edit" )**
-this article.  
-  
----|---  
-  
-  
-**The History of FIRST**
+ction=edit "http://www.firstwiki.net/index.php?title=History_of_FIRST&action=edit")** this article.
 
+---|---
+
+**The History of FIRST**

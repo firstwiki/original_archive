@@ -1,30 +1,23 @@
 # Sworm Drive
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 [![Team 269's 2007 CAD for their gearbox.](/media/thumb/8/82/CADswormdrive.jpg
 /180px-CADswormdrive.jpg)](Image:CADswormdrive.jpg "Team 269's 2007
-CAD for their gearbox." )
+CAD for their gearbox.")
 
 [![Enlarge](/skins/common/images/magnify-
-clip.png)](Image:CADswormdrive.jpg "Enlarge" )
+clip.png)](Image:CADswormdrive.jpg "Enlarge")
 
 Team 269's 2007 CAD for their gearbox.
 
-Sworm Drive is a drive system developed by team [269](269 "269" )
-in 2007.
+Sworm Drive is a drive system developed by team [269](269 "269") in 2007.
 
-This drive featured a four-wheel worm crab drive with a 15:1 gear ratio. It
-was powered by four CIM motors and used a window motor to move the cables in
-order to steer. The wheels on this drive system only turned 180 degrees,
-making it very difficult to program.
+This drive featured a four-wheel worm crab drive with a 15:1 gear ratio. It was powered by four CIM motors and used a window motor to move the cables in order to steer. The wheels on this drive system only turned 180 degrees, making it very difficult to program.
 
 [![Image:Swormdriveprototypeteam269.jpg](/media/7/79/Swormdriveprototypeteam26
-9.jpg)](Image:Swormdriveprototypeteam269.jpg
-"Image:Swormdriveprototypeteam269.jpg" )
+9.jpg)](Image:Swormdriveprototypeteam269.jpg "Image:Swormdriveprototypeteam269.jpg")
 
-Here you can see an early prototype of [269](269 "269" )'s
-pioneering drive system.
-
+Here you can see an early prototype of [269](269 "269")'s pioneering drive system.

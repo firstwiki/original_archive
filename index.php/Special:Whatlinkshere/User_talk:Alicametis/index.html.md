@@ -1,15 +1,11 @@
-
-
 # User talk:Alicametis
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User talk:Alicametis](/index.php?title=User_talk:Alicametis&redirect=no
-"User talk:Alicametis" )  
+< [User talk:Alicametis](/index.php?title=User_talk:Alicametis&redirect=no "User talk:Alicametis")
 
 No pages link to here.
-

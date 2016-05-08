@@ -1,6 +1,5 @@
 # Talk:Motors
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
-

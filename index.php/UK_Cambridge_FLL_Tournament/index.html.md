@@ -1,83 +1,76 @@
 # UK Cambridge FLL Tournament
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 ## Contents
 
-  * 1 Details
-  * 2 How to Register
-  * 3 History
-  * 4 Results  
----  
-  
+- 1 Details
+- 2 How to Register
+- 3 History
+- 4 Results
+
+--------------------------------------------------------------------------------
 
 ## Details
 
-  * **Established:** 2003? - (challenge name) 
-  * **Current Location**: Imperial War Museum, Duxford 
-  * **Primary Sponsors**: Hills Road Sixth Form College, Transitions 
-  * **Number of Teams Supported**: ~ 10 
-  * **Event Type:** Regional 
-  * **Official web site for tournament: **
-  * **Contact: **
-  * **FIRST Team Sponsors/Hosts: [Team 759 - Systemetric](759 "759" )**
-
+- **Established:** 2003? - (challenge name)
+- **Current Location**: Imperial War Museum, Duxford
+- **Primary Sponsors**: Hills Road Sixth Form College, Transitions
+- **Number of Teams Supported**: ~ 10
+- **Event Type:** Regional
+- **Official web site for tournament:** 
+- **Contact:** 
+- **FIRST Team Sponsors/Hosts: [Team 759 - Systemetric](759 "759")**
 
 ## How to Register
 
-[[edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit&section=3
-"Edit section: History" )]
+[[edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit&section=3 "Edit section: History")]
 
 ## History
 
-
 ## Results
 
-Retrieved from
-"<http://www.firstwiki.netUK_Cambridge_FLL_Tournament>"
+Retrieved from "<http://www.firstwiki.netUK_Cambridge_FLL_Tournament>"
 
 [Categories](/index.php?title=Special:Categories&article=UK_Cambridge_FLL_Tour
-nament "Special:Categories" ): [FLL UK
-Tournaments](Category:FLL_UK_Tournaments "Category:FLL UK
-Tournaments" ) | [759](Category:759 "Category:759" )
+nament "Special:Categories"): [FLL UK Tournaments](Category:FLL_UK_Tournaments "Category:FLL UK
+Tournaments") | [759](Category:759 "Category:759")
 
-##### Views
+### Views
 
-  * [Article](UK_Cambridge_FLL_Tournament)
-  * [Discussion](/index.php?title=Talk:UK_Cambridge_FLL_Tournament&action=edit)
-  * [Edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit)
-  * [History](/index.php?title=UK_Cambridge_FLL_Tournament&action=history)
+- [Article](UK_Cambridge_FLL_Tournament)
+- [Discussion](/index.php?title=Talk:UK_Cambridge_FLL_Tournament&action=edit)
+- [Edit](/index.php?title=UK_Cambridge_FLL_Tournament&action=edit)
+- [History](/index.php?title=UK_Cambridge_FLL_Tournament&action=history)
 
-##### Personal tools
+### Personal tools
 
-  * [Log in / create account](/index.php?title=Special:Userlogin&returnto=UK_Cambridge_FLL_Tournament)
+- [Log in / create account](/index.php?title=Special:Userlogin&returnto=UK_Cambridge_FLL_Tournament)
 
-[](Main_Page "Main Page" )
+[](Main_Page "Main Page")
 
-##### Navigation
+### Navigation
 
-  * [Main Page](Main_Page)
-  * [Community portal](FIRSTwiki:Community_portal)
-  * [Current events](Current_events)
-  * [Recent changes](Special:Recentchanges)
-  * [Random page](Special:Random)
-  * [Help](Help:Contents)
-  * [Donations](FIRSTwiki:Site_support)
+- [Main Page](Main_Page)
+- [Community portal](FIRSTwiki:Community_portal)
+- [Current events](Current_events)
+- [Recent changes](Special:Recentchanges)
+- [Random page](Special:Random)
+- [Help](Help:Contents)
+- [Donations](FIRSTwiki:Site_support)
 
-##### Search
+### Search
 
+### Toolbox
 
-
-##### Toolbox
-
-  * [What links here](Special:Whatlinkshere/UK_Cambridge_FLL_Tournament)
-  * [Related changes](Special:Recentchangeslinked/UK_Cambridge_FLL_Tournament)
-  * [Upload file](Special:Upload)
-  * [Special pages](Special:Specialpages)
-  * [Printable version](/index.php?title=UK_Cambridge_FLL_Tournament&printable=yes)
-  * [Permanent link](/index.php?title=UK_Cambridge_FLL_Tournament&oldid=54374)
+- [What links here](Special:Whatlinkshere/UK_Cambridge_FLL_Tournament)
+- [Related changes](Special:Recentchangeslinked/UK_Cambridge_FLL_Tournament)
+- [Upload file](Special:Upload)
+- [Special pages](Special:Specialpages)
+- [Printable version](/index.php?title=UK_Cambridge_FLL_Tournament&printable=yes)
+- [Permanent link](/index.php?title=UK_Cambridge_FLL_Tournament&oldid=54374)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -85,10 +78,9 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * This page was last modified 15:09, 3 February 2007.
-  * This page has been accessed 987 times.
-  * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
-
+- This page was last modified 15:09, 3 February 2007.
+- This page has been accessed 987 times.
+- Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html").
+- [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy")
+- [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About")
+- [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions")

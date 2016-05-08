@@ -1,15 +1,13 @@
 # Category:FLL teams from Virginia
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 This is a listing of FLL teams from Virginia, USA.
 
 _see also..._ [FLL Teams by Location](FLL_Teams_by_Location "FLL
-Teams by Location" )
-
-  
+Teams by Location")
 
 ## Articles in category "FLL teams from Virginia"
 
@@ -17,46 +15,43 @@ There is 1 article in this category.
 
 ### F
 
-  * [Fairfield Court Eaglebots](Fairfield_Court_Eaglebots "Fairfield Court Eaglebots" )
+- [Fairfield Court Eaglebots](Fairfield_Court_Eaglebots "Fairfield Court Eaglebots")
 
-Retrieved from
-"<http://www.firstwiki.netCategory:FLL_teams_from_Virginia>"
+Retrieved from "<http://www.firstwiki.netCategory:FLL_teams_from_Virginia>"
 
-##### Views
+#### Views
 
-  * [Category](Category:FLL_teams_from_Virginia)
-  * [Discussion](/index.php?title=Category_talk:FLL_teams_from_Virginia&action=edit)
-  * [Edit](/index.php?title=Category:FLL_teams_from_Virginia&action=edit)
-  * [History](/index.php?title=Category:FLL_teams_from_Virginia&action=history)
+- [Category](Category:FLL_teams_from_Virginia)
+- [Discussion](/index.php?title=Category_talk:FLL_teams_from_Virginia&action=edit)
+- [Edit](/index.php?title=Category:FLL_teams_from_Virginia&action=edit)
+- [History](/index.php?title=Category:FLL_teams_from_Virginia&action=history)
 
-##### Personal tools
+#### Personal tools
 
-  * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Category:FLL_teams_from_Virginia)
+- [Log in / create account](/index.php?title=Special:Userlogin&returnto=Category:FLL_teams_from_Virginia)
 
-[](Main_Page "Main Page" )
+[](Main_Page "Main Page")
 
-##### Navigation
+#### Navigation
 
-  * [Main Page](Main_Page)
-  * [Community portal](FIRSTwiki:Community_portal)
-  * [Current events](Current_events)
-  * [Recent changes](Special:Recentchanges)
-  * [Random page](Special:Random)
-  * [Help](Help:Contents)
-  * [Donations](FIRSTwiki:Site_support)
+- [Main Page](Main_Page)
+- [Community portal](FIRSTwiki:Community_portal)
+- [Current events](Current_events)
+- [Recent changes](Special:Recentchanges)
+- [Random page](Special:Random)
+- [Help](Help:Contents)
+- [Donations](FIRSTwiki:Site_support)
 
-##### Search
+#### Search
 
+#### Toolbox
 
-
-##### Toolbox
-
-  * [What links here](Special:Whatlinkshere/Category:FLL_teams_from_Virginia)
-  * [Related changes](Special:Recentchangeslinked/Category:FLL_teams_from_Virginia)
-  * [Upload file](Special:Upload)
-  * [Special pages](Special:Specialpages)
-  * [Printable version](/index.php?title=Category:FLL_teams_from_Virginia&printable=yes)
-  * [Permanent link](/index.php?title=Category:FLL_teams_from_Virginia&oldid=40635)
+- [What links here](Special:Whatlinkshere/Category:FLL_teams_from_Virginia)
+- [Related changes](Special:Recentchangeslinked/Category:FLL_teams_from_Virginia)
+- [Upload file](Special:Upload)
+- [Special pages](Special:Specialpages)
+- [Printable version](/index.php?title=Category:FLL_teams_from_Virginia&printable=yes)
+- [Permanent link](/index.php?title=Category:FLL_teams_from_Virginia&oldid=40635)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -64,10 +59,9 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * This page was last modified 17:55, 8 August 2005.
-  * This page has been accessed 440 times.
-  * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
-
+- This page was last modified 17:55, 8 August 2005.
+- This page has been accessed 440 times.
+- Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html").
+- [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy")
+- [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About")
+- [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions")

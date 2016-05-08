@@ -1,6 +1,6 @@
 # User:Devicenull
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
@@ -9,4 +9,3 @@ Jump to: navigation, search
 Brian Rak
 
 darkmage AT snet.net
-

@@ -1,13 +1,12 @@
 # User talk:Rex
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User talk:Rex](/index.php?title=User_talk:Rex&redirect=no "User
-talk:Rex" )  
+< [User talk:Rex](/index.php?title=User_talk:Rex&redirect=no "User
+talk:Rex")
 
 No pages link to here.
-

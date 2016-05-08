@@ -1,15 +1,12 @@
-
-
 # Pompy dozujące
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Pompy dozujące](/index.php?title=Pompy_dozuj%C4%85ce&redirect=no "Pompy
-dozujące" )  
+< [Pompy dozujące](/index.php?title=Pompy_dozuj%C4%85ce&redirect=no "Pompy
+dozujące")
 
 No pages link to here.
-

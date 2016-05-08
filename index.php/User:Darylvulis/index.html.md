@@ -1,8 +1,7 @@
 # User:Darylvulis
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
 I could have something about myself here.
-

@@ -1,16 +1,11 @@
-
-
 # User talk:Childrenbraces0
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User
-talk:Childrenbraces0](/index.php?title=User_talk:Childrenbraces0&redirect=no
-"User talk:Childrenbraces0" )  
+< [User talk:Childrenbraces0](/index.php?title=User_talk:Childrenbraces0&redirect=no "User talk:Childrenbraces0")
 
 No pages link to here.
-

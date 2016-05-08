@@ -1,6 +1,5 @@
 # Talk:MPLAB
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
-

@@ -1,15 +1,11 @@
-
-
 # User:Bungdwijaya
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User:Bungdwijaya](/index.php?title=User:Bungdwijaya&redirect=no
-"User:Bungdwijaya" )  
+< [User:Bungdwijaya](/index.php?title=User:Bungdwijaya&redirect=no "User:Bungdwijaya")
 
 No pages link to here.
-

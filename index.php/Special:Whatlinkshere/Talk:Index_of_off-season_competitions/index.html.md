@@ -1,14 +1,13 @@
 # Talk:Index of off-season competitions
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [Talk:Index of off-season competitions](/index.php?title=Talk
+< [Talk:Index of off-season competitions](/index.php?title=Talk
 :Index_of_off-season_competitions&redirect=no "Talk:Index of off-season
-competitions" )  
+competitions")
 
 No pages link to here.
-

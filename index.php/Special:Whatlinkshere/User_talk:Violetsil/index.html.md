@@ -1,15 +1,11 @@
-
-
 # User talk:Violetsil
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User talk:Violetsil](/index.php?title=User_talk:Violetsil&redirect=no
-"User talk:Violetsil" )  
+< [User talk:Violetsil](/index.php?title=User_talk:Violetsil&redirect=no "User talk:Violetsil")
 
 No pages link to here.
-

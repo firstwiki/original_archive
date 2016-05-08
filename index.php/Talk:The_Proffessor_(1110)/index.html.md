@@ -1,55 +1,49 @@
 # Talk:The Proffessor (1110)
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
 
-Is the spelling (proffessor) purposely incorrect?
---[SilverStar](User:SilverStar "User:SilverStar" ) 16:39, 29 May
-2004 (EDT)
+Is the spelling (proffessor) purposely incorrect? --[SilverStar](User:SilverStar "User:SilverStar") 16:39, 29 May 2004 (EDT)
 
-Looks like it from their website. --[Goobergunch](User:Goobergunch
-"User:Goobergunch" ) 16:41, 29 May 2004 (EDT)
+Looks like it from their website. --[Goobergunch](User:Goobergunch "User:Goobergunch") 16:41, 29 May 2004 (EDT)
 
-Retrieved from
-"<http://www.firstwiki.netTalk:The_Proffessor_%281110%29>"
+Retrieved from "<http://www.firstwiki.netTalk:The_Proffessor_%281110%29>"
 
-##### Views
+### Views
 
-  * [Article](The_Proffessor_%281110%29)
-  * [Discussion](Talk:The_Proffessor_%281110%29)
-  * [Edit](/index.php?title=Talk:The_Proffessor_%281110%29&action=edit)
-  * [+](/index.php?title=Talk:The_Proffessor_%281110%29&action=edit&section=new)
-  * [History](/index.php?title=Talk:The_Proffessor_%281110%29&action=history)
+- [Article](The_Proffessor_%281110%29)
+- [Discussion](Talk:The_Proffessor_%281110%29)
+- [Edit](/index.php?title=Talk:The_Proffessor_%281110%29&action=edit)
+- [+](/index.php?title=Talk:The_Proffessor_%281110%29&action=edit&section=new)
+- [History](/index.php?title=Talk:The_Proffessor_%281110%29&action=history)
 
-##### Personal tools
+### Personal tools
 
-  * [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:The_Proffessor_\(1110\))
+- [Log in / create account](/index.php?title=Special:Userlogin&returnto=Talk:The_Proffessor_\(1110\))
 
-[](Main_Page "Main Page" )
+[](Main_Page "Main Page")
 
-##### Navigation
+### Navigation
 
-  * [Main Page](Main_Page)
-  * [Community portal](FIRSTwiki:Community_portal)
-  * [Current events](Current_events)
-  * [Recent changes](Special:Recentchanges)
-  * [Random page](Special:Random)
-  * [Help](Help:Contents)
-  * [Donations](FIRSTwiki:Site_support)
+- [Main Page](Main_Page)
+- [Community portal](FIRSTwiki:Community_portal)
+- [Current events](Current_events)
+- [Recent changes](Special:Recentchanges)
+- [Random page](Special:Random)
+- [Help](Help:Contents)
+- [Donations](FIRSTwiki:Site_support)
 
-##### Search
+### Search
 
+### Toolbox
 
-
-##### Toolbox
-
-  * [What links here](Special:Whatlinkshere/Talk:The_Proffessor_%281110%29)
-  * [Related changes](Special:Recentchangeslinked/Talk:The_Proffessor_%281110%29)
-  * [Upload file](Special:Upload)
-  * [Special pages](Special:Specialpages)
-  * [Printable version](/index.php?title=Talk:The_Proffessor_%281110%29&printable=yes)
-  * [Permanent link](/index.php?title=Talk:The_Proffessor_%281110%29&oldid=37870)
+- [What links here](Special:Whatlinkshere/Talk:The_Proffessor_%281110%29)
+- [Related changes](Special:Recentchangeslinked/Talk:The_Proffessor_%281110%29)
+- [Upload file](Special:Upload)
+- [Special pages](Special:Specialpages)
+- [Printable version](/index.php?title=Talk:The_Proffessor_%281110%29&printable=yes)
+- [Permanent link](/index.php?title=Talk:The_Proffessor_%281110%29&oldid=37870)
 
 [![MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](http://www.
 mediawiki.org/)
@@ -57,10 +51,9 @@ mediawiki.org/)
 [![GNU Free Documentation License 1.2](/stylesheets/images/gnu-
 fdl.png)](http://www.gnu.org/copyleft/fdl.html)
 
-  * This page was last modified 20:41, 29 May 2004.
-  * This page has been accessed 236 times.
-  * Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html" ).
-  * [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy" )
-  * [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About" )
-  * [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions" )
-
+- This page was last modified 20:41, 29 May 2004.
+- This page has been accessed 236 times.
+- Content is available under [GNU Free Documentation License 1.2](http://www.gnu.org/copyleft/fdl.html "http://www.gnu.org/copyleft/fdl.html").
+- [Privacy policy](FIRSTwiki:Privacy_policy "FIRSTwiki:Privacy policy")
+- [About FIRSTwiki](FIRSTwiki:About "FIRSTwiki:About")
+- [Terms and Conditions](FIRSTwiki:Terms_and_conditions "FIRSTwiki:Terms and conditions")

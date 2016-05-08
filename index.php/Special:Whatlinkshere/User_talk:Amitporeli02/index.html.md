@@ -1,16 +1,12 @@
-
-
 # User talk:Amitporeli02
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [User
-talk:Amitporeli02](/index.php?title=User_talk:Amitporeli02&redirect=no "User
-talk:Amitporeli02" )  
+< [User talk:Amitporeli02](/index.php?title=User_talk:Amitporeli02&redirect=no "User
+talk:Amitporeli02")
 
 No pages link to here.
-

@@ -1,6 +1,5 @@
 # User:Tytyty
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 Jump to: navigation, search
-

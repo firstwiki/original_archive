@@ -1,14 +1,13 @@
 # FIRSTwiki talk:Nominations for adminship
 
-### From FIRSTwiki
+## From FIRSTwiki
 
 (List of links)
 
 Jump to: navigation, search
 
-&lt; [FIRSTwiki talk:Nominations for adminship](/index.php?title=FIRSTwiki_tal
+< [FIRSTwiki talk:Nominations for adminship](/index.php?title=FIRSTwiki_tal
 k:Nominations_for_adminship&redirect=no "FIRSTwiki talk:Nominations for
-adminship" )  
+adminship")
 
 No pages link to here.
-
